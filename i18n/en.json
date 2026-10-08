@@ -47,11 +47,8 @@
   "box_export": "Export to file",
   "box_import": "Import from file",
   "place_title": "Edible plants of this place",
-  "place_help": "Choose continent, region, then area. Distribution data from Kew's World Checklist of Vascular Plants.",
+  "place_help": "Choose a continent and a country. Distribution from Kew's World Checklist of Vascular Plants; country boundaries follow the TDWG scheme.",
   "place_continent": "Continent",
-  "place_region": "Region",
-  "place_area": "Area",
-  "place_any": "(any)",
   "place_native": "Edible plants native here",
   "place_introduced": "Edible plants introduced here (cultivated or naturalised)",
   "place_none": "Nothing in this box matches yet. It fills up as species are added.",
@@ -62,5 +59,12 @@
   "sources": "Sources",
   "names_label": "Common names",
   "photo_label": "Photo",
-  "flip_button": "Flip through photos"
+  "flip_button": "Flip through photos",
+  "place_country": "Country",
+  "cont_asia": "Asia",
+  "cont_africa": "Africa",
+  "cont_europe": "Europe",
+  "cont_north_america": "North America",
+  "cont_south_america": "South America",
+  "cont_oceania": "Oceania"
 }

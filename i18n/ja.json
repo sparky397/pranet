@@ -47,11 +47,8 @@
   "box_export": "ファイルに書き出す",
   "box_import": "ファイルから読み込む",
   "place_title": "この場所の食用植物",
-  "place_help": "大陸、地域、地区の順に選んでください。分布は Kew の World Checklist of Vascular Plants によります。",
-  "place_continent": "大陸",
-  "place_region": "地域",
-  "place_area": "地区",
-  "place_any": "（すべて）",
+  "place_help": "州と国を選んでください。分布は Kew の World Checklist of Vascular Plants、国の範囲は TDWG の区分によります。",
+  "place_continent": "州",
   "place_native": "ここに自生する食用植物",
   "place_introduced": "ここに導入されている食用植物（栽培・帰化）",
   "place_none": "この箱には、該当する植物がまだありません。種が増えると埋まります。",
@@ -62,5 +59,12 @@
   "sources": "出典",
   "names_label": "各国語の名前",
   "photo_label": "写真",
-  "flip_button": "写真でめくる"
+  "flip_button": "写真でめくる",
+  "place_country": "国",
+  "cont_asia": "アジア",
+  "cont_africa": "アフリカ",
+  "cont_europe": "ヨーロッパ",
+  "cont_north_america": "北アメリカ",
+  "cont_south_america": "南アメリカ",
+  "cont_oceania": "オセアニア"
 }

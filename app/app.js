@@ -29,7 +29,7 @@
     return n;
   };
 
-  let T = {}, species = [], packs = [], areas = null;
+  let T = {}, species = [], packs = [], places = null;
   const byId = new Map();
   let box = loadBox();
 
@@ -60,7 +60,7 @@
       species.push(...list);
     }
     species.sort((a, b) => a.scientific_name.localeCompare(b.scientific_name));
-    try { areas = await loadJSON(`${DATA_BASE}tdwg_areas.json`); } catch {}
+    try { places = await loadJSON(`${DATA_BASE}places.json`); } catch {}
     $("#pack-info").textContent = packs.map(p => t("pack_info", { title: pick(p.title), n: p.species_count, v: p.version })).join(" / ");
     $("#disclaimer").textContent = pick(packs[0]?.disclaimer);
     let lastQ = $("#q").value;
@@ -147,42 +147,58 @@
     wrap.addEventListener("scroll", () => { counter.textContent = `${Math.min(Math.round(wrap.scrollTop / wrap.clientHeight) + 1, list.length)} / ${list.length}`; }, { passive: true });
     main.append(wrap);
   }
-  // ---------- 場所 ----------
-  // 選んだ場所（大陸・地域・地区）と、そこに自生・導入されている食用植物
+  // ---------- 場所（州 → 国） ----------
+  const countryName = (() => {
+    let dn = null; try { dn = new Intl.DisplayNames([LANG, "en"], { type: "region" }); } catch {}
+    return iso => { try { return dn?.of(iso) || iso; } catch { return iso; } };
+  })();
+  // ブラウザの言語設定（例 ja-JP）から、最初に選んでおく国
+  function defaultCountry() {
+    if (!places) return null;
+    const m = (navigator.language || "").match(/-([A-Z]{2})$/i);
+    const iso = m?.[1]?.toUpperCase();
+    if (!iso) return null;
+    const cont = places.continents.find(c => c.countries.some(k => k.iso === iso));
+    return cont ? { c: cont.code, k: iso } : null;
+  }
+  // 選んだ場所と、そこに自生・導入されている食用植物
   function placeSelection(hash) {
     const p = new URLSearchParams(hash.split("?")[1] || "");
-    const sel = { c: p.get("c") || "", r: p.get("r") || "", a: p.get("a") || "" };
-    const cont = sel.c && areas ? areas.continents.find(c => c.code === sel.c) : null;
-    const reg = sel.r ? cont?.regions.find(r => r.code === sel.r) : null;
+    let sel = { c: p.get("c") || "", k: p.get("k") || "" };
+    if (!sel.c && !hash.includes("?")) sel = defaultCountry() || sel;
+    const cont = sel.c && places ? places.continents.find(c => c.code === sel.c) : null;
+    const country = sel.k && cont ? cont.countries.find(k => k.iso === sel.k) : null;
     let native = [], intro = [];
     if (cont) {
-      const codes = new Set((reg ? (sel.a ? reg.areas.filter(a => a.code === sel.a) : reg.areas) : cont.regions.flatMap(r => r.areas)).map(a => a.code));
+      const codes = new Set((country ? country.l3 : cont.countries.flatMap(k => k.l3)));
       const has = l => l.some(c => codes.has(c));
       const food = species.filter(s => s.edible?.is_food && s.distribution);
       native = food.filter(s => has(s.distribution.native));
       intro = food.filter(s => !has(s.distribution.native) && has(s.distribution.introduced));
     }
-    return { sel, cont, reg, native, intro, query: `c=${sel.c}&r=${sel.r}&a=${sel.a}` };
+    return { sel, cont, country, native, intro, query: `c=${sel.c}&k=${sel.k}` };
   }
   function renderPlace(main, hash) {
     main.append(el("h1", { class: "title", text: t("place_title") }));
-    if (!areas) return main.append(el("p", { class: "empty", text: t("no_data") }));
-    const { sel, cont, reg, native, intro } = placeSelection(hash);
-    const go = () => { location.hash = `#/place?c=${sel.c}&r=${sel.r}&a=${sel.a}`; };
+    if (!places) return main.append(el("p", { class: "empty", text: t("no_data") }));
+    const { sel, cont, native, intro, query } = placeSelection(hash);
+    const go = () => { location.hash = `#/place?c=${sel.c}&k=${sel.k}`; };
     const select = (label, opts, value, onchange) => {
       const s = el("select", { "aria-label": label, onchange: e => onchange(e.target.value) },
-        el("option", { value: "", text: label }), opts.map(o => el("option", { value: o.code, text: o.name })));
+        el("option", { value: "", text: label }), opts.map(o => el("option", { value: o.value, text: o.text })));
       s.value = value; return s;
     };
+    const countries = (cont?.countries || []).map(k => ({ value: k.iso, text: countryName(k.iso) }))
+      .filter(o => o.text !== o.value)  // ブラウザが国名を出せないコードは出さない
+      .sort((a, b) => a.text.localeCompare(b.text, LANG));
     main.append(el("div", { class: "place-pick" },
-      select(t("place_continent"), areas.continents, sel.c, v => { sel.c = v; sel.r = ""; sel.a = ""; go(); }),
-      cont && select(t("place_region"), cont.regions, sel.r, v => { sel.r = v; sel.a = ""; go(); }),
-      reg && select(t("place_area"), reg.areas, sel.a, v => { sel.a = v; go(); })));
+      select(t("place_continent"), places.continents.map(c => ({ value: c.code, text: t("cont_" + c.code) })), sel.c, v => { sel.c = v; sel.k = ""; go(); }),
+      cont && select(t("place_country"), countries, sel.k, v => { sel.k = v; go(); })));
     if (!cont) return main.append(el("p", { class: "status", text: t("place_help") }));
-    if (native.length + intro.length > 0) main.append(el("div", { class: "btnrow" }, el("a", { class: "btn", href: `#/flip/place?c=${sel.c}&r=${sel.r}&a=${sel.a}`, text: "⇅ " + t("flip_button") })));
+    if (native.length + intro.length > 0) main.append(el("div", { class: "btnrow" }, el("a", { class: "btn", href: `#/flip/place?${query}`, text: "⇅ " + t("flip_button") })));
     main.append(el("h2", { class: "sub", text: `${t("place_native")} · ${native.length}` }), native.length ? grid(native) : el("p", { class: "empty", text: t("place_none") }));
     main.append(el("h2", { class: "sub", text: `${t("place_introduced")} · ${intro.length}` }), intro.length ? grid(intro) : el("p", { class: "empty", text: t("place_none") }));
-    main.append(el("p", { class: "src" }, t("source_prefix"), link(areas.source_url, areas.source), " · ", areas.license));
+    main.append(el("p", { class: "src" }, t("source_prefix"), places.sources.flatMap((s, i) => [i > 0 && " · ", link(s.source_url, s.source), " · ", s.license])));
   }
 
   // ---------- 標本箱 ----------

@@ -32,6 +32,10 @@ python3 scripts/build_all.py "Oryza sativa"
 | 6 | `fetch_wcvp.py` | 分布、生活形、気候帯 | World Checklist of Vascular Plants | CC BY 3.0 |
 | 7 | `validate.py` | 出典・ライセンスの検査 | | |
 | 8 | `build_pack.py` | パックと作者一覧の生成 | | |
+| 別 | `build_areas.py` | 場所の一覧（TDWG の大陸・地域・地区） | WCVP の分布ファイル | CC BY 3.0 |
+| 別 | `build_places.py` | 州 → 国 → 地区の対応表（場所画面用） | TDWG WGSRPD レベル 4（CC BY 4.0）、Wikidata の国→大陸（CC0） | |
+
+`build_areas.py` と `build_places.py` は種のデータとは独立しているので、WCVP や TDWG の版が変わったときだけ実行すればよい。
 
 ## 分かっている限界
 

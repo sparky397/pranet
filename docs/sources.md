@@ -11,6 +11,8 @@ pranet が使うデータ元と、確認した日付・内容。詳しい条件�
 | Wikipedia | 冒頭要約と版 ID（日本語、無ければ英語） | https://ja.wikipedia.org/ ほか | 版 ID を記録 | CC BY-SA 4.0 | 2026-10-08（利用規約 第7条） |
 | Wikimedia Commons | 写真（ファイルごとに extmetadata で確認） | https://commons.wikimedia.org/ | ファイルごと | CC0 / CC BY / CC BY-SA / パブリックドメイン のみ | 2026-10-08（Commons:Licensing） |
 | iNaturalist | 写真（license_code が cc0 / cc-by のもののみ） | https://api.inaturalist.org/ | 写真ごと | CC0 / CC BY 4.0 | 2026-10-08 |
+| TDWG World Geographical Scheme for Recording Plant Distributions（WGSRPD）レベル 4 | 国（ISO コード）→ 地区の対応（場所画面の「国」） | https://github.com/tdwg/wgsrpd （tblLevel4.txt） | 第 2 版 | CC BY 4.0（TDWG のサイト表記） | 2026-10-08 |
+| Wikidata（国 → 大陸） | 国を 6 つの州に振り分ける | https://query.wikidata.org/ | 取得時点 | CC0 1.0 | 2026-10-08 |
 
 ## 使っていない・保留のデータ元
 
