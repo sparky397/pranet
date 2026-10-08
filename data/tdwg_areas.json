@@ -1,0 +1,1847 @@
+{
+  "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+  "source_url": "https://sftp.kew.org/pub/data-repositories/WCVP/",
+  "license": "CC BY 3.0",
+  "retrieved": "2026-10-08",
+  "scheme": "TDWG World Geographical Scheme for Recording Plant Distributions (level 1-3)",
+  "continents": [
+    {
+      "code": "1",
+      "name": "Europe",
+      "regions": [
+        {
+          "code": "14",
+          "name": "Eastern Europe",
+          "areas": [
+            {
+              "code": "BLT",
+              "name": "Baltic States"
+            },
+            {
+              "code": "BLR",
+              "name": "Belarus"
+            },
+            {
+              "code": "RUC",
+              "name": "Central European Russia"
+            },
+            {
+              "code": "RUE",
+              "name": "East European Russia"
+            },
+            {
+              "code": "KRY",
+              "name": "Krym"
+            },
+            {
+              "code": "RUN",
+              "name": "North European Russia"
+            },
+            {
+              "code": "RUW",
+              "name": "Northwest European Russia"
+            },
+            {
+              "code": "RUS",
+              "name": "South European Russia"
+            },
+            {
+              "code": "UKR",
+              "name": "Ukraine"
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "name": "Middle Europe",
+          "areas": [
+            {
+              "code": "AUT",
+              "name": "Austria"
+            },
+            {
+              "code": "BGM",
+              "name": "Belgium"
+            },
+            {
+              "code": "CZE",
+              "name": "Czechia-Slovakia"
+            },
+            {
+              "code": "GER",
+              "name": "Germany"
+            },
+            {
+              "code": "HUN",
+              "name": "Hungary"
+            },
+            {
+              "code": "NET",
+              "name": "Netherlands"
+            },
+            {
+              "code": "POL",
+              "name": "Poland"
+            },
+            {
+              "code": "SWI",
+              "name": "Switzerland"
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "name": "Northern Europe",
+          "areas": [
+            {
+              "code": "DEN",
+              "name": "Denmark"
+            },
+            {
+              "code": "FIN",
+              "name": "Finland"
+            },
+            {
+              "code": "FOR",
+              "name": "Føroyar"
+            },
+            {
+              "code": "GRB",
+              "name": "Great Britain"
+            },
+            {
+              "code": "ICE",
+              "name": "Iceland"
+            },
+            {
+              "code": "IRE",
+              "name": "Ireland"
+            },
+            {
+              "code": "NOR",
+              "name": "Norway"
+            },
+            {
+              "code": "SVA",
+              "name": "Svalbard"
+            },
+            {
+              "code": "SWE",
+              "name": "Sweden"
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "name": "Southeastern Europe",
+          "areas": [
+            {
+              "code": "ALB",
+              "name": "Albania"
+            },
+            {
+              "code": "BUL",
+              "name": "Bulgaria"
+            },
+            {
+              "code": "GRC",
+              "name": "Greece"
+            },
+            {
+              "code": "ITA",
+              "name": "Italy"
+            },
+            {
+              "code": "KRI",
+              "name": "Kriti"
+            },
+            {
+              "code": "YUG",
+              "name": "NW. Balkan Pen."
+            },
+            {
+              "code": "ROM",
+              "name": "Romania"
+            },
+            {
+              "code": "SIC",
+              "name": "Sicilia"
+            },
+            {
+              "code": "TUE",
+              "name": "Türkiye-in-Europe"
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "name": "Southwestern Europe",
+          "areas": [
+            {
+              "code": "BAL",
+              "name": "Baleares"
+            },
+            {
+              "code": "COR",
+              "name": "Corse"
+            },
+            {
+              "code": "FRA",
+              "name": "France"
+            },
+            {
+              "code": "POR",
+              "name": "Portugal"
+            },
+            {
+              "code": "SAR",
+              "name": "Sardegna"
+            },
+            {
+              "code": "SPA",
+              "name": "Spain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "2",
+      "name": "Africa",
+      "regions": [
+        {
+          "code": "25",
+          "name": "East Tropical Africa",
+          "areas": [
+            {
+              "code": "KEN",
+              "name": "Kenya"
+            },
+            {
+              "code": "TAN",
+              "name": "Tanzania"
+            },
+            {
+              "code": "UGA",
+              "name": "Uganda"
+            }
+          ]
+        },
+        {
+          "code": "21",
+          "name": "Macaronesia",
+          "areas": [
+            {
+              "code": "AZO",
+              "name": "Azores"
+            },
+            {
+              "code": "CNY",
+              "name": "Canary Is."
+            },
+            {
+              "code": "CVI",
+              "name": "Cape Verde"
+            },
+            {
+              "code": "MDR",
+              "name": "Madeira"
+            },
+            {
+              "code": "SEL",
+              "name": "Selvagens"
+            }
+          ]
+        },
+        {
+          "code": "28",
+          "name": "Middle Atlantic Ocean",
+          "areas": [
+            {
+              "code": "ASC",
+              "name": "Ascension"
+            },
+            {
+              "code": "STH",
+              "name": "St.Helena"
+            }
+          ]
+        },
+        {
+          "code": "24",
+          "name": "Northeast Tropical Africa",
+          "areas": [
+            {
+              "code": "CHA",
+              "name": "Chad"
+            },
+            {
+              "code": "DJI",
+              "name": "Djibouti"
+            },
+            {
+              "code": "ERI",
+              "name": "Eritrea"
+            },
+            {
+              "code": "ETH",
+              "name": "Ethiopia"
+            },
+            {
+              "code": "SOC",
+              "name": "Socotra"
+            },
+            {
+              "code": "SOM",
+              "name": "Somalia"
+            },
+            {
+              "code": "SUD",
+              "name": "Sudan-South Sudan"
+            }
+          ]
+        },
+        {
+          "code": "20",
+          "name": "Northern Africa",
+          "areas": [
+            {
+              "code": "ALG",
+              "name": "Algeria"
+            },
+            {
+              "code": "EGY",
+              "name": "Egypt"
+            },
+            {
+              "code": "LBY",
+              "name": "Libya"
+            },
+            {
+              "code": "MOR",
+              "name": "Morocco"
+            },
+            {
+              "code": "TUN",
+              "name": "Tunisia"
+            },
+            {
+              "code": "WSA",
+              "name": "Western Sahara"
+            }
+          ]
+        },
+        {
+          "code": "26",
+          "name": "South Tropical Africa",
+          "areas": [
+            {
+              "code": "ANG",
+              "name": "Angola"
+            },
+            {
+              "code": "MLW",
+              "name": "Malawi"
+            },
+            {
+              "code": "MOZ",
+              "name": "Mozambique"
+            },
+            {
+              "code": "ZAM",
+              "name": "Zambia"
+            },
+            {
+              "code": "ZIM",
+              "name": "Zimbabwe"
+            }
+          ]
+        },
+        {
+          "code": "27",
+          "name": "Southern Africa",
+          "areas": [
+            {
+              "code": "BOT",
+              "name": "Botswana"
+            },
+            {
+              "code": "CPP",
+              "name": "Cape Provinces"
+            },
+            {
+              "code": "CPV",
+              "name": "Caprivi Strip"
+            },
+            {
+              "code": "SWZ",
+              "name": "Eswatini"
+            },
+            {
+              "code": "OFS",
+              "name": "Free State"
+            },
+            {
+              "code": "NAT",
+              "name": "KwaZulu-Natal"
+            },
+            {
+              "code": "LES",
+              "name": "Lesotho"
+            },
+            {
+              "code": "NAM",
+              "name": "Namibia"
+            },
+            {
+              "code": "TVL",
+              "name": "Northern Provinces"
+            }
+          ]
+        },
+        {
+          "code": "22",
+          "name": "West Tropical Africa",
+          "areas": [
+            {
+              "code": "BEN",
+              "name": "Benin"
+            },
+            {
+              "code": "BKN",
+              "name": "Burkina"
+            },
+            {
+              "code": "GAM",
+              "name": "Gambia"
+            },
+            {
+              "code": "GHA",
+              "name": "Ghana"
+            },
+            {
+              "code": "GUI",
+              "name": "Guinea"
+            },
+            {
+              "code": "GNB",
+              "name": "Guinea-Bissau"
+            },
+            {
+              "code": "IVO",
+              "name": "Ivory Coast"
+            },
+            {
+              "code": "LBR",
+              "name": "Liberia"
+            },
+            {
+              "code": "MLI",
+              "name": "Mali"
+            },
+            {
+              "code": "MTN",
+              "name": "Mauritania"
+            },
+            {
+              "code": "NGR",
+              "name": "Niger"
+            },
+            {
+              "code": "NGA",
+              "name": "Nigeria"
+            },
+            {
+              "code": "SEN",
+              "name": "Senegal"
+            },
+            {
+              "code": "SIE",
+              "name": "Sierra Leone"
+            },
+            {
+              "code": "TOG",
+              "name": "Togo"
+            }
+          ]
+        },
+        {
+          "code": "23",
+          "name": "West-Central Tropical Africa",
+          "areas": [
+            {
+              "code": "BUR",
+              "name": "Burundi"
+            },
+            {
+              "code": "CAB",
+              "name": "Cabinda"
+            },
+            {
+              "code": "CMN",
+              "name": "Cameroon"
+            },
+            {
+              "code": "CAF",
+              "name": "Central African Republic"
+            },
+            {
+              "code": "CON",
+              "name": "Congo"
+            },
+            {
+              "code": "ZAI",
+              "name": "DR Congo"
+            },
+            {
+              "code": "EQG",
+              "name": "Equatorial Guinea"
+            },
+            {
+              "code": "GAB",
+              "name": "Gabon"
+            },
+            {
+              "code": "GGI",
+              "name": "Gulf of Guinea Is."
+            },
+            {
+              "code": "RWA",
+              "name": "Rwanda"
+            }
+          ]
+        },
+        {
+          "code": "29",
+          "name": "Western Indian Ocean",
+          "areas": [
+            {
+              "code": "ALD",
+              "name": "Aldabra"
+            },
+            {
+              "code": "CGS",
+              "name": "Chagos Archipelago"
+            },
+            {
+              "code": "COM",
+              "name": "Comoros"
+            },
+            {
+              "code": "MDG",
+              "name": "Madagascar"
+            },
+            {
+              "code": "MAU",
+              "name": "Mauritius"
+            },
+            {
+              "code": "MCI",
+              "name": "Mozambique Channel Is."
+            },
+            {
+              "code": "ROD",
+              "name": "Rodrigues"
+            },
+            {
+              "code": "REU",
+              "name": "Réunion"
+            },
+            {
+              "code": "SEY",
+              "name": "Seychelles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3",
+      "name": "Asia-Temperate",
+      "regions": [
+        {
+          "code": "35",
+          "name": "Arabian Peninsula",
+          "areas": [
+            {
+              "code": "GST",
+              "name": "Gulf States"
+            },
+            {
+              "code": "KUW",
+              "name": "Kuwait"
+            },
+            {
+              "code": "OMA",
+              "name": "Oman"
+            },
+            {
+              "code": "SAU",
+              "name": "Saudi Arabia"
+            },
+            {
+              "code": "YEM",
+              "name": "Yemen"
+            }
+          ]
+        },
+        {
+          "code": "33",
+          "name": "Caucasus",
+          "areas": [
+            {
+              "code": "NCS",
+              "name": "North Caucasus"
+            },
+            {
+              "code": "TCS",
+              "name": "Transcaucasus"
+            }
+          ]
+        },
+        {
+          "code": "32",
+          "name": "Central Asia",
+          "areas": [
+            {
+              "code": "KAZ",
+              "name": "Kazakhstan"
+            },
+            {
+              "code": "KGZ",
+              "name": "Kirgizstan"
+            },
+            {
+              "code": "TZK",
+              "name": "Tadzhikistan"
+            },
+            {
+              "code": "TKM",
+              "name": "Turkmenistan"
+            },
+            {
+              "code": "UZB",
+              "name": "Uzbekistan"
+            }
+          ]
+        },
+        {
+          "code": "36",
+          "name": "China",
+          "areas": [
+            {
+              "code": "CHN",
+              "name": "China North-Central"
+            },
+            {
+              "code": "CHC",
+              "name": "China South-Central"
+            },
+            {
+              "code": "CHS",
+              "name": "China Southeast"
+            },
+            {
+              "code": "CHH",
+              "name": "Hainan"
+            },
+            {
+              "code": "CHI",
+              "name": "Inner Mongolia"
+            },
+            {
+              "code": "CHM",
+              "name": "Manchuria"
+            },
+            {
+              "code": "CHQ",
+              "name": "Qinghai"
+            },
+            {
+              "code": "CHT",
+              "name": "Tibet"
+            },
+            {
+              "code": "CHX",
+              "name": "Xinjiang"
+            }
+          ]
+        },
+        {
+          "code": "38",
+          "name": "Eastern Asia",
+          "areas": [
+            {
+              "code": "JAP",
+              "name": "Japan"
+            },
+            {
+              "code": "KZN",
+              "name": "Kazan-retto"
+            },
+            {
+              "code": "KOR",
+              "name": "Korea"
+            },
+            {
+              "code": "NNS",
+              "name": "Nansei-shoto"
+            },
+            {
+              "code": "OGA",
+              "name": "Ogasawara-shoto"
+            },
+            {
+              "code": "TAI",
+              "name": "Taiwan"
+            }
+          ]
+        },
+        {
+          "code": "37",
+          "name": "Mongolia",
+          "areas": [
+            {
+              "code": "MON",
+              "name": "Mongolia"
+            }
+          ]
+        },
+        {
+          "code": "31",
+          "name": "Russian Far East",
+          "areas": [
+            {
+              "code": "AMU",
+              "name": "Amur"
+            },
+            {
+              "code": "KAM",
+              "name": "Kamchatka"
+            },
+            {
+              "code": "KHA",
+              "name": "Khabarovsk"
+            },
+            {
+              "code": "KUR",
+              "name": "Kuril Is."
+            },
+            {
+              "code": "MAG",
+              "name": "Magadan"
+            },
+            {
+              "code": "PRM",
+              "name": "Primorye"
+            },
+            {
+              "code": "SAK",
+              "name": "Sakhalin"
+            }
+          ]
+        },
+        {
+          "code": "30",
+          "name": "Siberia",
+          "areas": [
+            {
+              "code": "ALT",
+              "name": "Altay"
+            },
+            {
+              "code": "BRY",
+              "name": "Buryatiya"
+            },
+            {
+              "code": "CTA",
+              "name": "Chita"
+            },
+            {
+              "code": "IRK",
+              "name": "Irkutsk"
+            },
+            {
+              "code": "KRA",
+              "name": "Krasnoyarsk"
+            },
+            {
+              "code": "TVA",
+              "name": "Tuva"
+            },
+            {
+              "code": "WSB",
+              "name": "West Siberia"
+            },
+            {
+              "code": "YAK",
+              "name": "Yakutiya"
+            }
+          ]
+        },
+        {
+          "code": "34",
+          "name": "Western Asia",
+          "areas": [
+            {
+              "code": "AFG",
+              "name": "Afghanistan"
+            },
+            {
+              "code": "CYP",
+              "name": "Cyprus"
+            },
+            {
+              "code": "EAI",
+              "name": "East Aegean Is."
+            },
+            {
+              "code": "IRN",
+              "name": "Iran"
+            },
+            {
+              "code": "IRQ",
+              "name": "Iraq"
+            },
+            {
+              "code": "LBS",
+              "name": "Lebanon-Syria"
+            },
+            {
+              "code": "PAL",
+              "name": "Palestine"
+            },
+            {
+              "code": "SIN",
+              "name": "Sinai"
+            },
+            {
+              "code": "TUR",
+              "name": "Türkiye"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4",
+      "name": "Asia-Tropical",
+      "regions": [
+        {
+          "code": "40",
+          "name": "Indian Subcontinent",
+          "areas": [
+            {
+              "code": "ASS",
+              "name": "Assam"
+            },
+            {
+              "code": "BAN",
+              "name": "Bangladesh"
+            },
+            {
+              "code": "EHM",
+              "name": "East Himalaya"
+            },
+            {
+              "code": "IND",
+              "name": "India"
+            },
+            {
+              "code": "LDV",
+              "name": "Laccadive Is."
+            },
+            {
+              "code": "MDV",
+              "name": "Maldives"
+            },
+            {
+              "code": "NEP",
+              "name": "Nepal"
+            },
+            {
+              "code": "PAK",
+              "name": "Pakistan"
+            },
+            {
+              "code": "SRL",
+              "name": "Sri Lanka"
+            },
+            {
+              "code": "WHM",
+              "name": "West Himalaya"
+            }
+          ]
+        },
+        {
+          "code": "41",
+          "name": "Indo-China",
+          "areas": [
+            {
+              "code": "AND",
+              "name": "Andaman Is."
+            },
+            {
+              "code": "CBD",
+              "name": "Cambodia"
+            },
+            {
+              "code": "LAO",
+              "name": "Laos"
+            },
+            {
+              "code": "MYA",
+              "name": "Myanmar"
+            },
+            {
+              "code": "NCB",
+              "name": "Nicobar Is."
+            },
+            {
+              "code": "SCS",
+              "name": "South China Sea"
+            },
+            {
+              "code": "THA",
+              "name": "Thailand"
+            },
+            {
+              "code": "VIE",
+              "name": "Vietnam"
+            }
+          ]
+        },
+        {
+          "code": "42",
+          "name": "Malesia",
+          "areas": [
+            {
+              "code": "BOR",
+              "name": "Borneo"
+            },
+            {
+              "code": "XMS",
+              "name": "Christmas I."
+            },
+            {
+              "code": "CKI",
+              "name": "Cocos (Keeling) Is."
+            },
+            {
+              "code": "JAW",
+              "name": "Jawa"
+            },
+            {
+              "code": "LSI",
+              "name": "Lesser Sunda Is."
+            },
+            {
+              "code": "MLY",
+              "name": "Malaya"
+            },
+            {
+              "code": "MOL",
+              "name": "Maluku"
+            },
+            {
+              "code": "PHI",
+              "name": "Philippines"
+            },
+            {
+              "code": "SUL",
+              "name": "Sulawesi"
+            },
+            {
+              "code": "SUM",
+              "name": "Sumatera"
+            }
+          ]
+        },
+        {
+          "code": "43",
+          "name": "Papuasia",
+          "areas": [
+            {
+              "code": "BIS",
+              "name": "Bismarck Archipelago"
+            },
+            {
+              "code": "NWG",
+              "name": "New Guinea"
+            },
+            {
+              "code": "SOL",
+              "name": "Solomon Is."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "5",
+      "name": "Australasia",
+      "regions": [
+        {
+          "code": "50",
+          "name": "Australia",
+          "areas": [
+            {
+              "code": "NSW",
+              "name": "New South Wales"
+            },
+            {
+              "code": "NFK",
+              "name": "Norfolk Is."
+            },
+            {
+              "code": "NTA",
+              "name": "Northern Territory"
+            },
+            {
+              "code": "QLD",
+              "name": "Queensland"
+            },
+            {
+              "code": "SOA",
+              "name": "South Australia"
+            },
+            {
+              "code": "TAS",
+              "name": "Tasmania"
+            },
+            {
+              "code": "VIC",
+              "name": "Victoria"
+            },
+            {
+              "code": "WAU",
+              "name": "Western Australia"
+            }
+          ]
+        },
+        {
+          "code": "51",
+          "name": "New Zealand",
+          "areas": [
+            {
+              "code": "ATP",
+              "name": "Antipodean Is."
+            },
+            {
+              "code": "CTM",
+              "name": "Chatham Is."
+            },
+            {
+              "code": "KER",
+              "name": "Kermadec Is."
+            },
+            {
+              "code": "NZN",
+              "name": "New Zealand North"
+            },
+            {
+              "code": "NZS",
+              "name": "New Zealand South"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "6",
+      "name": "Pacific",
+      "regions": [
+        {
+          "code": "63",
+          "name": "North-Central Pacific",
+          "areas": [
+            {
+              "code": "HAW",
+              "name": "Hawaii"
+            }
+          ]
+        },
+        {
+          "code": "62",
+          "name": "Northwestern Pacific",
+          "areas": [
+            {
+              "code": "CRL",
+              "name": "Caroline Is."
+            },
+            {
+              "code": "MCS",
+              "name": "Marcus I."
+            },
+            {
+              "code": "MRN",
+              "name": "Marianas"
+            },
+            {
+              "code": "MRS",
+              "name": "Marshall Is."
+            },
+            {
+              "code": "WAK",
+              "name": "Wake I."
+            }
+          ]
+        },
+        {
+          "code": "61",
+          "name": "South-Central Pacific",
+          "areas": [
+            {
+              "code": "COO",
+              "name": "Cook Is."
+            },
+            {
+              "code": "EAS",
+              "name": "Easter Is."
+            },
+            {
+              "code": "LIN",
+              "name": "Line Is."
+            },
+            {
+              "code": "MRQ",
+              "name": "Marquesas"
+            },
+            {
+              "code": "PIT",
+              "name": "Pitcairn Is."
+            },
+            {
+              "code": "SCI",
+              "name": "Society Is."
+            },
+            {
+              "code": "TUA",
+              "name": "Tuamotu"
+            },
+            {
+              "code": "TUB",
+              "name": "Tubuai Is."
+            }
+          ]
+        },
+        {
+          "code": "60",
+          "name": "Southwestern Pacific",
+          "areas": [
+            {
+              "code": "FIJ",
+              "name": "Fiji"
+            },
+            {
+              "code": "GIL",
+              "name": "Gilbert Is."
+            },
+            {
+              "code": "HBI",
+              "name": "Howland-Baker Is."
+            },
+            {
+              "code": "NRU",
+              "name": "Nauru"
+            },
+            {
+              "code": "NWC",
+              "name": "New Caledonia"
+            },
+            {
+              "code": "NUE",
+              "name": "Niue"
+            },
+            {
+              "code": "PHX",
+              "name": "Phoenix Is."
+            },
+            {
+              "code": "SAM",
+              "name": "Samoa"
+            },
+            {
+              "code": "SCZ",
+              "name": "Santa Cruz Is."
+            },
+            {
+              "code": "TOK",
+              "name": "Tokelau-Manihiki"
+            },
+            {
+              "code": "TON",
+              "name": "Tonga"
+            },
+            {
+              "code": "TUV",
+              "name": "Tuvalu"
+            },
+            {
+              "code": "VAN",
+              "name": "Vanuatu"
+            },
+            {
+              "code": "WAL",
+              "name": "Wallis-Futuna Is."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7",
+      "name": "Northern America",
+      "regions": [
+        {
+          "code": "72",
+          "name": "Eastern Canada",
+          "areas": [
+            {
+              "code": "LAB",
+              "name": "Labrador"
+            },
+            {
+              "code": "NBR",
+              "name": "New Brunswick"
+            },
+            {
+              "code": "NFL",
+              "name": "Newfoundland"
+            },
+            {
+              "code": "NSC",
+              "name": "Nova Scotia"
+            },
+            {
+              "code": "ONT",
+              "name": "Ontario"
+            },
+            {
+              "code": "PEI",
+              "name": "Prince Edward I."
+            },
+            {
+              "code": "QUE",
+              "name": "Québec"
+            }
+          ]
+        },
+        {
+          "code": "79",
+          "name": "Mexico",
+          "areas": [
+            {
+              "code": "MXI",
+              "name": "Mexican Pacific Is."
+            },
+            {
+              "code": "MXC",
+              "name": "Mexico Central"
+            },
+            {
+              "code": "MXG",
+              "name": "Mexico Gulf"
+            },
+            {
+              "code": "MXE",
+              "name": "Mexico Northeast"
+            },
+            {
+              "code": "MXN",
+              "name": "Mexico Northwest"
+            },
+            {
+              "code": "MXT",
+              "name": "Mexico Southeast"
+            },
+            {
+              "code": "MXS",
+              "name": "Mexico Southwest"
+            }
+          ]
+        },
+        {
+          "code": "74",
+          "name": "North-Central U.S.A.",
+          "areas": [
+            {
+              "code": "ILL",
+              "name": "Illinois"
+            },
+            {
+              "code": "IOW",
+              "name": "Iowa"
+            },
+            {
+              "code": "KAN",
+              "name": "Kansas"
+            },
+            {
+              "code": "MIN",
+              "name": "Minnesota"
+            },
+            {
+              "code": "MSO",
+              "name": "Missouri"
+            },
+            {
+              "code": "NEB",
+              "name": "Nebraska"
+            },
+            {
+              "code": "NDA",
+              "name": "North Dakota"
+            },
+            {
+              "code": "OKL",
+              "name": "Oklahoma"
+            },
+            {
+              "code": "SDA",
+              "name": "South Dakota"
+            },
+            {
+              "code": "WIS",
+              "name": "Wisconsin"
+            }
+          ]
+        },
+        {
+          "code": "75",
+          "name": "Northeastern U.S.A.",
+          "areas": [
+            {
+              "code": "CNT",
+              "name": "Connecticut"
+            },
+            {
+              "code": "INI",
+              "name": "Indiana"
+            },
+            {
+              "code": "MAI",
+              "name": "Maine"
+            },
+            {
+              "code": "MAS",
+              "name": "Massachusetts"
+            },
+            {
+              "code": "MIC",
+              "name": "Michigan"
+            },
+            {
+              "code": "NWH",
+              "name": "New Hampshire"
+            },
+            {
+              "code": "NWJ",
+              "name": "New Jersey"
+            },
+            {
+              "code": "NWY",
+              "name": "New York"
+            },
+            {
+              "code": "OHI",
+              "name": "Ohio"
+            },
+            {
+              "code": "PEN",
+              "name": "Pennsylvania"
+            },
+            {
+              "code": "RHO",
+              "name": "Rhode I."
+            },
+            {
+              "code": "VER",
+              "name": "Vermont"
+            },
+            {
+              "code": "WVA",
+              "name": "West Virginia"
+            }
+          ]
+        },
+        {
+          "code": "73",
+          "name": "Northwestern U.S.A.",
+          "areas": [
+            {
+              "code": "COL",
+              "name": "Colorado"
+            },
+            {
+              "code": "IDA",
+              "name": "Idaho"
+            },
+            {
+              "code": "MNT",
+              "name": "Montana"
+            },
+            {
+              "code": "ORE",
+              "name": "Oregon"
+            },
+            {
+              "code": "WAS",
+              "name": "Washington"
+            },
+            {
+              "code": "WYO",
+              "name": "Wyoming"
+            }
+          ]
+        },
+        {
+          "code": "77",
+          "name": "South-Central U.S.A.",
+          "areas": [
+            {
+              "code": "NWM",
+              "name": "New Mexico"
+            },
+            {
+              "code": "TEX",
+              "name": "Texas"
+            }
+          ]
+        },
+        {
+          "code": "78",
+          "name": "Southeastern U.S.A.",
+          "areas": [
+            {
+              "code": "ALA",
+              "name": "Alabama"
+            },
+            {
+              "code": "ARK",
+              "name": "Arkansas"
+            },
+            {
+              "code": "DEL",
+              "name": "Delaware"
+            },
+            {
+              "code": "WDC",
+              "name": "District of Columbia"
+            },
+            {
+              "code": "FLA",
+              "name": "Florida"
+            },
+            {
+              "code": "GEO",
+              "name": "Georgia"
+            },
+            {
+              "code": "KTY",
+              "name": "Kentucky"
+            },
+            {
+              "code": "LOU",
+              "name": "Louisiana"
+            },
+            {
+              "code": "MRY",
+              "name": "Maryland"
+            },
+            {
+              "code": "MSI",
+              "name": "Mississippi"
+            },
+            {
+              "code": "NCA",
+              "name": "North Carolina"
+            },
+            {
+              "code": "SCA",
+              "name": "South Carolina"
+            },
+            {
+              "code": "TEN",
+              "name": "Tennessee"
+            },
+            {
+              "code": "VRG",
+              "name": "Virginia"
+            }
+          ]
+        },
+        {
+          "code": "76",
+          "name": "Southwestern U.S.A.",
+          "areas": [
+            {
+              "code": "ARI",
+              "name": "Arizona"
+            },
+            {
+              "code": "CAL",
+              "name": "California"
+            },
+            {
+              "code": "NEV",
+              "name": "Nevada"
+            },
+            {
+              "code": "UTA",
+              "name": "Utah"
+            }
+          ]
+        },
+        {
+          "code": "70",
+          "name": "Subarctic America",
+          "areas": [
+            {
+              "code": "ASK",
+              "name": "Alaska"
+            },
+            {
+              "code": "ALU",
+              "name": "Aleutian Is."
+            },
+            {
+              "code": "GNL",
+              "name": "Greenland"
+            },
+            {
+              "code": "NWT",
+              "name": "Northwest Territories"
+            },
+            {
+              "code": "NUN",
+              "name": "Nunavut"
+            },
+            {
+              "code": "YUK",
+              "name": "Yukon"
+            }
+          ]
+        },
+        {
+          "code": "71",
+          "name": "Western Canada",
+          "areas": [
+            {
+              "code": "ABT",
+              "name": "Alberta"
+            },
+            {
+              "code": "BRC",
+              "name": "British Columbia"
+            },
+            {
+              "code": "MAN",
+              "name": "Manitoba"
+            },
+            {
+              "code": "SAS",
+              "name": "Saskatchewan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "8",
+      "name": "Southern America",
+      "regions": [
+        {
+          "code": "84",
+          "name": "Brazil",
+          "areas": [
+            {
+              "code": "BZN",
+              "name": "Brazil North"
+            },
+            {
+              "code": "BZE",
+              "name": "Brazil Northeast"
+            },
+            {
+              "code": "BZS",
+              "name": "Brazil South"
+            },
+            {
+              "code": "BZL",
+              "name": "Brazil Southeast"
+            },
+            {
+              "code": "BZC",
+              "name": "Brazil West-Central"
+            }
+          ]
+        },
+        {
+          "code": "81",
+          "name": "Caribbean",
+          "areas": [
+            {
+              "code": "ARU",
+              "name": "Aruba"
+            },
+            {
+              "code": "BAH",
+              "name": "Bahamas"
+            },
+            {
+              "code": "BER",
+              "name": "Bermuda"
+            },
+            {
+              "code": "CAY",
+              "name": "Cayman Is."
+            },
+            {
+              "code": "CUB",
+              "name": "Cuba"
+            },
+            {
+              "code": "DOM",
+              "name": "Dominican Republic"
+            },
+            {
+              "code": "HAI",
+              "name": "Haiti"
+            },
+            {
+              "code": "JAM",
+              "name": "Jamaica"
+            },
+            {
+              "code": "LEE",
+              "name": "Leeward Is."
+            },
+            {
+              "code": "NLA",
+              "name": "Netherlands Antilles"
+            },
+            {
+              "code": "PUE",
+              "name": "Puerto Rico"
+            },
+            {
+              "code": "SWC",
+              "name": "Southwest Caribbean"
+            },
+            {
+              "code": "TRT",
+              "name": "Trinidad-Tobago"
+            },
+            {
+              "code": "TCI",
+              "name": "Turks-Caicos Is."
+            },
+            {
+              "code": "VNA",
+              "name": "Venezuelan Antilles"
+            },
+            {
+              "code": "WIN",
+              "name": "Windward Is."
+            }
+          ]
+        },
+        {
+          "code": "80",
+          "name": "Central America",
+          "areas": [
+            {
+              "code": "BLZ",
+              "name": "Belize"
+            },
+            {
+              "code": "CPI",
+              "name": "Central American Pacific Is."
+            },
+            {
+              "code": "COS",
+              "name": "Costa Rica"
+            },
+            {
+              "code": "ELS",
+              "name": "El Salvador"
+            },
+            {
+              "code": "GUA",
+              "name": "Guatemala"
+            },
+            {
+              "code": "HON",
+              "name": "Honduras"
+            },
+            {
+              "code": "NIC",
+              "name": "Nicaragua"
+            },
+            {
+              "code": "PAN",
+              "name": "Panamá"
+            }
+          ]
+        },
+        {
+          "code": "82",
+          "name": "Northern South America",
+          "areas": [
+            {
+              "code": "FRG",
+              "name": "French Guiana"
+            },
+            {
+              "code": "GUY",
+              "name": "Guyana"
+            },
+            {
+              "code": "SUR",
+              "name": "Suriname"
+            },
+            {
+              "code": "VEN",
+              "name": "Venezuela"
+            }
+          ]
+        },
+        {
+          "code": "85",
+          "name": "Southern South America",
+          "areas": [
+            {
+              "code": "AGE",
+              "name": "Argentina Northeast"
+            },
+            {
+              "code": "AGW",
+              "name": "Argentina Northwest"
+            },
+            {
+              "code": "AGS",
+              "name": "Argentina South"
+            },
+            {
+              "code": "CLC",
+              "name": "Chile Central"
+            },
+            {
+              "code": "CLN",
+              "name": "Chile North"
+            },
+            {
+              "code": "CLS",
+              "name": "Chile South"
+            },
+            {
+              "code": "DSV",
+              "name": "Desventurados Is."
+            },
+            {
+              "code": "JNF",
+              "name": "Juan Fernández Is."
+            },
+            {
+              "code": "PAR",
+              "name": "Paraguay"
+            },
+            {
+              "code": "URU",
+              "name": "Uruguay"
+            }
+          ]
+        },
+        {
+          "code": "83",
+          "name": "Western South America",
+          "areas": [
+            {
+              "code": "BOL",
+              "name": "Bolivia"
+            },
+            {
+              "code": "CLM",
+              "name": "Colombia"
+            },
+            {
+              "code": "ECU",
+              "name": "Ecuador"
+            },
+            {
+              "code": "GAL",
+              "name": "Galápagos"
+            },
+            {
+              "code": "PER",
+              "name": "Peru"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "9",
+      "name": "Antarctica",
+      "regions": [
+        {
+          "code": "91",
+          "name": "Antarctic Continent",
+          "areas": [
+            {
+              "code": "ANT",
+              "name": "Antarctica"
+            }
+          ]
+        },
+        {
+          "code": "90",
+          "name": "Subantarctic Islands",
+          "areas": [
+            {
+              "code": "ASP",
+              "name": "Amsterdam-St.Paul Is."
+            },
+            {
+              "code": "CRZ",
+              "name": "Crozet Is."
+            },
+            {
+              "code": "FAL",
+              "name": "Falkland Is."
+            },
+            {
+              "code": "HMD",
+              "name": "Heard-McDonald Is."
+            },
+            {
+              "code": "KEG",
+              "name": "Kerguelen"
+            },
+            {
+              "code": "MAQ",
+              "name": "Macquarie Is."
+            },
+            {
+              "code": "MPE",
+              "name": "Marion-Prince Edward Is."
+            },
+            {
+              "code": "SGE",
+              "name": "South Georgia"
+            },
+            {
+              "code": "SSA",
+              "name": "South Sandwich Is."
+            },
+            {
+              "code": "TDC",
+              "name": "Tristan da Cunha"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
