@@ -36,6 +36,12 @@ python3 scripts/build_all.py "Oryza sativa"
 | 別 | `build_places.py` | 州 → 国 → 地区の対応表（場所画面用） | TDWG WGSRPD レベル 4（CC BY 4.0）、Wikidata の国→大陸（CC0） | |
 
 `build_areas.py` と `build_places.py` は種のデータとは独立しているので、WCVP や TDWG の版が変わったときだけ実行すればよい。
+`make_icons.py` はホーム画面用のアイコン（app/icons/）を描く。図柄を変えたときだけ実行する。
+
+## 新しい版を公開するとき
+
+1. データを作り直したら `app/sw.js` の `APP_VERSION` を上げる（利用者の端末の保存を更新させるため）。
+2. commit して push する。GitHub Pages が数分で反映する。
 
 ## 分かっている限界
 

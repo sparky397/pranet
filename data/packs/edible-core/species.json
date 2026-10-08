@@ -20,11 +20,23 @@
     "wikidata": "Q11006",
     "names": {
       "ja": [
-        "ダイズ",
+        "ダイズ"
+      ],
+      "en": [
+        "soybean"
+      ]
+    },
+    "names_source": {
+      "source": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11006",
+      "license": "CC0 1.0",
+      "retrieved": "2026-10-08"
+    },
+    "search_names": {
+      "ja": [
         "大豆"
       ],
       "en": [
-        "soybean",
         "soya bean plant",
         "soybean plant",
         "soy bean plant",
@@ -33,12 +45,6 @@
         "soya",
         "soybeans"
       ]
-    },
-    "names_source": {
-      "source": "Wikidata",
-      "source_url": "https://www.wikidata.org/wiki/Q11006",
-      "license": "CC0 1.0",
-      "retrieved": "2026-10-08"
     },
     "description": {
       "ja": {
@@ -62,6 +68,16 @@
     },
     "edible": {
       "is_food": true,
+      "use_codes": [
+        "AF",
+        "EU",
+        "FU",
+        "GS",
+        "HF",
+        "MA",
+        "ME",
+        "PO"
+      ],
       "uses": [
         "animal food",
         "environmental uses",
@@ -291,7 +307,20 @@
     "wikidata": "Q37937",
     "names": {
       "ja": [
-        "サツマイモ",
+        "サツマイモ"
+      ],
+      "en": [
+        "sweet potato"
+      ]
+    },
+    "names_source": {
+      "source": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q37937",
+      "license": "CC0 1.0",
+      "retrieved": "2026-10-08"
+    },
+    "search_names": {
+      "ja": [
         "甘藷",
         "さつまいも",
         "シロユタカ",
@@ -309,15 +338,8 @@
         "シモンイモ"
       ],
       "en": [
-        "sweet potato",
         "potato"
       ]
-    },
-    "names_source": {
-      "source": "Wikidata",
-      "source_url": "https://www.wikidata.org/wiki/Q37937",
-      "license": "CC0 1.0",
-      "retrieved": "2026-10-08"
     },
     "description": {
       "ja": {
@@ -341,6 +363,16 @@
     },
     "edible": {
       "is_food": true,
+      "use_codes": [
+        "AF",
+        "EU",
+        "GS",
+        "HF",
+        "MA",
+        "ME",
+        "PO",
+        "SU"
+      ],
       "uses": [
         "animal food",
         "environmental uses",
@@ -800,12 +832,7 @@
     "wikidata": "Q18674606",
     "names": {
       "ja": [
-        "セイヨウリンゴ",
-        "西洋林檎",
-        "リンゴ"
-      ],
-      "en": [
-        "apple tree"
+        "セイヨウリンゴ"
       ]
     },
     "names_source": {
@@ -813,6 +840,15 @@
       "source_url": "https://www.wikidata.org/wiki/Q18674606",
       "license": "CC0 1.0",
       "retrieved": "2026-10-08"
+    },
+    "search_names": {
+      "ja": [
+        "西洋林檎",
+        "リンゴ"
+      ],
+      "en": [
+        "apple tree"
+      ]
     },
     "description": {
       "ja": {
@@ -836,6 +872,16 @@
     },
     "edible": {
       "is_food": true,
+      "use_codes": [
+        "EU",
+        "FU",
+        "GS",
+        "HF",
+        "MA",
+        "ME",
+        "PO",
+        "SU"
+      ],
       "uses": [
         "environmental uses",
         "fuels",
@@ -1150,7 +1196,26 @@
     "wikidata": "Q83124",
     "names": {
       "ja": [
-        "キャッサバ",
+        "キャッサバ"
+      ],
+      "en": [
+        "cassava",
+        "Manioc",
+        "kiki-tsiim",
+        "Bitter Cassava",
+        "Manoic",
+        "Tapioca",
+        "Tapioca Plant"
+      ]
+    },
+    "names_source": {
+      "source": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q83124",
+      "license": "CC0 1.0",
+      "retrieved": "2026-10-08"
+    },
+    "search_names": {
+      "ja": [
         "マンジョーカ",
         "キャサバ",
         "ユカイモ",
@@ -1163,22 +1228,9 @@
         "キャッサヴァ"
       ],
       "en": [
-        "cassava",
-        "Manioc",
-        "kiki-tsiim",
-        "Bitter Cassava",
-        "Manoic",
-        "Tapioca",
-        "Tapioca Plant",
         "mandioca",
         "cassava plant"
       ]
-    },
-    "names_source": {
-      "source": "Wikidata",
-      "source_url": "https://www.wikidata.org/wiki/Q83124",
-      "license": "CC0 1.0",
-      "retrieved": "2026-10-08"
     },
     "description": {
       "ja": {
@@ -1202,6 +1254,18 @@
     },
     "edible": {
       "is_food": true,
+      "use_codes": [
+        "AF",
+        "EU",
+        "FU",
+        "GS",
+        "HF",
+        "IF",
+        "MA",
+        "ME",
+        "PO",
+        "SU"
+      ],
       "uses": [
         "animal food",
         "environmental uses",
@@ -1484,6 +1548,14 @@
     },
     "edible": {
       "is_food": true,
+      "use_codes": [
+        "AF",
+        "GS",
+        "HF",
+        "MA",
+        "ME",
+        "SU"
+      ],
       "uses": [
         "animal food",
         "gene sources",
@@ -1644,7 +1716,20 @@
     "wikidata": "Q161426",
     "names": {
       "ja": [
-        "イネ",
+        "イネ"
+      ],
+      "en": [
+        "rice"
+      ]
+    },
+    "names_source": {
+      "source": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q161426",
+      "license": "CC0 1.0",
+      "retrieved": "2026-10-08"
+    },
+    "search_names": {
+      "ja": [
         "禾",
         "稲",
         "稲穂",
@@ -1655,15 +1740,8 @@
         "サティバ種"
       ],
       "en": [
-        "rice",
         "paddy"
       ]
-    },
-    "names_source": {
-      "source": "Wikidata",
-      "source_url": "https://www.wikidata.org/wiki/Q161426",
-      "license": "CC0 1.0",
-      "retrieved": "2026-10-08"
     },
     "description": {
       "ja": {
@@ -1687,6 +1765,16 @@
     },
     "edible": {
       "is_food": true,
+      "use_codes": [
+        "AF",
+        "EU",
+        "FU",
+        "GS",
+        "HF",
+        "MA",
+        "ME",
+        "SU"
+      ],
       "uses": [
         "animal food",
         "environmental uses",
@@ -2078,7 +2166,21 @@
     "wikidata": "Q23501",
     "names": {
       "ja": [
-        "トマト",
+        "トマト"
+      ],
+      "en": [
+        "garden tomato",
+        "tomato"
+      ]
+    },
+    "names_source": {
+      "source": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q23501",
+      "license": "CC0 1.0",
+      "retrieved": "2026-10-08"
+    },
+    "search_names": {
+      "ja": [
         "赤茄子",
         "ミニトマト",
         "赤ナス",
@@ -2088,17 +2190,9 @@
         "ポモドーロ"
       ],
       "en": [
-        "garden tomato",
-        "tomato",
         "love apple",
         "tomato plant"
       ]
-    },
-    "names_source": {
-      "source": "Wikidata",
-      "source_url": "https://www.wikidata.org/wiki/Q23501",
-      "license": "CC0 1.0",
-      "retrieved": "2026-10-08"
     },
     "description": {
       "ja": {
@@ -2122,6 +2216,17 @@
     },
     "edible": {
       "is_food": true,
+      "use_codes": [
+        "AF",
+        "EU",
+        "GS",
+        "HF",
+        "IF",
+        "MA",
+        "ME",
+        "PO",
+        "SU"
+      ],
       "uses": [
         "animal food",
         "environmental uses",
@@ -2678,17 +2783,11 @@
     "wikidata": "Q10998",
     "names": {
       "ja": [
-        "ジャガイモ",
-        "馬鈴薯",
-        "バレイショ"
+        "ジャガイモ"
       ],
       "en": [
         "Russian Potato",
-        "potato",
-        "potato plant",
-        "tater",
-        "tattie",
-        "spud"
+        "potato"
       ]
     },
     "names_source": {
@@ -2696,6 +2795,18 @@
       "source_url": "https://www.wikidata.org/wiki/Q10998",
       "license": "CC0 1.0",
       "retrieved": "2026-10-08"
+    },
+    "search_names": {
+      "ja": [
+        "馬鈴薯",
+        "バレイショ"
+      ],
+      "en": [
+        "potato plant",
+        "tater",
+        "tattie",
+        "spud"
+      ]
     },
     "description": {
       "ja": {
@@ -2719,6 +2830,16 @@
     },
     "edible": {
       "is_food": true,
+      "use_codes": [
+        "AF",
+        "EU",
+        "GS",
+        "HF",
+        "MA",
+        "ME",
+        "PO",
+        "SU"
+      ],
       "uses": [
         "animal food",
         "environmental uses",
@@ -2858,10 +2979,7 @@
     "wikidata": "Q161098",
     "names": {
       "ja": [
-        "パンコムギ",
-        "普通コムギ",
-        "フツウコムギ",
-        "コムギ"
+        "パンコムギ"
       ],
       "en": [
         "common wheat"
@@ -2872,6 +2990,13 @@
       "source_url": "https://www.wikidata.org/wiki/Q161098",
       "license": "CC0 1.0",
       "retrieved": "2026-10-08"
+    },
+    "search_names": {
+      "ja": [
+        "普通コムギ",
+        "フツウコムギ",
+        "コムギ"
+      ]
     },
     "description": {
       "ja": {
@@ -2895,6 +3020,14 @@
     },
     "edible": {
       "is_food": true,
+      "use_codes": [
+        "AF",
+        "GS",
+        "HF",
+        "MA",
+        "ME",
+        "PO"
+      ],
       "uses": [
         "animal food",
         "gene sources",
@@ -3398,17 +3531,13 @@
     "wikidata": "Q11575",
     "names": {
       "ja": [
-        "トウモロコシ",
-        "とうもろこし",
-        "コーン"
+        "トウモロコシ"
       ],
       "en": [
         "corn",
         "Indian Corn",
         "maize",
-        "Teosinte",
-        "corn plant",
-        "maize plant"
+        "Teosinte"
       ]
     },
     "names_source": {
@@ -3416,6 +3545,16 @@
       "source_url": "https://www.wikidata.org/wiki/Q11575",
       "license": "CC0 1.0",
       "retrieved": "2026-10-08"
+    },
+    "search_names": {
+      "ja": [
+        "とうもろこし",
+        "コーン"
+      ],
+      "en": [
+        "corn plant",
+        "maize plant"
+      ]
     },
     "description": {
       "ja": {
@@ -3439,6 +3578,18 @@
     },
     "edible": {
       "is_food": true,
+      "use_codes": [
+        "AF",
+        "EU",
+        "FU",
+        "GS",
+        "HF",
+        "IF",
+        "MA",
+        "ME",
+        "PO",
+        "SU"
+      ],
       "uses": [
         "animal food",
         "environmental uses",

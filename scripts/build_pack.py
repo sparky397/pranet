@@ -11,7 +11,7 @@ import hashlib
 import json
 import sys
 
-from common import DOCS_DIR, PACKS_DIR, SCHEMA_VERSION, load_json, log, read_species_list, save_json, today, work_path
+from common import DOCS_DIR, PACKS_DIR, ROOT_DIR, SCHEMA_VERSION, load_json, log, read_species_list, save_json, today, work_path
 from validate import validate_species
 
 PACK_ID = "edible-core"
@@ -43,6 +43,8 @@ def build_record(sci: str) -> dict:
             rec["names"] = wd["names"]
             rec["names_source"] = {"source": wd["source"], "source_url": wd["source_url"],
                                    "license": wd["license"], "retrieved": wd["retrieved"]}
+        if wd.get("search_names"):
+            rec["search_names"] = wd["search_names"]  # 検索にだけ使う（画面には出さない）
     if wp:
         rec["description"] = {
             lang: {k: d[k] for k in ("text", "source", "source_url", "revision", "license", "license_url", "retrieved")}
@@ -51,6 +53,7 @@ def build_record(sci: str) -> dict:
     if wcup:
         rec["edible"] = {
             "is_food": wcup["is_food"],
+            "use_codes": wcup["use_codes"],  # WCUP の 10 分類のコード。訳はアプリ側（i18n）
             "uses": wcup["uses"],
             "source": wcup["source"], "source_url": wcup["source_url"],
             "license": wcup["license"], "retrieved": wcup["retrieved"],
@@ -96,6 +99,21 @@ def write_attribution(records: list[dict]) -> None:
     (DOCS_DIR / "ATTRIBUTION.md").write_text("\n".join(lines), encoding="utf-8")
 
 
+def bump_app_version(pack_version: str) -> None:
+    """app/sw.js の APP_VERSION を「パックの版.連番」に上げる。利用者の端末の保存を更新させるため。"""
+    import re
+    sw = ROOT_DIR / "app" / "sw.js"
+    text = sw.read_text(encoding="utf-8")
+    m = re.search(r'const APP_VERSION = "([\d-]+)\.(\d+)";', text)
+    if not m:
+        log("  app/sw.js の APP_VERSION が見つかりません（手で上げてください）")
+        return
+    n = int(m.group(2)) + 1 if m.group(1) == pack_version else 1
+    new = f'const APP_VERSION = "{pack_version}.{n}";'
+    sw.write_text(text[:m.start()] + new + text[m.end():], encoding="utf-8")
+    log(f"  app/sw.js: {new}")
+
+
 def main(only: list[str] | None = None) -> int:
     records = []
     skipped = []
@@ -138,6 +156,7 @@ def main(only: list[str] | None = None) -> int:
     }
     save_json(pack_dir / "pack.json", pack)
     write_attribution(records)
+    bump_app_version(pack["version"])
     log(f"パック {PACK_ID}: {len(records)} 種を書き出しました -> {species_path}")
     for sci, problems in skipped:
         log(f"  [除外] {sci}: " + "; ".join(problems))

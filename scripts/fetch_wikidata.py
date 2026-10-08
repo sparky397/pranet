@@ -59,34 +59,41 @@ def _claim_values(entity: dict, prop: str) -> list[dict]:
     return out
 
 
-def common_names(entity: dict, scientific_name: str) -> dict[str, list[str]]:
-    """言語ごとの一般名。P1843（taxon common name）→ ラベル → 別名 の順。学名と同じ文字列は除く。"""
+def common_names(entity: dict, scientific_name: str) -> tuple[dict[str, list[str]], dict[str, list[str]]]:
+    """言語ごとの名前を 2 つに分けて返す。
+    names：表示用。P1843（分類群の一般名）とラベルだけ（信頼できるもの）。
+    search_names：検索用。Wikidata の別名（品種名や俗称が混じるので画面には出さない）。
+    学名そのもの・学名風の文字列（属名で始まる）はどちらにも入れない。学名の正は WFO。"""
     names: dict[str, list[str]] = {lang: [] for lang in LANGS}
+    search: dict[str, list[str]] = {lang: [] for lang in LANGS}
     genus = scientific_name.split()[0].lower()
 
-    def add(lang: str, text: str):
+    def clean(text: str) -> str | None:
         text = text.strip().strip(",.;").strip()
-        if lang not in names or not text:
+        if not text or text.lower() == scientific_name.lower() or text.split()[0].lower() == genus:
+            return None
+        return text
+
+    def add(target: dict, lang: str, text: str):
+        text = clean(text)
+        if not text or lang not in target:
             return
-        # 学名そのもの・学名風の別名（属名で始まる）は一般名ではないので除く。学名の正は WFO。
-        if text.lower() == scientific_name.lower() or text.split()[0].lower() == genus:
-            return
-        if text.lower() in {n.lower() for n in names[lang]}:
-            return
-        names[lang].append(text)
+        seen = {n.lower() for n in names[lang]} | {n.lower() for n in search[lang]}
+        if text.lower() not in seen:
+            target[lang].append(text)
 
     for cv in _claim_values(entity, "P1843"):
         v = cv["value"]
         if isinstance(v, dict) and v.get("language") in names:
-            add(v["language"], v["text"])
+            add(names, v["language"], v["text"])
     for lang in LANGS:
         lab = entity.get("labels", {}).get(lang)
         if lab:
-            add(lang, lab["value"])
+            add(names, lang, lab["value"])
     for lang in LANGS:
         for al in entity.get("aliases", {}).get(lang, []):
-            add(lang, al["value"])
-    return {k: v for k, v in names.items() if v}
+            add(search, lang, al["value"])
+    return ({k: v for k, v in names.items() if v}, {k: v for k, v in search.items() if v})
 
 
 def main(only: list[str] | None = None) -> None:
@@ -106,10 +113,12 @@ def main(only: list[str] | None = None) -> None:
         ent = get_entity(qid)
         sitelinks = {lang: ent.get("sitelinks", {}).get(f"{lang}wiki", {}).get("title") for lang in LANGS}
         images = [cv["value"] for cv in _claim_values(ent, "P18")]
+        names, search_names = common_names(ent, wfo["scientific_name"])
         out = {
             "qid": qid,
             "found_by": how,
-            "names": common_names(ent, wfo["scientific_name"]),
+            "names": names,
+            "search_names": search_names,
             "wikipedia_titles": {k: v for k, v in sitelinks.items() if v},
             "commons_images": images,            # 写真候補（ライセンスは fetch_photo.py で判定）
             "gbif_id": next((cv["value"] for cv in _claim_values(ent, "P846")), None),

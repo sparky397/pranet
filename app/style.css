@@ -1,4 +1,5 @@
-/* pranet — 写真が主役、学名を必ず表示、言葉に頼らない。外部の部品は使わない。 */
+/* pranet — 写真が主役、学名を必ず表示、言葉に頼らない。外部の部品は使わない。
+ * 古い端末のため、新しい書き方の前には普通の書き方を置く。 */
 
 :root {
   --bg: #fbfaf7;
@@ -10,6 +11,7 @@
   --accent-soft: #e5efe6;
   --warn-bg: #fff4e5;
   --warn-fg: #7a4a00;
+  --tox: #c0392b;
   --radius: 12px;
   --gutter: 16px;
   --maxw: 960px;
@@ -25,6 +27,7 @@
     --accent-soft: #233126;
     --warn-bg: #3a2a10;
     --warn-fg: #ffd59a;
+    --tox: #ff6b5b;
   }
 }
 
@@ -45,14 +48,12 @@ button { font: inherit; }
   position: sticky; top: 0; z-index: 2;
   display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
   padding: 10px var(--gutter);
+  background: var(--bg);
   background: color-mix(in srgb, var(--bg) 92%, transparent);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--line);
 }
-.logo {
-  font-weight: 700; font-size: 1.35rem; letter-spacing: .02em;
-  color: var(--fg); text-decoration: none;
-}
+.logo { font-weight: 700; font-size: 1.35rem; letter-spacing: .02em; color: var(--fg); text-decoration: none; }
 .logo-p { display: inline-block; transform: scaleY(-1); transform-origin: 50% 58%; }
 .search { flex: 1 1 240px; }
 #q {
@@ -62,7 +63,6 @@ button { font: inherit; }
 }
 #q:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
 
-/* 画面の切り替え */
 .modes {
   max-width: var(--maxw); margin: 0 auto; padding: 10px var(--gutter) 0;
   display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
@@ -77,6 +77,7 @@ button { font: inherit; }
 
 main { max-width: var(--maxw); margin: 0 auto; padding: 16px var(--gutter) 40px; }
 .status { color: var(--muted); margin: 8px 0; }
+.title { font-size: 1.3rem; margin: 0 0 10px; }
 .btn {
   display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
   border: 1px solid var(--line); background: var(--card); color: var(--fg);
@@ -86,100 +87,76 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 16px var(--gutter) 40px;
 .btn.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
 .btnrow { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
 
-/* 一覧 */
-.grid {
-  list-style: none; margin: 0; padding: 0;
-  display: grid; gap: 14px;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+/* 毒性の印 */
+.tox {
+  display: inline-grid; place-items: center;
+  width: 1.6em; height: 1.6em; border-radius: 50%;
+  background: var(--tox); color: #fff; font-size: .95rem; line-height: 1;
 }
+.tox.big { font-size: 1.3rem; }
+.card .tox { position: absolute; top: 6px; left: 6px; }
+.feed-photo .tox { position: absolute; top: 10px; left: 10px; width: 1.9em; height: 1.9em; }
+.tox-warn { border-left: 5px solid var(--tox); }
+
+/* 一覧（格子） */
+.grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
 .card {
   background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
   overflow: hidden; text-decoration: none; color: inherit; display: block; position: relative;
 }
 .card:hover, .card:focus-visible { border-color: var(--accent); }
 .card .thumb { aspect-ratio: 1; width: 100%; object-fit: cover; background: var(--accent-soft); }
-.card .nophoto { aspect-ratio: 1; display: grid; place-items: center; color: var(--muted); background: var(--accent-soft); font-size: 2rem; }
+.nophoto { aspect-ratio: 1; display: grid; place-items: center; color: var(--muted); background: var(--accent-soft); font-size: 2rem; }
 .card .body { padding: 8px 10px 10px; }
 .card .name { font-weight: 600; }
 .card .sci { font-style: italic; color: var(--muted); font-size: .9rem; }
-.card .fam { color: var(--muted); font-size: .8rem; }
 .card .heart { position: absolute; top: 6px; right: 6px; font-size: 1.1rem; filter: drop-shadow(0 1px 2px rgba(0,0,0,.5)); }
+
+/* 大きい写真の一覧（縦に流れる） */
+.feed { display: grid; gap: 22px; max-width: 560px; }
+.feed-item { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.feed-photo { display: block; position: relative; }
+.feed-photo img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+.feed-photo .nophoto { aspect-ratio: 4 / 3; font-size: 3rem; }
+.feed-body { padding: 10px 14px 12px; }
+.feed-name { text-decoration: none; color: inherit; font-size: 1.1rem; }
+.feed-name .sci { font-style: italic; color: var(--muted); font-size: .95rem; }
+.feed-body .fam { color: var(--muted); font-size: .85rem; }
+.credit { font-size: .8rem; color: var(--muted); margin: 6px 0 0; }
+.credit a { color: inherit; }
 
 /* 詳細 */
 .detail { display: grid; gap: 20px; }
 @media (min-width: 720px) { .detail { grid-template-columns: 360px 1fr; align-items: start; } }
 .hero img { width: 100%; border-radius: var(--radius); }
-.credit { font-size: .8rem; color: var(--muted); margin-top: 6px; }
 .detail h1 { margin: 0 0 2px; font-size: 1.7rem; line-height: 1.25; }
 .detail .sci { font-style: italic; font-size: 1.1rem; }
 .detail .auth { font-style: normal; color: var(--muted); font-size: .95rem; }
 .detail .fam { color: var(--muted); }
-.names { margin: 8px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
-.names span { background: var(--accent-soft); border-radius: 999px; padding: 2px 10px; font-size: .9rem; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; }
 .tag { display: inline-block; background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 2px 10px; font-size: .9rem; font-weight: 600; }
 section.block { margin-top: 20px; padding-top: 14px; border-top: 1px solid var(--line); }
 section.block h2 { font-size: 1rem; margin: 0 0 6px; color: var(--muted); letter-spacing: .04em; }
 .src { font-size: .8rem; color: var(--muted); margin: 6px 0 0; }
 .src a { color: inherit; }
+.srclist { margin: 0; padding-left: 18px; font-size: .85rem; color: var(--muted); }
+.srclist li { margin: 4px 0; }
+.srclist a { color: inherit; }
+.srclist b { color: var(--fg); font-weight: 600; }
 .empty { color: var(--muted); }
 .areas { display: flex; flex-wrap: wrap; gap: 4px 8px; font-size: .9rem; }
-.areas .count { color: var(--muted); }
 details summary { cursor: pointer; color: var(--accent); }
 .synlist { columns: 2; column-gap: 24px; font-size: .9rem; font-style: italic; margin: 6px 0 0; padding-left: 18px; }
 .warn { background: var(--warn-bg); color: var(--warn-fg); border-radius: var(--radius); padding: 10px 14px; font-size: .9rem; }
+.warn a { color: inherit; }
 .back { display: inline-block; margin-bottom: 12px; }
-textarea.note {
-  width: 100%; min-height: 90px; font: inherit; border-radius: var(--radius);
-  border: 1px solid var(--line); background: var(--card); color: var(--fg); padding: 10px;
-}
-
-/* めくる */
-body.mode-flip .top, body.mode-flip .modes, body.mode-flip .foot { display: none; }
-body.mode-flip main { max-width: none; padding: 0; }
-.flip { height: 100dvh; overflow-y: auto; scroll-snap-type: y mandatory; background: #000; }
-.flip-card {
-  position: relative; height: 100dvh; scroll-snap-align: start; scroll-snap-stop: always;
-  color: #fff; overflow: hidden;
-}
-.flip-card img { width: 100%; height: 100%; object-fit: cover; }
-.flip-card .nophoto { width: 100%; height: 100%; display: grid; place-items: center; font-size: 4rem; background: #203020; }
-.flip-card .shade {
-  position: absolute; inset: auto 0 0 0; padding: 24px var(--gutter) max(24px, env(safe-area-inset-bottom));
-  background: linear-gradient(transparent, rgba(0,0,0,.85));
-}
-.flip-card .name { font-size: 1.8rem; font-weight: 700; line-height: 1.2; }
-.flip-card .sci { font-style: italic; opacity: .9; }
-.flip-card .fact { margin: 8px 0 0; font-size: .95rem; opacity: .95; max-width: 640px;
-  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-.flip-card .src { color: rgba(255,255,255,.7); }
-.flip-card .src a { color: inherit; }
-.flip-card .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
-.flip-card .tags span { background: rgba(255,255,255,.18); border-radius: 999px; padding: 2px 10px; font-size: .85rem; }
-.flip-card .acts { position: absolute; right: 12px; bottom: 120px; display: flex; flex-direction: column; gap: 10px; }
-.flip-card .acts a, .flip-card .acts button {
-  width: 48px; height: 48px; border-radius: 50%; border: 0; cursor: pointer;
-  background: rgba(0,0,0,.45); color: #fff; font-size: 1.3rem; display: grid; place-items: center; text-decoration: none;
-}
-.flip-card .acts .on { background: var(--accent); }
-.flip-exit { position: fixed; top: 12px; left: 12px; z-index: 3; }
-.flip-exit a { background: rgba(0,0,0,.5); color: #fff; text-decoration: none; border-radius: 999px; padding: 8px 14px; }
-.flip-count { position: fixed; top: 14px; right: 14px; z-index: 3; color: #fff; background: rgba(0,0,0,.5); border-radius: 999px; padding: 6px 12px; font-size: .85rem; }
 
 /* 場所 */
 .place-pick { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); margin-bottom: 14px; }
 .place-pick select { font: inherit; padding: 9px 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--card); color: var(--fg); width: 100%; }
-.place-pick label { font-size: .85rem; color: var(--muted); display: block; margin-bottom: 4px; }
 h2.sub { font-size: 1.05rem; margin: 18px 0 8px; }
 
 .foot {
   max-width: var(--maxw); margin: 0 auto; padding: 16px var(--gutter) 32px;
   border-top: 1px solid var(--line); color: var(--muted); font-size: .85rem;
 }
-
-/* シンプル版の追加 */
-.title { font-size: 1.3rem; margin: 0 0 10px; }
-.chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; }
-.srclist { margin: 0; padding-left: 18px; font-size: .85rem; color: var(--muted); }
-.srclist li { margin: 4px 0; }
-.srclist a { color: inherit; }
-.srclist b { color: var(--fg); font-weight: 600; }
