@@ -3,6 +3,9 @@
 世界中の誰でも無料で使える、正しい方法で作られた植物図鑑。
 まず世界の食用植物から始め、最終的には世界のすべての植物を載せることを目指します。
 
+- **使う**: https://sparky397.github.io/pranet/
+- 間違いの報告: [Issues](https://github.com/sparky397/pranet/issues)
+
 - 設計：[pranet_設計図.md](pranet_設計図.md)
 - コードのライセンス：MIT（[LICENSE](LICENSE)）
 - データと写真のライセンス：項目ごとに異なります（[docs/LICENSE-DATA.md](docs/LICENSE-DATA.md)、[docs/ATTRIBUTION.md](docs/ATTRIBUTION.md)）
