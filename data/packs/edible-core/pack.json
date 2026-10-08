@@ -4,13 +4,16 @@
     "ja": "主要作物",
     "en": "Major crops"
   },
-  "schema_version": 1,
-  "version": "2026-10-08",
-  "built": "2026-10-08",
+  "schema_version": 2,
+  "version": "2026-10-09",
+  "built": "2026-10-09",
   "species_count": 10,
-  "species_file": "species.json",
-  "species_sha256": "4610c0c9abc8e4de18261f563123ee190e8140a669d70d4c575a103ce451abe9",
+  "index_file": "index.json",
+  "species_dir": "species/",
+  "synonyms_file": "synonyms.json",
+  "areas_file": "../../tdwg_areas.json",
   "photos_dir": "../../photos/",
+  "index_sha256": "f0a8e70868d7f26cce78394dd018864beb14d8323eb94bae503a5d0f5902fa41",
   "licenses_included": [
     "CC BY 3.0",
     "CC BY 4.0",
@@ -25,9 +28,10 @@
     "Wikipedia": "CC BY-SA 4.0",
     "World Checklist of Useful Plant Species (2020)": "CC BY 4.0",
     "World Checklist of Vascular Plants": "CC BY 3.0",
-    "photos": "写真ごと（species.json の photo を参照）"
+    "photos": "写真ごと（species/<id>.json の photo を参照）"
   },
   "disclaimer": {
-    "ja": "同定や利用は自己責任でお願いします。この図鑑だけを根拠に野生の植物を食べないでください。"
+    "ja": "同定や利用は自己責任でお願いします。この図鑑だけを根拠に野生の植物を食べないでください。",
+    "en": "Identification and use are at your own risk. Do not eat wild plants based on this guide alone."
   }
 }

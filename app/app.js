@@ -1,8 +1,12 @@
 /* pranet アプリ本体。外部ライブラリなし。
  *
+ * データ形式 2：
+ *   index.json           一覧・検索・場所の絞り込みに使う小さな索引（起動時に読む）
+ *   species/<id>.json    種ごとの詳細（詳細ページを開いたときに読む）
+ *   synonyms.json        旧い学名 → 種（検索で見つからないときに読む）
+ *   ../tdwg_areas.json   地区コード → 地名（詳細ページで読む）
  * 画面は 3 つ：一覧（検索）、場所、標本箱。種を押すと詳細。
- * 場所と標本箱の結果は「格子」と「大きい写真」（縦に流れる一覧。写真の下に名前・学名・撮影者・ライセンス）で切り替える。
- * - 植物の事実はすべて species.json の出典付きデータから表示し、ここでは何も補わない。
+ * - 植物の事実はすべて出典付きデータから表示し、ここでは何も補わない。
  * - 毒性の記録（WCUP の poisons）がある種には赤い ☠ を付ける。
  * - 標本箱は端末の中（localStorage）だけ。アカウントもサーバーも無い。
  * - 古い端末でも動くよう、新しすぎる書き方は避ける。
@@ -38,8 +42,8 @@
     n.append(c.nodeType ? c : String(c));
   }
 
-  var T = {}, species = [], packs = [], places = null;
-  var byId = new Map();
+  var T = {}, species = [], packs = [], places = null, areasOrder = [], areaNames = null, synonyms = null;
+  var byId = new Map(), detailCache = new Map(), packOf = new Map();
   var box = loadBox();
 
   var t = function (key, vars) {
@@ -57,6 +61,7 @@
 
   // ---------- 読み込み ----------
   async function loadJSON(url) { var r = await fetch(url); if (!r.ok) throw new Error(url + ": " + r.status); return r.json(); }
+  function packDir(id) { return DATA_BASE + "packs/" + id + "/"; }
   async function init() {
     try { T = await loadJSON("../i18n/" + LANG + ".json"); } catch (e) { T = await loadJSON("../i18n/ja.json"); }
     $("#q").placeholder = t("search_placeholder");
@@ -64,13 +69,14 @@
     $("#link-attribution").textContent = t("link_attribution");
     $("#link-license").textContent = t("link_license");
     for (var i = 0; i < PACKS.length; i++) {
-      var pack = await loadJSON(DATA_BASE + "packs/" + PACKS[i] + "/pack.json");
-      var list = await loadJSON(DATA_BASE + "packs/" + PACKS[i] + "/" + pack.species_file);
+      var pack = await loadJSON(packDir(PACKS[i]) + "pack.json");
+      var index = await loadJSON(packDir(PACKS[i]) + pack.index_file);
       packs.push(pack);
-      list.forEach(function (s) { byId.set(s.id, s); });
-      species = species.concat(list);
+      areasOrder = index.areas;
+      index.species.forEach(function (s) { s.pack = PACKS[i]; byId.set(s.id, s); packOf.set(s.id, PACKS[i]); });
+      species = species.concat(index.species);
     }
-    species.sort(function (a, b) { return a.scientific_name.localeCompare(b.scientific_name); });
+    species.sort(function (a, b) { return a.sci.localeCompare(b.sci); });
     try { places = await loadJSON(DATA_BASE + "places.json"); } catch (e) {}
     $("#pack-info").textContent = packs.map(function (p) { return t("pack_info", { title: pick(p.title), n: p.species_count, v: p.version }); }).join(" / ");
     $("#disclaimer").textContent = pick(packs[0] && packs[0].disclaimer);
@@ -85,8 +91,21 @@
     render();
     registerOffline();
   }
+  async function loadDetail(id) {
+    if (detailCache.has(id)) return detailCache.get(id);
+    var rec = await loadJSON(packDir(packOf.get(id)) + "species/" + id + ".json");
+    detailCache.set(id, rec);
+    return rec;
+  }
+  async function loadAreaNames() {
+    if (areaNames) return areaNames;
+    var a = await loadJSON(DATA_BASE + "tdwg_areas.json");
+    areaNames = {};
+    a.continents.forEach(function (c) { c.regions.forEach(function (r) { r.areas.forEach(function (x) { areaNames[x.code] = x.name; }); }); });
+    return areaNames;
+  }
 
-  // ---------- オフライン（保存係の登録と、新しい版の知らせ） ----------
+  // ---------- オフライン ----------
   async function registerOffline() {
     if (!("serviceWorker" in navigator)) return;
     var info = $("#offline-info");
@@ -115,52 +134,66 @@
   }
   function hay(s) {
     if (!s._hay) {
-      var parts = [s.scientific_name].concat(s.synonyms || []);
-      Object.keys(s.names || {}).forEach(function (l) { parts = parts.concat(s.names[l]); });
-      Object.keys(s.search_names || {}).forEach(function (l) { parts = parts.concat(s.search_names[l]); });
+      var parts = [s.sci];
+      Object.keys(s.n || {}).forEach(function (l) { parts = parts.concat(s.n[l]); });
+      Object.keys(s.sn || {}).forEach(function (l) { parts = parts.concat(s.sn[l]); });
       s._hay = norm(parts.join(" | "));
     }
     return s._hay;
   }
   function pick(obj) { if (!obj) return ""; for (var i = 0; i < LANGS.length; i++) if (obj[LANGS[i]]) return obj[LANGS[i]]; var k = Object.keys(obj); return k.length ? obj[k[0]] : ""; }
-  function nameOf(s) { for (var i = 0; i < LANGS.length; i++) { var l = LANGS[i]; if (s.names && s.names[l] && s.names[l].length) return s.names[l][0]; } return null; }
-  function descOf(s) { for (var i = 0; i < LANGS.length; i++) { var l = LANGS[i]; if (s.description && s.description[l]) return Object.assign({ lang: l }, s.description[l]); } return null; }
-  function isToxic(s) { return !!(s.edible && s.edible.use_codes && s.edible.use_codes.indexOf("PO") >= 0); }
-  function photoURL(s) { return s.photo ? DATA_BASE + s.photo.file : null; }
-  function speciesURL(s) { return location.origin + location.pathname + "#/species/" + s.id; }
+  function nameOf(s) { var n = s.n || s.names; for (var i = 0; i < LANGS.length; i++) { var l = LANGS[i]; if (n && n[l] && n[l].length) return n[l][0]; } return null; }
+  function sciOf(s) { return s.sci || s.scientific_name; }
+  function isToxic(s) { return s.tox != null ? !!s.tox : !!(s.edible && s.edible.use_codes && s.edible.use_codes.indexOf("PO") >= 0); }
+  function photoOf(s) {
+    if (s.photo) return s.photo;
+    if (!s.p) return null;
+    var p = s.p;
+    return { file: p.f, author: p.a, license: p.l, license_url: p.lu, source: p.s, source_page: p.sp, width: p.w, height: p.h, modified: true };
+  }
+  function photoURL(s) { var p = photoOf(s); return p ? DATA_BASE + p.file : null; }
+  function speciesURL(id) { return location.origin + location.pathname + "#/species/" + id; }
   function link(href, text) { return el("a", { href: href, target: "_blank", rel: "noopener", text: text }); }
   function toxMark(s, big) { return isToxic(s) ? el("span", { class: "tox" + (big ? " big" : ""), title: t("toxic_title"), "aria-label": t("toxic_title"), text: "☠" }) : null; }
   function photoCredit(s) {
-    if (!s.photo) return null;
+    var p = photoOf(s);
+    if (!p) return null;
     return el("p", { class: "credit" },
-      t("photo_credit", { author: s.photo.author || t("author_unknown") }), " · ",
-      link(s.photo.license_url, s.photo.license), " · ",
-      link(s.photo.source_page, s.photo.source),
-      s.photo.modified ? " · " + t("photo_modified") : "");
+      t("photo_credit", { author: p.author || t("author_unknown") }), " · ",
+      link(p.license_url, p.license), " · ", link(p.source_page, p.source), " · " + t("photo_modified"));
+  }
+  // 索引のビット列（分布）を調べる
+  function bitsOf(s, key) {
+    var k = "_" + key;
+    if (!s[k]) { var raw = s[key] ? atob(s[key]) : ""; var arr = new Uint8Array(raw.length); for (var i = 0; i < raw.length; i++) arr[i] = raw.charCodeAt(i); s[k] = arr; }
+    return s[k];
+  }
+  function hasAny(s, key, idxList) {
+    var bits = bitsOf(s, key);
+    for (var i = 0; i < idxList.length; i++) { var j = idxList[i]; if (bits[j >> 3] & (1 << (j & 7))) return true; }
+    return false;
   }
 
   function card(s) {
     var name = nameOf(s);
     return el("li", {}, el("a", { class: "card", href: "#/species/" + s.id },
-      s.photo ? el("img", { class: "thumb", src: photoURL(s), alt: "", loading: "lazy" }) : el("div", { class: "nophoto", text: "🌿" }),
+      photoOf(s) ? el("img", { class: "thumb", src: photoURL(s), alt: "", loading: "lazy" }) : el("div", { class: "nophoto", text: "🌿" }),
       inBox(s.id) ? el("span", { class: "heart", text: "♥" }) : null,
       toxMark(s),
       el("div", { class: "body" },
-        el("div", { class: "name", text: name || s.scientific_name }),
-        el("div", { class: "sci", text: name ? s.scientific_name : (s.family || "") }))));
+        el("div", { class: "name", text: name || sciOf(s) }),
+        el("div", { class: "sci", text: name ? sciOf(s) : (s.fam || "") }))));
   }
   function grid(list) { return el("ul", { class: "grid" }, list.map(card)); }
-
-  // 大きい写真の一覧（Instagram 型）。写真の下に名前・学名・撮影者・ライセンス・出典
   function feedItem(s) {
     var name = nameOf(s);
     return el("article", { class: "feed-item" },
       el("a", { href: "#/species/" + s.id, class: "feed-photo" },
-        s.photo ? el("img", { src: photoURL(s), alt: s.scientific_name, loading: "lazy" }) : el("div", { class: "nophoto", text: "🌿" }),
+        photoOf(s) ? el("img", { src: photoURL(s), alt: sciOf(s), loading: "lazy" }) : el("div", { class: "nophoto", text: "🌿" }),
         toxMark(s, true)),
       el("div", { class: "feed-body" },
-        el("a", { href: "#/species/" + s.id, class: "feed-name" }, el("strong", { text: name || s.scientific_name }), name ? el("span", { class: "sci", text: " " + s.scientific_name }) : null),
-        s.family ? el("div", { class: "fam", text: s.family }) : null,
+        el("a", { href: "#/species/" + s.id, class: "feed-name" }, el("strong", { text: name || sciOf(s) }), name ? el("span", { class: "sci", text: " " + sciOf(s) }) : null),
+        s.fam ? el("div", { class: "fam", text: s.fam }) : null,
         photoCredit(s)));
   }
   function feed(list) { return el("div", { class: "feed" }, list.map(feedItem)); }
@@ -181,13 +214,26 @@
       return el("a", { href: m[0], class: m[0] === current ? "on" : "" }, el("span", { class: "ic", text: m[2] }), t(m[1]));
     }));
     var m = h.match(/^#\/species\/([\w-]+)/);
-    if (m && byId.has(m[1])) { renderDetail(byId.get(m[1]), main); window.scrollTo(0, 0); return; }
+    if (m && byId.has(m[1])) { renderDetail(m[1], main); window.scrollTo(0, 0); return; }
     if (h.indexOf("#/place") === 0) return renderPlace(main, h);
     if (h.indexOf("#/box") === 0) return renderBox(main, h);
+    renderList(main);
+  }
+
+  // ---------- 一覧と検索 ----------
+  function renderList(main) {
     var q = norm($("#q").value);
     var hits = q ? species.filter(function (s) { return hay(s).indexOf(q) >= 0; }) : species;
+    if (q && synonyms) {
+      var ids = new Set(hits.map(function (s) { return s.id; }));
+      synonyms.forEach(function (pair) { if (norm(pair[0]).indexOf(q) >= 0 && !ids.has(pair[1]) && byId.has(pair[1])) { ids.add(pair[1]); hits.push(byId.get(pair[1])); } });
+    }
     main.append(el("p", { class: "status", text: q ? t("results", { n: hits.length }) : t("all_species", { n: species.length }) }));
     main.append(hits.length ? grid(hits) : el("p", { class: "empty", text: t("no_results") }));
+    if (q && !hits.length && !synonyms) {
+      // 旧い学名でも探せるよう、異名の表を読んでから出し直す
+      loadJSON(packDir(PACKS[0]) + (packs[0].synonyms_file || "synonyms.json")).then(function (d) { synonyms = d; if (norm($("#q").value) === q) render(); }).catch(function () { synonyms = []; });
+    }
   }
 
   // ---------- 場所（州 → 国） ----------
@@ -212,13 +258,13 @@
     var country = sel.k && cont ? cont.countries.filter(function (k) { return k.iso === sel.k; })[0] : null;
     var native = [], intro = [];
     if (cont) {
-      var codes = new Set(country ? country.l3 : cont.countries.reduce(function (a, k) { return a.concat(k.l3); }, []));
-      var has = function (l) { return l.some(function (c) { return codes.has(c); }); };
-      var food = species.filter(function (s) { return s.edible && s.edible.is_food && s.distribution; });
-      native = food.filter(function (s) { return has(s.distribution.native); });
-      intro = food.filter(function (s) { return !has(s.distribution.native) && has(s.distribution.introduced); });
+      var codes = country ? country.l3 : cont.countries.reduce(function (a, k) { return a.concat(k.l3); }, []);
+      var idxList = codes.map(function (c) { return areasOrder.indexOf(c); }).filter(function (i) { return i >= 0; });
+      var food = species.filter(function (s) { return s.food && s.dn != null; });
+      native = food.filter(function (s) { return hasAny(s, "dn", idxList); });
+      intro = food.filter(function (s) { return !hasAny(s, "dn", idxList) && hasAny(s, "di", idxList); });
     }
-    return { sel: sel, cont: cont, native: native, intro: intro, view: p.get("v") || "grid" };
+    return { sel: sel, cont: cont, country: country, native: native, intro: intro, view: p.get("v") || "grid" };
   }
   function renderPlace(main, hash) {
     main.append(el("h1", { class: "title", text: t("place_title") }));
@@ -238,10 +284,26 @@
       select(t("place_continent"), places.continents.map(function (c) { return { value: c.code, text: t("cont_" + c.code) }; }), sel.c, function (v) { sel.c = v; sel.k = ""; go(); }),
       cont ? select(t("place_country"), countries, sel.k, function (v) { sel.k = v; go(); }) : null));
     if (!cont) return main.append(el("p", { class: "status", text: t("place_help") }));
-    main.append(viewSwitch(r.view, base));
+    var all = r.native.concat(r.intro);
+    var saveBtn = el("button", { class: "btn", text: "⤓ " + t("save_place"), onclick: function () { saveAll(all, saveBtn); } });
+    main.append(viewSwitch(r.view, base).appendChild(saveBtn).parentNode);
     main.append(el("h2", { class: "sub", text: t("place_native") + " · " + r.native.length }), results(r.native, r.view));
     main.append(el("h2", { class: "sub", text: t("place_introduced") + " · " + r.intro.length }), results(r.intro, r.view));
     main.append(el("p", { class: "src" }, t("source_prefix"), places.sources.map(function (s, i) { return [i > 0 ? " · " : null, link(s.source_url, s.source), " · ", s.license]; })));
+  }
+  // 選んだ場所の植物の詳細と写真を、端末の保存係に取り込ませる（保存係が GET を保存するので、読むだけでよい）
+  async function saveAll(list, btn) {
+    if (!list.length) return;
+    btn.disabled = true;
+    for (var i = 0; i < list.length; i++) {
+      btn.textContent = t("saving", { n: i + 1, m: list.length });
+      try {
+        await loadDetail(list[i].id);
+        var url = photoURL(list[i]);
+        if (url) await fetch(url);
+      } catch (e) {}
+    }
+    btn.textContent = "✓ " + t("saved_all", { m: list.length });
   }
 
   // ---------- 標本箱 ----------
@@ -261,23 +323,24 @@
 
   // ---------- 共有カード ----------
   async function shareCard(s) {
+    var p = photoOf(s);
     var W = 1080, H = 1350, PH = 980;
     var cv = el("canvas", { width: W, height: H }), g = cv.getContext("2d");
     g.fillStyle = "#15170f"; g.fillRect(0, 0, W, H);
-    if (s.photo) {
-      var img = new Image(); img.src = photoURL(s); await img.decode();
+    if (p) {
+      var img = new Image(); img.src = DATA_BASE + p.file; await img.decode();
       var r = Math.max(W / img.width, PH / img.height), w = img.width * r, h = img.height * r;
       g.drawImage(img, (W - w) / 2, (PH - h) / 2, w, h);
     }
     g.textBaseline = "top"; g.fillStyle = "#ecebe3";
-    g.font = "bold 64px system-ui, sans-serif"; g.fillText((isToxic(s) ? "☠ " : "") + (nameOf(s) || s.scientific_name), 48, PH + 30);
-    g.font = "italic 40px system-ui, sans-serif"; g.fillStyle = "#c9ccbf"; g.fillText(s.scientific_name + " · " + (s.family || ""), 48, PH + 110);
+    g.font = "bold 64px system-ui, sans-serif"; g.fillText((isToxic(s) ? "☠ " : "") + (nameOf(s) || sciOf(s)), 48, PH + 30);
+    g.font = "italic 40px system-ui, sans-serif"; g.fillStyle = "#c9ccbf"; g.fillText(sciOf(s) + " · " + (s.family || s.fam || ""), 48, PH + 110);
     g.font = "26px system-ui, sans-serif"; g.fillStyle = "#a3a79a";
-    if (s.photo) {
-      g.fillText(t("photo_credit", { author: s.photo.author || t("author_unknown") }) + " · " + s.photo.license + " · " + t("photo_modified"), 48, PH + 176);
-      g.fillText(s.photo.source + ": " + s.photo.source_page.replace(/^https?:\/\//, "").slice(0, 70), 48, PH + 214);
+    if (p) {
+      g.fillText(t("photo_credit", { author: p.author || t("author_unknown") }) + " · " + p.license + " · " + t("photo_modified"), 48, PH + 176);
+      g.fillText(p.source + ": " + p.source_page.replace(/^https?:\/\//, "").slice(0, 70), 48, PH + 214);
     }
-    g.fillText(speciesURL(s).replace(/^https?:\/\//, ""), 48, PH + 252);
+    g.fillText(speciesURL(s.id).replace(/^https?:\/\//, ""), 48, PH + 252);
     g.font = "bold 56px system-ui, sans-serif"; g.fillStyle = "#8fcf9a";
     var pw = g.measureText("p").width, x = W - 48 - g.measureText("pranet").width, y = PH + 296;
     g.fillText("ranet", x + pw, y);
@@ -287,9 +350,23 @@
 
   // ---------- 詳細 ----------
   function section(title) { var sec = el("section", { class: "block" }, el("h2", { text: title })); for (var i = 1; i < arguments.length; i++) append(sec, arguments[i]); return sec; }
-  function renderDetail(s, main) {
-    var name = nameOf(s), d = descOf(s), dist = s.distribution, climate = s.traits_raw && s.traits_raw.climate_description;
+  function pickLang(obj) { if (!obj) return null; for (var i = 0; i < LANGS.length; i++) { var l = LANGS[i]; if (obj[l]) return Object.assign({ lang: l }, obj[l]); } return null; }
+  function sectionBlock(title, d) {
+    if (!d) return null;
+    return section(title,
+      d.lang !== LANG ? el("p", { class: "empty", text: t("description_other_lang", { lang: t("lang_" + d.lang) }) }) : null,
+      el("p", { class: "section-text" }, d.text, d.truncated ? [" …", el("br"), link(d.source_url, t("section_more"))] : null),
+      el("p", { class: "src" }, t("source_prefix"), link(d.source_url, d.source), " · ", link(d.license_url, d.license), d.revision ? " · " + t("revision", { r: d.revision }) : null));
+  }
+  async function renderDetail(id, main) {
     main.append(el("a", { class: "back", href: "#/", text: t("back") }));
+    var status = el("p", { class: "status", text: t("detail_loading") });
+    main.append(status);
+    var s, names;
+    try { s = await loadDetail(id); names = await loadAreaNames(); } catch (e) { status.textContent = t("load_error") + " " + e.message; return; }
+    if (!location.hash.endsWith("/" + id)) return;  // 読み込み中に別の画面へ移った
+    status.remove();
+    var name = nameOf(s), d = pickLang(s.description), dist = s.distribution, climate = s.traits_raw && s.traits_raw.climate_description;
     var wrap = el("div", { class: "detail" });
 
     var hero = el("div", { class: "hero" });
@@ -299,7 +376,7 @@
     var fav = el("button", { class: "btn" + (inBox(s.id) ? " on" : ""), onclick: function () { toggleBox(s.id); fav.className = "btn" + (inBox(s.id) ? " on" : ""); fav.textContent = favText(); } });
     fav.textContent = favText();
     var share = el("button", { class: "btn", text: "⤓ " + t("share_card"), onclick: async function () { share.textContent = t("share_making"); await shareCard(s); share.textContent = "⤓ " + t("share_card"); } });
-    var reportBody = "種: " + s.scientific_name + " (" + s.id + ")\n" + speciesURL(s) + "\n項目: \n間違い: \n正しい内容: \n出典（URL）: ";
+    var reportBody = "種: " + s.scientific_name + " (" + s.id + ")\n" + speciesURL(s.id) + "\n項目: \n間違い: \n正しい内容: \n出典（URL）: ";
     var issue = REPO_URL + "/issues/new?title=" + encodeURIComponent("[" + s.id + "] " + s.scientific_name) + "&body=" + encodeURIComponent(reportBody);
     var copy = el("button", { class: "btn", text: "✎ " + t("report_copy"), onclick: async function () { try { await navigator.clipboard.writeText(reportBody); copy.textContent = "✓ " + t("copied"); } catch (e) { alert(reportBody); } } });
     hero.append(el("div", { class: "btnrow" }, fav, share, el("a", { class: "btn", href: issue, target: "_blank", rel: "noopener", text: "✎ " + t("report") }), copy));
@@ -315,11 +392,12 @@
     if (isToxic(s)) body.append(el("p", { class: "warn tox-warn" }, el("strong", { text: "☠ " + t("toxic_title") }), " ", t("toxic_body"), " ", t("source_prefix"), link(s.edible.source_url, s.edible.source)));
     body.append(el("p", { class: "warn", text: t("food_warning") }));
 
-    body.append(section(t("description"), d
-      ? [d.lang !== LANG ? el("p", { class: "empty", text: t("description_other_lang", { lang: t("lang_" + d.lang) }) }) : null, el("p", { text: d.text })]
-      : el("p", { class: "empty", text: t("no_data") })));
+    body.append(d ? sectionBlock(t("description"), d) : section(t("description"), el("p", { class: "empty", text: t("no_data") })));
+    var sec = s.sections || {};
+    body.append(sectionBlock("☠ " + t("toxicity"), pickLang(sec.toxicity)));
+    body.append(sectionBlock("🌱 " + t("cultivation"), pickLang(sec.cultivation)));
 
-    var areaName = function (c) { return (dist.area_names && dist.area_names[c]) || c; };
+    var areaName = function (c) { return names[c] || c; };
     body.append(section(t("distribution"), dist
       ? [el("p", {}, el("strong", { text: t("native") }), " · " + dist.native.length),
          dist.native.length ? el("div", { class: "areas" }, dist.native.map(function (c) { return el("span", { text: areaName(c) }); })) : el("p", { class: "empty", text: t("no_data") }),
@@ -336,7 +414,6 @@
     body.append(section(t("sources"), el("ul", { class: "srclist" },
       srcRow(t("taxonomy"), s.taxonomy_source, s.id),
       srcRow(t("names_label"), s.names_source),
-      srcRow(t("description"), d),
       srcRow(t("edible"), s.edible, usesText ? t("uses") + ": " + usesText : null),
       srcRow(t("distribution"), dist),
       srcRow(t("traits"), s.traits_raw, s.traits_raw && s.traits_raw.lifeform_description),

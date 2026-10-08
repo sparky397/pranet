@@ -1,0 +1,210 @@
+{
+  "id": "wfo-0000181462",
+  "scientific_name": "Glycine max",
+  "authorship": "(L.) Merr.",
+  "family": "Fabaceae",
+  "synonyms": [
+    "Dolichos sofa L.",
+    "Phalseolus max L.",
+    "Phaseolus max L.",
+    "Phaseolus sordidus Salisb.",
+    "Soja max (L.) Piper"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-08"
+  },
+  "names": {
+    "ja": [
+      "ダイズ"
+    ],
+    "en": [
+      "Soybean",
+      "soybean"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q11006",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-08"
+  },
+  "wikidata": "Q11006",
+  "search_names": {
+    "ja": [
+      "大豆"
+    ],
+    "en": [
+      "soya bean plant",
+      "soybean plant",
+      "soy bean plant",
+      "soy plant",
+      "soy",
+      "soya",
+      "soybeans"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ダイズ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%BA",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 111052489,
+      "text": "大豆 は、マメ科の一年草。完熟種子は主に搾油の原料となり、脱脂後の絞り粕（大豆粕）は飼料として利用されている。食用にもなり特に東アジアでは様々な利用形態が発達している。未成熟の種子を枝豆と呼ぶ。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Soybean」",
+      "source_url": "https://en.wikipedia.org/wiki/Soybean",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1378038988,
+      "text": "The soybean, soy bean, or soya bean is a species of legume native to East Asia, widely grown for its edible bean. Soy is a staple crop, the world's most grown legume, and an important animal feed."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Soybean」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Soybean#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1378038988,
+        "heading": "Cultivation",
+        "text": "Soybeans are globally important agricultural crops, grown as a major source of protein and oil. It prefers fertile, well-drained soils and requires a warm temperate climate with adequate rainfall or irrigation. Soybeans are mainly grown in the United States, Brazil, and Argentina.\nIt is usually planted in straight rows using modern machinery, and pests and weeds must be controlled to maintain the crop. After maturity, it is harvested using mechanized harvesting machines. Soybeans are used in the production of many food and industrial products, such as tofu, oils, and feed, in addition to their role in improving soil fertility by fixing nitrogen.\n\n■ Conditions\n\nCultivation is successful in climates with hot summers, with optimum growing conditions in mean temperatures of 20 to 30 °C (70 to 85 °F); temperatures of below 20 °C (70 °F) and over 40 °C (105 °F) stunt growth significantly. They can grow in a wide range of soils, with optimum growth in moist alluvial soils with good organic content. Soybeans, like most legumes, perform nitrogen fixation by establishing a symbiotic relationship with the bacterium Bradyrhizobium japonicum (syn. Rhizobium japonicum; Jordan 1982). This ability to fix nitrogen allows farmers to reduce nitrogen fertilizer use and increase yields when growing other crops in rotation with soy. There may be some trade-offs, however, in the long-term abundance of organic material in soils where soy and other crops (for example, corn) are grown in rotation. For best results, though, an inoculum of the correct strain of bacteria should be mixed with the soybean (or any legume) seed before planting. Modern crop cultivars generally reach a height of around 1 m (3 ft), and take 80–120 days from sowing to harvesting.",
+        "truncated": true
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-08"
+  },
+  "distribution": {
+    "native": [
+      "AMU",
+      "CHC",
+      "CHH",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHQ",
+      "CHS",
+      "CHT",
+      "CHX",
+      "JAP",
+      "KHA",
+      "KOR",
+      "NNS",
+      "PRM",
+      "TAI"
+    ],
+    "introduced": [
+      "ALA",
+      "ASS",
+      "BAN",
+      "BEN",
+      "BLR",
+      "BLT",
+      "BRY",
+      "CAY",
+      "CBD",
+      "CHA",
+      "CLM",
+      "CMN",
+      "CON",
+      "CUB",
+      "CZE",
+      "DOM",
+      "ECU",
+      "EHM",
+      "ETH",
+      "GAL",
+      "GER",
+      "GRB",
+      "GUI",
+      "HON",
+      "ILL",
+      "IND",
+      "IRE",
+      "IRQ",
+      "JAW",
+      "KAZ",
+      "KEN",
+      "KGZ",
+      "LAO",
+      "MON",
+      "MRY",
+      "MYA",
+      "NCS",
+      "NEP",
+      "NWC",
+      "NWG",
+      "NWH",
+      "PAK",
+      "PHI",
+      "PUE",
+      "QLD",
+      "RUC",
+      "RUE",
+      "RUN",
+      "RUS",
+      "SRL",
+      "TAN",
+      "TCS",
+      "THA",
+      "TKM",
+      "TRT",
+      "TZK",
+      "UKR",
+      "UZB",
+      "VER",
+      "VIE",
+      "WHM",
+      "WIS"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/60450240-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-08"
+  },
+  "traits_raw": {
+    "lifeform_description": "scrambling annual or perennial",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/60450240-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-08"
+  },
+  "photo": {
+    "file": "photos/wfo-0000181462.webp",
+    "author": null,
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Soybean.USDA.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 480px 以下、WebP に変換）",
+    "width": 323,
+    "height": 480,
+    "retrieved": "2026-10-08"
+  }
+}

@@ -160,3 +160,7 @@ h2.sub { font-size: 1.05rem; margin: 18px 0 8px; }
   max-width: var(--maxw); margin: 0 auto; padding: 16px var(--gutter) 32px;
   border-top: 1px solid var(--line); color: var(--muted); font-size: .85rem;
 }
+
+/* 節（栽培・毒性）の本文 */
+.section-text { white-space: pre-line; }
+.section-text .more { display: inline-block; margin-top: 6px; }

@@ -1,0 +1,135 @@
+{
+  "id": "wfo-0000473834",
+  "scientific_name": "Musa acuminata",
+  "authorship": "Colla",
+  "family": "Musaceae",
+  "synonyms": [
+    "Musa simiarum Kurz"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-08"
+  },
+  "names": {
+    "ja": [
+      "マレーヤマバショウ",
+      "ミバショウ"
+    ],
+    "en": [
+      "edible banana"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q132970",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-08"
+  },
+  "wikidata": "Q132970",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「マレーヤマバショウ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%9E%E3%83%90%E3%82%B7%E3%83%A7%E3%82%A6",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 109287068,
+      "text": "マレーヤマバショウ は、東南アジア原産のバナナの一種である。現代の食用デザートバナナの多くはこの種に由来するが、一部はリュウキュウバショウ との交雑種 である。およそ1万年前（紀元前8000年）にから栽培される。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Musa acuminata」",
+      "source_url": "https://en.wikipedia.org/wiki/Musa_acuminata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1374236565,
+      "text": "Musa acuminata is a species of banana native to Southern Asia, its range comprising the Indian subcontinent and Southeast Asia. Many of the modern edible dessert bananas are derived from this species, although some are hybrids with Musa balbisiana. First cultivated by humans around 8000 BCE, it is one of the early examples of domesticated plants."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-08"
+  },
+  "distribution": {
+    "native": [
+      "BAN",
+      "BOR",
+      "CHC",
+      "CHS",
+      "IND",
+      "JAW",
+      "LAO",
+      "LSI",
+      "MLY",
+      "MYA",
+      "PHI",
+      "SRL",
+      "SUL",
+      "SUM",
+      "THA",
+      "VIE"
+    ],
+    "introduced": [
+      "AND",
+      "CNY",
+      "COS",
+      "CRL",
+      "ECU",
+      "FIJ",
+      "FLA",
+      "GUI",
+      "JNF",
+      "NCB",
+      "NRU",
+      "NUE",
+      "SAM",
+      "SCS",
+      "SEN",
+      "SPA",
+      "TAN",
+      "TON",
+      "TRT",
+      "TUA",
+      "TUB",
+      "TUR"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/797527-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-08"
+  },
+  "traits_raw": {
+    "lifeform_description": "herbaceous tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/797527-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-08"
+  },
+  "photo": {
+    "file": "photos/wfo-0000473834.webp",
+    "author": "Jorgemach7",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bananapao.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 480px 以下、WebP に変換）",
+    "width": 480,
+    "height": 353,
+    "retrieved": "2026-10-08"
+  }
+}

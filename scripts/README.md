@@ -27,11 +27,11 @@ python3 scripts/build_all.py "Oryza sativa"
 | 1 | `fetch_wfo.py` | 学名、固定番号、科、異名 | World Flora Online（Zenodo 公開版） | CC0 1.0 |
 | 2 | `fetch_wcup.py` | 食用かどうか | World Checklist of Useful Plant Species 2020（PDF） | CC BY 4.0 |
 | 3 | `fetch_wikidata.py` | 各国語名、Wikipedia 記事名、写真候補 | Wikidata | CC0 1.0 |
-| 4 | `fetch_wikipedia.py` | 冒頭要約と版 ID（日本語、無ければ英語） | Wikipedia | CC BY-SA 4.0 |
+| 4 | `fetch_wikipedia.py` | 冒頭要約、「栽培」「毒性」の節、版 ID（日本語と英語） | Wikipedia | CC BY-SA 4.0 |
 | 5 | `fetch_photo.py` | 写真 1 枚（ライセンス確認・縮小） | Wikimedia Commons / iNaturalist | 写真ごと |
 | 6 | `fetch_wcvp.py` | 分布、生活形、気候帯 | World Checklist of Vascular Plants | CC BY 3.0 |
 | 7 | `validate.py` | 出典・ライセンスの検査 | | |
-| 8 | `build_pack.py` | パックと作者一覧の生成 | | |
+| 8 | `build_pack.py` | パック（index.json、species/、synonyms.json、pack.json）と作者一覧の生成、app/sw.js の版の更新 | | |
 | 別 | `build_areas.py` | 場所の一覧（TDWG の大陸・地域・地区） | WCVP の分布ファイル | CC BY 3.0 |
 | 別 | `build_places.py` | 州 → 国 → 地区の対応表（場所画面用） | TDWG WGSRPD レベル 4（CC BY 4.0）、Wikidata の国→大陸（CC0） | |
 

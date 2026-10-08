@@ -1,21 +1,51 @@
-"""中間ファイルからパック（data/packs/<pack>/species.json と pack.json）と docs/ATTRIBUTION.md を作る。
+"""中間ファイルからパックを作る（データ形式 2）。
 
-- validate.py を通った種だけを入れる。
-- データが無い項目は入れない（空欄）。推測で埋めない。
-- 形は設計図 6.3 のとおり。
+出力（data/packs/<pack>/）：
+  pack.json        パックの版・件数・出典・ライセンスの要約
+  index.json       一覧と検索と場所の絞り込みに使う小さな索引（1 種あたり数百バイト）
+  species/<id>.json  種ごとの詳細（説明、節、分布コード、出典）
+  synonyms.json    旧い学名 → 種の番号（検索のとき必要になってから読む）
+加えて docs/ATTRIBUTION.md を自動生成し、app/sw.js の APP_VERSION を上げる。
+
+- validate.py を通った種だけを入れる。データが無い項目は入れない（推測で埋めない）。
+- 分布は地名を持たず、TDWG の地区コードだけ（地名は data/tdwg_areas.json）。索引ではビット列にして小さくする。
 """
 
 from __future__ import annotations
 
+import base64
 import hashlib
-import json
+import re
 import sys
 
-from common import DOCS_DIR, PACKS_DIR, ROOT_DIR, SCHEMA_VERSION, load_json, log, read_species_list, save_json, today, work_path
+from common import DATA_DIR, DOCS_DIR, PACKS_DIR, ROOT_DIR, load_json, log, read_species_list, save_json, today, work_path
 from validate import validate_species
 
 PACK_ID = "edible-core"
 PACK_TITLE = {"ja": "主要作物", "en": "Major crops"}
+SCHEMA_VERSION = 2
+
+
+def area_order() -> list[str]:
+    areas = load_json(DATA_DIR / "tdwg_areas.json") or {"continents": []}
+    return sorted({a["code"] for c in areas["continents"] for r in c["regions"] for a in r["areas"]})
+
+
+def bitset(codes: list[str], index: dict[str, int]) -> str:
+    bits = bytearray((len(index) + 7) // 8)
+    for c in codes:
+        i = index.get(c)
+        if i is not None:
+            bits[i >> 3] |= 1 << (i & 7)
+    return base64.b64encode(bytes(bits)).decode("ascii")
+
+
+def src(d: dict, *extra: str) -> dict:
+    out = {k: d[k] for k in ("source", "source_url", "license", "license_url", "retrieved", "revision") if d.get(k)}
+    for k in extra:
+        if d.get(k) is not None:
+            out[k] = d[k]
+    return out
 
 
 def build_record(sci: str) -> dict:
@@ -34,46 +64,64 @@ def build_record(sci: str) -> dict:
         # 検索用の異名は種の階級のものだけ（変種・品種レベルは数が多すぎるので入れない）
         "synonyms": [s["name"] + (f" {s['authorship']}" if s.get("authorship") else "")
                      for s in wfo.get("synonyms", []) if s.get("rank") == "species"],
-        "taxonomy_source": {"source": wfo["source"], "source_url": wfo["source_url"], "license": wfo["license"],
-                            "retrieved": wfo["retrieved"]},
+        "taxonomy_source": src(wfo),
     }
+    # 表示する一般名：Wikipedia の記事名を先頭に、次に Wikidata の一般名・ラベル
+    names: dict[str, list[str]] = {}
+    for lang, d in wp.items():
+        title = d.get("title")
+        if title and title.lower() != wfo["scientific_name"].lower() and title.split()[0].lower() != wfo["scientific_name"].split()[0].lower():
+            names.setdefault(lang, []).append(title)
+    for lang, lst in (wd.get("names") or {}).items():
+        for n in lst:
+            if n not in names.setdefault(lang, []):
+                names[lang].append(n)
+    if names:
+        rec["names"] = names
+        rec["names_source"] = {"source": "Wikipedia の記事名と Wikidata", "source_url": wd.get("source_url"),
+                               "license": "CC0 1.0（Wikidata）。記事名は事実", "retrieved": wd.get("retrieved") or today()}
     if wd.get("qid"):
         rec["wikidata"] = wd["qid"]
-        if wd.get("names"):
-            rec["names"] = wd["names"]
-            rec["names_source"] = {"source": wd["source"], "source_url": wd["source_url"],
-                                   "license": wd["license"], "retrieved": wd["retrieved"]}
-        if wd.get("search_names"):
-            rec["search_names"] = wd["search_names"]  # 検索にだけ使う（画面には出さない）
+    if wd.get("search_names"):
+        rec["search_names"] = wd["search_names"]
     if wp:
-        rec["description"] = {
-            lang: {k: d[k] for k in ("text", "source", "source_url", "revision", "license", "license_url", "retrieved")}
-            for lang, d in wp.items()
-        }
+        rec["description"] = {lang: {**src(d), "text": d["text"]} for lang, d in wp.items()}
+        sections: dict = {}
+        for lang, d in wp.items():
+            for key, sec in (d.get("sections") or {}).items():
+                sections.setdefault(key, {})[lang] = {**src(sec), "heading": sec["heading"], "text": sec["text"], "truncated": sec["truncated"]}
+        if sections:
+            rec["sections"] = sections
     if wcup:
-        rec["edible"] = {
-            "is_food": wcup["is_food"],
-            "use_codes": wcup["use_codes"],  # WCUP の 10 分類のコード。訳はアプリ側（i18n）
-            "uses": wcup["uses"],
-            "source": wcup["source"], "source_url": wcup["source_url"],
-            "license": wcup["license"], "retrieved": wcup["retrieved"],
-        }
+        rec["edible"] = {"is_food": wcup["is_food"], "use_codes": wcup["use_codes"], **src(wcup)}
     if wcvp:
-        rec["distribution"] = {
-            "native": [e["code"] for e in wcvp["distribution"]["native"]],
-            "introduced": [e["code"] for e in wcvp["distribution"]["introduced"]],
-            "area_names": {e["code"]: e["area"] for k in ("native", "introduced") for e in wcvp["distribution"][k]},
-            "source": wcvp["source"], "source_url": wcvp["source_url"],
-            "license": wcvp["license"], "retrieved": wcvp["retrieved"],
-        }
+        rec["distribution"] = {"native": [e["code"] for e in wcvp["distribution"]["native"]],
+                               "introduced": [e["code"] for e in wcvp["distribution"]["introduced"]], **src(wcvp)}
         raw = {k: wcvp[k] for k in ("lifeform_description", "climate_description") if wcvp.get(k)}
         if raw:
-            rec["traits_raw"] = {**raw, "source": wcvp["source"], "source_url": wcvp["source_url"],
-                                 "license": wcvp["license"], "retrieved": wcvp["retrieved"]}
+            rec["traits_raw"] = {**raw, **src(wcvp)}
     if photo:
         rec["photo"] = {k: photo[k] for k in ("file", "author", "license", "license_url", "source", "source_page",
                                               "modified", "modification", "width", "height", "retrieved")}
     return rec
+
+
+def index_entry(rec: dict, idx: dict[str, int]) -> dict:
+    e = {"id": rec["id"], "sci": rec["scientific_name"], "fam": rec.get("family")}
+    if rec.get("names"):
+        e["n"] = {lang: lst[:1] for lang, lst in rec["names"].items()}  # 表示は各言語 1 つ
+    if rec.get("search_names"):
+        e["sn"] = rec["search_names"]
+    if rec.get("photo"):
+        p = rec["photo"]
+        e["p"] = {"f": p["file"], "a": p.get("author"), "l": p["license"], "lu": p["license_url"], "s": p["source"], "sp": p["source_page"], "w": p["width"], "h": p["height"]}
+    ed = rec.get("edible") or {}
+    e["food"] = bool(ed.get("is_food"))
+    e["tox"] = "PO" in (ed.get("use_codes") or [])
+    if rec.get("distribution"):
+        e["dn"] = bitset(rec["distribution"]["native"], idx)
+        e["di"] = bitset(rec["distribution"]["introduced"], idx)
+    return e
 
 
 def write_attribution(records: list[dict]) -> None:
@@ -86,22 +134,24 @@ def write_attribution(records: list[dict]) -> None:
             author = p["author"] or "作者表示なし（パブリックドメイン）"
             lines.append(f"| {r['scientific_name']} | {author} | [{p['license']}]({p['license_url']}) | "
                          f"[{p['source']}]({p['source_page']}) | {p['modification']} |")
-    lines += ["", "## 説明文", "", "| 種 | 出典 | 版 | ライセンス |", "|---|---|---|---|"]
+    lines += ["", "## 説明文と節", "", "| 種 | 出典 | 版 | ライセンス |", "|---|---|---|---|"]
     for r in records:
         for lang, d in (r.get("description") or {}).items():
-            lines.append(f"| {r['scientific_name']} | [{d['source']}]({d['source_url']}) | {d['revision']} | "
-                         f"[{d['license']}]({d['license_url']}) |")
+            lines.append(f"| {r['scientific_name']} | [{d['source']}]({d['source_url']}) | {d.get('revision', '')} | [{d['license']}]({d['license_url']}) |")
+        for key, per_lang in (r.get("sections") or {}).items():
+            for lang, d in per_lang.items():
+                lines.append(f"| {r['scientific_name']} | [{d['source']}]({d['source_url']}) | {d.get('revision', '')} | [{d['license']}]({d['license_url']}) |")
     lines += ["", "## データ", "",
               "- 学名・固定番号・異名：World Flora Online Plant List（CC0 1.0）",
-              "- 各国語名：Wikidata（CC0 1.0）",
-              "- 食用かどうか：World Checklist of Useful Plant Species, Diazgranados et al. 2020, RBG Kew（CC BY 4.0）",
-              "- 分布・生活形：World Checklist of Vascular Plants, RBG Kew（CC BY 3.0）", ""]
+              "- 各国語名：Wikipedia の記事名と Wikidata（CC0 1.0）",
+              "- 食用かどうか・毒性の記録：World Checklist of Useful Plant Species, Diazgranados et al. 2020, RBG Kew（CC BY 4.0）",
+              "- 分布・生活形：World Checklist of Vascular Plants, RBG Kew（CC BY 3.0）",
+              "- 国と地区の対応：TDWG WGSRPD レベル 4（CC BY 4.0）、Wikidata（CC0 1.0）", ""]
     (DOCS_DIR / "ATTRIBUTION.md").write_text("\n".join(lines), encoding="utf-8")
 
 
 def bump_app_version(pack_version: str) -> None:
     """app/sw.js の APP_VERSION を「パックの版.連番」に上げる。利用者の端末の保存を更新させるため。"""
-    import re
     sw = ROOT_DIR / "app" / "sw.js"
     text = sw.read_text(encoding="utf-8")
     m = re.search(r'const APP_VERSION = "([\d-]+)\.(\d+)";', text)
@@ -115,8 +165,7 @@ def bump_app_version(pack_version: str) -> None:
 
 
 def main(only: list[str] | None = None) -> int:
-    records = []
-    skipped = []
+    records, skipped = [], []
     for row in read_species_list():
         sci = row["scientific_name"]
         if only and sci not in only:
@@ -127,37 +176,48 @@ def main(only: list[str] | None = None) -> int:
             continue
         records.append(build_record(sci))
     records.sort(key=lambda r: r["scientific_name"])
+
+    areas = area_order()
+    idx = {c: i for i, c in enumerate(areas)}
     pack_dir = PACKS_DIR / PACK_ID
-    species_path = pack_dir / "species.json"
-    save_json(species_path, records)
-    digest = hashlib.sha256(species_path.read_bytes()).hexdigest()
-    licenses = sorted({r[k]["license"] for r in records for k in ("taxonomy_source", "names_source", "edible", "distribution", "photo")
-                       if r.get(k)} | {d["license"] for r in records for d in (r.get("description") or {}).values()})
+    sp_dir = pack_dir / "species"
+    sp_dir.mkdir(parents=True, exist_ok=True)
+    for old in sp_dir.glob("*.json"):
+        old.unlink()
+    for r in records:
+        save_json(sp_dir / f"{r['id']}.json", r)
+    index = {"schema_version": SCHEMA_VERSION, "areas": areas, "species": [index_entry(r, idx) for r in records]}
+    save_json(pack_dir / "index.json", index)
+    synonyms = sorted({(s, r["id"]) for r in records for s in r.get("synonyms", [])})
+    save_json(pack_dir / "synonyms.json", [[s, i] for s, i in synonyms])
+    legacy = pack_dir / "species.json"
+    if legacy.exists():
+        legacy.unlink()
+
+    digest = hashlib.sha256((pack_dir / "index.json").read_bytes()).hexdigest()
+    licenses = sorted({r[k]["license"] for r in records for k in ("taxonomy_source", "edible", "distribution", "photo") if r.get(k)}
+                      | {d["license"] for r in records for d in (r.get("description") or {}).values()} | {"CC0 1.0"})
     pack = {
-        "id": PACK_ID,
-        "title": PACK_TITLE,
-        "schema_version": SCHEMA_VERSION,
-        "version": today(),
-        "built": today(),
-        "species_count": len(records),
-        "species_file": "species.json",
-        "species_sha256": digest,
-        "photos_dir": "../../photos/",
+        "id": PACK_ID, "title": PACK_TITLE, "schema_version": SCHEMA_VERSION,
+        "version": today(), "built": today(), "species_count": len(records),
+        "index_file": "index.json", "species_dir": "species/", "synonyms_file": "synonyms.json",
+        "areas_file": "../../tdwg_areas.json", "photos_dir": "../../photos/", "index_sha256": digest,
         "licenses_included": licenses,
         "sources": {
             "World Flora Online Plant List": records[0]["taxonomy_source"]["source"] if records else None,
-            "Wikidata": "CC0 1.0",
-            "Wikipedia": "CC BY-SA 4.0",
+            "Wikidata": "CC0 1.0", "Wikipedia": "CC BY-SA 4.0",
             "World Checklist of Useful Plant Species (2020)": "CC BY 4.0",
             "World Checklist of Vascular Plants": "CC BY 3.0",
-            "photos": "写真ごと（species.json の photo を参照）",
+            "photos": "写真ごと（species/<id>.json の photo を参照）",
         },
-        "disclaimer": {"ja": "同定や利用は自己責任でお願いします。この図鑑だけを根拠に野生の植物を食べないでください。"},
+        "disclaimer": {"ja": "同定や利用は自己責任でお願いします。この図鑑だけを根拠に野生の植物を食べないでください。",
+                       "en": "Identification and use are at your own risk. Do not eat wild plants based on this guide alone."},
     }
     save_json(pack_dir / "pack.json", pack)
     write_attribution(records)
     bump_app_version(pack["version"])
-    log(f"パック {PACK_ID}: {len(records)} 種を書き出しました -> {species_path}")
+    size = (pack_dir / "index.json").stat().st_size
+    log(f"パック {PACK_ID}: {len(records)} 種。索引 {size} バイト（1 種あたり {size // max(1, len(records))}）、異名 {len(synonyms)} 件")
     for sci, problems in skipped:
         log(f"  [除外] {sci}: " + "; ".join(problems))
     return 0

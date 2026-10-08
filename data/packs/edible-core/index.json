@@ -1,0 +1,767 @@
+{
+  "schema_version": 2,
+  "areas": [
+    "ABT",
+    "AFG",
+    "AGE",
+    "AGS",
+    "AGW",
+    "ALA",
+    "ALB",
+    "ALD",
+    "ALG",
+    "ALT",
+    "ALU",
+    "AMU",
+    "AND",
+    "ANG",
+    "ANT",
+    "ARI",
+    "ARK",
+    "ARU",
+    "ASC",
+    "ASK",
+    "ASP",
+    "ASS",
+    "ATP",
+    "AUT",
+    "AZO",
+    "BAH",
+    "BAL",
+    "BAN",
+    "BEN",
+    "BER",
+    "BGM",
+    "BIS",
+    "BKN",
+    "BLR",
+    "BLT",
+    "BLZ",
+    "BOL",
+    "BOR",
+    "BOT",
+    "BRC",
+    "BRY",
+    "BUL",
+    "BUR",
+    "BZC",
+    "BZE",
+    "BZL",
+    "BZN",
+    "BZS",
+    "CAB",
+    "CAF",
+    "CAL",
+    "CAY",
+    "CBD",
+    "CGS",
+    "CHA",
+    "CHC",
+    "CHH",
+    "CHI",
+    "CHM",
+    "CHN",
+    "CHQ",
+    "CHS",
+    "CHT",
+    "CHX",
+    "CKI",
+    "CLC",
+    "CLM",
+    "CLN",
+    "CLS",
+    "CMN",
+    "CNT",
+    "CNY",
+    "COL",
+    "COM",
+    "CON",
+    "COO",
+    "COR",
+    "COS",
+    "CPI",
+    "CPP",
+    "CPV",
+    "CRL",
+    "CRZ",
+    "CTA",
+    "CTM",
+    "CUB",
+    "CVI",
+    "CYP",
+    "CZE",
+    "DEL",
+    "DEN",
+    "DJI",
+    "DOM",
+    "DSV",
+    "EAI",
+    "EAS",
+    "ECU",
+    "EGY",
+    "EHM",
+    "ELS",
+    "EQG",
+    "ERI",
+    "ETH",
+    "FAL",
+    "FIJ",
+    "FIN",
+    "FLA",
+    "FOR",
+    "FRA",
+    "FRG",
+    "GAB",
+    "GAL",
+    "GAM",
+    "GEO",
+    "GER",
+    "GGI",
+    "GHA",
+    "GIL",
+    "GNB",
+    "GNL",
+    "GRB",
+    "GRC",
+    "GST",
+    "GUA",
+    "GUI",
+    "GUY",
+    "HAI",
+    "HAW",
+    "HBI",
+    "HMD",
+    "HON",
+    "HUN",
+    "ICE",
+    "IDA",
+    "ILL",
+    "IND",
+    "INI",
+    "IOW",
+    "IRE",
+    "IRK",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "IVO",
+    "JAM",
+    "JAP",
+    "JAW",
+    "JNF",
+    "KAM",
+    "KAN",
+    "KAZ",
+    "KEG",
+    "KEN",
+    "KER",
+    "KGZ",
+    "KHA",
+    "KOR",
+    "KRA",
+    "KRI",
+    "KRY",
+    "KTY",
+    "KUR",
+    "KUW",
+    "KZN",
+    "LAB",
+    "LAO",
+    "LBR",
+    "LBS",
+    "LBY",
+    "LDV",
+    "LEE",
+    "LES",
+    "LIN",
+    "LOU",
+    "LSI",
+    "MAG",
+    "MAI",
+    "MAN",
+    "MAQ",
+    "MAS",
+    "MAU",
+    "MCI",
+    "MCS",
+    "MDG",
+    "MDR",
+    "MDV",
+    "MIC",
+    "MIN",
+    "MLI",
+    "MLW",
+    "MLY",
+    "MNT",
+    "MOL",
+    "MON",
+    "MOR",
+    "MOZ",
+    "MPE",
+    "MRN",
+    "MRQ",
+    "MRS",
+    "MRY",
+    "MSI",
+    "MSO",
+    "MTN",
+    "MXC",
+    "MXE",
+    "MXG",
+    "MXI",
+    "MXN",
+    "MXS",
+    "MXT",
+    "MYA",
+    "NAM",
+    "NAT",
+    "NBR",
+    "NCA",
+    "NCB",
+    "NCS",
+    "NDA",
+    "NEB",
+    "NEP",
+    "NET",
+    "NEV",
+    "NFK",
+    "NFL",
+    "NGA",
+    "NGR",
+    "NIC",
+    "NLA",
+    "NNS",
+    "NOR",
+    "NRU",
+    "NSC",
+    "NSW",
+    "NTA",
+    "NUE",
+    "NUN",
+    "NWC",
+    "NWG",
+    "NWH",
+    "NWJ",
+    "NWM",
+    "NWT",
+    "NWY",
+    "NZN",
+    "NZS",
+    "OFS",
+    "OGA",
+    "OHI",
+    "OKL",
+    "OMA",
+    "ONT",
+    "ORE",
+    "PAK",
+    "PAL",
+    "PAN",
+    "PAR",
+    "PEI",
+    "PEN",
+    "PER",
+    "PHI",
+    "PHX",
+    "PIT",
+    "POL",
+    "POR",
+    "PRM",
+    "PUE",
+    "QLD",
+    "QUE",
+    "REU",
+    "RHO",
+    "ROD",
+    "ROM",
+    "RUC",
+    "RUE",
+    "RUN",
+    "RUS",
+    "RUW",
+    "RWA",
+    "SAK",
+    "SAM",
+    "SAR",
+    "SAS",
+    "SAU",
+    "SCA",
+    "SCI",
+    "SCS",
+    "SCZ",
+    "SDA",
+    "SEL",
+    "SEN",
+    "SEY",
+    "SGE",
+    "SIC",
+    "SIE",
+    "SIN",
+    "SOA",
+    "SOC",
+    "SOL",
+    "SOM",
+    "SPA",
+    "SRL",
+    "SSA",
+    "STH",
+    "SUD",
+    "SUL",
+    "SUM",
+    "SUR",
+    "SVA",
+    "SWC",
+    "SWE",
+    "SWI",
+    "SWZ",
+    "TAI",
+    "TAN",
+    "TAS",
+    "TCI",
+    "TCS",
+    "TDC",
+    "TEN",
+    "TEX",
+    "THA",
+    "TKM",
+    "TOG",
+    "TOK",
+    "TON",
+    "TRT",
+    "TUA",
+    "TUB",
+    "TUE",
+    "TUN",
+    "TUR",
+    "TUV",
+    "TVA",
+    "TVL",
+    "TZK",
+    "UGA",
+    "UKR",
+    "URU",
+    "UTA",
+    "UZB",
+    "VAN",
+    "VEN",
+    "VER",
+    "VIC",
+    "VIE",
+    "VNA",
+    "VRG",
+    "WAK",
+    "WAL",
+    "WAS",
+    "WAU",
+    "WDC",
+    "WHM",
+    "WIN",
+    "WIS",
+    "WSA",
+    "WSB",
+    "WVA",
+    "WYO",
+    "XMS",
+    "YAK",
+    "YEM",
+    "YUG",
+    "YUK",
+    "ZAI",
+    "ZAM",
+    "ZIM"
+  ],
+  "species": [
+    {
+      "id": "wfo-0000181462",
+      "sci": "Glycine max",
+      "fam": "Fabaceae",
+      "n": {
+        "ja": [
+          "ダイズ"
+        ],
+        "en": [
+          "Soybean"
+        ]
+      },
+      "sn": {
+        "ja": [
+          "大豆"
+        ],
+        "en": [
+          "soya bean plant",
+          "soybean plant",
+          "soy bean plant",
+          "soy plant",
+          "soy",
+          "soya",
+          "soybeans"
+        ]
+      },
+      "p": {
+        "f": "photos/wfo-0000181462.webp",
+        "a": null,
+        "l": "Public domain",
+        "lu": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "s": "Wikimedia Commons",
+        "sp": "https://commons.wikimedia.org/wiki/File:Soybean.USDA.jpg",
+        "w": 323,
+        "h": 480
+      },
+      "food": true,
+      "tox": true,
+      "dn": "AAgAAAAAgP8AAAAAAAAAAAAAAhgAAAAAAAAAACAAAAAAAgAAAAAAAgAAAAAAAA==",
+      "di": "IAAgGAYBWAAkBCARRYAEEcQkRAUgAAAAAgEIEgDgACAQDB4AACAAJEaAkgIKAA=="
+    },
+    {
+      "id": "wfo-0001297246",
+      "sci": "Ipomoea batatas",
+      "fam": "Convolvulaceae",
+      "n": {
+        "ja": [
+          "サツマイモ"
+        ],
+        "en": [
+          "Sweet potato"
+        ]
+      },
+      "sn": {
+        "ja": [
+          "甘藷",
+          "さつまいも",
+          "シロユタカ",
+          "蕃薯",
+          "甘薯",
+          "八里半",
+          "琉球いも",
+          "薩摩芋",
+          "さつま芋",
+          "唐芋",
+          "十三里",
+          "かんしょ",
+          "甘藷糖",
+          "シロサツマ",
+          "シモンイモ"
+        ],
+        "en": [
+          "potato"
+        ]
+      },
+      "p": {
+        "f": "photos/wfo-0001297246.webp",
+        "a": "Earth100",
+        "l": "CC BY-SA 3.0",
+        "lu": "https://creativecommons.org/licenses/by-sa/3.0",
+        "s": "Wikimedia Commons",
+        "sp": "https://commons.wikimedia.org/wiki/File:Ipomoea_batatas_(Sweet_Potato)_Flower.jpg",
+        "w": 480,
+        "h": 360
+      },
+      "food": true,
+      "tox": true,
+      "dn": "AAAAAAgAAAAEIAAACQAACAQAAAAAAAAAAGAGAAgAAIAAAAAAAAAAAAAAQAAAAA==",
+      "di": "NDEgKzH82iCojmKQZqVw8oCAJRcgdZBh7RqoEaJoGCAdrUA4TLwPJPeRLZ4EpQ=="
+    },
+    {
+      "id": "wfo-0001008355",
+      "sci": "Malus × domestica",
+      "fam": "Rosaceae",
+      "n": {
+        "ja": [
+          "リンゴ"
+        ],
+        "en": [
+          "Apple"
+        ]
+      },
+      "sn": {
+        "ja": [
+          "西洋林檎",
+          "リンゴ"
+        ],
+        "en": [
+          "apple tree"
+        ]
+      },
+      "p": {
+        "f": "photos/wfo-0001008355.webp",
+        "a": "W.carter",
+        "l": "CC0 1.0",
+        "lu": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "s": "Wikimedia Commons",
+        "sp": "https://commons.wikimedia.org/wiki/File:Tree_with_red_apples_in_Barkedal_4.jpg",
+        "w": 480,
+        "h": 480
+      },
+      "food": true,
+      "tox": true,
+      "dn": "AgAAAAAAAJAAAAAAAAAAAAAAQAQAAAAAAAAAAAAAACAAAAAAAAAAAACAEAAAAA==",
+      "di": "bAAJRYYCBAJAAYAHhRIGA0hnIJABIAuNAAfAfkGDCxmGUBcQABBAiAQAignrCA=="
+    },
+    {
+      "id": "wfo-0000235507",
+      "sci": "Manihot esculenta",
+      "fam": "Euphorbiaceae",
+      "n": {
+        "ja": [
+          "キャッサバ"
+        ],
+        "en": [
+          "Cassava"
+        ]
+      },
+      "sn": {
+        "ja": [
+          "マンジョーカ",
+          "キャサバ",
+          "ユカイモ",
+          "ユカ",
+          "マニオク",
+          "キャッサバ芋",
+          "マンジョッカ",
+          "マンジョカ",
+          "カサーバ",
+          "キャッサヴァ"
+        ],
+        "en": [
+          "mandioca",
+          "cassava plant"
+        ]
+      },
+      "p": {
+        "f": "photos/wfo-0000235507.webp",
+        "a": "David Monniaux",
+        "l": "CC BY-SA 3.0",
+        "lu": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "s": "Wikimedia Commons",
+        "sp": "https://commons.wikimedia.org/wiki/File:Manihot_esculenta_dsc07325.jpg",
+        "w": 480,
+        "h": 360
+      },
+      "food": true,
+      "tox": true,
+      "dn": "AAAAABD4AAAEAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA==",
+      "di": "IDAgugkA0iEAKiIQTEVp2IRABQAAVIAA6FAGAYgIAIAABEAhBAADAusBYCQEIQ=="
+    },
+    {
+      "id": "wfo-0000473834",
+      "sci": "Musa acuminata",
+      "fam": "Musaceae",
+      "n": {
+        "ja": [
+          "マレーヤマバショウ"
+        ],
+        "en": [
+          "edible banana"
+        ]
+      },
+      "p": {
+        "f": "photos/wfo-0000473834.webp",
+        "a": "Jorgemach7",
+        "l": "CC BY-SA 3.0",
+        "lu": "https://creativecommons.org/licenses/by-sa/3.0",
+        "s": "Wikimedia Commons",
+        "sp": "https://commons.wikimedia.org/wiki/File:Bananapao.JPG",
+        "w": 480,
+        "h": 353
+      },
+      "food": true,
+      "tox": false,
+      "dn": "AAAACCAAgCAAAAAAAAAAAIAABAAgQABAAAAIAAAAAAAQAAAAACAGAAIAAAIAAA==",
+      "di": "ABAAAAAAAACAIAIAAQUAEAAACAAAAAAAAAAAAYAIAAAAAABBBBAABOAJAAAAAA=="
+    },
+    {
+      "id": "wfo-0000882438",
+      "sci": "Oryza sativa",
+      "fam": "Poaceae",
+      "n": {
+        "ja": [
+          "イネ"
+        ],
+        "en": [
+          "rice"
+        ]
+      },
+      "sn": {
+        "ja": [
+          "禾",
+          "稲",
+          "稲穂",
+          "いね",
+          "稻",
+          "稲禾",
+          "禾稲",
+          "サティバ種"
+        ],
+        "en": [
+          "paddy"
+        ]
+      },
+      "p": {
+        "f": "photos/wfo-0000882438.webp",
+        "a": "Leo Michels",
+        "l": "Public domain",
+        "lu": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "s": "Wikimedia Commons",
+        "sp": "https://commons.wikimedia.org/wiki/File:Reis-Rispe.jpg",
+        "w": 360,
+        "h": 480
+      },
+      "food": true,
+      "tox": false,
+      "dn": "AAAAAAAAgCgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+      "di": "YhEhGDn/VpemIqARHxBLWszwR5ggZJBQDE6OESxGAOIYD1GYDDAEhk+KUooGLA=="
+    },
+    {
+      "id": "wfo-0001029216",
+      "sci": "Solanum lycopersicum",
+      "fam": "Solanaceae",
+      "n": {
+        "ja": [
+          "トマト"
+        ],
+        "en": [
+          "Tomato"
+        ]
+      },
+      "sn": {
+        "ja": [
+          "赤茄子",
+          "ミニトマト",
+          "赤ナス",
+          "とまと",
+          "蕃茄",
+          "プチトマト",
+          "ポモドーロ"
+        ],
+        "en": [
+          "love apple",
+          "tomato plant"
+        ]
+      },
+      "p": {
+        "f": "photos/wfo-0001029216.webp",
+        "a": "User:Luigi Chiesa",
+        "l": "CC BY-SA 3.0",
+        "lu": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "s": "Wikimedia Commons",
+        "sp": "https://commons.wikimedia.org/wiki/File:Pomodorini_sulla_pianta.jpg",
+        "w": 480,
+        "h": 360
+      },
+      "food": true,
+      "tox": true,
+      "dn": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA==",
+      "di": "ILCpG5cCNgDkKvJTBYUuwcCHZDAhNpm16A/ZXaipmLlUdB09AgAAgsWZ+BoI4Q=="
+    },
+    {
+      "id": "wfo-0001031908",
+      "sci": "Solanum tuberosum",
+      "fam": "Solanaceae",
+      "n": {
+        "ja": [
+          "ジャガイモ"
+        ],
+        "en": [
+          "Potato"
+        ]
+      },
+      "sn": {
+        "ja": [
+          "馬鈴薯",
+          "バレイショ"
+        ],
+        "en": [
+          "potato plant",
+          "tater",
+          "tattie",
+          "spud"
+        ]
+      },
+      "p": {
+        "f": "photos/wfo-0001031908.webp",
+        "a": "Forest & Kim Starr",
+        "l": "CC BY 3.0",
+        "lu": "https://creativecommons.org/licenses/by/3.0",
+        "s": "Wikimedia Commons",
+        "sp": "https://commons.wikimedia.org/wiki/File:Starr_080914-9946_Solanum_tuberosum.jpg",
+        "w": 360,
+        "h": 480
+      },
+      "food": true,
+      "tox": true,
+      "dn": "GAAAABAAAAAeAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAA==",
+      "di": "AAAgSAQAAAAAAAAQBBAEwcAEAAAgAAAIAAEAAAAACAAAABQAAAAAAACAEAIAIA=="
+    },
+    {
+      "id": "wfo-0000905667",
+      "sci": "Triticum aestivum",
+      "fam": "Poaceae",
+      "n": {
+        "ja": [
+          "パンコムギ"
+        ],
+        "en": [
+          "Common wheat"
+        ]
+      },
+      "sn": {
+        "ja": [
+          "普通コムギ",
+          "フツウコムギ",
+          "コムギ"
+        ]
+      },
+      "p": {
+        "f": "photos/wfo-0000905667.webp",
+        "a": "Rasbak",
+        "l": "CC BY-SA 3.0",
+        "lu": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "s": "Wikimedia Commons",
+        "sp": "https://commons.wikimedia.org/wiki/File:Tarweaar.jpg",
+        "w": 218,
+        "h": 480
+      },
+      "food": true,
+      "tox": true,
+      "dn": "AAAAAAAAAAAAAAAAAAAAAIAQAACAAAAAAAAAAAAAAGAAAAAAAAAAIAAIAAACAA==",
+      "di": "Y4npTIarxG70saBVTxeO73xvdt0FYQvdBn/PemejPxue3/8eoTnEjAXG38vp/A=="
+    },
+    {
+      "id": "wfo-0000907754",
+      "sci": "Zea mays",
+      "fam": "Poaceae",
+      "n": {
+        "ja": [
+          "トウモロコシ"
+        ],
+        "en": [
+          "Maize"
+        ]
+      },
+      "sn": {
+        "ja": [
+          "とうもろこし",
+          "コーン"
+        ],
+        "en": [
+          "corn plant",
+          "maize plant"
+        ]
+      },
+      "p": {
+        "f": "photos/wfo-0000907754.webp",
+        "a": "Silverije",
+        "l": "CC BY-SA 3.0",
+        "lu": "https://creativecommons.org/licenses/by-sa/3.0",
+        "s": "Wikimedia Commons",
+        "sp": "https://commons.wikimedia.org/wiki/File:Klip_kukuruza_uzgojen_u_Me%C4%91imurju_(Croatia).JPG",
+        "w": 360,
+        "h": 480
+      },
+      "food": true,
+      "tox": true,
+      "dn": "AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+      "di": "5rmj3z/+/i3kM6IZV7Vf0+znZ9whZJnYrWeNej7oC73c//cTaDiBpE+Ovt7ObQ=="
+    }
+  ]
+}
