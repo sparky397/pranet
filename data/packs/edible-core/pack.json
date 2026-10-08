@@ -1,0 +1,33 @@
+{
+  "id": "edible-core",
+  "title": {
+    "ja": "主要作物",
+    "en": "Major crops"
+  },
+  "schema_version": 1,
+  "version": "2026-10-08",
+  "built": "2026-10-08",
+  "species_count": 10,
+  "species_file": "species.json",
+  "species_sha256": "5f87e492dabf69775f96451c5cade73b914ee16cc86ccbea86e1c37a6ba4cb08",
+  "photos_dir": "../../photos/",
+  "licenses_included": [
+    "CC BY 3.0",
+    "CC BY 4.0",
+    "CC BY-SA 3.0",
+    "CC BY-SA 4.0",
+    "CC0 1.0",
+    "Public domain"
+  ],
+  "sources": {
+    "World Flora Online Plant List": "World Flora Online Plant List 2026-06",
+    "Wikidata": "CC0 1.0",
+    "Wikipedia": "CC BY-SA 4.0",
+    "World Checklist of Useful Plant Species (2020)": "CC BY 4.0",
+    "World Checklist of Vascular Plants": "CC BY 3.0",
+    "photos": "写真ごと（species.json の photo を参照）"
+  },
+  "disclaimer": {
+    "ja": "同定や利用は自己責任でお願いします。この図鑑だけを根拠に野生の植物を食べないでください。"
+  }
+}

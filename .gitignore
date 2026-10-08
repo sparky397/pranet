@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 収集した生データ（大きいので git 管理外。スクリプトで再取得できる）
+scripts/cache/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+*.swp
