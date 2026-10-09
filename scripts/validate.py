@@ -9,6 +9,7 @@
 - license は設計図 4 章の「使ってよいライセンス」に含まれること。
 - description と節は source_url と revision が必要。photo は author（CC0/PD 以外）/ license_url / source_page と実ファイルが必要。
 - 分布の地区コードは data/tdwg_areas.json にあるものだけ。places.json の地区コードも同様。
+- 訂正の層 data/overrides/ は overrides.py の決まり（項目の白リスト、出典 URL とライセンス必須）に合うこと。
 """
 
 from __future__ import annotations
@@ -16,6 +17,7 @@ from __future__ import annotations
 import sys
 
 from common import ALLOWED_LICENSES, DATA_DIR, load_json, log, read_species_list, work_path
+from overrides import validate_overrides
 
 
 def known_area_codes() -> set[str]:
@@ -111,6 +113,19 @@ def main(only: list[str] | None = None) -> int:
             log(f"[NG] {sci}")
             for p in problems:
                 log(f"     - {p}")
+    known_ids = set()
+    for row in read_species_list():
+        wfo = load_json(work_path(row["scientific_name"], "wfo"))
+        if wfo and wfo.get("id"):
+            known_ids.add(wfo["id"])
+    po = validate_overrides(known_ids, codes)
+    if po:
+        bad += 1
+        log("[NG] 訂正の層（data/overrides）")
+        for p in po:
+            log(f"     - {p}")
+    else:
+        log("[ok] 訂正の層（data/overrides）")
     pp = validate_places(codes)
     if pp:
         bad += 1

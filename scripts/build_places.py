@@ -26,6 +26,10 @@ SPARQL = "https://query.wikidata.org/sparql"
 CONTINENTS = ["asia", "africa", "europe", "north_america", "south_america", "oceania"]
 WD_CONTINENT = {"Q48": "asia", "Q15": "africa", "Q46": "europe", "Q49": "north_america",
                 "Q18": "south_america", "Q538": "oceania", "Q55643": "oceania"}
+# TDWG に残っている古い国コード → 今のコード。PI（西沙諸島）は国に対応しないので外す
+ISO_RENAME = {"BU": "MM", "TP": "TL", "YU": "RS"}
+ISO_DROP = {"PI"}
+
 # 複数の大陸にまたがる国の扱い（地理の慣用に従う）
 TIE_BREAK = {"RU": "europe", "TR": "asia", "KZ": "asia", "CY": "asia", "EG": "africa", "AZ": "asia", "GE": "asia",
              "AM": "asia", "KI": "oceania", "PW": "oceania", "SB": "oceania", "TV": "oceania", "UM": "oceania",
@@ -61,7 +65,8 @@ def main() -> None:
             if len(parts) < 4:
                 continue
             l3, iso = parts[2].strip(), parts[3].strip().upper()
-            if iso and l3 and l3 in known_l3:
+            iso = ISO_RENAME.get(iso, iso)
+            if iso and l3 and l3 in known_l3 and iso not in ISO_DROP:
                 country_l3.setdefault(iso, set()).add(l3)
 
     wd = wikidata_continents()

@@ -435,7 +435,8 @@
     var fav = el("button", { class: "btn" + (inBox(s.id) ? " on" : ""), onclick: function () { toggleBox(s.id); fav.className = "btn" + (inBox(s.id) ? " on" : ""); fav.textContent = favText(); } });
     fav.textContent = favText();
     var share = el("button", { class: "btn", text: "⤓ " + t("share_card"), onclick: async function () { share.textContent = t("share_making"); await shareCard(s); share.textContent = "⤓ " + t("share_card"); } });
-    var reportBody = "種: " + s.scientific_name + " (" + s.id + ")\n" + speciesURL(s.id) + "\n項目: \n間違い: \n正しい内容: \n出典（URL）: ";
+    // 報告文の雛形。訂正ファイル（data/overrides）と同じ項目なので、そのまま訂正に写せる
+    var reportBody = t("report_template", { name: s.scientific_name, id: s.id, url: speciesURL(s.id) });
     var issue = REPO_URL + "/issues/new?title=" + encodeURIComponent("[" + s.id + "] " + s.scientific_name) + "&body=" + encodeURIComponent(reportBody);
     var copy = el("button", { class: "btn", text: "✎ " + t("report_copy"), onclick: async function () { try { await navigator.clipboard.writeText(reportBody); copy.textContent = "✓ " + t("copied"); } catch (e) { alert(reportBody); } } });
     hero.append(el("div", { class: "btnrow" }, fav, share, el("a", { class: "btn", href: issue, target: "_blank", rel: "noopener", text: "✎ " + t("report") }), copy));
@@ -477,7 +478,11 @@
       srcRow(t("distribution"), dist),
       srcRow(t("traits"), s.traits_raw, s.traits_raw && s.traits_raw.lifeform_description),
       s.photo ? srcRow(t("photo_label"), { source: s.photo.source, source_url: s.photo.source_page, license: s.photo.license, license_url: s.photo.license_url }, t("photo_modified")) : null,
-      s.wikidata ? el("li", {}, el("b", { text: "Wikidata" }), " ", link("https://www.wikidata.org/wiki/" + s.wikidata, s.wikidata)) : null),
+      s.wikidata ? el("li", {}, el("b", { text: "Wikidata" }), " ", link("https://www.wikidata.org/wiki/" + s.wikidata, s.wikidata)) : null,
+      // 訂正の層（data/overrides）で直した項目。出典と提案者を出す
+      (s.corrections || []).map(function (c) {
+        return srcRow(t("correction") + " " + c.field, c, (c.proposer ? t("proposer") + ": " + c.proposer + " · " : "") + c.date);
+      })),
       s.synonyms && s.synonyms.length ? el("details", {}, el("summary", { text: t("synonyms") + " · " + s.synonyms.length }), el("ul", { class: "synlist" }, s.synonyms.map(function (x) { return el("li", { text: x }); }))) : null));
 
     wrap.append(body);

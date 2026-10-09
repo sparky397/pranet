@@ -5,13 +5,13 @@
       "source_url": "https://www.tdwg.org/standards/wgsrpd/",
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "retrieved": "2026-10-08"
+      "retrieved": "2026-10-09"
     },
     {
       "source": "Wikidata（国 → 大陸）",
       "source_url": "https://www.wikidata.org/",
       "license": "CC0 1.0",
-      "retrieved": "2026-10-08"
+      "retrieved": "2026-10-09"
     }
   ],
   "continents": [
@@ -64,12 +64,6 @@
           "iso": "BT",
           "l3": [
             "EHM"
-          ]
-        },
-        {
-          "iso": "BU",
-          "l3": [
-            "AND"
           ]
         },
         {
@@ -225,6 +219,7 @@
         {
           "iso": "MM",
           "l3": [
+            "AND",
             "MYA"
           ]
         },
@@ -272,12 +267,6 @@
           ]
         },
         {
-          "iso": "PI",
-          "l3": [
-            "SCS"
-          ]
-        },
-        {
           "iso": "PK",
           "l3": [
             "PAK"
@@ -320,15 +309,15 @@
           ]
         },
         {
-          "iso": "TM",
+          "iso": "TL",
           "l3": [
-            "TKM"
+            "LSI"
           ]
         },
         {
-          "iso": "TP",
+          "iso": "TM",
           "l3": [
-            "LSI"
+            "TKM"
           ]
         },
         {
@@ -954,6 +943,12 @@
           ]
         },
         {
+          "iso": "RS",
+          "l3": [
+            "YUG"
+          ]
+        },
+        {
           "iso": "RU",
           "l3": [
             "ALT",
@@ -1030,12 +1025,6 @@
           "iso": "VA",
           "l3": [
             "ITA"
-          ]
-        },
-        {
-          "iso": "YU",
-          "l3": [
-            "YUG"
           ]
         }
       ]

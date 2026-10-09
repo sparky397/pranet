@@ -4,7 +4,7 @@
 まず世界の食用植物から始め、最終的には世界のすべての植物を載せることを目指します。
 
 - **使う**: https://sparky397.github.io/pranet/
-- 間違いの報告: [Issues](https://github.com/sparky397/pranet/issues)
+- 間違いの報告: [Issues](https://github.com/sparky397/pranet/issues)（出典付きの訂正は [docs/訂正の提案のしかた.md](docs/訂正の提案のしかた.md) の形で取り込みます）
 
 - 設計：[pranet_設計図.md](pranet_設計図.md)
 - 引き継ぎ：[docs/引き継ぎの手引き.md](docs/引き継ぎの手引き.md)（誰でも続けられるように）

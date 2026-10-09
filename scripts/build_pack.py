@@ -19,6 +19,7 @@ import re
 import sys
 
 from common import DATA_DIR, DOCS_DIR, PACKS_DIR, ROOT_DIR, load_json, log, read_species_list, save_json, today, work_path
+from overrides import apply_overrides
 from validate import validate_species
 
 PACK_ID = "edible-core"
@@ -103,7 +104,8 @@ def build_record(sci: str) -> dict:
     if photo:
         rec["photo"] = {k: photo[k] for k in ("file", "author", "license", "license_url", "source", "source_page",
                                               "modified", "modification", "width", "height", "retrieved")}
-    return rec
+    # 訂正の層（data/overrides/）を最後に重ねる。元データは触らない
+    return apply_overrides(rec)
 
 
 INDEX_LANGS = ["ja", "en"]  # 索引に入れる名前の言語。他の言語は names/<lang>.json に分けて、必要な言語だけ読む
@@ -113,8 +115,14 @@ def index_entry(rec: dict, idx: dict[str, int]) -> dict:
     e = {"id": rec["id"], "sci": rec["scientific_name"], "fam": rec.get("family")}
     if rec.get("names"):
         e["n"] = {lang: lst[:1] for lang, lst in rec["names"].items() if lang in INDEX_LANGS}  # 表示は各言語 1 つ
-    if rec.get("search_names"):
-        e["sn"] = rec["search_names"]
+    # 検索用の名前：Wikidata の別名に、表示しない 2 つ目以降の一般名（訂正で足されたものを含む）を加える
+    sn = dict(rec.get("search_names") or {})
+    for lang in INDEX_LANGS:
+        extra = [x for x in (rec.get("names") or {}).get(lang, [])[1:] if x not in sn.get(lang, [])]
+        if extra:
+            sn[lang] = sn.get(lang, []) + extra
+    if sn:
+        e["sn"] = sn
     if rec.get("photo"):
         p = rec["photo"]
         e["p"] = {"f": p["file"], "a": p.get("author"), "l": p["license"], "lu": p["license_url"], "s": p["source"], "sp": p["source_page"], "w": p["width"], "h": p["height"]}
@@ -179,7 +187,11 @@ def main(only: list[str] | None = None) -> int:
         if not ok:
             skipped.append((sci, problems))
             continue
-        records.append(build_record(sci))
+        rec = build_record(sci)
+        if rec.get("hidden"):
+            log(f"  [非公開] {sci}: 訂正の層で hidden（公開から外す）")
+            continue
+        records.append(rec)
     # 異名の付け替えで同じ WFO 番号になった種は 1 つにまとめる（先に出たものを残す）
     seen_ids: dict[str, str] = {}
     unique = []

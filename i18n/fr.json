@@ -103,5 +103,8 @@
   "group_feed": "fourrage",
   "group_medicine": "médecine",
   "group_material": "matériaux et combustible",
-  "group_living": "vie quotidienne (ornement, haies, social)"
+  "group_living": "vie quotidienne (ornement, haies, social)",
+  "correction": "Correction",
+  "proposer": "proposée par",
+  "report_template": "Espèce : {name} ({id})\n{url}\nRubrique (nom / description / alimentaire / usages / répartition …) : \nCe qui est faux : \nContenu correct : \nSource (URL, obligatoire) : \nLicence de la source : \nVotre nom (seulement s'il peut être affiché ; vide = anonyme) : "
 }
