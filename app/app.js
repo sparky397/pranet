@@ -295,7 +295,9 @@
   // ---------- 場所（州 → 国） ----------
   var countryName = (function () {
     var dn = null; try { dn = new Intl.DisplayNames([LANG, "en"], { type: "region" }); } catch (e) {}
-    return function (iso) { try { return (dn && dn.of(iso)) || iso; } catch (e) { return iso; } };
+    var f = function (iso) { try { return (dn && dn.of(iso)) || iso; } catch (e) { return iso; } };
+    f.available = !!dn;  // 古い端末には Intl.DisplayNames が無い。その場合は国コードのまま出す
+    return f;
   })();
   function defaultCountry() {
     if (!places) return null;
@@ -327,14 +329,15 @@
     if (!places) return main.append(el("p", { class: "empty", text: t("no_data") }));
     var r = placeSelection(hash), sel = r.sel, cont = r.cont;
     var base = "#/place?c=" + sel.c + "&k=" + sel.k + "&";
-    var go = function () { location.hash = base + "v=" + r.view; };
+    // 選び直したあとの sel から URL を組む（描いた時点の base を使うと選択が捨てられる）
+    var go = function () { location.hash = "#/place?c=" + sel.c + "&k=" + sel.k + "&v=" + r.view; };
     var select = function (label, opts, value, onchange) {
       var s = el("select", { "aria-label": label, onchange: function (e) { onchange(e.target.value); } },
         el("option", { value: "", text: label }), opts.map(function (o) { return el("option", { value: o.value, text: o.text }); }));
       s.value = value; return s;
     };
     var countries = (cont ? cont.countries : []).map(function (k) { return { value: k.iso, text: countryName(k.iso) }; })
-      .filter(function (o) { return o.text !== o.value; })
+      .filter(function (o) { return !countryName.available || o.text !== o.value; })  // 変換機能があるときだけ無効コードを落とす
       .sort(function (a, b) { return a.text.localeCompare(b.text, LANG); });
     main.append(el("div", { class: "place-pick" },
       select(t("place_continent"), places.continents.map(function (c) { return { value: c.code, text: t("cont_" + c.code) }; }), sel.c, function (v) { sel.c = v; sel.k = ""; go(); }),

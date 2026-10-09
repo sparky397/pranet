@@ -6,7 +6,7 @@
  * - APP_VERSION は「パックの版.連番」。build_pack.py が自動で上げる。
  *   連番が変わるとアプリ本体の保存だけ入れ替わり、パックの版が変わると詳細と写真の保存も入れ替わる。
  */
-const APP_VERSION = "2026-10-09.6";
+const APP_VERSION = "2026-10-09.7";
 const PACKS = ["edible-core"];
 const CACHE = `pranet-app-${APP_VERSION}`;
 const DATA_CACHE = `pranet-data-${APP_VERSION.split(".")[0]}`;
