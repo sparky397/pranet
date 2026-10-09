@@ -1,0 +1,688 @@
+{
+  "id": "wfo-0000691487",
+  "scientific_name": "Foeniculum vulgare",
+  "authorship": "Mill.",
+  "family": "Apiaceae",
+  "synonyms": [
+    "Anethum dulce DC.",
+    "Anethum foeniculum L.",
+    "Anethum minus Gouan",
+    "Anethum panmori Roxb.",
+    "Anethum panmorium Roxb.",
+    "Anethum pannorium Roxb.",
+    "Anethum rupestre Salisb.",
+    "Foeniculum azoricum Mill.",
+    "Foeniculum capillaceum Gilib.",
+    "Foeniculum divaricatum Griseb.",
+    "Foeniculum dulce Mill.",
+    "Foeniculum foeniculum H.Karst.",
+    "Foeniculum giganteum Lojac.",
+    "Foeniculum officinale All.",
+    "Foeniculum panmorium DC.",
+    "Foeniculum rigidum Brot. ex Steud.",
+    "Foeniculum vulgare (C.Presl) Janch. ex Holub",
+    "Foeniculum vulgare (Mill.) Holub",
+    "Ligusticum foeniculum Crantz",
+    "Ligusticum foeniculum Roth",
+    "Meum foeniculum Spreng.",
+    "Meum piperatum Ten.",
+    "Meum piperinum Colla",
+    "Ozodia foeniculacea Wight & Arn.",
+    "Selinum foeniculum E.H.L.Krause",
+    "Seseli dulce (DC.) Koso-Pol.",
+    "Seseli foeniculum Koso-Pol.",
+    "Seseli piperitum Koso-Pol.",
+    "Tenoria romana Schk. ex Spreng."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ウイキョウ"
+    ],
+    "en": [
+      "Fennel",
+      "sweet fennel"
+    ],
+    "de": [
+      "Echter Fenchel",
+      "Fenchel"
+    ],
+    "zh": [
+      "茴香",
+      "茴香子",
+      "小茴香",
+      "茴香（小茴香）",
+      "茴香茎叶",
+      "茴香根",
+      "孜然芹",
+      "小茴香根皮"
+    ],
+    "nl": [
+      "Venkel"
+    ],
+    "ca": [
+      "Fonoll"
+    ],
+    "fr": [
+      "Fenouil commun"
+    ],
+    "cs": [
+      "fenykl obecný"
+    ],
+    "fi": [
+      "maustefenkoli",
+      "fenkoli"
+    ],
+    "ast": [
+      "fenoyu",
+      "cenoyu",
+      "planta d'anís",
+      "anisinos"
+    ],
+    "sl": [
+      "navadni komarček"
+    ],
+    "jv": [
+      "Adas"
+    ],
+    "eu": [
+      "mihilu"
+    ],
+    "pl": [
+      "fenkuł włoski"
+    ],
+    "qu": [
+      "Inuhu"
+    ],
+    "bs": [
+      "Komorač"
+    ],
+    "ta": [
+      "பெருஞ்சீரகம்"
+    ],
+    "af": [
+      "Vinkel"
+    ],
+    "ms": [
+      "Pokok Adas"
+    ],
+    "hu": [
+      "édeskömény"
+    ],
+    "et": [
+      "harilik apteegitill"
+    ],
+    "br": [
+      "lost-louarn"
+    ],
+    "sq": [
+      "Maraja"
+    ],
+    "el": [
+      "Μάραθο"
+    ],
+    "my": [
+      "စမုန်စပါး"
+    ],
+    "ba": [
+      "Фенхель үләне"
+    ],
+    "sv": [
+      "fänkål"
+    ],
+    "ar": [
+      "شمرة شائعة"
+    ],
+    "pt": [
+      "funcho"
+    ],
+    "is": [
+      "Fennikka"
+    ],
+    "eo": [
+      "Ordinara fenkolo"
+    ],
+    "ru": [
+      "фенхель обыкновенный"
+    ],
+    "tr": [
+      "Rezene"
+    ],
+    "uk": [
+      "фенхель звичайний"
+    ],
+    "io": [
+      "Fenikulo"
+    ],
+    "gu": [
+      "વરિયાળી"
+    ],
+    "ne": [
+      "सुप"
+    ],
+    "hr": [
+      "Komorač"
+    ],
+    "da": [
+      "Almindelig Fennikel"
+    ],
+    "kk": [
+      "Волош аскөгі"
+    ],
+    "dv": [
+      "ދަވިއްގަނދު"
+    ],
+    "ko": [
+      "회향"
+    ],
+    "he": [
+      "שומר פשוט"
+    ],
+    "lv": [
+      "parastais fenhelis"
+    ],
+    "gl": [
+      "Fiúncho"
+    ],
+    "id": [
+      "Adas"
+    ],
+    "ml": [
+      "പെരുംജീരകം"
+    ],
+    "sc": [
+      "Fenugu"
+    ],
+    "sh": [
+      "Komorač"
+    ],
+    "hi": [
+      "सौंफ"
+    ],
+    "sk": [
+      "fenikel obyčajný"
+    ],
+    "ku": [
+      "Rizyane"
+    ],
+    "th": [
+      "ยี่หร่าฝรั่ง"
+    ],
+    "mr": [
+      "बडीशेप"
+    ],
+    "bg": [
+      "резене"
+    ],
+    "fa": [
+      "رازیانه"
+    ],
+    "te": [
+      "సోంపు"
+    ],
+    "ur": [
+      "سونف"
+    ],
+    "ka": [
+      "დიდი კამა"
+    ],
+    "lt": [
+      "Paprastasis pankolis"
+    ],
+    "az": [
+      "Adi razyana"
+    ],
+    "nb": [
+      "fennikel"
+    ],
+    "pa": [
+      "ਮੇਥੀ"
+    ],
+    "ga": [
+      "finéal"
+    ],
+    "kn": [
+      "ಸೊಂಪು"
+    ],
+    "or": [
+      "ପାନମଧୁରୀ"
+    ],
+    "sr": [
+      "Коморач"
+    ],
+    "hil": [
+      "inóho"
+    ],
+    "be": [
+      "фенхель звычайны"
+    ],
+    "yue": [
+      "茴香"
+    ],
+    "nap": [
+      "Fënuocchië salvátëchë"
+    ],
+    "si": [
+      "මාදුරු"
+    ],
+    "tl": [
+      "Haras"
+    ],
+    "cy": [
+      "Ffenigl"
+    ],
+    "mk": [
+      "морач"
+    ],
+    "sco": [
+      "finkle"
+    ],
+    "mai": [
+      "सुप"
+    ],
+    "sd": [
+      "وڏڦ"
+    ],
+    "su": [
+      "Adas"
+    ],
+    "ht": [
+      "Anis"
+    ],
+    "azb": [
+      "رازیانه"
+    ],
+    "ce": [
+      "Йиппар"
+    ],
+    "nn": [
+      "Fennikel"
+    ],
+    "hy": [
+      "Հոռոմ-սամիթ սովորական"
+    ],
+    "kab": [
+      "Tansawt"
+    ],
+    "bn": [
+      "মৌরি"
+    ],
+    "os": [
+      "Агъунцъагæ"
+    ],
+    "tg": [
+      "бодиён"
+    ],
+    "co": [
+      "Finochju"
+    ],
+    "wuu": [
+      "茴香"
+    ],
+    "as": [
+      "চফ"
+    ],
+    "arz": [
+      "شمر"
+    ],
+    "mt": [
+      "Bużbież"
+    ],
+    "kw": [
+      "fenoghel"
+    ],
+    "gom": [
+      "बडिशेप"
+    ],
+    "mad": [
+      "Aḍḍhâs"
+    ],
+    "hsb": [
+      "koprica"
+    ],
+    "gor": [
+      "Denggu-denggu"
+    ],
+    "frr": [
+      "Fenchel"
+    ],
+    "ban": [
+      "Adas"
+    ],
+    "lb": [
+      "Fenchel"
+    ],
+    "szy": [
+      "nipaluma-yamsu, yamso"
+    ],
+    "pnb": [
+      "میتھی"
+    ],
+    "min": [
+      "adeh"
+    ],
+    "ace": [
+      "jeura manèh"
+    ],
+    "bjn": [
+      "Adas"
+    ],
+    "mwl": [
+      "finolho"
+    ],
+    "mnc": [
+      "ᠰᡠᠰᡝᡵᡳ"
+    ],
+    "eml": [
+      "Fnòć"
+    ],
+    "ha": [
+      "Fennel"
+    ],
+    "mzn": [
+      "واتک"
+    ],
+    "glk": [
+      "عدس"
+    ],
+    "tly": [
+      "sojə rəzijonə"
+    ],
+    "ckb": [
+      "ڕازیانە"
+    ],
+    "acm": [
+      "حبة حلوة"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q43511",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q43511",
+  "search_names": {
+    "ja": [
+      "ういきょう",
+      "小茴香",
+      "フヌイユ",
+      "茴香",
+      "フェンネル"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ウイキョウ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%AD%E3%83%A7%E3%82%A6",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 109710700,
+      "text": "ウイキョウ は、セリ科ウイキョウ属に分類される、多年生の草本植物である。ウイキョウ属唯一の種で、英語名からフェンネルとも呼ばれている。伝統的なハーブの一つとしても知られ、甘みのある香りと樟脳のような風味があり、古くから香辛料や薬草などとして用いられ、栽培も行われてきた。果実もフェンネル・シーズ（フェンネルシード）とよばれるスパイスとして利用される。主に、葉はビネガーに漬けたり、煮込みや魚の香草焼きに使われたりする。種子はパン生地に使われる。肥大した株元は、サラダやスープにして食べる。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Fennel」",
+      "source_url": "https://en.wikipedia.org/wiki/Fennel",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1377739518,
+      "text": "Fennel is a flowering plant species in the carrot family. It is a hardy, perennial herb with yellow flowers and feathery leaves. It is indigenous to the shores of the Mediterranean but has become widely naturalized in many parts of the world, especially on dry soils near the sea coast and on riverbanks."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "ja": {
+        "source": "Wikipedia 日本語版「ウイキョウ」の節「栽培」",
+        "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%AD%E3%83%A7%E3%82%A6#%E6%A0%BD%E5%9F%B9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 109710700,
+        "heading": "栽培",
+        "text": "フランス、ドイツ、イタリア、ブルガリア、エジプト、アメリカなどで広く栽培されている。日本では半野生化したものがあるが、香辛料野菜としての栽培はほとんど見られない。\n栽培は、種まきか株分けによって繁殖する。株分けによるものは収穫が多いが、株の劣化が早いという欠点があることから、一般には種まきによる方法が行われている。冬は地上部が枯れるが、根株は耐寒性が強く冷涼地でも越冬することができる。耐暑性もあり、夏の暑さにも問題になることはあまりない。2年目以降は、6月ごろに開花し、8月ごろに果実が成熟する。ウイキョウは土壌に対する適応性が広い特徴がある。\n種まきは春から初夏にかけて行い、初夏から晩秋にかけて収穫する「春まき」が基本だが、「秋まき」でも育てられる。育苗ポットで苗を育ててから定植してもよい。種をまいたら薄く覆土して鎮圧する。種まき後の温度を20℃程に保つと、10日 - 14日ほどで発芽する。夜間の気温が5℃を下回らなくなったら、新しく耕した場所に直まきすると、14日 - 20日ほどで発芽する。土壌は、温かい日なたで水はけの良い肥沃な土地が良く、土の栄養分が不足して乾燥した状態で育てていると苦くなる。また、鉢植えにしても水はけの良い赤玉土などにすればよく育つ。発芽したら間引きながら育て、最終的に株間を30センチメートル (cm) 程度にあける。草丈が20 cmくらいになったら、追肥と土寄せを行う。\n葉を目的に収穫する場合には花が咲く前に行い、花が咲きはじめたら花を摘み取るようにする。株が大きくなったら、先端15 - 20 cmくらいを随時収穫して葉を利用する。株元の鱗茎が大きくなったら、根元から切って収穫する。\n果実を収穫する場合、8 - 10月の果期に果実の表面が緑色から黄色に変わって縦縞の線が現れてきた果穂から、順次切り取って収穫する。収穫後の果穂は天日でよく乾燥させてから脱穀して、果実（種子）だけを採取する。スパイスに利用できるフェンネルシーズは、手で揉むなど脱穀して採取した果実である。1年目の収穫量は少ないが、2年目以降は増えて3 - 5年目が収穫量の最盛期になる。果実を収穫したら、株を刈り込んでやると、新しい葉が出るようになる。良い香りを持続させるためには、3 - 4年に一度は移植すると良いといわれている。\n病害として、フェンネルはべと病にかかりやすく、悪くすると腐ってしまうため、しめじめした気候から守るために、植物体の周囲に肥料を施したらマルチングが行われる場合もある。害虫としては、果実が褐色に着色し始めるころに、ナガメが発生する。\nウイキョウ（フェンネル）は、近縁のイノンド（ディル）と交雑しやすく、雑種化すると質が劣化して香味が薄くなってしまうので、互いに近くに植えないように管理に注意を要する。また、コリアンダー（コエンドロ）を近くに植えていると、ウイキョウの香りが悪くなってしまう。",
+        "truncated": false
+      },
+      "en": {
+        "source": "Wikipedia 英語版「Fennel」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Fennel#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1377739518,
+        "heading": "Cultivation",
+        "text": "Fennel is widely cultivated, both in its native range and elsewhere, for its edible, strongly flavored leaves and fruits. Its aniseed or licorice flavor comes from anethole, an aromatic compound also found in anise and star anise, and its taste and aroma are similar to theirs, though usually not as strong.\nFlorence fennel (Foeniculum vulgare Azoricum Group; syn. F. vulgare var. azoricum) is a cultivar group with inflated leaf bases which form a bulb-like structure. It is of cultivated origin, and has a mild anise-like flavor but is sweeter and more aromatic. Florence fennel plants are smaller than the wild type. Several cultivars of Florence fennel are also known by several other names, notably the Italian name finocchio. In North American supermarkets, it is often mislabeled as \"anise.\"\nFoeniculum vulgare 'Purpureum' or 'Nigra', \"bronze-leaved\" fennel, is widely available as a decorative garden plant.\n\nFennel has become naturalized along roadsides, in pastures, and in other open sites in many regions, including northern Europe, the United States, southern Canada, and much of Asia and Australia. It propagates well by both root crown and seed and is considered an invasive species and a weed in Australia and the U.S. It can drastically alter the composition and structure of many plant communities, including grasslands, coastal scrub, riparian, and wetland communities. It appears to do this by outcompeting native species for light, nutrients, and water and perhaps by exuding allelopathic substances that inhibit the growth of other plants. In western North America, fennel can be found from the coastal and inland wildland–urban interface east into hill and mountain areas, excluding desert habitats.",
+        "truncated": true
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALG",
+      "BAL",
+      "BUL",
+      "COR",
+      "CYP",
+      "EAI",
+      "EGY",
+      "ERI",
+      "ETH",
+      "FRA",
+      "GRC",
+      "GST",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KRI",
+      "LBS",
+      "LBY",
+      "MOR",
+      "NCS",
+      "NEP",
+      "PAK",
+      "PAL",
+      "POR",
+      "SAR",
+      "SAU",
+      "SIC",
+      "SIN",
+      "SPA",
+      "TCS",
+      "TKM",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TZK",
+      "UZB",
+      "WHM",
+      "YEM",
+      "YUG"
+    ],
+    "introduced": [
+      "ABT",
+      "AGE",
+      "AGS",
+      "AGW",
+      "ANG",
+      "ARI",
+      "ASP",
+      "ASS",
+      "AUT",
+      "BAH",
+      "BAN",
+      "BER",
+      "BGM",
+      "BLT",
+      "BRC",
+      "BZL",
+      "BZS",
+      "CAL",
+      "CHC",
+      "CHH",
+      "CHI",
+      "CHN",
+      "CHS",
+      "CLC",
+      "CLM",
+      "CLN",
+      "CLS",
+      "CMN",
+      "CNT",
+      "COS",
+      "CPP",
+      "CUB",
+      "CZE",
+      "DEL",
+      "DEN",
+      "DJI",
+      "DOM",
+      "ECU",
+      "EHM",
+      "ELS",
+      "FIJ",
+      "FIN",
+      "FLA",
+      "GEO",
+      "GER",
+      "GGI",
+      "GRB",
+      "GUA",
+      "HAI",
+      "HAW",
+      "HUN",
+      "ILL",
+      "IND",
+      "IOW",
+      "IRE",
+      "JAM",
+      "JAW",
+      "JNF",
+      "KAN",
+      "KAZ",
+      "KEN",
+      "KOR",
+      "KRY",
+      "KTY",
+      "LEE",
+      "LES",
+      "LOU",
+      "MAI",
+      "MAS",
+      "MAU",
+      "MIC",
+      "MON",
+      "MOZ",
+      "MRN",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXN",
+      "MYA",
+      "NAT",
+      "NCA",
+      "NEB",
+      "NET",
+      "NEV",
+      "NFK",
+      "NOR",
+      "NSW",
+      "NUE",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OHI",
+      "ONT",
+      "ORE",
+      "PAR",
+      "PEN",
+      "PER",
+      "POL",
+      "PUE",
+      "QLD",
+      "QUE",
+      "REU",
+      "RHO",
+      "ROD",
+      "ROM",
+      "RUC",
+      "RUS",
+      "SCA",
+      "SCI",
+      "SOA",
+      "SOM",
+      "STH",
+      "SUD",
+      "SWE",
+      "SWI",
+      "TAI",
+      "TAN",
+      "TAS",
+      "TEN",
+      "TEX",
+      "THA",
+      "TVL",
+      "UKR",
+      "URU",
+      "UTA",
+      "VIC",
+      "VIE",
+      "VRG",
+      "WAS",
+      "WAU",
+      "WIN",
+      "WIS",
+      "WVA",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/842680-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/842680-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000691487.webp",
+    "author": "Elekes Andor",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Foeniculum_vulgare_in_2025.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 297,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "id": "wfo-0000685460",
+  "scientific_name": "Fagopyrum esculentum",
+  "authorship": "Moench",
+  "family": "Polygonaceae",
+  "synonyms": [
+    "Fagopyrum cereale Raf.",
+    "Fagopyrum dryandrii Fenzl",
+    "Fagopyrum emarginatum (Roth) Meisn.",
+    "Fagopyrum emarginatum Moench",
+    "Fagopyrum fagopyrum H.Karst.",
+    "Fagopyrum polygonum Macloskie",
+    "Fagopyrum sagittatum Gilib.",
+    "Fagopyrum sarracenicum Dumort.",
+    "Fagopyrum vulgare Hill",
+    "Fagopyrum vulgare T.Nees",
+    "Helxine fagopyrum Kuntze",
+    "Polygonum emarginatum Roth",
+    "Polygonum fagopyrum L."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ソバ",
+      "蕎麦"
+    ],
+    "en": [
+      "Buckwheat",
+      "Common Buckwheat",
+      "buckwheat"
+    ],
+    "cs": [
+      "pohanka obecná"
+    ],
+    "de": [
+      "Echter Buchweizen",
+      "Blenden",
+      "Brein",
+      "Gemeiner Buchweizen",
+      "Heidenkorn",
+      "Heidensterz",
+      "Schwarzes Welschkorn",
+      "Türkischer Weizen"
+    ],
+    "es": [
+      "Alforfón",
+      "Trigo Sarraceno"
+    ],
+    "fi": [
+      "Tattari",
+      "viljatatar",
+      "viljatattari"
+    ],
+    "fr": [
+      "Blé de Barbarie",
+      "Blé Noir",
+      "Bucail",
+      "Sarrasin"
+    ],
+    "hu": [
+      "Hajdina"
+    ],
+    "it": [
+      "Grano Saraceno"
+    ],
+    "mk": [
+      "Елда",
+      "хелда"
+    ],
+    "nds": [
+      "Bookweten"
+    ],
+    "nl": [
+      "Boekweit"
+    ],
+    "nn": [
+      "Bokkveite"
+    ],
+    "nb": [
+      "Bokhvete",
+      "Buhvete"
+    ],
+    "pl": [
+      "Gryka Zwyczajna"
+    ],
+    "sl": [
+      "navadna ajda"
+    ],
+    "sv": [
+      "Bovete"
+    ],
+    "tr": [
+      "Karabuğday"
+    ],
+    "zh": [
+      "蕎麥",
+      "荞麦",
+      "荞麦叶",
+      "甜荞",
+      "荞麦秸"
+    ],
+    "ast": [
+      "alforxón"
+    ],
+    "ca": [
+      "fajol"
+    ],
+    "nan": [
+      "Kiô-be̍h"
+    ],
+    "bo": [
+      "བྲ་བོ།"
+    ],
+    "eu": [
+      "Artobeltz"
+    ],
+    "he": [
+      "כוסמת"
+    ],
+    "ko": [
+      "메밀"
+    ],
+    "et": [
+      "harilik tatar"
+    ],
+    "mrj": [
+      "Шимшӓдӓнгӹ"
+    ],
+    "yue": [
+      "蕎麥"
+    ],
+    "sh": [
+      "Heljda"
+    ],
+    "ba": [
+      "Ҡарабойҙай"
+    ],
+    "hsb": [
+      "Hejduška"
+    ],
+    "ar": [
+      "نضم معروف"
+    ],
+    "hi": [
+      "कूटू"
+    ],
+    "eo": [
+      "Fagopiro"
+    ],
+    "sk": [
+      "Pohánka jedlá"
+    ],
+    "ru": [
+      "гречиха посевная"
+    ],
+    "fy": [
+      "Boekweet"
+    ],
+    "ro": [
+      "Hrișcă"
+    ],
+    "os": [
+      "Сауфагæ"
+    ],
+    "fa": [
+      "گندم سیاه"
+    ],
+    "io": [
+      "Saraceno"
+    ],
+    "pcd": [
+      "Bucalhe"
+    ],
+    "dsb": [
+      "Hejduša"
+    ],
+    "az": [
+      "Əkin qarabaşağı"
+    ],
+    "hr": [
+      "heljda"
+    ],
+    "csb": [
+      "Bùkwita"
+    ],
+    "tl": [
+      "Hayang trigo"
+    ],
+    "bg": [
+      "обикновена елда"
+    ],
+    "br": [
+      "Gwinizh-du"
+    ],
+    "cv": [
+      "Хура тулă"
+    ],
+    "da": [
+      "Almindelig Boghvede"
+    ],
+    "lt": [
+      "Sėjamasis grikis"
+    ],
+    "pt": [
+      "Trigo sarraceno"
+    ],
+    "sr": [
+      "хељда"
+    ],
+    "uk": [
+      "гречка"
+    ],
+    "vi": [
+      "Kiều mạch"
+    ],
+    "wa": [
+      "Boûkete"
+    ],
+    "lv": [
+      "Griķi"
+    ],
+    "ne": [
+      "फापर"
+    ],
+    "id": [
+      "Buckwheat"
+    ],
+    "ur": [
+      "گندم سیاه"
+    ],
+    "kk": [
+      "Егістік қарақұмық"
+    ],
+    "uz": [
+      "Marjumak"
+    ],
+    "sah": [
+      "Гречиха"
+    ],
+    "gl": [
+      "Trigo mouro"
+    ],
+    "be": [
+      "грэчка пасяўная"
+    ],
+    "th": [
+      "บักวีต"
+    ],
+    "tyv": [
+      "Мыйырак"
+    ],
+    "cy": [
+      "Gwenith yr hydd"
+    ],
+    "ms": [
+      "Gandum kuda"
+    ],
+    "myv": [
+      "Ликша"
+    ],
+    "kn": [
+      "ಬಕ್‍ಹ್ವೀಟ್"
+    ],
+    "tt": [
+      "кара бодай"
+    ],
+    "el": [
+      "Φαγόπυρον το εδώδιμον"
+    ],
+    "oc": [
+      "Blat negre"
+    ],
+    "dty": [
+      "फापर"
+    ],
+    "azb": [
+      "اکین قاراباشاغی"
+    ],
+    "sgs": [
+      "Grėks"
+    ],
+    "mn": [
+      "Гурвалжин будаа"
+    ],
+    "af": [
+      "Bokwiet"
+    ],
+    "is": [
+      "Bókhveiti"
+    ],
+    "wuu": [
+      "荞麦"
+    ],
+    "ta": [
+      "நெளிகோதுமை"
+    ],
+    "ky": [
+      "Кара күрүч"
+    ],
+    "kw": [
+      "ys du"
+    ],
+    "frr": [
+      "Echt Bokwiaten"
+    ],
+    "hy": [
+      "Հնդկացորեն ցանովի"
+    ],
+    "arz": [
+      "حنطه سوداء"
+    ],
+    "bn": [
+      "ঢেমশি"
+    ],
+    "mnc": [
+      "ᠮᡝᡵᡝ"
+    ],
+    "rsk": [
+      "Гречка"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q132734",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q132734",
+  "search_names": {
+    "en": [
+      "buckwheat plant"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ソバ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%90",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 111002647,
+      "text": "ソバ は、タデ科ソバ属の一年草。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Buckwheat」",
+      "source_url": "https://en.wikipedia.org/wiki/Buckwheat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1378744057,
+      "text": "Buckwheat or common buckwheat is a flowering plant in the knotweed family Polygonaceae cultivated for its grain-like seeds and as a cover crop. Buckwheat cultivation originated around the 6th millennium BC in the region of what is now Yunnan Province in southwestern China. The name \"buckwheat\" is used for several other species, such as Fagopyrum tataricum, a domesticated food plant raised in Asia."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "ja": {
+        "source": "Wikipedia 日本語版「ソバ」の節「栽培」",
+        "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%90#%E6%A0%BD%E5%9F%B9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 111002647,
+        "heading": "栽培",
+        "text": "亜寒帯に属するような冷涼な気候、雨が少なかったり水利が悪かったりする乾燥した土地でも、容易に生育するが、湿潤には極端に弱いため多くの圃場（農場）では、暗渠施設を施工したり傾斜地が選定される。また、日最低気温の平均値が17.5℃を越えると実に栄養が行かず結実率は顕著に低下するため、山間地や冷涼な気候の地域で栽培される事が多い。夏型・秋型それぞれに適した品種があり、品種が適さない地域や時期に栽培した場合、開花期の天候は受粉率を左右し、収穫期の降雨は穂発芽（穂についたまま発芽する事）を招き収穫量と品質の低下につながる。\n収穫量を確保するために施肥は必須であり化学肥料のほかに緑肥としてレンゲを利用することもある。しかし過度の施肥は葉だけが成長し開花数が少なくなり、収量の低下や食味の低下に繋がる。また、アレロパシー作用もあるため連作障害がでる。病害虫は少ないが栽培圃場では、ヨトウガ、ベト病、うどん粉病が問題になることもある。\n子実(種子)の登熟は、開花からの日数（積算温度）及び日長によって決まるため、1本のソバの中に熟し具合（登熟度）の異なる物が混在し、開花が早く熟した実は落下し易いという特徴が在来種にはある。そのため、在来種では収穫時期の判断は難しく、高品位の実を収穫する為に全ての実の登熟を待つと収穫作業中に落下する実が多く発生するため、コメやムギの様な機械化された収穫が困難という側面がある。しかし、最近の新品種の登熟性は斉一に改善されており、落下による損失や早熟実の混入をある程度容認すれば機械による収穫（刈り取り）は可能であり、コンバインやソバ刈機による収穫も行われている。コンバインでの収穫の場合は、晴天日の日中に黒化率が70%から80%で行うが、茎葉の詰まりを生じぬよう刈り取り速度の抑制が必要である。\n\n■ 日本での栽培\n\n高知県南国市にある縄文時代後期から弥生時代の生活痕跡が残る田村遺跡など各地の弥生遺跡からは、ソバ、イネの花粉が検出されており、伝来年代は明かではないが弥生時代から焼き畑農法で利用されていたと考えられている。\n日本では救荒食物として5世紀から栽培されていた。\n現代日本での主産地は北海道の道北地域である。ソバの作付面積日本一は北海道幌加内町で約3200ha（2014年産）である。\n北海道では年一作で、5-7月に種播きをし8-10月に収穫をする。つまり、北海道では夏ソバ、秋ソバの区別はない。北海道産品種は夏ソバにも秋ソバにも利用できる品種群であり、北海道の夏型の牡丹そばを本州で夏播きした場合には秋ソバになる。北海道でのソバ収穫が日本のソバ栽培における新ソバ（秋ソバ）収穫シーズン開始の合図とされる。\n東北地方から中部高冷地などでは、4-5月に播種をし7-8月（夏ソバ）の収穫と、7-8月に播種をし9-11月の収穫（秋ソバ）が行われるほか、九州など温暖な地域では播種時期を3-4月とすることで収穫量を確保した栽培も可能である。ただし、九州などの温暖な地域に於いて長野県などで栽培されている品種を春蒔栽培すると、収穫期が梅雨期に重なり穂発芽しやすくなり収穫量が減少する。沖縄本島では土壌浸食防止対策と収益確保可能な作物の可能性を探る際にソバの栽培試験が行われ、11月上旬播種の翌年1月収穫が好成績であったと報告されている。\n近年、休耕田における栽培等、水はけの悪い環境での栽培が増加している。しかし、ソバは特に耐湿性の低い畑作物であり、発芽期に湛水すると生産は壊滅的となる。苗立ち後では栄養成長から生殖成長に移行する花芽形成期に過湿条件に遭うと収量が低下する。そのため、水田転換畑で栽培を行う場合は暗渠の設置や畝立て等排水性を向上させる工夫が必要となる。\n自然乾燥して圃場に高水分のまま放置すると、食味の低下やカビの発生を招く。したがって、高品質なソバ生産ではコンバイン収穫が一般的であり、この場合、速やかに乾燥をする必要がある。機械を使用した送風乾燥の場合は 30℃以下の送風が望ましいとされている。早期収穫ソバの場合は水分が15 - 20%ほど多いので40℃の送風を行うことも可能で、むしろ常温送風では時間がかかり品質が低下したというデータもあり、刈り取ったソバの水分状態により適切な温度で調整する必要がある。",
+        "truncated": true
+      },
+      "en": {
+        "source": "Wikipedia 英語版「Buckwheat」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Buckwheat#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1378744057,
+        "heading": "Cultivation",
+        "text": "Buckwheat is a short-season crop that grows well in low-fertility or acidic soils; too much fertilizer – especially nitrogen – reduces yields, and the soil must be well drained. In hot climates buckwheat can be grown only by sowing late in the season, so that it blooms in cooler weather. The presence of pollinators greatly increases yield. Nectar from flowering buckwheat produces a dark-colored honey.\nThe buckwheat plant has a branching root system with a primary taproot that reaches deeply into moist soil. It grows 75 to 125 centimetres (30 to 50 inches) tall. Buckwheat has tetrahedral seeds and produces a flower that is usually white, although can also be pink or yellow. Buckwheat branches freely, as opposed to tillering or producing suckers, enabling more complete adaption to its environment than other cereal crops.\nBuckwheat is raised for grain where only a brief time is available for growth, either because the buckwheat is an early or a second crop in the season, or because the total growing season is limited. It establishes quickly, which suppresses summer weeds, and can be a reliable cover crop in summer to fit a small slot of warm season. Buckwheat has a growing period of only 10–12 weeks and it can be grown in high latitude or northern areas. Buckwheat is sometimes used as a green manure, as a plant for erosion control or as wildlife cover and feed. It may be used as a pollen and nectar source to increase natural predator numbers for biological control of crop pests.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "IF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "CHC",
+      "CHT"
+    ],
+    "introduced": [
+      "ABT",
+      "ALA",
+      "ALB",
+      "ALT",
+      "AMU",
+      "ARI",
+      "ASK",
+      "ASS",
+      "AUT",
+      "BAH",
+      "BAL",
+      "BAN",
+      "BER",
+      "BGM",
+      "BLR",
+      "BLT",
+      "BOL",
+      "BOT",
+      "BRY",
+      "BUL",
+      "CAL",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHS",
+      "CNT",
+      "CNY",
+      "COL",
+      "COR",
+      "COS",
+      "CPP",
+      "CTA",
+      "CZE",
+      "DEL",
+      "DEN",
+      "EHM",
+      "ETH",
+      "FIN",
+      "FLA",
+      "FRA",
+      "GEO",
+      "GER",
+      "GRB",
+      "HUN",
+      "ICE",
+      "IDA",
+      "ILL",
+      "INI",
+      "IOW",
+      "IRE",
+      "IRK",
+      "IRQ",
+      "ITA",
+      "JAM",
+      "JAP",
+      "KAM",
+      "KAN",
+      "KAZ",
+      "KEN",
+      "KHA",
+      "KOR",
+      "KRA",
+      "KRY",
+      "KTY",
+      "LOU",
+      "MAG",
+      "MAI",
+      "MAN",
+      "MAS",
+      "MIC",
+      "MIN",
+      "MNT",
+      "MON",
+      "MOZ",
+      "MRY",
+      "MSO",
+      "MYA",
+      "NAT",
+      "NCA",
+      "NCS",
+      "NDA",
+      "NEB",
+      "NEP",
+      "NET",
+      "NFL",
+      "NOR",
+      "NSC",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OFS",
+      "OHI",
+      "OKL",
+      "ONT",
+      "ORE",
+      "PAK",
+      "PEI",
+      "PEN",
+      "POL",
+      "POR",
+      "PRM",
+      "QUE",
+      "RHO",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUS",
+      "RUW",
+      "SAK",
+      "SAR",
+      "SAS",
+      "SCA",
+      "SDA",
+      "SIC",
+      "SPA",
+      "SWE",
+      "SWI",
+      "TAN",
+      "TCS",
+      "TEN",
+      "TEX",
+      "TUR",
+      "TVA",
+      "TVL",
+      "UGA",
+      "UKR",
+      "UZB",
+      "VER",
+      "VIE",
+      "VRG",
+      "WAS",
+      "WDC",
+      "WHM",
+      "WIS",
+      "WSB",
+      "WVA",
+      "WYO",
+      "YAK",
+      "YUG",
+      "YUK",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/694526-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/694526-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000685460.webp",
+    "author": "SAplants",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fagopyrum_esculentum_1DS-II_3-0312.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 267,
+    "retrieved": "2026-10-09"
+  }
+}

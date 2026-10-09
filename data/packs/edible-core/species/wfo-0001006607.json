@@ -1,0 +1,514 @@
+{
+  "id": "wfo-0001006607",
+  "scientific_name": "Prunus avium",
+  "authorship": "(L.) L.",
+  "family": "Rosaceae",
+  "synonyms": [
+    "Cerasus anglica Poit. & Turpin",
+    "Cerasus arduennensis Callay",
+    "Cerasus avicularis Dulac",
+    "Cerasus avium (L.) Moench",
+    "Cerasus bigarella (L.) Poit. & Turpin",
+    "Cerasus decumana Mord.Laun.",
+    "Cerasus dulcis P.Gaertn., B.Mey. & Scherb.",
+    "Cerasus duracina (L.) DC.",
+    "Cerasus heaumiana (Ser.) M.Roem.",
+    "Cerasus juliana (L.) Delarbre",
+    "Cerasus nigra Mill.",
+    "Cerasus nigricans (Ehrh.) Borkh.",
+    "Cerasus pallida (Ser.) M.Roem.",
+    "Cerasus regalis Poit. & Turpin",
+    "Cerasus sativa J.St.-Hil.",
+    "Cerasus sylvestris (Ser.) Loudon",
+    "Cerasus sylvestris S.G.Gmel.",
+    "Cerasus tenera Poit. & Turpin",
+    "Cerasus varia (Ehrh.) Borkh.",
+    "Druparia avium (L.) Clairv.",
+    "Prunus bigarella (L.) Dumort.",
+    "Prunus dulcis Rouchy",
+    "Prunus duracina (L.) Sweet",
+    "Prunus juliana (L.) Rchb.",
+    "Prunus nigricans Ehrh.",
+    "Prunus rubra Rouchy",
+    "Prunus varia Ehrh."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "セイヨウミザクラ"
+    ],
+    "de": [
+      "Vogel-Kirsche",
+      "Süsskirsche",
+      "Vogelkirsche"
+    ],
+    "en": [
+      "Wild Cherry",
+      "sweet cherry",
+      "bird cherry",
+      "gean, wild cherry"
+    ],
+    "zh": [
+      "甜櫻桃",
+      "欧洲甜樱桃"
+    ],
+    "nl": [
+      "Zoete kers"
+    ],
+    "cs": [
+      "třešeň ptačí"
+    ],
+    "fr": [
+      "cerisier des oiseaux",
+      "merisier"
+    ],
+    "tg": [
+      "гелос"
+    ],
+    "sl": [
+      "češnja"
+    ],
+    "szl": [
+      "Trzyśńa"
+    ],
+    "eu": [
+      "Basagereziondo"
+    ],
+    "pl": [
+      "czereśnia"
+    ],
+    "oc": [
+      "Cerièr"
+    ],
+    "hu": [
+      "vadcseresznye"
+    ],
+    "el": [
+      "Κερασιά"
+    ],
+    "sv": [
+      "sötkörsbär"
+    ],
+    "ar": [
+      "كرز حلو"
+    ],
+    "eo": [
+      "Ĉerizarbo"
+    ],
+    "ru": [
+      "Черешня"
+    ],
+    "tr": [
+      "Kiraz"
+    ],
+    "fi": [
+      "imeläkirsikka"
+    ],
+    "uk": [
+      "черешня"
+    ],
+    "mzn": [
+      "گیلاس"
+    ],
+    "hr": [
+      "trešnja"
+    ],
+    "az": [
+      "Gilas"
+    ],
+    "fur": [
+      "Cjariesâr"
+    ],
+    "nap": [
+      "Ceraso"
+    ],
+    "da": [
+      "Fugle-Kirsebær"
+    ],
+    "wa": [
+      "Såvadje tchersî"
+    ],
+    "ko": [
+      "양벚나무"
+    ],
+    "bar": [
+      "Keasch"
+    ],
+    "kbd": [
+      "Балий"
+    ],
+    "sc": [
+      "Cariasa"
+    ],
+    "hsb": [
+      "Słódka wišnja"
+    ],
+    "ro": [
+      "Cireș"
+    ],
+    "ca": [
+      "cirerer"
+    ],
+    "os": [
+      "Гуырдзиаг бал"
+    ],
+    "fa": [
+      "گیلاس خودرو"
+    ],
+    "bg": [
+      "дива череша"
+    ],
+    "glk": [
+      "وحشی گیلاس"
+    ],
+    "ka": [
+      "ბალი"
+    ],
+    "pcd": [
+      "Chrizhié"
+    ],
+    "lt": [
+      "trešnė"
+    ],
+    "gv": [
+      "Shillish"
+    ],
+    "kk": [
+      "Мойыл"
+    ],
+    "be": [
+      "чарэшня"
+    ],
+    "qu": [
+      "Rinda"
+    ],
+    "sr": [
+      "Трешња"
+    ],
+    "mk": [
+      "цреша"
+    ],
+    "csb": [
+      "Krzesznia"
+    ],
+    "sk": [
+      "čerešňa vtáčia"
+    ],
+    "sh": [
+      "Trešnja"
+    ],
+    "bs": [
+      "Trešnja"
+    ],
+    "gl": [
+      "cerdeira"
+    ],
+    "dsb": [
+      "Słodka wišnja"
+    ],
+    "lv": [
+      "saldais ķirsis"
+    ],
+    "nb": [
+      "morell"
+    ],
+    "ga": [
+      "crann silíní fiáin"
+    ],
+    "vi": [
+      "anh đào dại"
+    ],
+    "is": [
+      "Fuglakirsuber"
+    ],
+    "ku": [
+      "Gelyaz"
+    ],
+    "hy": [
+      "կեռասենի"
+    ],
+    "uz": [
+      "Gilos"
+    ],
+    "rup": [
+      "Cireșu"
+    ],
+    "et": [
+      "Magus kirsipuu"
+    ],
+    "bo": [
+      "ཁམ་ཤིང་།"
+    ],
+    "cy": [
+      "Coeden geirios du"
+    ],
+    "af": [
+      "Soetkersie"
+    ],
+    "vec": [
+      "Saresaro"
+    ],
+    "sgs": [
+      "Trešnė"
+    ],
+    "xmf": [
+      "ბული"
+    ],
+    "tt": [
+      "төче чия"
+    ],
+    "vro": [
+      "Murõlipuu"
+    ],
+    "atj": [
+      "Miko Cawemin"
+    ],
+    "nn": [
+      "Morell"
+    ],
+    "kab": [
+      "Aṛeḍlim"
+    ],
+    "hyw": [
+      "Կեռասենի"
+    ],
+    "id": [
+      "Ceri manis"
+    ],
+    "wuu": [
+      "欧洲甜樱桃"
+    ],
+    "yue": [
+      "歐洲甜櫻桃"
+    ],
+    "arz": [
+      "كرز حلو"
+    ],
+    "ms": [
+      "Ceri manis"
+    ],
+    "my": [
+      "ချယ်ရီပင်"
+    ],
+    "ky": [
+      "Гилас"
+    ],
+    "he": [
+      "דובדבן המתוק"
+    ],
+    "ug": [
+      "ياۋا گىلاس"
+    ],
+    "crh": [
+      "Kirez"
+    ],
+    "lb": [
+      "Vullekiischt"
+    ],
+    "shn": [
+      "တူၼ်ႈမၢၵ်ႇၵွၼ်"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q165137",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q165137",
+  "search_names": {
+    "en": [
+      "gean"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「セイヨウミザクラ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%9F%E3%82%B6%E3%82%AF%E3%83%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 111315460,
+      "text": "セイヨウミザクラ は、ヨーロッパ、北西アフリカ、西アジアに自生するサクラ属の植物であり、果樹のサクランボ（桜桃）の多くの品種がこの種に由来する。自生種の北限はブリテン諸島、南限はモロッコ、チュニジア、東限はスウェーデン南部、ポーランド、ウクライナ、コーカサス、イラン北部である。ヒマラヤ西部にも隔離分布している。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Prunus avium」",
+      "source_url": "https://en.wikipedia.org/wiki/Prunus_avium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1374218019,
+      "text": "Prunus avium, commonly called wild cherry, sweet cherry or gean, is a species of cherry, a flowering plant in the rose family, Rosaceae. It is native to western Eurasia and naturalized elsewhere. It is an ancestor of P. cerasus."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Prunus avium」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Prunus_avium#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1374218019,
+        "heading": "Cultivation",
+        "text": "It is often cultivated as a flowering tree. Because of the size of the tree, it is often used in parkland, and less often as a street or garden tree. The double-flowered form, 'Plena', is commonly found, rather than the wild single-flowered forms. In the UK, P. avium 'Plena' has gained the Royal Horticultural Society's Award of Garden Merit.\nTwo interspecific hybrids, P. × schmittii (P. avium × P. canescens) and P. × fontenesiana (P. avium × P. mahaleb) are also grown as ornamental trees.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia 英語版「Prunus avium」の節「Toxicity」",
+        "source_url": "https://en.wikipedia.org/wiki/Prunus_avium#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1374218019,
+        "heading": "Toxicity",
+        "text": "All parts of the plant except for the ripe fruit are slightly toxic, containing cyanogenic glycosides.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALG",
+      "AUT",
+      "BGM",
+      "BLR",
+      "BUL",
+      "COR",
+      "CYP",
+      "CZE",
+      "DEN",
+      "FRA",
+      "GER",
+      "GRB",
+      "GRC",
+      "HUN",
+      "IRE",
+      "IRN",
+      "ITA",
+      "KRY",
+      "LBY",
+      "MOR",
+      "NCS",
+      "NET",
+      "NOR",
+      "POL",
+      "POR",
+      "ROM",
+      "SPA",
+      "SWE",
+      "SWI",
+      "TCS",
+      "TUE",
+      "TUN",
+      "TUR",
+      "UKR",
+      "YUG"
+    ],
+    "introduced": [
+      "ARI",
+      "ARK",
+      "BAL",
+      "BLT",
+      "BRC",
+      "CAL",
+      "CNT",
+      "DEL",
+      "EHM",
+      "FIN",
+      "IDA",
+      "ILL",
+      "INI",
+      "KAZ",
+      "KOR",
+      "KTY",
+      "LBS",
+      "MAI",
+      "MAS",
+      "MIC",
+      "MRY",
+      "NBR",
+      "NCA",
+      "NSC",
+      "NSW",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OHI",
+      "ONT",
+      "ORE",
+      "PAK",
+      "PEN",
+      "RHO",
+      "RUC",
+      "RUE",
+      "RUS",
+      "SAR",
+      "SCA",
+      "SIC",
+      "SOA",
+      "TEN",
+      "TKM",
+      "TZK",
+      "UTA",
+      "VIC",
+      "VRG",
+      "WAS",
+      "WDC",
+      "WHM",
+      "WVA",
+      "WYO"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30093848-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30093848-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0001006607.webp",
+    "author": "MPF",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Prunus_avium_fruit.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 398,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

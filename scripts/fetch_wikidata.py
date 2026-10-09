@@ -16,7 +16,8 @@ from common import (http_get_json, load_json, log, read_species_list, save_json,
 
 API = "https://www.wikidata.org/w/api.php"
 SPARQL = "https://query.wikidata.org/sparql"
-LANGS = ["ja", "en"]  # 名前と記事を取る言語。増やすときはここに足す。
+LANGS = ["ja", "en"]  # 記事名と検索用の別名を取る言語（説明文を取る言語と合わせる）
+# 表示用の一般名は、Wikidata にある全言語を取る（言語を足すときに取り直さなくてよいように）
 
 
 def _sparql(query: str):
@@ -64,7 +65,7 @@ def common_names(entity: dict, scientific_name: str) -> tuple[dict[str, list[str
     names：表示用。P1843（分類群の一般名）とラベルだけ（信頼できるもの）。
     search_names：検索用。Wikidata の別名（品種名や俗称が混じるので画面には出さない）。
     学名そのもの・学名風の文字列（属名で始まる）はどちらにも入れない。学名の正は WFO。"""
-    names: dict[str, list[str]] = {lang: [] for lang in LANGS}
+    names: dict[str, list[str]] = {}
     search: dict[str, list[str]] = {lang: [] for lang in LANGS}
     genus = scientific_name.split()[0].lower()
 
@@ -76,20 +77,18 @@ def common_names(entity: dict, scientific_name: str) -> tuple[dict[str, list[str
 
     def add(target: dict, lang: str, text: str):
         text = clean(text)
-        if not text or lang not in target:
+        if not text or "-" in lang and lang not in LANGS:  # 地域付きの言語コード（de-ch など）は省く
             return
-        seen = {n.lower() for n in names[lang]} | {n.lower() for n in search[lang]}
+        seen = {n.lower() for n in names.get(lang, [])} | {n.lower() for n in search.get(lang, [])}
         if text.lower() not in seen:
-            target[lang].append(text)
+            target.setdefault(lang, []).append(text)
 
     for cv in _claim_values(entity, "P1843"):
         v = cv["value"]
-        if isinstance(v, dict) and v.get("language") in names:
+        if isinstance(v, dict) and v.get("language"):
             add(names, v["language"], v["text"])
-    for lang in LANGS:
-        lab = entity.get("labels", {}).get(lang)
-        if lab:
-            add(names, lang, lab["value"])
+    for lang, lab in entity.get("labels", {}).items():
+        add(names, lang, lab["value"])
     for lang in LANGS:
         for al in entity.get("aliases", {}).get(lang, []):
             add(search, lang, al["value"])

@@ -22,8 +22,8 @@ from common import (LICENSE_URLS, PHOTOS_DIR, http_get_bytes, http_get_json, is_
 
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 INAT_API = "https://api.inaturalist.org/v1/taxa"
-MAX_SIDE = 480      # 長辺のピクセル数
-WEBP_QUALITY = 78
+MAX_SIDE = 400      # 長辺のピクセル数（古い端末と細い回線のため小さめ）
+WEBP_QUALITY = 72
 
 
 def commons_candidate(filename: str) -> dict | None:

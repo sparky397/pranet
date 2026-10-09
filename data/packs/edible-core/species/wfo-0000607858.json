@@ -1,0 +1,821 @@
+{
+  "id": "wfo-0000607858",
+  "scientific_name": "Citrullus lanatus",
+  "authorship": "(Thunb.) Matsum. & Nakai",
+  "family": "Cucurbitaceae",
+  "synonyms": [
+    "Anguria citrullus (L.) Mill.",
+    "Citrullus afrorum Schrad.",
+    "Citrullus anguria (Duches.) Hara",
+    "Citrullus aquosus Schur",
+    "Citrullus battich Forssk.",
+    "Citrullus chodospermus Fal. & Dun.",
+    "Citrullus citrullus (L.) H.Karst.",
+    "Citrullus citrullus Small",
+    "Citrullus edulis Pangalo",
+    "Citrullus edulis Spach",
+    "Citrullus pasteca Sageret",
+    "Citrullus vulgaris Schrad.",
+    "Colocynthis amarissima Schltdl.",
+    "Colocynthis amarissima Schrad.",
+    "Colocynthis citrullus (L.) Kuntze",
+    "Colocynthis citrullus Fritsch",
+    "Cucumis amarissimus Schrad.",
+    "Cucumis citrullus (L.) Ser.",
+    "Cucumis dissectus Decne.",
+    "Cucumis edulis Steud.",
+    "Cucumis laciniosus Eckl. ex Schrad.",
+    "Cucumis laciniosus Eckl. ex Steud.",
+    "Cucumis vulgaris (Schrad.) E.H.L.Krause",
+    "Cucurbita afra Eckl. & Zeyh.",
+    "Cucurbita anguria Duchesne",
+    "Cucurbita caffra Eckl. & Zeyh.",
+    "Cucurbita citrullus L.",
+    "Cucurbita gigantea Salisb.",
+    "Cucurbita pinnatifida Schrank",
+    "Momordica lanata Thunb."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "スイカ"
+    ],
+    "en": [
+      "Watermelon",
+      "watermelon"
+    ],
+    "de": [
+      "Wassermelone"
+    ],
+    "cs": [
+      "lubenice",
+      "lubenice obecná"
+    ],
+    "es": [
+      "sandía"
+    ],
+    "fi": [
+      "vesimeloni"
+    ],
+    "ru": [
+      "арбуз",
+      "арбуз обыкновенный"
+    ],
+    "fr": [
+      "pastèque"
+    ],
+    "zh": [
+      "西瓜",
+      "西瓜根叶",
+      "西瓜皮",
+      "西瓜子仁",
+      "西瓜霜",
+      "西瓜子",
+      "西瓜子壳"
+    ],
+    "ast": [
+      "melonar d'agua"
+    ],
+    "af": [
+      "Waatlemoen"
+    ],
+    "bg": [
+      "обикновена диня"
+    ],
+    "fa": [
+      "هندوانه"
+    ],
+    "lv": [
+      "villainais arbūzs"
+    ],
+    "am": [
+      "በጢሕ"
+    ],
+    "ar": [
+      "بطيخ أحمر"
+    ],
+    "sv": [
+      "Vattenmelon"
+    ],
+    "pt": [
+      "melancia"
+    ],
+    "ca": [
+      "sindriera"
+    ],
+    "pl": [
+      "arbuz zwyczajny"
+    ],
+    "ta": [
+      "தர்ப்பூசணி"
+    ],
+    "hi": [
+      "साइट्रुलस लैनाटस"
+    ],
+    "tr": [
+      "karpuz"
+    ],
+    "ba": [
+      "Ҡарбуҙ"
+    ],
+    "th": [
+      "แตงโม"
+    ],
+    "bs": [
+      "lubenica"
+    ],
+    "cy": [
+      "Melon dŵr"
+    ],
+    "sk": [
+      "Dyňa červená"
+    ],
+    "pa": [
+      "ਹਦਵਾਣਾ"
+    ],
+    "co": [
+      "Patecca"
+    ],
+    "be": [
+      "Кавун звычайны"
+    ],
+    "et": [
+      "harilik arbuus"
+    ],
+    "sc": [
+      "Sìndria"
+    ],
+    "mrj": [
+      "Арбуз"
+    ],
+    "sh": [
+      "Lubenica"
+    ],
+    "ht": [
+      "Melon dlo"
+    ],
+    "lt": [
+      "Tikrasis arbūzas"
+    ],
+    "jv": [
+      "Semangka"
+    ],
+    "vi": [
+      "Dưa hấu"
+    ],
+    "ml": [
+      "തണ്ണിമത്തൻ"
+    ],
+    "bcl": [
+      "Pakwan"
+    ],
+    "ur": [
+      "تربوز"
+    ],
+    "yi": [
+      "ארבוז"
+    ],
+    "ps": [
+      "هندواڼه"
+    ],
+    "tl": [
+      "Pakwan"
+    ],
+    "eml": [
+      "Angüria"
+    ],
+    "az": [
+      "Adi qarpız"
+    ],
+    "hu": [
+      "görögdinnye"
+    ],
+    "sa": [
+      "कलिङ्गफलम्"
+    ],
+    "sl": [
+      "Lubenica"
+    ],
+    "mn": [
+      "Тарвас"
+    ],
+    "kbp": [
+      "Pasɩtɛkɩ"
+    ],
+    "sw": [
+      "Tikitimaji"
+    ],
+    "bxr": [
+      "Тарбас"
+    ],
+    "lg": [
+      "Watermelon"
+    ],
+    "mk": [
+      "Лубеница"
+    ],
+    "sd": [
+      "ھنداڻو"
+    ],
+    "gu": [
+      "તરબૂચ"
+    ],
+    "ko": [
+      "수박"
+    ],
+    "se": [
+      "Čáhcemelovdna"
+    ],
+    "el": [
+      "Καρπούζι"
+    ],
+    "si": [
+      "කොමඩු"
+    ],
+    "eo": [
+      "Akvomelono"
+    ],
+    "ku": [
+      "Zebeş"
+    ],
+    "war": [
+      "Pakwan"
+    ],
+    "hr": [
+      "Lubenica"
+    ],
+    "gv": [
+      "Mellyn ushtey"
+    ],
+    "to": [
+      "Meleni"
+    ],
+    "lad": [
+      "Karpuz"
+    ],
+    "kaa": [
+      "G'arbız"
+    ],
+    "id": [
+      "Semangka"
+    ],
+    "udm": [
+      "Арбуз"
+    ],
+    "eu": [
+      "Angurri"
+    ],
+    "ms": [
+      "tembikai"
+    ],
+    "os": [
+      "Харбыз"
+    ],
+    "chr": [
+      "ᎬᎩᏍᏗ"
+    ],
+    "ne": [
+      "खरबुजा"
+    ],
+    "ab": [
+      "Акарпыжә"
+    ],
+    "csb": [
+      "Zwëczajny kawón"
+    ],
+    "gn": [
+      "Sándia"
+    ],
+    "su": [
+      "Samangka"
+    ],
+    "lbe": [
+      "Къалпуз"
+    ],
+    "ro": [
+      "Pepene verde"
+    ],
+    "uk": [
+      "Кавун"
+    ],
+    "gl": [
+      "Sandía"
+    ],
+    "nan": [
+      "Si-koe"
+    ],
+    "nn": [
+      "Vassmelon"
+    ],
+    "lzh": [
+      "西瓜"
+    ],
+    "kn": [
+      "ಕಲ್ಲಂಗಡಿ"
+    ],
+    "yue": [
+      "西瓜"
+    ],
+    "diq": [
+      "Hendi"
+    ],
+    "da": [
+      "Vandmelon"
+    ],
+    "ky": [
+      "Дарбыз"
+    ],
+    "sr": [
+      "Лубеница"
+    ],
+    "sat": [
+      "ᱛᱚᱨᱢᱩᱡᱽ"
+    ],
+    "ug": [
+      "تاۋۇز"
+    ],
+    "bn": [
+      "তরমুজ"
+    ],
+    "he": [
+      "אבטיח פשוט"
+    ],
+    "lb": [
+      "Waassermeloun"
+    ],
+    "vep": [
+      "arbuz"
+    ],
+    "tt": [
+      "гади карбыз"
+    ],
+    "wuu": [
+      "西瓜"
+    ],
+    "tcy": [
+      "ಬಚ್ಚಂಗಾಯಿ"
+    ],
+    "frr": [
+      "weedermeloon"
+    ],
+    "pdc": [
+      "Wassmeloon"
+    ],
+    "cdo": [
+      "Să̤-guă"
+    ],
+    "scn": [
+      "Muluni d'acqua"
+    ],
+    "chy": [
+      "Nêxo'mévéhe"
+    ],
+    "wo": [
+      "Xaal"
+    ],
+    "hsb": [
+      "Wódna melona"
+    ],
+    "mr": [
+      "टरबूज"
+    ],
+    "bo": [
+      "ཆུ་ཀུབ།"
+    ],
+    "te": [
+      "పుచ్చకాయ"
+    ],
+    "hyw": [
+      "Ձմերուկ"
+    ],
+    "sn": [
+      "Nwiwa"
+    ],
+    "nv": [
+      "Chʼééhjiyáán"
+    ],
+    "dv": [
+      "ކަރާ"
+    ],
+    "or": [
+      "ତରଭୁଜ"
+    ],
+    "my": [
+      "ဖရဲပင်"
+    ],
+    "ban": [
+      "Sumangka"
+    ],
+    "za": [
+      "Gvehoengz"
+    ],
+    "ckb": [
+      "شووتی"
+    ],
+    "tyv": [
+      "Дарбыс"
+    ],
+    "so": [
+      "Qare"
+    ],
+    "rup": [
+      "Himunicu"
+    ],
+    "nb": [
+      "Vannmelon"
+    ],
+    "azb": [
+      "عادی قارپیز"
+    ],
+    "bi": [
+      "Watermelon"
+    ],
+    "hy": [
+      "ձմերուկ"
+    ],
+    "gom": [
+      "काळींग"
+    ],
+    "nap": [
+      "Mellone russo"
+    ],
+    "tay": [
+      "bahat"
+    ],
+    "cv": [
+      "Арбуз"
+    ],
+    "sg": [
+      "Kê"
+    ],
+    "nah": [
+      "Chichilayohtli"
+    ],
+    "mg": [
+      "Voajabo"
+    ],
+    "crh": [
+      "büken"
+    ],
+    "arq": [
+      "دلاع"
+    ],
+    "wa": [
+      "pasteke"
+    ],
+    "guc": [
+      "kalapaasü"
+    ],
+    "bjn": [
+      "sumangka"
+    ],
+    "pnb": [
+      "ہدواݨا"
+    ],
+    "om": [
+      "Habaabii"
+    ],
+    "km": [
+      "ឪឡឹក"
+    ],
+    "bbc": [
+      "Haramoja"
+    ],
+    "dtp": [
+      "sadur"
+    ],
+    "min": [
+      "Cimangko"
+    ],
+    "ha": [
+      "Ruwan Ruwan Ruwa"
+    ],
+    "ks": [
+      "ہیٚنٛد وینٛد"
+    ],
+    "kge": [
+      "Samaka"
+    ],
+    "rsk": [
+      "Ґереґа"
+    ],
+    "ig": [
+      "Watermelon"
+    ],
+    "xal": [
+      "Тарвс"
+    ],
+    "mos": [
+      "Narɩ"
+    ],
+    "mwl": [
+      "Melóncia"
+    ],
+    "mnc": [
+      "ᡩᡠᠩᡤᠠ"
+    ],
+    "kus": [
+      "Wɔtamɛlɔ"
+    ],
+    "kai": [
+      "Silò"
+    ],
+    "is": [
+      "Vatnsmelóna"
+    ],
+    "mad": [
+      "Somangka"
+    ],
+    "nso": [
+      "Legapu"
+    ],
+    "zu": [
+      "Ikhabe"
+    ],
+    "ts": [
+      "Khalavatla"
+    ],
+    "bho": [
+      "तरबुज्जा"
+    ],
+    "tn": [
+      "Legapu"
+    ],
+    "acm": [
+      "رگي"
+    ],
+    "haw": [
+      "Watermelon"
+    ],
+    "shn": [
+      "တႅင်ၸမ်ႇပူႇ"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q17507129",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q17507129",
+  "search_names": {
+    "ja": [
+      "西瓜",
+      "水瓜"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「スイカ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%AB",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 111085642,
+      "text": "スイカ は、果実を食用にするために栽培されるウリ科のつる性一年草。また、その果実のこと。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Watermelon」",
+      "source_url": "https://en.wikipedia.org/wiki/Watermelon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1374422516,
+      "text": "The watermelon is a species of flowering plant in the family Cucurbitaceae. It is a scrambling and trailing vine-like plant cultivated worldwide."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "ja": {
+        "source": "Wikipedia 日本語版「スイカ」の節「栽培」",
+        "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%AB#%E6%A0%BD%E5%9F%B9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 111085642,
+        "heading": "栽培",
+        "text": "世界的には無整枝の放任栽培とする場合が多い。これに対して日本では地ばい栽培の整枝栽培とすることが多く、1個体あたりの着果数も1果から2果に制限して栽培することが多い。\n春（4月ごろ）に苗を植え付けて夏（7月ごろ）に収穫する果実的野菜。野菜のうちでは最も強光を好み、生育適温は昼間28 - 30度、夜間15度以上と高く、日当たりのよい場所で栽培する。土質は選ばず、砂質から粘土質まで適応幅は広い。しかし、連作を最も嫌う野菜として知られており、畑は他のウリ科作物を4 - 5年作っていない砂質の水はけと日当たりの良い場所にする。湿度にも弱く、連作ができないため栽培難度は高いといわれている。家庭で育てる場合は、小玉種が育てやすい。\n現在では病気や連作に強い苗を育てるため、カンピョウ（ユウガオ）やカボチャ台木にした接ぎ木苗を購入して栽培するのが一般的になっているが、種から育てる実生栽培のほうが食味は優れている。敷き藁でマルチングをして乾燥気味かつ清潔に育てるのが重要となる。\n苗をつくるときは、育苗箱に種をまき、発芽適温は25 - 30度で保温して発芽させる。発芽後、本葉1枚になったら育苗ポットに鉢上げし、本葉5 - 6枚の苗に仕上げる。圃場には植え付け1か月前から元肥を入れて良く耕しておき、幅2.5 - 3 mの畝を作り、苗を80 - 100 cm以上間隔を空けて植え付ける。深植えしすぎないようにし、植え付け後はたっぷりの水を与える。植え付けから初夏まではツルが伸びていく時期で、伸びたツルの本葉5 - 8枚ほど（5 - 8節）で先端を摘んで小ヅルを3 - 6本ほど出して、各小ヅルに2個の実を成らせる。大玉品種は1株3 - 4個、小玉品種は1株7 - 8個ほど実を成らせるのが基本とされ、実が膨らんで鶏卵大になったら摘果する。生長期の孫ヅルはすべて摘み取る。また、小ヅル同士が重ならないように整えたら、ツルの下には敷き藁を敷いておく。\nスイカは雌雄異花の虫媒花である。1番花と2番花は良い果実ができないため、小ヅルの20節前後につく3番花を結実させる。黄色い花は、雄花とつけ根に丸い膨らみがある雌花があり、晴れた日の朝（6 - 9時）のうちに雄花を花茎ごと摘んで、雌花の雌しべ（花柱）に花粉（葯）をこすりつけて人工授粉させると確実に着果する。授粉後、雌花のつけ根がタマゴ大に膨らんだら、ツルの先端に少量の追肥しておくとよく、授粉後35日 - 45日前後で収穫時期を迎える。果実が地面に接している部分は色づきが悪くなるため、ある程度の大きさになったら実をツルごと持ち上げて置き直す「玉直し」を行うと、実が均等に熟す。実の近くの巻きひげが枯れてきたころが収穫の目安で、収穫後は2 - 3日ほど追熟するとさらに実は甘くなる。収穫は果実を叩いて低い音で判断することもあるが、熟度を知るには確実性欠けるため、交配日を目印にしておけば熟度は判定できる。\n\n■ 連作障害・病害\n水持ちが良い土壌で栽培すると、途中でつる割病などが発生して枯れてしまう。病気に対しては、雨の後と、晴天時でも10日ごとに殺菌剤を散布することにより予防につながる。炭疽病は雨の多いときに発生しやすく、葉が混み合っているところを入念に薬剤散布して防除する。\n連作障害やつる割病に弱いため、台木としてユウガオやカボチャなどの台木を用いる接ぎ木栽培をすると、耐病性が付与され、連作も可能になる。\nスイカ果実汚斑細菌病（BFB）の病原細菌はウリ科雑草のアレチウリ、カラスウリに病原性を有するが、アマチャヅルには病原性がない。病斑を形成した発病苗やウリ科雑草は2次伝染源となる可能性がある。スイカ作付け圃場周辺にカラスウリ、アレチウリが自生している場合は、抜き取って処分する。わが国では1998年にスイカで発生、その後メロン、トウガンなど瓜類での発生が確認されており、瓜類の種子伝播を防ぐため種苗メーカーによる厳格な検査体制を敷いている。\n\n■ スイカの爆発\n収穫直前に大雨が降るなどして内部に腐敗を生じガスで内圧が高まることで爆発を起こすことがある。",
+        "truncated": true
+      },
+      "en": {
+        "source": "Wikipedia 英語版「Watermelon」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Watermelon#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1374422516,
+        "heading": "Cultivation",
+        "text": "Watermelons grow in tropical to temperate climates, needing temperatures higher than 25 °C (77 °F) to thrive. On a garden scale, seeds are usually sown in pots under cover and transplanted into the ground. Ideal conditions are a well-drained sandy loam with a pH between 5.7 and 7.2.\nMajor pests of the watermelon include aphids, fruit flies, and root-knot nematodes. In conditions of high humidity, the plants are prone to plant diseases such as powdery mildew and mosaic virus. Some varieties often grown in Japan and other parts of the Far East are susceptible to fusarium wilt. Grafting such varieties onto disease-resistant rootstocks offers protection.\n\nThe United States Department of Agriculture recommends using at least one beehive per acre (4,000 m2 per hive) for pollination of conventional, seeded varieties for commercial plantings. Seedless hybrids have sterile pollen. This requires planting pollinizer rows of varieties with viable pollen. Since the supply of viable pollen is reduced, and pollination is much more critical in producing the seedless variety, the recommended number of hives per acre increases to three hives per acre (1,300 m2 per hive). Watermelons have a longer growing period than other melons and can often take 85 days or more from the time of transplanting for the fruit to mature. About a thousand grains of pollen must be delivered and spread evenly on the three lobes of the stigma to make a normal sized and shaped fruit. In addition, lack of pollen is thought to contribute to \"hollow heart\" which causes the flesh of the watermelon to develop a large hole, sometimes in an intricate, symmetric shape. Watermelons suffering from hollow heart are safe to consume.",
+        "truncated": true
+      }
+    }
+  },
+  "distribution": {
+    "native": [
+      "EGY",
+      "ETH",
+      "LBY",
+      "SUD"
+    ],
+    "introduced": [
+      "AFG",
+      "AGE",
+      "AGW",
+      "ALA",
+      "ALB",
+      "AND",
+      "ANG",
+      "ARK",
+      "ASC",
+      "ASS",
+      "AUT",
+      "AZO",
+      "BAH",
+      "BAN",
+      "BEN",
+      "BKN",
+      "BOL",
+      "BOT",
+      "BUR",
+      "BZC",
+      "BZS",
+      "CAF",
+      "CAL",
+      "CAY",
+      "CHA",
+      "CHH",
+      "CHQ",
+      "CHS",
+      "CLM",
+      "CMN",
+      "CNT",
+      "CNY",
+      "CON",
+      "COO",
+      "COS",
+      "CPP",
+      "CRL",
+      "CUB",
+      "CZE",
+      "DEN",
+      "DJI",
+      "DOM",
+      "EAI",
+      "ECU",
+      "ELS",
+      "ERI",
+      "FIN",
+      "FLA",
+      "GAB",
+      "GAL",
+      "GAM",
+      "GEO",
+      "GER",
+      "GGI",
+      "GHA",
+      "GIL",
+      "GRB",
+      "GRC",
+      "GUA",
+      "GUI",
+      "HAI",
+      "ILL",
+      "IND",
+      "INI",
+      "IRQ",
+      "IVO",
+      "JAW",
+      "KAN",
+      "KAZ",
+      "KEN",
+      "KOR",
+      "KRA",
+      "KTY",
+      "LAO",
+      "LEE",
+      "LES",
+      "LOU",
+      "LSI",
+      "MAI",
+      "MAS",
+      "MAU",
+      "MIC",
+      "MLI",
+      "MLW",
+      "MOZ",
+      "MRN",
+      "MRS",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MTN",
+      "MXS",
+      "NAM",
+      "NAT",
+      "NCA",
+      "NCB",
+      "NEP",
+      "NEV",
+      "NGA",
+      "NGR",
+      "NIC",
+      "NOR",
+      "NRU",
+      "NSW",
+      "NTA",
+      "NUE",
+      "NWC",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OFS",
+      "OHI",
+      "OKL",
+      "OMA",
+      "PAK",
+      "PEN",
+      "POR",
+      "PUE",
+      "QLD",
+      "REU",
+      "RHO",
+      "ROD",
+      "ROM",
+      "RUN",
+      "RWA",
+      "SAM",
+      "SAU",
+      "SCA",
+      "SCI",
+      "SEN",
+      "SIE",
+      "SOA",
+      "SOC",
+      "SOM",
+      "SRL",
+      "SWE",
+      "SWZ",
+      "TAN",
+      "TCS",
+      "TEN",
+      "TEX",
+      "TKM",
+      "TOG",
+      "TRT",
+      "TUB",
+      "TUE",
+      "TUR",
+      "TVL",
+      "TZK",
+      "UGA",
+      "UTA",
+      "UZB",
+      "VAN",
+      "VEN",
+      "VER",
+      "VIC",
+      "VIE",
+      "VNA",
+      "VRG",
+      "WAU",
+      "WIN",
+      "WIS",
+      "WVA",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/291938-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/291938-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000607858.webp",
+    "author": "Kumon",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Watermelon-garden.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 267,
+    "retrieved": "2026-10-09"
+  }
+}

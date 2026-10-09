@@ -1,0 +1,78 @@
+{
+  "id": "wfo-0000865263",
+  "scientific_name": "Echinochloa crus-galli subsp. utilis",
+  "authorship": "(Ohwi & Yabuno) T.Koyama",
+  "family": "Poaceae",
+  "synonyms": [
+    "Echinochloa esculenta (A.Braun) H.Scholz",
+    "Echinochloa utilis Ohwi & Yabuno",
+    "Panicum esculentum A.Braun"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q85220521",
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "CHC"
+    ],
+    "introduced": [
+      "AUT",
+      "CAL",
+      "CZE",
+      "FIJ",
+      "FLA",
+      "FRA",
+      "GER",
+      "GRB",
+      "HAW",
+      "JAP",
+      "KER",
+      "KHA",
+      "KOR",
+      "KUR",
+      "MSO",
+      "NWY",
+      "NZN",
+      "NZS",
+      "PRM",
+      "RUS",
+      "SAK",
+      "TAS",
+      "TCS",
+      "UKR",
+      "VIE",
+      "WSB",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/954136-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/954136-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  }
+}

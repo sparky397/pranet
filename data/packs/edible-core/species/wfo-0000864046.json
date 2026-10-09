@@ -1,0 +1,105 @@
+{
+  "id": "wfo-0000864046",
+  "scientific_name": "Digitaria iburua",
+  "authorship": "Stapf",
+  "family": "Poaceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ブラックフォニオ"
+    ],
+    "en": [
+      "black fonio"
+    ],
+    "de": [
+      "Iburu"
+    ],
+    "fr": [
+      "Fonio noir"
+    ],
+    "ha": [
+      "Iburo"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1341123",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q1341123",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ブラックフォニオ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%8B%E3%82%AA",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 109206275,
+      "text": "ブラックフォニオ Digitaria iburua Stapf. 1915. はイネ科メヒシバ属の植物で、アフリカで栽培される雑穀の1つである。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Digitaria iburua」",
+      "source_url": "https://en.wikipedia.org/wiki/Digitaria_iburua",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1356782093,
+      "text": "Digitaria iburua, commonly known as iburu, is a grass species native to west and west-central tropical Africa, which is cultivated as a grain crop known as black fonio."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "BEN",
+      "CMN",
+      "IVO",
+      "NGA",
+      "NGR",
+      "TOG"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/398884-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/398884-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000864046.webp",
+    "author": "Krzysztof Golik",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Digitaria_iburua_in_Jardin_botanique_de_la_Charme.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 267,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

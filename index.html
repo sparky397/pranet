@@ -2,10 +2,38 @@
 <html lang="ja">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="refresh" content="0; url=app/">
-  <title>pranet</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>pranet - 出典付きの植物図鑑</title>
+  <meta name="description" content="世界中の誰でも無料で使える、出典付きの植物図鑑。自分の土地の食用植物を調べられ、電波が無くても動きます。">
+  <meta property="og:title" content="pranet - 出典付きの植物図鑑">
+  <meta property="og:description" content="自分の土地の食用植物を、出典付きで。無料、オフラインで動く、誰でも直せる。">
+  <meta property="og:image" content="https://sparky397.github.io/pranet/app/icons/icon-512.png">
+  <link rel="canonical" href="https://sparky397.github.io/pranet/">
+  <link rel="icon" href="app/icons/icon-192.png">
+  <style>
+    body{margin:0;font-family:system-ui,sans-serif;line-height:1.6;color:#1d1f1a;background:#fbfaf7}
+    main{max-width:680px;margin:0 auto;padding:32px 16px}
+    h1{font-size:2.2rem;margin:0}
+    .p{display:inline-block;transform:scaleY(-1)}
+    .btn{display:inline-block;background:#2f6b3a;color:#fff;padding:12px 20px;border-radius:999px;text-decoration:none;font-weight:600}
+    ul{padding-left:20px} small{color:#6a6e63}
+    @media(prefers-color-scheme:dark){body{background:#15170f;color:#ecebe3}small{color:#a3a79a}}
+  </style>
 </head>
 <body>
-  <p><a href="app/">pranet を開く</a></p>
+<main>
+  <h1><span class="p">b</span>ranet</h1>
+  <p>世界中の誰でも無料で使える、出典付きの植物図鑑。<br>自分の土地に合った食用植物を知り、育てられるように。</p>
+  <p><a class="btn" href="app/">図鑑を開く</a></p>
+  <ul>
+    <li>すべての情報に出典とライセンスが付いています。出典の無い情報は載せません。</li>
+    <li>一度開けば、電波が無くても動きます。ホーム画面に追加できます。</li>
+    <li>「場所」で州と国を選ぶと、そこに自生・導入されている食用植物が出ます。</li>
+    <li>毒性の記録がある植物には ☠ が付きます。</li>
+    <li>間違いは誰でも報告・訂正を提案できます（出典が必要）。</li>
+  </ul>
+  <p><small>コードは MIT、データは項目ごとのライセンス。<a href="https://github.com/sparky397/pranet">GitHub</a> · <a href="docs/LICENSE-DATA.md">データのライセンス</a> · <a href="docs/ATTRIBUTION.md">写真と文章の出典</a></small></p>
+  <p><small>同定や利用は自己責任でお願いします。この図鑑だけを根拠に野生の植物を食べないでください。</small></p>
+</main>
 </body>
 </html>

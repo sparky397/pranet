@@ -1,0 +1,615 @@
+{
+  "id": "wfo-0000634022",
+  "scientific_name": "Asparagus officinalis",
+  "authorship": "L.",
+  "family": "Asparagaceae",
+  "synonyms": [
+    "Asparagus altilis Asch.",
+    "Asparagus caspius Hohen.",
+    "Asparagus caspius Hort.Vind. ex Schult.f.",
+    "Asparagus collinus Schur",
+    "Asparagus esculentus Salisb.",
+    "Asparagus fiorii Sennen",
+    "Asparagus hedecarpus Andrz. ex Baker",
+    "Asparagus hortensis Mill. ex Baker",
+    "Asparagus littoralis Steven",
+    "Asparagus oxycarpus Steven",
+    "Asparagus paragus Gueldenst. ex Ledeb.",
+    "Asparagus polyphyllus Steven",
+    "Asparagus polyphyllus Steven ex Ledeb.",
+    "Asparagus sativus Mill.",
+    "Asparagus setiformis Krylov",
+    "Asparagus tenuifolius Gilib.",
+    "Asparagus vulgaris Gueldenst. ex Ledeb."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "アスパラガス",
+      "オランダキジカクシ",
+      "石刁柏",
+      "オランダウド",
+      "マツバウド",
+      "セイヨウウド"
+    ],
+    "de": [
+      "Gemüse-Spargel",
+      "Gemüsespargel"
+    ],
+    "en": [
+      "garden asparagus",
+      "wild asparagus"
+    ],
+    "zh": [
+      "蘆筍",
+      "石刁柏",
+      "石刁柏（芦笋）",
+      "小百部",
+      "石刁柏子",
+      "芦笋"
+    ],
+    "nl": [
+      "liggende asperge",
+      "asperge"
+    ],
+    "cs": [
+      "chřest lékařský"
+    ],
+    "fr": [
+      "asperge"
+    ],
+    "fi": [
+      "ruokaparsa",
+      "parsa"
+    ],
+    "sl": [
+      "navadni beluš"
+    ],
+    "bo": [
+      "འདམ་མྱུག"
+    ],
+    "eu": [
+      "zainzuri"
+    ],
+    "qu": [
+      "Isparaw"
+    ],
+    "ta": [
+      "சாத்தாவாரியினம்"
+    ],
+    "et": [
+      "harilik aspar"
+    ],
+    "bn": [
+      "শতমূলী"
+    ],
+    "rw": [
+      "Asiperije"
+    ],
+    "el": [
+      "Σπαράγγι"
+    ],
+    "my": [
+      "ကညွတ်ပင်"
+    ],
+    "ba": [
+      "Себен үләне"
+    ],
+    "ar": [
+      "هليون"
+    ],
+    "eo": [
+      "Asparago"
+    ],
+    "sr": [
+      "шпаргла"
+    ],
+    "tr": [
+      "Kuşkonmaz"
+    ],
+    "myv": [
+      "Ведунтикше"
+    ],
+    "uk": [
+      "аспарагус садовий"
+    ],
+    "io": [
+      "Asparago"
+    ],
+    "hr": [
+      "šparoga"
+    ],
+    "tl": [
+      "Esparago"
+    ],
+    "vec": [
+      "Spàraxo"
+    ],
+    "wa": [
+      "Aspedje"
+    ],
+    "be": [
+      "Спаржа"
+    ],
+    "he": [
+      "אספרג רפואי"
+    ],
+    "lv": [
+      "sparģeļi"
+    ],
+    "mdf": [
+      "Аспарагус"
+    ],
+    "li": [
+      "Asperge"
+    ],
+    "ml": [
+      "ശതാവരി"
+    ],
+    "yue": [
+      "露筍"
+    ],
+    "sh": [
+      "Špargla"
+    ],
+    "hi": [
+      "शतावर"
+    ],
+    "hy": [
+      "Ծնեբեկ"
+    ],
+    "kn": [
+      "ಶತಾವರಿ"
+    ],
+    "mr": [
+      "अस्पॅरॅगस"
+    ],
+    "fa": [
+      "مارچوبه"
+    ],
+    "te": [
+      "ఆస్పరాగస్"
+    ],
+    "ka": [
+      "ბაღის სატაცური"
+    ],
+    "ur": [
+      "ہلیون"
+    ],
+    "dsb": [
+      "Gromak"
+    ],
+    "pcd": [
+      "Aspérjhe"
+    ],
+    "lt": [
+      "Vaistinis smidras"
+    ],
+    "gv": [
+      "Asparag"
+    ],
+    "nv": [
+      "Chʼałdą́ą́ʼ / Jádí nátʼoh"
+    ],
+    "az": [
+      "Dərman qulançarı"
+    ],
+    "ca": [
+      "espàrrec"
+    ],
+    "da": [
+      "Almindelig Asparges"
+    ],
+    "hsb": [
+      "Prawy hromak"
+    ],
+    "hu": [
+      "közönséges spárga"
+    ],
+    "kk": [
+      "Қояншөп"
+    ],
+    "ko": [
+      "아스파라거스"
+    ],
+    "ku": [
+      "Kilig"
+    ],
+    "pl": [
+      "Szparag lekarski"
+    ],
+    "pt": [
+      "espargo"
+    ],
+    "ro": [
+      "Sparanghel"
+    ],
+    "ru": [
+      "спаржа лекарственная"
+    ],
+    "sq": [
+      "shpargulli mjekësor"
+    ],
+    "sv": [
+      "sparris"
+    ],
+    "vi": [
+      "Măng tây"
+    ],
+    "is": [
+      "Spergill"
+    ],
+    "bg": [
+      "обикновена аспержа"
+    ],
+    "frr": [
+      "Spargel"
+    ],
+    "ne": [
+      "कुरिलो"
+    ],
+    "nb": [
+      "asparges"
+    ],
+    "sk": [
+      "asparágus lekársky"
+    ],
+    "ga": [
+      "lus súgach"
+    ],
+    "gl": [
+      "Esparragueira"
+    ],
+    "af": [
+      "Aspersie"
+    ],
+    "yi": [
+      "ספארזשע"
+    ],
+    "bs": [
+      "Šparoga"
+    ],
+    "pa": [
+      "ਸ਼ਤਾਵਰ"
+    ],
+    "wo": [
+      "yar u golo"
+    ],
+    "or": [
+      "ସତମୂଳୀ"
+    ],
+    "br": [
+      "asperjez"
+    ],
+    "fy": [
+      "asperzje"
+    ],
+    "lo": [
+      "ໜໍ່ຝະລັ່ງ"
+    ],
+    "oc": [
+      "espàrgol"
+    ],
+    "vo": [
+      "sparag"
+    ],
+    "arz": [
+      "اسبراجوس"
+    ],
+    "sdc": [
+      "ipàramu"
+    ],
+    "fo": [
+      "aspargus"
+    ],
+    "fur": [
+      "sparc"
+    ],
+    "mk": [
+      "аспара́гус"
+    ],
+    "gd": [
+      "creamh-na-muice-fiadhaich"
+    ],
+    "csb": [
+      "Lékarskô szparaga"
+    ],
+    "sd": [
+      "اسپريگس"
+    ],
+    "nn": [
+      "asparges"
+    ],
+    "lfn": [
+      "Asparago"
+    ],
+    "gsw": [
+      "Gemüsespargel"
+    ],
+    "th": [
+      "หน่อไม้ฝรั่ง"
+    ],
+    "kab": [
+      "Iskimen"
+    ],
+    "wuu": [
+      "芦笋"
+    ],
+    "diq": [
+      "Melecu"
+    ],
+    "kw": [
+      "merles"
+    ],
+    "mni": [
+      "ꯅꯨꯡꯒꯥꯔꯩ"
+    ],
+    "lb": [
+      "Spargel"
+    ],
+    "cv": [
+      "Эмелле спаржа"
+    ],
+    "ug": [
+      "قۇشقونماس"
+    ],
+    "os": [
+      "Хосгæнæн спаржæ"
+    ],
+    "mg": [
+      "Asparaga"
+    ],
+    "hyw": [
+      "Ծնեբեկ"
+    ],
+    "ckb": [
+      "مارچێوە"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q28367",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q28367",
+  "search_names": {
+    "ja": [
+      "石勺柏",
+      "グリーンアスパラガス",
+      "竜髭菜",
+      "アスパラ",
+      "竜鬚菜"
+    ],
+    "en": [
+      "sparrow grass"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「アスパラガス」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%91%E3%83%A9%E3%82%AC%E3%82%B9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 109920482,
+      "text": "アスパラガス は、キジカクシ科（クサスギカズラ科）クサスギカズラ属（キジカクシ属）に属する多年生草本の単子葉植物で、野菜として食用にされる。和名はオランダキジカクシ。クサスギカズラ属の別種を指してアスパラガスと呼ぶこともある。特に園芸方面ではオオミドリボウキを指すことが多い。ユーラシア大陸やアフリカ大陸と周辺の島々に約120種が自生している。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Asparagus」",
+      "source_url": "https://en.wikipedia.org/wiki/Asparagus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1375403431,
+      "text": "Asparagus or garden asparagus is a perennial flowering plant species in the genus Asparagus native to Eurasia. Widely cultivated as a vegetable crop, its young shoots are used as a spring vegetable. In 2024, world production of asparagus was 8.9 million tonnes, led by China with 87% of the total."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Asparagus」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Asparagus#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1375403431,
+        "heading": "Cultivation",
+        "text": "Since asparagus often originates in maritime habitats, it thrives in soils that are too saline for normal weeds to grow. Thus, a little salt was traditionally used to suppress weeds in beds intended for asparagus; this has the disadvantage that the soil cannot be used for anything else. Some regions and gardening zones are better-suited for growing asparagus than others, such as the west coast of North America and other more maritime, \"Mediterranean\" environments. The fertility of the soil is a large factor. \"Crowns\" are planted in winter, and the first shoots appear in spring; the first pickings or \"thinnings\" are known as sprue asparagus. Sprue has thin stems.\nA breed of \"early-season asparagus\" that can be harvested two months earlier than usual was announced by a UK grower in early 2011. This variety does not need to lie dormant and blooms at 7 °C (45 °F), rather than the usual 9 °C (48 °F).\nPurple asparagus differs from its green and white counterparts in having high sugar and low fibre levels. Purple asparagus was originally developed in Italy, near the city of Albenga and commercialized under the variety name 'Violetto d' Albenga'. Purple asparagus can also turn green while being cooked due to its sensitivity to heat.\n\n■ Companion planting\nAsparagus is said to be a useful companion plant for tomatoes, as the tomato plant repels the asparagus beetle. Asparagus may repel some harmful root nematodes that affect tomato plants.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALT",
+      "AUT",
+      "BLR",
+      "BUL",
+      "CHX",
+      "COR",
+      "CZE",
+      "FRA",
+      "GER",
+      "GRC",
+      "HUN",
+      "IRN",
+      "KAZ",
+      "KRA",
+      "KRY",
+      "LBS",
+      "MON",
+      "NCS",
+      "PAK",
+      "POL",
+      "RUC",
+      "RUS",
+      "SIC",
+      "SWI",
+      "TCS",
+      "TUE",
+      "TUR",
+      "UKR",
+      "WSB"
+    ],
+    "introduced": [
+      "ABT",
+      "AGE",
+      "AGS",
+      "AGW",
+      "ALA",
+      "ALG",
+      "ARI",
+      "ARK",
+      "BAN",
+      "BGM",
+      "BLT",
+      "BOL",
+      "BRC",
+      "CAL",
+      "CHI",
+      "CNT",
+      "COL",
+      "COS",
+      "CYP",
+      "DEL",
+      "DEN",
+      "EHM",
+      "ETH",
+      "FIN",
+      "FLA",
+      "GEO",
+      "GRB",
+      "IDA",
+      "ILL",
+      "INI",
+      "IOW",
+      "IRE",
+      "KAN",
+      "KTY",
+      "LAB",
+      "LOU",
+      "MAI",
+      "MAN",
+      "MAS",
+      "MAU",
+      "MDG",
+      "MIC",
+      "MIN",
+      "MNT",
+      "MOR",
+      "MRN",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXS",
+      "MXT",
+      "NBR",
+      "NCA",
+      "NDA",
+      "NEB",
+      "NET",
+      "NEV",
+      "NFL",
+      "NOR",
+      "NSC",
+      "NSW",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OHI",
+      "OKL",
+      "ONT",
+      "ORE",
+      "PEI",
+      "PEN",
+      "POR",
+      "PRM",
+      "QLD",
+      "QUE",
+      "REU",
+      "RHO",
+      "RUE",
+      "RUN",
+      "RUW",
+      "SAR",
+      "SAS",
+      "SCA",
+      "SDA",
+      "SEY",
+      "SOA",
+      "SOL",
+      "SPA",
+      "SWE",
+      "TAS",
+      "TEN",
+      "TEX",
+      "TRT",
+      "TUN",
+      "URU",
+      "UTA",
+      "VER",
+      "VIC",
+      "VRG",
+      "WAS",
+      "WAU",
+      "WDC",
+      "WHM",
+      "WIS",
+      "WVA",
+      "WYO"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/531229-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/531229-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000634022.webp",
+    "author": "Evelyn Simak",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Asparagus_plants_-_geograph.org.uk_-_552470.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

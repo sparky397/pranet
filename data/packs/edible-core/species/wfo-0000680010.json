@@ -1,0 +1,116 @@
+{
+  "id": "wfo-0000680010",
+  "scientific_name": "Erythroxylum novogranatense",
+  "authorship": "(D.Morris) Hieron.",
+  "family": "Erythroxylaceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "en": [
+      "Colombian coca"
+    ],
+    "zh": [
+      "古柯"
+    ],
+    "ast": [
+      "coca colombiana"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q5396543",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q5396543",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Erythroxylum novogranatense」",
+      "source_url": "https://en.wikipedia.org/wiki/Erythroxylum_novogranatense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1357723008,
+      "text": "Erythroxylum novogranatense, also known as Colombian Coca, is a species of shrub or small tree in the family Erythroxylaceae native to Colombia, Ecuador, Peru, Trinidad-Tobago, and Venezuela. It is used medicinally and as a narcotic. Erythroxylum novogranatense is one of the primary species of cultivated Coca, despite being less widely cultivated than Erythroxylum coca."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia 英語版「Erythroxylum novogranatense」の節「Toxicity」",
+        "source_url": "https://en.wikipedia.org/wiki/Erythroxylum_novogranatense#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1357723008,
+        "heading": "Toxicity",
+        "text": "The cocaine content in leaves of E. novogranatense var. novogranatense is 0.55-0.93%, with an average of 0.77% and in E. novogranatense var. truxillense the cocaine content is 0.42-1.02%, with a mean of 0.72%. The foliage also contains cinnamoylcocaine. The plants also contain methyl salicylate.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": false,
+    "use_codes": [
+      "EU",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "CLM",
+      "ECU",
+      "PER",
+      "TRT",
+      "VEN"
+    ],
+    "introduced": [
+      "CHC",
+      "CHH",
+      "CHS",
+      "JAW",
+      "LEE",
+      "SUL",
+      "TAI",
+      "VIE",
+      "WIN"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/97004-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/97004-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000680010.webp",
+    "author": "Enn1.jpg: Dbotany derivative work: Ilmari Karonen (talk)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Erythroxylum_novogranatense_var._Novogranatense_(retouched).jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

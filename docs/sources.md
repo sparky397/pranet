@@ -13,6 +13,7 @@ pranet が使うデータ元と、確認した日付・内容。詳しい条件�
 | iNaturalist | 写真（license_code が cc0 / cc-by のもののみ） | https://api.inaturalist.org/ | 写真ごと | CC0 / CC BY 4.0 | 2026-10-08 |
 | TDWG World Geographical Scheme for Recording Plant Distributions（WGSRPD）レベル 4 | 国（ISO コード）→ 地区の対応（場所画面の「国」） | https://github.com/tdwg/wgsrpd （tblLevel4.txt） | 第 2 版 | CC BY 4.0（TDWG のサイト表記） | 2026-10-08 |
 | Wikidata（国 → 大陸） | 国を 6 つの州に振り分ける | https://query.wikidata.org/ | 取得時点 | CC0 1.0 | 2026-10-08 |
+| FAO Caliper — WCA 2020 Crop List | **載せる種を選ぶためだけ**に使う（第 1 段階「世界で広く作られている作物」）。載せる情報は他の出典から取る | https://www.fao.org/statistics/caliper/classifications/wca/en （WCACROPS-core.csv） | WCA 2020 | ページに利用条件の明記なし（FAO の一般規約に従う）。データ自体は再配布しない | 2026-10-09 |
 
 ## 使っていない・保留のデータ元
 

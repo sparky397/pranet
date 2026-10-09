@@ -7,6 +7,8 @@
 - 間違いの報告: [Issues](https://github.com/sparky397/pranet/issues)
 
 - 設計：[pranet_設計図.md](pranet_設計図.md)
+- 引き継ぎ：[docs/引き継ぎの手引き.md](docs/引き継ぎの手引き.md)（誰でも続けられるように）
+- 広め方：[docs/世界一への道筋.md](docs/世界一への道筋.md)
 - コードのライセンス：MIT（[LICENSE](LICENSE)）
 - データと写真のライセンス：項目ごとに異なります（[docs/LICENSE-DATA.md](docs/LICENSE-DATA.md)、[docs/ATTRIBUTION.md](docs/ATTRIBUTION.md)）
 

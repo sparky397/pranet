@@ -55,6 +55,11 @@ python3 scripts/build_all.py "Oryza sativa"
 取得した API の応答は `scripts/cache/http/` に保存され、再実行では再取得しません。
 取り直したいときは該当のファイルを消してから実行してください。
 
+## 種の一覧の作り方（段階 A）
+
+`make_species_list_fao.py` が FAO の WCA 2020 作物リスト（学名付き）から学名を取り出し、`species_list.csv` に足す。
+属名だけの品目（spp.）は種に定まらないので入らない。FAO の綴り誤りは根拠を書いて手で直す。
+
 ## 種の追加
 
 `species_list.csv` に学名を足します。WFO で Accepted の種が 1 件に定まらない場合は取り込まれず、理由が表示されます。

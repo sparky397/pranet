@@ -110,11 +110,31 @@ def resolve(species: list[dict]) -> dict[str, dict]:
         if len(accepted) == 1:
             chosen[sci] = {"row": accepted[0], "how": "scientific_name"}
         elif not accepted:
-            others = ", ".join(f"{r['scientificName']} {r['scientificNameAuthorship']} [{r['taxonomicStatus']}]"
-                               for r in candidates[key]) or "候補なし"
-            log(f"[ng] {sci}: Accepted の種がありません。候補: {others}")
+            # 入力が異名（旧い学名）なら、WFO が指す Accepted の種に付け替える
+            syn_targets = {r["acceptedNameUsageID"] for r in candidates[key] if r["taxonomicStatus"] == "Synonym" and r["acceptedNameUsageID"]}
+            if len(syn_targets) == 1:
+                chosen[sci] = {"row": None, "accepted_id": next(iter(syn_targets)), "how": "synonym"}
+            else:
+                others = ", ".join(f"{r['scientificName']} {r['scientificNameAuthorship']} [{r['taxonomicStatus']}]"
+                                   for r in candidates[key]) or "候補なし"
+                log(f"[ng] {sci}: Accepted の種がありません。候補: {others}")
         else:
             log(f"[ng] {sci}: Accepted が複数あります: " + ", ".join(r["taxonID"] for r in accepted))
+
+    # 異名経由のものは Accepted の行を取りに行く（3 回目の走査。該当があるときだけ）
+    need = {v["accepted_id"] for v in chosen.values() if v.get("accepted_id")}
+    if need:
+        for row in load_slim_rows():
+            if row["taxonID"] in need:
+                for v in chosen.values():
+                    if v.get("accepted_id") == row["taxonID"]:
+                        v["row"] = row
+        for sci in [k for k, v in chosen.items() if v["row"] is None]:
+            log(f"[ng] {sci}: 異名の指す Accepted が見つかりません")
+            del chosen[sci]
+        for sci, v in chosen.items():
+            if v["how"] == "synonym":
+                log(f"  {sci}: 異名なので WFO の Accepted「{v['row']['scientificName']} {v['row']['scientificNameAuthorship']}」に付け替えます")
 
     target_ids = {v["row"]["taxonID"] for v in chosen.values()}
     synonyms: dict[str, list[dict]] = {t: [] for t in target_ids}

@@ -164,3 +164,19 @@ h2.sub { font-size: 1.05rem; margin: 18px 0 8px; }
 /* 節（栽培・毒性）の本文 */
 .section-text { white-space: pre-line; }
 .section-text .more { display: inline-block; margin-top: 6px; }
+
+/* 言語の切り替え */
+#lang-menu select { font: inherit; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--fg); }
+#lang-menu .status { margin: 6px 0 0; font-size: .8rem; }
+
+/* 初回の案内 */
+.intro { background: var(--accent-soft); border-radius: var(--radius); padding: 12px 14px; margin: 0 0 14px; display: flex; gap: 10px; align-items: flex-start; }
+.intro p { margin: 0; flex: 1; }
+.intro a { font-weight: 600; }
+.intro button { border: 0; background: transparent; color: var(--muted); cursor: pointer; font-size: 1.1rem; }
+
+/* 用途の印 */
+.uses { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; font-size: .95rem; line-height: 1; }
+.uses .use { display: inline-flex; align-items: center; gap: 4px; }
+.uses.labeled { gap: 6px 10px; margin: 6px 0 8px; }
+.uses.labeled .use { background: var(--accent-soft); border-radius: 999px; padding: 3px 10px; font-size: .85rem; line-height: 1.3; }

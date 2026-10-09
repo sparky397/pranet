@@ -1,0 +1,708 @@
+{
+  "id": "wfo-0001005418",
+  "scientific_name": "Prunus persica",
+  "authorship": "(L.) Batsch",
+  "family": "Rosaceae",
+  "synonyms": [
+    "Amygdalus ferganensis (Kostina & Rjabov) T.T.Yu & L.T.Lu",
+    "Amygdalus laevis (DC.) Lej.",
+    "Amygdalus nucipersica (L.) Rchb.",
+    "Amygdalus persica L.",
+    "Persica chinensis Lavallée",
+    "Persica domestica Risso",
+    "Persica ferganensis (Kostina & Rjabov) Kovalev & Kostina",
+    "Persica laevis DC.",
+    "Persica levis Risso",
+    "Persica mammillata Poit. & Turpin",
+    "Persica nana Duhamel",
+    "Persica nucipersica (L.) Borkh.",
+    "Persica pendula Siebold",
+    "Persica platycarpa Decne.",
+    "Persica vulgaris Mill.",
+    "Prunus daemonifuga H.Lév. & Vaniot",
+    "Prunus ferganensis (Kostina & Rjabov) Y.Y.Yao ex Y.H.Tong & N.H.Xia"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "モモ"
+    ],
+    "en": [
+      "Peach",
+      "peach"
+    ],
+    "cy": [
+      "coeden eirin gwlanog"
+    ],
+    "an": [
+      "Presco",
+      "presiego"
+    ],
+    "bg": [
+      "Праскова"
+    ],
+    "bs": [
+      "Breskva"
+    ],
+    "ca": [
+      "Presseguer"
+    ],
+    "el": [
+      "Ροδακινιά"
+    ],
+    "es": [
+      "Duraznero",
+      "malacatonero",
+      "durazno"
+    ],
+    "fi": [
+      "Persikka",
+      "tarhapersikka"
+    ],
+    "fr": [
+      "Pêche",
+      "pêcher"
+    ],
+    "frr": [
+      "Firsich"
+    ],
+    "it": [
+      "Pesco"
+    ],
+    "nap": [
+      "Perzeca"
+    ],
+    "nl": [
+      "Perzik"
+    ],
+    "pt": [
+      "Pêssego",
+      "Pessegueiro"
+    ],
+    "ru": [
+      "Персик",
+      "персик обыкновенный"
+    ],
+    "sc": [
+      "Pressiu",
+      "Pèssighe"
+    ],
+    "th": [
+      "ท้อ"
+    ],
+    "tr": [
+      "Şeftali"
+    ],
+    "uk": [
+      "Персик"
+    ],
+    "vec": [
+      "Persegaro"
+    ],
+    "zh": [
+      "桃"
+    ],
+    "cs": [
+      "broskvoň obecná"
+    ],
+    "af": [
+      "perske"
+    ],
+    "ast": [
+      "pescal"
+    ],
+    "sl": [
+      "breskev"
+    ],
+    "ab": [
+      "Атама"
+    ],
+    "ar": [
+      "دراق"
+    ],
+    "az": [
+      "Adi şaftalı"
+    ],
+    "be": [
+      "персік"
+    ],
+    "bjn": [
+      "Persik"
+    ],
+    "bo": [
+      "ཁམ་བུ།"
+    ],
+    "ch": [
+      "Melokoton"
+    ],
+    "chr": [
+      "ᏆᏅ"
+    ],
+    "ckb": [
+      "قۆخ"
+    ],
+    "da": [
+      "ferskentræ"
+    ],
+    "de": [
+      "Pfirsich"
+    ],
+    "dsb": [
+      "Rjaschen"
+    ],
+    "eo": [
+      "Persikarbo"
+    ],
+    "et": [
+      "virsik"
+    ],
+    "eu": [
+      "mertxikondo"
+    ],
+    "fa": [
+      "هلو"
+    ],
+    "fur": [
+      "Pierçolâr"
+    ],
+    "ga": [
+      "péitseog"
+    ],
+    "gl": [
+      "pexegueiro"
+    ],
+    "gv": [
+      "Peitshag"
+    ],
+    "he": [
+      "אפרסק"
+    ],
+    "hi": [
+      "आड़ू"
+    ],
+    "hr": [
+      "breskva"
+    ],
+    "hsb": [
+      "Brěškowc"
+    ],
+    "ht": [
+      "Pèch"
+    ],
+    "hu": [
+      "őszibarack"
+    ],
+    "id": [
+      "Persik"
+    ],
+    "io": [
+      "Persiko"
+    ],
+    "is": [
+      "Ferskja"
+    ],
+    "ka": [
+      "ატამი"
+    ],
+    "kaa": [
+      "Shabdal"
+    ],
+    "kk": [
+      "Шабдалы"
+    ],
+    "kn": [
+      "ಪೀಚ್"
+    ],
+    "ko": [
+      "복숭아"
+    ],
+    "ks": [
+      "ژٕنُن"
+    ],
+    "ku": [
+      "Xox"
+    ],
+    "lb": [
+      "Piisch"
+    ],
+    "lbe": [
+      "ЦIулит"
+    ],
+    "lez": [
+      "Гугъри"
+    ],
+    "lt": [
+      "persikas"
+    ],
+    "lv": [
+      "Persiks"
+    ],
+    "ms": [
+      "Pic"
+    ],
+    "nah": [
+      "Duraznocuahuitl"
+    ],
+    "ne": [
+      "आरू"
+    ],
+    "nn": [
+      "Fersken"
+    ],
+    "nv": [
+      "Dzidzétsoh"
+    ],
+    "oc": [
+      "Perseguièr"
+    ],
+    "os": [
+      "Алтъами"
+    ],
+    "pl": [
+      "brzoskwinia zwyczajna"
+    ],
+    "pnb": [
+      "آڑو"
+    ],
+    "qu": [
+      "Lurasnu"
+    ],
+    "ro": [
+      "Piersic"
+    ],
+    "scn": [
+      "pèrsicu"
+    ],
+    "sco": [
+      "peach"
+    ],
+    "sr": [
+      "бресква"
+    ],
+    "sv": [
+      "persika"
+    ],
+    "szl": [
+      "Fyrzicha"
+    ],
+    "tk": [
+      "Şetdaly"
+    ],
+    "tl": [
+      "Milokoton"
+    ],
+    "to": [
+      "Piisi"
+    ],
+    "vi": [
+      "Đào"
+    ],
+    "wa": [
+      "Pexhî"
+    ],
+    "hy": [
+      "դեղձենի"
+    ],
+    "new": [
+      "बःसि"
+    ],
+    "sh": [
+      "Breskva"
+    ],
+    "sw": [
+      "Mfyulisi"
+    ],
+    "sk": [
+      "broskyňa obyčajná"
+    ],
+    "mk": [
+      "Праска"
+    ],
+    "ml": [
+      "പീച്ച്"
+    ],
+    "nb": [
+      "fersken"
+    ],
+    "lzh": [
+      "桃"
+    ],
+    "yue": [
+      "桃"
+    ],
+    "nan": [
+      "Thô-á"
+    ],
+    "war": [
+      "Milokoton"
+    ],
+    "ur": [
+      "آڑو"
+    ],
+    "uz": [
+      "Shaftoli"
+    ],
+    "ta": [
+      "குழிப்பேரி பழம்"
+    ],
+    "ilo": [
+      "melokoton"
+    ],
+    "vro": [
+      "Virsik"
+    ],
+    "sq": [
+      "Pjeshka"
+    ],
+    "cdo": [
+      "Tò̤"
+    ],
+    "pa": [
+      "ਆੜੂ"
+    ],
+    "za": [
+      "Makdauz"
+    ],
+    "bcl": [
+      "melokoton"
+    ],
+    "sd": [
+      "آڙو"
+    ],
+    "jv": [
+      "Persik"
+    ],
+    "am": [
+      "ኮክ"
+    ],
+    "xmf": [
+      "ატამა"
+    ],
+    "tt": [
+      "шәфталу"
+    ],
+    "azb": [
+      "هۇلو"
+    ],
+    "diq": [
+      "Xewxe"
+    ],
+    "inh": [
+      "Шапша"
+    ],
+    "nso": [
+      "Pêrêkisi"
+    ],
+    "ky": [
+      "Шабдалы"
+    ],
+    "mai": [
+      "आड़ू"
+    ],
+    "dty": [
+      "आरु"
+    ],
+    "bar": [
+      "Pfeascha"
+    ],
+    "te": [
+      "మకరంద పండు"
+    ],
+    "kab": [
+      "Asegmar"
+    ],
+    "hyw": [
+      "Դեղձենի"
+    ],
+    "szy": [
+      "lupas"
+    ],
+    "wuu": [
+      "桃"
+    ],
+    "mg": [
+      "Paiso"
+    ],
+    "bn": [
+      "পিচ"
+    ],
+    "cv": [
+      "Персик"
+    ],
+    "arz": [
+      "دراق"
+    ],
+    "trv": [
+      "Aring"
+    ],
+    "ami": [
+      "Lopas"
+    ],
+    "ia": [
+      "persichiero"
+    ],
+    "km": [
+      "ផ្កាទទឹម"
+    ],
+    "tay": [
+      "azimux"
+    ],
+    "as": [
+      "আহোম বগৰী"
+    ],
+    "ba": [
+      "Шафталы"
+    ],
+    "tg": [
+      "Шафтолу"
+    ],
+    "om": [
+      "Kookii"
+    ],
+    "my": [
+      "မက်မွန်သီး"
+    ],
+    "mwl": [
+      "Péssego"
+    ],
+    "pam": [
+      "Melocoton"
+    ],
+    "mn": [
+      "Тоор жимс"
+    ],
+    "mnc": [
+      "ᡨᠣᡵᠣ"
+    ],
+    "haw": [
+      "Peach"
+    ],
+    "zu": [
+      "Umthobokala"
+    ],
+    "tok": [
+      "kili Pelunu Pesika"
+    ],
+    "shn": [
+      "တူၼ်ႈမၢၵ်ႇမူၼ်ႇ"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q13189",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q13189",
+  "search_names": {
+    "en": [
+      "peach tree",
+      "peachtree"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「モモ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%A2",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 111298393,
+      "text": "モモ はバラ科スモモ属の落葉低木から小高木。また、その果実や花のこと。作物群としては子房壁が肥大した部分を食用とする核果類（核果果実）に分類される果樹（果実）である。原産地は中国やペルシャとされる。果樹・花木として世界各地で品種改良されて栽培される。春には五弁または多重弁の花を咲かせ、夏には水分が多く甘い球形の果実を実らせる。未成熟な果実や種子にはアミグダリンという青酸配糖体が含まれる。観賞用はハナモモという。中国では邪鬼を払う力があるとされた。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Peach」",
+      "source_url": "https://en.wikipedia.org/wiki/Peach",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1378000444,
+      "text": "The peach is a deciduous tree that bears edible juicy fruits with various characteristics. Most are simply called peaches, while the glossy-skinned, non-fuzzy varieties are called nectarines. Though from the same species, they are regarded commercially as different fruits."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "ja": {
+        "source": "Wikipedia 日本語版「モモ」の節「栽培」",
+        "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%A2#%E6%A0%BD%E5%9F%B9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 111298393,
+        "heading": "栽培",
+        "text": "栽培の分布地域は経度南北30 - 45度の範囲にあり、北米はカナダ南部からフロリダ北部まで、ヨーロッパはイタリア・スペイン・トルコ・ギリシャなど、アジアは中国や日本（白石市や福島県、山梨県など）、南半球はチリ南部やオーストラリア南部、南アフリカ南部あたりが相当する。モモは比較的水が必要な果樹で、乾燥地では灌水栽培されるが、その一方で、水が多すぎるなどの嫌気条件には最も弱い果樹のひとつでもある。\n食用に生産されるモモは、気象、土壌、穂品種に適する台木が必要で、接ぎ木親和性、樹勢、耐寒・耐湿性、センチュウ抵抗性など、多様な台木が作られている。台木には、モモ、スモモ、アーモンド、ベニバスモモ（ミロバランスモモ）、ユスラウメ、これらの交雑種が使われている。一般的な樹形は、低樹高開心形、V字形、Y字形、主幹形であり、トレリス（誘引のために使用する園芸用のフェンス）を使って平面的な樹形に仕立てられることもある。果樹の中でも栽培には手間がかかり、受粉・摘果・収穫・調製・整枝・剪定などの労働時間が長いことが指摘されている。モモの施設栽培は、中国でハウスや日光温室が多く利用されている。\n摘花と摘果は、モモの収穫と並ぶ最も重労働な作業で、花と果実を間引いて、果実の肥大促進、品質向上、隔年結果の防止、着果多加による枝折れ防止のため行う。世界的には手作業による摘蕾・摘果は一般的ではなく、開花後40 - 60日後の幼果を減らす適果が一般的である。欧米では摘花・摘果機械も導入されている。\n北半球の栽培北限（南半球での南限）は冬期の霜害が関係し、反対に栽培南限（南半球では北限）は低温不足が関係している。これより暖かい地域では、標高が高いところで栽培したり、低温要求量が少ない品種を栽培している。越冬期には、マイナス20度からマイナス25度程度まで耐えられるが、休眠があけて花芽がふくらみはじめると耐凍性が徐々に低くなり、開花を迎えるころにはマイナス2度で被害が発生する。近年みられる地球温暖化の影響もあって、早春に気温が高い年は発芽が進み、その後の低温で遅霜の被害を受けることがあり、アメリカやヨーロッパの生産地では大きな被害を出している。降水量が少ない地域では干ばつが脅威となっており、アメリカのカリフォルニア州では表面水や地下水の利用が難しくなり、特に小規模生産者の存続が困難な状況になっている。\n気温・湿度条件は病害発生にも影響し、一般に高温多湿では、モモ灰星病、モモ炭疽病にかかりやすく、また冷涼条件では、うどんこ病、縮葉病が発生しやすい。春先の温度が低い時期に雨が良く降ると縮葉病にかかりやすく、実桃の栽培には病害虫の防除が必要である。また果実の収穫前には袋掛けを行わないと蟻やアケビコノハなどの虫や鳥の食害にあうなど（商品価値の高い果実を得ようとするならば）手間暇が掛かり難易度が高い果樹である。",
+        "truncated": false
+      },
+      "en": {
+        "source": "Wikipedia 英語版「Peach」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Peach#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1378000444,
+        "heading": "Cultivation",
+        "text": "■ History\n\nAlthough its botanical name Prunus persica refers to Persia, peaches originated in China, where they have been cultivated since the Neolithic period. From the 1980s to the 2010s it was believed that cultivation started around 2000 BCE. In 2014 new research was published showing that domestication occurred as early as 6000 BCE in Zhejiang Province on the central east coast of China. The oldest archaeological peach stones are from the Kuahuqiao site near Hangzhou. Archaeologists point to the Yangtze River Valley as the place where the early selection for favorable peach varieties probably took place.\nA domesticated peach appeared very early in Japan, in 4700–4400 BCE, during the Jōmon period. It was already similar to modern cultivated forms, where the peach stones are significantly larger and more compressed than earlier stones. This domesticated type of peach was brought into Japan from China. Nevertheless, in China itself, this variety is currently attested only at a later date around 3300 to 2300 BCE.\nIn India, the peach first appeared sometime between 2500 and 1700 BCE, during the Harappan period in the Kashmir. It was found elsewhere in West Asia in ancient times. Peach cultivation reached Greece by 300 BCE. Alexander the Great is sometimes said to have introduced them into Greece after conquering Persia, but no historical evidence for this claim has been found. Peaches were, however, well known to the Romans in the first century CE; the oldest known artistic representations of the fruit are in two fragments of wall paintings, dated to the first century CE, in Herculaneum, preserved due to the Vesuvius eruption of 79 CE, and now held in the National Archaeological Museum in Naples.",
+        "truncated": true
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "IF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "CHN"
+    ],
+    "introduced": [
+      "AFG",
+      "AGW",
+      "ALA",
+      "ARI",
+      "ARK",
+      "ASS",
+      "BAL",
+      "BUL",
+      "CAL",
+      "CHC",
+      "CHI",
+      "CHS",
+      "CNT",
+      "COL",
+      "COR",
+      "CVI",
+      "CYP",
+      "DEL",
+      "ECU",
+      "EHM",
+      "ELS",
+      "ETH",
+      "FLA",
+      "FRA",
+      "GEO",
+      "GER",
+      "GRB",
+      "GRC",
+      "HUN",
+      "IDA",
+      "ILL",
+      "IND",
+      "INI",
+      "IOW",
+      "IRE",
+      "IRN",
+      "ITA",
+      "JAP",
+      "KAN",
+      "KAZ",
+      "KEN",
+      "KGZ",
+      "KOR",
+      "KRI",
+      "KRY",
+      "KTY",
+      "LAO",
+      "LBS",
+      "LBY",
+      "LOU",
+      "MAI",
+      "MAS",
+      "MAU",
+      "MIC",
+      "MRN",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXN",
+      "NAT",
+      "NCA",
+      "NCS",
+      "NSC",
+      "NSW",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "OFS",
+      "OHI",
+      "OKL",
+      "ONT",
+      "ORE",
+      "PAK",
+      "PEN",
+      "POR",
+      "QLD",
+      "REU",
+      "RHO",
+      "ROD",
+      "ROM",
+      "RUE",
+      "RUS",
+      "SAR",
+      "SCA",
+      "SOA",
+      "SPA",
+      "STH",
+      "SWI",
+      "TCS",
+      "TEN",
+      "TEX",
+      "TKM",
+      "TUR",
+      "TVL",
+      "TZK",
+      "UKR",
+      "UTA",
+      "UZB",
+      "VIE",
+      "VRG",
+      "WDC",
+      "WHM",
+      "WIS",
+      "WVA"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/1212858-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/1212858-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0001005418.webp",
+    "author": "Jack Dykinga, USDA",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Autumn_Red_peaches.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 273,
+    "retrieved": "2026-10-09"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "note": "画面の文字がある言語。1 言語 1 ファイル（<code>.json）。足すときはここにも 1 行足す。",
+  "languages": [
+    {
+      "code": "ja",
+      "name": "日本語"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "pt",
+      "name": "Português"
+    },
+    {
+      "code": "id",
+      "name": "Bahasa Indonesia"
+    }
+  ]
+}

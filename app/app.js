@@ -17,9 +17,16 @@
   var PACKS = ["edible-core"];
   var DATA_BASE = "../data/";
   var REPO_URL = "https://github.com/sparky397/pranet";
-  var LANG = (new URLSearchParams(location.search).get("lang") || "ja").slice(0, 2);
-  var LANGS = [LANG, "ja", "en"];
+  // 言語：URL の ?lang= → 端末に保存した選択 → ブラウザの言語 → 日本語
+  var LANG = (function () {
+    var q = new URLSearchParams(location.search).get("lang");
+    var saved = null; try { saved = localStorage.getItem("pranet.lang"); } catch (e) {}
+    var nav = (navigator.language || "").slice(0, 2);
+    return (q || saved || nav || "ja").toLowerCase().slice(0, 2);
+  })();
+  var LANGS = [LANG, "en", "ja"];
   var STORE_KEY = "pranet.box.v1";
+  document.documentElement.lang = LANG;
 
   var $ = function (sel) { return document.querySelector(sel); };
   function el(tag, attrs) {
@@ -63,7 +70,8 @@
   async function loadJSON(url) { var r = await fetch(url); if (!r.ok) throw new Error(url + ": " + r.status); return r.json(); }
   function packDir(id) { return DATA_BASE + "packs/" + id + "/"; }
   async function init() {
-    try { T = await loadJSON("../i18n/" + LANG + ".json"); } catch (e) { T = await loadJSON("../i18n/ja.json"); }
+    try { T = await loadJSON("../i18n/" + LANG + ".json"); } catch (e) { try { T = await loadJSON("../i18n/en.json"); } catch (e2) { T = await loadJSON("../i18n/ja.json"); } }
+    buildLanguageMenu();
     $("#q").placeholder = t("search_placeholder");
     $("#q").setAttribute("aria-label", t("search_placeholder"));
     $("#link-attribution").textContent = t("link_attribution");
@@ -75,6 +83,13 @@
       areasOrder = index.areas;
       index.species.forEach(function (s) { s.pack = PACKS[i]; byId.set(s.id, s); packOf.set(s.id, PACKS[i]); });
       species = species.concat(index.species);
+      // 索引に無い言語の名前は、自分の言語のファイルだけ読む
+      if ((pack.name_languages || []).indexOf(LANG) >= 0) {
+        try {
+          var nm = await loadJSON(packDir(PACKS[i]) + (pack.names_dir || "names/") + LANG + ".json");
+          index.species.forEach(function (s) { if (nm[s.id]) { s.n = s.n || {}; s.n[LANG] = [nm[s.id]]; } });
+        } catch (e) {}
+      }
     }
     species.sort(function (a, b) { return a.sci.localeCompare(b.sci); });
     try { places = await loadJSON(DATA_BASE + "places.json"); } catch (e) {}
@@ -103,6 +118,20 @@
     areaNames = {};
     a.continents.forEach(function (c) { c.regions.forEach(function (r) { r.areas.forEach(function (x) { areaNames[x.code] = x.name; }); }); });
     return areaNames;
+  }
+
+  // ---------- 言語の切り替え ----------
+  async function buildLanguageMenu() {
+    var holder = $("#lang-menu");
+    if (!holder) return;
+    var list = [];
+    try { list = (await loadJSON("../i18n/index.json")).languages || []; } catch (e) { return; }
+    var sel = el("select", { "aria-label": t("language"), onchange: function (e) {
+      try { localStorage.setItem("pranet.lang", e.target.value); } catch (err) {}
+      var u = new URL(location.href); u.searchParams.set("lang", e.target.value); location.href = u.toString();
+    } }, list.map(function (l) { return el("option", { value: l.code, text: l.name }); }));
+    sel.value = list.some(function (l) { return l.code === LANG; }) ? LANG : "en";
+    holder.replaceChildren(el("label", {}, t("language") + " ", sel), el("p", { class: "status", text: t("translate_hint") }));
   }
 
   // ---------- オフライン ----------
@@ -155,6 +184,24 @@
   function speciesURL(id) { return location.origin + location.pathname + "#/species/" + id; }
   function link(href, text) { return el("a", { href: href, target: "_blank", rel: "noopener", text: text }); }
   function toxMark(s, big) { return isToxic(s) ? el("span", { class: "tox" + (big ? " big" : ""), title: t("toxic_title"), "aria-label": t("toxic_title"), text: "☠" }) : null; }
+  // 用途の印。WCUP の 10 分類を、利用者にとって意味が同じもの同士で 5 つにまとめる（元の分類は出典欄に残す）。
+  // 毒（PO）は ☠ で別に目立たせる。遺伝資源（GS）は育てる人の役に立たないので印にしない。
+  var USE_GROUPS = [
+    ["food", "🍽", ["HF"]],
+    ["feed", "🐄", ["AF", "IF"]],
+    ["medicine", "💊", ["ME"]],
+    ["material", "🪵", ["MA", "FU"]],
+    ["living", "🌳", ["EU", "SU"]],
+  ];
+  function useCodes(s) { return s.u || (s.edible && s.edible.use_codes) || []; }
+  function useMarks(s, withLabels) {
+    var codes = useCodes(s);
+    var groups = USE_GROUPS.filter(function (g) { return g[2].some(function (c) { return codes.indexOf(c) >= 0; }); });
+    if (!groups.length) return null;
+    return el("div", { class: "uses" + (withLabels ? " labeled" : "") }, groups.map(function (g) {
+      return el("span", { class: "use", title: t("group_" + g[0]), "aria-label": t("group_" + g[0]) }, g[1], withLabels ? " " + t("group_" + g[0]) : null);
+    }));
+  }
   function photoCredit(s) {
     var p = photoOf(s);
     if (!p) return null;
@@ -182,7 +229,8 @@
       toxMark(s),
       el("div", { class: "body" },
         el("div", { class: "name", text: name || sciOf(s) }),
-        el("div", { class: "sci", text: name ? sciOf(s) : (s.fam || "") }))));
+        el("div", { class: "sci", text: name ? sciOf(s) : (s.fam || "") }),
+        useMarks(s))));
   }
   function grid(list) { return el("ul", { class: "grid" }, list.map(card)); }
   function feedItem(s) {
@@ -194,6 +242,7 @@
       el("div", { class: "feed-body" },
         el("a", { href: "#/species/" + s.id, class: "feed-name" }, el("strong", { text: name || sciOf(s) }), name ? el("span", { class: "sci", text: " " + sciOf(s) }) : null),
         s.fam ? el("div", { class: "fam", text: s.fam }) : null,
+        useMarks(s, true),
         photoCredit(s)));
   }
   function feed(list) { return el("div", { class: "feed" }, list.map(feedItem)); }
@@ -223,6 +272,13 @@
   // ---------- 一覧と検索 ----------
   function renderList(main) {
     var q = norm($("#q").value);
+    var introSeen = false; try { introSeen = localStorage.getItem("pranet.intro") === "1"; } catch (e) {}
+    if (!q && !introSeen) {
+      var intro = el("div", { class: "intro" },
+        el("p", {}, t("intro_1"), " ", t("intro_2"), " ", el("a", { href: "#/place", text: t("intro_3") })),
+        el("button", { "aria-label": t("intro_close"), text: "×", onclick: function () { try { localStorage.setItem("pranet.intro", "1"); } catch (e) {} intro.remove(); } }));
+      main.append(intro);
+    }
     var hits = q ? species.filter(function (s) { return hay(s).indexOf(q) >= 0; }) : species;
     if (q && synonyms) {
       var ids = new Set(hits.map(function (s) { return s.id; }));
@@ -260,9 +316,9 @@
     if (cont) {
       var codes = country ? country.l3 : cont.countries.reduce(function (a, k) { return a.concat(k.l3); }, []);
       var idxList = codes.map(function (c) { return areasOrder.indexOf(c); }).filter(function (i) { return i >= 0; });
-      var food = species.filter(function (s) { return s.food && s.dn != null; });
-      native = food.filter(function (s) { return hasAny(s, "dn", idxList); });
-      intro = food.filter(function (s) { return !hasAny(s, "dn", idxList) && hasAny(s, "di", idxList); });
+      var withDist = species.filter(function (s) { return s.dn != null; });
+      native = withDist.filter(function (s) { return hasAny(s, "dn", idxList); });
+      intro = withDist.filter(function (s) { return !hasAny(s, "dn", idxList) && hasAny(s, "di", idxList); });
     }
     return { sel: sel, cont: cont, country: country, native: native, intro: intro, view: p.get("v") || "grid" };
   }
@@ -387,8 +443,8 @@
       el("div", { class: "sci" }, s.scientific_name, " ", el("span", { class: "auth", text: s.authorship || "" })),
       el("div", { class: "fam", text: s.family || "" }));
     body.append(el("div", { class: "chips" },
-      s.edible ? el("span", { class: "tag", text: s.edible.is_food ? t("is_food_yes") : t("is_food_no") }) : null,
       climate ? el("span", { class: "tag", text: t("climate_tag", { c: climate }) }) : null));
+    if (s.edible) body.append(el("div", { class: "chips" }, el("span", { class: "tag", text: s.edible.is_food ? t("is_food_yes") : t("is_food_no") })), useMarks(s, true));
     if (isToxic(s)) body.append(el("p", { class: "warn tox-warn" }, el("strong", { text: "☠ " + t("toxic_title") }), " ", t("toxic_body"), " ", t("source_prefix"), link(s.edible.source_url, s.edible.source)));
     body.append(el("p", { class: "warn", text: t("food_warning") }));
 

@@ -1,0 +1,731 @@
+{
+  "id": "wfo-0000900184",
+  "scientific_name": "Sorghum bicolor",
+  "authorship": "(L.) Moench",
+  "family": "Poaceae",
+  "synonyms": [
+    "Agrostis nigricans (Ruiz & Pav.) Poir.",
+    "Andropogon afrorum Kunth",
+    "Andropogon arundinaceus Willd.",
+    "Andropogon besseri Kunth",
+    "Andropogon bicolor (L.) Roxb.",
+    "Andropogon caffrorum Kunth",
+    "Andropogon compactus Brot.",
+    "Andropogon niger (Ard.) Kunth",
+    "Andropogon rubens (Gaertn.) Kunth",
+    "Andropogon saccharatrus Kunth",
+    "Andropogon saccharatus (L.) Roxb.",
+    "Andropogon sorghum (L.) Brot.",
+    "Andropogon stapfii Hook.f.",
+    "Andropogon subglabrescens Steud.",
+    "Andropogon truchmenorum Walp.",
+    "Andropogon usorum Steud.",
+    "Andropogon verticilliflorus Steud.",
+    "Andropogon vulgare (Pers.) Balansa",
+    "Andropogon vulgaris Raspail",
+    "Holcus afer Ard.",
+    "Holcus afrorum (Retz.) Thunb.",
+    "Holcus albus Steud.",
+    "Holcus arduinoi J.F.Gmel.",
+    "Holcus bicolor L.",
+    "Holcus caffrorum (Retz.) Thunb.",
+    "Holcus cernuus Ard.",
+    "Holcus compactus Lam.",
+    "Holcus dochna Forssk.",
+    "Holcus dora Mieg",
+    "Holcus duna J.F.Gmel.",
+    "Holcus durra Forssk.",
+    "Holcus ferrugineus Schrad. ex Roem. & Schult.",
+    "Holcus niger Ard.",
+    "Holcus nigerrimus Ard.",
+    "Holcus nigricans Steud.",
+    "Holcus pyramidalis Steud.",
+    "Holcus rubens Gaertn.",
+    "Holcus saccharatus L.",
+    "Holcus sorghum L.",
+    "Milium bicolor (L.) Cav.",
+    "Milium compactum (Lam.) Cav.",
+    "Milium maximum Cav.",
+    "Milium nigricans Ruiz & Pav.",
+    "Milium sorghum (L.) Cav.",
+    "Milium sorgo Garsault",
+    "Panicum afrorum Retz.",
+    "Panicum caffrorum Retz.",
+    "Panicum frumentaceum Salisb.",
+    "Panicum sacchariferum Salisb.",
+    "Rhaphis arundinacea Desv.",
+    "Rhaphis sorghum (L.) Roberty",
+    "Sorghum abyssinicum (Hack.) Chiov.",
+    "Sorghum abyssinicum Stapf",
+    "Sorghum aethiopicum (Hack.) Rupr. ex Stapf",
+    "Sorghum afrorum (Retz.) P.Beauv.",
+    "Sorghum album Roem. & Schult.",
+    "Sorghum ankolib (Hack.) Stapf",
+    "Sorghum anomalum Desv.",
+    "Sorghum arduinii (Gmel.) J.Jacq.",
+    "Sorghum arduinoi (J.F.Gmel.) J.Jacq.",
+    "Sorghum arundinaceum (Desv.) Stapf",
+    "Sorghum basiplicatum Chiov.",
+    "Sorghum basutorum Snowden",
+    "Sorghum brevicarinatum Snowden",
+    "Sorghum caffrorum (Retz.) P.Beauv.",
+    "Sorghum campanum Ten. & Guss.",
+    "Sorghum castaneum C.E.Hubb. & Snowden",
+    "Sorghum caudatum (Hack.) Stapf",
+    "Sorghum centroplicatum Chiov.",
+    "Sorghum cernuum Willd.",
+    "Sorghum chinense Jakusch.",
+    "Sorghum commune P.Beauv.",
+    "Sorghum compactum Lag.",
+    "Sorghum conspicuum Snowden",
+    "Sorghum coriaceum Snowden",
+    "Sorghum dochna (Forssk.) Snowden",
+    "Sorghum dora Griseb.",
+    "Sorghum dulcicaule Snowden",
+    "Sorghum dura Griseb.",
+    "Sorghum durra (Forssk.) Trab.",
+    "Sorghum elegans (Körn.) Snowden",
+    "Sorghum eplicatum Chiov.",
+    "Sorghum exsertum Snowden",
+    "Sorghum gambicum Snowden",
+    "Sorghum giganteum Edgew.",
+    "Sorghum glabrescens (Steud.) Schweinf. & Asch.",
+    "Sorghum glycychylum Pass.",
+    "Sorghum guineense Stapf",
+    "Sorghum japonicum (Hack.) Roshev.",
+    "Sorghum lanceolatum Stapf",
+    "Sorghum macrochaeta Snowden",
+    "Sorghum margaritiferum Stapf",
+    "Sorghum medioplicatum Chiov.",
+    "Sorghum melaleucum Stapf",
+    "Sorghum melanocarpum Huber",
+    "Sorghum mellitum Snowden",
+    "Sorghum membranaceum Chiov.",
+    "Sorghum miliiforme (Hack.) Snowden",
+    "Sorghum nankinense Huber",
+    "Sorghum negrosense Nesom",
+    "Sorghum nervosum Besser ex Schult.",
+    "Sorghum nervosum Chiov.",
+    "Sorghum nigericum P.Vig.",
+    "Sorghum nigricans Snowden",
+    "Sorghum nigrum (Ard.) Roem. & Schult.",
+    "Sorghum notabile Snowden",
+    "Sorghum pallidum Chiov.",
+    "Sorghum panicoides Stapf",
+    "Sorghum papyrascens Stapf",
+    "Sorghum pugionifolium Snowden",
+    "Sorghum pyramidale Roem. & Schult.",
+    "Sorghum rigidum Snowden",
+    "Sorghum rollii Chiov.",
+    "Sorghum roxburghii Stapf",
+    "Sorghum rubens Willd.",
+    "Sorghum saccharatum (L.) Moench",
+    "Sorghum sativum (Hack.) Trab.",
+    "Sorghum schimperi (Hack.) Chiov.",
+    "Sorghum simulans Snowden",
+    "Sorghum somaliense Snowden",
+    "Sorghum sorghum H.Karst.",
+    "Sorghum splendidum (Hack.) Snowden",
+    "Sorghum stapfii (Hook.f.) C.E.C.Fisch.",
+    "Sorghum subglabrescens (Steud.) Schweinf. & Asch.",
+    "Sorghum tataricum Huber",
+    "Sorghum technicum (Körn.) Batt. & Trab.",
+    "Sorghum technicum (Körn.) Trab.",
+    "Sorghum thonizzi Pasq.",
+    "Sorghum truchmenorum K.Koch",
+    "Sorghum usambarense Snowden",
+    "Sorghum usorum Nees",
+    "Sorghum verticilliflorum (Steud.) Stapf",
+    "Sorghum vogelianum (Piper) Stapf",
+    "Sorghum vulgare Pers."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "モロコシ"
+    ],
+    "cy": [
+      "sorgwm",
+      "Sorgwm deuliw"
+    ],
+    "zh": [
+      "蜀黍",
+      "高粱",
+      "罗氏高粱",
+      "有尾髙粱",
+      "高梁",
+      "高梁米糠"
+    ],
+    "nl": [
+      "Kafferkoren"
+    ],
+    "cs": [
+      "čirok obecný",
+      "čirok dvoubarevný"
+    ],
+    "fi": [
+      "kirjodurra"
+    ],
+    "ta": [
+      "சோளம்",
+      "சோளம் சிறுதானியம்"
+    ],
+    "sl": [
+      "navadni sirek"
+    ],
+    "jv": [
+      "Kaoliang"
+    ],
+    "pl": [
+      "sorgo dwubarwne"
+    ],
+    "ko": [
+      "수수"
+    ],
+    "bs": [
+      "Sirak"
+    ],
+    "fr": [
+      "sorgho commun"
+    ],
+    "et": [
+      "harilik sorgo"
+    ],
+    "de": [
+      "Sorghumhirse"
+    ],
+    "yue": [
+      "雙色高粱"
+    ],
+    "am": [
+      "ማሽላ"
+    ],
+    "pnb": [
+      "چرھی"
+    ],
+    "ar": [
+      "ذرة بيضاء"
+    ],
+    "sv": [
+      "durra"
+    ],
+    "pt": [
+      "milho dos bardeiros"
+    ],
+    "ru": [
+      "сорго двуцветное"
+    ],
+    "ca": [
+      "sorgo bicolor"
+    ],
+    "hr": [
+      "Sirak"
+    ],
+    "da": [
+      "Almindelig Durra"
+    ],
+    "kk": [
+      "Қытай тарысы"
+    ],
+    "ku": [
+      "Baçîk"
+    ],
+    "sr": [
+      "Обични сирак"
+    ],
+    "vi": [
+      "cao lương"
+    ],
+    "th": [
+      "ข้าวฟ่าง"
+    ],
+    "bn": [
+      "জোয়ার"
+    ],
+    "sw": [
+      "Mtama"
+    ],
+    "uz": [
+      "Oq joʻxori"
+    ],
+    "fa": [
+      "سورگوم دورنگ"
+    ],
+    "bg": [
+      "Двуцветно сорго"
+    ],
+    "za": [
+      "Megmax"
+    ],
+    "id": [
+      "Cantel"
+    ],
+    "mk": [
+      "обичен сирак"
+    ],
+    "wuu": [
+      "高粱"
+    ],
+    "os": [
+      "Цъылинаг"
+    ],
+    "kab": [
+      "Lbecna"
+    ],
+    "he": [
+      "סתוויון"
+    ],
+    "be": [
+      "джансонава трава"
+    ],
+    "hu": [
+      "cukorcirok"
+    ],
+    "gl": [
+      "Sorgo común"
+    ],
+    "eu": [
+      "Basarto"
+    ],
+    "yi": [
+      "זארגעהירזש"
+    ],
+    "mad": [
+      "Oncèr"
+    ],
+    "ba": [
+      "Сорго ике сәскәле"
+    ],
+    "el": [
+      "Σόργος ο δίχρωμος"
+    ],
+    "lv": [
+      "parastais sorgo"
+    ],
+    "nn": [
+      "durra"
+    ],
+    "nb": [
+      "durra"
+    ],
+    "pa": [
+      "ਜਵਾਰ (ਚਰ੍ਹੀ)"
+    ],
+    "is": [
+      "Akurdúrra"
+    ],
+    "dag": [
+      "Kaʒiɛɣu"
+    ],
+    "ha": [
+      "Dawa"
+    ],
+    "lt": [
+      "Dvispalvis sorgas"
+    ],
+    "arz": [
+      "ذره بيضاء"
+    ],
+    "sk": [
+      "Cirok dvojfarebný"
+    ],
+    "ml": [
+      "ജോവാർ"
+    ],
+    "br": [
+      "sorgo"
+    ],
+    "szy": [
+      "balaysan"
+    ],
+    "kw": [
+      "Sorghomm dewliw"
+    ],
+    "nds": [
+      "Sorghumheers"
+    ],
+    "sh": [
+      "Obični sirak"
+    ],
+    "udm": [
+      "сорго"
+    ],
+    "pms": [
+      "Surgo"
+    ],
+    "as": [
+      "জোৱাৰ"
+    ],
+    "mwl": [
+      "milho de ls bardeiros"
+    ],
+    "mnc": [
+      "ᡧᡠᡧᡠ"
+    ],
+    "hi": [
+      "ज्वार"
+    ],
+    "sd": [
+      "ٻہ رنگي جوئر"
+    ],
+    "fur": [
+      "Sorc di scovul"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q332062",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q332062",
+  "search_names": {
+    "ja": [
+      "高黍",
+      "蜀黍",
+      "ソルガム",
+      "ソルゴー",
+      "こうりゃん",
+      "コウリャン",
+      "コーリャン",
+      "モロコシキビ",
+      "高粱"
+    ],
+    "en": [
+      "Jowar",
+      "Sudan Grass",
+      "milo"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「モロコシ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 111016285,
+      "text": "モロコシ は、イネ科の一年草のC4植物・穀物。タカキビ（高黍）、トウキビ（唐黍）、モロコシキビとも呼ぶ。中国北部ではコーリャン 、沖縄ではトーナチンと呼ばれ、日本語ではそれらの呼び方をされることもある。\n英語圏ではソルガム と呼ぶので、世界の穀物統計では「ソルガム」と表記されることが一般的である。イタリア語ではソルゴー と呼び、農林水産省が提供する統計資料ではこの呼称が使われることがある。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Sorghum」",
+      "source_url": "https://en.wikipedia.org/wiki/Sorghum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1376796568,
+      "text": "Sorghum bicolor, commonly called sorghum and also known as broomcorn, great millet, Indian millet, Guinea corn, jowar, or milo, is a species in the grass genus Sorghum. It is typically an annual, but some cultivars are perennial. It grows in clumps that may reach over 4 metres (13 ft) high. The grain is 2 to 4 millimetres in diameter."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Sorghum」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Sorghum#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1376796568,
+        "heading": "Cultivation",
+        "text": "■ Agronomy\nMost varieties of sorghum are drought- and heat-tolerant, nitrogen-efficient, and are grown particularly in arid and semi-arid regions where the grain is one of the staples for poor and rural people. These varieties provide forage in many tropical regions. S. bicolor is a food crop in Africa, Central America, and South Asia, and is the fifth most common cereal crop grown in the world.  It is usually grown without fertilizers or other inputs by small-holder farmers in developing countries. They benefit from sorghum's ability to compete effectively with weeds, especially when planted in narrow rows. Sorghum actively suppresses weeds by producing sorgoleone, an alkylresorcinol.\nSorghum grows in a wide range of temperatures. It can tolerate high altitude and toxic soils, and can recover growth after some drought. Optimum growth temperature range is 12–34 °C (54–93 °F), and the growing season lasts for around 115–140 days. It can grow in a wide range of soils, such as heavy clay to sandy soils with the pH tolerance ranging from 5.0 to 8.5. It requires an arable field that has been left fallow for at least two years or where crop rotation with legumes has taken place in the previous year. Diversified 2- or 4-year crop rotation can improve sorghum yield, making it more resilient to inconsistent growth conditions. Nutrients required by sorghum are comparable to other cereal grain crops with nitrogen, phosphorus, and potassium needed for growth.\nThe International Crops Research Institute for the Semi-Arid Tropics has improved sorghum using traditional genetic improvement and integrated genetic and natural resources management practices. Some 194 improved cultivars are planted worldwide.",
+        "truncated": true
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "BEN",
+      "BKN",
+      "BOT",
+      "BUR",
+      "CAF",
+      "CHA",
+      "CMN",
+      "CON",
+      "CPP",
+      "CVI",
+      "EGY",
+      "EHM",
+      "EQG",
+      "ERI",
+      "ETH",
+      "GAB",
+      "GAM",
+      "GGI",
+      "GHA",
+      "GUI",
+      "IND",
+      "IVO",
+      "KEN",
+      "LBR",
+      "MAU",
+      "MDG",
+      "MLI",
+      "MLW",
+      "MOZ",
+      "MTN",
+      "NAM",
+      "NAT",
+      "NGA",
+      "NGR",
+      "OFS",
+      "REU",
+      "ROD",
+      "RWA",
+      "SEN",
+      "SEY",
+      "SIE",
+      "SOM",
+      "SUD",
+      "SWZ",
+      "TAN",
+      "TOG",
+      "TVL",
+      "UGA",
+      "WHM",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "introduced": [
+      "AFG",
+      "ALA",
+      "ALG",
+      "AMU",
+      "AND",
+      "ARI",
+      "ARK",
+      "ARU",
+      "ASS",
+      "AUT",
+      "BAH",
+      "BAN",
+      "BGM",
+      "BLT",
+      "BLZ",
+      "BOL",
+      "BOR",
+      "BUL",
+      "BZC",
+      "BZE",
+      "BZL",
+      "BZN",
+      "BZS",
+      "CAL",
+      "CAY",
+      "CBD",
+      "CHC",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHS",
+      "CHX",
+      "CKI",
+      "CLM",
+      "CNT",
+      "CNY",
+      "COL",
+      "COM",
+      "COO",
+      "COR",
+      "COS",
+      "CRL",
+      "CUB",
+      "CYP",
+      "CZE",
+      "DJI",
+      "DOM",
+      "EAI",
+      "ECU",
+      "ELS",
+      "FIJ",
+      "FLA",
+      "FRA",
+      "FRG",
+      "GEO",
+      "GER",
+      "GNB",
+      "GRB",
+      "GST",
+      "GUA",
+      "GUY",
+      "HAI",
+      "HAW",
+      "HON",
+      "HUN",
+      "IDA",
+      "ILL",
+      "INI",
+      "IOW",
+      "IRE",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "JAM",
+      "JAP",
+      "JAW",
+      "KAN",
+      "KAZ",
+      "KGZ",
+      "KHA",
+      "KOR",
+      "KRY",
+      "KTY",
+      "LAO",
+      "LBS",
+      "LBY",
+      "LEE",
+      "LOU",
+      "MAI",
+      "MAS",
+      "MDR",
+      "MIC",
+      "MIN",
+      "MLY",
+      "MNT",
+      "MOR",
+      "MRN",
+      "MRS",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "MYA",
+      "NCA",
+      "NCS",
+      "NDA",
+      "NEB",
+      "NEP",
+      "NEV",
+      "NFK",
+      "NIC",
+      "NLA",
+      "NNS",
+      "NUE",
+      "NWC",
+      "NWG",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OHI",
+      "OKL",
+      "OMA",
+      "ONT",
+      "ORE",
+      "PAK",
+      "PAL",
+      "PAN",
+      "PAR",
+      "PEN",
+      "PER",
+      "PIT",
+      "POR",
+      "PRM",
+      "PUE",
+      "QUE",
+      "RHO",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUS",
+      "SAK",
+      "SAM",
+      "SAR",
+      "SAU",
+      "SCA",
+      "SCI",
+      "SDA",
+      "SIN",
+      "SOL",
+      "SPA",
+      "SRL",
+      "SUR",
+      "SWE",
+      "TAI",
+      "TCS",
+      "TEN",
+      "TEX",
+      "THA",
+      "TKM",
+      "TON",
+      "TRT",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TZK",
+      "UKR",
+      "UTA",
+      "UZB",
+      "VEN",
+      "VER",
+      "VIE",
+      "VRG",
+      "WAK",
+      "WAS",
+      "WDC",
+      "WIN",
+      "WIS",
+      "WSB",
+      "WYO",
+      "XMS",
+      "YEM",
+      "YUG"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/422090-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual or perennial",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/422090-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000900184.webp",
+    "author": "No machine-readable author provided. Pethan assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sorghum_bicolor03.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

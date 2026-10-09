@@ -62,8 +62,8 @@ def build_record(sci: str) -> dict:
         "authorship": wfo.get("authorship"),
         "family": wfo.get("family"),
         # 検索用の異名は種の階級のものだけ（変種・品種レベルは数が多すぎるので入れない）
-        "synonyms": [s["name"] + (f" {s['authorship']}" if s.get("authorship") else "")
-                     for s in wfo.get("synonyms", []) if s.get("rank") == "species"],
+        "synonyms": sorted({s["name"] + (f" {s['authorship']}" if s.get("authorship") else "")
+                            for s in wfo.get("synonyms", []) if s.get("rank") == "species"}),
         "taxonomy_source": src(wfo),
     }
     # 表示する一般名：Wikipedia の記事名を先頭に、次に Wikidata の一般名・ラベル
@@ -106,10 +106,13 @@ def build_record(sci: str) -> dict:
     return rec
 
 
+INDEX_LANGS = ["ja", "en"]  # 索引に入れる名前の言語。他の言語は names/<lang>.json に分けて、必要な言語だけ読む
+
+
 def index_entry(rec: dict, idx: dict[str, int]) -> dict:
     e = {"id": rec["id"], "sci": rec["scientific_name"], "fam": rec.get("family")}
     if rec.get("names"):
-        e["n"] = {lang: lst[:1] for lang, lst in rec["names"].items()}  # 表示は各言語 1 つ
+        e["n"] = {lang: lst[:1] for lang, lst in rec["names"].items() if lang in INDEX_LANGS}  # 表示は各言語 1 つ
     if rec.get("search_names"):
         e["sn"] = rec["search_names"]
     if rec.get("photo"):
@@ -118,6 +121,8 @@ def index_entry(rec: dict, idx: dict[str, int]) -> dict:
     ed = rec.get("edible") or {}
     e["food"] = bool(ed.get("is_food"))
     e["tox"] = "PO" in (ed.get("use_codes") or [])
+    if ed.get("use_codes"):
+        e["u"] = ed["use_codes"]  # 用途の印（WCUP の 10 分類）
     if rec.get("distribution"):
         e["dn"] = bitset(rec["distribution"]["native"], idx)
         e["di"] = bitset(rec["distribution"]["introduced"], idx)
@@ -175,7 +180,16 @@ def main(only: list[str] | None = None) -> int:
             skipped.append((sci, problems))
             continue
         records.append(build_record(sci))
-    records.sort(key=lambda r: r["scientific_name"])
+    # 異名の付け替えで同じ WFO 番号になった種は 1 つにまとめる（先に出たものを残す）
+    seen_ids: dict[str, str] = {}
+    unique = []
+    for r in records:
+        if r["id"] in seen_ids:
+            log(f"  [重複] {r['id']} は既に取り込み済み（{seen_ids[r['id']]}）")
+            continue
+        seen_ids[r["id"]] = r["scientific_name"]
+        unique.append(r)
+    records = sorted(unique, key=lambda r: r["scientific_name"])
 
     areas = area_order()
     idx = {c: i for i, c in enumerate(areas)}
@@ -190,6 +204,19 @@ def main(only: list[str] | None = None) -> int:
     save_json(pack_dir / "index.json", index)
     synonyms = sorted({(s, r["id"]) for r in records for s in r.get("synonyms", [])})
     save_json(pack_dir / "synonyms.json", [[s, i] for s, i in synonyms])
+    # 言語ごとの名前（索引に入れない言語）。アプリは自分の言語のファイルだけ読む
+    names_dir = pack_dir / "names"
+    names_dir.mkdir(exist_ok=True)
+    for old in names_dir.glob("*.json"):
+        old.unlink()
+    per_lang: dict[str, dict[str, str]] = {}
+    for r in records:
+        for lang, lst in (r.get("names") or {}).items():
+            if lang not in INDEX_LANGS and lst:
+                per_lang.setdefault(lang, {})[r["id"]] = lst[0]
+    for lang, m in per_lang.items():
+        save_json(names_dir / f"{lang}.json", m)
+    name_langs = sorted(per_lang)
     legacy = pack_dir / "species.json"
     if legacy.exists():
         legacy.unlink()
@@ -201,6 +228,7 @@ def main(only: list[str] | None = None) -> int:
         "id": PACK_ID, "title": PACK_TITLE, "schema_version": SCHEMA_VERSION,
         "version": today(), "built": today(), "species_count": len(records),
         "index_file": "index.json", "species_dir": "species/", "synonyms_file": "synonyms.json",
+        "names_dir": "names/", "name_languages": name_langs, "index_languages": INDEX_LANGS,
         "areas_file": "../../tdwg_areas.json", "photos_dir": "../../photos/", "index_sha256": digest,
         "licenses_included": licenses,
         "sources": {
@@ -217,7 +245,7 @@ def main(only: list[str] | None = None) -> int:
     write_attribution(records)
     bump_app_version(pack["version"])
     size = (pack_dir / "index.json").stat().st_size
-    log(f"パック {PACK_ID}: {len(records)} 種。索引 {size} バイト（1 種あたり {size // max(1, len(records))}）、異名 {len(synonyms)} 件")
+    log(f"パック {PACK_ID}: {len(records)} 種。索引 {size} バイト（1 種あたり {size // max(1, len(records))}）、異名 {len(synonyms)} 件、名前の言語 {len(name_langs) + len(INDEX_LANGS)}")
     for sci, problems in skipped:
         log(f"  [除外] {sci}: " + "; ".join(problems))
     return 0
