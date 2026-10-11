@@ -1,0 +1,242 @@
+{
+  "id": "wfo-0000314894",
+  "scientific_name": "Stachytarpheta jamaicensis",
+  "authorship": "(L.) Vahl",
+  "family": "Verbenaceae",
+  "synonyms": [
+    "Abena jamaicensis (L.) Hitchc.",
+    "Cymburus urticifolius Salisb.",
+    "Stachytarpheta bogoriensis Zoll. & Moritzi",
+    "Stachytarpheta pilosiuscula Kunth",
+    "Valerianoides jamaicense (L.) Kuntze",
+    "Valerianoides jamaicense (L.) Medik.",
+    "Valerianoides jamaicensis (L.) Medik.",
+    "Verbena americana Mill.",
+    "Verbena jamaicensis L.",
+    "Verbena pilosiuscula (Kunth) Endl.",
+    "Vermicularia decurrens Moench",
+    "Zappania jamaicensis (L.) Lam."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "フトボナガボソウ"
+    ],
+    "en": [
+      "light-blue snakeweed"
+    ],
+    "zh": [
+      "牙買加長穗木",
+      "長穗木",
+      "木馬鞭",
+      "假马鞭",
+      "玉龙鞭"
+    ],
+    "fr": [
+      "Verveine bleue"
+    ],
+    "ht": [
+      "Vèvenn karayib"
+    ],
+    "pam": [
+      "Kamakamangyang"
+    ],
+    "ml": [
+      "ശീമക്കൊങ്ങിണി"
+    ],
+    "nan": [
+      "Tn̂g-sūi-bo̍k"
+    ],
+    "id": [
+      "Pecut kuda"
+    ],
+    "th": [
+      "พันงูเขียว"
+    ],
+    "fa": [
+      "شاه‌پسند برگ‌گزنه‌ای"
+    ],
+    "ms": [
+      "Selasih dandi"
+    ],
+    "jv": [
+      "Pecut jaran"
+    ],
+    "mad": [
+      "Peccot jhârân"
+    ],
+    "ban": [
+      "Pecut jaran"
+    ],
+    "mg": [
+      "Sadani"
+    ],
+    "gor": [
+      "Tidepu'o"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q3556295",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q3556295",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「フトボナガボソウ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%88%E3%83%9C%E3%83%8A%E3%82%AC%E3%83%9C%E3%82%BD%E3%82%A6",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 105323353,
+      "text": "フトボナガボソウ はクマツヅラ科ナガボソウ属の多年生草本。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Stachytarpheta jamaicensis」",
+      "source_url": "https://en.wikipedia.org/wiki/Stachytarpheta_jamaicensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1315271299,
+      "text": "Stachytarpheta jamaicensis is a species of plant in the family Verbenaceae, native throughout the Caribbean, including Florida. It has many common names including blue porterweed, blue snake weed, bastard vervain, Brazilian tea, Jamaica vervain, light-blue snakeweed, and, in St. Croix, worryvine.source? It usually is found along country roadsides, and it also grows well as a ruderal plant on disturbed terrain."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "BAH",
+      "BER",
+      "BLZ",
+      "BZN",
+      "CLM",
+      "COS",
+      "CUB",
+      "DOM",
+      "ECU",
+      "ELS",
+      "FLA",
+      "FRG",
+      "GUA",
+      "GUY",
+      "HAI",
+      "HON",
+      "JAM",
+      "LEE",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXS",
+      "MXT",
+      "NIC",
+      "NLA",
+      "PAN",
+      "PUE",
+      "SUR",
+      "SWC",
+      "TCI",
+      "TRT",
+      "VEN",
+      "VNA",
+      "WIN"
+    ],
+    "introduced": [
+      "ALA",
+      "ALD",
+      "AND",
+      "ANG",
+      "ASS",
+      "BAN",
+      "BOR",
+      "BUR",
+      "BZE",
+      "CAF",
+      "CBD",
+      "CGS",
+      "CKI",
+      "COM",
+      "COO",
+      "CRL",
+      "EHM",
+      "GAB",
+      "GGI",
+      "GIL",
+      "HAW",
+      "IND",
+      "IVO",
+      "KEN",
+      "KZN",
+      "LDV",
+      "LSI",
+      "MCI",
+      "MDG",
+      "MDV",
+      "MLY",
+      "MOZ",
+      "MRN",
+      "MRS",
+      "MYA",
+      "NCB",
+      "NNS",
+      "NRU",
+      "OGA",
+      "PHX",
+      "QLD",
+      "SAM",
+      "SCS",
+      "SEY",
+      "TAI",
+      "THA",
+      "TUA",
+      "WAK",
+      "WAL",
+      "XMS",
+      "ZAI"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/1092351-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "subshrub",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/1092351-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000314894.webp",
+    "author": "Devanand Pillai",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stachytarpheta_indica.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 355,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

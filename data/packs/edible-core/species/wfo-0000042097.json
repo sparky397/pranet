@@ -1,0 +1,575 @@
+{
+  "id": "wfo-0000042097",
+  "scientific_name": "Achillea millefolium",
+  "authorship": "L.",
+  "family": "Asteraceae",
+  "synonyms": [
+    "Achillea albida Willd.",
+    "Achillea alpicola (Rydb.) Rydb.",
+    "Achillea ambigua Boiss.",
+    "Achillea anethifolia Fisch. ex Herder",
+    "Achillea arenicola A.Heller",
+    "Achillea bicolor Wender.",
+    "Achillea californica Pollard",
+    "Achillea coronopifolia Willd.",
+    "Achillea crassifolia Dietr. ex Colla",
+    "Achillea cristata hort. ex DC.",
+    "Achillea cuspidata Wall.",
+    "Achillea dentifera DC.",
+    "Achillea dentifera Rchb.",
+    "Achillea gigantea Pollard",
+    "Achillea haenkeana Tausch",
+    "Achillea intermedia Schleich.",
+    "Achillea lanata Lam.",
+    "Achillea laxiflora A.Nelson",
+    "Achillea laxiflora Pollard & Cockerell",
+    "Achillea magna All.",
+    "Achillea magna Haenke",
+    "Achillea marginata Turcz. ex Ledeb.",
+    "Achillea megacephala Raup",
+    "Achillea occidentalis (DC.) Raf. ex Rydb.",
+    "Achillea ochroleuca Eichw.",
+    "Achillea ossica K.Koch",
+    "Achillea pacifica Rydb.",
+    "Achillea palmeri Rydb.",
+    "Achillea pecten-veneris Pollard",
+    "Achillea pratensis Saukel & R.Länger",
+    "Achillea pseudotanacetifolia Wierzb. ex Rchb.",
+    "Achillea puberula Rydb.",
+    "Achillea pumila Schur",
+    "Achillea rosea Desf.",
+    "Achillea rosea Desf. ex Poir.",
+    "Achillea setacea Schwein.",
+    "Achillea sordida (W.D.J.Koch) Dalla Torre & Sarnth.",
+    "Achillea subalpina Greene",
+    "Achillea subhirsuta Gilib.",
+    "Achillea sylvatica Becker",
+    "Achillea tanacetifolia Mill.",
+    "Achillea tenuifolia Salisb.",
+    "Achillea tenuis Schur",
+    "Achillea virgata hort. ex DC.",
+    "Achillios millefoliatus St.-Lag.",
+    "Alitubus millefolium (L.) Dulac",
+    "Chamaemelum millefolium (L.) E.H.L.Krause",
+    "Chamaemelum tanacetifolium (Mill.) E.H.L.Krause"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "セイヨウノコギリソウ"
+    ],
+    "en": [
+      "Yarrow",
+      "common yarrow",
+      "Milfoil"
+    ],
+    "cy": [
+      "milddail"
+    ],
+    "es": [
+      "Milenrama"
+    ],
+    "fr": [
+      "Achillée Millefeuille",
+      "Herbe-à-Dinde",
+      "Mille-Feuille",
+      "achillée mille-feuilles"
+    ],
+    "zh": [
+      "洋蓍草",
+      "絲葉蓍",
+      "蓍",
+      "蓍草",
+      "蓍实"
+    ],
+    "nl": [
+      "Duizendblad"
+    ],
+    "cs": [
+      "řebříček obecný"
+    ],
+    "de": [
+      "Gemeine Schafgarbe"
+    ],
+    "fi": [
+      "siankärsämö"
+    ],
+    "ast": [
+      "cenoyina"
+    ],
+    "sl": [
+      "navadni rman"
+    ],
+    "pl": [
+      "krwawnik pospolity"
+    ],
+    "bs": [
+      "Hajdučka trava"
+    ],
+    "oc": [
+      "Milafuèlhas"
+    ],
+    "hu": [
+      "közönséges cickafark"
+    ],
+    "et": [
+      "harilik raudrohi"
+    ],
+    "sq": [
+      "Bari mijëfletësh"
+    ],
+    "el": [
+      "Αγριαψιθιά"
+    ],
+    "ba": [
+      "Меңъяпраҡ"
+    ],
+    "ar": [
+      "قيصوم ألفي الأوراق"
+    ],
+    "sv": [
+      "röllika"
+    ],
+    "pt": [
+      "Milefólio"
+    ],
+    "is": [
+      "Vallhumall"
+    ],
+    "ru": [
+      "Тысячелистник обыкновенный"
+    ],
+    "sr": [
+      "хајдучка трава"
+    ],
+    "mk": [
+      "Ајдучка трева"
+    ],
+    "stq": [
+      "Duusendtakke"
+    ],
+    "uk": [
+      "Деревій звичайний"
+    ],
+    "nn": [
+      "Ryllik"
+    ],
+    "sah": [
+      "Суорат от"
+    ],
+    "az": [
+      "Adi boymadərən"
+    ],
+    "nv": [
+      "Hazéí yiltseeʼí"
+    ],
+    "csb": [
+      "Krëwiónk"
+    ],
+    "da": [
+      "almindelig røllike"
+    ],
+    "chy": [
+      "He'haéheséeo'ôtse"
+    ],
+    "he": [
+      "אכילאה אלף העלה"
+    ],
+    "frr": [
+      "Teeruus"
+    ],
+    "lv": [
+      "Parastais pelašķis"
+    ],
+    "li": [
+      "Hazegerf"
+    ],
+    "gl": [
+      "Milfollas"
+    ],
+    "sh": [
+      "Hajdučka trava"
+    ],
+    "hsb": [
+      "Wowča rutwica"
+    ],
+    "sk": [
+      "rebríček obyčajný"
+    ],
+    "ku": [
+      "Gêjînk"
+    ],
+    "ro": [
+      "Coada șoricelului"
+    ],
+    "ca": [
+      "milfulles"
+    ],
+    "sgs": [
+      "Kraužuolė"
+    ],
+    "fa": [
+      "بومادران"
+    ],
+    "bg": [
+      "бял равнец"
+    ],
+    "ur": [
+      "اَلفیہ"
+    ],
+    "dsb": [
+      "Wójcyna rotwica"
+    ],
+    "pcd": [
+      "Miléfuële"
+    ],
+    "lt": [
+      "Paprastoji kraujažolė"
+    ],
+    "gv": [
+      "Ayr lossey"
+    ],
+    "nb": [
+      "ryllik"
+    ],
+    "eu": [
+      "Milorri"
+    ],
+    "tg": [
+      "Бӯймодарон"
+    ],
+    "id": [
+      "Daun seribu"
+    ],
+    "be": [
+      "Крываўнік лекавы"
+    ],
+    "kk": [
+      "Кәдімгі мыңжапырақ"
+    ],
+    "rup": [
+      "Coadâ-șurichinâ"
+    ],
+    "eo": [
+      "Milfolia akileo"
+    ],
+    "uz": [
+      "Bo‘yimodaron"
+    ],
+    "ko": [
+      "서양톱풀"
+    ],
+    "olo": [
+      "Rauduheiny"
+    ],
+    "hr": [
+      "Obični stolisnik"
+    ],
+    "hy": [
+      "Հազարատերևուկ սովորական"
+    ],
+    "vep": [
+      "Čapatezhein"
+    ],
+    "ml": [
+      "അച്ചില്ലി മില്ലെഫോളിയം"
+    ],
+    "wuu": [
+      "蓍"
+    ],
+    "tr": [
+      "Civanperçemi"
+    ],
+    "lzh": [
+      "蓍"
+    ],
+    "kw": [
+      "minfel"
+    ],
+    "yue": [
+      "蓍"
+    ],
+    "cv": [
+      "Шпакат курăкĕ"
+    ],
+    "arz": [
+      "قيصوم الفى الاوراق"
+    ],
+    "sms": [
+      "peâttar-rääʹss"
+    ],
+    "se": [
+      "biehtárrássi"
+    ],
+    "smn": [
+      "piättárrääsi"
+    ],
+    "mad": [
+      "Komandhin saèbu"
+    ],
+    "ks": [
+      "پٔہلؠ گاسہٕ"
+    ],
+    "mnc": [
+      "ᡧᡝᠩᡴᡳᡵᡳ"
+    ],
+    "th": [
+      "ยาร์โรว์"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q25408",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q25408",
+  "search_names": {
+    "ja": [
+      "ヤロー",
+      "ヤロウ"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「セイヨウノコギリソウ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E3%82%BD%E3%82%A6",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 107381605,
+      "text": "セイヨウノコギリソウ は、ヨーロッパ原産のキク科ノコギリソウ属に分類される多年草の1種。英名はヤロウ (yarrow)。牧草学ではヤローとよび、ヒツジに好まれるとされる。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Achillea millefolium」",
+      "source_url": "https://en.wikipedia.org/wiki/Achillea_millefolium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1377049458,
+      "text": "Achillea millefolium, commonly known as yarrow or common yarrow, is a flowering plant in the family Asteraceae. Growing to 1 metre tall, it is characterized by small whitish flowers, a tall stem of fernlike leaves, and a pungent odor."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Achillea millefolium」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Achillea_millefolium#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1377049458,
+        "heading": "Cultivation",
+        "text": "Achillea millefolium is cultivated as an ornamental plant by many plant nurseries. It is planted in gardens and natural landscaping settings of diverse climates and styles. They include native plant, drought-tolerant, and wildlife gardens. The plant is a frequent component of butterfly gardens. The plant prefers well-drained soil in full sun, but can be grown in less ideal conditions. Field trials in Kansas found yarrow produced an average yield of 110,000 plants per hectare (43,000/acre), with a total dry weight of 11,800 kg/ha (10,500 pounds per acre).\n\n■ Propagation\nFor propagation, seeds require light for germination, so optimal germination occurs when planted no deeper than 6 mm (1⁄4 in). Seeds also require a germination temperature of 18–24 °C (64–75 °F). It has a relatively short life in some situations, but may be prolonged by division in the spring every other year, and planting 30 to 46 cm (12–18 in) apart. It can become invasive.\n\n■ Cultivars\n\nThe species use in traditional gardens has generally been superseded by cultivars with specific 'improved' qualities. Some are used as drought-tolerant lawns, with periodic mowing. The many different ornamental cultivars include: 'Paprika', 'Cerise Queen', 'Red Beauty', 'Red Velvet', 'Saucy Seduction', 'Strawberry Seduction' (red), 'Island Pink' (pink), 'Calistoga' (white), and 'Sonoma Coast' (white). The following are recipients of the Royal Horticultural Society's Award of Garden Merit:\n\n'Credo'\n'Lachsschönheit' (Galaxy Series)\n'Martina'\n'Lansdorferglut'\nThe many hybrids of this species designated Achillea × taygetea are useful garden subjects, including: 'Appleblossom', 'Fanal', 'Hoffnung', and 'Moonshine'.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia 英語版「Achillea millefolium」の節「Toxicity」",
+        "source_url": "https://en.wikipedia.org/wiki/Achillea_millefolium#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1377049458,
+        "heading": "Toxicity",
+        "text": "Yarrow can cause allergic skin rashes.\nAccording to the American Society for the Prevention of Cruelty to Animals, yarrow is toxic to dogs, cats, and horses, causing increased urination, vomiting, diarrhea and dermatitis. When consumed by cows, an unfavorable flavor is given to their milk.\nAdditionally, due to its superficial similarity to the highly toxic hemlock, the confusion of the two species can be deadly.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALT",
+      "AMU",
+      "AUT",
+      "BGM",
+      "BLR",
+      "BLT",
+      "BRY",
+      "BUL",
+      "CTA",
+      "CZE",
+      "DEN",
+      "EHM",
+      "FIN",
+      "FOR",
+      "FRA",
+      "GER",
+      "GNL",
+      "GRB",
+      "GRC",
+      "HUN",
+      "ICE",
+      "IRE",
+      "IRK",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KAM",
+      "KAZ",
+      "KGZ",
+      "KHA",
+      "KRA",
+      "KRY",
+      "KUR",
+      "LBS",
+      "MAG",
+      "MON",
+      "NCS",
+      "NET",
+      "NOR",
+      "PAK",
+      "POL",
+      "POR",
+      "PRM",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUN",
+      "RUS",
+      "RUW",
+      "SAK",
+      "SAR",
+      "SIC",
+      "SPA",
+      "SWE",
+      "SWI",
+      "TCS",
+      "TKM",
+      "TUE",
+      "TUR",
+      "TVA",
+      "TZK",
+      "UKR",
+      "UZB",
+      "WHM",
+      "WSB",
+      "YAK",
+      "YUG"
+    ],
+    "introduced": [
+      "AGE",
+      "AGS",
+      "AGW",
+      "ASS",
+      "ATP",
+      "AZO",
+      "BOL",
+      "BOR",
+      "BOT",
+      "BZC",
+      "BZE",
+      "BZL",
+      "BZN",
+      "BZS",
+      "CHI",
+      "CHX",
+      "CLC",
+      "CLM",
+      "CLN",
+      "CLS",
+      "CMN",
+      "COR",
+      "COS",
+      "CPP",
+      "CTM",
+      "CUB",
+      "CYP",
+      "DOM",
+      "ECU",
+      "FAL",
+      "HAI",
+      "HAW",
+      "HON",
+      "IND",
+      "JAM",
+      "JAP",
+      "JAW",
+      "KOR",
+      "LES",
+      "MAS",
+      "MDR",
+      "MLY",
+      "NAM",
+      "NAT",
+      "NFL",
+      "NIC",
+      "NSC",
+      "NSW",
+      "NTA",
+      "NWJ",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OFS",
+      "PAR",
+      "PEN",
+      "PER",
+      "PHI",
+      "QLD",
+      "SGE",
+      "SOA",
+      "SUL",
+      "SUM",
+      "TAI",
+      "TAS",
+      "TEX",
+      "TVL",
+      "URU",
+      "VIC",
+      "VIE",
+      "WAU",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/2294-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/2294-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000042097.webp",
+    "author": "O. Pichard",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_vallee-de-grace-amiens_80_22062007_1.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 268,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

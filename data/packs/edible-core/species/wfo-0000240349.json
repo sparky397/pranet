@@ -1,0 +1,550 @@
+{
+  "id": "wfo-0000240349",
+  "scientific_name": "Mentha arvensis",
+  "authorship": "L.",
+  "family": "Lamiaceae",
+  "synonyms": [
+    "Calamintha arvensis (L.) Garsault",
+    "Mentha agrestis Hegetschw.",
+    "Mentha agrestis Sole",
+    "Mentha agrestris Sole",
+    "Mentha albae-carolinae Heinr.Braun",
+    "Mentha alberti Sennen",
+    "Mentha allionii Boreau",
+    "Mentha angustifolia Schreb.",
+    "Mentha anomala Hérib.",
+    "Mentha approximata (Wirtg.) Strail",
+    "Mentha arenaria Topitz",
+    "Mentha arguta Opiz",
+    "Mentha argutissima Borbás & Heinr.Braun",
+    "Mentha arvensihirsuta Wirtg.",
+    "Mentha arvensiplicata Rchb.",
+    "Mentha arvicola Pérard",
+    "Mentha atrovirens Host",
+    "Mentha austriaca Jacq.",
+    "Mentha austriaca Willd.",
+    "Mentha badensis C.C.Gmel.",
+    "Mentha badensis J.Fellm. ex Ledeb.",
+    "Mentha baguetiana Strail",
+    "Mentha barbata Opiz ex Déségl.",
+    "Mentha bracteolata Opiz ex Déségl.",
+    "Mentha campestris Schur",
+    "Mentha campicola Heinr.Braun",
+    "Mentha collina Topitz",
+    "Mentha cuneifolia (Lej.) Domin",
+    "Mentha deflexa Dumort.",
+    "Mentha densiflora Opiz",
+    "Mentha densifoliata Strail",
+    "Mentha diffusa Lej.",
+    "Mentha dissitiflora Sennen",
+    "Mentha distans Hawkeswood",
+    "Mentha divaricata Host",
+    "Mentha divergens Topitz",
+    "Mentha dubia Schleich. ex Suter",
+    "Mentha duffourii Sennen",
+    "Mentha duftschmidii (Topitz) Trautm.",
+    "Mentha duftschmidii Topitz",
+    "Mentha ehrhartiana Lej. & Courtois",
+    "Mentha exigua All.",
+    "Mentha exigua Lucé",
+    "Mentha flagellifera Schur",
+    "Mentha flexuosa Strail",
+    "Mentha florida Tausch ex Heinr.Braun",
+    "Mentha fochii Sennen",
+    "Mentha foliicoma Opiz ex Déségl.",
+    "Mentha fontana Weihe ex Strail",
+    "Mentha fontqueri Sennen",
+    "Mentha fossicola Heinr.Braun",
+    "Mentha gallica (Topitz) Domin",
+    "Mentha gentiliformis Strail",
+    "Mentha gentilis L.",
+    "Mentha gintliana Opiz ex Déségl.",
+    "Mentha gracilescens Opiz ex Strail",
+    "Mentha graveolens Opiz",
+    "Mentha hillebrandtii Ortmann ex Malinv.",
+    "Mentha hispidula Borbás",
+    "Mentha hostii Boreau",
+    "Mentha intermedia Nees ex Bluff & Fingerh.",
+    "Mentha jahniana Haw. ex Spach",
+    "Mentha joffrei Sennen",
+    "Mentha kitaibeliana Heinr.Braun ex Haring",
+    "Mentha lamiifolia Host",
+    "Mentha lamprophyllos Borbás ex Heinr.Braun",
+    "Mentha lanceolata (Becker) Heinr.Braun",
+    "Mentha lanceolata Benth.",
+    "Mentha lapponica Wahlenb.",
+    "Mentha lata Opiz ex Déségl.",
+    "Mentha latifolia Host",
+    "Mentha latissima Schur",
+    "Mentha laxa Host",
+    "Mentha longibracteata Heinr.Braun",
+    "Mentha maculata Host",
+    "Mentha marrubiastrum (F.W.Schultz) Heinr.Braun",
+    "Mentha melissifolia Host",
+    "Mentha minor Opiz ex Strail",
+    "Mentha moenchii Pérard",
+    "Mentha moldavica Topitz",
+    "Mentha mosana Lej. & Courtois",
+    "Mentha multiflora Host",
+    "Mentha mutabilis (Topitz) Domin",
+    "Mentha neesiana Opiz ex Rochel",
+    "Mentha nemorosa Host",
+    "Mentha nemorum Boreau",
+    "Mentha nobilis Weihe ex Fingerh.",
+    "Mentha nummularia Schreb.",
+    "Mentha obtusata Opiz",
+    "Mentha obtuso-dentata (Topitz) Domin",
+    "Mentha ocymoides Host",
+    "Mentha odorata Opiz ex Déségl.",
+    "Mentha origanifolia Host",
+    "Mentha ovata Schur",
+    "Mentha palitzensis Topitz",
+    "Mentha paludosa Nees ex Bluff & Fingerh.",
+    "Mentha palustris Moench",
+    "Mentha parietariifolia (Becker) Boreau",
+    "Mentha parvifolia Opiz",
+    "Mentha parvula Topitz",
+    "Mentha pascuorum (Topitz) Trautm.",
+    "Mentha pastoris Sennen",
+    "Mentha piersiana Borbás",
+    "Mentha pilosa Spreng. ex Wallr.",
+    "Mentha pilosella Pérard",
+    "Mentha plagensis Topitz",
+    "Mentha plicata Opiz",
+    "Mentha polymorpha Host",
+    "Mentha praeclara Topitz",
+    "Mentha praecox Sole",
+    "Mentha praticola Opiz",
+    "Mentha procumbens Thuill.",
+    "Mentha prostrata Host",
+    "Mentha pulchella Host",
+    "Mentha pulegiformis Heinr.Braun",
+    "Mentha pumila Host",
+    "Mentha rigida Strail",
+    "Mentha rothii Nees ex Bluff & Fingerh.",
+    "Mentha rotundata Opiz",
+    "Mentha ruderalis Topitz",
+    "Mentha ruralis Pérard",
+    "Mentha salebrosa Boreau",
+    "Mentha sativa Roxb.",
+    "Mentha schreberi Pérard",
+    "Mentha scrophulariifolia Lej. & Courtois",
+    "Mentha segetalis Opiz",
+    "Mentha silvicola Heinr.Braun",
+    "Mentha simplex Host",
+    "Mentha slichoviensis Opiz",
+    "Mentha sparsiflora Heinr.Braun",
+    "Mentha subcollina Topitz",
+    "Mentha subcordata Colla ex Lamotte",
+    "Mentha subfontanea Topitz",
+    "Mentha subinodora Schur",
+    "Mentha sylvatica Host",
+    "Mentha tenuicaulis Strail",
+    "Mentha tenuifolia Host",
+    "Mentha thayana Heinr.Braun",
+    "Mentha uliginosa Strail",
+    "Mentha vanhaesendonckii Strail",
+    "Mentha varians Host",
+    "Mentha verisimilis Strail",
+    "Mentha villosa Becker",
+    "Mentha viridula Host"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "de": [
+      "Acker-Minze",
+      "Ackerminze",
+      "Feldminze",
+      "Kornminze"
+    ],
+    "en": [
+      "wild mint",
+      "corn mint",
+      "field mint"
+    ],
+    "ar": [
+      "نعناع حقلي"
+    ],
+    "as": [
+      "পদিনা"
+    ],
+    "az": [
+      "Çəmən yarpızı",
+      "Çəmən nanəsi"
+    ],
+    "cs": [
+      "máta rolní"
+    ],
+    "csb": [
+      "Ùrażewé zelé"
+    ],
+    "cy": [
+      "Mintys yr âr"
+    ],
+    "da": [
+      "Ager-Mynte"
+    ],
+    "es": [
+      "asanda",
+      "hierba buena",
+      "hierbabuena",
+      "menta",
+      "té del río",
+      "yerba buena de los campos"
+    ],
+    "et": [
+      "Põldmünt"
+    ],
+    "fa": [
+      "نعنای وحشی"
+    ],
+    "fi": [
+      "Peltominttu",
+      "rantaminttu"
+    ],
+    "fr": [
+      "Herbe d'anguille",
+      "Menthe des champs",
+      "Menthe sauvage"
+    ],
+    "gl": [
+      "Menta brava"
+    ],
+    "gu": [
+      "ફુદીનો"
+    ],
+    "hi": [
+      "पुदीना",
+      "पोदीना"
+    ],
+    "hsb": [
+      "Rólna mjetlička"
+    ],
+    "id": [
+      "Bijanggut"
+    ],
+    "it": [
+      "Menta dei campi",
+      "Menta selvatica",
+      "Mentastro"
+    ],
+    "ja": [
+      "コーンミント",
+      "ジャパニーズペパーミント",
+      "ジャパニーズミント",
+      "ニホンハッカ",
+      "ワシュハッカ",
+      "和種薄荷",
+      "日本薄荷"
+    ],
+    "kbd": [
+      "Бэрэтӏинагъуэ"
+    ],
+    "kn": [
+      "ಪುದೀನ"
+    ],
+    "ku": [
+      "Pûjana çîmenê"
+    ],
+    "lt": [
+      "Dirvinė mėta"
+    ],
+    "lv": [
+      "Tīruma mētra"
+    ],
+    "mr": [
+      "पुदिना"
+    ],
+    "ne": [
+      "पुदिना"
+    ],
+    "nl": [
+      "Akkermunt"
+    ],
+    "nn": [
+      "Åkermynte"
+    ],
+    "nb": [
+      "Åkermynte"
+    ],
+    "nv": [
+      "Tólchiin"
+    ],
+    "or": [
+      "ପୁଦିନା"
+    ],
+    "pl": [
+      "Mięta polna"
+    ],
+    "pnb": [
+      "پودینہ"
+    ],
+    "pt": [
+      "Hortela-brava",
+      "Hortelã-brava"
+    ],
+    "ru": [
+      "Мята луговая",
+      "Мята полевая"
+    ],
+    "rup": [
+      "Ayazmã"
+    ],
+    "sa": [
+      "पुतिहासस्यम्",
+      "पुदिनापत्रम्"
+    ],
+    "sk": [
+      "mäta roľná"
+    ],
+    "sl": [
+      "njivska meta"
+    ],
+    "su": [
+      "Bijanggut"
+    ],
+    "sv": [
+      "Åkermynta"
+    ],
+    "th": [
+      "มินต์ป่า"
+    ],
+    "tr": [
+      "Japon nanesi"
+    ],
+    "uk": [
+      "Дика м'ята",
+      "Драголюб",
+      "Котячка",
+      "М'ята дика",
+      "М'ята кінська",
+      "М'ята польова"
+    ],
+    "vi": [
+      "Bạc hà á",
+      "Bạc hà nam"
+    ],
+    "yue": [
+      "野薄荷"
+    ],
+    "zh": [
+      "土薄荷",
+      "玉米薄荷",
+      "薄荷",
+      "野薄荷",
+      "香薄荷",
+      "田野薄荷"
+    ],
+    "bg": [
+      "полска мента"
+    ],
+    "hu": [
+      "mezei menta"
+    ],
+    "mk": [
+      "полско нане"
+    ],
+    "sh": [
+      "Poljska metvica"
+    ],
+    "tcy": [
+      "ಪುದೀನ"
+    ],
+    "ga": [
+      "mismín arbhair"
+    ],
+    "hr": [
+      "Poljska metvica"
+    ],
+    "hy": [
+      "Դաղձ դաշտային"
+    ],
+    "my": [
+      "ပရုတ်အေး"
+    ],
+    "be": [
+      "мята палявая"
+    ],
+    "sr": [
+      "Пољска нана"
+    ],
+    "bs": [
+      "Poljska metvica"
+    ],
+    "wuu": [
+      "野薄荷"
+    ],
+    "ur": [
+      "پودینہ"
+    ],
+    "eu": [
+      "basamenda"
+    ],
+    "arz": [
+      "نعناع حقلى"
+    ],
+    "ms": [
+      "Pokok Keresmen"
+    ],
+    "bn": [
+      "বন্য পুদিনা"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q160585",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q160585",
+  "search_names": {
+    "ja": [
+      "ヨウシュハッカ"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Mentha arvensis」",
+      "source_url": "https://en.wikipedia.org/wiki/Mentha_arvensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1370239847,
+      "text": "Mentha arvensis, the corn mint, field mint, or wild mint, is a species of flowering plant in the mint family Lamiaceae. It has a circumboreal distribution, being native to the temperate regions of Europe and western and central Asia, east to the Himalaya and eastern Siberia, and North America. Mentha canadensis, the related species, is also included in Mentha arvensis by some authors as two varieties, M. arvensis var. glabrata Fernald and M. arvensis var. piperascens Malinv. ex L. H. Bailey."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALT",
+      "AUT",
+      "BGM",
+      "BLR",
+      "BLT",
+      "BRY",
+      "BUL",
+      "CZE",
+      "DEN",
+      "FIN",
+      "FOR",
+      "FRA",
+      "GER",
+      "GRB",
+      "GRC",
+      "HUN",
+      "ICE",
+      "IND",
+      "IRE",
+      "IRK",
+      "ITA",
+      "KAM",
+      "KAZ",
+      "KGZ",
+      "KRA",
+      "MAG",
+      "NCS",
+      "NEP",
+      "NET",
+      "NOR",
+      "POL",
+      "PRM",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUN",
+      "RUS",
+      "RUW",
+      "SPA",
+      "SVA",
+      "SWE",
+      "SWI",
+      "TCS",
+      "TKM",
+      "TUR",
+      "TVA",
+      "TZK",
+      "UKR",
+      "UZB",
+      "WHM",
+      "WSB",
+      "YAK",
+      "YUG"
+    ],
+    "introduced": [
+      "ABT",
+      "BAN",
+      "BRC",
+      "CAL",
+      "CNY",
+      "COL",
+      "ELS",
+      "HAI",
+      "ILL",
+      "LAB",
+      "MAN",
+      "MIN",
+      "MNT",
+      "MRN",
+      "MRY",
+      "MXN",
+      "NBR",
+      "NFL",
+      "NSC",
+      "NWM",
+      "NWY",
+      "NZN",
+      "ONT",
+      "ORE",
+      "PEI",
+      "QUE",
+      "SAS",
+      "TEN",
+      "VER",
+      "WAS",
+      "WYO"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30026217-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30026217-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000240349.webp",
+    "author": "Michael Becker",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Mentha_arvensis_2005.08.28_09.49.00.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

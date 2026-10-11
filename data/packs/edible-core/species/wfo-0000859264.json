@@ -1,0 +1,108 @@
+{
+  "id": "wfo-0000859264",
+  "scientific_name": "Chimonobambusa marmorea",
+  "authorship": "(Mitford) Makino",
+  "family": "Poaceae",
+  "synonyms": [
+    "Arundinaria kokantsik Kurz",
+    "Arundinaria marmorea (Mitford) Makino",
+    "Arundinaria matsumarae Hack.",
+    "Arundinaria nana Makino",
+    "Bambusa marmorea Mitford",
+    "Bambusa santsik Zoll.",
+    "Chimonobambusa setiformis T.H.Wen",
+    "Phyllostachys marmorea (Mitford) Asch. & Graebn."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "カンチク"
+    ],
+    "zh": [
+      "寒竹"
+    ],
+    "de": [
+      "Marmorierter Winterbambus"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q3761795",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q3761795",
+  "search_names": {
+    "ja": [
+      "寒竹"
+    ],
+    "en": [
+      "Marbled bamboo",
+      "Mottled bamboo"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「カンチク」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%81%E3%82%AF",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106357717,
+      "text": "カンチク（寒竹）は日本原産の竹の一種だが本来の自生地は不明である。種名の由来は晩秋から冬にかけてタケノコが出ることからであり、耐寒性がある訳ではない。"
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "MA"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "CHC",
+      "CHN",
+      "CHS",
+      "JAP"
+    ],
+    "introduced": [
+      "NNS"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/395724-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "bamboo",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/395724-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000859264.webp",
+    "author": "Jordi Coll Costa",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Marmorea.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 178,
+    "height": 151,
+    "retrieved": "2026-10-09"
+  }
+}

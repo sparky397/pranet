@@ -1,0 +1,123 @@
+{
+  "id": "wfo-0001083936",
+  "scientific_name": "Jateorhiza palmata",
+  "authorship": "(Lam.) Miers",
+  "family": "Menispermaceae",
+  "synonyms": [
+    "Chasmanthera columba (Roxb.) Baill.",
+    "Chasmanthera palmata (Lam.) Baill.",
+    "Cocculus palmatus (Lam.) DC.",
+    "Cocculus palmatus Hook.",
+    "Jateorhiza columba (Roxb.) Miers",
+    "Jateorhiza miersii Oliv.",
+    "Menispermum calumba Stokes",
+    "Menispermum columba Roxb.",
+    "Menispermum palmatum Lam."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "コロンボ (植物)"
+    ],
+    "de": [
+      "Kalumba"
+    ],
+    "hu": [
+      "Kalumbagyökér"
+    ],
+    "ru": [
+      "Ятеориза пальчатая"
+    ],
+    "ca": [
+      "colombo"
+    ],
+    "fi": [
+      "kalumba"
+    ],
+    "arz": [
+      "جاتورهيزا بالماتا"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1722737",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q1722737",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「コロンボ (植物)」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%9C_(%E6%A4%8D%E7%89%A9)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106939683,
+      "text": "コロンボ は、ツヅラフジ科の植物。モザンビーク、マダガスカルなどに生育する。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Jateorhiza palmata」",
+      "source_url": "https://en.wikipedia.org/wiki/Jateorhiza_palmata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1337287813,
+      "text": "Jateorhiza palmata (calumba) is a perennial climbing plant from East Africa. It contains isoquinoline alkaloids, including columbamine and is used mainly as a bitter tonic especially in cases of anorexia nervosa. It contains no tannins, hence it can be safely used in iron preparations for the treatment of anaemia without the fear of precipitation resulted from in vitro interaction."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "KEN",
+      "MAU",
+      "MLW",
+      "MOZ",
+      "TAN",
+      "ZIM"
+    ],
+    "introduced": [
+      "GHA"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/580974-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "liana",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/580974-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0001083936.webp",
+    "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Jateorhiza_palmata_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-080.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 279,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

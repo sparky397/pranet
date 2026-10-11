@@ -1,0 +1,672 @@
+{
+  "id": "wfo-0001021374",
+  "scientific_name": "Datura stramonium",
+  "authorship": "L.",
+  "family": "Solanaceae",
+  "synonyms": [
+    "Datura bernhardii Lundstrom",
+    "Datura bertolonii Parl. ex Guss.",
+    "Datura inermis Juss. ex Jacq.",
+    "Datura muricata Hort.Berol. ex Godr.",
+    "Datura stramonium Thunb.",
+    "Datura stramonium Vell.",
+    "Datura stramonium Wall.",
+    "Datura tatula L.",
+    "Datura wallichii Dunal",
+    "Stramonium tatula (L.) Moench",
+    "Stramonium vulgare Hill",
+    "Stramonium vulgare Moench"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "シロバナヨウシュチョウセンアサガオ"
+    ],
+    "de": [
+      "Weißer Stechapfel",
+      "Stechapfel",
+      "Gemeiner Stechapfel"
+    ],
+    "en": [
+      "Thorn-apple",
+      "jimsonweed"
+    ],
+    "nl": [
+      "Doornappel"
+    ],
+    "cs": [
+      "durman obecný"
+    ],
+    "fr": [
+      "stramoine"
+    ],
+    "fi": [
+      "okahulluruoho",
+      "hulluruoho"
+    ],
+    "zh": [
+      "曼陀罗",
+      "曼陀罗叶",
+      "曼陀罗子",
+      "狗核桃",
+      "洋金花",
+      "曼陀罗根"
+    ],
+    "af": [
+      "olieboom",
+      "gewonestinkblaar",
+      "stinkblaar",
+      "malpitte",
+      "persstinkblaar",
+      "pietjielaporte"
+    ],
+    "st": [
+      "lechoe"
+    ],
+    "xh": [
+      "umhlavuthwa",
+      "umvumbangwe"
+    ],
+    "zu": [
+      "ijoye",
+      "iloqi"
+    ],
+    "eu": [
+      "Asma-belar"
+    ],
+    "pl": [
+      "bieluń dziędzierzawa"
+    ],
+    "ab": [
+      "Алаҟә"
+    ],
+    "qu": [
+      "Chamiku"
+    ],
+    "ta": [
+      "ஊமத்தம்பூ"
+    ],
+    "hu": [
+      "csattanó maszlag"
+    ],
+    "sq": [
+      "Tatulla"
+    ],
+    "el": [
+      "Στραμώνιο"
+    ],
+    "am": [
+      "ኣጠፋሪስ"
+    ],
+    "my": [
+      "ပဒိုင်းညို"
+    ],
+    "ba": [
+      "Ҡаразирә"
+    ],
+    "ar": [
+      "داتورا صفراوية"
+    ],
+    "sv": [
+      "spikklubba"
+    ],
+    "eo": [
+      "Ordinara daturo"
+    ],
+    "ru": [
+      "Дурман обыкновенный"
+    ],
+    "sr": [
+      "татула"
+    ],
+    "myv": [
+      "Борец"
+    ],
+    "uk": [
+      "Дурман звичайний"
+    ],
+    "ne": [
+      "धतुरो"
+    ],
+    "az": [
+      "Adi dəlibəng"
+    ],
+    "nv": [
+      "Chʼóhojilyééh"
+    ],
+    "da": [
+      "Almindelig pigæble"
+    ],
+    "nah": [
+      "Toloatzin"
+    ],
+    "ha": [
+      "Zaƙami"
+    ],
+    "ko": [
+      "독말풀"
+    ],
+    "lv": [
+      "dzeloņainais velnābols"
+    ],
+    "gl": [
+      "Estramonio"
+    ],
+    "sh": [
+      "Tatula"
+    ],
+    "hsb": [
+      "Jakotawa"
+    ],
+    "sk": [
+      "durman obyčajný"
+    ],
+    "tg": [
+      "Банги девона"
+    ],
+    "ro": [
+      "Ciumăfaie"
+    ],
+    "ca": [
+      "estramoni"
+    ],
+    "co": [
+      "Erba diavula"
+    ],
+    "sl": [
+      "navadni kristavec"
+    ],
+    "mr": [
+      "धोत्रा"
+    ],
+    "fa": [
+      "تاتوره"
+    ],
+    "bg": [
+      "обикновен татул"
+    ],
+    "lt": [
+      "Paprastoji durnaropė"
+    ],
+    "ml": [
+      "ഉമ്മം"
+    ],
+    "hr": [
+      "Tatula"
+    ],
+    "th": [
+      "ลำโพงม่วง"
+    ],
+    "uz": [
+      "Bangidevona"
+    ],
+    "kn": [
+      "ಉಮ್ಮತ್ತಿ"
+    ],
+    "mk": [
+      "татула"
+    ],
+    "cy": [
+      "Afal dreiniog"
+    ],
+    "he": [
+      "דטורה סטרמוניום"
+    ],
+    "sgs": [
+      "Dīgoldagis"
+    ],
+    "et": [
+      "harilik ogaõun"
+    ],
+    "ts": [
+      "Zavazava"
+    ],
+    "yue": [
+      "曼陀羅"
+    ],
+    "tl": [
+      "Istramonyo"
+    ],
+    "kab": [
+      "Ǧihnama"
+    ],
+    "hi": [
+      "सफेद धतूरा"
+    ],
+    "be": [
+      "Дурнап’ян звычайны"
+    ],
+    "sd": [
+      "چريو ڌاتورو"
+    ],
+    "wuu": [
+      "曼陀罗花"
+    ],
+    "ku": [
+      "Tatula"
+    ],
+    "lzh": [
+      "曼陀羅"
+    ],
+    "hy": [
+      "Արջընկույզ"
+    ],
+    "dag": [
+      "Shinda zuɣu"
+    ],
+    "arz": [
+      "داتورا صفراويه"
+    ],
+    "ht": [
+      "Datira"
+    ],
+    "cv": [
+      "Ахаль ухмах курăкĕ"
+    ],
+    "nb": [
+      "piggeple"
+    ],
+    "id": [
+      "Kecubung pendek"
+    ],
+    "om": [
+      "Asaangira"
+    ],
+    "guc": [
+      "Malaatapüi"
+    ],
+    "mnc": [
+      "ᠮᠠᠨᡩᠠᠯ ᡳᠯᡥᠠ"
+    ],
+    "kai": [
+      "Mbaajìbo"
+    ],
+    "grc": [
+      "στρύχνον μανικόν"
+    ],
+    "szl": [
+      "pindyrynda"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q30959",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q30959",
+  "search_names": {
+    "ja": [
+      "シロバナチョウセンアサガオ",
+      "ヨウシュチョウセンアサガオ"
+    ],
+    "en": [
+      "Devil's snare",
+      "Jamestown weed",
+      "Thornapple",
+      "Moon flower",
+      "Hell's bells",
+      "Devil’s trumpet",
+      "Devil’s weed",
+      "Tolguacha",
+      "Stinkweed",
+      "Locoweed",
+      "Pricklyburr",
+      "Devil’s cucumber",
+      "Malpitte"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「シロバナヨウシュチョウセンアサガオ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%83%90%E3%83%8A%E3%83%A8%E3%82%A6%E3%82%B7%E3%83%A5%E3%83%81%E3%83%A7%E3%82%A6%E3%82%BB%E3%83%B3%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 110323339,
+      "text": "シロバナヨウシュチョウセンアサガオ は世界の温帯から熱帯に分布するナス科の一年生植物である。標準和名はシロバナチョウセンアサガオで、その別名であるシロバナヨウシュチョウセンアサガオは牧野富太郎が1907年（明治40年）に名付けたものである。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Datura stramonium」",
+      "source_url": "https://en.wikipedia.org/wiki/Datura_stramonium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1376075400,
+      "text": "Datura stramonium, known by the common names thornapple, jimsonweed or stink blade, is a poisonous flowering plant in the Daturae tribe of the nightshade family Solanaceae. Its likely origin was in Central America, and it has been introduced in many world regions. It is an aggressive invasive weed in temperate climates and tropical climates across the world. D. stramonium has frequently been employed in traditional medicine to treat a variety of ailments. It has also been used as a hallucinogen, taken entheogenically to cause intense, sacred or occult visions. It is unlikely to become a major drug of abuse owing to effects upon both mind and body frequently perceived as being highly unpleasant, giving rise to a state of profound and long-lasting disorientation or delirium with a potentially fatal outcome. It contains tropane alkaloids which are responsible for the psychoactive effects, and may be severely toxic."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "ja": {
+        "source": "Wikipedia 日本語版「シロバナヨウシュチョウセンアサガオ」の節「毒性」",
+        "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%83%90%E3%83%8A%E3%83%A8%E3%82%A6%E3%82%B7%E3%83%A5%E3%83%81%E3%83%A7%E3%82%A6%E3%82%BB%E3%83%B3%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA#%E6%AF%92%E6%80%A7",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 110323339,
+        "heading": "毒性",
+        "text": "シロバナヨウシュチョウセンアサガオは、その全部位に毒性が有り、人や家畜、ペットなどを含む動物が摂取すると命に関わる恐れがある。地域によっては栽培や売買が禁止されている。また、この種が自分の庭に生えているのを発見した時は、取り除く事が推奨されることがある。活性成分はトロパンアルカロイドのアトロピン、スコポラミン、ヒヨスチアミンであり、これらはせん妄発生物質  deliriant、抗コリン薬に分類される。気晴らしの為に不用意に摂取し、中毒状態になり、多くの場合入院したり、場合によっては死亡することがある。典型的な中毒症状は、せん妄、異常高熱、頻脈、異常な（場合によって暴力的な）行動、散瞳とそれに伴う羞明である。これらの症状が数日間続く。顕著な健忘もよく報告されている。過剰摂取、中毒の解毒剤としてフィゾスチグミンが選択されている。\n誤ってシロバナヨウシュチョウセンアサガオをシチューに入れて食べてしまったため、家族6人が入院するという中毒事故が、米疾病対策センターによって報告されている。",
+        "truncated": false
+      },
+      "en": {
+        "source": "Wikipedia 英語版「Datura stramonium」の節「Toxicity」",
+        "source_url": "https://en.wikipedia.org/wiki/Datura_stramonium#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1376075400,
+        "heading": "Toxicity",
+        "text": "All parts of Datura plants contain dangerous levels of the tropane alkaloids atropine, hyoscyamine, and scopolamine, all of which are classified as deliriants, or anticholinergics. The risk of fatal overdose is high among uninformed users, and many hospitalizations occur among recreational users who ingest the plant for its psychoactive effects. Deliberate or inadvertent poisoning resulting from smoking jimsonweed and other related species has been reported. Numerous other alkaloids have been detected at lower levels in the plant including methylecgonine in the roots, apoatropine in the stems, leaves, and other parts, and tropine in the flowers and other parts.\nThe amount of toxins varies widely from plant to plant. As much as a 20:1 variation can be found between plants, and a given plant's toxicity depends on its age, where it is growing, and the local weather conditions. A particularly strong difference has been found between plants growing in their native ranges and plants that have adjusted to growing in non-native ranges: in the latter, the atropine and scopolamine concentration may be up to 20–40 times lower than in the native range. It is suspected that this is an evolutionary response to lower predatory pressures. Additionally, within a given plant, toxin concentration varies by part and even from leaf to leaf. When the plant is younger, the ratio of scopolamine to atropine is about 3:1; after flowering, this ratio is reversed, with the amount of scopolamine continuing to decrease as the plant gets older. In traditional cultures, a great deal of experience and detailed knowledge of Datura was critical to minimize harm.",
+        "truncated": true
+      }
+    },
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Datura stramonium」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Datura_stramonium#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1376075400,
+        "heading": "Cultivation",
+        "text": "Datura stramonium prefers rich, calcareous soil. Adding nitrogen fertilizer to the soil increases the concentration of alkaloids present in the plant. D. stramonium can be grown from seed, which is sown with several feet between plants. It is sensitive to frost, so should be sheltered during cold weather. The plant is harvested when the fruits are ripe, but still green. To harvest, the entire plant is cut down, the leaves are stripped from the plant, and everything is left to dry. When the fruits begin to burst open, the seeds are harvested. For intensive plantations, leaf yields of 1,100 to 1,700 kilograms per hectare (1,000 to 1,500 lb/acre) and seed yields of 780 kg/ha (700 lb/acre) are possible.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "FU",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT"
+    ],
+    "introduced": [
+      "ABT",
+      "AFG",
+      "AGE",
+      "AGS",
+      "AGW",
+      "ALA",
+      "ALB",
+      "ALG",
+      "ALT",
+      "ANG",
+      "ARI",
+      "ARK",
+      "ASC",
+      "ASS",
+      "AUT",
+      "AZO",
+      "BAH",
+      "BAL",
+      "BAN",
+      "BEN",
+      "BER",
+      "BGM",
+      "BLR",
+      "BLT",
+      "BLZ",
+      "BOL",
+      "BOT",
+      "BRC",
+      "BUL",
+      "BUR",
+      "BZC",
+      "BZE",
+      "BZL",
+      "BZS",
+      "CAF",
+      "CAL",
+      "CHA",
+      "CHC",
+      "CHH",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHQ",
+      "CHT",
+      "CHX",
+      "CLC",
+      "CLM",
+      "CLN",
+      "CMN",
+      "CNT",
+      "CNY",
+      "COL",
+      "CON",
+      "COR",
+      "COS",
+      "CPP",
+      "CUB",
+      "CVI",
+      "CYP",
+      "CZE",
+      "DEL",
+      "DEN",
+      "DOM",
+      "EAI",
+      "EGY",
+      "EHM",
+      "ELS",
+      "EQG",
+      "ERI",
+      "ETH",
+      "FIJ",
+      "FLA",
+      "FRA",
+      "FRG",
+      "GAL",
+      "GAM",
+      "GEO",
+      "GER",
+      "GGI",
+      "GHA",
+      "GRB",
+      "GRC",
+      "GUA",
+      "GUI",
+      "HAI",
+      "HAW",
+      "HON",
+      "HUN",
+      "IDA",
+      "ILL",
+      "IND",
+      "INI",
+      "IOW",
+      "IRE",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "IVO",
+      "JAM",
+      "JAP",
+      "JAW",
+      "JNF",
+      "KAN",
+      "KAZ",
+      "KEN",
+      "KGZ",
+      "KOR",
+      "KRI",
+      "KRY",
+      "KTY",
+      "KUW",
+      "LAO",
+      "LBS",
+      "LBY",
+      "LEE",
+      "LES",
+      "LOU",
+      "MAI",
+      "MAS",
+      "MAU",
+      "MDG",
+      "MDR",
+      "MIC",
+      "MIN",
+      "MLI",
+      "MLW",
+      "MNT",
+      "MOR",
+      "MOZ",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MTN",
+      "MYA",
+      "NAM",
+      "NAT",
+      "NBR",
+      "NCA",
+      "NCS",
+      "NDA",
+      "NEB",
+      "NEP",
+      "NET",
+      "NEV",
+      "NFK",
+      "NGA",
+      "NGR",
+      "NIC",
+      "NLA",
+      "NOR",
+      "NSC",
+      "NSW",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OFS",
+      "OHI",
+      "ONT",
+      "ORE",
+      "PAK",
+      "PAL",
+      "PAN",
+      "PEI",
+      "PEN",
+      "PER",
+      "POL",
+      "POR",
+      "PRM",
+      "PUE",
+      "QLD",
+      "QUE",
+      "REU",
+      "RHO",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUS",
+      "RUW",
+      "RWA",
+      "SAR",
+      "SAS",
+      "SAU",
+      "SCA",
+      "SDA",
+      "SIC",
+      "SOA",
+      "SOM",
+      "SPA",
+      "SRL",
+      "STH",
+      "SUD",
+      "SWE",
+      "SWI",
+      "SWZ",
+      "TAI",
+      "TAN",
+      "TAS",
+      "TCI",
+      "TCS",
+      "TEN",
+      "TEX",
+      "TKM",
+      "TOG",
+      "TON",
+      "TRT",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TVL",
+      "TZK",
+      "UGA",
+      "UKR",
+      "UTA",
+      "UZB",
+      "VEN",
+      "VER",
+      "VIC",
+      "VIE",
+      "VNA",
+      "VRG",
+      "WAS",
+      "WAU",
+      "WDC",
+      "WHM",
+      "WIN",
+      "WIS",
+      "WSB",
+      "WVA",
+      "YEM",
+      "YUG",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/314738-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/314738-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0001021374.webp",
+    "author": "No machine-readable author provided. Taka assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Datura_stramonium_2_(2005_07_07).jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

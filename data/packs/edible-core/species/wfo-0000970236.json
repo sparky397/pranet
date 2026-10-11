@@ -1,0 +1,255 @@
+{
+  "id": "wfo-0000970236",
+  "scientific_name": "Galium spurium",
+  "authorship": "L.",
+  "family": "Rubiaceae",
+  "synonyms": [
+    "Aparine spuria (L.) Fourr."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ヤエムグラ"
+    ],
+    "de": [
+      "Kleinfrüchtiges Kletten-Labkraut"
+    ],
+    "en": [
+      "False Cleavers",
+      "Marin County bedstraw",
+      "stickwilly"
+    ],
+    "zh": [
+      "豬殃殃",
+      "猪殃殃",
+      "羊角藤",
+      "拉拉藤",
+      "拉拉藤（变种）",
+      "猪殃殃（变种）",
+      "锯锯藤"
+    ],
+    "nl": [
+      "Akkerwalstro"
+    ],
+    "cs": [
+      "svízel pochybný"
+    ],
+    "ko": [
+      "갈퀴덩굴"
+    ],
+    "fi": [
+      "peltomatara"
+    ],
+    "hsb": [
+      "Njeprawy sydrik"
+    ],
+    "sv": [
+      "Småsnärjmåra"
+    ],
+    "ar": [
+      "جويسئة زائفة"
+    ],
+    "cy": [
+      "Coeg-gynghafan"
+    ],
+    "ru": [
+      "Подмаренник ложный"
+    ],
+    "be": [
+      "Маруна лжывая"
+    ],
+    "et": [
+      "põldmadar"
+    ],
+    "pl": [
+      "Przytulia fałszywa"
+    ],
+    "arz": [
+      "جويسئه زائفه"
+    ],
+    "lv": [
+      "Neīstā madara"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q159316",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q159316",
+  "search_names": {
+    "ja": [
+      "やえむぐら",
+      "八重葎"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ヤエムグラ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%A8%E3%83%A0%E3%82%B0%E3%83%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106386899,
+      "text": "ヤエムグラ は、アカネ科の越年草。道端の雑草としてごく普通にみられる。種子はひっつき虫の性質も持つ。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Galium spurium」",
+      "source_url": "https://en.wikipedia.org/wiki/Galium_spurium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1306384165,
+      "text": "Galium spurium, the stickwilly or false cleavers, is a plant species of the Rubiaceae. It is widespread across Europe, Asia, Africa and Canada, and is naturalized in Australia. It is considered a noxious weed in many places."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ABT",
+      "AFG",
+      "ALB",
+      "ALG",
+      "ALT",
+      "AUT",
+      "BAL",
+      "BGM",
+      "BLR",
+      "BLT",
+      "BRY",
+      "BUL",
+      "BUR",
+      "CHA",
+      "CHC",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHQ",
+      "CHS",
+      "CHT",
+      "CHX",
+      "CNY",
+      "COR",
+      "CPP",
+      "CTA",
+      "CZE",
+      "DEN",
+      "EAI",
+      "EGY",
+      "ERI",
+      "ETH",
+      "FRA",
+      "GER",
+      "GRC",
+      "HUN",
+      "ILL",
+      "IRK",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "JAP",
+      "KEN",
+      "KGZ",
+      "KOR",
+      "KRA",
+      "KRI",
+      "KRY",
+      "LBS",
+      "LBY",
+      "MAN",
+      "MLW",
+      "MOR",
+      "NAT",
+      "NBR",
+      "NET",
+      "NNS",
+      "NOR",
+      "NSC",
+      "OFS",
+      "ONT",
+      "PAK",
+      "PAL",
+      "PEI",
+      "POL",
+      "POR",
+      "QUE",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUN",
+      "RUS",
+      "RUW",
+      "RWA",
+      "SAR",
+      "SAS",
+      "SAU",
+      "SIC",
+      "SIN",
+      "SOC",
+      "SOM",
+      "SPA",
+      "SUD",
+      "SWE",
+      "SWI",
+      "TAI",
+      "TAN",
+      "TKM",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TVL",
+      "TZK",
+      "UGA",
+      "UKR",
+      "UZB",
+      "WHM",
+      "WSB",
+      "YAK",
+      "YEM",
+      "YUG",
+      "ZAI"
+    ],
+    "introduced": [
+      "AMU",
+      "FIN",
+      "GRB",
+      "MYA",
+      "NSW",
+      "NWM",
+      "PRM",
+      "SOA",
+      "VIC",
+      "WAU"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/750665-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/750665-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  }
+}

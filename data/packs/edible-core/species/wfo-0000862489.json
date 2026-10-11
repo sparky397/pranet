@@ -1,0 +1,182 @@
+{
+  "id": "wfo-0000862489",
+  "scientific_name": "Cinchona pubescens",
+  "authorship": "Vahl",
+  "family": "Rubiaceae",
+  "synonyms": [
+    "Cinchona caloptera Miq.",
+    "Cinchona chomeliana Wedd.",
+    "Cinchona colorata C.J.Laubert ex B.D.Jacks.",
+    "Cinchona cordifolia Mutis",
+    "Cinchona cordifolia Mutis ex Humb.",
+    "Cinchona coronulata Miq.",
+    "Cinchona decurrentifolia Pav.",
+    "Cinchona elliptica Wedd.",
+    "Cinchona goudotiana Klotzsch ex Triana",
+    "Cinchona govana Miq.",
+    "Cinchona howardiana Kuntze",
+    "Cinchona lechleriana Schltdl.",
+    "Cinchona lutea Pav.",
+    "Cinchona morado Ruiz",
+    "Cinchona obovata Pav. ex Howard",
+    "Cinchona ovata Ruiz & Pav.",
+    "Cinchona palescens Vell.",
+    "Cinchona pallescens Ruiz ex DC.",
+    "Cinchona pallescens Ruiz ex Vell.",
+    "Cinchona pallescens Ruiz ex Vitman",
+    "Cinchona pelalba Pav. ex DC.",
+    "Cinchona pelletieriana Wedd.",
+    "Cinchona platyphylla Wedd.",
+    "Cinchona purpurascens Wedd.",
+    "Cinchona purpurea Ruiz & Pav.",
+    "Cinchona purpurea Vell.",
+    "Cinchona rosulenta Howard ex Wedd.",
+    "Cinchona rotundifolia Pav. ex Lamb.",
+    "Cinchona rubicunda Tafalla ex Wedd.",
+    "Cinchona rufinervis Wedd.",
+    "Cinchona rugosa Pav. ex DC.",
+    "Cinchona subsessilis Miq.",
+    "Cinchona succirubra Pav. ex Klotzsch",
+    "Cinchona tucujensis H.Karst.",
+    "Quinquina obovata (Pav. ex Howard) Kuntze",
+    "Quinquina ovata (Ruiz & Pav.) Kuntze",
+    "Quinquina pubescens (Vahl) Kuntze",
+    "Quinquina succirubra (Pav. ex Klotzsch) Kuntze"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "アカキナノキ"
+    ],
+    "en": [
+      "quinine"
+    ],
+    "zh": [
+      "毛鸡纳树",
+      "红鸡纳树",
+      "鸡纳树",
+      "鸡纳树（红色金鸡纳）",
+      "金鸡勒"
+    ],
+    "fr": [
+      "Quinquina rouge"
+    ],
+    "ca": [
+      "quina"
+    ],
+    "hsb": [
+      "Chinski skorowc"
+    ],
+    "eu": [
+      "Kinkina"
+    ],
+    "hu": [
+      "vörös kínafa"
+    ],
+    "bg": [
+      "хининово дърво"
+    ],
+    "fi": [
+      "kiniinipuu"
+    ],
+    "cs": [
+      "chinovník pýřitý"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q164574",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q164574",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「アカキナノキ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%82%AD%E3%83%8A%E3%83%8E%E3%82%AD",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 110689681,
+      "text": "アカキナノキ はアカネ科に属する木本の一種。マラリアの特効薬であるキニーネを生産する。世界の侵略的外来種ワースト100に選定されている。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Cinchona pubescens」",
+      "source_url": "https://en.wikipedia.org/wiki/Cinchona_pubescens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1369965711,
+      "text": "Cinchona pubescens, also known as red cinchona and quina or kina, is native to Central and South America. It is known as a medicinal plant for its bark's high quinine content- and has similar uses to C. officinalis in the production of quinine, most famously used for treatment of malaria."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "BOL",
+      "CLM",
+      "COS",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "introduced": [
+      "GAL",
+      "GGI",
+      "GUA",
+      "GUI",
+      "HAW",
+      "HON",
+      "JAM",
+      "MXT",
+      "SCI",
+      "STH",
+      "SUL"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/746872-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/746872-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000862489.webp",
+    "author": "Dick Culbert from Gibsons, B.C., Canada",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cinchona_pubescens,_flower_of_the_Quinine_Tree._(9406920760)_4x3.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

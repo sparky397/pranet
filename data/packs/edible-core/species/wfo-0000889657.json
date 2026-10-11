@@ -1,0 +1,346 @@
+{
+  "id": "wfo-0000889657",
+  "scientific_name": "Phalaris canariensis",
+  "authorship": "L.",
+  "family": "Poaceae",
+  "synonyms": [
+    "Phalaris aquatica Delile ex Boiss.",
+    "Phalaris avicularis Salisb.",
+    "Phalaris ovata Moench"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "カナリークサヨシ"
+    ],
+    "en": [
+      "Canary grass",
+      "annual canarygrass"
+    ],
+    "de": [
+      "Kanarien-Glanzgras"
+    ],
+    "zh": [
+      "加拿麗鷸草",
+      "加那利鷸草",
+      "加那利虉草",
+      "金絲雀虉草"
+    ],
+    "nl": [
+      "Kanariezaad"
+    ],
+    "cs": [
+      "chrastice kanárská"
+    ],
+    "fi": [
+      "kanarianhelpi"
+    ],
+    "ast": [
+      "alpiste"
+    ],
+    "sl": [
+      "kanarska čužka"
+    ],
+    "pt": [
+      "Alpista"
+    ],
+    "ml": [
+      "കാനറിപ്പുല്ല്"
+    ],
+    "pl": [
+      "Mozga kanaryjska"
+    ],
+    "fr": [
+      "Alpiste"
+    ],
+    "lt": [
+      "Kanarinis strypainis"
+    ],
+    "hu": [
+      "Fénymag"
+    ],
+    "sv": [
+      "Kanariegräs"
+    ],
+    "ar": [
+      "خرفار كناري"
+    ],
+    "cy": [
+      "Pefrwellt yr adar"
+    ],
+    "eu": [
+      "Alpiste"
+    ],
+    "ru": [
+      "канареечник канарский"
+    ],
+    "et": [
+      "Kanaari paelrohi"
+    ],
+    "uk": [
+      "Очеретянка канаркова"
+    ],
+    "arz": [
+      "خرفار كنارى"
+    ],
+    "nb": [
+      "kanarigress"
+    ],
+    "ko": [
+      "카나리아풀"
+    ],
+    "kn": [
+      "ಕ್ಯಾನರಿ ಹುಲ್ಲು"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q2086586",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q2086586",
+  "search_names": {
+    "en": [
+      "Canary grass"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「カナリークサヨシ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%B5%E3%83%A8%E3%82%B7",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 108387409,
+      "text": "カナリークサヨシ はカナリーグラスとも呼ばれる、イネ科クサヨシ属に分類される一年草。種子は飼鳥家の間ではカナリーシードの名で知られる。稀に空き地で見られることがある。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Canary grass」",
+      "source_url": "https://en.wikipedia.org/wiki/Canary_grass",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1303548163,
+      "text": "Canary grass is a plant, Phalaris canariensis, belonging to the family Poaceae. Originally a native of the Mediterranean region, it is now grown commercially in several parts of the world for birdseed."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "CNY",
+      "MOR"
+    ],
+    "introduced": [
+      "ABT",
+      "AGE",
+      "AGS",
+      "AGW",
+      "ALA",
+      "ALB",
+      "ALG",
+      "ALT",
+      "ARI",
+      "ARK",
+      "ASK",
+      "AUT",
+      "AZO",
+      "BAL",
+      "BER",
+      "BGM",
+      "BLR",
+      "BLT",
+      "BOL",
+      "BRC",
+      "BUL",
+      "BZL",
+      "BZS",
+      "CAL",
+      "CHN",
+      "CHS",
+      "CHX",
+      "CLC",
+      "CLM",
+      "CLS",
+      "CNT",
+      "COL",
+      "COR",
+      "COS",
+      "CPP",
+      "CTM",
+      "CUB",
+      "CYP",
+      "CZE",
+      "DEL",
+      "EAI",
+      "ECU",
+      "EGY",
+      "FLA",
+      "FRA",
+      "GEO",
+      "GER",
+      "GRB",
+      "GRC",
+      "GST",
+      "HAW",
+      "HON",
+      "HUN",
+      "IDA",
+      "ILL",
+      "IND",
+      "INI",
+      "IOW",
+      "IRE",
+      "IRK",
+      "IRN",
+      "ITA",
+      "JAP",
+      "KAN",
+      "KAZ",
+      "KHA",
+      "KOR",
+      "KRI",
+      "KRY",
+      "KTY",
+      "LBS",
+      "LBY",
+      "LES",
+      "LOU",
+      "MAI",
+      "MAN",
+      "MAS",
+      "MAU",
+      "MDG",
+      "MDR",
+      "MIC",
+      "MIN",
+      "MNT",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXE",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NAT",
+      "NBR",
+      "NCA",
+      "NCS",
+      "NDA",
+      "NEB",
+      "NFK",
+      "NFL",
+      "NSC",
+      "NSW",
+      "NWG",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWT",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OFS",
+      "OHI",
+      "OKL",
+      "ONT",
+      "ORE",
+      "PAK",
+      "PAL",
+      "PEI",
+      "PEN",
+      "PER",
+      "POR",
+      "PRM",
+      "QLD",
+      "QUE",
+      "REU",
+      "RHO",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUN",
+      "RUS",
+      "RUW",
+      "SAK",
+      "SAR",
+      "SAS",
+      "SCA",
+      "SDA",
+      "SIC",
+      "SOA",
+      "SPA",
+      "SWI",
+      "TAI",
+      "TAS",
+      "TCS",
+      "TEN",
+      "TEX",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TVL",
+      "UKR",
+      "URU",
+      "UTA",
+      "VEN",
+      "VER",
+      "VIC",
+      "VIE",
+      "VRG",
+      "WAS",
+      "WAU",
+      "WDC",
+      "WIS",
+      "WSB",
+      "WVA",
+      "WYO",
+      "YAK",
+      "YUG",
+      "YUK"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/415588-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/415588-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000889657.webp",
+    "author": null,
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Illustration_Phalaris_canariensis0.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 252,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "wfo-0000399604",
+  "scientific_name": "Rorippa indica",
+  "authorship": "(L.) Hiern",
+  "family": "Brassicaceae",
+  "synonyms": [
+    "Cardamine atrovirens (Hornem.) Kuntze",
+    "Cardamine glandulosa Blanco",
+    "Cardamine lamontii Hance",
+    "Clandestinaria indica Spach",
+    "Nasturtium apetalum (Lour.) A.Chev.",
+    "Nasturtium apetalum DC.",
+    "Nasturtium atrovirens (Hornem.) DC.",
+    "Nasturtium diffusum DC.",
+    "Nasturtium heterophyllum D.Don",
+    "Nasturtium indicum DC.",
+    "Nasturtium montanum (Nutt.) Kuntze",
+    "Nasturtium montanum Wall. ex Hook.f. & T.Anderson",
+    "Nasturtium montanum Wall. ex Hook.f. & Thomson",
+    "Nasturtium obtusulum (Miq.) Koidz.",
+    "Nasturtium sinapis (Burm.f.) O.E.Schulz",
+    "Radicula indica J.M.Macoun",
+    "Radicula indica Standl.",
+    "Radicula montana (Wall.) Hu ex C.Pei",
+    "Rorippa atrovirens (Hornem.) Ohwi & Hara",
+    "Rorippa montana (Wall. ex Hook.f. & Thomson) Small",
+    "Rorippa sinapis (Burm.f.) Ohwi & Hara",
+    "Sinapis benghalensis Roxb. ex DC.",
+    "Sinapis divaricata Roxb.",
+    "Sinapis pusilla Roxb.",
+    "Sisymbrium apetalum Lour.",
+    "Sisymbrium atrovirens Hornem.",
+    "Sisymbrium indicum L.",
+    "Sisymbrium sinapifolium St.-Lag.",
+    "Sisymbrium sinapis Burm.f."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "イヌガラシ"
+    ],
+    "en": [
+      "variableleaf yellowcress"
+    ],
+    "ko": [
+      "개갓냉이"
+    ],
+    "zh": [
+      "蔊菜",
+      "旱菜",
+      "薄菜",
+      "印度蔊菜"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q5768150",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q5768150",
+  "search_names": {
+    "en": [
+      "variable-leaf yellowcress"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「イヌガラシ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%82%AC%E3%83%A9%E3%82%B7",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106349104,
+      "text": "イヌガラシ は、アブラナ科イヌガラシ属の多年草。水田の畔、河川敷、水路脇、ため池の縁などのやや湿った場所に生える雑草である。別名、ナガミノイヌガラシ、ヘビクサ、ツミナ、アゼダイコン、アゼガラシ、ノガラシ。中国名は「蔊菜」。"
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ASS",
+      "BAN",
+      "CBD",
+      "CHC",
+      "CHH",
+      "CHM",
+      "CHN",
+      "CHQ",
+      "CHS",
+      "CHT",
+      "CHX",
+      "CMN",
+      "CON",
+      "EGY",
+      "EHM",
+      "GGI",
+      "IND",
+      "JAP",
+      "KOR",
+      "LAO",
+      "MYA",
+      "NEP",
+      "NNS",
+      "PAK",
+      "PHI",
+      "SRL",
+      "TAI",
+      "THA",
+      "VIE",
+      "WHM",
+      "ZAI"
+    ],
+    "introduced": [
+      "AND",
+      "BRC",
+      "BZL",
+      "BZS",
+      "CLM",
+      "ELS",
+      "HAW",
+      "HON",
+      "ILL",
+      "LOU",
+      "MSI",
+      "MXC",
+      "MXG",
+      "NCB",
+      "NWY",
+      "ORE",
+      "PER",
+      "TCS",
+      "TRT",
+      "VEN"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/222144-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/222144-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000399604.webp",
+    "author": "Dinesh Valke from Thane, India",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Rorippa_indica_(8384525636).jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

@@ -118,10 +118,21 @@ def http_get_json(url: str, params: dict | None = None, *, cache_name: str,
     if cached is not None:
         return cached["body"]
     host = requests.utils.urlparse(url).netloc
-    _throttle(host, min_interval)
-    r = _session.get(url, params=params, headers=headers or {}, timeout=60)
-    r.raise_for_status()
-    body = r.json()
+    # 一時的な障害（時間切れ、接続切れ、5xx、429）は間を空けて 3 回まで試す。長い収集が 1 回の失敗で止まらないように
+    for attempt in range(3):
+        _throttle(host, min_interval)
+        try:
+            r = _session.get(url, params=params, headers=headers or {}, timeout=60)
+            if r.status_code in (429, 500, 502, 503, 504) and attempt < 2:
+                raise requests.ConnectionError(f"{r.status_code} {r.reason}")
+            r.raise_for_status()
+            body = r.json()
+            break
+        except (requests.Timeout, requests.ConnectionError, ValueError) as e:
+            if attempt == 2:
+                raise
+            log(f"  [再試行 {attempt + 1}] {host}: {str(e)[:80]}")
+            time.sleep(5 * (attempt + 1))
     save_json(cache_file, {"url": r.url, "retrieved": today(), "body": body})
     return body
 

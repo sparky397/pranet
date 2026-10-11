@@ -1,0 +1,111 @@
+{
+  "id": "wfo-0001259103",
+  "scientific_name": "Passiflora tarminiana",
+  "authorship": "Coppens & V.E.Barney",
+  "family": "Passifloraceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "バナナポカ"
+    ],
+    "hu": [
+      "Kuruba"
+    ],
+    "zh": [
+      "芭娜娜波卡"
+    ],
+    "ko": [
+      "바나나포카"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q135365",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q135365",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「バナナポカ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%8A%E3%83%8A%E3%83%9D%E3%82%AB",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 110495956,
+      "text": "バナナポカ は学名Passiflora tarminiana で、南アメリカの高地の原産で、トケイソウ科パッションフルーツの一種である。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Passiflora tarminiana」",
+      "source_url": "https://en.wikipedia.org/wiki/Passiflora_tarminiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1352787405,
+      "text": "Passiflora tarminiana is a species of passionfruit. The yellow fruits are edible and their resemblance to small, straight bananas has given it the name banana passionfruit in some countries. It is native to the uplands of tropical South America and is now cultivated in many countries. In Hawaii and New Zealand it is now considered an invasive species. It was given the name banana passionfruit in New Zealand, where passionfruit are also prevalent. In Hawaii, it is called banana poka. In its Latin American homeland, it is known as curuba, curuba de Castilla, or curuba sabanera blanca (Colombia); taxo, tacso, tagso, tauso (Ecuador); parcha, taxo (Venezuela), tumbo or curuba (Bolivia); tacso, tumbo, tumbo del norte, trompos, tintin, porocsho or purpur (Peru)."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "CLM",
+      "ECU",
+      "GUA",
+      "MXS",
+      "MXT",
+      "PER",
+      "VEN"
+    ],
+    "introduced": [
+      "AZO",
+      "BOL",
+      "CAL",
+      "CNY",
+      "ELS",
+      "HAW",
+      "MDR",
+      "MXC",
+      "SRL"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/321062-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "liana",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/321062-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0001259103.webp",
+    "author": "Forest & Kim Starr",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Starr_010423-0060_Passiflora_tarminiana.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

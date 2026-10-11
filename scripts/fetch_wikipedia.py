@@ -121,7 +121,11 @@ def main(only: list[str] | None = None) -> None:
             if lang in titles:
                 s = fetch_summary(lang, titles[lang])
                 if s:
-                    s["sections"] = fetch_sections(lang, titles[lang], s["source_url"])
+                    try:
+                        s["sections"] = fetch_sections(lang, titles[lang], s["source_url"])
+                    except Exception as e:  # 節が取れなくても要約は残す（次回の実行で取り直す）
+                        log(f"  [{lang}] 節を取得できません: {titles[lang]} ({str(e)[:80]})")
+                        s["sections"] = {}
                     out[lang] = s
         save_json(work_path(sci, "wikipedia"), out)
         got = {k: (len(v["text"]), sorted(v["sections"].keys())) for k, v in out.items()}

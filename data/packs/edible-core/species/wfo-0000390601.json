@@ -1,0 +1,189 @@
+{
+  "id": "wfo-0000390601",
+  "scientific_name": "Dioscorea esculenta",
+  "authorship": "(Lour.) Burkill",
+  "family": "Dioscoreaceae",
+  "synonyms": [
+    "Dioscorea aculeata Roxb.",
+    "Dioscorea fasciculata Roxb.",
+    "Dioscorea papillaris Blanco",
+    "Dioscorea papuana Warb.",
+    "Dioscorea spinosa Roxb. ex Hook.f.",
+    "Dioscorea tiliifolia Kunth",
+    "Dioscorea tugui Blanco",
+    "Oncorhiza esculentus (Lour.) Pers.",
+    "Oncus esculentus Lour."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "トゲドコロ"
+    ],
+    "en": [
+      "lesser yam"
+    ],
+    "zh": [
+      "甘薯",
+      "刺薯蕷"
+    ],
+    "id": [
+      "Gembili"
+    ],
+    "jv": [
+      "Gembili"
+    ],
+    "ml": [
+      "നനകിഴങ്ങ്"
+    ],
+    "to": [
+      "ʻUfilei"
+    ],
+    "th": [
+      "มันมือเสือ"
+    ],
+    "ms": [
+      "Ubi torak"
+    ],
+    "pam": [
+      "Tugi"
+    ],
+    "ar": [
+      "ديسقوريا مغذية"
+    ],
+    "hi": [
+      "सुथनी"
+    ],
+    "cs": [
+      "smldinec zelný"
+    ],
+    "arz": [
+      "ديسقوريا مغذيه"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q2674220",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q2674220",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「トゲドコロ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B2%E3%83%89%E3%82%B3%E3%83%AD",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106368559,
+      "text": "トゲドコロ はヤマノイモ目ヤマノイモ科の植物で、食用となるヤムイモの一種である。別名ハリイモ、クーガイモ、クーガンムなど。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Dioscorea esculenta」",
+      "source_url": "https://en.wikipedia.org/wiki/Dioscorea_esculenta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1327299607,
+      "text": "Dioscorea esculenta is a species of flowering plant in the family Dioscoreaceae. It is sometimes referred to by the common name lesser yam, and is native to Island Southeast Asia and introduced to Near Oceania and East Africa by early Austronesian voyagers. This yam is grown for its edible tubers, though it has smaller tubers than the more widely-cultivated Dioscorea alata and is usually spiny."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ASS",
+      "BAN",
+      "BIS",
+      "BOR",
+      "CBD",
+      "EHM",
+      "JAW",
+      "LSI",
+      "MLY",
+      "MOL",
+      "MYA",
+      "NEP",
+      "NWG",
+      "PHI",
+      "SUL",
+      "SUM",
+      "THA",
+      "VIE",
+      "WHM"
+    ],
+    "introduced": [
+      "AND",
+      "BKN",
+      "CHC",
+      "CHH",
+      "CHS",
+      "COO",
+      "CRL",
+      "CUB",
+      "FIJ",
+      "IND",
+      "IVO",
+      "LEE",
+      "MDG",
+      "MDV",
+      "MRN",
+      "MXC",
+      "NCB",
+      "NNS",
+      "NUE",
+      "PIT",
+      "PUE",
+      "SAM",
+      "SCI",
+      "SEY",
+      "TAI",
+      "TON",
+      "TRT",
+      "TUA",
+      "WAL",
+      "WIN"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/317946-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "climbing tuberous geophyte",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/317946-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000390601.webp",
+    "author": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Dioscorea_esculenta_001.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

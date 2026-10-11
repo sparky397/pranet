@@ -1,0 +1,105 @@
+{
+  "id": "wfo-0000344322",
+  "scientific_name": "Carex alopecuroides",
+  "authorship": "D.Don ex Tilloch & Taylor",
+  "family": "Cyperaceae",
+  "synonyms": [
+    "Carex alopecuroides D.Don",
+    "Carex consocialis Steud.",
+    "Carex emodorum Spreng.",
+    "Carex hayatana Honda",
+    "Carex kawakamii Hayata",
+    "Carex pseudojaponica Hayata",
+    "Carex scabrisacca Ohwi & D.Ryu"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "シラスゲ"
+    ],
+    "zh": [
+      "川上氏薹",
+      "高山日本薹",
+      "綠穗薹草",
+      "似橫果薹草",
+      "禾状薹草"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q2938218",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q2938218",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「シラスゲ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A9%E3%82%B9%E3%82%B2",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106363800,
+      "text": "シラスゲ は、単子葉植物カヤツリグサ科スゲ属に含まれる、中型のスゲ類である。乾燥した草地などにはえ、道端や畑などにも出現する。"
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ASS",
+      "CHC",
+      "CHS",
+      "EHM",
+      "JAW",
+      "MYA",
+      "NEP",
+      "NWG",
+      "PHI",
+      "SUL",
+      "SUM",
+      "TAI",
+      "VIE",
+      "WHM"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/298509-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial or rhizomatous geophyte",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/298509-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000344322.webp",
+    "author": "yamatsu",
+    "license": "CC0 1.0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:%E3%82%B7%E3%83%A9%E3%82%B9%E3%82%B2(Carex_alopecuroides_var._chlorostachya)-%E5%AE%9F_(5844559743).jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

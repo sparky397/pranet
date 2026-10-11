@@ -1,0 +1,256 @@
+{
+  "id": "wfo-0000867617",
+  "scientific_name": "Eragrostis curvula",
+  "authorship": "(Schrad.) Nees",
+  "family": "Poaceae",
+  "synonyms": [
+    "Eragrostis capillifolia Nees",
+    "Eragrostis chloromelas Steud.",
+    "Eragrostis filiformis (Thunb.) Nees",
+    "Eragrostis huillensis Rendle",
+    "Eragrostis jeffreysii Hack.",
+    "Eragrostis poa Stapf",
+    "Eragrostis procerior Rendle",
+    "Eragrostis pubiculmis Jedwabn.",
+    "Eragrostis robusta Stent",
+    "Eragrostis subulata Nees",
+    "Eragrostis thunbergiana Steud.",
+    "Eragrostis valida Stent",
+    "Poa atrovirens Nees",
+    "Poa capensis Steud.",
+    "Poa curvula Schrad.",
+    "Poa filiformis Thunb."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "シナダレスズメガヤ"
+    ],
+    "de": [
+      "Gebogenblättriges Liebesgras"
+    ],
+    "en": [
+      "weeping lovegrass"
+    ],
+    "zh": [
+      "垂愛草",
+      "弯叶画眉草"
+    ],
+    "sv": [
+      "Afrikanskt kärleksgräs"
+    ],
+    "cy": [
+      "Serchwellt"
+    ],
+    "af": [
+      "Growwevleigras"
+    ],
+    "ar": [
+      "أثب منحني"
+    ],
+    "fi": [
+      "kaartoröllinurmikka"
+    ],
+    "fa": [
+      "علف عشق کمانی"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q5384814",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q5384814",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「シナダレスズメガヤ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8A%E3%83%80%E3%83%AC%E3%82%B9%E3%82%BA%E3%83%A1%E3%82%AC%E3%83%A4",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 107479216,
+      "text": "シナダレスズメガヤ Eragrostis curvula は、イネ科に分類される雑草の一種。英語名はウィーピング・ラブグラス。別名にアフリカン・ラブグラス。南アフリカ原産だが、日本にも外来種として全国に定着している。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Eragrostis curvula」",
+      "source_url": "https://en.wikipedia.org/wiki/Eragrostis_curvula",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1335261033,
+      "text": "Eragrostis curvula is a species of grass known by the common name weeping lovegrass. Other common names include Boer lovegrass, curved lovegrass, Catalina lovegrass, and African lovegrass."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "BOT",
+      "BUR",
+      "CMN",
+      "CPP",
+      "EHM",
+      "ERI",
+      "ETH",
+      "KEN",
+      "LES",
+      "MLW",
+      "MOZ",
+      "NAM",
+      "NAT",
+      "OFS",
+      "SWZ",
+      "TAN",
+      "TVL",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "introduced": [
+      "AGE",
+      "AGW",
+      "ALA",
+      "ARI",
+      "ARK",
+      "ASS",
+      "AUT",
+      "BGM",
+      "BOL",
+      "BZC",
+      "BZE",
+      "BZL",
+      "BZN",
+      "BZS",
+      "CAL",
+      "CAY",
+      "CHC",
+      "CHS",
+      "CHX",
+      "CLC",
+      "CLM",
+      "CLS",
+      "COL",
+      "COS",
+      "CZE",
+      "DEL",
+      "FLA",
+      "FRA",
+      "GEO",
+      "GER",
+      "GRB",
+      "GRC",
+      "HAW",
+      "HON",
+      "ILL",
+      "IND",
+      "IRN",
+      "ITA",
+      "JAP",
+      "JAW",
+      "KAN",
+      "KOR",
+      "KTY",
+      "LOU",
+      "MAS",
+      "MAU",
+      "MDG",
+      "MDR",
+      "MOR",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXE",
+      "MXN",
+      "MXS",
+      "MYA",
+      "NCA",
+      "NSW",
+      "NTA",
+      "NWG",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OGA",
+      "OHI",
+      "OKL",
+      "ORE",
+      "PAK",
+      "PEN",
+      "PER",
+      "PHI",
+      "POR",
+      "PUE",
+      "QLD",
+      "REU",
+      "SAU",
+      "SCA",
+      "SOA",
+      "SPA",
+      "STH",
+      "SWI",
+      "TAI",
+      "TAS",
+      "TCS",
+      "TEN",
+      "TEX",
+      "TUR",
+      "URU",
+      "UTA",
+      "VIC",
+      "VRG",
+      "WAS",
+      "WAU",
+      "WHM",
+      "WVA",
+      "YEM",
+      "YUG"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/1169955-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/1169955-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000867617.webp",
+    "author": "Forest & Kim Starr",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Starr_050208-3897_Eragrostis_curvula.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 299,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

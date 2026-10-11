@@ -1,0 +1,689 @@
+{
+  "id": "wfo-0000861178",
+  "scientific_name": "Cynodon dactylon",
+  "authorship": "(L.) Pers.",
+  "family": "Poaceae",
+  "synonyms": [
+    "Agrostis bermudiana Tussac ex Kunth",
+    "Agrostis filiformis J.Koenig ex Kunth",
+    "Agrostis linearis Retz.",
+    "Agrostis stellata Willd.",
+    "Capriola dactylon (L.) Kuntze",
+    "Chloris cynodon Trin.",
+    "Chloris maritima Trin.",
+    "Chloris paytensis Steud.",
+    "Cynodon affinis Caro & E.A.Sánchez",
+    "Cynodon aristiglumis Caro & E.A.Sánchez",
+    "Cynodon aristulatus Caro & E.A.Sánchez",
+    "Cynodon decipiens Caro & E.A.Sánchez",
+    "Cynodon distichloides Caro & E.A.Sánchez",
+    "Cynodon erectus J.Presl",
+    "Cynodon glabratus Steud.",
+    "Cynodon grandispiculus Caro & E.A.Sánchez",
+    "Cynodon hirsutissimus (Litard. & Maire) Caro & E.A.Sánchez",
+    "Cynodon iraquensis Caro",
+    "Cynodon laeviglumis Caro & E.A.Sánchez",
+    "Cynodon linearis (Retz.) Willd.",
+    "Cynodon maritimus Kunth",
+    "Cynodon mucronatus Caro & E.A.Sánchez",
+    "Cynodon nitidus Caro & E.A.Sánchez",
+    "Cynodon occidentalis Willd. ex Steud.",
+    "Cynodon parviglumis Ohwi",
+    "Cynodon pascuus Nees",
+    "Cynodon pedicellatus Caro",
+    "Cynodon polevansii Stent",
+    "Cynodon portoricensis Willd. ex Steud.",
+    "Cynodon repens Dulac",
+    "Cynodon sarmentosus Gray",
+    "Cynodon scabrifolius Caro",
+    "Cynodon stellatus (Willd.) Willd.",
+    "Cynodon tenuis Trin.",
+    "Cynodon umbellatus (Lam.) Caro",
+    "Cynosurus dactylon (L.) Pers.",
+    "Cynosurus uniflorus Walter",
+    "Dactilon officinale Vill.",
+    "Dactylus officinalis Asch.",
+    "Digitaria ambigua (Lapeyr. ex DC.) Mérat",
+    "Digitaria dactylon (L.) Scop.",
+    "Digitaria glumaepatula (Steud.) Miq.",
+    "Digitaria glumipatula (Steud.) Miq.",
+    "Digitaria linearis (L.) Pers.",
+    "Digitaria littoralis Salisb.",
+    "Digitaria maritima (Kunth) Spreng.",
+    "Digitaria stolonifera Schrad.",
+    "Fibichia dactylon (L.) Beck",
+    "Fibichia umbellata Koeler",
+    "Milium dactylon (L.) Moench",
+    "Panicum ambiguum Le Turq.",
+    "Panicum dactylon L.",
+    "Panicum glumaepatulum Steud.",
+    "Panicum glumipatulum Steud.",
+    "Panicum lineare L.",
+    "Paspalum ambiguum DC.",
+    "Paspalum dactylon (L.) Lam.",
+    "Paspalum umbellatum Lam.",
+    "Phleum dactylon (L.) Georgi",
+    "Syntherisma linearis (L.) Nash",
+    "Vilfa linearis (Retz.) P.Beauv.",
+    "Vilfa stellata (Willd.) P.Beauv."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ギョウギシバ"
+    ],
+    "de": [
+      "Gewöhnliches Hundszahngras",
+      "Hundszahngras"
+    ],
+    "en": [
+      "Bermudagrass"
+    ],
+    "zh": [
+      "狗牙根",
+      "铁线草"
+    ],
+    "nl": [
+      "Handjesgras"
+    ],
+    "cs": [
+      "troskut prstnatý"
+    ],
+    "fr": [
+      "chiendent dactyle",
+      "Chiendent pied de poule"
+    ],
+    "fi": [
+      "mattovarvasheinä",
+      "varvasheinä"
+    ],
+    "ta": [
+      "அறுகு",
+      "அறுகம்புல்",
+      "தூரீலை",
+      "மூதண்டம்",
+      "மேகாரி"
+    ],
+    "he": [
+      "יבלית"
+    ],
+    "or": [
+      "ଦୁବ"
+    ],
+    "af": [
+      "Kweekgras"
+    ],
+    "hu": [
+      "csillagpázsit"
+    ],
+    "to": [
+      "Musie"
+    ],
+    "bn": [
+      "দূর্বা"
+    ],
+    "ml": [
+      "കറുക"
+    ],
+    "el": [
+      "Αγριάδα"
+    ],
+    "vi": [
+      "cỏ gà"
+    ],
+    "pnb": [
+      "کھبل"
+    ],
+    "sa": [
+      "दूर्वा"
+    ],
+    "ar": [
+      "ثيل"
+    ],
+    "hi": [
+      "दूब घास"
+    ],
+    "ru": [
+      "свинорой пальчатый"
+    ],
+    "th": [
+      "หญ้าแพรก"
+    ],
+    "ca": [
+      "Grama"
+    ],
+    "la": [
+      "poacea Bermudica"
+    ],
+    "ne": [
+      "दूबो"
+    ],
+    "ka": [
+      "გლერტა"
+    ],
+    "az": [
+      "Barmaqvari çayır"
+    ],
+    "ko": [
+      "우산잔디"
+    ],
+    "eu": [
+      "Askimotz"
+    ],
+    "qu": [
+      "Chipika"
+    ],
+    "sr": [
+      "Zubača"
+    ],
+    "kk": [
+      "Бессаусақ қарашағыр"
+    ],
+    "nap": [
+      "Ramegna"
+    ],
+    "sv": [
+      "Hundtandsgräs"
+    ],
+    "uz": [
+      "Ajriq"
+    ],
+    "fa": [
+      "علف دوروا"
+    ],
+    "kn": [
+      "ಗರಿಕೆಹುಲ್ಲು"
+    ],
+    "cy": [
+      "Glaswellt Bermwda"
+    ],
+    "ky": [
+      "Ажырык"
+    ],
+    "bg": [
+      "обикновен троскот"
+    ],
+    "gu": [
+      "ધરો"
+    ],
+    "ast": [
+      "Grama"
+    ],
+    "su": [
+      "Kakawatan"
+    ],
+    "uk": [
+      "свинорий пальчастий"
+    ],
+    "am": [
+      "ሰርዶ"
+    ],
+    "be": [
+      "Свінарый пальцавы"
+    ],
+    "tg": [
+      "Аҷириқ"
+    ],
+    "yue": [
+      "狗牙草"
+    ],
+    "tcy": [
+      "ಕದಿಕೆ ಪಂತಿ"
+    ],
+    "sat": [
+      "ᱫᱷᱩᱵᱤ ᱜᱟᱥ"
+    ],
+    "as": [
+      "দুবৰি বন"
+    ],
+    "wuu": [
+      "狗牙根"
+    ],
+    "gom": [
+      "हरयाळी"
+    ],
+    "bm": [
+      "Narakataba"
+    ],
+    "my": [
+      "မြေဇာမြက်"
+    ],
+    "mr": [
+      "दूर्वा"
+    ],
+    "arz": [
+      "ثيل"
+    ],
+    "ban": [
+      "Padang lepas"
+    ],
+    "ace": [
+      "Naleueng sambô"
+    ],
+    "lv": [
+      "pirkstveida suņzobe"
+    ],
+    "pam": [
+      "Grama"
+    ],
+    "mg": [
+      "Fandrotrarana"
+    ],
+    "grc": [
+      "ἄγρωστις"
+    ],
+    "mai": [
+      "दुबि"
+    ],
+    "shn": [
+      "ယႃႈၽႅတ်ႈ"
+    ],
+    "ur": [
+      "دوروا"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q208705",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q208705",
+  "search_names": {
+    "ja": [
+      "バミューダグラス",
+      "タホマ31"
+    ],
+    "en": [
+      "Bermuda grass"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ギョウギシバ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%82%A6%E3%82%AE%E3%82%B7%E3%83%90",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 111091125,
+      "text": "ギョウギシバ は、単子葉植物イネ科ギョウギシバ属の多年草。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Cynodon dactylon」",
+      "source_url": "https://en.wikipedia.org/wiki/Cynodon_dactylon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1375092034,
+      "text": "Cynodon dactylon, commonly known as Bermuda grass or as couch grass in Australia and New Zealand, is a warm season grass found worldwide in warm and tropical climates. It is native to Europe, Africa, Australia, and much of Asia and has been introduced to the Americas."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Cynodon dactylon」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Cynodon_dactylon#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1375092034,
+        "heading": "Cultivation",
+        "text": "Cynodon dactylon is widely cultivated in warm climates all over the world between about 30° S and 30° N latitude, and in regions that receive between 625 and 1,750 mm (24.6 and 68.9 in) of rainfall a year, or less, if irrigation is available. For example, in the United States, it is grown mostly in the southern half of the country.\n\n■ Cultivars\nHundreds of cultivars have been created specifically for environmental tolerance and stakeholder requirements. New cultivars are released annually.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia 英語版「Cynodon dactylon」の節「Toxicity」",
+        "source_url": "https://en.wikipedia.org/wiki/Cynodon_dactylon#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1375092034,
+        "heading": "Toxicity",
+        "text": "The hybrid variety Tifton 85, like some other grasses (e.g. sorghum), produces cyanide under certain conditions, and has been implicated in several livestock deaths.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALD",
+      "ALG",
+      "AND",
+      "ANG",
+      "ASS",
+      "AUT",
+      "AZO",
+      "BAL",
+      "BAN",
+      "BEN",
+      "BIS",
+      "BKN",
+      "BOR",
+      "BOT",
+      "BUL",
+      "BUR",
+      "CAF",
+      "CBD",
+      "CHA",
+      "CHC",
+      "CHH",
+      "CHN",
+      "CHS",
+      "CMN",
+      "CNY",
+      "CON",
+      "COR",
+      "CPP",
+      "CPV",
+      "CVI",
+      "CYP",
+      "CZE",
+      "DJI",
+      "EAI",
+      "EGY",
+      "EHM",
+      "EQG",
+      "ERI",
+      "ETH",
+      "FRA",
+      "GAB",
+      "GAM",
+      "GGI",
+      "GHA",
+      "GNB",
+      "GRB",
+      "GRC",
+      "GST",
+      "GUI",
+      "HUN",
+      "IND",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "IVO",
+      "JAP",
+      "JAW",
+      "KAZ",
+      "KEN",
+      "KGZ",
+      "KOR",
+      "KRI",
+      "KRY",
+      "KUW",
+      "LAO",
+      "LBR",
+      "LBS",
+      "LBY",
+      "LDV",
+      "LES",
+      "LSI",
+      "MAU",
+      "MCI",
+      "MDG",
+      "MDR",
+      "MLI",
+      "MLW",
+      "MLY",
+      "MOL",
+      "MOR",
+      "MOZ",
+      "MTN",
+      "MYA",
+      "NAM",
+      "NAT",
+      "NCB",
+      "NCS",
+      "NEP",
+      "NGA",
+      "NGR",
+      "NNS",
+      "NSW",
+      "NTA",
+      "NWG",
+      "OFS",
+      "OGA",
+      "OMA",
+      "PAK",
+      "PAL",
+      "PHI",
+      "POR",
+      "QLD",
+      "REU",
+      "ROD",
+      "ROM",
+      "RUC",
+      "RUS",
+      "RWA",
+      "SAR",
+      "SAU",
+      "SCS",
+      "SEN",
+      "SEY",
+      "SIC",
+      "SIE",
+      "SIN",
+      "SOA",
+      "SOC",
+      "SOL",
+      "SOM",
+      "SPA",
+      "SRL",
+      "SUD",
+      "SUM",
+      "SWI",
+      "SWZ",
+      "TAI",
+      "TAN",
+      "TAS",
+      "TCS",
+      "THA",
+      "TKM",
+      "TOG",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TVL",
+      "TZK",
+      "UGA",
+      "UKR",
+      "UZB",
+      "VIC",
+      "VIE",
+      "WAU",
+      "WHM",
+      "WSA",
+      "YEM",
+      "YUG",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "introduced": [
+      "AGE",
+      "AGS",
+      "AGW",
+      "ALA",
+      "ALT",
+      "ARI",
+      "ARK",
+      "ARU",
+      "ASC",
+      "ASP",
+      "BAH",
+      "BER",
+      "BGM",
+      "BLZ",
+      "BOL",
+      "BRC",
+      "BZC",
+      "BZL",
+      "BZN",
+      "BZS",
+      "CAL",
+      "CAY",
+      "CGS",
+      "CKI",
+      "CLC",
+      "CLM",
+      "CLN",
+      "CNT",
+      "COL",
+      "COO",
+      "COS",
+      "CRL",
+      "CUB",
+      "DEL",
+      "DOM",
+      "DSV",
+      "EAS",
+      "ECU",
+      "ELS",
+      "FIJ",
+      "FLA",
+      "FRG",
+      "GAL",
+      "GEO",
+      "GER",
+      "GIL",
+      "GUA",
+      "GUY",
+      "HAI",
+      "HAW",
+      "HBI",
+      "HON",
+      "IDA",
+      "ILL",
+      "INI",
+      "IOW",
+      "IRK",
+      "JAM",
+      "KAN",
+      "KER",
+      "KTY",
+      "LEE",
+      "LIN",
+      "LOU",
+      "MAS",
+      "MIC",
+      "MNT",
+      "MRN",
+      "MRQ",
+      "MRS",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXI",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NCA",
+      "NEB",
+      "NET",
+      "NEV",
+      "NFK",
+      "NFL",
+      "NIC",
+      "NLA",
+      "NRU",
+      "NUE",
+      "NWC",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OHI",
+      "OKL",
+      "ORE",
+      "PAN",
+      "PAR",
+      "PEN",
+      "PER",
+      "PHX",
+      "PIT",
+      "PUE",
+      "SAM",
+      "SCA",
+      "SCI",
+      "STH",
+      "SUR",
+      "SWC",
+      "TCI",
+      "TDC",
+      "TEN",
+      "TEX",
+      "TOK",
+      "TON",
+      "TRT",
+      "TUA",
+      "TUB",
+      "URU",
+      "UTA",
+      "VAN",
+      "VEN",
+      "VNA",
+      "VRG",
+      "WAK",
+      "WAL",
+      "WAS",
+      "WDC",
+      "WIN",
+      "WVA",
+      "XMS"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/397065-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial or rhizomatous geophyte",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/397065-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000861178.webp",
+    "author": "Stefan.lefnaer",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cynodon_dactylon_sl4.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

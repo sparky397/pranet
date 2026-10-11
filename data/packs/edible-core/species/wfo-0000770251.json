@@ -1,0 +1,111 @@
+{
+  "id": "wfo-0000770251",
+  "scientific_name": "Vallisneria natans",
+  "authorship": "(Lour.) H.Hara",
+  "family": "Hydrocharitaceae",
+  "synonyms": [
+    "Physkium natans Lour.",
+    "Vallisneria asiatica Miki",
+    "Vallisneria biwaensis (Miki) Ohwi",
+    "Vallisneria higoensis (Miki) Ohwi",
+    "Vallisneria minor Ito",
+    "Vallisneria physcium Juss. ex Spreng.",
+    "Vallisneria spiraloides Roxb.",
+    "Vallisneria subulispatha (Makino) Koidz."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "セキショウモ"
+    ],
+    "zh": [
+      "苦草",
+      "香毛草",
+      "苦菜"
+    ],
+    "ko": [
+      "나사말"
+    ],
+    "lzh": [
+      "苦草"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q11314223",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q11314223",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「セキショウモ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AD%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%A2",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106365412,
+      "text": "セキショウモ(Vallisneria asiatica)は、トチカガミ科セキショウモ属に分類される沈水性の水草。和名は、葉がサトイモ科のセキショウに似ていることから付けられた。テープグラスやヴァリスとも呼ばれる。"
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ASS",
+      "CHC",
+      "CHM",
+      "CHN",
+      "CHS",
+      "IND",
+      "IRQ",
+      "JAP",
+      "KOR",
+      "NEP",
+      "PRM",
+      "TAI",
+      "VIE"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/431989-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "hydroperennial",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/431989-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000770251.webp",
+    "author": "Show_ryu",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vallisneria_asiatica.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

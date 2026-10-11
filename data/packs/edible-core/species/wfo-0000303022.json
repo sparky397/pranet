@@ -1,0 +1,211 @@
+{
+  "id": "wfo-0000303022",
+  "scientific_name": "Avicennia marina",
+  "authorship": "(Forssk.) Vierh.",
+  "family": "Acanthaceae",
+  "synonyms": [
+    "Sceura marina Forssk."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ヒルギダマシ"
+    ],
+    "en": [
+      "gray mangrove"
+    ],
+    "zh": [
+      "海茄冬",
+      "海榄雌",
+      "阳桃叶",
+      "白骨壤"
+    ],
+    "mg": [
+      "Mosotry"
+    ],
+    "ru": [
+      "Авиценния морская"
+    ],
+    "af": [
+      "Witseebasboom"
+    ],
+    "ms": [
+      "Pokok Api-api Jambu"
+    ],
+    "id": [
+      "Api-api putih"
+    ],
+    "vi": [
+      "mắm ổi"
+    ],
+    "ml": [
+      "ചെറിയ ഉപ്പട്ടി"
+    ],
+    "fa": [
+      "حرا"
+    ],
+    "ar": [
+      "قرم بحري"
+    ],
+    "bg": [
+      "морска авицения"
+    ],
+    "bn": [
+      "পেয়ারা বাইন"
+    ],
+    "he": [
+      "אביצניה ימית"
+    ],
+    "arz": [
+      "قرم بحرى"
+    ],
+    "ban": [
+      "Api-api"
+    ],
+    "cs": [
+      "kolíkovník mořský"
+    ],
+    "th": [
+      "แสมทะเล"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q312094",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q312094",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ヒルギダマシ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%AB%E3%82%AE%E3%83%80%E3%83%9E%E3%82%B7",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 107672784,
+      "text": "ヒルギダマシ はキツネノマゴ科ヒルギダマシ属の常緑木本。分類によってはクマツヅラ科や独立科であるヒルギダマシ科に含められることもある。潮間帯に生育するマングローブ樹種のひとつ。ヒルギという名がついているが、ヒルギ科・ヒルギモドキ（シクンシ科）などの植物とは別の系統に属する。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Avicennia marina」",
+      "source_url": "https://en.wikipedia.org/wiki/Avicennia_marina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1343878583,
+      "text": "Avicennia marina, commonly known as grey mangrove or white mangrove, is a species of mangrove tree classified in the plant family Acanthaceae. As with other mangroves, it occurs in the intertidal zones of estuarine areas."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "HF",
+      "IF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ALD",
+      "AND",
+      "BAN",
+      "BIS",
+      "BOR",
+      "CHH",
+      "CHS",
+      "CKI",
+      "COM",
+      "CPP",
+      "DJI",
+      "EGY",
+      "ERI",
+      "GST",
+      "IND",
+      "IRN",
+      "JAW",
+      "KEN",
+      "LSI",
+      "MCI",
+      "MDG",
+      "MLY",
+      "MOL",
+      "MOZ",
+      "MYA",
+      "NAT",
+      "NCB",
+      "NFK",
+      "NNS",
+      "NSW",
+      "NTA",
+      "NWC",
+      "NWG",
+      "NZN",
+      "OMA",
+      "PAK",
+      "PHI",
+      "QLD",
+      "SAU",
+      "SEY",
+      "SIN",
+      "SOA",
+      "SOC",
+      "SOL",
+      "SOM",
+      "SRL",
+      "SUD",
+      "SUL",
+      "SUM",
+      "TAI",
+      "TAN",
+      "THA",
+      "VAN",
+      "VIC",
+      "VIE",
+      "WAU",
+      "XMS",
+      "YEM"
+    ],
+    "introduced": [
+      "CAL"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/861130-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/861130-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000303022.webp",
+    "author": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Mangroves-between-Kg-Bubul-and-Kg-Air-Sri-Jaya-01.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 267,
+    "retrieved": "2026-10-09"
+  }
+}

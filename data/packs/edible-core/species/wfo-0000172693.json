@@ -1,0 +1,131 @@
+{
+  "id": "wfo-0000172693",
+  "scientific_name": "Pterocarpus erinaceus",
+  "authorship": "Poir.",
+  "family": "Fabaceae",
+  "synonyms": [
+    "Drepanocarpus senegalensis T.Nees & C.H.Eberm.",
+    "Echinodiscus erinaceus Benth. ex Walp.",
+    "Lingoum erinaceum Kuntze",
+    "Pterocarpus adansonii DC.",
+    "Pterocarpus africanus Hook.",
+    "Pterocarpus senegalensis Vahl ex DC."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "アフリカローズウッド"
+    ],
+    "en": [
+      "barwood"
+    ],
+    "zh": [
+      "刺猬紫檀"
+    ],
+    "wo": [
+      "Wén"
+    ],
+    "dag": [
+      "Nee"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q148770",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q148770",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「アフリカローズウッド」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%A6%E3%83%83%E3%83%89",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 110728713,
+      "text": "アフリカローズウッドあるいはアフリカキノカリン は、西アフリカのサヘル地域に自生する樹木であり、主に木工の材料として用いられ、薪や薬としても使用されるほか、ほとんど栄養分が失われている農地の土壌を改良する助けになる窒素固定の作用が大きい植物として有用である。様々な呼称があり、バーウッド (barwood)、ムニンガ (muninga)、ヴェネ (vène)、ムクワ (mukwa) などとも呼ばれるが、こうした名称はインドカリン属の他の種を含めて用いられることもある。西アフリカのサバナでは良く見つかるが、近年では減少が著しく、希少なものとなりつつあり、一部では栽培もされている。また、コートジボワールのコモエ国立公園のように、地理的にはサヘルに近いものの2本の大河が近傍を流れている関係で湿度が高い地域では、森の中にも生えている。ナイジェリアのタラバ州クルミでも豊かな植生が見られる。樹木の高さは平均11メートルに達し、樹皮は暗色で鱗状、黄色い花をつける。また、羽根のついた莢の形をした実を結ぶ。アフリカローズウッドは、日射の強いアフリカの平地でよく育ち、長い乾季や、火災にも耐える。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Pterocarpus erinaceus」",
+      "source_url": "https://en.wikipedia.org/wiki/Pterocarpus_erinaceus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1264167691,
+      "text": "Pterocarpus erinaceus is an endangered tree species native to the Sahelian region of West Africa. It is listed in Appendix II of the Convention on International Trade in Endangered Species of Wild Fauna and Flora. It is used for fuel wood, for medicinal purposes, as a woodworking material, and is useful as a nitrogen-fixing plant to improve nutrient-depleted farming land. It has several common names, including kosso, barwood, African kino tree, muninga, and vène; mukwa is used for this species as well as other Pterocarpus. Groves of the tree can be found on the savannahs of West Africa, but it is becoming increasingly rare and is sometimes cultivated. The tree also grows in forests of Comoé National Park in Côte d'Ivoire, a region geographically close to the Sahel but with a higher moisture regime due to its location between two large rivers. Also, the tree grows in abundance in Kurmi Local Govt. of Taraba State in Nigeria. The tree grows to about 11 meters in height on average, and bears dark, scaly bark and yellow flowers. The fruits are winged pods. P. erinaceus grows well on sunny, hot African plains with long dry seasons and frequent fires."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "IF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "BEN",
+      "BKN",
+      "CAF",
+      "CHA",
+      "CMN",
+      "GAB",
+      "GAM",
+      "GHA",
+      "GNB",
+      "GUI",
+      "IVO",
+      "LBR",
+      "MLI",
+      "NGA",
+      "NGR",
+      "SEN",
+      "SIE",
+      "TOG"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/516454-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/516454-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000172693.webp",
+    "author": "Marco Schmidt[1]",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pterocarpus_erinaceus_MS_4178.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

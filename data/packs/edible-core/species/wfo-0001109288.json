@@ -1,0 +1,182 @@
+{
+  "id": "wfo-0001109288",
+  "scientific_name": "Pteris ensiformis",
+  "authorship": "Burm.",
+  "family": "Pteridaceae",
+  "synonyms": [
+    "Acrostichum trifoliatum",
+    "Phorolobus chinensis Desv.",
+    "Pteris attenuata Blume",
+    "Pteris caudata Lour.",
+    "Pteris crenata Sw.",
+    "Pteris gracilis Roxb.",
+    "Pteris heterodactyla Reinw.; J.Sm.",
+    "Pteris multidentata Wall.",
+    "Pteris prionitis Fée",
+    "Pteris stricta Poir."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ホコシダ"
+    ],
+    "en": [
+      "slender brake"
+    ],
+    "zh": [
+      "箭葉鳳尾蕨",
+      "凤冠草",
+      "井边茜",
+      "剑叶凤尾蕨"
+    ],
+    "fr": [
+      "Ptéris à feuilles fines"
+    ],
+    "ar": [
+      "ديشار سيفي الشكل"
+    ],
+    "arz": [
+      "ديشار سيفى الشكل"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q3410386",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q3410386",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ホコシダ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%B3%E3%82%B7%E3%83%80",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 107515232,
+      "text": "ホコシダ は、イノモトソウ科イノモトソウ属のシダ植物。細長い羽片をつけ、イノモトソウなどに似るが、栄養葉の側羽片が裂ける。欧米で古くから栽培され、斑入り品などがある。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Pteris ensiformis」",
+      "source_url": "https://en.wikipedia.org/wiki/Pteris_ensiformis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1323630080,
+      "text": "Pteris ensiformis, the slender brake, silver lace fern, sword brake fern, or slender brake fern, is a plant species of the genus Pteris in the family Pteridaceae. It is found in Asia and the Pacific."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Pteris ensiformis」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Pteris_ensiformis#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1323630080,
+        "heading": "Cultivation",
+        "text": "Pteris ensiformis is cultivated as an ornamental plant for tropical and subtropical climate gardens, and as a house plant.\n\nCultivars\nPteris ensiformis 'Victoriae', the Victoria fern\nPteris ensiformis 'Evergemiensis'",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AND",
+      "ASS",
+      "BAN",
+      "BIS",
+      "BOR",
+      "CBD",
+      "CHC",
+      "CHH",
+      "CHS",
+      "CRL",
+      "EHM",
+      "FIJ",
+      "IND",
+      "JAP",
+      "LAO",
+      "LSI",
+      "MLY",
+      "MOL",
+      "MRN",
+      "MYA",
+      "NCB",
+      "NEP",
+      "NNS",
+      "NWC",
+      "NWG",
+      "PHI",
+      "QLD",
+      "SAM",
+      "SOL",
+      "SRL",
+      "SUL",
+      "TAI",
+      "THA",
+      "TON",
+      "VAN",
+      "VIE",
+      "WAL"
+    ],
+    "introduced": [
+      "AGE",
+      "ARK",
+      "BZE",
+      "BZL",
+      "BZN",
+      "BZS",
+      "CUB",
+      "FRG",
+      "HON",
+      "JAM",
+      "LEE",
+      "PUE",
+      "WIN"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/17212520-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "rhizomatous geophyte",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/17212520-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0001109288.webp",
+    "author": "Forest & Kim Starr",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Starr_080117-1749_Pteris_ensiformis.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

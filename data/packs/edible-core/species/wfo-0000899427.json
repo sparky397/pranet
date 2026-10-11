@@ -1,0 +1,210 @@
+{
+  "id": "wfo-0000899427",
+  "scientific_name": "Setaria palmifolia",
+  "authorship": "(J.Koenig) Stapf",
+  "family": "Poaceae",
+  "synonyms": [
+    "Agrostis plicata Lour.",
+    "Chaetochloa effusa (E.Fourn.) Hitchc.",
+    "Chaetochloa palmifolia (J.Koenig) Hitchc. & Chase",
+    "Chaetochloa sulcata (Aubl.) Hitchc.",
+    "Chamaeraphis effusa (E.Fourn.) Kuntze",
+    "Chamaeraphis nepalensis (Spreng.) Kuntze",
+    "Chamaeraphis neurodes (Schult.) Kuntze",
+    "Chamaeraphis palmifolia (J.Koenig) Kuntze",
+    "Chamaeraphis paniculifera (Steud.) Kuntze",
+    "Chamaeraphis sulcata (Aubl.) Kuntze",
+    "Panicum amplissimum Steud.",
+    "Panicum kleinianum Nees ex Andersson",
+    "Panicum lene Steud.",
+    "Panicum mexicanum Scribn. & Merr.",
+    "Panicum nepalense Spreng.",
+    "Panicum nervosum Roxb.",
+    "Panicum neurodes Schult.",
+    "Panicum palmatum R.Schleich.",
+    "Panicum palmifolia J.Koenig",
+    "Panicum palmifolium J.Koenig",
+    "Panicum paniculiferum Steud.",
+    "Panicum plicatum Roxb.",
+    "Panicum plicatum Willd.",
+    "Panicum sulcatum Aubl.",
+    "Setaria effusa E.Fourn.",
+    "Setaria lenis (Steud.) Miq.",
+    "Setaria paniculifera (Steud.) E.Fourn. ex Hemsl.",
+    "Setaria paniculifera E.Fourn.",
+    "Setaria sulcata (Aubl.) Desv."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ササキビ"
+    ],
+    "en": [
+      "palmgrass",
+      "bigleaf bristlegrass",
+      "palm grass"
+    ],
+    "zh": [
+      "棕葉狗尾草",
+      "棕叶狗尾草",
+      "竹头草",
+      "粽叶狗尾草"
+    ],
+    "pwn": [
+      "saluda"
+    ],
+    "yue": [
+      "棕葉狗尾草"
+    ],
+    "nan": [
+      "Hong-thai-chháu"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q11116561",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q11116561",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ササキビ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B5%E3%82%AD%E3%83%93",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106362426,
+      "text": "ササキビ はイネ科の植物の1つ。イネ科としては幅広くてヤシのように縦襞の多い大きな葉を持つ。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Setaria palmifolia」",
+      "source_url": "https://en.wikipedia.org/wiki/Setaria_palmifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1367579653,
+      "text": "Setaria palmifolia is a species of grass known by the common names palmgrass, highland pitpit, hailans pitpit, short pitpit, broadleaved bristlegrass, and knotroot."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AND",
+      "ASS",
+      "BAN",
+      "BOR",
+      "CHC",
+      "CHH",
+      "CHS",
+      "CHT",
+      "EHM",
+      "IND",
+      "JAP",
+      "JAW",
+      "LAO",
+      "LSI",
+      "MLY",
+      "MOL",
+      "MYA",
+      "NCB",
+      "NEP",
+      "NNS",
+      "NSW",
+      "NWG",
+      "PHI",
+      "QLD",
+      "SOL",
+      "SRL",
+      "SUL",
+      "SUM",
+      "TAI",
+      "THA",
+      "VIE",
+      "WHM"
+    ],
+    "introduced": [
+      "BLZ",
+      "BZN",
+      "BZS",
+      "CLM",
+      "COS",
+      "CUB",
+      "DOM",
+      "ECU",
+      "ELS",
+      "EQG",
+      "FIJ",
+      "FLA",
+      "GUA",
+      "HAI",
+      "HAW",
+      "HON",
+      "JAM",
+      "LEE",
+      "MDR",
+      "MOR",
+      "MRQ",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NFK",
+      "NIC",
+      "NZN",
+      "PAK",
+      "PAN",
+      "PUE",
+      "SAM",
+      "SOA",
+      "TRT",
+      "VEN",
+      "WAU",
+      "WIN"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/421711-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/421711-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000899427.webp",
+    "author": "Forest & Kim Starr",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Starr_020803-0065_Setaria_palmifolia.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

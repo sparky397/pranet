@@ -1,0 +1,107 @@
+{
+  "id": "wfo-0000687279",
+  "scientific_name": "Ficus ampelos",
+  "authorship": "Burm.f.",
+  "family": "Moraceae",
+  "synonyms": [
+    "Ficus asperior Miq.",
+    "Ficus bandana Miq.",
+    "Ficus blepharosepala Warb.",
+    "Ficus exasperata Roxb.",
+    "Ficus fachikoogi Koidz.",
+    "Ficus fastigiata Elmer",
+    "Ficus guyeri Elmer",
+    "Ficus hayatae Sata",
+    "Ficus irisana Elmer",
+    "Ficus javensis Miq.",
+    "Ficus kingiana Hemsl.",
+    "Ficus rubricaulis Decne.",
+    "Ficus rudis Pers.",
+    "Ficus sibuyanensis Elmer",
+    "Ficus soronensis King",
+    "Ficus tashiroi Maxim.",
+    "Ficus todayensis Elmer",
+    "Ficus validicaudata Merr."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ホソバムクイヌビワ"
+    ],
+    "zh": [
+      "菲律賓榕",
+      "菲律宾榕"
+    ],
+    "id": [
+      "Hampelas"
+    ],
+    "su": [
+      "Hampelas"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q12485163",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q12485163",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ホソバムクイヌビワ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BD%E3%83%90%E3%83%A0%E3%82%AF%E3%82%A4%E3%83%8C%E3%83%93%E3%83%AF",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 109954213,
+      "text": "ホソバムクイヌビワ はクワ科イチジク属の常緑低木〜小高木。"
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "BAN",
+      "BIS",
+      "BOR",
+      "JAW",
+      "LSI",
+      "MOL",
+      "NCB",
+      "NNS",
+      "NWG",
+      "PHI",
+      "SUL",
+      "SUM",
+      "TAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/852377-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/852377-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  }
+}

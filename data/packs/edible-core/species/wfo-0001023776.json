@@ -1,0 +1,261 @@
+{
+  "id": "wfo-0001023776",
+  "scientific_name": "Nicotiana glauca",
+  "authorship": "Graham",
+  "family": "Solanaceae",
+  "synonyms": [
+    "Acnistus virgatus Griseb.",
+    "Nicotiana genuina Millán",
+    "Nicotiana glauca Graham",
+    "Nicotiana lateritia Lillo",
+    "Nicotidendron glauca (Graham) Griseb.",
+    "Siphaulax glabra Raf."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "キダチタバコ"
+    ],
+    "en": [
+      "tree tobacco"
+    ],
+    "fi": [
+      "pensastupakka"
+    ],
+    "zh": [
+      "光烟草"
+    ],
+    "af": [
+      "jan-twak",
+      "tabakbos",
+      "volstruisgif",
+      "volstruisgifboom",
+      "wildetabak",
+      "wildetwak"
+    ],
+    "st": [
+      "mohlafotha"
+    ],
+    "ru": [
+      "Табачное дерево"
+    ],
+    "qu": [
+      "Hatun sayri"
+    ],
+    "wa": [
+      "Blåwe toubak"
+    ],
+    "ca": [
+      "tabac de jardí"
+    ],
+    "de": [
+      "Blaugrüner Tabak"
+    ],
+    "mdf": [
+      "Табаконь шуфта"
+    ],
+    "sv": [
+      "Blåtobak"
+    ],
+    "mk": [
+      "дрвенест тутун"
+    ],
+    "lv": [
+      "Pelēkā tabaka"
+    ],
+    "he": [
+      "טבק השיח"
+    ],
+    "ar": [
+      "تبغ أزرق"
+    ],
+    "pl": [
+      "Tytoń siny"
+    ],
+    "fa": [
+      "توتون درختچه‌ای"
+    ],
+    "arz": [
+      "تبغ ازرق"
+    ],
+    "frr": [
+      "Buumtabak"
+    ],
+    "el": [
+      "Αγριοκαπνός"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q882908",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q882908",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「キダチタバコ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%80%E3%83%81%E3%82%BF%E3%83%90%E3%82%B3",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106358380,
+      "text": "キダチタバコ は、タバコ属の1種。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Nicotiana glauca」",
+      "source_url": "https://en.wikipedia.org/wiki/Nicotiana_glauca",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1367638144,
+      "text": "Nicotiana glauca is a species of flowering plant in the tobacco genus Nicotiana of the nightshade family Solanaceae. It is known by the common name tree tobacco. Its leaves are attached to the stalk by petioles, and its leaves and stems are neither pubescent nor sticky like Nicotiana tabacum. It resembles Cestrum parqui but differs in the form of leaves and fusion of the outer floral parts. It grows to heights of more than two meters."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AGE",
+      "AGW",
+      "BOL",
+      "BZS",
+      "CLC",
+      "CLN",
+      "PAR",
+      "URU"
+    ],
+    "introduced": [
+      "ALA",
+      "ALG",
+      "ANG",
+      "ARI",
+      "ASC",
+      "BAL",
+      "BER",
+      "BOT",
+      "BUR",
+      "BZC",
+      "BZE",
+      "BZL",
+      "CAL",
+      "CLM",
+      "CNY",
+      "COR",
+      "CPI",
+      "CPP",
+      "CUB",
+      "CVI",
+      "CYP",
+      "EAI",
+      "ECU",
+      "EGY",
+      "ERI",
+      "ETH",
+      "FLA",
+      "FRA",
+      "GEO",
+      "GER",
+      "GRC",
+      "GUA",
+      "HAW",
+      "HON",
+      "IND",
+      "ITA",
+      "JAM",
+      "KEN",
+      "KRI",
+      "LBS",
+      "LBY",
+      "LES",
+      "MAU",
+      "MDR",
+      "MOR",
+      "MOZ",
+      "MSI",
+      "MTN",
+      "MXC",
+      "MXE",
+      "MXI",
+      "MXN",
+      "MXS",
+      "NAM",
+      "NAT",
+      "NEV",
+      "NSW",
+      "NWC",
+      "NWM",
+      "OFS",
+      "PAL",
+      "PER",
+      "POR",
+      "QLD",
+      "REU",
+      "RWA",
+      "SAR",
+      "SAU",
+      "SEL",
+      "SIC",
+      "SIN",
+      "SOA",
+      "SPA",
+      "STH",
+      "SUD",
+      "TEX",
+      "TUN",
+      "TUR",
+      "TVL",
+      "VEN",
+      "VIC",
+      "WAU",
+      "WHM",
+      "WIN",
+      "ZAM",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/816941-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/816941-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0001023776.webp",
+    "author": "Miwasatoshi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Nicotiana-glauca-20080330.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

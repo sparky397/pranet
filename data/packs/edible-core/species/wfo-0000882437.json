@@ -1,0 +1,173 @@
+{
+  "id": "wfo-0000882437",
+  "scientific_name": "Oryza rufipogon",
+  "authorship": "Griff.",
+  "family": "Poaceae",
+  "synonyms": [
+    "Oryza aquatica Roshev.",
+    "Oryza cubensis Ekman ex K.Gotoh & Okura",
+    "Oryza fatua J.Koenig ex Trin.",
+    "Oryza glumaepatula Steud.",
+    "Oryza glumipatula Steud.",
+    "Oryza jeyporensis Govindasw. & K.H.Krishnam.",
+    "Oryza meridionalis N.Q.Ng",
+    "Oryza nivara S.D.Sharma & Shastry",
+    "Oryza paraguayensis Franch.",
+    "Oryza paraguayensis Wedd. ex E.Fourn."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "オリザ・ルフィポゴン"
+    ],
+    "en": [
+      "brownbeard rice"
+    ],
+    "zh": [
+      "野生稻",
+      "糯稻",
+      "糯米",
+      "稻草",
+      "糯稻根"
+    ],
+    "nan": [
+      "Kui-á-tiū"
+    ],
+    "th": [
+      "หญ้าข้าวผี"
+    ],
+    "ar": [
+      "أرز اللحية البنية"
+    ],
+    "id": [
+      "Padi beras merah"
+    ],
+    "shn": [
+      "တူၼ်ႈၶဝ်ႈဢူဝ်ႇရီႇၸႃႇ"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q2217322",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q2217322",
+  "search_names": {
+    "en": [
+      "Red Rice",
+      "Wild Rice"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「オリザ・ルフィポゴン」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%82%B6%E3%83%BB%E3%83%AB%E3%83%95%E3%82%A3%E3%83%9D%E3%82%B4%E3%83%B3",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 110444309,
+      "text": "オリザ・ルフィポゴン は、イネ科イネ属の植物である。和名はノイネあるいはヒゲナガノイネ、英語では「weedy red rice」「brownbeard rice」などと呼ばれ、中国語では「普通野生稲」と呼ばれている。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Oryza rufipogon」",
+      "source_url": "https://en.wikipedia.org/wiki/Oryza_rufipogon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1360715348,
+      "text": "Oryza rufipogon is a species of flowering plant in the family Poaceae. It is known as brownbeard rice, wild rice, and red rice. In 1965, Oryza nivara was separated off from O. rufipogon. The separation has been questioned, and now many sources consider O. nivara to be a synonym of O. rufipogon. O. nivara may be treated as the annual form of O. rufipogon."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "GS",
+      "HF",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ASS",
+      "BAN",
+      "CBD",
+      "CHC",
+      "CHH",
+      "CHS",
+      "IND",
+      "JAW",
+      "MLY",
+      "MYA",
+      "NEP",
+      "NTA",
+      "NWG",
+      "PHI",
+      "QLD",
+      "SUM",
+      "TAI",
+      "THA",
+      "VIE",
+      "WAU",
+      "WHM"
+    ],
+    "introduced": [
+      "AGE",
+      "BOL",
+      "BZC",
+      "BZN",
+      "CAL",
+      "CLM",
+      "COS",
+      "CUB",
+      "DOM",
+      "ECU",
+      "FLA",
+      "FRG",
+      "GUY",
+      "HAI",
+      "HON",
+      "MXS",
+      "PAR",
+      "SUR",
+      "VEN",
+      "WIN"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/410115-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial or annual",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/410115-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000882437.webp",
+    "author": "Daderot",
+    "license": "CC0 1.0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Oryza_rufipogon_-_National_Taiwan_University_-_DSC01108.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 267,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

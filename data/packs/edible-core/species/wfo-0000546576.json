@@ -1,0 +1,106 @@
+{
+  "id": "wfo-0000546576",
+  "scientific_name": "Scirpus ternatanus",
+  "authorship": "Reinw. ex Miq.",
+  "family": "Cyperaceae",
+  "synonyms": [
+    "Scirpus chinensis Munro"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "オオアブラガヤ"
+    ],
+    "zh": [
+      "大莞草",
+      "百穗藨草"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q10937788",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q10937788",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「オオアブラガヤ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%A2%E3%83%96%E3%83%A9%E3%82%AC%E3%83%A4",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 110083232,
+      "text": "オオアブラガヤ は、カヤツリグサ科の植物の1つ。アブラガヤなどに似るが小穂が丸っこく、また匍匐枝を出す。"
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ASS",
+      "BAN",
+      "BOR",
+      "CHC",
+      "CHH",
+      "CHN",
+      "CHS",
+      "CHT",
+      "EHM",
+      "JAP",
+      "JAW",
+      "MOL",
+      "MYA",
+      "NNS",
+      "NWG",
+      "OGA",
+      "PHI",
+      "SUL",
+      "SUM",
+      "TAI",
+      "THA",
+      "VIE",
+      "WHM"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/314393-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/314393-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000546576.webp",
+    "author": "Jidanni",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:P_20190331_110010_vHDR_On.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 225,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

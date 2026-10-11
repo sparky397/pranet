@@ -1,0 +1,196 @@
+{
+  "id": "wfo-0001421768",
+  "scientific_name": "Heliotropium arboreum",
+  "authorship": "(Blanco) Mabb.",
+  "family": "Heliotropiaceae",
+  "synonyms": [
+    "Argusia argentea (L.f.) Heine",
+    "Heliotropium foertherianum Diane & Hilger",
+    "Messerschmidia argentea (L.) I.M.Johnst.",
+    "Tournefortia arborea Blanco",
+    "Tournefortia argentea L.f."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "モンパノキ"
+    ],
+    "hi": [
+      "वृक्ष सूर्यानुवर्त"
+    ],
+    "de": [
+      "Samtblatt"
+    ],
+    "vi": [
+      "Phong ba"
+    ],
+    "th": [
+      "งวงช้างทะเล"
+    ],
+    "to": [
+      "Touhuni"
+    ],
+    "zh": [
+      "银毛树"
+    ],
+    "ar": [
+      "تورنفورية فضية"
+    ],
+    "ml": [
+      "ഒക്ടോപസ് ബുഷ്"
+    ],
+    "ty": [
+      "Tahinu"
+    ],
+    "et": [
+      "sametlehine heliotroop"
+    ],
+    "arz": [
+      "تورنفوريه فضيه"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q2065214",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q2065214",
+  "search_names": {
+    "en": [
+      "Argusia argentea"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「モンパノキ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%91%E3%83%8E%E3%82%AD",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 107362405,
+      "text": "モンパノキ は、ムラサキ科キダチルリソウ属の常緑低木〜小高木。別名、ハマムラサキノキ（浜紫の木）。シノニムの argentea は「銀色の」の意味で、葉や若い枝に銀色の毛があることに由来する。中国名は、銀毛樹。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Heliotropium arboreum」",
+      "source_url": "https://en.wikipedia.org/wiki/Heliotropium_arboreum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1367421106,
+      "text": "Heliotropium arboreum is a species of flowering plant in the family Heliotropiaceae. It is native to tropical Asia including southern China, Madagascar, northern Australia, and most of the atolls and high islands of Micronesia and Polynesia. Common names include velvetleaf soldierbush, tree heliotrope, veloutier, and octopus bush. It is a shrub or small tree typical of littoral zones reaching a height of 3.6 m (12 ft), with a spread of about 5 m (16 ft)."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ALD",
+      "AND",
+      "BOR",
+      "CGS",
+      "CHH",
+      "CKI",
+      "COO",
+      "CRL",
+      "FIJ",
+      "GIL",
+      "JAP",
+      "JAW",
+      "KEN",
+      "LDV",
+      "LIN",
+      "LSI",
+      "MAU",
+      "MCI",
+      "MCS",
+      "MDG",
+      "MDV",
+      "MLY",
+      "MOL",
+      "MOZ",
+      "MRN",
+      "MRS",
+      "NCB",
+      "NNS",
+      "NRU",
+      "NUE",
+      "NWC",
+      "NWG",
+      "OGA",
+      "PHI",
+      "PHX",
+      "PIT",
+      "QLD",
+      "REU",
+      "ROD",
+      "SAM",
+      "SCI",
+      "SCS",
+      "SEY",
+      "SOL",
+      "SOM",
+      "SRL",
+      "SUL",
+      "SUM",
+      "TAI",
+      "TAN",
+      "THA",
+      "TOK",
+      "TON",
+      "TUA",
+      "TUB",
+      "TUV",
+      "VAN",
+      "VIE",
+      "WAK",
+      "WAL",
+      "WAU",
+      "XMS"
+    ],
+    "introduced": [
+      "HAW"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/77164241-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/77164241-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0001421768.webp",
+    "author": "Forest & Kim Starr",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Starr_010520-0073_Tournefortia_argentea.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

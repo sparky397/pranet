@@ -1,0 +1,731 @@
+{
+  "id": "wfo-0000600897",
+  "scientific_name": "Chenopodium album",
+  "authorship": "L.",
+  "family": "Chenopodiaceae",
+  "synonyms": [
+    "Anserina candidans (Lam.) Montandon",
+    "Atriplex alba (L.) Crantz",
+    "Atriplex viridis (L.) Crantz",
+    "Blitum viride (L.) Moench",
+    "Botrys alba (L.) Nieuwl.",
+    "Botrys ferulata Lunell",
+    "Botrys pagana (Rchb.) Lunell",
+    "Chenopodium agreste E.H.L.Krause",
+    "Chenopodium bernburgense (Murr) Druce",
+    "Chenopodium bicolor Bojer ex Moq.",
+    "Chenopodium borbasiforme (Murr) Druce",
+    "Chenopodium browneanum Schult.",
+    "Chenopodium candicans Lam.",
+    "Chenopodium catenulatum Schleich. ex Steud.",
+    "Chenopodium concatenatum Willd.",
+    "Chenopodium densifoliatum (Ludw. & Aellen) F.Dvorák",
+    "Chenopodium elatum Shuttlew. ex Moq.",
+    "Chenopodium ferulatum Lunell",
+    "Chenopodium glomerulosum Rchb.",
+    "Chenopodium laciniatum Roxb.",
+    "Chenopodium lanceolatum Muhl. ex Willd.",
+    "Chenopodium lanceolatum R.Br.",
+    "Chenopodium leiospermum DC.",
+    "Chenopodium lobatum (Prodan) F.Dvorák",
+    "Chenopodium missouriense Aellen",
+    "Chenopodium neglectum Dumort.",
+    "Chenopodium neoalbum F.Dvorák",
+    "Chenopodium opulaceum Neck.",
+    "Chenopodium ovalifolium F.Dvorák",
+    "Chenopodium paganum Rchb.",
+    "Chenopodium paucidentatum (Aellen) F.Dvorák",
+    "Chenopodium pedunculare Bertol.",
+    "Chenopodium probstii Aellen",
+    "Chenopodium riparium Boenn. ex Moq.",
+    "Chenopodium serotinum Ledeb.",
+    "Chenopodium subaphyllum Phil.",
+    "Chenopodium superalbum F.Dvorák",
+    "Chenopodium viride L.",
+    "Chenopodium viridescens (St.-Amans) Dalla Torre & Sarnth.",
+    "Chenopodium vulgare Gueldenst. ex Ledeb.",
+    "Chenopodium vulpinum Buch.-Ham.",
+    "Chenopodium zobelii Murr ex Asch. & Graebn.",
+    "Chenopodium zobelli A.Ludw. & Aellen"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "シロザ",
+      "白藜",
+      "藜"
+    ],
+    "en": [
+      "Fat-hen"
+    ],
+    "af": [
+      "Withondebossie"
+    ],
+    "cy": [
+      "troed-yr-ŵydd gwyn"
+    ],
+    "az": [
+      "Ağımtıl tərə"
+    ],
+    "be": [
+      "Лебяда белая"
+    ],
+    "ar": [
+      "زربيح أبيض",
+      "سرمق أبيض"
+    ],
+    "bn": [
+      "বথুয়া"
+    ],
+    "ca": [
+      "Blet blanc"
+    ],
+    "cs": [
+      "merlík bílý"
+    ],
+    "csb": [
+      "Łapùcha"
+    ],
+    "da": [
+      "Hvidmelet Gåsefod"
+    ],
+    "de": [
+      "Ackermelde",
+      "Schissmelle",
+      "Weißer Gänsefuß"
+    ],
+    "es": [
+      "ajea",
+      "altos",
+      "armuelle borde",
+      "armuelle silvestre",
+      "armuelle",
+      "armuelles bordes",
+      "armuelles silvestres",
+      "berza de perros",
+      "berza perruna",
+      "bledo",
+      "bledos pestosos",
+      "bledos",
+      "bletos",
+      "burriquesos",
+      "cagadós",
+      "cañizo",
+      "cedijo",
+      "cenicera",
+      "ceñidros",
+      "ceñiglo blanco",
+      "ceñiglo verde",
+      "ceñiglo",
+      "ceñiglos",
+      "ceñigo",
+      "cenilgo",
+      "ceñilgo",
+      "ceñilgos",
+      "ceñilos",
+      "ceñisgo",
+      "ceniso",
+      "cenizo blanco",
+      "cenizo común",
+      "cenizo verde",
+      "Cenizo",
+      "cenizos",
+      "chamarisco",
+      "chinizo",
+      "cimielga",
+      "cincho",
+      "ciñidro",
+      "ciñilgos",
+      "ciñilos",
+      "ciñublo",
+      "cisno",
+      "desajo",
+      "engordagochos",
+      "fariñento",
+      "fenifo",
+      "fenijo",
+      "flor de la sardina",
+      "gajo",
+      "genifro",
+      "genijo",
+      "genillo",
+      "hagea lebrel",
+      "hierba cana",
+      "jajo caballar",
+      "jajo rastrero",
+      "jajo",
+      "jenijo",
+      "ledo blanco",
+      "mata sucia",
+      "meldrasco",
+      "meldro",
+      "minjo",
+      "palero",
+      "peral",
+      "pispájaro",
+      "quinhuilla",
+      "quinua silvestre",
+      "salao",
+      "senisell",
+      "senizu",
+      "yebón",
+      "yerba mala",
+      "zeniziallo",
+      "zeniziello",
+      "zenizón"
+    ],
+    "et": [
+      "Valge hanemalts"
+    ],
+    "eu": [
+      "Sabi hostozuri"
+    ],
+    "fa": [
+      "سلمک (گیاه)"
+    ],
+    "fi": [
+      "Jauhosavikka",
+      "Saviheinä"
+    ],
+    "fr": [
+      "Ansérine blanche",
+      "Chénopode blanc",
+      "Chou gras",
+      "Drageline",
+      "Poule-grasse",
+      "Poulette grasse",
+      "Senousse"
+    ],
+    "gd": [
+      "Càl Slapach"
+    ],
+    "gl": [
+      "Fariñento",
+      "Fariñón",
+      "Farnelo",
+      "Farnento"
+    ],
+    "he": [
+      "כף אווז לבנה"
+    ],
+    "hi": [
+      "बथुआ"
+    ],
+    "hr": [
+      "Pepeljuga"
+    ],
+    "hsb": [
+      "Běła pólšica",
+      "Žerich"
+    ],
+    "hu": [
+      "Fehér libatop"
+    ],
+    "hy": [
+      "Թելուկ սպիտակ"
+    ],
+    "it": [
+      "Farinello comune"
+    ],
+    "ko": [
+      "는장이",
+      "명아주"
+    ],
+    "lmo": [
+      "Farinèl",
+      "Farinèla",
+      "Farinèle"
+    ],
+    "lt": [
+      "Baltoji balanda"
+    ],
+    "mk": [
+      "Бела лобода",
+      "бела дива лобода"
+    ],
+    "ml": [
+      "വാസ്തുചീര"
+    ],
+    "mr": [
+      "चाकवत"
+    ],
+    "my": [
+      "မြူ",
+      "မြူရွက်"
+    ],
+    "nb": [
+      "Meldestokk"
+    ],
+    "ne": [
+      "बेथु"
+    ],
+    "nl": [
+      "Melganzenvoet",
+      "Melganzevoet",
+      "witte ganzevoet"
+    ],
+    "nn": [
+      "Meldestokk"
+    ],
+    "nv": [
+      "Díkʼǫ́ǫ́zhí yiltʼąąʼí",
+      "Tłʼohdeeítsoh"
+    ],
+    "pa": [
+      "ਬਾਥੂ"
+    ],
+    "pcd": [
+      "Mayeule"
+    ],
+    "pl": [
+      "Komosa biała"
+    ],
+    "pnb": [
+      "باتھو"
+    ],
+    "pt": [
+      "Ancarinha-branca"
+    ],
+    "qu": [
+      "K'ita kinwa",
+      "Khuchi kinwa",
+      "Kinwilla",
+      "Kuchi kinwa",
+      "Llikcha",
+      "Lliqcha"
+    ],
+    "ro": [
+      "Laba gastei"
+    ],
+    "ru": [
+      "Марь белая",
+      "Марь обыкновенная"
+    ],
+    "sk": [
+      "mrlík biely"
+    ],
+    "sl": [
+      "bela metlika"
+    ],
+    "sv": [
+      "Svinmålla",
+      "Vitmålla"
+    ],
+    "tr": [
+      "Ak kazayağı"
+    ],
+    "udm": [
+      "Няньпот",
+      "Сиёнпот"
+    ],
+    "uk": [
+      "Лобода біла"
+    ],
+    "zh": [
+      "灰菜",
+      "灰藜",
+      "藜",
+      "藜实",
+      "灰藋子"
+    ],
+    "ast": [
+      "ciñiplu"
+    ],
+    "bg": [
+      "бяла куча лобода"
+    ],
+    "kk": [
+      "Ақ алабота"
+    ],
+    "sgs": [
+      "Balonda"
+    ],
+    "mn": [
+      "Цагаан лууль"
+    ],
+    "ga": [
+      "blonagán bán"
+    ],
+    "eo": [
+      "Blanka kenopodio"
+    ],
+    "azb": [
+      "یاغلیجا"
+    ],
+    "ur": [
+      "باتھو"
+    ],
+    "is": [
+      "Hélunjóli"
+    ],
+    "sat": [
+      "ᱵᱟᱛᱷᱩᱣᱟ ᱟᱲᱟᱜ"
+    ],
+    "diq": [
+      "Leğendur"
+    ],
+    "wuu": [
+      "藜"
+    ],
+    "lzh": [
+      "藜"
+    ],
+    "ka": [
+      "თეთრი ნაცარქათამა"
+    ],
+    "arz": [
+      "سرمق ابيض"
+    ],
+    "cv": [
+      "Ахаль суя мăян"
+    ],
+    "mi": [
+      "huainanga"
+    ],
+    "os": [
+      "Урс футæг"
+    ],
+    "lv": [
+      "Baltā balanda"
+    ],
+    "ta": [
+      "சக்கரவர்த்திக் கீரை"
+    ],
+    "as": [
+      "জিলমিল"
+    ],
+    "shn": [
+      "ၽၵ်းၵိူဝ်"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q158610",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q158610",
+  "search_names": {
+    "en": [
+      "fat hen"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「シロザ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%82%B6",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 109772893,
+      "text": "シロザ は、ヒユ科アカザ属の一年草。道端や荒地などに生える雑草。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Chenopodium album」",
+      "source_url": "https://en.wikipedia.org/wiki/Chenopodium_album",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1369230293,
+      "text": "Chenopodium album is a fast-growing annual plant in the flowering plant family Amaranthaceae. Though cultivated in some regions, the plant is elsewhere considered a weed. Common names include lamb's quarters, melde, goosefoot, wild spinach and fat-hen, though several are also applied to other species of the genus Chenopodium, for which reason it is often distinguished as white goosefoot."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Chenopodium album」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Chenopodium_album#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1369230293,
+        "heading": "Cultivation",
+        "text": "■ Regions\nThe species are cultivated as a grain or vegetable crop (such as in lieu of spinach), as well as animal feed in Asia and Africa, whereas in Europe and North America, it is commonly regarded as a weed in places such as potato fields, while in Australia it is naturalised in all states and regarded as an environmental weed in New South Wales, Victoria, Western Australia and the Northern Territory. While var. album is considered invasive in some regions of the U.S., var. missouriense is native.\n\n■ Potential impact on conventional crops\nIt is one of the more robust and competitive weeds, exceptionally capable of colonizing new areas. It may produce up to 50 million seeds per hectare, its seeds remain viable 30 to 40 years in the soil, and it exhibits high phenotype plasticity, modifying its growth form for the conditions it is in. It may be controlled by dark tillage, rotary hoeing, or flaming when the plants are small. Crop rotation of small grains will suppress an infestation. It is easily controlled with a number of pre-emergence herbicides. Its pollen may contribute to hay fever-like allergies.\n\n■ Pest control\nChenopodium album is vulnerable to leaf miners, making it a useful trap crop as a companion plant. Growing near other plants, it attracts leaf miners which might otherwise have attacked the crop to be protected. It is a host plant for the beet leafhopper, an insect which transmits curly top virus to beet crops.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALA",
+      "ALB",
+      "ALG",
+      "ALT",
+      "AMU",
+      "ARK",
+      "ASS",
+      "AUT",
+      "AZO",
+      "BAL",
+      "BAN",
+      "BGM",
+      "BLR",
+      "BLT",
+      "BRY",
+      "BUL",
+      "CHC",
+      "CHH",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHQ",
+      "CHS",
+      "CHT",
+      "CHX",
+      "CNT",
+      "CNY",
+      "COR",
+      "CTA",
+      "CVI",
+      "CYP",
+      "CZE",
+      "DEL",
+      "DJI",
+      "EAI",
+      "EGY",
+      "EHM",
+      "ETH",
+      "FLA",
+      "FRA",
+      "GEO",
+      "GER",
+      "GRB",
+      "GRC",
+      "GST",
+      "HUN",
+      "ILL",
+      "IND",
+      "INI",
+      "IRE",
+      "IRK",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "JAP",
+      "KAM",
+      "KAZ",
+      "KGZ",
+      "KHA",
+      "KOR",
+      "KRA",
+      "KRI",
+      "KRY",
+      "KTY",
+      "KUR",
+      "KUW",
+      "LBS",
+      "LBY",
+      "LOU",
+      "MAG",
+      "MAI",
+      "MAS",
+      "MDR",
+      "MIC",
+      "MON",
+      "MOR",
+      "MRY",
+      "MSI",
+      "NCA",
+      "NCS",
+      "NDA",
+      "NEB",
+      "NEP",
+      "NET",
+      "NNS",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "OGA",
+      "OHI",
+      "OMA",
+      "PAK",
+      "PAL",
+      "PEN",
+      "POL",
+      "POR",
+      "PRM",
+      "RHO",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUN",
+      "RUS",
+      "RUW",
+      "SAK",
+      "SAR",
+      "SAU",
+      "SCA",
+      "SIC",
+      "SIN",
+      "SPA",
+      "SWI",
+      "TAI",
+      "TCS",
+      "TEN",
+      "TKM",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TVA",
+      "TZK",
+      "UKR",
+      "UZB",
+      "VER",
+      "VRG",
+      "WDC",
+      "WHM",
+      "WSB",
+      "YAK",
+      "YEM",
+      "YUG"
+    ],
+    "introduced": [
+      "ABT",
+      "AGE",
+      "AGS",
+      "AGW",
+      "ARI",
+      "ASK",
+      "ATP",
+      "BAH",
+      "BER",
+      "BOL",
+      "BOT",
+      "BRC",
+      "BZC",
+      "BZL",
+      "BZS",
+      "CAL",
+      "CLC",
+      "CLM",
+      "CLN",
+      "CLS",
+      "CMN",
+      "COL",
+      "COS",
+      "CPP",
+      "CTM",
+      "CUB",
+      "DEN",
+      "DOM",
+      "ECU",
+      "FIN",
+      "FOR",
+      "GGI",
+      "HAW",
+      "ICE",
+      "IDA",
+      "IOW",
+      "JAW",
+      "KAN",
+      "KEN",
+      "KER",
+      "LAB",
+      "LES",
+      "MAN",
+      "MAU",
+      "MIN",
+      "MNT",
+      "MOZ",
+      "MRN",
+      "MSO",
+      "MTN",
+      "MXN",
+      "MXS",
+      "NAM",
+      "NAT",
+      "NBR",
+      "NEV",
+      "NFK",
+      "NFL",
+      "NOR",
+      "NSC",
+      "NSW",
+      "NTA",
+      "NUN",
+      "NWC",
+      "NWT",
+      "NZN",
+      "NZS",
+      "OFS",
+      "OKL",
+      "ONT",
+      "ORE",
+      "PAN",
+      "PAR",
+      "PEI",
+      "PER",
+      "QLD",
+      "QUE",
+      "SAS",
+      "SDA",
+      "SEY",
+      "SOA",
+      "SRL",
+      "SWE",
+      "SWZ",
+      "TAS",
+      "TDC",
+      "TEX",
+      "TVL",
+      "URU",
+      "UTA",
+      "WAS",
+      "WAU",
+      "WIS",
+      "WVA",
+      "WYO",
+      "YUK",
+      "ZAM",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/55993-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/55993-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000600897.webp",
+    "author": "Rasbak",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Melganzenvoet_bloeiwijze_Chenopodium_album.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 266,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

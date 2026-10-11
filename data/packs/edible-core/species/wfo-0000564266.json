@@ -1,0 +1,80 @@
+{
+  "id": "wfo-0000564266",
+  "scientific_name": "Bergera koenigii",
+  "authorship": "L.",
+  "family": "Rutaceae",
+  "synonyms": [
+    "Bergera siamensis (Craib) F.J.Mou",
+    "Camunium koenigii (Spreng.) Kuntze",
+    "Chalcas koenigii Kurz",
+    "Chalcas siamensis (Craib) Tanaka",
+    "Murraya foetidissima Teijsm. & Binn.",
+    "Murraya koenigii (L.) Spreng.",
+    "Murraya siamensis Craib",
+    "Nimbo melioides Dennst."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q39837286",
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ASS",
+      "BAN",
+      "CBD",
+      "CHC",
+      "CHH",
+      "CHS",
+      "EHM",
+      "IND",
+      "LAO",
+      "MLY",
+      "NEP",
+      "PAK",
+      "SRL",
+      "THA",
+      "VIE",
+      "WHM"
+    ],
+    "introduced": [
+      "AND",
+      "FIJ",
+      "GST",
+      "JAW",
+      "LDV",
+      "MDV",
+      "NCB",
+      "SUM",
+      "XMS"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/771522-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/771522-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  }
+}

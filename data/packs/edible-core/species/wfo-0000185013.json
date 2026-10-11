@@ -1,0 +1,104 @@
+{
+  "id": "wfo-0000185013",
+  "scientific_name": "Canavalia lineata",
+  "authorship": "(Thunb.) DC.",
+  "family": "Fabaceae",
+  "synonyms": [
+    "Dolichos lineatus Murray",
+    "Dolichos lineatus Thunb."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ハマナタマメ"
+    ],
+    "zh": [
+      "肥豬豆",
+      "狭刀豆"
+    ],
+    "ko": [
+      "해녀콩"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15245945",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q15245945",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ハマナタマメ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%83%8A%E3%82%BF%E3%83%9E%E3%83%A1",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 108499025,
+      "text": "ハマナタマメ は、マメ科ナタマメ属に分類される多年草の1種。海岸に生え、ピンクの花をつける。"
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "BAN",
+      "CBD",
+      "CHH",
+      "CHS",
+      "JAP",
+      "JAW",
+      "KOR",
+      "KZN",
+      "MLY",
+      "NNS",
+      "OGA",
+      "PHI",
+      "SUM",
+      "TAI",
+      "THA",
+      "VIE"
+    ],
+    "introduced": [
+      "MDV"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/483666-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "climbing perennial or subshrub",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/483666-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000185013.webp",
+    "author": "J.M.Garg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Canavalia_lineata_(sagar-abai)_in_Kawal,_AP_Im_IMG_2205.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 316,
+    "retrieved": "2026-10-09"
+  }
+}

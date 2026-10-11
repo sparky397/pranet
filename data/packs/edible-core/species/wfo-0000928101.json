@@ -1,0 +1,266 @@
+{
+  "id": "wfo-0000928101",
+  "scientific_name": "Populus deltoides",
+  "authorship": "W.Bartram ex Marshall",
+  "family": "Salicaceae",
+  "synonyms": [
+    "Aigeiros deltoides (W.Bartram ex Marshall) Tidestr.",
+    "Populus angulata Aiton",
+    "Populus carolinensis Moench",
+    "Populus palmeri Sarg.",
+    "Populus virginiana Foug."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "en": [
+      "eastern cottonwood"
+    ],
+    "fi": [
+      "Amerikanmustapoppeli"
+    ],
+    "hy": [
+      "Բարդի կանադական"
+    ],
+    "nl": [
+      "amerikaanse populier"
+    ],
+    "tr": [
+      "Amerika kara kavağı"
+    ],
+    "uk": [
+      "Тополя дельтолиста",
+      "Тополя трикутнолиста"
+    ],
+    "zh": [
+      "东方白杨",
+      "美洲黑杨"
+    ],
+    "ast": [
+      "chopu americanu"
+    ],
+    "chy": [
+      "Xamaehoohtsêstse"
+    ],
+    "ko": [
+      "미루나무"
+    ],
+    "ru": [
+      "Тополь дельтовидный"
+    ],
+    "de": [
+      "Kanadische Schwarz-Pappel"
+    ],
+    "sl": [
+      "kanadski topol"
+    ],
+    "dsb": [
+      "Ameriski topoł"
+    ],
+    "hsb": [
+      "Ameriski topoł"
+    ],
+    "da": [
+      "Virginsk Poppel"
+    ],
+    "bg": [
+      "делтоидна топола"
+    ],
+    "ne": [
+      "लहरे पिपल"
+    ],
+    "ar": [
+      "حور دالي"
+    ],
+    "fa": [
+      "صنوبر شرقی"
+    ],
+    "he": [
+      "צפצפה משולשת"
+    ],
+    "nb": [
+      "Virginiapoppel"
+    ],
+    "azb": [
+      "کانادا قوْواغی"
+    ],
+    "et": [
+      "kallaspappel"
+    ],
+    "be": [
+      "Таполя трохвугольналістая"
+    ],
+    "pl": [
+      "Topola deltoidalna"
+    ],
+    "arz": [
+      "حور دالى"
+    ],
+    "lv": [
+      "Kokvilnas koks"
+    ],
+    "ja": [
+      "ヒロハハコヤナギ"
+    ],
+    "hr": [
+      "Sjevernoamerička crna topola"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q149319",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q149319",
+  "search_names": {
+    "ja": [
+      "コットンウッド"
+    ],
+    "en": [
+      "necklace poplar"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Populus deltoides」",
+      "source_url": "https://en.wikipedia.org/wiki/Populus_deltoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1368411467,
+      "text": "Populus deltoides, the eastern cottonwood or necklace poplar, is a species of cottonwood poplar native to North America, growing throughout the eastern, central, and southwestern United States as well as the southern Canadian prairies, the southernmost part of eastern Canada, and northeastern Mexico."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ABT",
+      "ALA",
+      "ARI",
+      "ARK",
+      "CNT",
+      "COL",
+      "DEL",
+      "FLA",
+      "GEO",
+      "IDA",
+      "ILL",
+      "INI",
+      "IOW",
+      "KAN",
+      "KTY",
+      "LOU",
+      "MAN",
+      "MAS",
+      "MIC",
+      "MIN",
+      "MNT",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "NCA",
+      "NDA",
+      "NEB",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "OHI",
+      "OKL",
+      "ONT",
+      "ORE",
+      "PEN",
+      "QUE",
+      "SAS",
+      "SCA",
+      "SDA",
+      "TEN",
+      "TEX",
+      "UTA",
+      "VER",
+      "VRG",
+      "WAS",
+      "WDC",
+      "WIS",
+      "WVA",
+      "WYO"
+    ],
+    "introduced": [
+      "AGE",
+      "AUT",
+      "AZO",
+      "BGM",
+      "BLT",
+      "BOL",
+      "BUL",
+      "CPP",
+      "FRA",
+      "GER",
+      "GRB",
+      "HUN",
+      "ITA",
+      "KOR",
+      "MOR",
+      "NAT",
+      "NET",
+      "OFS",
+      "PER",
+      "POR",
+      "PRM",
+      "RUE",
+      "SPA",
+      "TVL",
+      "TZK",
+      "WHM",
+      "YUG"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30102841-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30102841-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000928101.webp",
+    "author": "R. A. Nonenmacher",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Populus_deltoides_SCA-03469.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

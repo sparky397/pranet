@@ -1,0 +1,133 @@
+{
+  "id": "wfo-0000230767",
+  "scientific_name": "Lucuma campechiana",
+  "authorship": "Kunth",
+  "family": "Sapotaceae",
+  "synonyms": [
+    "Lucuma elongata (C.F.Gaertn.) Steud.",
+    "Lucuma glabrifolia Pittier",
+    "Lucuma heyderi Standl.",
+    "Lucuma inseparabilis (Pierre) Dubard",
+    "Lucuma laeteviridis Pittier",
+    "Lucuma nervosa A.DC.",
+    "Lucuma palmeri Fernald",
+    "Lucuma salicifolia Kunth",
+    "Lucuma sphaerocarpa A.DC.",
+    "Pouteria campechiana (Kunth) Baehni",
+    "Pouteria elongata (C.F.Gaertn.) Baehni",
+    "Pouteria glabrifolia (Pittier) Cronquist",
+    "Pouteria laeteviridis (Pittier) Lundell",
+    "Pouteria mante Lundell",
+    "Radlkoferella glabrifolia (Pittier) Aubrév.",
+    "Radlkoferella inseparabilis Pierre",
+    "Radlkoferella sphaerocarpa Pierre",
+    "Richardella campechiana (Kunth) Pierre",
+    "Richardella nervosa Pierre",
+    "Richardella salicifolia (Kunth) Pierre",
+    "Sapota elongata C.F.Gaertn.",
+    "Sideroxylon campestre Brandegee",
+    "Vitellaria campechiana (Kunth) Engl.",
+    "Vitellaria nervosa Radlk.",
+    "Vitellaria salicifolia (Kunth) Engl.",
+    "Vitellaria sphaerocarpa Radlk.",
+    "Vitellaria tenuifolia Engl.",
+    "Xantolis palmeri (Fernald) Baehni"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "en": [
+      "Pouteria campechiana"
+    ],
+    "zh": [
+      "蛋黄果",
+      "具脉果榄"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q10320387",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q10320387",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Pouteria campechiana」",
+      "source_url": "https://en.wikipedia.org/wiki/Pouteria_campechiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1369584804,
+      "text": "Pouteria campechiana is an evergreen tree native to, and cultivated in, southern Mexico, Belize, Guatemala, and El Salvador. It is cultivated in other countries, such as India, Costa Rica, Brazil, the United States, the Dominican Republic, Australia, Cambodia, Vietnam, Taiwan, Indonesia, Sri Lanka, Nigeria, Cameroon and the Philippines. The edible part of the tree is its fruit, which is colloquially known as an egg fruit."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "BLZ",
+      "COS",
+      "ELS",
+      "GUA",
+      "HON",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NIC",
+      "PAN"
+    ],
+    "introduced": [
+      "BAH",
+      "CAY",
+      "CBD",
+      "CUB",
+      "FLA",
+      "PUE"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/787237-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/787237-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000230767.webp",
+    "author": "Forest & Kim Starr",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Starr_061213-2350_Pouteria_campechiana.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

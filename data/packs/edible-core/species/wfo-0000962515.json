@@ -1,0 +1,262 @@
+{
+  "id": "wfo-0000962515",
+  "scientific_name": "Euphorbia heterophylla",
+  "authorship": "L.",
+  "family": "Euphorbiaceae",
+  "synonyms": [
+    "Cyathophora heterophyla (L.) Raf.",
+    "Euphorbia frangulaefolia Kunth",
+    "Poinsettia heterophylla (L.) Klotzsch & Garcke",
+    "Tithymalus heterophyllus (L.) Haw."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ショウジョウソウモドキ"
+    ],
+    "en": [
+      "Mexican fireplant"
+    ],
+    "zh": [
+      "白苞猩猩草",
+      "一品红",
+      "叶象花"
+    ],
+    "fr": [
+      "Euphorbe hétérophylle"
+    ],
+    "th": [
+      "ลูกเขยตายแม่ยายทำศพ"
+    ],
+    "ta": [
+      "பால்பெருக்கி"
+    ],
+    "ml": [
+      "പാൽപെരുക്കി"
+    ],
+    "sg": [
+      "Sên-ngonda"
+    ],
+    "he": [
+      "חלבלוב קעור"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q3060418",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q3060418",
+  "search_names": {
+    "en": [
+      "wild poinsettia",
+      "painted spurge"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ショウジョウソウモドキ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%B8%E3%83%A7%E3%82%A6%E3%82%BD%E3%82%A6%E3%83%A2%E3%83%89%E3%82%AD",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106363691,
+      "text": "ショウジョウソウモドキ は、トウダイグサ科トウダイグサ属の一年草。日本では沖縄県を中心に帰化植物として分布する。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Euphorbia heterophylla」",
+      "source_url": "https://en.wikipedia.org/wiki/Euphorbia_heterophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1317192386,
+      "text": "Euphorbia heterophylla, also known under the common names of Mexican fireplant, painted euphorbia, Japanese poinsettia, paintedleaf, painted spurge and milkweed, is a plant belonging to the Euphorbiaceae or spurge family."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia 英語版「Euphorbia heterophylla」の節「Toxicity」",
+        "source_url": "https://en.wikipedia.org/wiki/Euphorbia_heterophylla#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1317192386,
+        "heading": "Toxicity",
+        "text": "Toxicity is documented in most members of the genus Euphorbia. Individuals sensitive to latex are known to have strong reactions, including dermatitis and anaphylaxis, to the latex exuded by this plant.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AGE",
+      "AGW",
+      "BAH",
+      "BER",
+      "BLZ",
+      "BOL",
+      "BZC",
+      "BZL",
+      "CAY",
+      "CLM",
+      "COS",
+      "CUB",
+      "DOM",
+      "ECU",
+      "ELS",
+      "GAL",
+      "GUA",
+      "GUY",
+      "HAI",
+      "HON",
+      "JAM",
+      "LEE",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NIC",
+      "PAN",
+      "PAR",
+      "PER",
+      "PUE",
+      "SUR",
+      "TCI",
+      "TRT",
+      "URU",
+      "VEN",
+      "VNA",
+      "WIN"
+    ],
+    "introduced": [
+      "ALA",
+      "AND",
+      "ARI",
+      "ASS",
+      "BAN",
+      "BEN",
+      "BKN",
+      "BOT",
+      "BUR",
+      "CAF",
+      "CAL",
+      "CBD",
+      "CGS",
+      "CHA",
+      "CHC",
+      "CHH",
+      "CHN",
+      "CHS",
+      "CMN",
+      "CNY",
+      "CON",
+      "CVI",
+      "CYP",
+      "DJI",
+      "EAI",
+      "EHM",
+      "ETH",
+      "FLA",
+      "FRG",
+      "GAB",
+      "GEO",
+      "GER",
+      "GGI",
+      "GHA",
+      "GIL",
+      "GRC",
+      "GST",
+      "GUI",
+      "HAW",
+      "IND",
+      "IVO",
+      "KZN",
+      "LBR",
+      "LBS",
+      "LOU",
+      "LSI",
+      "MDV",
+      "MLW",
+      "MOZ",
+      "MRN",
+      "MSI",
+      "MXI",
+      "MYA",
+      "NGA",
+      "NRU",
+      "NWM",
+      "OFS",
+      "OGA",
+      "OMA",
+      "PAK",
+      "RWA",
+      "SAM",
+      "SAU",
+      "SEN",
+      "SIE",
+      "SUD",
+      "SUL",
+      "TAI",
+      "TEX",
+      "THA",
+      "TOG",
+      "VAN",
+      "WHM",
+      "XMS",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30062970-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30062970-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000962515.webp",
+    "author": "Psumuseum",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_with_cyathia.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

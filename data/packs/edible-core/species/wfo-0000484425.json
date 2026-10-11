@@ -1,0 +1,823 @@
+{
+  "id": "wfo-0000484425",
+  "scientific_name": "Portulaca oleracea",
+  "authorship": "L.",
+  "family": "Portulacaceae",
+  "synonyms": [
+    "Portulaca consanguinea Schltdl.",
+    "Portulaca fosbergii Poelln.",
+    "Portulaca hortensis Rupr.",
+    "Portulaca intermedia Link ex Schltdl.",
+    "Portulaca latifolia Hornem.",
+    "Portulaca marginata Kunth",
+    "Portulaca neglecta Mack. & Bush",
+    "Portulaca officinarum Crantz",
+    "Portulaca olitoria Pall.",
+    "Portulaca parvifolia Haw.",
+    "Portulaca retusa Engelm.",
+    "Portulaca sativa Haw.",
+    "Portulaca stellata (Danin & H.G.Baker) Ricceri & Arrigoni",
+    "Portulaca suffruticosa Thwaites",
+    "Portulaca sylvestris Friche-Joset & Montandon",
+    "Portulaca sylvestris Garsault"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "スベリヒユ",
+      "バシケン",
+      "ポーチュラカ",
+      "馬歯筧",
+      "馬歯見"
+    ],
+    "de": [
+      "Gemüse-Portulak",
+      "Bürzelkohl",
+      "Burzelkraut",
+      "Gewürz-Portulak",
+      "Kreusel",
+      "Portulak",
+      "Sauburtzel",
+      "Sommer-Portulak",
+      "Sommer-Postelein"
+    ],
+    "en": [
+      "little hogweed",
+      "common purslane",
+      "moss rose",
+      "pigweed",
+      "pusley",
+      "red root",
+      "verdolaga"
+    ],
+    "af": [
+      "Varkkos",
+      "beesporselein",
+      "bobbejaandraad",
+      "gewone porslein",
+      "postelein",
+      "rooipootjieporslein",
+      "snotterbel",
+      "varkslaai"
+    ],
+    "ar": [
+      "البقلة",
+      "الرجلة",
+      "بقلة حمقاء",
+      "بقلة لينة",
+      "بقلة مباركة",
+      "بقلة",
+      "بقله حمقاء",
+      "رجلة",
+      "رجيلة",
+      "فرفح",
+      "فرفحى",
+      "فرفحين",
+      "فرفير"
+    ],
+    "az": [
+      "Dirrik pərpərəni"
+    ],
+    "be": [
+      "Партулак агародны"
+    ],
+    "bg": [
+      "Тученица"
+    ],
+    "ca": [
+      "Verdolaga"
+    ],
+    "co": [
+      "Arba fratesca",
+      "Erba fratesca"
+    ],
+    "cs": [
+      "šrucha zelná"
+    ],
+    "cy": [
+      "Porpin"
+    ],
+    "diq": [
+      "Pumpar"
+    ],
+    "dv": [
+      "ގެދަ"
+    ],
+    "el": [
+      "Ανδράκλα",
+      "Ανδράχλη",
+      "Αντράκλα",
+      "Αντραχλίδα",
+      "Γλιστρίδα",
+      "Γλυστιρίδα",
+      "Γλυστρίδα",
+      "Ολισθηρίς",
+      "Πορτουλάκη η λαχανηρά",
+      "Σκλιμίτσα",
+      "Τρευλό",
+      "Χοιροβότανο"
+    ],
+    "es": [
+      "borzolaga",
+      "engañagochos",
+      "lengua de gato",
+      "loraca",
+      "malmuere",
+      "nuncamuere",
+      "verdalaga",
+      "verderaja",
+      "verdolaga angosta",
+      "verdolaga blanca",
+      "verdolaga colorada",
+      "verdolaga común",
+      "verdolaga española",
+      "verdolaga hortense",
+      "verdolaga real",
+      "verdolaga romana",
+      "verdolaga silvestre",
+      "verdolaga",
+      "verdulaga"
+    ],
+    "eu": [
+      "Getozka"
+    ],
+    "fa": [
+      "پرپهن",
+      "پرپین"
+    ],
+    "fi": [
+      "Vihannesportulakka",
+      "rikkaportulakka"
+    ],
+    "fr": [
+      "Porcelane",
+      "Pourpier commun",
+      "Pourpier maraîcher",
+      "Pourpier"
+    ],
+    "gl": [
+      "Beldroega"
+    ],
+    "he": [
+      "פרפחינא",
+      "פרפחינה",
+      "פרפכינא",
+      "פרפכינה",
+      "רגלת הגינה",
+      "ריג'לה"
+    ],
+    "hr": [
+      "Tušt"
+    ],
+    "hsb": [
+      "Jědźny portłak"
+    ],
+    "ht": [
+      "Koupye"
+    ],
+    "hu": [
+      "Kövér porcsin"
+    ],
+    "id": [
+      "Gelang biasa"
+    ],
+    "io": [
+      "Portulako"
+    ],
+    "is": [
+      "Súpugull"
+    ],
+    "it": [
+      "Erba porcellana",
+      "Porcellana Comune",
+      "Purciddana"
+    ],
+    "kk": [
+      "Бақша қараоты"
+    ],
+    "ko": [
+      "쇠비름",
+      "쇠비름꽃"
+    ],
+    "ku": [
+      "Pirpar"
+    ],
+    "ml": [
+      "ഉപ്പുചീര",
+      "കൊഴുപ്പ"
+    ],
+    "mr": [
+      "घोळ"
+    ],
+    "ms": [
+      "Gelang pasir",
+      "Pokok Gelang Pasir",
+      "Pokok Rumput Beremi",
+      "Pokok Segan Jantan"
+    ],
+    "mzn": [
+      "پرپین"
+    ],
+    "nap": [
+      "Përkakkia"
+    ],
+    "nl": [
+      "postelein",
+      "zomerpostelein"
+    ],
+    "nv": [
+      "Tséghániłchʼi"
+    ],
+    "os": [
+      "Цæхдонгæрдæг"
+    ],
+    "pl": [
+      "Portulaka Pospolita",
+      "Portulaka Warzywna"
+    ],
+    "pt": [
+      "Beldroega",
+      "beldroegas"
+    ],
+    "ro": [
+      "Iarba grasa",
+      "Portulacă"
+    ],
+    "ru": [
+      "Портулак огородный"
+    ],
+    "sh": [
+      "Tušt"
+    ],
+    "si": [
+      "ගෙඳ"
+    ],
+    "sk": [
+      "portulaka zeleninová"
+    ],
+    "sl": [
+      "navadni tolščak",
+      "portulak"
+    ],
+    "sr": [
+      "Тушт"
+    ],
+    "sv": [
+      "Portlak"
+    ],
+    "th": [
+      "คุณนายตื่นสาย"
+    ],
+    "tl": [
+      "Karaniwang gulasiman",
+      "Karaniwang kulasiman",
+      "Karaniwang ulasiman",
+      "Pang-karaniwang gulasiman",
+      "Pang-karaniwang kulasiman",
+      "Pang-karaniwang ulasiman",
+      "Pangkaraniwang gulasiman",
+      "Pangkaraniwang kulasiman",
+      "Pangkaraniwang ulasiman",
+      "Pigweed"
+    ],
+    "to": [
+      "Tamole"
+    ],
+    "tr": [
+      "Semiz otu",
+      "Semizotu"
+    ],
+    "uk": [
+      "Портулак городній"
+    ],
+    "uz": [
+      "Semizoʻt"
+    ],
+    "vi": [
+      "Rau sam"
+    ],
+    "zh": [
+      "五行草",
+      "地马菜",
+      "猪母菜",
+      "酸苋",
+      "长寿菜",
+      "马蛇子菜",
+      "马齿苋",
+      "马齿菜",
+      "马齿苋子",
+      "瓜子菜"
+    ],
+    "mk": [
+      "толчница",
+      "обична толчница"
+    ],
+    "ast": [
+      "verdolaga"
+    ],
+    "xh": [
+      "igwanitsha"
+    ],
+    "zu": [
+      "izilele",
+      "lenjana"
+    ],
+    "st": [
+      "selatsi"
+    ],
+    "ss": [
+      "silele"
+    ],
+    "bn": [
+      "বড়ো নুনিয়া"
+    ],
+    "lv": [
+      "dārza portulaka"
+    ],
+    "ta": [
+      "தரைக்கீரை"
+    ],
+    "ab": [
+      "Абадырбҕьы"
+    ],
+    "hy": [
+      "Դանդուռ սովորական"
+    ],
+    "et": [
+      "harilik portulak"
+    ],
+    "kab": [
+      "Bugel"
+    ],
+    "mnw": [
+      "ဗၠံင်ဗၠေတ်၊ တၞံ"
+    ],
+    "wuu": [
+      "马齿苋"
+    ],
+    "bho": [
+      "नोनीया साग"
+    ],
+    "ary": [
+      "أرغليم"
+    ],
+    "tg": [
+      "Хурфа"
+    ],
+    "ace": [
+      "Bileueng"
+    ],
+    "yue": [
+      "瓜子菜"
+    ],
+    "arz": [
+      "رجله"
+    ],
+    "eo": [
+      "Legoma portulako"
+    ],
+    "szy": [
+      "nipaluma-sanglacay kuliya, sanglacay koliya"
+    ],
+    "nb": [
+      "portulakk"
+    ],
+    "lt": [
+      "Paprastoji portulaka"
+    ],
+    "hi": [
+      "पोर्टुलाका ओलेरासिया या पर्सलेन"
+    ],
+    "pam": [
+      "Saitsaitan"
+    ],
+    "sd": [
+      "لوڻڪ"
+    ],
+    "ks": [
+      "نُنَر"
+    ],
+    "mwl": [
+      "bordelagas"
+    ],
+    "ne": [
+      "नुनढिकी झार"
+    ],
+    "mnc": [
+      "ᠸᡝᡥᡝ ᡶᡳᠶᡝᠯᡝᠨ"
+    ],
+    "kai": [
+      "Luusìn mà Kwàm"
+    ],
+    "ckb": [
+      "پەڵپینە"
+    ],
+    "acm": [
+      "بربين"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q158015",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q158015",
+  "search_names": {
+    "ja": [
+      "滑莧",
+      "滑り莧"
+    ],
+    "en": [
+      "Pig Weed"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「スベリヒユ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%99%E3%83%AA%E3%83%92%E3%83%A6",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 109660238,
+      "text": "スベリヒユ は、スベリヒユ科スベリヒユ属の一年生植物。代表的なC4植物、食べられる野草としても知られる。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Portulaca oleracea」",
+      "source_url": "https://en.wikipedia.org/wiki/Portulaca_oleracea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1375820309,
+      "text": "Portulaca oleracea is a succulent plant in the family Portulacaceae. All parts of the plant are edible raw or cooked."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALD",
+      "ALG",
+      "ANG",
+      "ASC",
+      "AUT",
+      "AZO",
+      "BAL",
+      "BEN",
+      "BGM",
+      "BKN",
+      "BUL",
+      "BUR",
+      "CAF",
+      "CGS",
+      "CHA",
+      "CMN",
+      "CNY",
+      "COM",
+      "CON",
+      "COR",
+      "CVI",
+      "CZE",
+      "EGY",
+      "ERI",
+      "ETH",
+      "FRA",
+      "GAB",
+      "GAM",
+      "GER",
+      "GGI",
+      "GNB",
+      "GRC",
+      "GST",
+      "GUI",
+      "HUN",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "IVO",
+      "KEN",
+      "KRI",
+      "KRY",
+      "KUW",
+      "LBR",
+      "LBS",
+      "LBY",
+      "MCI",
+      "MDR",
+      "MLI",
+      "MOR",
+      "MTN",
+      "NCS",
+      "NET",
+      "NGA",
+      "NGR",
+      "OMA",
+      "PAK",
+      "PAL",
+      "POL",
+      "POR",
+      "REU",
+      "ROM",
+      "SAR",
+      "SAU",
+      "SEN",
+      "SEY",
+      "SIC",
+      "SIE",
+      "SIN",
+      "SOC",
+      "SOM",
+      "SPA",
+      "STH",
+      "SUD",
+      "SWI",
+      "TAN",
+      "TCS",
+      "TOG",
+      "TUE",
+      "TUN",
+      "TUR",
+      "UGA",
+      "YEM",
+      "YUG",
+      "ZAI"
+    ],
+    "introduced": [
+      "ABT",
+      "AGE",
+      "AGS",
+      "AGW",
+      "ALA",
+      "ALT",
+      "AMU",
+      "AND",
+      "ARI",
+      "ARK",
+      "ARU",
+      "ASS",
+      "BAH",
+      "BAN",
+      "BER",
+      "BLR",
+      "BLT",
+      "BLZ",
+      "BOL",
+      "BOR",
+      "BOT",
+      "BRC",
+      "BRY",
+      "BZC",
+      "BZE",
+      "BZL",
+      "BZN",
+      "BZS",
+      "CAL",
+      "CAY",
+      "CBD",
+      "CHC",
+      "CHH",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHQ",
+      "CHS",
+      "CHT",
+      "CHX",
+      "CKI",
+      "CLC",
+      "CLM",
+      "CLN",
+      "CLS",
+      "CNT",
+      "COL",
+      "COO",
+      "COS",
+      "CPI",
+      "CPP",
+      "CRL",
+      "CUB",
+      "DEL",
+      "DEN",
+      "DJI",
+      "DOM",
+      "DSV",
+      "EAI",
+      "EAS",
+      "ECU",
+      "EHM",
+      "ELS",
+      "FIJ",
+      "FIN",
+      "FLA",
+      "FRG",
+      "GAL",
+      "GEO",
+      "GIL",
+      "GRB",
+      "GUA",
+      "GUY",
+      "HAI",
+      "HAW",
+      "HBI",
+      "HON",
+      "IDA",
+      "ILL",
+      "IND",
+      "INI",
+      "IOW",
+      "JAP",
+      "JAW",
+      "JNF",
+      "KAM",
+      "KAN",
+      "KAZ",
+      "KGZ",
+      "KOR",
+      "KTY",
+      "KZN",
+      "LAO",
+      "LDV",
+      "LEE",
+      "LES",
+      "LIN",
+      "LOU",
+      "LSI",
+      "MAI",
+      "MAN",
+      "MAS",
+      "MAU",
+      "MCS",
+      "MDV",
+      "MIC",
+      "MIN",
+      "MLW",
+      "MLY",
+      "MNT",
+      "MOL",
+      "MOZ",
+      "MRQ",
+      "MRS",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXI",
+      "MXN",
+      "MXS",
+      "MXT",
+      "MYA",
+      "NAM",
+      "NAT",
+      "NBR",
+      "NCA",
+      "NCB",
+      "NDA",
+      "NEB",
+      "NEP",
+      "NEV",
+      "NFK",
+      "NIC",
+      "NLA",
+      "NNS",
+      "NRU",
+      "NSC",
+      "NSW",
+      "NTA",
+      "NUE",
+      "NWC",
+      "NWG",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OFS",
+      "OGA",
+      "OHI",
+      "OKL",
+      "ONT",
+      "ORE",
+      "PAN",
+      "PAR",
+      "PEI",
+      "PEN",
+      "PHI",
+      "PHX",
+      "PIT",
+      "PRM",
+      "PUE",
+      "QLD",
+      "QUE",
+      "RHO",
+      "ROD",
+      "RUC",
+      "RUE",
+      "RUS",
+      "RWA",
+      "SAM",
+      "SAS",
+      "SCA",
+      "SCI",
+      "SCS",
+      "SDA",
+      "SOL",
+      "SRL",
+      "SUL",
+      "SUM",
+      "SUR",
+      "SWC",
+      "SWE",
+      "SWZ",
+      "TAI",
+      "TAS",
+      "TCI",
+      "TEN",
+      "TEX",
+      "TKM",
+      "TOK",
+      "TON",
+      "TRT",
+      "TUA",
+      "TUB",
+      "TUV",
+      "TVA",
+      "TVL",
+      "TZK",
+      "UKR",
+      "URU",
+      "UTA",
+      "UZB",
+      "VAN",
+      "VEN",
+      "VER",
+      "VIC",
+      "VIE",
+      "VNA",
+      "VRG",
+      "WAK",
+      "WAL",
+      "WAS",
+      "WAU",
+      "WDC",
+      "WHM",
+      "WIN",
+      "WIS",
+      "WSB",
+      "WVA",
+      "WYO",
+      "XMS",
+      "ZAM",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/323270-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "semisucculent annual",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/323270-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000484425.webp",
+    "author": "ZooFari",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Portulaca_oleracea.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 286,
+    "retrieved": "2026-10-09"
+  }
+}

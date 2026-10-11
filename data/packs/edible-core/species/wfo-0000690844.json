@@ -1,0 +1,131 @@
+{
+  "id": "wfo-0000690844",
+  "scientific_name": "Ficus virgata",
+  "authorship": "Reinw. ex Blume",
+  "family": "Moraceae",
+  "synonyms": [
+    "Ficus cuspidato-longifolia Kaneh.",
+    "Ficus decaisneana Miq.",
+    "Ficus ellipsoidea Miq.",
+    "Ficus esmeralda F.M.Bailey",
+    "Ficus firmula Miq.",
+    "Ficus insularis Miq.",
+    "Ficus magnifica Elmer",
+    "Ficus philippinensis Miq.",
+    "Ficus pinkiana F.Muell.",
+    "Ficus setibracteata Elmer",
+    "Ficus trematocarpa Miq.",
+    "Ficus trymatocarpa Miq.",
+    "Urostigma virgatum (Reinw. ex Blume) Miq."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "ハマイヌビワ"
+    ],
+    "zh": [
+      "島榕",
+      "白肉榕",
+      "岛榕"
+    ],
+    "en": [
+      "Figwood"
+    ],
+    "pwn": [
+      "ruljit"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q11048727",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q11048727",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「ハマイヌビワ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%A4%E3%83%8C%E3%83%93%E3%83%AF",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106371345,
+      "text": "ハマイヌビワ は、クワ科イチジク属の樹木。葉の基部が左右非対称になっている。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Ficus virgata」",
+      "source_url": "https://en.wikipedia.org/wiki/Ficus_virgata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1374107280,
+      "text": "Ficus virgata, commonly known as figwood, is a tree in the family Moraceae. It is native to the Ryukyu Islands, Taiwan, Borneo, Sulawesi, the Lesser Sunda and Maluku Islands, Papuasia, Queensland, the Caroline Islands, New Caledonia, and Vanuatu. It usually grows as a strangler on other trees, eventually smothering and killing its host, but may also grow on its own. In Australia it is found from Kutini-Payamu National Park in the northern part of Cape York Peninsula, south along the east coast to Paluma Range National Park, from sea level up to about 400 m (1,300 ft) elevation. It was named by Dutch botanist Carl Ludwig Blume in 1825."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "BIS",
+      "BOR",
+      "CRL",
+      "LSI",
+      "MOL",
+      "NNS",
+      "NWC",
+      "NWG",
+      "PHI",
+      "QLD",
+      "SOL",
+      "SUL",
+      "TAI",
+      "VAN"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/853956-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/853956-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000690844.webp",
+    "author": "Steve Fitzgerald",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ficus-virgata-SF22320-02.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

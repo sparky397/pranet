@@ -1,0 +1,604 @@
+{
+  "id": "wfo-0000387203",
+  "scientific_name": "Oxalis corniculata",
+  "authorship": "L.",
+  "family": "Oxalidaceae",
+  "synonyms": [
+    "Acetosella corniculata (L.) Kuntze",
+    "Acetosella herpestica (Schltdl.) Kuntze",
+    "Acetosella simulans (Baker) Kuntze",
+    "Oxalis boridiensis R.Knuth",
+    "Oxalis ceratilis E.Mey.",
+    "Oxalis ciliifera A.Cunn.",
+    "Oxalis foliosa Blatt.",
+    "Oxalis furcata Elliott",
+    "Oxalis glauca Raf. ex DC.",
+    "Oxalis grenadensis Urb.",
+    "Oxalis herpestica Schltdl.",
+    "Oxalis humistrata Willd. ex Steud.",
+    "Oxalis jamaicensis Macfad.",
+    "Oxalis javanica Blume",
+    "Oxalis langloisii (Small) Fedde",
+    "Oxalis lujula Noronha",
+    "Oxalis lupulina Kunth",
+    "Oxalis lutea Steud.",
+    "Oxalis meridensis Pittier",
+    "Oxalis micrantha Bojer ex Progel",
+    "Oxalis minima Steud.",
+    "Oxalis monadelpha Roxb. ex Wight & Arn.",
+    "Oxalis norlindiana R.Knuth",
+    "Oxalis pilosiuscula Kunth",
+    "Oxalis pubescens Stokes",
+    "Oxalis pusilla Salisb.",
+    "Oxalis radicosa A.Rich.",
+    "Oxalis recisa Noronha",
+    "Oxalis repens Thunb.",
+    "Oxalis reptans Sol. ex G.Forst.",
+    "Oxalis ruben Haw.",
+    "Oxalis simulans Baker",
+    "Oxalis steudeliana R.Knuth",
+    "Oxalis taemoni Yamam.",
+    "Oxalis taiwanensis (Masam.) Masam.",
+    "Oxalis tenuicaulis A.Cunn.",
+    "Oxalis thunbergiana Montrouz.",
+    "Oxalis trinidadensis R.Knuth",
+    "Oxalis tropaeoloides E.Fürst",
+    "Oxalis uittienii J.T.Jansen",
+    "Oxalis urvillei A.Cunn.",
+    "Oxalis villosa M.Bieb.",
+    "Oxys corniculata (L.) Scop.",
+    "Oxys lutea Lam.",
+    "Xanthoxalis corniculata (L.) Small",
+    "Xanthoxalis grenadensis (Urb.) Tzvelev ex Prob. & Sokolovsk.",
+    "Xanthoxalis langloisii Small",
+    "Xanthoxalis repens (Thunb.) Moldenke",
+    "Xanthoxalis trinidadensis (R.Knuth) Holub"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "カタバミ"
+    ],
+    "de": [
+      "Gehörnter Sauerklee",
+      "Horn-Sauerklee"
+    ],
+    "en": [
+      "creeping woodsorrel",
+      "`ihi",
+      "wood sorrel",
+      "`ihi `ai",
+      "`ihi `awa",
+      "`ihi maka `ula",
+      "`ihi makole",
+      "yellow wood sorrel"
+    ],
+    "zh": [
+      "酢漿草",
+      "酢浆草",
+      "酢浆草（酢浆）",
+      "酢酱草",
+      "酢酱草 酸角草",
+      "醡浆草"
+    ],
+    "nl": [
+      "Gehoornde klaverzuring"
+    ],
+    "cs": [
+      "šťavel růžkatý"
+    ],
+    "fi": [
+      "sarvikäenkaali",
+      "tarhakäenkaali"
+    ],
+    "ast": [
+      "pan de cucu",
+      "carneru"
+    ],
+    "haw": [
+      "`ihi",
+      "`ihi `ai",
+      "`ihi `awa",
+      "`ihi maka `ula",
+      "`ihi makole"
+    ],
+    "sl": [
+      "rogata zajčja deteljica"
+    ],
+    "hi": [
+      "चांगेरी"
+    ],
+    "qu": [
+      "Ch'ullku"
+    ],
+    "ko": [
+      "괭이밥"
+    ],
+    "or": [
+      "ଆମ୍ବିଳିତି"
+    ],
+    "to": [
+      "Kihikihi"
+    ],
+    "ml": [
+      "പുളിയാരില"
+    ],
+    "vi": [
+      "Chua me đất hoa vàng"
+    ],
+    "hsb": [
+      "Mjechki nahlenc"
+    ],
+    "sv": [
+      "Blodoxalis"
+    ],
+    "id": [
+      "Daun asam kecil"
+    ],
+    "ne": [
+      "चरीअमिलो"
+    ],
+    "th": [
+      "ส้มกบ"
+    ],
+    "ar": [
+      "أقصليس قريني"
+    ],
+    "bn": [
+      "হলুদ আমরুল"
+    ],
+    "fa": [
+      "ترش واش"
+    ],
+    "mzn": [
+      "ترش واش"
+    ],
+    "cy": [
+      "Suran orweddol"
+    ],
+    "pnb": [
+      "کھٹی بوٹی"
+    ],
+    "sk": [
+      "kysličkovec rožkatý"
+    ],
+    "he": [
+      "חמציץ קטן"
+    ],
+    "su": [
+      "Calincing"
+    ],
+    "ta": [
+      "புளியாரை"
+    ],
+    "hu": [
+      "szürke madársóska"
+    ],
+    "pl": [
+      "Szczawik rożkowaty"
+    ],
+    "mr": [
+      "अंबुटी"
+    ],
+    "hy": [
+      "Թթվառվույտ եղջրավոր"
+    ],
+    "et": [
+      "aed-jänesekapsas"
+    ],
+    "arz": [
+      "اقصليس قرينى"
+    ],
+    "pwn": [
+      "puljesek"
+    ],
+    "yue": [
+      "酢漿草"
+    ],
+    "nb": [
+      "krypgjøkesyre"
+    ],
+    "is": [
+      "Hornsmæra"
+    ],
+    "ms": [
+      "Pokok Sikap Dada"
+    ],
+    "cdo": [
+      "圓圓草"
+    ],
+    "be": [
+      "кіслічка ражковая"
+    ],
+    "ur": [
+      "کھٹکل"
+    ],
+    "te": [
+      "పులిచింత"
+    ],
+    "mk": [
+      "рокчеста красатка"
+    ],
+    "my": [
+      "မှော်ချဉ်ပင်"
+    ],
+    "shn": [
+      "တူၼ်ႈသူမ်ႈသႅင်ၵႃ"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q162795",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q162795",
+  "search_names": {
+    "ja": [
+      "片喰",
+      "サクショウソウ",
+      "酢漿草",
+      "七鳩酢草",
+      "かたばみ",
+      "鳩酢草"
+    ],
+    "en": [
+      "Indian sorrel",
+      "procumbent yellow-sorrel",
+      "sleeping beauty"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「カタバミ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 110593756,
+      "text": "カタバミ はカタバミ科カタバミ属の多年草。日本の地方名には「かがみぐさ」「すいば」「しょっぱぐさ」「すずめぐさ」「ねこあし」「もんかたばみ」などがあり、『日本方言大辞典』には180種以上が記録されている。中国名は酢漿草。中国では「三葉酸草」「老鴨嘴」「酸味草」「満天星」などの別名がある。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Oxalis corniculata」",
+      "source_url": "https://en.wikipedia.org/wiki/Oxalis_corniculata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1368886676,
+      "text": "Oxalis corniculata, the creeping woodsorrel, procumbent yellow sorrel or sleeping beauty, is a somewhat delicate-appearing, low-growing herbaceous plant in the family Oxalidaceae."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "IF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ASS",
+      "BAN",
+      "CHC",
+      "CHH",
+      "CHN",
+      "CHS",
+      "EHM",
+      "IND",
+      "JAP",
+      "KOR",
+      "MYA",
+      "NEP",
+      "NNS",
+      "PAK",
+      "PHI",
+      "TAI",
+      "VIE",
+      "WHM"
+    ],
+    "introduced": [
+      "AFG",
+      "AGE",
+      "AGW",
+      "ALA",
+      "ALB",
+      "ALG",
+      "AMU",
+      "AND",
+      "ANG",
+      "ARK",
+      "ASC",
+      "AUT",
+      "AZO",
+      "BAH",
+      "BAL",
+      "BEN",
+      "BER",
+      "BGM",
+      "BKN",
+      "BLT",
+      "BOL",
+      "BOR",
+      "BOT",
+      "BRC",
+      "BUL",
+      "BUR",
+      "BZC",
+      "BZE",
+      "BZL",
+      "BZN",
+      "BZS",
+      "CAF",
+      "CAL",
+      "CAY",
+      "CBD",
+      "CHA",
+      "CHI",
+      "CHM",
+      "CHQ",
+      "CHT",
+      "CLC",
+      "CLM",
+      "CLS",
+      "CMN",
+      "CNT",
+      "CNY",
+      "COL",
+      "COM",
+      "CON",
+      "COO",
+      "COR",
+      "COS",
+      "CPP",
+      "CRL",
+      "CRZ",
+      "CUB",
+      "CVI",
+      "CYP",
+      "CZE",
+      "DEL",
+      "DJI",
+      "DOM",
+      "DSV",
+      "EAI",
+      "EAS",
+      "ECU",
+      "EGY",
+      "ELS",
+      "ERI",
+      "ETH",
+      "FIJ",
+      "FIN",
+      "FLA",
+      "FRA",
+      "FRG",
+      "GAB",
+      "GAL",
+      "GEO",
+      "GER",
+      "GGI",
+      "GHA",
+      "GIL",
+      "GRB",
+      "GRC",
+      "GST",
+      "GUA",
+      "GUI",
+      "GUY",
+      "HAI",
+      "HAW",
+      "HON",
+      "HUN",
+      "IDA",
+      "ILL",
+      "INI",
+      "IRE",
+      "IRN",
+      "ITA",
+      "IVO",
+      "JAM",
+      "JAW",
+      "JNF",
+      "KAZ",
+      "KEG",
+      "KEN",
+      "KER",
+      "KGZ",
+      "KHA",
+      "KRI",
+      "KRY",
+      "KTY",
+      "KUR",
+      "KZN",
+      "LAO",
+      "LBR",
+      "LBS",
+      "LBY",
+      "LEE",
+      "LES",
+      "LOU",
+      "LSI",
+      "MAI",
+      "MAN",
+      "MAS",
+      "MAU",
+      "MDG",
+      "MDR",
+      "MIC",
+      "MIN",
+      "MLW",
+      "MLY",
+      "MNT",
+      "MOL",
+      "MOR",
+      "MOZ",
+      "MRN",
+      "MRQ",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NAT",
+      "NCA",
+      "NCB",
+      "NCS",
+      "NEB",
+      "NET",
+      "NFK",
+      "NFL",
+      "NGA",
+      "NIC",
+      "NLA",
+      "NOR",
+      "NRU",
+      "NSC",
+      "NSW",
+      "NTA",
+      "NUE",
+      "NWC",
+      "NWG",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OFS",
+      "OGA",
+      "OHI",
+      "OKL",
+      "OMA",
+      "ONT",
+      "ORE",
+      "PAL",
+      "PAN",
+      "PAR",
+      "PEI",
+      "PEN",
+      "PER",
+      "PIT",
+      "POL",
+      "POR",
+      "PRM",
+      "PUE",
+      "QLD",
+      "QUE",
+      "REU",
+      "ROD",
+      "ROM",
+      "RUS",
+      "RWA",
+      "SAK",
+      "SAM",
+      "SAR",
+      "SAS",
+      "SAU",
+      "SCA",
+      "SCI",
+      "SCS",
+      "SDA",
+      "SEL",
+      "SEY",
+      "SIC",
+      "SIE",
+      "SIN",
+      "SOA",
+      "SOC",
+      "SOL",
+      "SOM",
+      "SPA",
+      "SRL",
+      "STH",
+      "SUD",
+      "SUL",
+      "SUM",
+      "SUR",
+      "SWE",
+      "SWI",
+      "SWZ",
+      "TAN",
+      "TAS",
+      "TCS",
+      "TDC",
+      "TEN",
+      "TEX",
+      "THA",
+      "TOG",
+      "TON",
+      "TRT",
+      "TUA",
+      "TUB",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TVL",
+      "TZK",
+      "UGA",
+      "UKR",
+      "URU",
+      "UZB",
+      "VAN",
+      "VEN",
+      "VER",
+      "VIC",
+      "VRG",
+      "WAS",
+      "WAU",
+      "WDC",
+      "WIN",
+      "WIS",
+      "WVA",
+      "XMS",
+      "YEM",
+      "YUG",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/177893-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual or perennial",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/177893-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000387203.webp",
+    "author": "Butterflyrajib",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Larval_Host_Plant_(Oxalis_corniculata)_of_Pseudozizeeria_maha_(Kollar,_(1844))_%E2%80%93_Pale_Grass_Blue.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "wfo-0000489147",
+  "scientific_name": "Polygonum perfoliatum",
+  "authorship": "L.",
+  "family": "Polygonaceae",
+  "synonyms": [
+    "Ampelygonum perfoliatum (L.) Roberty & Vautier",
+    "Chylocalyx perfoliatus Hassk.",
+    "Echinocaulon perfoliatus (L.) Hassk.",
+    "Fagopyrum perfoliatum (L.) Raf.",
+    "Persicaria perfoliata (L.) H.Gross",
+    "Tracaulon perfoliatum (L.) Greene",
+    "Truellum perfoliatum (L.) Soják"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "en": [
+      "Asiatic tearthumb"
+    ],
+    "ko": [
+      "며느리배꼽"
+    ],
+    "zh": [
+      "扛板歸",
+      "刺藜頭",
+      "杠板归",
+      "扛板归根",
+      "扛板归"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q11099680",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q11099680",
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "IF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AMU",
+      "ASS",
+      "BAN",
+      "CHC",
+      "CHH",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHS",
+      "EHM",
+      "IND",
+      "JAP",
+      "JAW",
+      "KHA",
+      "KOR",
+      "MLY",
+      "NEP",
+      "NNS",
+      "NWG",
+      "PHI",
+      "PRM",
+      "SAK",
+      "TAI",
+      "TCS",
+      "THA",
+      "TUR",
+      "VIE",
+      "WHM"
+    ],
+    "introduced": [
+      "CNT",
+      "DEL",
+      "GER",
+      "KTY",
+      "MRY",
+      "MSI",
+      "NWH",
+      "NWJ",
+      "NWY",
+      "OHI",
+      "ORE",
+      "PEN",
+      "RHO",
+      "VRG",
+      "WDC",
+      "WVA"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/695101-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "climbing annual",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/695101-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  }
+}

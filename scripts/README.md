@@ -60,6 +60,8 @@ python3 scripts/build_all.py "Oryza sativa"
 `make_species_list_fao.py` が FAO の WCA 2020 作物リスト（学名付き）から学名を取り出し、`species_list.csv` に足す。
 属名だけの品目（spp.）は種に定まらないので入らない。FAO の綴り誤りは根拠を書いて手で直す。
 
+段階 B は `make_species_list_wcup.py`：WCUP の食用種（HF）を Wikipedia 記事の有無（Wikidata に一括照会）で並べ、上位から足す。順位の表は `cache/wcup/stage_b_ranking.json`。
+
 ## 種の追加
 
 `species_list.csv` に学名を足します。WFO で Accepted の種が 1 件に定まらない場合は取り込まれず、理由が表示されます。

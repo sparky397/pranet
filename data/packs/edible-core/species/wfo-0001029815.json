@@ -1,0 +1,608 @@
+{
+  "id": "wfo-0001029815",
+  "scientific_name": "Solanum nigrum",
+  "authorship": "L.",
+  "family": "Solanaceae",
+  "synonyms": [
+    "Solanum acutifolium Kit. ex Kanitz",
+    "Solanum atriplicifolium Desp. ex Dunal",
+    "Solanum bidentatum Raf.",
+    "Solanum cechicum Opiz",
+    "Solanum chenopodiifolium Dunal",
+    "Solanum chenopodiifolium H.Lév.",
+    "Solanum chenopodium Raf.",
+    "Solanum chlorocarpum Schur",
+    "Solanum cuneifolium Dunal",
+    "Solanum decipiens Opiz",
+    "Solanum deppei Dunal",
+    "Solanum exaratum Raf.",
+    "Solanum ganchouenense H.Lév.",
+    "Solanum hirsutum Kit. ex Kanitz",
+    "Solanum humile Nocca",
+    "Solanum humile Salisb.",
+    "Solanum judaicum (L.) Miq.",
+    "Solanum judaicum Besser",
+    "Solanum judaicum Hack. ex Dunal",
+    "Solanum luridum Wessely",
+    "Solanum morella Desv.",
+    "Solanum moschatum C.Presl",
+    "Solanum nigrum Tausch ex Dunal",
+    "Solanum paludosum (Dunal) Miq.",
+    "Solanum paludosum Dunal",
+    "Solanum parviflorum Moretti ex Badarò",
+    "Solanum peregrinum E.P.Bicknell",
+    "Solanum probstianum Polg.",
+    "Solanum pseudoflavum Pojark.",
+    "Solanum reineggeri Opiz",
+    "Solanum repens Noronha",
+    "Solanum roxburghii Dunal",
+    "Solanum schultesii Opiz",
+    "Solanum stenopetalum (A.Braun ex Döll) A.Braun",
+    "Solanum suffruticosum Schousb. ex Willd.",
+    "Solanum tauschii Opiz",
+    "Solanum uliginosum (Blume) Miq.",
+    "Solanum villosum Opiz ex Dunal",
+    "Solanum viride Schur",
+    "Solanum vulgare (L.) Hegetschw.",
+    "Solanum vulgare Kittell",
+    "Solanum vulgatum (L.) Spenn.",
+    "Solanum vulgatum Baumg."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "イヌホオズキ"
+    ],
+    "de": [
+      "Schwarzer Nachtschatten"
+    ],
+    "en": [
+      "Black Nightshade"
+    ],
+    "af": [
+      "Nastergal"
+    ],
+    "ar": [
+      "عنب الذئب",
+      "مغد أسود"
+    ],
+    "az": [
+      "Qara quşüzümü"
+    ],
+    "ba": [
+      "Ҡара эт ҡарағаты"
+    ],
+    "bn": [
+      "কাকমাচি"
+    ],
+    "ca": [
+      "Morella vera"
+    ],
+    "co": [
+      "Cinnerone"
+    ],
+    "cs": [
+      "lilek černý"
+    ],
+    "cv": [
+      "Йыт çырли"
+    ],
+    "cy": [
+      "Codwarth Du"
+    ],
+    "da": [
+      "Sort Natskygge"
+    ],
+    "dsb": [
+      "Carna ronica"
+    ],
+    "el": [
+      "Στύφνο",
+      "στύφνος"
+    ],
+    "es": [
+      "Hierba mora"
+    ],
+    "et": [
+      "Must maavits"
+    ],
+    "eu": [
+      "Mairu-belar"
+    ],
+    "fa": [
+      "تاجریزی"
+    ],
+    "fr": [
+      "Morelle noire"
+    ],
+    "frr": [
+      "Hünjbei"
+    ],
+    "hi": [
+      "मकोय"
+    ],
+    "hsb": [
+      "Čorne wrónidło"
+    ],
+    "ht": [
+      "Agoman"
+    ],
+    "hu": [
+      "fekete csucsor"
+    ],
+    "id": [
+      "Ranti"
+    ],
+    "it": [
+      "Morella comune"
+    ],
+    "kn": [
+      "ಕಾಕಮಾಚಿ-ಕಾಗೆ ಗಿಡ"
+    ],
+    "ko": [
+      "까마중"
+    ],
+    "lt": [
+      "Juodoji kiauliauogė"
+    ],
+    "mk": [
+      "Црн зрнец",
+      "Зрнец"
+    ],
+    "ml": [
+      "മണിത്തക്കാളി"
+    ],
+    "ne": [
+      "कबाई"
+    ],
+    "nl": [
+      "Zwarte nachtschade",
+      "Zwarte en Beklierde nachtschade"
+    ],
+    "pa": [
+      "ਮਕੋ"
+    ],
+    "pl": [
+      "psianka czarna"
+    ],
+    "pnb": [
+      "میکو"
+    ],
+    "pt": [
+      "Erva-moura"
+    ],
+    "qu": [
+      "Q'aya-q'aya"
+    ],
+    "ru": [
+      "Паслён чёрный"
+    ],
+    "sh": [
+      "Pomoćnica"
+    ],
+    "sk": [
+      "ľuľok čierny"
+    ],
+    "sr": [
+      "Помоћница"
+    ],
+    "stq": [
+      "Fuulbäie"
+    ],
+    "su": [
+      "Leunca"
+    ],
+    "sv": [
+      "Nattskatta"
+    ],
+    "sw": [
+      "Mnavu"
+    ],
+    "ta": [
+      "மணத்தக்காளி"
+    ],
+    "te": [
+      "కామంచి"
+    ],
+    "th": [
+      "มะแว้งนก"
+    ],
+    "tr": [
+      "Köpek üzümü"
+    ],
+    "uk": [
+      "Чорний паслін"
+    ],
+    "zh": [
+      "龙葵",
+      "紅果龍葵",
+      "天天茄",
+      "龙葵子",
+      "白花菜",
+      "喀西茄",
+      "龙葵根",
+      "龙葵果"
+    ],
+    "fi": [
+      "mustakoiso"
+    ],
+    "ast": [
+      "yerbamora"
+    ],
+    "ms": [
+      "Ranti",
+      "Terung Meranti",
+      "Terung Hitam"
+    ],
+    "sl": [
+      "pasje zelišče"
+    ],
+    "bg": [
+      "Черно кучешко грозде"
+    ],
+    "kk": [
+      "Қара алқа"
+    ],
+    "he": [
+      "סולנום שחור"
+    ],
+    "am": [
+      "ኣውጥ"
+    ],
+    "tcy": [
+      "ಕಾರೆ"
+    ],
+    "tg": [
+      "Ангури сагак"
+    ],
+    "azb": [
+      "قارا قوشوزومو"
+    ],
+    "sgs": [
+      "Kiaulougė"
+    ],
+    "vi": [
+      "Lu lu đực"
+    ],
+    "hr": [
+      "Crna pomoćnica"
+    ],
+    "os": [
+      "Сау куыдзыбага"
+    ],
+    "hy": [
+      "Մորմ սև"
+    ],
+    "lv": [
+      "melnā naktene"
+    ],
+    "be": [
+      "паслён чорны"
+    ],
+    "szy": [
+      "atimsi"
+    ],
+    "wuu": [
+      "龙葵"
+    ],
+    "lzh": [
+      "龍葵"
+    ],
+    "as": [
+      "পকমৌ"
+    ],
+    "kw": [
+      "moghles du"
+    ],
+    "tay": [
+      "wasiq"
+    ],
+    "yue": [
+      "龍葵"
+    ],
+    "arz": [
+      "مغد اسود"
+    ],
+    "mg": [
+      "Voanantay"
+    ],
+    "inh": [
+      "Цискакомар"
+    ],
+    "ami": [
+      "Tatukem"
+    ],
+    "is": [
+      "Húmskuggi"
+    ],
+    "cdo": [
+      "老鼠烏"
+    ],
+    "sd": [
+      "ڪانول پيرون"
+    ],
+    "nan": [
+      "oo-tinn-á-tshài"
+    ],
+    "rsk": [
+      "Гадово яблучко"
+    ],
+    "mwl": [
+      "yerba moira"
+    ],
+    "grc": [
+      "στρύχνον κηπαῖον"
+    ],
+    "my": [
+      "ဗောက်လောက်ညို"
+    ],
+    "shn": [
+      "တူၼ်ႈၽၵ်းတႅင်း"
+    ],
+    "mi": [
+      "remuroa"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q146400",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q146400",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「イヌホオズキ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%83%9B%E3%82%AA%E3%82%BA%E3%82%AD",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 111032119,
+      "text": "イヌホオズキ は、ナス科ナス属の植物。バカナスとも呼ばれ、ホオズキやナスに似ているが役に立たないことから名付けられた。中国名は、龍葵。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Solanum nigrum」",
+      "source_url": "https://en.wikipedia.org/wiki/Solanum_nigrum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1369644209,
+      "text": "Solanum nigrum, the European black nightshade or simply black nightshade or blackberry nightshade, is a species of flowering plant in the family Solanaceae, native to Eurasia and introduced in the Americas, Australasia, and South Africa. Ripe berries and cooked leaves of edible strains are used as food in some locales, and plant parts are used as a traditional medicine. Some other species may also be referred to as \"black nightshade\"."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Solanum nigrum」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Solanum_nigrum#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1369644209,
+        "heading": "Cultivation",
+        "text": "Black nightshade is cultivated as a food crop on several continents, including Africa and North America. The leaves of cultivated strains are eaten after cooking. A garden form with fruit about 1.27 cm (0.50 in) diam. is occasionally cultivated.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia 英語版「Solanum nigrum」の節「Toxicity」",
+        "source_url": "https://en.wikipedia.org/wiki/Solanum_nigrum#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1369644209,
+        "heading": "Toxicity",
+        "text": "Solanine levels in S. nigrum have been tested, and the plant is rarely fatal. \nSolanine poisoning symptoms may occur when immature green fruit or mature leaves are ingested raw. There is typically a delay of 6 to 12 hours after ingestion for symptoms to occur. Initial symptoms of toxicity include fever, sweating, vomiting, abdominal pain, diarrhea, confusion, and drowsiness. Death from ingesting large amounts of the plant results from cardiac arrhythmias and respiratory failure. Livestock have also been poisoned from nitrate toxicity by grazing the mature leaves and green berries of S. nigrum. In central Spain, the great bustard (Otis tarda) may act as a seed disperser of European black nightshade (Solanum nigrum). Black nightshade is highly variable, and some advice says to avoid eating the berries unless they are a known edible strain. The toxin levels may also be affected by the plant's growing conditions. The toxins in S. nigrum are most concentrated in the unripe green berries, and immature fruit should be treated as toxic. Most cases of suspected poisoning are due to consumption of leaves or unripe fruit. There are ethnobotanical accounts of S. nigrum young leaves and shoots being boiled as a vegetable with the cooking water being discarded and replaced several times to remove toxins. Solanine is practically insoluble in water and can be destroyed by boiling but not by baking. S. nigrum's leaves may be different from this perspective. Young cooked leaves of Solanum complex sp. are a source of many useful nutrients similar to levels found in spinach. Solanum complex berries have been consumed since ancient times.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALG",
+      "AND",
+      "ASS",
+      "AUT",
+      "AZO",
+      "BAL",
+      "BAN",
+      "BGM",
+      "BUL",
+      "CHA",
+      "CHC",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHS",
+      "CHT",
+      "CNY",
+      "COR",
+      "CVI",
+      "CYP",
+      "CZE",
+      "DJI",
+      "EAI",
+      "EGY",
+      "EHM",
+      "ERI",
+      "ETH",
+      "FRA",
+      "GER",
+      "GRB",
+      "GRC",
+      "GST",
+      "HUN",
+      "IND",
+      "IRE",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "JAP",
+      "KOR",
+      "KRI",
+      "KRY",
+      "KUW",
+      "LAO",
+      "LBS",
+      "LBY",
+      "MDR",
+      "MOR",
+      "MYA",
+      "NCB",
+      "NCS",
+      "NEP",
+      "NET",
+      "OMA",
+      "PAK",
+      "PAL",
+      "POL",
+      "POR",
+      "ROM",
+      "RUC",
+      "RUS",
+      "SAR",
+      "SAU",
+      "SCS",
+      "SEL",
+      "SIC",
+      "SIN",
+      "SPA",
+      "SUD",
+      "SWI",
+      "TAI",
+      "TCS",
+      "THA",
+      "TKM",
+      "TUE",
+      "TUN",
+      "TUR",
+      "UKR",
+      "VIE",
+      "WHM",
+      "WSA",
+      "YEM",
+      "YUG"
+    ],
+    "introduced": [
+      "ALT",
+      "AMU",
+      "ASC",
+      "ASK",
+      "ATP",
+      "BLR",
+      "BLT",
+      "BOR",
+      "BRC",
+      "BRY",
+      "CAL",
+      "CPP",
+      "CTA",
+      "CTM",
+      "DEN",
+      "FIN",
+      "FLA",
+      "GEO",
+      "IDA",
+      "IOW",
+      "IRK",
+      "JAW",
+      "KAZ",
+      "KEG",
+      "KGZ",
+      "KHA",
+      "KRA",
+      "KUR",
+      "MAG",
+      "MAI",
+      "MAS",
+      "MLY",
+      "MNT",
+      "MRY",
+      "MSO",
+      "MXN",
+      "NCA",
+      "NEV",
+      "NFK",
+      "NOR",
+      "NSC",
+      "NSW",
+      "NTA",
+      "NWG",
+      "NWJ",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OKL",
+      "ONT",
+      "ORE",
+      "PEN",
+      "PHI",
+      "PRM",
+      "QLD",
+      "RUE",
+      "RUN",
+      "RUW",
+      "SAK",
+      "SOA",
+      "STH",
+      "SUM",
+      "SWE",
+      "TAS",
+      "TDC",
+      "TEX",
+      "TZK",
+      "UTA",
+      "UZB",
+      "VIC",
+      "VRG",
+      "WAS",
+      "WAU",
+      "WDC",
+      "WSB"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30048260-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual or perennial",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30048260-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0001029815.webp",
+    "author": "No machine-readable author provided. Bogdan assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_nigra_bgiu.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 379,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

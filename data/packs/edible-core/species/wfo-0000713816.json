@@ -1,0 +1,305 @@
+{
+  "id": "wfo-0000713816",
+  "scientific_name": "Gypsophila vaccaria",
+  "authorship": "(L.) Sm.",
+  "family": "Caryophyllaceae",
+  "synonyms": [
+    "Dianthus inclusus Walp.",
+    "Gypsophila vaccaria Clarke ex Towns.",
+    "Saponaria hispanica Mill.",
+    "Saponaria oxydonta Boiss.",
+    "Saponaria segetalis Neck.",
+    "Saponaria vaccaria L.",
+    "Vaccaria grandiflora (Fisch. ex Ser.) Jaub. & Spach",
+    "Vaccaria hispanica (Mill.) Rauschert",
+    "Vaccaria oxyodonta Boiss.",
+    "Vaccaria parviflora Moench",
+    "Vaccaria perfoliata Sweet",
+    "Vaccaria pyramidalis Prahl",
+    "Vaccaria pyramidata Medik.",
+    "Vaccaria segetalis (Neck.) Garcke ex Asch.",
+    "Vaccaria vulgaris Host"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "zh": [
+      "麦蓝菜",
+      "王不留行"
+    ],
+    "sl": [
+      "drobnocvetna kravsa"
+    ],
+    "ar": [
+      "فول العرب"
+    ],
+    "cs": [
+      "Kravinec španělský"
+    ],
+    "is": [
+      "Kúajurt"
+    ],
+    "hsb": [
+      "Sywna kruwowka"
+    ],
+    "be": [
+      "Тысячагалоў"
+    ],
+    "tr": [
+      "Vaccaria"
+    ],
+    "arz": [
+      "بقريه اسبانيه"
+    ],
+    "he": [
+      "סבונית השדה"
+    ],
+    "ka": [
+      "ჭეჭველა"
+    ],
+    "sv": [
+      "Åkernejlika"
+    ],
+    "et": [
+      "Põld-lehmalill"
+    ],
+    "cy": [
+      "Llysiau`r fuwch"
+    ],
+    "fa": [
+      "جغجغک"
+    ],
+    "lv": [
+      "Vakārijas"
+    ],
+    "pnb": [
+      "تکلا"
+    ],
+    "ko": [
+      "말뱅이나물"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q113252109",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q113252109",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Gypsophila vaccaria」",
+      "source_url": "https://en.wikipedia.org/wiki/Gypsophila_vaccaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1297708198,
+      "text": "Gypsophila vaccaria is a species of flowering plant in the family Caryophyllaceae. It is native from Portugal and Morocco to the Himalayas, and has been introduced into temperate areas worldwide. Among its many synonyms is Vaccaria hispanica, which was the only species placed in the genus Vaccaria. It is known by several common names including cowherb, cowcockle, cow basil, cow soapwort, and prairie carnation. It is an annual herb with blue-gray, waxy herbage and pale pink flowers."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALG",
+      "BAL",
+      "BGM",
+      "BUL",
+      "CNY",
+      "CYP",
+      "EAI",
+      "EGY",
+      "FRA",
+      "GER",
+      "GRC",
+      "GST",
+      "HUN",
+      "IND",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KAZ",
+      "KRI",
+      "KRY",
+      "LBS",
+      "LBY",
+      "MDR",
+      "MOR",
+      "NCS",
+      "NEP",
+      "PAK",
+      "PAL",
+      "POR",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUS",
+      "SAR",
+      "SAU",
+      "SIC",
+      "SIN",
+      "SPA",
+      "SWI",
+      "TCS",
+      "TKM",
+      "TUE",
+      "TUN",
+      "TUR",
+      "UKR",
+      "WHM",
+      "YEM",
+      "YUG"
+    ],
+    "introduced": [
+      "ABT",
+      "AGE",
+      "AGS",
+      "ALA",
+      "ALT",
+      "ARI",
+      "ARK",
+      "ASK",
+      "ASS",
+      "BAN",
+      "BLT",
+      "BRC",
+      "BRY",
+      "BZS",
+      "CAL",
+      "CHC",
+      "CHI",
+      "CHN",
+      "CHQ",
+      "CHS",
+      "CHT",
+      "CHX",
+      "CNT",
+      "COL",
+      "CPP",
+      "CZE",
+      "DEL",
+      "DEN",
+      "ERI",
+      "ETH",
+      "FIN",
+      "FLA",
+      "GRB",
+      "IDA",
+      "ILL",
+      "INI",
+      "IOW",
+      "IRE",
+      "IRK",
+      "JAP",
+      "JAW",
+      "KAN",
+      "KEN",
+      "KGZ",
+      "KHA",
+      "KOR",
+      "KRA",
+      "KTY",
+      "LOU",
+      "MAI",
+      "MAN",
+      "MAS",
+      "MAU",
+      "MIC",
+      "MIN",
+      "MNT",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXN",
+      "NBR",
+      "NDA",
+      "NEB",
+      "NET",
+      "NEV",
+      "NOR",
+      "NSC",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "OFS",
+      "OHI",
+      "OKL",
+      "ONT",
+      "ORE",
+      "PEN",
+      "POL",
+      "PRM",
+      "QUE",
+      "REU",
+      "RHO",
+      "SAS",
+      "SCA",
+      "SDA",
+      "SRL",
+      "SWE",
+      "TAI",
+      "TAS",
+      "TEN",
+      "TEX",
+      "THA",
+      "TVL",
+      "TZK",
+      "URU",
+      "UTA",
+      "UZB",
+      "VER",
+      "VRG",
+      "WAS",
+      "WDC",
+      "WIS",
+      "WSB",
+      "WVA",
+      "WYO",
+      "YAK",
+      "YUK"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/154685-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/154685-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000713816.webp",
+    "author": null,
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Illustration_Vaccaria_hispanica0.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 236,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "wfo-0000311990",
+  "scientific_name": "Baillonella toxisperma",
+  "authorship": "Pierre",
+  "family": "Sapotaceae",
+  "synonyms": [
+    "Baillonella djave (Engl.) Pierre ex Dubard",
+    "Baillonella obovata Pierre ex Engl.",
+    "Baillonella pierriana (Engl.) A.Chev.",
+    "Mimusops djave Engl.",
+    "Mimusops obovata Engl.",
+    "Mimusops pierreana Engl.",
+    "Mimusops toxisperma (Pierre) A.Chev."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "モアビ"
+    ],
+    "en": [
+      "djave",
+      "African Pearwood",
+      "Djave Nut",
+      "Moabi"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1936474",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q1936474",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「モアビ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%A2%E3%83%93",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 109598253,
+      "text": "モアビ とはアカテツ科の高木の一種である。中部アフリカを中心に分布し 、日本ではサクラ材の代用材（いわゆる「洋桜」）の一つとして流通するが、現地では果実や種子の仁が食用、様々な部位が薬用に用いられる。"
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "CAB",
+      "CAF",
+      "CMN",
+      "CON",
+      "GAB",
+      "NGA",
+      "ZAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/785801-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/785801-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000311990.webp",
+    "author": "Jabea Tongo Etonde",
+    "license": "CC0 1.0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Baillonella_toxisperma.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-09"
+  }
+}

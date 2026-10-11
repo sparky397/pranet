@@ -1,0 +1,234 @@
+{
+  "id": "wfo-0000185101",
+  "scientific_name": "Pueraria montana",
+  "authorship": "(Lour.) Merr.",
+  "family": "Fabaceae",
+  "synonyms": [
+    "Dolichos montana Lour.",
+    "Dolichos montanus Lour.",
+    "Glycine moniliforme Hochst. ex A.Rich.",
+    "Pueraria omeiensis T.Tang & Wang"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "タイワンクズ",
+      "クズ"
+    ],
+    "en": [
+      "kudzu"
+    ],
+    "zh": [
+      "山葛",
+      "葛",
+      "南葛藤",
+      "葛麻姆"
+    ],
+    "pl": [
+      "Opornik łatkowaty"
+    ],
+    "ko": [
+      "칡"
+    ],
+    "ar": [
+      "كشت جبلي"
+    ],
+    "sv": [
+      "Kudzuböna"
+    ],
+    "uk": [
+      "Пуэрария лопастная"
+    ],
+    "fa": [
+      "پیورریا مونتانا"
+    ],
+    "hu": [
+      "Kudzu nyílgyökér"
+    ],
+    "et": [
+      "Hõlmine pueraaria"
+    ],
+    "arz": [
+      "كودزو"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1054489",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q1054489",
+  "search_names": {
+    "ja": [
+      "カッコン",
+      "葛根"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「タイワンクズ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%AF%E3%83%B3%E3%82%AF%E3%82%BA",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 111006485,
+      "text": "タイワンクズ は、マメ科クズ属のつる性常緑樹～多年草。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Pueraria montana」",
+      "source_url": "https://en.wikipedia.org/wiki/Pueraria_montana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1360603932,
+      "text": "Pueraria montana, more commonly known as kudzu, is a species of plant in the botanical family Fabaceae. At least three sub-species are known. It is closely related to other species in the genus Pueraria and the common name is used for all of these species and hybrids between them. The morphological differences between them are subtle, they can breed with each other, and it appears that introduced kudzu populations in the United States have ancestry from more than one of the species."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "BAN",
+      "CBD",
+      "CHC",
+      "CHH",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHS",
+      "CHT",
+      "CRL",
+      "EHM",
+      "IND",
+      "JAP",
+      "JAW",
+      "KOR",
+      "LAO",
+      "MLY",
+      "MOL",
+      "MYA",
+      "NNS",
+      "NTA",
+      "NWG",
+      "OGA",
+      "PHI",
+      "PRM",
+      "SOL",
+      "TAI",
+      "THA",
+      "VIE"
+    ],
+    "introduced": [
+      "AGE",
+      "ALA",
+      "ANG",
+      "ARK",
+      "ASS",
+      "AZO",
+      "BER",
+      "BUR",
+      "CAF",
+      "CMN",
+      "DOM",
+      "ETH",
+      "FIJ",
+      "FLA",
+      "GAB",
+      "GEO",
+      "GHA",
+      "GIL",
+      "HAW",
+      "HON",
+      "ILL",
+      "ITA",
+      "KAN",
+      "KRY",
+      "KTY",
+      "LBR",
+      "LOU",
+      "MAI",
+      "MAS",
+      "MOZ",
+      "MRY",
+      "MSI",
+      "NCA",
+      "NEP",
+      "NFK",
+      "NGA",
+      "NSC",
+      "NSW",
+      "NUE",
+      "NWC",
+      "NWJ",
+      "NWY",
+      "OKL",
+      "PAK",
+      "PAN",
+      "PEN",
+      "QLD",
+      "SAM",
+      "SCA",
+      "SCI",
+      "SEN",
+      "SIE",
+      "SUD",
+      "TCS",
+      "TEN",
+      "TEX",
+      "TON",
+      "TVL",
+      "TZK",
+      "UKR",
+      "VAN",
+      "VRG",
+      "WAL",
+      "WHM",
+      "YUG",
+      "ZAI"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/516708-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "scrambling subshrub or tuberous geophyte",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/516708-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000185101.webp",
+    "author": "Photo by Peggy Greb.",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Flowering_kudzu.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 261,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "id": "wfo-0000015140",
+  "scientific_name": "Lactuca serriola",
+  "authorship": "L.",
+  "family": "Asteraceae",
+  "synonyms": [
+    "Lactuca albicaulis Boiss.",
+    "Lactuca altaica Fisch. & C.A.Mey.",
+    "Lactuca altaica Fisch. & Mey.",
+    "Lactuca augustana All.",
+    "Lactuca coriacea Sch.Bip.",
+    "Lactuca dubia Jord.",
+    "Lactuca elata Salisb.",
+    "Lactuca integrata (Gren. & Godr.) A.Nelson",
+    "Lactuca kemaliya Yıld.",
+    "Lactuca latifolia Gilib.",
+    "Lactuca scariola L.",
+    "Lactuca sylvestris Lam.",
+    "Lactuca tephrocarpa K.Koch",
+    "Lactuca verticalis Gaterau",
+    "Lactuca virosa Thunb."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "de": [
+      "Kompass-Lattich",
+      "Kompasslattich",
+      "Stachel-Lattich"
+    ],
+    "en": [
+      "prickly lettuce"
+    ],
+    "zh": [
+      "刺萵苣",
+      "刺莴苣",
+      "毒莴苣",
+      "野莴苣"
+    ],
+    "nl": [
+      "Kompassla"
+    ],
+    "cs": [
+      "locika kompasová"
+    ],
+    "fr": [
+      "laitue scariole"
+    ],
+    "fi": [
+      "piikkisalaatti"
+    ],
+    "hu": [
+      "keszeg saláta"
+    ],
+    "ar": [
+      "خس منشاري"
+    ],
+    "az": [
+      "Yabanı kahı"
+    ],
+    "fa": [
+      "کاهوئک"
+    ],
+    "sv": [
+      "Taggsallat"
+    ],
+    "uk": [
+      "салат компасний"
+    ],
+    "cy": [
+      "Letusen bigog"
+    ],
+    "bg": [
+      "компасна салата"
+    ],
+    "ko": [
+      "가시상추"
+    ],
+    "ja": [
+      "トゲチシャ"
+    ],
+    "sk": [
+      "šalát kompasový"
+    ],
+    "pl": [
+      "sałata kompasowa"
+    ],
+    "azb": [
+      "بالاغ‌اوتو"
+    ],
+    "hy": [
+      "Կաթնուկ կողմնացույցային"
+    ],
+    "he": [
+      "חסת המצפן"
+    ],
+    "be": [
+      "салата компасная"
+    ],
+    "et": [
+      "Noollehine salat"
+    ],
+    "arz": [
+      "خس منشارى"
+    ],
+    "sd": [
+      "ڪاھو"
+    ],
+    "cv": [
+      "Тискер хурхуххи"
+    ],
+    "mzn": [
+      "خر کنگر"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q533481",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q533481",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Lactuca serriola」",
+      "source_url": "https://en.wikipedia.org/wiki/Lactuca_serriola",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1374798991,
+      "text": "Lactuca serriola, also called prickly lettuce, milk thistle, compass plant, and scarole, is an annual or biennial plant in the tribe Cichorieae within the family Asteraceae. It has a slightly fetid odor and is commonly considered a weed of orchards, roadsides and field crops. It is the closest wild relative of cultivated lettuce."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia 英語版「Lactuca serriola」の節「Toxicity」",
+        "source_url": "https://en.wikipedia.org/wiki/Lactuca_serriola#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 1374798991,
+        "heading": "Toxicity",
+        "text": "It can cause pulmonary emphysema in cattle feeding exclusively on the plant.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALG",
+      "ALT",
+      "AUT",
+      "AZO",
+      "BAL",
+      "BGM",
+      "BLR",
+      "BLT",
+      "BUL",
+      "CHI",
+      "CHX",
+      "CNY",
+      "COR",
+      "CYP",
+      "CZE",
+      "DEN",
+      "EAI",
+      "EGY",
+      "ERI",
+      "ETH",
+      "FIN",
+      "FRA",
+      "GER",
+      "GRC",
+      "HUN",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KAZ",
+      "KGZ",
+      "KRI",
+      "KRY",
+      "LBS",
+      "LBY",
+      "MDR",
+      "MON",
+      "MOR",
+      "NCS",
+      "NET",
+      "NOR",
+      "PAK",
+      "PAL",
+      "POL",
+      "POR",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUN",
+      "RUS",
+      "RUW",
+      "SAR",
+      "SAU",
+      "SIC",
+      "SIN",
+      "SOM",
+      "SPA",
+      "SUD",
+      "SWE",
+      "SWI",
+      "TCS",
+      "TKM",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TVA",
+      "TZK",
+      "UKR",
+      "UZB",
+      "WHM",
+      "WSB",
+      "YEM",
+      "YUG"
+    ],
+    "introduced": [
+      "ABT",
+      "AGE",
+      "AGS",
+      "AGW",
+      "ALA",
+      "AMU",
+      "ARI",
+      "ARK",
+      "ASS",
+      "BOL",
+      "BOT",
+      "BRC",
+      "BRY",
+      "BZS",
+      "CAL",
+      "CHC",
+      "CHN",
+      "CHS",
+      "CLC",
+      "CNT",
+      "COL",
+      "CPP",
+      "DEL",
+      "DOM",
+      "EHM",
+      "FLA",
+      "GEO",
+      "GRB",
+      "GST",
+      "HAI",
+      "HAW",
+      "IDA",
+      "ILL",
+      "INI",
+      "IOW",
+      "IRE",
+      "JAP",
+      "KAN",
+      "KHA",
+      "KOR",
+      "KTY",
+      "LEE",
+      "LES",
+      "LOU",
+      "MAI",
+      "MAN",
+      "MAS",
+      "MIC",
+      "MIN",
+      "MNT",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "NAM",
+      "NAT",
+      "NBR",
+      "NCA",
+      "NDA",
+      "NEB",
+      "NEV",
+      "NSC",
+      "NSW",
+      "NTA",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWT",
+      "NWY",
+      "NZN",
+      "NZS",
+      "OFS",
+      "OHI",
+      "OKL",
+      "ONT",
+      "ORE",
+      "PAR",
+      "PEI",
+      "PEN",
+      "PRM",
+      "QLD",
+      "QUE",
+      "RHO",
+      "SAK",
+      "SAS",
+      "SCA",
+      "SDA",
+      "SEY",
+      "SOA",
+      "TAI",
+      "TAS",
+      "TDC",
+      "TEN",
+      "TEX",
+      "TVL",
+      "URU",
+      "UTA",
+      "VER",
+      "VIC",
+      "VIE",
+      "VRG",
+      "WAS",
+      "WAU",
+      "WDC",
+      "WIS",
+      "WVA",
+      "WYO",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/228255-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual or biennial",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/228255-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000015140.webp",
+    "author": null,
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Lactucaserriola2web.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 331,
+    "retrieved": "2026-10-09"
+  }
+}

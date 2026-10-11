@@ -1,0 +1,166 @@
+{
+  "id": "wfo-0000477371",
+  "scientific_name": "Polygala paniculata",
+  "authorship": "L.",
+  "family": "Polygalaceae",
+  "synonyms": [
+    "Polygala carlotina E.H.L.Krause",
+    "Polygala ramosissima Cav."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "コバナヒメハギ"
+    ],
+    "en": [
+      "Senega paniculata",
+      "orosne"
+    ],
+    "zh": [
+      "圓錐花遠志",
+      "圆锥花远志"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q10926678",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q10926678",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「コバナヒメハギ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%90%E3%83%8A%E3%83%92%E3%83%A1%E3%83%8F%E3%82%AE",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 106361612,
+      "text": "コバナヒメハギ Polygala paniculata L. は、ヒメハギ科に属する植物。白くて小さな花を多数付ける。カスミヒメハギとも言う。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Senega paniculata」",
+      "source_url": "https://en.wikipedia.org/wiki/Senega_paniculata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1369183449,
+      "text": "Senega paniculata is a species of flowering plant in the milkwort family (Polygalaceae). It is native to grasslands with altitudes between 350 and 1,700 metres. It is native to Central and South America and has been introduced to East Africa, South Asia, and Southeast Asia. It is an annual herb which has a height between 15 and 50 centimetres It is used as a medicine against snake bites and blenorrhagias. The flowers of the plant have been described as pink or white."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "AGE",
+      "BLZ",
+      "BOL",
+      "BZC",
+      "BZE",
+      "BZL",
+      "BZN",
+      "BZS",
+      "CLM",
+      "COS",
+      "CUB",
+      "DOM",
+      "ECU",
+      "ELS",
+      "GUA",
+      "GUY",
+      "HAI",
+      "HON",
+      "LEE",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXS",
+      "MXT",
+      "NIC",
+      "PAN",
+      "PAR",
+      "PER",
+      "PUE",
+      "TRT",
+      "VEN",
+      "VNA",
+      "WIN"
+    ],
+    "introduced": [
+      "BIS",
+      "BOR",
+      "CHS",
+      "COO",
+      "CRL",
+      "FIJ",
+      "GIL",
+      "HAW",
+      "IND",
+      "JAW",
+      "KEN",
+      "LAO",
+      "LSI",
+      "MLY",
+      "MOL",
+      "MRN",
+      "MRQ",
+      "NNS",
+      "NRU",
+      "NUE",
+      "NWC",
+      "NWG",
+      "PHI",
+      "SAM",
+      "SCZ",
+      "SOL",
+      "SUL",
+      "SUM",
+      "TAI",
+      "TAN",
+      "TOK",
+      "VAN",
+      "VIE",
+      "WAL"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/77321397-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/77321397-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000477371.webp",
+    "author": "Forest & Kim Starr",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Starr_070306-5117_Polygala_paniculata.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "wfo-0000962725",
+  "scientific_name": "Euphorbia ingens",
+  "authorship": "E.Mey.",
+  "family": "Euphorbiaceae",
+  "synonyms": [
+    "Euphorbia bilocularis N.E.Br.",
+    "Euphorbia confertiflora Volkens",
+    "Euphorbia reinhardtii Volkens",
+    "Euphorbia similis A.Berger",
+    "Euphorbia tozzii Chiov."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "チュウテンカク"
+    ],
+    "zh": [
+      "冲天阁"
+    ],
+    "af": [
+      "Naboom"
+    ],
+    "ru": [
+      "Молочай великий"
+    ],
+    "fa": [
+      "یوفوربیا اینگنس"
+    ],
+    "pt": [
+      "Candelabro"
+    ],
+    "ar": [
+      "فربيون عظيم"
+    ],
+    "arz": [
+      "فربيون عظيم"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q3272655",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q3272655",
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「チュウテンカク」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%82%A6%E3%83%86%E3%83%B3%E3%82%AB%E3%82%AF",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 109596655,
+      "text": "Euphorbia ingens はトウダイグサ属の植物の一種。園芸名はチュウテンカク（沖天閣）。ツリーユーフォルビア とも呼ばれる。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Euphorbia ingens」",
+      "source_url": "https://en.wikipedia.org/wiki/Euphorbia_ingens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1365703868,
+      "text": "Euphorbia ingens is a species of flowering plant in the family Euphorbiaceae. It is native to dry areas of southern Africa. It is popularly known as the candelabra tree or naboom. Its milky latex can be extremely poisonous and is a dangerous irritant."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "ja": {
+        "source": "Wikipedia 日本語版「チュウテンカク」の節「毒性」",
+        "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%82%A6%E3%83%86%E3%83%B3%E3%82%AB%E3%82%AF#%E6%AF%92%E6%80%A7",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 109596655,
+        "heading": "毒性",
+        "text": "多肉質な枝の内側には白い乳液が含まれるが、これには強い刺激性や補発癌性を持つインゲノール（ingenol）ジテルペンエステルが含まれる。この乳液が傷口や目に入ると危険である。ケニアでは本種の乳液を伝統医療に使用しようと試みた結果、死亡事故が起きたという報告が数件存在する。\nまた、本種から得られた蜜にも刺激性があり、口に炎症を起こすため食用とすることはできないとされる。しかしケニアの乾燥地域において、本種は重要な蜜源植物である。",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "BOT",
+      "BUR",
+      "CPV",
+      "ERI",
+      "ETH",
+      "KEN",
+      "MLW",
+      "MOZ",
+      "NAT",
+      "RWA",
+      "SOM",
+      "SWZ",
+      "TAN",
+      "TVL",
+      "UGA",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/346904-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "succulent tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/346904-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000962725.webp",
+    "author": "Hans Hillewaert",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ingens_(habitus).jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "wfo-0000429522",
+  "scientific_name": "Zanthoxylum bungeanum",
+  "authorship": "Maxim.",
+  "family": "Rutaceae",
+  "synonyms": [
+    "Zanthoxylum nitidum Bunge",
+    "Zanthoxylum piperitum Benn."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-09"
+  },
+  "names": {
+    "ja": [
+      "カホクザンショウ"
+    ],
+    "zh": [
+      "花椒",
+      "簕欓",
+      "花椒叶",
+      "花椒根",
+      "椒目",
+      "花椒茎"
+    ],
+    "bg": [
+      "японски пипер"
+    ],
+    "ar": [
+      "فاغرة فلفلية"
+    ],
+    "uk": [
+      "Перець японський"
+    ],
+    "ug": [
+      "كاۋاۋىچىن"
+    ],
+    "mnc": [
+      "ᡶᡠᠰᡝᡵᡳ"
+    ],
+    "shn": [
+      "မၢၵ်ႇၵၢတ်ႈ"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15397152",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-09"
+  },
+  "wikidata": "Q15397152",
+  "search_names": {
+    "ja": [
+      "花椒"
+    ]
+  },
+  "description": {
+    "ja": {
+      "source": "Wikipedia 日本語版「カホクザンショウ」",
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9B%E3%82%AF%E3%82%B6%E3%83%B3%E3%82%B7%E3%83%A7%E3%82%A6",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 107513233,
+      "text": "カホクザンショウ は、中国のミカン科サンショウ属の落葉低木である。日本原産のサンショウ（山椒）とは同属異種に当たる。"
+    },
+    "en": {
+      "source": "Wikipedia 英語版「Zanthoxylum bungeanum」",
+      "source_url": "https://en.wikipedia.org/wiki/Zanthoxylum_bungeanum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-09",
+      "revision": 1356353558,
+      "text": "Zanthoxylum bungeanum  is a species of plant in the family Rutaceae. It is one of the sources of the spice Sichuan pepper. The plant is native to North-Central China, South-Central China, Southeast China, East Himalayas, Inner Mongolia, Manchuria, Nepal, Qinghai, Tibet, Xinjiang. It has also been introduced into Uzbekistan. Studies have shown that essential oils from Z. bungeanum Maxim can be used as a natural pest control agent against the Drugstore beetle pest. Its seed, called Sichuanese Peppercorn, has been served as a traditional medicine and used as cooking spice in China."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "ja": {
+        "source": "Wikipedia 日本語版「カホクザンショウ」の節「栽培」",
+        "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9B%E3%82%AF%E3%82%B6%E3%83%B3%E3%82%B7%E3%83%A7%E3%82%A6#%E6%A0%BD%E5%9F%B9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-09",
+        "revision": 107513233,
+        "heading": "栽培",
+        "text": "中国の貿易商が、日本の山口県や大阪府泉佐野市にて青花椒の栽培を試みている。",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-09"
+  },
+  "distribution": {
+    "native": [
+      "CHC",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHQ",
+      "CHS",
+      "CHT",
+      "CHX",
+      "EHM",
+      "NEP"
+    ],
+    "introduced": [
+      "UZB"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/775625-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/775625-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-09"
+  },
+  "photo": {
+    "file": "photos/wfo-0000429522.webp",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Poivre4.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 393,
+    "height": 400,
+    "retrieved": "2026-10-09"
+  }
+}
