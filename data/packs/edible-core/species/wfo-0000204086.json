@@ -1,0 +1,219 @@
+{
+  "id": "wfo-0000204086",
+  "scientific_name": "Acacia melanoxylon",
+  "authorship": "R.Br.",
+  "family": "Fabaceae",
+  "synonyms": [
+    "Acacia arcuata Sieber ex Spreng.",
+    "Acacia latifolia Desf.",
+    "Acacia melanoxylum R.Br.",
+    "Mimosa melanoxylon (R.Br.) Poir.",
+    "Mimosa melanoxylum Poir.",
+    "Racosperma melanoxylon (R.Br.) C.Mart.",
+    "Racosperma melanoxylon (R.Br.) Pedley"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "cy": [
+      "acasia pren du"
+    ],
+    "en": [
+      "blackwood"
+    ],
+    "zh": [
+      "黑木相思树",
+      "澳洲黑木",
+      "黑木相思"
+    ],
+    "ast": [
+      "alcacia negra"
+    ],
+    "fr": [
+      "Mimosa à bois noir"
+    ],
+    "am": [
+      "ኦሜድላ"
+    ],
+    "az": [
+      "Qara akasiya"
+    ],
+    "et": [
+      "Must akaatsia"
+    ],
+    "ka": [
+      "აბანოზის აკაცია"
+    ],
+    "ru": [
+      "Акация чёрная"
+    ],
+    "sv": [
+      "Svartvedsakacia"
+    ],
+    "uk": [
+      "Акація чорнодеревна"
+    ],
+    "af": [
+      "Swarthout"
+    ],
+    "fa": [
+      "آکاکیا ملانکسیلون"
+    ],
+    "bg": [
+      "черна акация"
+    ],
+    "azb": [
+      "قارا آکاسی"
+    ],
+    "eu": [
+      "Zur beltzeko akazia"
+    ],
+    "hy": [
+      "Սև ակացիա"
+    ],
+    "he": [
+      "שיטה שחורה"
+    ],
+    "arz": [
+      "اكاسيا ميلانوكسيلون"
+    ],
+    "ar": [
+      "سنط أسود الخشب"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q386585",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q386585",
+  "search_names": {
+    "en": [
+      "Australian blackwood",
+      "Tasmanian blackwood",
+      "sally wattle",
+      "mudgerabah",
+      "hickory",
+      "blackwood acacia"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Acacia melanoxylon」",
+      "source_url": "https://en.wikipedia.org/wiki/Acacia_melanoxylon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1371245869,
+      "text": "Acacia melanoxylon, commonly known as the Australian blackwood, is an Acacia species native to south-eastern Australia and an invasive species in other regions of the globe. The species is also known as blackwood, hickory, mudgerabah, Tasmanian blackwood, or blackwood acacia. The tree belongs to the Plurinerves section of Acacia and is one of the most wide-ranging tree species in eastern Australia and is quite variable mostly in the size and shape of the phyllodes."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "HF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "NSW",
+      "QLD",
+      "SOA",
+      "TAS",
+      "VIC"
+    ],
+    "introduced": [
+      "AGE",
+      "ALG",
+      "ANG",
+      "ASP",
+      "ASS",
+      "AZO",
+      "BZS",
+      "CAL",
+      "CLM",
+      "CLN",
+      "CLS",
+      "CNY",
+      "CPP",
+      "EAS",
+      "ECU",
+      "EHM",
+      "ERI",
+      "ETH",
+      "FRA",
+      "GRB",
+      "GRC",
+      "HAW",
+      "IND",
+      "ITA",
+      "JNF",
+      "KEN",
+      "LES",
+      "MAU",
+      "MDR",
+      "MOR",
+      "NAT",
+      "NEP",
+      "NZN",
+      "NZS",
+      "PAK",
+      "PAL",
+      "PER",
+      "POR",
+      "PUE",
+      "REU",
+      "SPA",
+      "SRL",
+      "STH",
+      "SWZ",
+      "TAN",
+      "TCS",
+      "UKR",
+      "URU",
+      "VEN",
+      "WAU",
+      "ZAI"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/470873-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/470873-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000204086.webp",
+    "author": "SAplants",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_melanoxylon_50D_2446.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 267,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

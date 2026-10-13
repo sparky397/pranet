@@ -1,0 +1,250 @@
+{
+  "id": "wfo-0000439346",
+  "scientific_name": "Sambucus canadensis",
+  "authorship": "L.",
+  "family": "Viburnaceae",
+  "synonyms": [
+    "Aralia sololensis Donn.Sm.",
+    "Sambucus bipinnata Moench",
+    "Sambucus bipinnata Schltdl. & Cham.",
+    "Sambucus eberhardtii Danguy",
+    "Sambucus orbiculata Greene",
+    "Sambucus oreopola Donn.Sm.",
+    "Sambucus planteriensis Simon-Louis ex Dippel",
+    "Sambucus plantierensis Koehne",
+    "Sambucus rehderiana Schwer.",
+    "Sambucus repens Raf.",
+    "Sambucus simpsonii Rehder"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "cy": [
+      "ysgawen America"
+    ],
+    "nl": [
+      "Amerikaanse vlier"
+    ],
+    "zh": [
+      "美洲接骨木",
+      "加拿大接骨木"
+    ],
+    "ru": [
+      "Бузина канадская"
+    ],
+    "fi": [
+      "kanadanselja"
+    ],
+    "ar": [
+      "خمان كندي"
+    ],
+    "et": [
+      "Kanada leeder"
+    ],
+    "ne": [
+      "कनिकेफूल"
+    ],
+    "th": [
+      "พวงไข่มุก"
+    ],
+    "arz": [
+      "خمان كندى"
+    ],
+    "fa": [
+      "آقطی کانادایی"
+    ],
+    "is": [
+      "Ameríkuyllir"
+    ],
+    "az": [
+      "Kanada gəndəlaşı"
+    ],
+    "be": [
+      "Бузіна канадская"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q21877280",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q21877280",
+  "search_names": {
+    "en": [
+      "American black elderberry",
+      "Canada elderberry",
+      "common elderberry"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Sambucus canadensis」",
+      "source_url": "https://en.wikipedia.org/wiki/Sambucus_canadensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1369945835,
+      "text": "Sambucus canadensis, the American black elderberry, Canada elderberry, or common elderberry, is a New World species of elderberry that forms a shrub primarily in temperate regions."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia 英語版「Sambucus canadensis」の節「Toxicity」",
+        "source_url": "https://en.wikipedia.org/wiki/Sambucus_canadensis#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-12",
+        "revision": 1369945835,
+        "heading": "Toxicity",
+        "text": "Inedible parts of the plant, such as the leaves, stems, roots, seeds and unripe fruits, can be toxic due to the presence of cyanogenic glycosides and alkaloids.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "ALA",
+      "ARI",
+      "ARK",
+      "BLZ",
+      "BOL",
+      "CAL",
+      "CLM",
+      "CNT",
+      "COS",
+      "DEL",
+      "ECU",
+      "ELS",
+      "FLA",
+      "GEO",
+      "GUA",
+      "HON",
+      "ILL",
+      "INI",
+      "IOW",
+      "KAN",
+      "KTY",
+      "LOU",
+      "MAI",
+      "MAN",
+      "MAS",
+      "MIC",
+      "MIN",
+      "MNT",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NBR",
+      "NCA",
+      "NDA",
+      "NEB",
+      "NSC",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "OHI",
+      "OKL",
+      "ONT",
+      "PAN",
+      "PEI",
+      "PEN",
+      "PER",
+      "QUE",
+      "RHO",
+      "SCA",
+      "SDA",
+      "TEN",
+      "TEX",
+      "VEN",
+      "VER",
+      "VRG",
+      "WDC",
+      "WIS",
+      "WVA",
+      "WYO"
+    ],
+    "introduced": [
+      "ASS",
+      "BAN",
+      "BER",
+      "BUR",
+      "CAY",
+      "CBD",
+      "CNY",
+      "COL",
+      "CUB",
+      "DOM",
+      "EHM",
+      "GER",
+      "GGI",
+      "GRB",
+      "HAI",
+      "JAM",
+      "JAW",
+      "LAO",
+      "LEE",
+      "LSI",
+      "MYA",
+      "NEP",
+      "PUE",
+      "RWA",
+      "THA",
+      "TRT",
+      "VIE",
+      "WIN",
+      "ZAI"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/321978-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/321978-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000439346.webp",
+    "author": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sambucus_canadensis_6zz.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 267,
+    "retrieved": "2026-10-12"
+  }
+}

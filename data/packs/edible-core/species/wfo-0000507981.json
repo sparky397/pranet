@@ -1,0 +1,216 @@
+{
+  "id": "wfo-0000507981",
+  "scientific_name": "Sphenoclea zeylanica",
+  "authorship": "Gaertn.",
+  "family": "Sphenocleaceae",
+  "synonyms": [
+    "Gaertnera pangati Retz.",
+    "Gaertnera pongatii Retz.",
+    "Pongatium indicum Lam.",
+    "Pongatium spongiosum Blanco",
+    "Pongatium zeylanicum Kuntze",
+    "Rapinia herbacea Lour.",
+    "Reichelia palustris Blanco",
+    "Sphenoclea pongatia A.DC."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "chickenspike"
+    ],
+    "zh": [
+      "尖瓣花",
+      "楔瓣花"
+    ],
+    "pam": [
+      "Larang dapu"
+    ],
+    "th": [
+      "ผักปอด"
+    ],
+    "ban": [
+      "Gonda"
+    ],
+    "sg": [
+      "Yorö-börö"
+    ],
+    "arz": [
+      "سفينوكليا زيلانيكا"
+    ],
+    "ml": [
+      "പൊങ്ങത്തി"
+    ],
+    "pa": [
+      "ਸਣੀ (ਨਦੀਨ)"
+    ],
+    "id": [
+      "Gonda (tumbuhan)"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q311346",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q311346",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Sphenoclea zeylanica」",
+      "source_url": "https://en.wikipedia.org/wiki/Sphenoclea_zeylanica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1296321598,
+      "text": "Sphenoclea zeylanica, called chickenspike, gooseweed, and wedgewort, is a widespread species of flowering plant in the genus Sphenoclea, native to Africa, Madagascar, tropical and subtropical Asia, and Australia. It is widely introduced in the New World tropics and subtopics from the southern United States to northern Argentina. Its young leaves are edible and are occasionally eaten, perhaps with a light boiling. A common weed of rice paddies, it can cause yield losses from 25 to 50%."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "AND",
+      "ASS",
+      "BAN",
+      "BEN",
+      "BKN",
+      "BOT",
+      "BUR",
+      "CAF",
+      "CBD",
+      "CHA",
+      "CHC",
+      "CHH",
+      "CHS",
+      "CMN",
+      "CON",
+      "EGY",
+      "ETH",
+      "GAB",
+      "GAM",
+      "GHA",
+      "GNB",
+      "GUI",
+      "IND",
+      "IRN",
+      "IRQ",
+      "IVO",
+      "JAW",
+      "LSI",
+      "MDG",
+      "MLI",
+      "MLW",
+      "MLY",
+      "MOZ",
+      "MTN",
+      "MYA",
+      "NAM",
+      "NAT",
+      "NEP",
+      "NGA",
+      "NGR",
+      "NTA",
+      "PAK",
+      "PHI",
+      "RWA",
+      "SEN",
+      "SIE",
+      "SOL",
+      "SOM",
+      "SRL",
+      "SUD",
+      "SUL",
+      "SWZ",
+      "TAI",
+      "TAN",
+      "THA",
+      "TOG",
+      "TVL",
+      "TZK",
+      "UGA",
+      "UZB",
+      "VIE",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "introduced": [
+      "AGE",
+      "AGW",
+      "ALA",
+      "ARK",
+      "BLZ",
+      "BOL",
+      "BZC",
+      "BZE",
+      "BZL",
+      "BZN",
+      "CLM",
+      "COS",
+      "CUB",
+      "DOM",
+      "ECU",
+      "FLA",
+      "GEO",
+      "GUA",
+      "HAI",
+      "HON",
+      "JAP",
+      "LOU",
+      "MSI",
+      "MSO",
+      "MXS",
+      "NCA",
+      "NIC",
+      "OKL",
+      "PAR",
+      "PUE",
+      "SCA",
+      "TEX",
+      "TRT",
+      "VEN",
+      "WIN"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/145463-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "semiaquatic annual",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/145463-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000507981.webp",
+    "author": "Marco Schmidt",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sphenoclea_zeylanica_MS_2295.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 267,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

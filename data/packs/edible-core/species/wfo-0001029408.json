@@ -1,0 +1,187 @@
+{
+  "id": "wfo-0001029408",
+  "scientific_name": "Solanum mauritianum",
+  "authorship": "Scop.",
+  "family": "Solanaceae",
+  "synonyms": [
+    "Solanum auriculatum Aiton",
+    "Solanum carterianum Rock",
+    "Solanum pulverulentum Salisb.",
+    "Solanum tabaccifolium Vell."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "earleaf nightshade"
+    ],
+    "zh": [
+      "野煙樹",
+      "野烟树",
+      "假烟树"
+    ],
+    "de": [
+      "Wollblütiger Nachtschatten"
+    ],
+    "af": [
+      "Luisboom"
+    ],
+    "to": [
+      "Pula"
+    ],
+    "ja": [
+      "ダイオウナスビ"
+    ],
+    "he": [
+      "סולונום"
+    ],
+    "ace": [
+      "Beuraleuen"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q2097687",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q2097687",
+  "search_names": {
+    "en": [
+      "woolly nightshade",
+      "bugweed",
+      "tobacco weed",
+      "flannel weed",
+      "tobacco bush",
+      "kerosene plant",
+      "wooly nightshade",
+      "wild tobacco",
+      "ear-leaved nightshade"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Solanum mauritianum」",
+      "source_url": "https://en.wikipedia.org/wiki/Solanum_mauritianum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1376477410,
+      "text": "Solanum mauritianum is a small tree or shrub native to South America, including Northern Argentina, Southern Brazil, Paraguay and Uruguay. Its common names include earleaf nightshade, woolly nightshade, flannel weed, bugweed, tobacco weed, tobacco bush, wild tobacco and kerosene plant."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia 英語版「Solanum mauritianum」の節「Toxicity」",
+        "source_url": "https://en.wikipedia.org/wiki/Solanum_mauritianum#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-12",
+        "revision": 1376477410,
+        "heading": "Toxicity",
+        "text": "It is alleged that all parts of the Solanum mauritianum plant are poisonous to humans, especially the unripe berries, and furthermore that human fatalities have resulted from the consumption of the berries, and cases of fatal poisoning in pigs and illness in cattle have been reported in Queensland. \nHowever, mountain possums appear to eat it without ill effect, and stripping of bark, leaves, and terminal shoots has destroyed pure stands of S.mauritianum.  Watt & Brandwijk state that horses, domestic chickens and all birds eat the fruit with impunity, and further state that no records of poisoning in children exist, casting doubt on contrary published accounts.\nThe main toxic compound is the alkaloid, solasodine, with the highest content in the unripe green berry (2–3.5% dry weight). Solauricine, solauricidine, and solasodamine have also been found in Solanum mauritianum.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "AGE",
+      "BZL",
+      "BZS",
+      "URU"
+    ],
+    "introduced": [
+      "ANG",
+      "AZO",
+      "BAN",
+      "CAL",
+      "CMN",
+      "CNY",
+      "COM",
+      "COO",
+      "CPP",
+      "ECU",
+      "EHM",
+      "FIJ",
+      "FLA",
+      "GUI",
+      "HAW",
+      "JAW",
+      "KEN",
+      "MAU",
+      "MDG",
+      "MDR",
+      "MOZ",
+      "NAM",
+      "NEP",
+      "NFK",
+      "NGA",
+      "NSW",
+      "NWC",
+      "NZN",
+      "OFS",
+      "PER",
+      "PHI",
+      "QLD",
+      "REU",
+      "RWA",
+      "SIE",
+      "SOA",
+      "SRL",
+      "TAS",
+      "TON",
+      "TVL",
+      "UGA",
+      "VIE",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/330666-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/330666-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0001029408.webp",
+    "author": "Peter Greenwell",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Solanummauritianum.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-12"
+  }
+}

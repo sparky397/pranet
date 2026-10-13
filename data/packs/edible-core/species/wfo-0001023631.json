@@ -1,0 +1,337 @@
+{
+  "id": "wfo-0001023631",
+  "scientific_name": "Nicandra physalodes",
+  "authorship": "(L.) Gaertn.",
+  "family": "Solanaceae",
+  "synonyms": [
+    "Atropa physalodes L.",
+    "Boberella nicandra E.H.L.Krause",
+    "Calydermos erosus Ruiz & Pav.",
+    "Nicandra macrocalyx Bitter",
+    "Nicandra minor Fisch., C.A.Mey. & Avé-Lall.",
+    "Nicandra nana Bitter",
+    "Nicandra nebulosa Bitter",
+    "Nicandra parvimaculata Bitter",
+    "Nicandra violacea André ex Lemoine",
+    "Pentagonia physalodes (L.) Hiern",
+    "Physalis daturifolia Lam.",
+    "Physalis peruviana Mill.",
+    "Physalis spectabilis Salisb.",
+    "Physalodes physalodes (L.) Britton"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "de": [
+      "Giftbeere"
+    ],
+    "en": [
+      "apple of Peru",
+      "Apple-of-Peru",
+      "shoo-fly plant"
+    ],
+    "sv": [
+      "Ballongblomma"
+    ],
+    "zh": [
+      "大本炮仔草",
+      "假酸漿",
+      "假酸浆",
+      "大千生"
+    ],
+    "nl": [
+      "Zegekruid"
+    ],
+    "cs": [
+      "lilík mochyňovitý"
+    ],
+    "fi": [
+      "perunkoiso"
+    ],
+    "af": [
+      "bitterappelliefie",
+      "blou-angelier",
+      "blou-appelliefie",
+      "bloubitterappelliefie",
+      "wilde-appelliefie",
+      "wildebitter"
+    ],
+    "xh": [
+      "gqwangugqangu",
+      "umpungempu"
+    ],
+    "st": [
+      "linyooko"
+    ],
+    "zu": [
+      "umgabaganga omncane"
+    ],
+    "pt": [
+      "Joá-de-capote"
+    ],
+    "nah": [
+      "Capōltomatl"
+    ],
+    "qu": [
+      "K'ita ch'illtu"
+    ],
+    "lt": [
+      "Dumplūninė nikandra"
+    ],
+    "nb": [
+      "Giftbær"
+    ],
+    "kk": [
+      "Бүркеншік"
+    ],
+    "cy": [
+      "Afal Periw"
+    ],
+    "fa": [
+      "سیب پرویی"
+    ],
+    "pl": [
+      "Nikandra miechunkowa"
+    ],
+    "sd": [
+      "گل سرمون"
+    ],
+    "os": [
+      "Уадсис"
+    ],
+    "et": [
+      "peruu nikandra"
+    ],
+    "da": [
+      "kantbæger"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1509784",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q1509784",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Nicandra physalodes」",
+      "source_url": "https://en.wikipedia.org/wiki/Nicandra_physalodes",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1345049907,
+      "text": "Nicandra physalodes is a species of flowering plant in subfamily Solanoideae of the nightshade family. It is known by the common names apple-of-Peru and shoo-fly plant. It is thought originally to have been native to western South America, including Peru, and is known elsewhere as an introduced and ruderal species – sometimes as a weed – in tropical, subtropical and, to a lesser extent, temperate areas all over the world. It has also long been cultivated as an ornamental plant for its attractive flowers and curious fruits and has been adopted into the traditional medicine of countries far-removed from its original home."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "AGW",
+      "BOL",
+      "CLC",
+      "CLN",
+      "PER"
+    ],
+    "introduced": [
+      "ALA",
+      "AMU",
+      "ANG",
+      "ARK",
+      "ASC",
+      "ASS",
+      "AUT",
+      "BER",
+      "BGM",
+      "BLT",
+      "BOT",
+      "BRC",
+      "BUL",
+      "BUR",
+      "BZC",
+      "BZE",
+      "BZL",
+      "BZN",
+      "BZS",
+      "CAL",
+      "CHC",
+      "CHI",
+      "CHN",
+      "CHS",
+      "CHT",
+      "CHX",
+      "CLM",
+      "CNT",
+      "CNY",
+      "COL",
+      "COM",
+      "COS",
+      "CPP",
+      "CVI",
+      "CZE",
+      "DEL",
+      "DJI",
+      "EAI",
+      "EGY",
+      "EHM",
+      "ELS",
+      "ERI",
+      "ETH",
+      "FLA",
+      "FRA",
+      "GAL",
+      "GEO",
+      "GER",
+      "GGI",
+      "GRB",
+      "GRC",
+      "GUA",
+      "HAI",
+      "HAW",
+      "HON",
+      "HUN",
+      "IDA",
+      "ILL",
+      "IND",
+      "INI",
+      "IOW",
+      "IRE",
+      "IRN",
+      "JAW",
+      "KAN",
+      "KAZ",
+      "KEN",
+      "KGZ",
+      "KOR",
+      "KRI",
+      "KRY",
+      "KTY",
+      "LBS",
+      "LES",
+      "MAI",
+      "MAS",
+      "MAU",
+      "MDG",
+      "MDR",
+      "MIC",
+      "MIN",
+      "MLW",
+      "MOZ",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXN",
+      "MXS",
+      "MYA",
+      "NAM",
+      "NAT",
+      "NCA",
+      "NDA",
+      "NEB",
+      "NEP",
+      "NFK",
+      "NIC",
+      "NSC",
+      "NSW",
+      "NWC",
+      "NWG",
+      "NWH",
+      "NWJ",
+      "NWY",
+      "NZN",
+      "OHI",
+      "OKL",
+      "OMA",
+      "ONT",
+      "PAL",
+      "PEI",
+      "PEN",
+      "POL",
+      "PRM",
+      "QLD",
+      "QUE",
+      "REU",
+      "RHO",
+      "ROM",
+      "RUC",
+      "RUS",
+      "RWA",
+      "SAU",
+      "SCA",
+      "SOA",
+      "SOC",
+      "SOM",
+      "SPA",
+      "SRL",
+      "STH",
+      "SWI",
+      "SWZ",
+      "TAI",
+      "TAN",
+      "TAS",
+      "TCS",
+      "TEN",
+      "TKM",
+      "TVL",
+      "UZB",
+      "VEN",
+      "VER",
+      "VIC",
+      "VRG",
+      "WAS",
+      "WAU",
+      "WDC",
+      "WHM",
+      "WIS",
+      "WSB",
+      "WVA",
+      "YUG",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/816832-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/816832-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0001023631.webp",
+    "author": "No machine-readable author provided. ArtMechanic assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Giftbeere.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-12"
+  }
+}

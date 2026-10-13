@@ -1,0 +1,107 @@
+{
+  "id": "wfo-0000230760",
+  "scientific_name": "Lucuma bifera",
+  "authorship": "Molina",
+  "family": "Sapotaceae",
+  "synonyms": [
+    "Achras lucuma Ruiz & Pav.",
+    "Lucuma obovata Kunth",
+    "Lucuma peruviana J.St.-Hil.",
+    "Lucuma turbinata Molina",
+    "Pouteria insignis Baehni",
+    "Pouteria lucuma (Ruiz & Pav.) Kuntze",
+    "Richardella lucuma (Ruiz & Pav.) Aubrév."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "ca": [
+      "Lúcuma"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q111292614",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q111292614",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Lucuma bifera」",
+      "source_url": "https://en.wikipedia.org/wiki/Lucuma_bifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1376633267,
+      "text": "Lucuma bifera is a species of tree in the family Sapotaceae cultivated for its fruit, the lúcuma. It is native to the Andean valleys of South America."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Lucuma bifera」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Lucuma_bifera#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-12",
+        "revision": 1376633267,
+        "heading": "Cultivation",
+        "text": "In addition to Peru, the fruit is grown also to a limited extent in Bolivia, Chile, and Costa Rica.  Attempts at growing lúcuma in Florida's climate are typically not successful. The fruit is successfully grown in Vietnam, where it is known as lêkima.\nIn Peru, harvesting season is from October to March and in Chile from June to November.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "BOL",
+      "CLM",
+      "CLN",
+      "ECU",
+      "PER"
+    ],
+    "introduced": [
+      "SCI"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/787229-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/787229-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000230760.webp",
+    "author": "Akramm",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Lucuma.png",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 298,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "id": "wfo-0000391781",
+  "scientific_name": "Peucedanum palustre",
+  "authorship": "(L.) Moench",
+  "family": "Apiaceae",
+  "synonyms": [
+    "Athamanta flexuosa Juss. ex DC.",
+    "Athamanta pisana Savi",
+    "Calestania palustris (L.) Koso-Pol.",
+    "Callisace schiefereckii Hoffm.",
+    "Cnidium palustre (L.) Rchb.",
+    "Laserpitium simplex Boeber",
+    "Libanotis annua F.H.Wigg.",
+    "Oreoselis pisana (Savi) Raf.",
+    "Peucedanum crouanorum Boreau ex Nyman",
+    "Peucedanum idanense Gand.",
+    "Peucedanum schiwereckii Eichw.",
+    "Peucedanum sylvestre DC.",
+    "Selinum cantabrigense Fisch. ex DC.",
+    "Selinum intermedium Besser",
+    "Selinum lactescens Gilib.",
+    "Selinum palustre L.",
+    "Selinum plinii (Spreng.) Paxton",
+    "Selinum schiwerekii Besser",
+    "Selinum sublactescens Gilib.",
+    "Selinum sylvestre L.",
+    "Selinum tysselinum Crantz",
+    "Sium virens hort. ex Steud.",
+    "Thyselium palustre (L.) Raf.",
+    "Thysselinum angustifolium Rchb.",
+    "Thysselinum crouanorum Boreau",
+    "Thysselinum palustre (L.) Hoffm.",
+    "Thysselinum plinii Spreng.",
+    "Thysselinum schiwerekii (Besser) Besser",
+    "Thysselinum sylvestre Hoffm."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "de": [
+      "Sumpf-Haarstrang",
+      "Sumpfhaarstrang"
+    ],
+    "en": [
+      "hogfennel",
+      "milk parsley"
+    ],
+    "nl": [
+      "Melkeppe"
+    ],
+    "cs": [
+      "smldník bahenní"
+    ],
+    "fr": [
+      "peucédan des marais"
+    ],
+    "fi": [
+      "luhtasuoputki"
+    ],
+    "bg": [
+      "блатна самодивска трева"
+    ],
+    "sl": [
+      "močvirski silj"
+    ],
+    "hu": [
+      "mocsári kocsord"
+    ],
+    "lt": [
+      "Pelkinis saliavas"
+    ],
+    "nn": [
+      "Mjølkerot"
+    ],
+    "pl": [
+      "gorysz błotny"
+    ],
+    "sv": [
+      "Kärrsilja"
+    ],
+    "da": [
+      "Kær-Svovlrod"
+    ],
+    "ru": [
+      "горичник болотный"
+    ],
+    "cy": [
+      "Ffenigl-y-moch llaethog"
+    ],
+    "sk": [
+      "smldník močiarny"
+    ],
+    "et": [
+      "soo-piimputk"
+    ],
+    "be": [
+      "дзікая пятрушка балотная"
+    ],
+    "nb": [
+      "mjølkerot"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q962714",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q962714",
+  "search_names": {
+    "en": [
+      "Milk-parsley",
+      "Marsh Hog’s Fennel"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Peucedanum palustre」",
+      "source_url": "https://en.wikipedia.org/wiki/Peucedanum_palustre",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1360084238,
+      "text": "Peucedanum palustre (milk-parsley) is an almost glabrous biennial plant in the family Apiaceae. It is so called in English because of the thin, foetid, milky latex found in its young parts and is native to most of Europe, extending eastwards to Central Asia. Another English common name for the plant is marsh hog's fennel."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "ALT",
+      "AUT",
+      "BGM",
+      "BLR",
+      "BLT",
+      "CZE",
+      "DEN",
+      "FIN",
+      "FRA",
+      "GER",
+      "GRB",
+      "HUN",
+      "ITA",
+      "KRA",
+      "NET",
+      "NOR",
+      "POL",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUN",
+      "RUS",
+      "RUW",
+      "SWE",
+      "SWI",
+      "UKR",
+      "WSB",
+      "YUG"
+    ],
+    "introduced": [
+      "MAS"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/846318-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "biennial",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/846318-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000391781.webp",
+    "author": "Kristian Peters -- Fabelfroh 13:44, 15 December 2005 (UTC)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Peucedanum_palustre_bluete.jpeg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-12"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "wfo-0000922922",
+  "scientific_name": "Alibertia patinoi",
+  "authorship": "(Cuatrec.) Delprete & C.H.Perss.",
+  "family": "Rubiaceae",
+  "synonyms": [
+    "Borojoa patinoi Cuatrec."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "zh": [
+      "阳春栀",
+      "博罗霍"
+    ],
+    "arz": [
+      "بوروجوا باتينوى"
+    ],
+    "sv": [
+      "Borojoa patinoi"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q28819558",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q28819558",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Alibertia patinoi」",
+      "source_url": "https://en.wikipedia.org/wiki/Alibertia_patinoi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1366326194,
+      "text": "Alibertia patinoi, commonly known as borojó, is a small (2-5m), dioecious tropical rainforest tree, one of the few edible fruit bearing species in the Rubiaceae family. Borojó, native to the world's wettest lowlands, grows in the Chocó Department of northwestern Colombia and in the Esmeraldas Province of northwestern Ecuador."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Alibertia patinoi」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Alibertia_patinoi#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-12",
+        "revision": 1366326194,
+        "heading": "Cultivation",
+        "text": "Around 3,000 hectares are used to cultivate borojo.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "CLM",
+      "COS",
+      "ECU",
+      "PAN"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/77116169-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/77116169-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000922922.webp",
+    "author": "Jean-Luc Crucifix",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Borojoa_patinoi.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-12"
+  }
+}

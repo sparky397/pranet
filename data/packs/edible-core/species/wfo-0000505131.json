@@ -1,0 +1,202 @@
+{
+  "id": "wfo-0000505131",
+  "scientific_name": "Swietenia macrophylla",
+  "authorship": "King",
+  "family": "Meliaceae",
+  "synonyms": [
+    "Swietenia belizensis Lundell",
+    "Swietenia candollei Pittier",
+    "Swietenia tessmannii Harms"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "Honduras mahogany",
+      "Big Leaf Mahogany",
+      "Big-leaf Mahogany",
+      "Bigleaf Mahogany",
+      "Brazilian Mahogany",
+      "Large-leaved Mahogany"
+    ],
+    "de": [
+      "Amerikanischer Mahagoni"
+    ],
+    "eo": [
+      "Grandfolia svitenio"
+    ],
+    "es": [
+      "Caoba de hoja grande",
+      "Caoba",
+      "Mara",
+      "Mogno"
+    ],
+    "fi": [
+      "Amerikanaitomahonki"
+    ],
+    "pt": [
+      "Mogno-do-Brasil",
+      "Mogno"
+    ],
+    "fr": [
+      "Mahogani Grands Feuilles"
+    ],
+    "zh": [
+      "大葉桃花心木",
+      "大叶桃花心木"
+    ],
+    "th": [
+      "มะฮอกกานีใบใหญ่"
+    ],
+    "vi": [
+      "Nhạc ngựa (cây gỗ)"
+    ],
+    "su": [
+      "Mahoni"
+    ],
+    "ml": [
+      "മഹാഗണി"
+    ],
+    "pnb": [
+      "ہونڈوراس مہاگنی"
+    ],
+    "ta": [
+      "மகாகனி"
+    ],
+    "bg": [
+      "Едролистно махагоново дъров"
+    ],
+    "he": [
+      "מהגוני"
+    ],
+    "ja": [
+      "オオバマホガニー"
+    ],
+    "rki": [
+      "မဟောဂနီပင်"
+    ],
+    "sl": [
+      "Celinski mahagoni"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q12955947",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q12955947",
+  "search_names": {
+    "ja": [
+      "ホンジュラスマホガニー"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Swietenia macrophylla」",
+      "source_url": "https://en.wikipedia.org/wiki/Swietenia_macrophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1375925931,
+      "text": "Swietenia macrophylla, commonly known as mahogany, Honduran mahogany, Honduras mahogany, or big-leaf mahogany is a species of plant in the Meliaceae family. It is one of three species in genus Swietenia that yield genuine mahogany timber, the others being Swietenia mahagoni and Swietenia humilis. It is native to South America, Mexico and Central America, but naturalized in the Philippines, Singapore, Malaysia and Hawaii, and cultivated in plantations and wind-breaks elsewhere."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "HF",
+      "IF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "BLZ",
+      "BOL",
+      "BZC",
+      "BZE",
+      "BZN",
+      "CLM",
+      "COS",
+      "ECU",
+      "GUA",
+      "HON",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NIC",
+      "PAN",
+      "PER"
+    ],
+    "introduced": [
+      "AND",
+      "BAN",
+      "BOR",
+      "CAY",
+      "COM",
+      "CRL",
+      "CUB",
+      "DOM",
+      "ELS",
+      "FRG",
+      "HAI",
+      "JAM",
+      "JAW",
+      "LAO",
+      "LEE",
+      "MRN",
+      "NCB",
+      "PUE",
+      "SEY",
+      "SOL",
+      "TAI",
+      "THA",
+      "TRT",
+      "VAN",
+      "VEN",
+      "VIE",
+      "VNA",
+      "WIN"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/246905-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/246905-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000505131.webp",
+    "author": "J.M.Garg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Leaves_I_IMG_8668.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 370,
+    "retrieved": "2026-10-12"
+  }
+}

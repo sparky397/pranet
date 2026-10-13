@@ -1,0 +1,92 @@
+{
+  "id": "wfo-0000771250",
+  "scientific_name": "Yucca schidigera",
+  "authorship": "Roezl ex Ortgies",
+  "family": "Asparagaceae",
+  "synonyms": [
+    "Sarcoyucca mohavensis (Sarg.) Linding.",
+    "Yucca californica Nutt. ex Baker",
+    "Yucca mohavensis Sarg."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "Mojave yucca"
+    ],
+    "zh": [
+      "宽叶丝兰",
+      "纤丝兰"
+    ],
+    "arz": [
+      "يوكا شيدجيرا"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1518712",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q1518712",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Yucca schidigera」",
+      "source_url": "https://en.wikipedia.org/wiki/Yucca_schidigera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1367491495,
+      "text": "Yucca schidigera, also known as the Mojave yucca or Spanish dagger, is a perennial plant in the asparagus family Asparagaceae, native to the southwestern United States and northwestern Mexico. It is most common in the Mojave Desert, but also occurs extensively in the Sonoran Desert and west to the Pacific coast of southern California and Baja California."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "ARI",
+      "CAL",
+      "MXN",
+      "NEV"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/60445117-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "desert or dry shrubland",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/60445117-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000771250.webp",
+    "author": "Stan Shebs",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Yucca_schidigera_15.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 314,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

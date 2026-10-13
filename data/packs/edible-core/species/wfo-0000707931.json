@@ -1,0 +1,284 @@
+{
+  "id": "wfo-0000707931",
+  "scientific_name": "Gossypium hirsutum",
+  "authorship": "L.",
+  "family": "Malvaceae",
+  "synonyms": [
+    "Xylon hirsutum (L.) Medik."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "upland cotton",
+      "Cotton"
+    ],
+    "fi": [
+      "Teksasinpuuvilla",
+      "Upland-puuvilla"
+    ],
+    "zh": [
+      "陸地棉",
+      "陆地棉",
+      "棉花",
+      "陆地棉（棉）",
+      "棉花油",
+      "棉花壳",
+      "棉花子",
+      "棉花根"
+    ],
+    "es": [
+      "algodon",
+      "sarobei"
+    ],
+    "pl": [
+      "bawełna kosmata"
+    ],
+    "az": [
+      "Adi pambıq"
+    ],
+    "uk": [
+      "Бавовник шорсткий"
+    ],
+    "nl": [
+      "Behaarde katoen"
+    ],
+    "nv": [
+      "Ndikʼąʼ"
+    ],
+    "ru": [
+      "хлопчатник обыкновенный"
+    ],
+    "fa": [
+      "گازیپیوم"
+    ],
+    "pnb": [
+      "میکسیکی کپآ"
+    ],
+    "ko": [
+      "육지면"
+    ],
+    "bm": [
+      "Kɔɔrinin"
+    ],
+    "ar": [
+      "قطن زغبي"
+    ],
+    "arz": [
+      "قطن زغبى"
+    ],
+    "pap": [
+      "Katuna"
+    ],
+    "et": [
+      "harilik puuvillapõõsas"
+    ],
+    "cs": [
+      "bavlník chlupatý"
+    ],
+    "mk": [
+      "обичен памук"
+    ],
+    "sd": [
+      "آمريڪي ڪپھه"
+    ],
+    "smn": [
+      "teksaspumbul"
+    ],
+    "uz": [
+      "Oʻrta tolali gʻoʻza"
+    ],
+    "my": [
+      "ဝါ"
+    ],
+    "shn": [
+      "တူၼ်ႈၵုၺ်"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q133481",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q133481",
+  "search_names": {
+    "en": [
+      "Mexican cotton"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Gossypium hirsutum」",
+      "source_url": "https://en.wikipedia.org/wiki/Gossypium_hirsutum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1377313662,
+      "text": "Gossypium hirsutum, also known as upland cotton or Mexican cotton, is the most widely planted species of cotton in the world. Globally, about 90% of all cotton production is of cultivars derived from this species. In the United States, the world's largest exporter of cotton, it constitutes approximately 95% of all cotton production. It is native from Mexico to Ecuador and northeast Brazil, the Leeward Antilles in the Caribbean and the Pacific."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "ARU",
+      "BZE",
+      "CLM",
+      "COS",
+      "ECU",
+      "ELS",
+      "FIJ",
+      "FRG",
+      "GUA",
+      "GUY",
+      "HON",
+      "MRN",
+      "MRQ",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXI",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NIC",
+      "NLA",
+      "SAM",
+      "SCI",
+      "SUR",
+      "SWC",
+      "TUA",
+      "VEN",
+      "VNA"
+    ],
+    "introduced": [
+      "ALA",
+      "ALD",
+      "AND",
+      "ANG",
+      "BAH",
+      "BAN",
+      "BEN",
+      "BKN",
+      "BLZ",
+      "BUL",
+      "BZC",
+      "BZL",
+      "BZN",
+      "BZS",
+      "CAF",
+      "CGS",
+      "CHA",
+      "CHC",
+      "CHS",
+      "CMN",
+      "COM",
+      "CUB",
+      "CVI",
+      "DOM",
+      "EHM",
+      "ETH",
+      "FLA",
+      "GAM",
+      "GEO",
+      "GGI",
+      "GHA",
+      "GNB",
+      "GRC",
+      "HAI",
+      "HAW",
+      "ILL",
+      "IRQ",
+      "ITA",
+      "JAM",
+      "KAZ",
+      "KEN",
+      "KRI",
+      "LEE",
+      "LOU",
+      "MAS",
+      "MLI",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MYA",
+      "NCA",
+      "NCB",
+      "NEP",
+      "NGA",
+      "NGR",
+      "NWC",
+      "NWM",
+      "NWY",
+      "OKL",
+      "OMA",
+      "PAK",
+      "PUE",
+      "ROM",
+      "SAU",
+      "SCA",
+      "SEY",
+      "SIE",
+      "SRL",
+      "SUD",
+      "TAN",
+      "TCI",
+      "TEX",
+      "THA",
+      "TOG",
+      "TRT",
+      "TZK",
+      "UZB",
+      "VAN",
+      "VIE",
+      "VRG",
+      "WIN",
+      "ZAI"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30042843-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30042843-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000707931.webp",
+    "author": "ChriKo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cotton_plant.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

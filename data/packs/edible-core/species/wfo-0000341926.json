@@ -1,0 +1,145 @@
+{
+  "id": "wfo-0000341926",
+  "scientific_name": "Bromelia pinguin",
+  "authorship": "L.",
+  "family": "Bromeliaceae",
+  "synonyms": [
+    "Agallostachys fastuosa (Lindl.) Beer",
+    "Agallostachys pinguin (L.) Beer",
+    "Ananas pinguin (L.) Gaertn.",
+    "Ananas pinguin Trew",
+    "Bromelia fastuosa Lindl.",
+    "Bromelia ignea Beer",
+    "Bromelia peguin L.",
+    "Bromelia sepiaria Schult. & Schult.f.",
+    "Karatas penguin Mill.",
+    "Karatas pinguin (L.) Mill."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "ananas"
+    ],
+    "zh": [
+      "企鹅红心凤梨"
+    ],
+    "es": [
+      "maya"
+    ],
+    "ru": [
+      "бромелия пингвин"
+    ],
+    "pt": [
+      "Caraguatá"
+    ],
+    "bpy": [
+      "গ্রাভাটা"
+    ],
+    "ht": [
+      "Zannanna pengwen"
+    ],
+    "mzn": [
+      "گراواتا"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q5158994",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q5158994",
+  "search_names": {
+    "en": [
+      "anana",
+      "pinguin"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Bromelia pinguin」",
+      "source_url": "https://en.wikipedia.org/wiki/Bromelia_pinguin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1356267960,
+      "text": "Bromelia pinguin, also called ananas or anana, is a plant species in the genus Bromelia. This species is native to Central America, Mexico, the West Indies, and northern South America. It is also reportedly naturalized in Florida. It is very common in Jamaica, where it is planted as a fence around pasturelands on account of its prickly leaves, and has historically been used as an herbal abortifacient. The plant can be stripped of its pulp, soaked in water, and beaten with a wooden mallet, and it yields a fiber whence thread is made. In Nicaragua and El Salvador it is used to make gruel."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "BLZ",
+      "CAY",
+      "CLM",
+      "COS",
+      "CUB",
+      "DOM",
+      "ECU",
+      "ELS",
+      "GUA",
+      "GUY",
+      "HAI",
+      "HON",
+      "JAM",
+      "LEE",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NIC",
+      "PAN",
+      "PUE",
+      "SUR",
+      "SWC",
+      "VEN",
+      "VNA",
+      "WIN"
+    ],
+    "introduced": [
+      "FLA"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/319113-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/319113-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000341926.webp",
+    "author": "John Lindley (1799-1865)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bromelia_pinguin_(as_Bromelia_fastuosa)_-_Collectanea_botanica_-_Lindley_pl._1_(1821).jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 261,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

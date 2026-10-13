@@ -1,0 +1,235 @@
+{
+  "id": "wfo-0000852332",
+  "scientific_name": "Avena sterilis",
+  "authorship": "L.",
+  "family": "Poaceae",
+  "synonyms": [
+    "Avena ludoviciana (Durieu) Paunero",
+    "Avena macrocarpa Moench",
+    "Avena nutans St.-Lag."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "cy": [
+      "ceirchen wyllt y gaeaf"
+    ],
+    "en": [
+      "animated oat"
+    ],
+    "nl": [
+      "Wilde haver"
+    ],
+    "cs": [
+      "oves jalový"
+    ],
+    "et": [
+      "Viljatu kaer"
+    ],
+    "fi": [
+      "korukaura"
+    ],
+    "zh": [
+      "不实野燕麦",
+      "摩洛哥燕麦"
+    ],
+    "sl": [
+      "jalovi oves"
+    ],
+    "de": [
+      "Tauber Hafer"
+    ],
+    "sv": [
+      "Storhavre"
+    ],
+    "ta": [
+      "காட்டுக் காடைக்கண்ணி"
+    ],
+    "uk": [
+      "Овес неплідний"
+    ],
+    "fy": [
+      "Oat"
+    ],
+    "af": [
+      "Groot wildehawer"
+    ],
+    "arz": [
+      "افينا معقمه"
+    ],
+    "he": [
+      "שיבולת-שועל נפוצה"
+    ],
+    "pnb": [
+      "جووی"
+    ],
+    "pa": [
+      "ਜੌਂਧਰ (ਜੰਗਲੀ ਜਵੀਂ)"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1668559",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q1668559",
+  "search_names": {
+    "en": [
+      "Tall wild oats"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Avena sterilis」",
+      "source_url": "https://en.wikipedia.org/wiki/Avena_sterilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1370586496,
+      "text": "Avena sterilis is a species of grass weed whose seeds are edible. Many common names of this plant refer to the movement of its panicle in the wind."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALG",
+      "BAL",
+      "BUL",
+      "CNY",
+      "COR",
+      "CYP",
+      "EAI",
+      "EGY",
+      "ERI",
+      "ETH",
+      "FRA",
+      "GRC",
+      "GST",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KAZ",
+      "KEN",
+      "KGZ",
+      "KRI",
+      "KRY",
+      "LBS",
+      "LBY",
+      "MOR",
+      "NCS",
+      "PAK",
+      "PAL",
+      "POR",
+      "PRM",
+      "ROM",
+      "RUS",
+      "SAR",
+      "SAU",
+      "SIC",
+      "SIN",
+      "SPA",
+      "TCS",
+      "TKM",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TZK",
+      "UKR",
+      "UZB",
+      "WHM",
+      "YEM",
+      "YUG"
+    ],
+    "introduced": [
+      "AGE",
+      "AGW",
+      "AUT",
+      "AZO",
+      "BGM",
+      "BOL",
+      "BZL",
+      "BZS",
+      "CAL",
+      "CHC",
+      "CLC",
+      "COS",
+      "CPP",
+      "CZE",
+      "ECU",
+      "GER",
+      "GRB",
+      "HUN",
+      "JAP",
+      "MDR",
+      "MXC",
+      "NSW",
+      "NWJ",
+      "NZN",
+      "NZS",
+      "ONT",
+      "ORE",
+      "PEN",
+      "PER",
+      "QLD",
+      "QUE",
+      "REU",
+      "RUC",
+      "SOA",
+      "SRL",
+      "SWE",
+      "SWI",
+      "TAS",
+      "URU",
+      "VEN",
+      "VIC",
+      "WAU",
+      "WSA"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/391787-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/391787-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000852332.webp",
+    "author": "U.S. Department of the Interior",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:22L.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 283,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "wfo-0001014407",
+  "scientific_name": "Rosa laevigata",
+  "authorship": "Michx.",
+  "family": "Rosaceae",
+  "synonyms": [
+    "Rosa amygdalifolia Ser.",
+    "Rosa argyi H.Lév.",
+    "Rosa camellia Siebold",
+    "Rosa camellia hort.",
+    "Rosa camelliifolia hort.",
+    "Rosa cherokeensis Donn ex Small",
+    "Rosa cucumerina Tratt.",
+    "Rosa hystrix Lindl.",
+    "Rosa nivea DC.",
+    "Rosa sinica W.T.Aiton",
+    "Rosa ternata Poir.",
+    "Rosa trifoliata Bosc",
+    "Rosa triphylla Roxb."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "Cherokee rose",
+      "Camelia rose",
+      "Mardan rose"
+    ],
+    "sv": [
+      "Cherokeeros"
+    ],
+    "zh": [
+      "金樱子",
+      "金櫻子",
+      "金樱叶",
+      "金樱根",
+      "金樱花",
+      "光果金樱子"
+    ],
+    "vi": [
+      "Kim anh"
+    ],
+    "de": [
+      "Cherokee-Rose"
+    ],
+    "az": [
+      "Hamar itburnu"
+    ],
+    "fa": [
+      "رز چروکی"
+    ],
+    "ru": [
+      "Роза гладкая"
+    ],
+    "lzh": [
+      "金櫻子"
+    ],
+    "arz": [
+      "ورد ليفيجاتا"
+    ],
+    "ar": [
+      "ورد ناعم"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1070309",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q1070309",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Rosa laevigata」",
+      "source_url": "https://en.wikipedia.org/wiki/Rosa_laevigata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1335445992,
+      "text": "Rosa laevigata, or the Cherokee rose, is a white, fragrant rose native to southern China, Taiwan and Vietnam. It is an invasive species in countries including Australia, Japan and the United States."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Rosa laevigata」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Rosa_laevigata#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-12",
+        "revision": 1335445992,
+        "heading": "Cultivation",
+        "text": "The species was introduced to the southeastern United States in about 1780, where it soon became naturalized, and was then given its English common name.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "CHC",
+      "CHH",
+      "CHN",
+      "CHS",
+      "TAI",
+      "VIE"
+    ],
+    "introduced": [
+      "ALA",
+      "ARK",
+      "ASS",
+      "FLA",
+      "GEO",
+      "GGI",
+      "IND",
+      "JAP",
+      "LOU",
+      "MDR",
+      "MSI",
+      "NCA",
+      "NNS",
+      "PAK",
+      "QLD",
+      "SCA",
+      "TEX",
+      "TRT",
+      "WHM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/733047-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/733047-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0001014407.webp",
+    "author": "work of the United States federal Government",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cherokee_rose.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 300,
+    "retrieved": "2026-10-12"
+  }
+}

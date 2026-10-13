@@ -1,0 +1,90 @@
+{
+  "id": "wfo-0000756137",
+  "scientific_name": "Allium drummondii",
+  "authorship": "Regel",
+  "family": "Amaryllidaceae",
+  "synonyms": [
+    "Allium helleri Small",
+    "Allium nuttallii S.Watson"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "Drummond's onion"
+    ],
+    "ta": [
+      "அல்லியம் திரம்மண்டி"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q4732900",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q4732900",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Allium drummondii」",
+      "source_url": "https://en.wikipedia.org/wiki/Allium_drummondii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1364930208,
+      "text": "Allium drummondii, also known as Drummond's onion, wild garlic and prairie onion, is a North American species of onion native to the southern Great Plains of North America. It is found in South Dakota, Kansas, Nebraska, Colorado, Oklahoma, Arkansas, Texas, New Mexico, and northeastern Mexico."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "ARK",
+      "KAN",
+      "MXE",
+      "NEB",
+      "NWM",
+      "OKL",
+      "TEX"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/527963-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "bulbous geophyte",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/527963-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000756137.webp",
+    "author": "Britton, N.L., and A. Brown. 1913. Illustrated flora of the northern states and Canada. Vol. 1: 500. Courtesy of Kentucky Native Plant Society.",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Allium_drummondii_drawing.png",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 290,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

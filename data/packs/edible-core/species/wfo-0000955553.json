@@ -1,0 +1,99 @@
+{
+  "id": "wfo-0000955553",
+  "scientific_name": "Eucalyptus paniculata",
+  "authorship": "Sm.",
+  "family": "Myrtaceae",
+  "synonyms": [
+    "Eucalyptus nanglei R.T.Baker",
+    "Eucalyptus placita L.A.S.Johnson & K.D.Hill"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "gray ironbark"
+    ],
+    "zh": [
+      "圆锥花桉"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q3335799",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q3335799",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Eucalyptus paniculata」",
+      "source_url": "https://en.wikipedia.org/wiki/Eucalyptus_paniculata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1321659201,
+      "text": "Eucalyptus paniculata, commonly known as grey ironbark, is a species of tree that is endemic to New South Wales. It has dark-coloured, deeply furrowed ironbark on the trunk and branches, lance-shaped to curved adult leaves, flower buds in groups of seven on a branched peduncle, white flowers and conical, hemispherical or cup-shaped fruit."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "FU",
+      "HF",
+      "IF",
+      "MA"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "NSW",
+      "QLD",
+      "VIC"
+    ],
+    "introduced": [
+      "CHS",
+      "ETH",
+      "HAW",
+      "KEN",
+      "PAK",
+      "RWA",
+      "TAN",
+      "UGA",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/593212-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/593212-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000955553.webp",
+    "author": "Joseph Henry Maiden (1859-1925), Lilian Margaret Flockton (1861-1953) http://www.anbg.gov.au/biography/flockton-lilian.html",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Eucalyptus_paniculata00.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 302,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "wfo-0000421505",
+  "scientific_name": "Vitis berlandieri",
+  "authorship": "Planch.",
+  "family": "Vitaceae",
+  "synonyms": [
+    "Vitis helleri (L.H.Bailey) Small"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "autumn grape",
+      "fall grape"
+    ],
+    "zh": [
+      "冬葡萄"
+    ],
+    "arz": [
+      "فيتيس برلانديرى"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q146635",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q146635",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Vitis berlandieri」",
+      "source_url": "https://en.wikipedia.org/wiki/Vitis_berlandieri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1337923159,
+      "text": "Vitis berlandieri is a species of grape native to the southern North America, primarily Texas, New Mexico and Arkansas."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXS",
+      "TEX"
+    ],
+    "introduced": [
+      "HUN",
+      "SPA"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/68576-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "liana",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/68576-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000421505.webp",
+    "author": "Pancrat",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_berlandieri_Cherves.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 275,
+    "retrieved": "2026-10-12"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "wfo-0000202587",
+  "scientific_name": "Acacia colei",
+  "authorship": "Maslin & L.A.J.Thomson",
+  "family": "Fabaceae",
+  "synonyms": [
+    "Racosperma colei (Maslin & L.A.J.Thomson) Pedley"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "fa": [
+      "آکاکیا کولی"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q4670897",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q4670897",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Acacia colei」",
+      "source_url": "https://en.wikipedia.org/wiki/Acacia_colei",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1328540059,
+      "text": "Acacia colei, commonly known as Cole's wattle, kalkardi, candelabra wattle or soap wattle, is a species of flowering plant in the family Fabaceae. It forms a spreading shrub or tree with narrowly elliptic, more or less straight phyllodes, spikes of golden yellow flowers, and openly and strongly curved, thinly leathery to crust-like, more or less glabrous pods."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "FU",
+      "HF"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "NTA",
+      "QLD",
+      "WAU"
+    ],
+    "introduced": [
+      "IND"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/968616-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/968616-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000202587.webp",
+    "author": "Maurice MacDonald, CSIRO",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_1563_Acacia_colei_var_ileocarpa_Seed_Pod.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 263,
+    "retrieved": "2026-10-12"
+  }
+}

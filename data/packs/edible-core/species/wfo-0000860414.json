@@ -1,0 +1,133 @@
+{
+  "id": "wfo-0000860414",
+  "scientific_name": "Cinchona calisaya",
+  "authorship": "Wedd.",
+  "family": "Rubiaceae",
+  "synonyms": [
+    "Cinchona amygdalifolia Wedd.",
+    "Cinchona australis Wedd.",
+    "Cinchona carabayensis Wedd.",
+    "Cinchona delondriana Wedd.",
+    "Cinchona euneura Miq.",
+    "Cinchona forbesiana Howard",
+    "Cinchona forbesiana Howard ex Wedd.",
+    "Cinchona gammiana King",
+    "Cinchona gironensis Mutis",
+    "Cinchona hasskarliana Miq.",
+    "Cinchona josephiana (Wedd.) Wedd.",
+    "Cinchona ledgeriana (Howard) Bern.Moens ex Trimen",
+    "Cinchona pahudiana Howard",
+    "Cinchona peruviana Howard",
+    "Cinchona thwaitesii King",
+    "Cinchona weddelliana Kuntze",
+    "Quinquina calisaya (Wedd.) Kuntze",
+    "Quinquina carabayensis (Wedd.) Kuntze",
+    "Quinquina ledgeriana (Howard) Kuntze"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "quinine"
+    ],
+    "it": [
+      "Albero della china",
+      "Chinino"
+    ],
+    "zh": [
+      "黄金鸡纳",
+      "金鸡纳树",
+      "金鸡纳",
+      "金鸡纳树（黄色金纳）",
+      "金鸡勒",
+      "狭叶金鸡纳"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15399753",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q15399753",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Cinchona calisaya」",
+      "source_url": "https://en.wikipedia.org/wiki/Cinchona_calisaya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1337379901,
+      "text": "Cinchona calisaya is a species of shrub or tree in the family Rubiaceae. It is native to the forests of the eastern slopes of the Andes, where they grow from 200–3,300 metres (660–10,830 ft) in elevation in Peru and Bolivia. The species is known for a high quinine content, a key antimalarial alkaloid. From the 1860s, it was grown in plantations in the Dutch East Indies to supply the global quinine trade."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia 英語版「Cinchona calisaya」の節「Toxicity」",
+        "source_url": "https://en.wikipedia.org/wiki/Cinchona_calisaya#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-12",
+        "revision": 1337379901,
+        "heading": "Toxicity",
+        "text": "Cinchona bark and its quinine alkaloids can cause cardiac sodium and potassium channel blockade, CNS and renal toxicity. Cinchonism trio: GI upset, headaches, and tinnitus. Ventricular arrhythmias, hypoglycemia, renal failure, respiratory failure, jaundice and death.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "BOL",
+      "PER"
+    ],
+    "introduced": [
+      "CRL",
+      "GGI",
+      "GUA",
+      "IND",
+      "ZAI"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/746718-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/746718-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000860414.webp",
+    "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cinchona_calisaya_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-179.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 285,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

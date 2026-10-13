@@ -1,0 +1,78 @@
+{
+  "id": "wfo-0000388795",
+  "scientific_name": "Dioscorea abyssinica",
+  "authorship": "Hochst. ex Kunth",
+  "family": "Dioscoreaceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "am": [
+      "ቦዮና"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q3028790",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q3028790",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Dioscorea abyssinica」",
+      "source_url": "https://en.wikipedia.org/wiki/Dioscorea_abyssinica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1176622904,
+      "text": "Dioscorea abyssinica is a herbaceous vine in the genus Dioscorea native to several Central African countries including Benin, Burkina Faso, Central African Republic, Eritrea, Ethiopia, Ghana, Ivory Coast, Liberia, Mali, Nigeria, Senegal, and Sudan.\nThe plant's starchy tubers are edible and are either harvested from the wild or cultivated; however, they are difficult to obtain due to the depth at which they grow in the soil. It is propagated by seed."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "BEN",
+      "BKN",
+      "CAF",
+      "ERI",
+      "ETH",
+      "GGI",
+      "GHA",
+      "GUI",
+      "IVO",
+      "LBR",
+      "MLI",
+      "NGA",
+      "SEN",
+      "SUD"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/317602-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "climbing tuberous geophyte",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/317602-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  }
+}

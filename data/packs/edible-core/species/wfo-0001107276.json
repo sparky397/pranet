@@ -1,0 +1,321 @@
+{
+  "id": "wfo-0001107276",
+  "scientific_name": "Cystopteris fragilis",
+  "authorship": "(L.) Bernh.",
+  "family": "Cystopteridaceae",
+  "synonyms": [
+    "Asplenicystopteris blindii (P.Parm.) P.Fourn.",
+    "Cystopteris blindi P.Parm.",
+    "Cystopteris filix-fragilis (L.) Gilib.",
+    "Cystopteris maborasensis Masam."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "cy": [
+      "ffiolredynen frau"
+    ],
+    "en": [
+      "brittle bladderfern",
+      "brittle bladder fern",
+      "bladder fern",
+      "brittle fern",
+      "fragile fern"
+    ],
+    "zh": [
+      "冷蕨",
+      "皺孢冷蕨"
+    ],
+    "nl": [
+      "Blaasvaren"
+    ],
+    "cs": [
+      "puchýřník křehký"
+    ],
+    "fr": [
+      "cystoptéris"
+    ],
+    "de": [
+      "Zerbrechlicher Blasenfarn"
+    ],
+    "fi": [
+      "haurasloikko"
+    ],
+    "sl": [
+      "krhka priščanica"
+    ],
+    "pl": [
+      "Paprotnica krucha"
+    ],
+    "sv": [
+      "Stenbräken"
+    ],
+    "nb": [
+      "Skjørlok"
+    ],
+    "ru": [
+      "Пузырник ломкий"
+    ],
+    "bg": [
+      "обикновена крехка папрат"
+    ],
+    "uk": [
+      "міхурниця ламка"
+    ],
+    "is": [
+      "Tófugras"
+    ],
+    "ga": [
+      "raithneach bhriosc"
+    ],
+    "fa": [
+      "سرخس بادکنکی شکننده"
+    ],
+    "be": [
+      "Цыстоптэрыс ломкі"
+    ],
+    "et": [
+      "habras põisjalg"
+    ],
+    "lt": [
+      "Trapioji sprakšė"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q191532",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q191532",
+  "search_names": {
+    "en": [
+      "brittle bladder-fern",
+      "common fragile fern"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Cystopteris fragilis」",
+      "source_url": "https://en.wikipedia.org/wiki/Cystopteris_fragilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1365175580,
+      "text": "Cystopteris fragilis is a species of perennial fern known by the common names brittle bladder-fern and common fragile fern. It can be found worldwide, generally in shady, moist areas."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "ABT",
+      "AFG",
+      "ALB",
+      "ALG",
+      "ALT",
+      "AMU",
+      "ARI",
+      "ASK",
+      "AUT",
+      "AZO",
+      "BAL",
+      "BGM",
+      "BLR",
+      "BLT",
+      "BRC",
+      "BRY",
+      "BUL",
+      "CAL",
+      "CHA",
+      "CHC",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHQ",
+      "CHS",
+      "CHT",
+      "CHX",
+      "CMN",
+      "CNT",
+      "CNY",
+      "COL",
+      "COM",
+      "COR",
+      "CPP",
+      "CTA",
+      "CVI",
+      "CZE",
+      "DEN",
+      "EHM",
+      "EQG",
+      "ETH",
+      "FIN",
+      "FOR",
+      "FRA",
+      "GER",
+      "GGI",
+      "GNL",
+      "GRB",
+      "GRC",
+      "HON",
+      "HUN",
+      "ICE",
+      "IDA",
+      "ILL",
+      "IOW",
+      "IRE",
+      "IRK",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "JAP",
+      "KAM",
+      "KAN",
+      "KAZ",
+      "KEN",
+      "KGZ",
+      "KHA",
+      "KRA",
+      "KRI",
+      "KRY",
+      "KUR",
+      "LAB",
+      "LBS",
+      "LES",
+      "MAG",
+      "MAI",
+      "MAN",
+      "MAS",
+      "MDG",
+      "MDR",
+      "MIC",
+      "MIN",
+      "MNT",
+      "MON",
+      "MOR",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NAT",
+      "NBR",
+      "NCA",
+      "NCS",
+      "NDA",
+      "NEB",
+      "NEP",
+      "NET",
+      "NEV",
+      "NFL",
+      "NOR",
+      "NSC",
+      "NUN",
+      "NWH",
+      "NWM",
+      "NWT",
+      "NWY",
+      "OFS",
+      "OHI",
+      "ONT",
+      "ORE",
+      "PAK",
+      "PEN",
+      "POL",
+      "POR",
+      "PRM",
+      "QUE",
+      "REU",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUN",
+      "RUW",
+      "SAK",
+      "SAR",
+      "SAS",
+      "SAU",
+      "SDA",
+      "SIC",
+      "SPA",
+      "SUD",
+      "SVA",
+      "SWE",
+      "SWI",
+      "TAI",
+      "TAN",
+      "TAS",
+      "TCS",
+      "TEX",
+      "TKM",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TVA",
+      "TVL",
+      "TZK",
+      "UGA",
+      "UKR",
+      "UTA",
+      "UZB",
+      "VER",
+      "VIC",
+      "VRG",
+      "WAS",
+      "WHM",
+      "WIS",
+      "WSB",
+      "WYO",
+      "YAK",
+      "YEM",
+      "YUG",
+      "YUK",
+      "ZAI"
+    ],
+    "introduced": [
+      "CTM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30013429-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial or lithophyte",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/30013429-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0001107276.webp",
+    "author": "Stan Shebs",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cystopteris_fragilis_3.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 323,
+    "retrieved": "2026-10-12"
+  }
+}

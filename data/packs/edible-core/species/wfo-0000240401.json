@@ -1,0 +1,93 @@
+{
+  "id": "wfo-0000240401",
+  "scientific_name": "Mentha australis",
+  "authorship": "R.Br.",
+  "family": "Lamiaceae",
+  "synonyms": [
+    "Micromeria australis Benth."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "ar": [
+      "نعناع جنوبي"
+    ],
+    "zh": [
+      "澳洲薄荷"
+    ],
+    "th": [
+      "มินต์ออสเตรเลีย"
+    ],
+    "fa": [
+      "نعناع استرالیایی"
+    ],
+    "arz": [
+      "نعناع جنوبى"
+    ],
+    "yue": [
+      "澳洲薄荷"
+    ],
+    "mk": [
+      "Австралиско нане"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1950762",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q1950762",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Mentha australis」",
+      "source_url": "https://en.wikipedia.org/wiki/Mentha_australis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1335474557,
+      "text": "Mentha australis is known by the common names of river mint, native mint, native peppermint, and Australian mint. It is a mint species within the genus Mentha."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "NSW",
+      "NTA",
+      "QLD",
+      "SOA",
+      "TAS",
+      "VIC"
+    ],
+    "introduced": [
+      "NZN"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/450215-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/450215-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  }
+}

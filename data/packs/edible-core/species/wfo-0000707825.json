@@ -1,0 +1,192 @@
+{
+  "id": "wfo-0000707825",
+  "scientific_name": "Gossypium arboreum",
+  "authorship": "L.",
+  "family": "Malvaceae",
+  "synonyms": [
+    "Gossypium albiflorum Tod.",
+    "Gossypium anomalum G.Watt",
+    "Gossypium asiaticum Raf.",
+    "Gossypium bani (G.Watt) Prokh.",
+    "Gossypium cernuum Tod.",
+    "Gossypium comesii Sprenger",
+    "Gossypium figarei Tod.",
+    "Gossypium glabratum Tod.",
+    "Gossypium gracile Salisb.",
+    "Gossypium indicum Lam.",
+    "Gossypium intermedium Tod.",
+    "Gossypium macranthum Tod.",
+    "Gossypium nanking Meyen",
+    "Gossypium neglectum Tod.",
+    "Gossypium obtusifolium Roxb.",
+    "Gossypium obtusifolium Roxb. ex G.Don",
+    "Gossypium perennans Delile ex Roberty",
+    "Gossypium puniceum Fenzl",
+    "Gossypium roseum Tod.",
+    "Gossypium roxburghii Tod.",
+    "Gossypium royleanum Tod.",
+    "Gossypium rubicundum Roxb. ex Wight & Arn.",
+    "Gossypium rubrum Forssk.",
+    "Gossypium sanguineum Hassk.",
+    "Gossypium soudanense (G.Watt) G.Watt",
+    "Gossypium vaupelii J.Graham",
+    "Gossypium wattianum S.Y.Hu",
+    "Gossypium wightianum Tod.",
+    "Hibiscus albiflorus Kuntze",
+    "Hibiscus cernuus Kuntze",
+    "Hibiscus nangking Kuntze",
+    "Xylon indicum Medik."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "tree cotton"
+    ],
+    "zh": [
+      "树棉",
+      "大头茶",
+      "棉花油",
+      "棉花壳",
+      "棉花",
+      "棉花子",
+      "棉花根",
+      "亚洲树棉"
+    ],
+    "ne": [
+      "कपासको बोट"
+    ],
+    "fr": [
+      "Cotonnier en arbre"
+    ],
+    "ca": [
+      "cotoner arbori"
+    ],
+    "da": [
+      "Træagtig Bomuld"
+    ],
+    "pnb": [
+      "پنجابی کپآ"
+    ],
+    "uz": [
+      "Hindixitoy gʻoʻzasi"
+    ],
+    "fa": [
+      "پنبه درختی"
+    ],
+    "ar": [
+      "قطن شجري"
+    ],
+    "arz": [
+      "قطن شجرى"
+    ],
+    "ja": [
+      "キダチワタ"
+    ],
+    "sl": [
+      "drevesni bombaževec"
+    ],
+    "bn": [
+      "কার্পাস"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q310124",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q310124",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Gossypium arboreum」",
+      "source_url": "https://en.wikipedia.org/wiki/Gossypium_arboreum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1340923587,
+      "text": "Gossypium arboreum, commonly called tree cotton, is a species of cotton native to India and Sri Lanka. There is evidence of its cultivation as long ago as the Indus Valley Civilisation of the Indus River for the production of cotton textiles. The shrub was included in Linnaeus's Species Plantarum published in 1753. The holotype was also supplied by him, which is now in the Linnean Herbarium in the Swedish Museum of Natural History."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "IF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "IND",
+      "SRL"
+    ],
+    "introduced": [
+      "ANG",
+      "ASS",
+      "BAN",
+      "BEN",
+      "CHA",
+      "CHC",
+      "CHS",
+      "CUB",
+      "EHM",
+      "ETH",
+      "GAB",
+      "GHA",
+      "LEE",
+      "MLI",
+      "MYA",
+      "NGA",
+      "PUE",
+      "STH",
+      "SUD",
+      "TAI",
+      "TAN",
+      "THA",
+      "TOG",
+      "TRT",
+      "UGA",
+      "VIE",
+      "YEM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/559664-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/559664-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000707825.webp",
+    "author": "KENPEI",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Gossypium_arboreum2.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-12"
+  }
+}

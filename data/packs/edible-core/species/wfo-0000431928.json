@@ -1,0 +1,261 @@
+{
+  "id": "wfo-0000431928",
+  "scientific_name": "Sisymbrium irio",
+  "authorship": "L.",
+  "family": "Brassicaceae",
+  "synonyms": [
+    "Arabis charbonnelii H.Lév.",
+    "Crucifera irio E.H.L.Krause",
+    "Descurainia irio Webb & Berthel.",
+    "Erysimum irio (L.) Farw.",
+    "Erysimum irio (L.) Rupr.",
+    "Hesperis iriodes Kuntze",
+    "Hesperis maxima Kuntze",
+    "Hesperis subulata Kuntze",
+    "Irio ruderalis Fourr.",
+    "Norta irio Britton",
+    "Phryne laxata Bubani",
+    "Sisymbrium erysimastrum Lam.",
+    "Sisymbrium filiforme Dulac",
+    "Sisymbrium glabrum Willd.",
+    "Sisymbrium irioides Boiss.",
+    "Sisymbrium latifolium Gray",
+    "Sisymbrium maximum Hochst. ex E.Fourn.",
+    "Sisymbrium multisiliquosum Hoffm.",
+    "Sisymbrium pinnatifidum Forssk.",
+    "Sisymbrium subulatum E.Fourn."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "de": [
+      "Glanz-Rauke"
+    ],
+    "en": [
+      "London rocket"
+    ],
+    "zh": [
+      "抪娘蒿",
+      "水蒜芥"
+    ],
+    "nl": [
+      "Brede raket"
+    ],
+    "cs": [
+      "hulevník drobnokvětý"
+    ],
+    "fi": [
+      "kiiltopernaruoho"
+    ],
+    "fa": [
+      "خاکشیر"
+    ],
+    "ca": [
+      "Matallums"
+    ],
+    "hsb": [
+      "Banćikata rukej"
+    ],
+    "sv": [
+      "Vallsenap"
+    ],
+    "cy": [
+      "Roced Llundain"
+    ],
+    "bg": [
+      "ириова мъдрица"
+    ],
+    "ru": [
+      "Гулявник ирио"
+    ],
+    "uk": [
+      "Сухоребрик гладкий"
+    ],
+    "bn": [
+      "মরু সরিষা"
+    ],
+    "ar": [
+      "سمارة رثة"
+    ],
+    "be": [
+      "Гуляўнік ірыо"
+    ],
+    "tr": [
+      "Bülbül otu"
+    ],
+    "arz": [
+      "سماره رثه"
+    ],
+    "pa": [
+      "ਜੰਗਲੀ ਸਰ੍ਹੋਂ"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q163223",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q163223",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Sisymbrium irio」",
+      "source_url": "https://en.wikipedia.org/wiki/Sisymbrium_irio",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1345572704,
+      "text": "Sisymbrium irio, London rocket, is a flowering plant in the cabbage family. Its English common name originated when it flourished after the Great Fire of London in 1666, although it is not native to Britain and it does not tend to persist there."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALG",
+      "BAL",
+      "BUL",
+      "CHI",
+      "CHX",
+      "CNY",
+      "COR",
+      "CYP",
+      "CZE",
+      "EAI",
+      "EGY",
+      "ERI",
+      "FRA",
+      "GRC",
+      "GST",
+      "HUN",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KGZ",
+      "KRI",
+      "KUW",
+      "LBS",
+      "LBY",
+      "MDR",
+      "MOR",
+      "MTN",
+      "NEP",
+      "NGR",
+      "OMA",
+      "PAK",
+      "PAL",
+      "POR",
+      "ROM",
+      "SAR",
+      "SAU",
+      "SIC",
+      "SIN",
+      "SOM",
+      "SPA",
+      "SUD",
+      "SWI",
+      "TCS",
+      "TKM",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TZK",
+      "UZB",
+      "WHM",
+      "YEM",
+      "YUG"
+    ],
+    "introduced": [
+      "AGE",
+      "AGS",
+      "AGW",
+      "ARI",
+      "ASS",
+      "AUT",
+      "BGM",
+      "BLT",
+      "BOL",
+      "CAL",
+      "CLC",
+      "CLM",
+      "CNT",
+      "COL",
+      "CPP",
+      "ECU",
+      "FLA",
+      "GER",
+      "GRB",
+      "HAW",
+      "IDA",
+      "IND",
+      "IRE",
+      "JAP",
+      "MAS",
+      "MIC",
+      "MXE",
+      "MXI",
+      "MXN",
+      "NET",
+      "NEV",
+      "NNS",
+      "NSW",
+      "NTA",
+      "NWM",
+      "NWY",
+      "OHI",
+      "ORE",
+      "PEN",
+      "QLD",
+      "RUC",
+      "SOA",
+      "TAI",
+      "TAS",
+      "TEX",
+      "UKR",
+      "URU",
+      "UTA",
+      "VIC",
+      "WAU",
+      "WYO"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/237940-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/237940-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000431928.webp",
+    "author": "ZooFari",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sisymbrium_irio_flower.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 399,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

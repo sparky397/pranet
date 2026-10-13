@@ -1,0 +1,224 @@
+{
+  "id": "wfo-0000556655",
+  "scientific_name": "Atriplex tatarica",
+  "authorship": "L.",
+  "family": "Chenopodiaceae",
+  "synonyms": [
+    "Atriplex arazdajanica Kapeller",
+    "Atriplex campestris W.D.J.Koch & Ziz",
+    "Atriplex diffusa Ten.",
+    "Atriplex graeca Willd.",
+    "Atriplex incisa M.Bieb.",
+    "Atriplex lehmanniana Bunge",
+    "Atriplex multicolora Aellen",
+    "Atriplex olivieri Moq.",
+    "Atriplex pruinosa Sieber ex Boiss.",
+    "Atriplex tornabenei Tineo ex Guss.",
+    "Atriplex veneta Willd.",
+    "Chenopodium tataricum (L.) E.H.L.Krause",
+    "Obione graeca (Willd.) Moq.",
+    "Schizotheca tatarica Čelak.",
+    "Teutliopsis tatarica (L.) Čelak."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "de": [
+      "Tataren-Melde"
+    ],
+    "en": [
+      "Tatarian orache"
+    ],
+    "cs": [
+      "lebeda tatarská"
+    ],
+    "fi": [
+      "tataarimaltsa"
+    ],
+    "zh": [
+      "鞑靼滨藜"
+    ],
+    "sl": [
+      "tatarska loboda"
+    ],
+    "pl": [
+      "Łoboda szara"
+    ],
+    "sv": [
+      "Axmålla"
+    ],
+    "ar": [
+      "رغل تتاري"
+    ],
+    "uk": [
+      "лутига татарська"
+    ],
+    "bg": [
+      "татарска лобода"
+    ],
+    "be": [
+      "лябеднік татарскі"
+    ],
+    "et": [
+      "tatari malts"
+    ],
+    "arz": [
+      "رغل تتارى"
+    ],
+    "cv": [
+      "Тутар мăянĕ"
+    ],
+    "lv": [
+      "Tatārijas balodene"
+    ],
+    "mk": [
+      "татарска лобода"
+    ],
+    "fa": [
+      "سلمکی تاتاری"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1642174",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q1642174",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Atriplex tatarica」",
+      "source_url": "https://en.wikipedia.org/wiki/Atriplex_tatarica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1244978533,
+      "text": "Atriplex tatarica is a species of plant belonging to the family Amaranthaceae. Its native range spans a large area of Middle and western Central Asia, Asia Minor, North Africa, and Eastern Europe."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALG",
+      "ALT",
+      "BAL",
+      "BUL",
+      "CHN",
+      "CHQ",
+      "CHT",
+      "CHX",
+      "COR",
+      "CYP",
+      "EAI",
+      "EGY",
+      "FRA",
+      "GRC",
+      "GST",
+      "HUN",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KAZ",
+      "KGZ",
+      "KRI",
+      "KRY",
+      "LBS",
+      "MON",
+      "MOR",
+      "NCS",
+      "PAK",
+      "PAL",
+      "ROM",
+      "RUC",
+      "RUE",
+      "RUS",
+      "SAR",
+      "SAU",
+      "SIC",
+      "SIN",
+      "TCS",
+      "TKM",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TZK",
+      "UKR",
+      "UZB",
+      "WHM",
+      "WSB",
+      "YUG"
+    ],
+    "introduced": [
+      "AGE",
+      "AGS",
+      "AGW",
+      "ALA",
+      "AUT",
+      "BLT",
+      "CLC",
+      "CNT",
+      "CZE",
+      "DEN",
+      "FIN",
+      "FLA",
+      "GER",
+      "KRA",
+      "MAS",
+      "NOR",
+      "NWH",
+      "NWJ",
+      "NWY",
+      "PEN",
+      "POL",
+      "PRM",
+      "RUN",
+      "RUW",
+      "SPA",
+      "SWE",
+      "WIS"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/164195-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/164195-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000556655.webp",
+    "author": "Gabriele Kothe-Heinrich",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Atriplex_tatarica_Halle_habitus_1.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-12"
+  }
+}

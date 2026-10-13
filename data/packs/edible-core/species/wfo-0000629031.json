@@ -1,0 +1,109 @@
+{
+  "id": "wfo-0000629031",
+  "scientific_name": "Cucurbita argyrosperma",
+  "authorship": "C.Huber",
+  "family": "Cucurbitaceae",
+  "synonyms": [
+    "Cucurbita cyanoperizona (Pangalo) Bukasov",
+    "Cucurbita kellyana L.H.Bailey",
+    "Cucurbita mixta Pangalo",
+    "Cucurbita palmeri L.H.Bailey",
+    "Cucurbita sororia L.H.Bailey",
+    "Cucurbita stenosperma (Pangalo) Bukasov"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "zh": [
+      "墨西哥南瓜",
+      "灰籽南瓜"
+    ],
+    "nl": [
+      "Ayote"
+    ],
+    "eo": [
+      "Ajoto"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q311251",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q311251",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Cucurbita argyrosperma」",
+      "source_url": "https://en.wikipedia.org/wiki/Cucurbita_argyrosperma",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1368876133,
+      "text": "Cucurbita argyrosperma, commonly known as cushaw, kershaw, or silver-seed gourd, is a species of squash grown most frequently in North and Central America, and believed to originate from southern Mexico. This annual herbaceous plant is cultivated for its nutritional value: its flowers, shoots, and fruits are all harvested, but it is cultivated commonly in its native range for seeds."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia 英語版「Cucurbita argyrosperma」の節「Cultivation」",
+        "source_url": "https://en.wikipedia.org/wiki/Cucurbita_argyrosperma#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-12",
+        "revision": 1368876133,
+        "heading": "Cultivation",
+        "text": "Cucurbita argyrosperma subsp. argyrosperma, which includes all domesticated cushaw taxa, is adapted to warm climates and is most commonly cultivated at low elevations. The maximum elevation for this subspecies is at approximately 1,800 m above sea level.\nIn Mexico, the state of Campeche leads Cucurbita argyrosperma production. A study of agricultural technology used in conventional C. argyrosperma cultivation in Campeche indicated that some technologies used elsewhere in industrialized farming systems, such as irrigation, are not productive. Chemical treatments are the most common agritech practice in those areas.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "ELS",
+      "GUA",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NIC"
+    ],
+    "introduced": [
+      "ASS",
+      "COS",
+      "IND",
+      "MXC",
+      "PAN",
+      "WHM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/928111-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/928111-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  }
+}

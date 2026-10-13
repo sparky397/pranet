@@ -1,0 +1,241 @@
+{
+  "id": "wfo-0000889730",
+  "scientific_name": "Phalaris minor",
+  "authorship": "Retz.",
+  "family": "Poaceae",
+  "synonyms": [
+    "Alopecurus otiporensis Griff.",
+    "Phalaris ambigua Fig. & De Not.",
+    "Phalaris brevis Trin.",
+    "Phalaris capensis Thunb.",
+    "Phalaris decumbens Moench",
+    "Phalaris gracilis Parl.",
+    "Phalaris haematites Duval-Jouve & Paris",
+    "Phalaris mauritii Sennen",
+    "Phalaris nepalensis Trin."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "cy": [
+      "pefrwellt bach"
+    ],
+    "en": [
+      "littleseed canarygrass",
+      "Lesser Canary-grass"
+    ],
+    "zh": [
+      "細鷸草",
+      "细虉草"
+    ],
+    "nl": [
+      "Klein kanariezaad"
+    ],
+    "pnb": [
+      "دنبی سٹی"
+    ],
+    "ar": [
+      "خرفار صغير"
+    ],
+    "sv": [
+      "Småflen"
+    ],
+    "pl": [
+      "Mozga drobna"
+    ],
+    "ur": [
+      "دنبی سٹی"
+    ],
+    "arz": [
+      "خرفار صغير"
+    ],
+    "pa": [
+      "ਗੁੱਲੀ ਡੰਡਾ (ਨਦੀਨ)"
+    ],
+    "cs": [
+      "chrastice menší"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q3696206",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q3696206",
+  "search_names": {
+    "en": [
+      "Little seed canary grass"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Phalaris minor」",
+      "source_url": "https://en.wikipedia.org/wiki/Phalaris_minor",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1098786182,
+      "text": "Phalaris minor is a species of grass native to North Africa, Europe, and South Asia. The bunchgrass is widely naturalised elsewhere."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "GS",
+      "HF",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "AFG",
+      "ALB",
+      "ALG",
+      "BAL",
+      "CHA",
+      "CNY",
+      "COR",
+      "CYP",
+      "EAI",
+      "EGY",
+      "EHM",
+      "ERI",
+      "FRA",
+      "GRC",
+      "GST",
+      "IND",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KRI",
+      "KUW",
+      "LBS",
+      "LBY",
+      "MDR",
+      "MOR",
+      "MTN",
+      "NCS",
+      "NEP",
+      "OMA",
+      "PAK",
+      "PAL",
+      "POR",
+      "SAR",
+      "SAU",
+      "SIC",
+      "SIN",
+      "SPA",
+      "SUD",
+      "TCS",
+      "TKM",
+      "TUE",
+      "TUN",
+      "TUR",
+      "TZK",
+      "UZB",
+      "WHM",
+      "WSA",
+      "YUG"
+    ],
+    "introduced": [
+      "AGE",
+      "ALA",
+      "ARI",
+      "ASK",
+      "AUT",
+      "AZO",
+      "BOL",
+      "CAL",
+      "CHC",
+      "CLC",
+      "CLM",
+      "COL",
+      "COS",
+      "CPP",
+      "CTM",
+      "CZE",
+      "DEN",
+      "FLA",
+      "GER",
+      "GRB",
+      "HAW",
+      "IRE",
+      "JAP",
+      "KER",
+      "KOR",
+      "KRY",
+      "LOU",
+      "MAG",
+      "MRY",
+      "MXC",
+      "MXE",
+      "MXI",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NAT",
+      "NBR",
+      "NET",
+      "NFK",
+      "NSW",
+      "NWC",
+      "NWJ",
+      "NWM",
+      "NZN",
+      "NZS",
+      "OFS",
+      "ORE",
+      "PEN",
+      "PER",
+      "PHI",
+      "PRM",
+      "QLD",
+      "SCA",
+      "SEL",
+      "SOA",
+      "TAS",
+      "TEX",
+      "TVL",
+      "UKR",
+      "VIC",
+      "WAU",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/415632-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/415632-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000889730.webp",
+    "author": "Stephen Laymon, Bureau of Land Management",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Phalaris_minor.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 267,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

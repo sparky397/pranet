@@ -1,0 +1,231 @@
+{
+  "id": "wfo-0000886863",
+  "scientific_name": "Panicum virgatum",
+  "authorship": "L.",
+  "family": "Poaceae",
+  "synonyms": [
+    "Chasea virgata (L.) Nieuwl.",
+    "Eatonia purpurascens Raf.",
+    "Ichnanthus glaber Link ex Steud.",
+    "Milium virgatum (L.) Lunell",
+    "Panicum buchingeri E.Fourn.",
+    "Panicum coloratum F.Muell.",
+    "Panicum giganteum Scheele",
+    "Panicum glaberrimum Steud.",
+    "Panicum ichnanthoides E.Fourn.",
+    "Panicum kunthii E.Fourn.",
+    "Panicum pruinosum Bernh. ex Trin."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "switchgrass"
+    ],
+    "da": [
+      "Staude-Hirse",
+      "Prærie-Hirse"
+    ],
+    "es": [
+      "Mijo perenne"
+    ],
+    "fi": [
+      "Lännenhirssi",
+      "luutahirssi"
+    ],
+    "zh": [
+      "柳枝稷"
+    ],
+    "sl": [
+      "trajno proso"
+    ],
+    "eo": [
+      "Verga milio"
+    ],
+    "pl": [
+      "Proso rózgowe"
+    ],
+    "de": [
+      "Rutenhirse"
+    ],
+    "ar": [
+      "ثمام عصوي"
+    ],
+    "sv": [
+      "Rödhirs"
+    ],
+    "nl": [
+      "vingergras"
+    ],
+    "fa": [
+      "switchgrass"
+    ],
+    "cs": [
+      "proso prutnaté"
+    ],
+    "tr": [
+      "Dallı darı"
+    ],
+    "ru": [
+      "Просо прутьевидное"
+    ],
+    "hu": [
+      "vesszős köles"
+    ],
+    "he": [
+      "דוחן וירגטום"
+    ],
+    "arz": [
+      "ثمام عصوى"
+    ],
+    "ja": [
+      "スイッチグラス"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1466543",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q1466543",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Panicum virgatum」",
+      "source_url": "https://en.wikipedia.org/wiki/Panicum_virgatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1368791100,
+      "text": "Panicum virgatum, commonly known as switchgrass and panic grass, is a perennial warm season bunchgrass native to North America, where it occurs naturally from 55°N latitude in Canada southwards into the United States and Mexico. Switchgrass is one of the dominant species of the central North American tallgrass prairie and can be found in remnant prairies, in native grass pastures, and naturalized along roadsides. It is used primarily for soil conservation, forage production, game cover, as an ornamental grass, in phytoremediation projects, fiber, electricity, heat production, for biosequestration of atmospheric carbon dioxide, and more recently as a biomass crop for the production of ethanol and butanol."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "ALA",
+      "ARI",
+      "ARK",
+      "BER",
+      "BLZ",
+      "CNT",
+      "COL",
+      "CUB",
+      "DEL",
+      "ELS",
+      "FLA",
+      "GEO",
+      "HON",
+      "ILL",
+      "INI",
+      "IOW",
+      "KAN",
+      "KTY",
+      "LOU",
+      "MAN",
+      "MAS",
+      "MIC",
+      "MIN",
+      "MNT",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NCA",
+      "NDA",
+      "NEB",
+      "NEV",
+      "NIC",
+      "NSC",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "OHI",
+      "OKL",
+      "ONT",
+      "PEN",
+      "QUE",
+      "RHO",
+      "SAS",
+      "SCA",
+      "SDA",
+      "TEN",
+      "TEX",
+      "UTA",
+      "VER",
+      "VRG",
+      "WDC",
+      "WIS",
+      "WVA",
+      "WYO"
+    ],
+    "introduced": [
+      "AUT",
+      "BGM",
+      "BZE",
+      "BZL",
+      "BZN",
+      "CHC",
+      "CHN",
+      "CHS",
+      "GER",
+      "GRB",
+      "HAW",
+      "IDA",
+      "IND",
+      "JAP",
+      "KOR",
+      "ORE",
+      "WAS"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/413537-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial or rhizomatous geophyte",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/413537-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000886863.webp",
+    "author": "Warren Gretz, DOE/NREL",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Panicum_virgatum.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 320,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "wfo-0000069738",
+  "scientific_name": "Artemisia glacialis",
+  "authorship": "L.",
+  "family": "Asteraceae",
+  "synonyms": [
+    "Absinthium glaciale (L.) Lam."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "de": [
+      "Gletscher-Edelraute"
+    ],
+    "fa": [
+      "درمنه ایتالیایی"
+    ],
+    "ar": [
+      "شيح ثلجي"
+    ],
+    "arz": [
+      "ارطماسيا ثلجيه"
+    ],
+    "zh": [
+      "冰川艾蒿"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1131534",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q1131534",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Artemisia glacialis」",
+      "source_url": "https://en.wikipedia.org/wiki/Artemisia_glacialis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1193891805,
+      "text": "Artemisia glacialis, the glacier wormwood, is a species of flowering plant in the aster family."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "FRA",
+      "ITA",
+      "SWI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/179519-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "subshrub",
+    "climate_description": "subalpine or subarctic",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/179519-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000069738.webp",
+    "author": "No machine-readable author provided. Thommybe assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Artemisia_glacialis.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-12"
+  }
+}

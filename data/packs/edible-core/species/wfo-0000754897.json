@@ -1,0 +1,101 @@
+{
+  "id": "wfo-0000754897",
+  "scientific_name": "Agave utahensis",
+  "authorship": "Engelm.",
+  "family": "Asparagaceae",
+  "synonyms": [
+    "Agave newberryi Engelm.",
+    "Agave scaphoidea Greenm. & Ronst."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-12"
+  },
+  "names": {
+    "en": [
+      "Utah agave"
+    ],
+    "zh": [
+      "青瓷炉"
+    ],
+    "sl": [
+      "utaška agava"
+    ],
+    "ru": [
+      "Агава ютская"
+    ],
+    "ar": [
+      "أجاف يوتاهنسس"
+    ],
+    "arz": [
+      "اجاف يوتاهنسس"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q288439",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-12"
+  },
+  "wikidata": "Q288439",
+  "description": {
+    "en": {
+      "source": "Wikipedia 英語版「Agave utahensis」",
+      "source_url": "https://en.wikipedia.org/wiki/Agave_utahensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-12",
+      "revision": 1313976464,
+      "text": "Agave utahensis is a species of agave known by the common name Utah agave."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "MA",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-12"
+  },
+  "distribution": {
+    "native": [
+      "ARI",
+      "CAL",
+      "NEV",
+      "UTA"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/6755-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "traits_raw": {
+    "lifeform_description": "succulent perennial",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/6755-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-12"
+  },
+  "photo": {
+    "file": "photos/wfo-0000754897.webp",
+    "author": "USDA-NRCS PLANTS Database",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Agave_utahensis.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 267,
+    "height": 400,
+    "retrieved": "2026-10-12"
+  }
+}
