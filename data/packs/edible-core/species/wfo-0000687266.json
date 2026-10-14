@@ -13,25 +13,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "フィカス・アルティシマ"
     ],
-    "en": [
-      "council tree"
+    "id": [
+      "Jerakah"
+    ],
+    "th": [
+      "ไทรทอง"
     ],
     "zh": [
       "高山榕",
       "藤黄连",
       "高榕"
-    ],
-    "vi": [
-      "đa"
-    ],
-    "th": [
-      "ไทรทอง"
     ],
     "ms": [
       "Pokok Ara Jeloteh"
@@ -42,15 +39,18 @@
     "ar": [
       "تين باسق"
     ],
-    "id": [
-      "Jerakah"
+    "en": [
+      "council tree"
+    ],
+    "vi": [
+      "đa"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4921039",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4921039",
   "search_names": {
@@ -60,35 +60,64 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「フィカス・アルティシマ」",
+      "source": "Wikipedia (ja): フィカス・アルティシマ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%82%AB%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%82%B7%E3%83%9E",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107915765,
       "text": "フィカス・アルティシマ は、クワ科フィカス属（イチジク属）の植物の1種｡"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ficus altissima」",
+      "source": "Wikipedia (en): Ficus altissima",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_altissima",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372948513,
       "text": "Ficus altissima, commonly known as the council tree and lofty fig, is a species of flowering plant, a fig tree in the family Moraceae. It is a large, stately evergreen hemiepiphyte and is native to southeastern Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ficus altissima",
+      "source_url": "https://es.wikipedia.org/wiki/Ficus_altissima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173945133,
+      "text": "Ficus altissima es una especie de planta fanerógama, un árbol de la familia Moraceae. Se trata de un majestuoso gran árbol de hoja perenne que es nativo del sudeste de Asia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jerakah",
+      "source_url": "https://id.wikipedia.org/wiki/Jerakah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29992864,
+      "text": "Jerakah atau ara tinggi adalah spesies tumbuhan berbunga, pohon ara dalam famili Moraceae. Ini adalah hemiepiphyte yang besar dan selalu hijau dan berasal dari Asia Tenggara."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Ficus altissima」の節「Cultivation」",
+        "source": "Wikipedia (en): Ficus altissima § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Ficus_altissima#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1372948513,
         "heading": "Cultivation",
         "text": "A cultivar 'Yellow Gem' is a variegated variety with yellow tinted leaves.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Jerakah § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Jerakah#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29992864,
+        "heading": "Penanaman",
+        "text": "Kultivar 'Permata Kuning' adalah varietas beraneka ragam dengan daun berwarna kuning.",
         "truncated": false
       }
     }
@@ -106,7 +135,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -136,7 +165,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/852369-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -144,7 +173,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/852369-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000687266.webp",
@@ -157,6 +186,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

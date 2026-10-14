@@ -12,34 +12,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "mountain soursop"
+    "id": [
+      "Sirsak gunung"
+    ],
+    "nl": [
+      "bergzuurzak",
+      "boszuurzak"
     ],
     "zh": [
       "山刺番荔枝",
       "山地番荔枝"
-    ],
-    "de": [
-      "Schleimapfel"
-    ],
-    "ht": [
-      "kowosòl zombi"
-    ],
-    "srn": [
-      "soensaka"
-    ],
-    "nl": [
-      "boszuurzak",
-      "bergzuurzak"
-    ],
-    "arw": [
-      "kaiedi"
-    ],
-    "fr": [
-      "corossol zombi"
     ],
     "pl": [
       "Flaszowiec górski"
@@ -53,18 +38,33 @@
     "arz": [
       "انونا مونتانا"
     ],
-    "id": [
-      "Sirsak gunung"
-    ],
     "guc": [
       "Yaichi"
+    ],
+    "en": [
+      "mountain soursop"
+    ],
+    "de": [
+      "Schleimapfel"
+    ],
+    "ht": [
+      "kowosòl zombi"
+    ],
+    "srn": [
+      "soensaka"
+    ],
+    "arw": [
+      "kaiedi"
+    ],
+    "fr": [
+      "corossol zombi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311448",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311448",
   "search_names": {
@@ -74,13 +74,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Annona montana」",
+      "source": "Wikipedia (en): Annona montana",
       "source_url": "https://en.wikipedia.org/wiki/Annona_montana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1346249796,
       "text": "Annona montana, the mountain soursop, is a tree and its edible fruit in the Annonaceae family native to Central America, the Amazon, and islands in the Caribbean. It has fibrous fruits. A. montana may be used as a rootstock for cultivated Annonas."
+    },
+    "es": {
+      "source": "Wikipedia (es): Annona montana",
+      "source_url": "https://es.wikipedia.org/wiki/Annona_montana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 170224893,
+      "text": "El guanábano de loma, guanábano cimarrón o guanábana de montaña  es una especie de árbol perteneciente a la familia de las anonáceas. Es nativa de América tropical, desde Costa Rica hasta el sur de Brasil."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sirsak gunung",
+      "source_url": "https://id.wikipedia.org/wiki/Sirsak_gunung",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29939246,
+      "text": "Annona montana, sirsak gunung, adalah pohon dan buahnya yang dapat dimakan dalam famili Annonaceae yang berasal dari Amerika Tengah, Amazon, dan pulau-pulau di Karibia."
     }
   },
   "edible": {
@@ -94,7 +112,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -127,7 +145,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/72257-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -135,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/72257-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000537842.webp",
@@ -148,6 +166,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

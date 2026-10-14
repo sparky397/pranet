@@ -16,13 +16,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Chilean laurel",
-      "Chilean Sassafras"
-    ],
     "zh": [
       "智利桂"
     ],
@@ -31,24 +27,46 @@
     ],
     "arz": [
       "لوريليا سيمبيرفيرينز"
+    ],
+    "en": [
+      "Chilean laurel",
+      "Chilean Sassafras"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1002397",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1002397",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Laurelia sempervirens」",
+      "source": "Wikipedia (en): Laurelia sempervirens",
       "source_url": "https://en.wikipedia.org/wiki/Laurelia_sempervirens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1344232964,
       "text": "Laurelia sempervirens is a species of evergreen tree in the family Atherospermataceae. Common names include Peruvian nutmeg, tihue or trihue, and Chilean laurel or Chilean sassafras."
+    },
+    "es": {
+      "source": "Wikipedia (es): Laurelia sempervirens",
+      "source_url": "https://es.wikipedia.org/wiki/Laurelia_sempervirens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172915245,
+      "text": "Laurelia sempervirens, el laurel chileno, es un árbol endémico de Chile, conocido en ese país simplemente como laurel, tihue o trihue. En Chile, solo se le encuentra desde la región de O'Higgins a la de Los Lagos, es decir, de los 34° a 41° latitud sur."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Laurelia sempervirens",
+      "source_url": "https://fr.wikipedia.org/wiki/Laurelia_sempervirens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216131480,
+      "text": "Laurelia sempervirens, parfois appelé laurel, est une espèce de plantes à fleurs de la famille des Atherospermataceae. C’est un arbre natif du Chili, à feuilles pérennes, abondant dans les bois de type valdivien toujours verts du sud du Chili."
     }
   },
   "edible": {
@@ -62,7 +80,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -73,7 +91,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1177892-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -81,7 +99,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1177892-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000443813.webp",
@@ -94,6 +112,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 352,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

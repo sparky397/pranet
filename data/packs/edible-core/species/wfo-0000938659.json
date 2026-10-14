@@ -10,15 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "af": [
-      "gouevalsnetel"
-    ],
-    "en": [
-      "golden falsenettle"
-    ],
     "ta": [
       "சிறுசின்னி"
     ],
@@ -27,24 +21,39 @@
     ],
     "zh": [
       "桦叶铁苋"
+    ],
+    "af": [
+      "gouevalsnetel"
+    ],
+    "en": [
+      "golden falsenettle"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3537219",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3537219",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Acalypha fruticosa」",
+      "source": "Wikipedia (en): Acalypha fruticosa",
       "source_url": "https://en.wikipedia.org/wiki/Acalypha_fruticosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1330652388,
       "text": "Acalypha fruticosa is a species of flowering plant in the botanical family Euphorbiaceae. It occurs widely in East and southern Africa where it is eaten as a vegetable. It is also an important browse plant for sheep. In East Africa and southern Africa it is used as a medicinal plant. In northern Kenya, arrow shafts and beehive lids are made from the stem. From the dried leaves a tea is made in Ethiopia."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Acalypha fruticosa",
+      "source_url": "https://pt.wikipedia.org/wiki/Acalypha_fruticosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70729659,
+      "text": "Acalypha fruticosa é uma espécie de flor do gênero Acalypha, pertencente à família Euphorbiaceae."
     }
   },
   "edible": {
@@ -59,7 +68,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -88,7 +97,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/337407-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -96,7 +105,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/337407-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000938659.webp",
@@ -109,6 +118,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

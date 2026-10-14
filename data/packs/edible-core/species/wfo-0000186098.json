@@ -19,25 +19,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "tall albizia"
-    ],
-    "zh": [
-      "黃豆樹",
-      "黄豆树",
-      "菲律宾合欢"
+    "id": [
+      "Weru"
     ],
     "my": [
       "စစ်"
     ],
+    "zh": [
+      "黄豆树",
+      "黃豆樹",
+      "菲律宾合欢"
+    ],
     "ml": [
       "വെള്ളവാക"
-    ],
-    "id": [
-      "Weru"
     ],
     "th": [
       "ทิ้งถ่อน"
@@ -50,24 +47,54 @@
     ],
     "shn": [
       "တူၼ်ႈမႆႉႁူဝ်မူ"
+    ],
+    "en": [
+      "tall albizia"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2831937",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2831937",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Albizia procera」",
+      "source": "Wikipedia (en): Albizia procera",
       "source_url": "https://en.wikipedia.org/wiki/Albizia_procera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1361308722,
       "text": "Albizia procera, commonly known as white siris or karoi tree, is a species of large tree found natively in southeast Asia and India. It is most commonly found in open forests, but may also be found on the margins of rain forests and in monsoon and gallery forests. It is considered an invasive species in South Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Albizia procera",
+      "source_url": "https://es.wikipedia.org/wiki/Albizia_procera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171193308,
+      "text": "Albizia procera es una especie botánica de árbol leguminosa en la familia de las Fabaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Albizia procera",
+      "source_url": "https://fr.wikipedia.org/wiki/Albizia_procera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224829290,
+      "text": "Albizia procera ou Siris blanc est une espèce de plantes à fleurs de la famille des Mimosaceae selon classification classique, ou à celle des Fabaceae, sous-famille des Mimosoideae selon la classification phylogénétique. C'est un arbre tropical originaire d'Asie et d'Océanie. On le trouve en Chine, sur l'Île de Taïwan, au Bhoutan, en Inde, au Népal, au Cambodge, au Laos, en Birmanie, en Thaïlande, au Viêt Nam, en Indonésie, en Papouasie-Nouvelle-Guinée, aux Philippines et en Australie."
+    },
+    "id": {
+      "source": "Wikipedia (id): Weru",
+      "source_url": "https://id.wikipedia.org/wiki/Weru",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29970287,
+      "text": "Weru adalah sejenis pohon anggota famili Fabaceae. Pohon dengan banyak kegunaan ini menyebar luas mulai dari India di barat, Asia Tenggara, Tiongkok selatan, Nusantara, hingga Australia utara."
     }
   },
   "edible": {
@@ -87,7 +114,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -143,7 +170,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/473360-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -151,7 +178,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/473360-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000186098.webp",
@@ -164,6 +191,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 281,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

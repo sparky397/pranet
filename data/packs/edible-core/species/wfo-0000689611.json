@@ -14,38 +14,47 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Punjab fig"
-    ],
-    "zh": [
-      "掌叶榕"
-    ],
     "he": [
       "פיקוס בת-שקמה"
     ],
     "ar": [
       "تين كفي"
+    ],
+    "en": [
+      "Punjab fig"
+    ],
+    "zh": [
+      "掌叶榕"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3744533",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3744533",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ficus palmata」",
+      "source": "Wikipedia (en): Ficus palmata",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_palmata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373460516,
       "text": "Ficus palmata, commonly known as Punjab fig or \"Bedu\", is a species of flowering plant in the family Moraceae. It is a shrub or tree native to southern Egypt to north-eastern tropical Africa and the Arabian Peninsula, and southeastern Iran to Afghanistan, Pakistan, northern India, and Nepal. It has edible fruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ficus palmata",
+      "source_url": "https://es.wikipedia.org/wiki/Ficus_palmata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172435934,
+      "text": "Ficus palmata, de nombre común en inglés Punjab fig, es una de las numerosísimas especies del género Ficus, de la familia de las moráceas. Se localiza en diversas zonas de Asia y África, y también cultivado en jardines particulares como planta ornamental y en colecciones vegetales en Estados Unidos y países occidentales."
     }
   },
   "edible": {
@@ -60,7 +69,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -87,7 +96,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853358-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -95,7 +104,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853358-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000689611.webp",
@@ -108,6 +117,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

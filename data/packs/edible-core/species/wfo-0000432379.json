@@ -12,29 +12,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "de": [
       "Rauer Beinwell"
     ],
-    "en": [
-      "prickly comfrey"
-    ],
-    "nl": [
-      "Ruwe smeerwortel"
-    ],
-    "cs": [
-      "kostival drsný"
-    ],
-    "fi": [
-      "tarharaunioyrtti"
-    ],
-    "zh": [
-      "糙叶聚合草"
-    ],
     "az": [
       "Cod xəndəkotu"
+    ],
+    "nl": [
+      "ruwe smeerwortel"
     ],
     "ru": [
       "Окопник жёсткий"
@@ -60,11 +48,17 @@
     "be": [
       "Жывакост жорсткі"
     ],
+    "cs": [
+      "kostival drsný"
+    ],
     "hy": [
       "Քարխոտ կոշտ"
     ],
     "et": [
       "kare varemerohi"
+    ],
+    "fi": [
+      "tarharaunioyrtti"
     ],
     "nb": [
       "Fôrvalurt"
@@ -77,24 +71,39 @@
     ],
     "mk": [
       "груб гавез"
+    ],
+    "en": [
+      "prickly comfrey"
+    ],
+    "zh": [
+      "糙叶聚合草"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1633872",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1633872",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Symphytum asperum」",
+      "source": "Wikipedia (en): Symphytum asperum",
       "source_url": "https://en.wikipedia.org/wiki/Symphytum_asperum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1189088481,
       "text": "Symphytum asperum is a flowering plant of the genus Symphytum in the family Boraginaceae. Common names include rough comfrey and prickly comfrey. It is the tallest Symphytum species. It is native to Asia, and it is known in Europe and North America as an introduced species and sometimes a weed. Symphytum × uplandicum, the naturally occurring hybrid with the common comfrey, is the economically most important kind of comfrey."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Symphytum asperum",
+      "source_url": "https://fr.wikipedia.org/wiki/Symphytum_asperum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232693366,
+      "text": "La consoude rude, consoude rugueuse ou consoude hérissée, est une plante vivace de la famille des Boraginacées."
     }
   },
   "edible": {
@@ -109,7 +118,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -164,7 +173,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/120743-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -172,7 +181,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/120743-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000432379.webp",
@@ -185,6 +194,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

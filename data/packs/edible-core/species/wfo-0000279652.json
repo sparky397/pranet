@@ -20,7 +20,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -30,11 +30,14 @@
       "Patchouli",
       "patchouli"
     ],
-    "zh": [
-      "到手香",
-      "广藿香",
-      "广蕾香",
-      "藿香"
+    "fr": [
+      "Patchouli"
+    ],
+    "pt": [
+      "Patchouli"
+    ],
+    "id": [
+      "Nilam"
     ],
     "de": [
       "Indisches Patschuli"
@@ -51,17 +54,11 @@
     "fi": [
       "patsuli"
     ],
-    "fr": [
-      "Patchouli"
-    ],
     "he": [
       "פצ'ולי"
     ],
     "hu": [
       "pacsuli"
-    ],
-    "id": [
-      "Nilam"
     ],
     "io": [
       "Pachulio"
@@ -81,9 +78,6 @@
     "pl": [
       "paczulka wonna"
     ],
-    "pt": [
-      "Patchouli"
-    ],
     "ru": [
       "пачули"
     ],
@@ -92,6 +86,12 @@
     ],
     "vi": [
       "Hoắc hương"
+    ],
+    "zh": [
+      "广藿香",
+      "到手香",
+      "广蕾香",
+      "藿香"
     ],
     "be": [
       "пачулі"
@@ -155,37 +155,73 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q257757",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q257757",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「パチョリ」",
+      "source": "Wikipedia (ja): パチョリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%81%E3%83%A7%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108886331,
       "text": "パチョリ とは、シソ科ミズトラノオ属の植物である。ハーブの一つであり、主に精油（パチョリ油）に加工され利用される。古くから香や香水に用いられている。インド原産。その名前はタミル語で緑の葉を意味するパッチャイ・イライ に由来する。パチュリ、パチュリーとも。漢方ではパチョリの全草を乾燥させたものを霍香（カッコウ）と呼び霍香正気散などの漢方薬に用いる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Patchouli」",
+      "source": "Wikipedia (en): Patchouli",
       "source_url": "https://en.wikipedia.org/wiki/Patchouli",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373080566,
       "text": "Patchouli is a species of flowering plant in the family Lamiaceae, commonly called the mint or deadnettle family. The plant grows as a bushy perennial herb, with erect stems reaching up to 75 centimetres (30 in) in height and bearing small, pale, pink-white flowers."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pogostemon cablin",
+      "source_url": "https://es.wikipedia.org/wiki/Pogostemon_cablin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174481203,
+      "text": "La pogostemon cablin, conocida comúnmente como pachulí o pachuli, es una planta y un aceite esencial obtenido de las hojas de dicha planta. La esencia de pachulí es fuerte e intensa. Se la ha usado durante cientos de años en perfumes, como relajante y para ocultar otros olores. Crece en el oeste y este de la India. El nombre deriva de patchai பச்சை (verde) y ellai இலை (hoja), que, en tamil, idioma que se habla al sur de la India y en el noreste de Sri Lanka, significa \"hoja verde\"."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Patchouli",
+      "source_url": "https://fr.wikipedia.org/wiki/Patchouli",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238392517,
+      "text": "Le patchouli est une espèce de plantes à fleurs de la famille des Lamiacées. C'est une plante herbacée tropicale utilisée surtout en parfumerie et en cosmétologie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Patchouli",
+      "source_url": "https://pt.wikipedia.org/wiki/Patchouli",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67516824,
+      "text": "Patchouli, patchouly, patchuli, pachouli, pachuli, patechuli, patexulí ou ainda oriza no Brasil, é um conjunto de espécies de plantas do género Pogostemon e também o óleo essencial obtido de suas folhas. Geralmente, refere-se às espécies Pogostemon cablin, muito cultivada na Indonésia, Pogostemon heyneanus ou Pogostemon patchouly, esta última designada patchuli de Java. As outras plantas do mesmo género botânico não são adequadas à produção do óleo."
+    },
+    "id": {
+      "source": "Wikipedia (id): Nilam",
+      "source_url": "https://id.wikipedia.org/wiki/Nilam",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29859442,
+      "text": "Nilam  adalah suatu semak tropis penghasil sejenis minyak asiri yang dinamakan sama. Tanaman ini umum dimanfaatkan bagian daunnya untuk diekstraksi minyaknya, dan diolah menjadi parfum, bahan dupa, minyak asiri, antiserangga, dan digunakan pada industri kosmetik. Dalam perdagangan internasional, minyak nilam dikenal sebagai minyak patchouli. Aroma minyak nilam dikenal 'berat' dan 'kuat' dan telah berabad-abad digunakan sebagai wangi-wangian (parfum) dan bahan dupa atau setanggi pada tradisi timur. Harga jual minyak nilam termasuk yang tertinggi apabila dibandingkan dengan minyak asiri lainnya."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Patchouli」の節「Cultivation」",
+        "source": "Wikipedia (en): Patchouli § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Patchouli#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1373080566,
         "heading": "Cultivation",
         "text": "Patchouli grows well in warm to tropical climates. It thrives in hot, humid weather but not extended periods of direct sunlight. If the plant withers due to lack of water, it tends to recover quickly after rain or watering. Although rare, the seed-producing flowers are very fragrant and blossom in late autumn. The tiny seeds may be harvested for planting, but they are very delicate and easily crushed. Cuttings and grafts from the mother plant and subsequent rooting in loamy soil are the most common methods for propagation.",
@@ -207,7 +243,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -235,7 +271,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/454827-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or subshrub",
@@ -243,7 +279,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/454827-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000279652.webp",
@@ -256,6 +292,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

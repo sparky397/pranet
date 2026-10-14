@@ -11,30 +11,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "wild guava"
+    "fr": [
+      "Goyavier du Costa Rica"
     ],
     "nl": [
       "Costa Rica-guave"
-    ],
-    "fr": [
-      "Goyavier du Costa Rica"
     ],
     "he": [
       "גויאבת קוסטה ריקה"
     ],
     "zh": [
       "哥斯大黎加芭樂"
+    ],
+    "en": [
+      "wild guava"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2906154",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2906154",
   "search_names": {
@@ -44,13 +44,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Psidium friedrichsthalianum」",
+      "source": "Wikipedia (en): Psidium friedrichsthalianum",
       "source_url": "https://en.wikipedia.org/wiki/Psidium_friedrichsthalianum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1326452190,
       "text": "Psidium friedrichsthalianum, the Costa Rican guava or cas, is a species of guava origin in Costa Rica but also grown in Guatemala, Nicaragua and other Central American countries. It can be found in Costa Rica as \"fresco de cas”. This fruit is commonly used to prepare a sour and refreshing drink."
+    },
+    "es": {
+      "source": "Wikipedia (es): Psidium friedrichsthalium",
+      "source_url": "https://es.wikipedia.org/wiki/Psidium_friedrichsthalium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171610753,
+      "text": "El Cas o \"Guayaba de monte\" también científicamente conocido como Psidium friedrichsthalianum es una especie de árbol de la familia de la guayaba originario de Costa Rica cultivado exitosamente en California y puede ser cultivado de su semilla en regiones de altitud moderada."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Goyavier du Costa Rica",
+      "source_url": "https://fr.wikipedia.org/wiki/Goyavier_du_Costa_Rica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236944478,
+      "text": "Le goyavier du Costa Rica est une espèce de plantes à fleurs de la famille des Myrtaceae. C'est un arbre originaire du Costa Rica et d'autres pays d'Amérique centrale."
     }
   },
   "edible": {
@@ -63,7 +81,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -88,7 +106,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/211742-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -96,7 +114,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/211742-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000284404.webp",
@@ -109,6 +127,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 262,
     "height": 196,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

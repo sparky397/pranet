@@ -21,13 +21,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "木蝴蝶",
-      "千张纸",
-      "木蝴蝶树皮"
+    "id": [
+      "Bungli"
     ],
     "pt": [
       "Ababangai"
@@ -56,6 +54,11 @@
     "ms": [
       "Pokok Bonglai"
     ],
+    "zh": [
+      "木蝴蝶",
+      "千张纸",
+      "木蝴蝶树皮"
+    ],
     "pnb": [
       "راتیں کھڑنا"
     ],
@@ -80,9 +83,6 @@
     "ur": [
       "تلوار پھلی"
     ],
-    "id": [
-      "Bungli"
-    ],
     "ace": [
       "Abeueng-abeueng"
     ],
@@ -97,18 +97,54 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3245941",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3245941",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Oroxylum indicum」",
+      "source": "Wikipedia (en): Oroxylum indicum",
       "source_url": "https://en.wikipedia.org/wiki/Oroxylum_indicum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1319570993,
       "text": "Oroxylum indicum is a species of flowering plant, in the monotypic genus Oroxylum in the family Bignoniaceae. It is commonly called Indian trumpet tree, oroxylum, Indian trumpet flower, broken bones, scythe tree, tree of Damocles, or midnight horror. It can reach a height of 18 metres (59 ft). Various segments of the tree are used in traditional medicine."
+    },
+    "es": {
+      "source": "Wikipedia (es): Oroxylum indicum",
+      "source_url": "https://es.wikipedia.org/wiki/Oroxylum_indicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581481,
+      "text": "Oroxylum es un género monotípico de árboles pertenecientes a la familia Bignoniaceae. Su única especie: Oroxylum indicum, es originaria de India, Malasia, Sri Lanka y el sur de China."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Oroxylum indicum",
+      "source_url": "https://fr.wikipedia.org/wiki/Oroxylum_indicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227079570,
+      "text": "Oroxylum indicum, l’Arbre de Damoclès, est une espèce de plantes à fleurs de la famille des Bignoniaceae. C'est la seule espèce du genre Oroxylum. C'est un arbre originaire de l'Asie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Oroxylum indicum",
+      "source_url": "https://pt.wikipedia.org/wiki/Oroxylum_indicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70340053,
+      "text": "Oroxylum indicum Vent., conhecida pelo nome comum de ababangai, é uma espécie de arbustos da família das bignoniáceas, nativo do leste da Índia e das Filipinas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bungli",
+      "source_url": "https://id.wikipedia.org/wiki/Bungli",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29801935,
+      "text": "Oroxylum indicum adalah spesies tanaman berbunga yang termasuk dalam genus monotypic Oroxylum dan keluarga Bignoniaceae, dan biasa disebut kayu lanang dan bungli. Tingginya bisa mencapai 18 meter (59 ft). Berbagai ruas pohon digunakan dalam pengobatan tradisional, di mana ia dikenal sebagai Shyonaka atau Sona Patha di India."
     }
   },
   "edible": {
@@ -121,7 +157,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -154,7 +190,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/110175-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -162,7 +198,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/110175-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000779181.webp",
@@ -175,6 +211,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 275,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

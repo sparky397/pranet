@@ -28,7 +28,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -38,36 +38,17 @@
       "Timothy (grass)",
       "timothy"
     ],
-    "cy": [
-      "rhonwellt",
-      "Rhonwellt penfain"
-    ],
-    "ru": [
-      "тимофеевка",
-      "тимофеевка луговая"
-    ],
-    "nl": [
-      "Timoteegras en klein timoteegras"
-    ],
-    "cs": [
-      "bojínek luční"
-    ],
-    "mk": [
-      "мачкина опашка"
-    ],
-    "fi": [
-      "nurmitähkiö",
-      "timotei"
-    ],
-    "zh": [
-      "梯牧草",
-      "催产草"
+    "fr": [
+      "Fléole des prés"
     ],
     "de": [
       "Wiesen-Lieschgras"
     ],
     "ar": [
       "عصوية المروج"
+    ],
+    "cs": [
+      "bojínek luční"
     ],
     "cv": [
       "Кушак хӳри"
@@ -78,8 +59,9 @@
     "fa": [
       "لوئیچه چمنی"
     ],
-    "fr": [
-      "Fléole des prés"
+    "fi": [
+      "timotei",
+      "nurmitähkiö"
     ],
     "hsb": [
       "Łučny pasnik"
@@ -108,14 +90,26 @@
     "wa": [
       "Fiole"
     ],
+    "zh": [
+      "梯牧草",
+      "催产草"
+    ],
     "nb": [
       "Timotei"
+    ],
+    "ru": [
+      "тимофеевка луговая",
+      "тимофеевка"
     ],
     "eu": [
       "Larre-pleotza"
     ],
     "be": [
       "Цімафееўка лугавая"
+    ],
+    "cy": [
+      "Rhonwellt penfain",
+      "rhonwellt"
     ],
     "bg": [
       "ливадна тимотейка"
@@ -138,6 +132,9 @@
     "ro": [
       "timoftică"
     ],
+    "mk": [
+      "мачкина опашка"
+    ],
     "arz": [
       "افليوم مرجى"
     ],
@@ -149,13 +146,16 @@
     ],
     "ko": [
       "큰조아재비"
+    ],
+    "nl": [
+      "Timoteegras en klein timoteegras"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q256508",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q256508",
   "search_names": {
@@ -167,22 +167,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オオアワガエリ」",
+      "source": "Wikipedia (ja): オオアワガエリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%A2%E3%83%AF%E3%82%AC%E3%82%A8%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109769058,
       "text": "オオアワガエリ は、イネ科の多年草。チモシー・グラス、あるいは単にチモシーとも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Timothy (grass)」",
+      "source": "Wikipedia (en): Timothy (grass)",
       "source_url": "https://en.wikipedia.org/wiki/Timothy_(grass)",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368001420,
       "text": "Timothy is a species of perennial grass native to most of Europe and northern and western Asia. It is also known as timothy-grass, meadow cat's-tail or common cat's-tail. It is a member of the genus Phleum, which consists of 17 species of annual and perennial grasses."
+    },
+    "es": {
+      "source": "Wikipedia (es): Phleum pratense",
+      "source_url": "https://es.wikipedia.org/wiki/Phleum_pratense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174638654,
+      "text": "Phleum pratense es una especie de planta herbácea perenne, muy abundante, de la familia Poaceae, nativa de la Europa templada."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Fléole des prés",
+      "source_url": "https://fr.wikipedia.org/wiki/Fl%C3%A9ole_des_pr%C3%A9s",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237476995,
+      "text": "La fléole des prés ou phléole est une espèce de plantes herbacées vivaces de la famille des Poaceae. On l'appelle aussi \"queue de rat\" ou herbe de Timothy."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Phleum pratense",
+      "source_url": "https://pt.wikipedia.org/wiki/Phleum_pratense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 60731993,
+      "text": "Phleum pratense é uma espécie de planta com flor pertencente à família Poaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Phleum pratense",
+      "source_url": "https://id.wikipedia.org/wiki/Phleum_pratense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29675357,
+      "text": "Phleum pratense adalah sebuah rumput menahun berlimpah yang berasal dari sebagian besar Eropa kecuali untuk wilayah Mediterania. Rumput tersebut juga dikenal sebagai timothy, ekor kucing padang rumput atau ekor kucing biasa."
     }
   },
   "edible": {
@@ -196,7 +232,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -369,7 +405,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/415868-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -377,7 +413,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/415868-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000890092.webp",
@@ -390,6 +426,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 174,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

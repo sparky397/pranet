@@ -79,32 +79,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "false daisy"
-    ],
-    "es": [
-      "Yerba de tago"
-    ],
-    "fr": [
-      "Eclipte Blanche"
-    ],
-    "zh": [
-      "鱧腸",
-      "鳢肠",
-      "醴肠",
-      "旱莲草",
-      "墨旱莲",
-      "鱧肠"
-    ],
-    "ta": [
-      "கரிசலாங்கண்ணி",
-      "கரிசாலை",
-      "கையாந்தகரை",
-      "கரியசாலை",
-      "கைகேசி"
+    "id": [
+      "Urang-aring"
     ],
     "hi": [
       "भृङ्गराज"
@@ -118,13 +97,17 @@
     "ko": [
       "한련초"
     ],
+    "ta": [
+      "கரிசலாங்கண்ணி",
+      "கரிசாலை",
+      "கையாந்தகரை",
+      "கரியசாலை",
+      "கைகேசி"
+    ],
     "th": [
       "กะเม็ง"
     ],
     "ms": [
-      "Urang-aring"
-    ],
-    "id": [
       "Urang-aring"
     ],
     "ml": [
@@ -153,6 +136,14 @@
     ],
     "ar": [
       "منكسفة مفترشة"
+    ],
+    "zh": [
+      "鳢肠",
+      "鱧腸",
+      "醴肠",
+      "旱莲草",
+      "墨旱莲",
+      "鱧肠"
     ],
     "fa": [
       "اکلیپتا پرستراتا"
@@ -195,24 +186,69 @@
     ],
     "shn": [
       "တူၼ်ႈယႃႈႁွမ်ၵဵဝ်ႇ"
+    ],
+    "en": [
+      "false daisy"
+    ],
+    "es": [
+      "Yerba de tago"
+    ],
+    "fr": [
+      "Eclipte Blanche"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q857092",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q857092",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Eclipta prostrata」",
+      "source": "Wikipedia (en): Eclipta prostrata",
       "source_url": "https://en.wikipedia.org/wiki/Eclipta_prostrata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372174822,
       "text": "Eclipta prostrata, the false daisy or tattoo plant, is a species of plant in the family Asteraceae. It is widespread across much of the world."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eclipta prostrata",
+      "source_url": "https://es.wikipedia.org/wiki/Eclipta_prostrata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 133514026,
+      "text": "Eclipta prostrata es una especie de planta fanerógama de la familia Asteraceae. Es una de las Diez Flores Sagradas de Kerala."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eclipta prostrata",
+      "source_url": "https://fr.wikipedia.org/wiki/Eclipta_prostrata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 214020286,
+      "text": "Eclipta prostrata, l’Éclipte blanche, est une espèce de plantes à fleurs de la famille des Asteraceae et du genre Eclipta, originaire des Amériques mais naturalisée dans le monde entier. C'est une herbacée à larges feuilles plates et à petites fleurs blanches. Elle a beaucoup d'usages médicinaux en Asie notamment."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eclipta prostrata",
+      "source_url": "https://pt.wikipedia.org/wiki/Eclipta_prostrata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 40460161,
+      "text": "Eclipta prostrata é uma espécie de planta com flor pertencente à família Asteraceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Urang-aring",
+      "source_url": "https://id.wikipedia.org/wiki/Urang-aring",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29410235,
+      "text": "Urang-aring adalah sejenis tumbuhan, kebanyakan ditemukan liar sebagai gulma, anggota suku Asteraceae. Terna ini terkenal oleh kegunaannya sebagai penyubur rambut. Di samping itu, urang-aring juga memiliki khasiat sebagai tumbuhan obat. Beberapa nama-nama lainnya, di antaranya orang-aring (Jw.); te-lenteyan (Md.); daun tinta ; daun sipat, keremak jantan (Mly.); dan false daisy (Ingg.)."
     }
   },
   "edible": {
@@ -228,7 +264,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -461,7 +497,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1186403-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -469,7 +505,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1186403-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000108811.webp",
@@ -482,6 +518,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

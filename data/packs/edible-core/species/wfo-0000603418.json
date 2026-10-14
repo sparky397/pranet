@@ -21,24 +21,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "crossflower"
-    ],
     "fi": [
-      "hentoirsokki",
-      "irsokki"
-    ],
-    "zh": [
-      "离子芥"
-    ],
-    "sl": [
-      "nežni členolusk"
+      "irsokki",
+      "hentoirsokki"
     ],
     "cs": [
       "drobnosemenka jemná"
+    ],
+    "zh": [
+      "离子芥"
     ],
     "sv": [
       "Hönsrättika"
@@ -54,24 +48,48 @@
     ],
     "et": [
       "õrn korispoor"
+    ],
+    "sl": [
+      "nežni členolusk"
+    ],
+    "en": [
+      "crossflower"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3338529",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3338529",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Chorispora tenella」",
+      "source": "Wikipedia (en): Chorispora tenella",
       "source_url": "https://en.wikipedia.org/wiki/Chorispora_tenella",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1297740590,
       "text": "Chorispora tenella is a species of flowering plant in the mustard family known by several common names, including purple mustard, blue mustard, musk mustard, and crossflower. This mustard is native to parts of Eurasia but is well known in other parts of the world, particularly in temperate regions, as an introduced species and a noxious weed."
+    },
+    "es": {
+      "source": "Wikipedia (es): Chorispora tenella",
+      "source_url": "https://es.wikipedia.org/wiki/Chorispora_tenella",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175302605,
+      "text": "Chorispora tenella es una especie de planta de la familia Brassicaceae. Es nativa de Eurasia, pero es bien conocida en otras partes del mundo, especialmente en las regiones templadas, como especie introducida y una maleza nociva."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Chorispora tenella",
+      "source_url": "https://fr.wikipedia.org/wiki/Chorispora_tenella",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216964808,
+      "text": "Chorispora tenella est une espèce de plante de la famille des Brassicaceae et du genre Chorispora."
     }
   },
   "edible": {
@@ -83,7 +101,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -169,7 +187,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/281254-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -177,7 +195,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/281254-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000603418.webp",
@@ -190,6 +208,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

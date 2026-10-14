@@ -13,46 +13,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "cy": [
-      "ffiolredynen frau"
-    ],
-    "en": [
-      "brittle bladderfern",
-      "brittle bladder fern",
-      "bladder fern",
-      "brittle fern",
-      "fragile fern"
-    ],
-    "zh": [
-      "冷蕨",
-      "皺孢冷蕨"
-    ],
-    "nl": [
-      "Blaasvaren"
+      "Ffiolredynen Frau"
     ],
     "cs": [
       "puchýřník křehký"
     ],
-    "fr": [
-      "cystoptéris"
-    ],
-    "de": [
-      "Zerbrechlicher Blasenfarn"
-    ],
     "fi": [
       "haurasloikko"
     ],
-    "sl": [
-      "krhka priščanica"
+    "de": [
+      "Zerbrechlicher Blasenfarn"
     ],
     "pl": [
       "Paprotnica krucha"
     ],
     "sv": [
       "Stenbräken"
+    ],
+    "zh": [
+      "冷蕨",
+      "皺孢冷蕨"
     ],
     "nb": [
       "Skjørlok"
@@ -83,13 +67,29 @@
     ],
     "lt": [
       "Trapioji sprakšė"
+    ],
+    "sl": [
+      "krhka priščanica"
+    ],
+    "en": [
+      "brittle bladderfern",
+      "brittle bladder fern",
+      "bladder fern",
+      "brittle fern",
+      "fragile fern"
+    ],
+    "nl": [
+      "Blaasvaren"
+    ],
+    "fr": [
+      "cystoptéris"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q191532",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q191532",
   "search_names": {
@@ -100,13 +100,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cystopteris fragilis」",
+      "source": "Wikipedia (en): Cystopteris fragilis",
       "source_url": "https://en.wikipedia.org/wiki/Cystopteris_fragilis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365175580,
       "text": "Cystopteris fragilis is a species of perennial fern known by the common names brittle bladder-fern and common fragile fern. It can be found worldwide, generally in shady, moist areas."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cystopteris fragilis",
+      "source_url": "https://es.wikipedia.org/wiki/Cystopteris_fragilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175609334,
+      "text": "El culantrillo blanco o helecho perejil es una planta perteneciente a la familia Cysto Pteridaceae, el nombre del género proviene del griego “kystis” (vejiga) y “pteris” (helecho), mientras que la especies está dada por su aparente delicadeza."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cystopteris fragilis",
+      "source_url": "https://fr.wikipedia.org/wiki/Cystopteris_fragilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 210842589,
+      "text": "Cystopteris fragilis, la Cystoptère fragile est une espèce de fougères de la famille des Cystopteridaceae et du genre Cystopteris."
     }
   },
   "edible": {
@@ -120,7 +138,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -295,7 +313,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30013429-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or lithophyte",
@@ -303,7 +321,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30013429-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001107276.webp",
@@ -316,6 +334,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 323,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

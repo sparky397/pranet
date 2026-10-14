@@ -18,7 +18,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -26,45 +26,27 @@
       "フチベニベンケイ",
       "金のなる木"
     ],
-    "en": [
-      "jade plant"
-    ],
-    "da": [
-      "Paradistræ"
-    ],
-    "de": [
-      "Geldbaum"
-    ],
-    "fi": [
-      "Rahapuu"
-    ],
-    "hsb": [
-      "Jejkojta tołsćinka"
-    ],
-    "hu": [
-      "Majomfa",
-      "pozsgafa"
-    ],
-    "pl": [
-      "Grubosz jajowaty"
-    ],
-    "sv": [
-      "Paradisträd"
-    ],
-    "ko": [
-      "염자"
-    ],
-    "zh": [
-      "燕子掌",
-      "北斗七星",
-      "黄金花月",
-      "翡翠木"
+    "id": [
+      "Tanaman giok"
     ],
     "hi": [
       "जेड पौधा"
     ],
+    "pl": [
+      "Grubosz jajowaty"
+    ],
     "ru": [
       "Толстянка яйцевидная"
+    ],
+    "hu": [
+      "pozsgafa",
+      "Majomfa"
+    ],
+    "fi": [
+      "rahapuu"
+    ],
+    "de": [
+      "Geldbaum"
     ],
     "cs": [
       "tlustice vejčitá"
@@ -75,8 +57,23 @@
     "vi": [
       "Phỉ thúy"
     ],
+    "hsb": [
+      "Jejkojta tołsćinka"
+    ],
+    "sv": [
+      "Paradisträd"
+    ],
+    "da": [
+      "Paradistræ"
+    ],
     "ar": [
       "كرسول بيضوي"
+    ],
+    "zh": [
+      "翡翠木",
+      "燕子掌",
+      "北斗七星",
+      "黄金花月"
     ],
     "sk": [
       "Tučnolist vajcovitý"
@@ -86,6 +83,9 @@
     ],
     "uk": [
       "Товстянка яйцеподібна"
+    ],
+    "ko": [
+      "염자"
     ],
     "et": [
       "portulak-turdleht"
@@ -114,15 +114,15 @@
     "uz": [
       "Tuxumsimon Semizak"
     ],
-    "id": [
-      "Tanaman giok"
+    "en": [
+      "jade plant"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157299",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157299",
   "search_names": {
@@ -146,48 +146,117 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カネノナルキ」",
+      "source": "Wikipedia (ja): カネノナルキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8D%E3%83%8E%E3%83%8A%E3%83%AB%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109689284,
       "text": "カネノナルキ は、ベンケイソウ科クラッスラ属の多肉植物。正式には、クラッスラ・ポルツラケア といい、園芸名では、カゲツ（花月）とも呼ぶ。和名はフチベニベンケイ（縁紅弁慶）であるが、あまり使われない。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Crassula ovata」",
+      "source": "Wikipedia (en): Crassula ovata",
       "source_url": "https://en.wikipedia.org/wiki/Crassula_ovata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377997428,
       "text": "Crassula ovata, commonly known as jade plant, lucky plant, money plant or money tree, is a succulent plant with small pink or white flowers that is native to the KwaZulu-Natal and Eastern Cape provinces of South Africa, and Mozambique; it is common as a houseplant worldwide. Much of its popularity stems from the low levels of care needed; the jade plant requires little water and can survive in most indoor conditions. It is sometimes referred to as the money tree; however, Pachira aquatica also has this nickname."
+    },
+    "es": {
+      "source": "Wikipedia (es): Crassula ovata",
+      "source_url": "https://es.wikipedia.org/wiki/Crassula_ovata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174574000,
+      "text": "Crassula ovata, comúnmente llamada árbol de jade, es una planta suculenta originaria de Mozambique y de algunas provincias sudafricanas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Crassula ovata",
+      "source_url": "https://fr.wikipedia.org/wiki/Crassula_ovata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238828211,
+      "text": "Crassula ovata ou Arbre de Jade, Crassule ovale, est une espèce de plantes succulentes de la famille des Crassulaceae, originaire d'Afrique du Sud et commune dans les régions tempérées comme plante d'intérieur, et ailleurs comme plante ornementale de jardin."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Crassula ovata",
+      "source_url": "https://pt.wikipedia.org/wiki/Crassula_ovata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67340076,
+      "text": "Crassula ovata, conhecida como planta-jade, é uma espécie de planta com flor pertencente à família Crassulaceae nativa do sul da África. Às vezes é confundida com a Portulacaria afra, com a qual não tem parentesco próximo."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tanaman giok",
+      "source_url": "https://id.wikipedia.org/wiki/Tanaman_giok",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28654680,
+      "text": "Crassula ovata, umumnya dikenal sebagai tanaman giok, tanaman keberuntungan, tanaman uang atau pohon uang, adalah tanaman sukulen dengan bunga kecil berwarna merah muda atau putih yang berasal dari provinsi KwaZulu-Natal dan Eastern Cape di Afrika Selatan, dan Mozambik ; itu umum sebagai tanaman hias di seluruh dunia. Sebagian besar popularitasnya berasal dari rendahnya tingkat perawatan yang dibutuhkan; tanaman giok membutuhkan sedikit air dan dapat bertahan hidup di sebagian besar kondisi dalam ruangan."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Crassula ovata」の節「Cultivation」",
+        "source": "Wikipedia (en): Crassula ovata § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Crassula_ovata#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377997428,
         "heading": "Cultivation",
         "text": "As a succulent, Crassula ovata requires little water in the summer and even less in the winter. It is susceptible to overwatering, especially during the cold season. Watering excessively can cause leaf fall and root rot. However, a lack of water can also damage it. It should be grown in a porous substrate with good drainage, which will vary depending on the climate it is grown in. It requires four to six hours of direct sun or medium shade exposures with bright light per day. In regions with mild weather it can withstand some light frost provided that the substrate is kept dry.\nC. ovata may display a red tinge around its leaves when grown in bright sunlight. In more extreme cases the green colour of the plant is lost and may be replaced by yellow. This is caused by the jade plant making pigments such as carotenoids to protect it from harsh sunlight and ultraviolet rays. The plant also flowers in the winter, particularly during a cooler, darker, dry spell. C. ovata is sometimes attacked by mealybugs, a common nuisance of the succulents.\n\n■ Propagation\nThe jade plant is also known for its ease of propagation, which can be carried out with clippings or even stray leaves that fall from the plant. Jade plants may readily be propagated from both with success rates higher than with cuttings. In the wild, vegetative propagation is the jade plant's main method of reproduction. Branches regularly fall off and may root and form new plants.\nLike many succulents jade plants can be propagated from just the swollen leaves, which grow in pairs on the stems. Whilst propagation methods may vary, most follow similar steps. Typically the wounds on the leaves are left to dry and callus over. Then the leaves are placed in or on soil.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Crassula ovata § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Crassula_ovata#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238828211,
+        "heading": "Culture",
+        "text": "Crassula ovata s'épanouit en climat de type méditerranéen ou subtropical, avec des étés chauds et un air sec. Comme toutes les Crassulaceae, elle utilise le métabolisme acide crassulacéen, ce qui lui permet de fermer ses stomates le jour et de limiter ainsi ses pertes en eau.\n\nExposition : Elle supporte bien une exposition en plein soleil ou à mi-ombre.\nTempérature : Elle doit être cultivée de préférence en extérieur tant que les températures sont supérieures à 5 degrés. La culture en pot est donc préférable en zone gélive (elle peut être cultivée en extérieur et supporter quelques légeres gelées blanches dans le sud de la France). Crassula ovata est parfois cultivée en bonsaï. En intérieur, éviter des températures élevées associées à une faible luminosité qui peuvent causer l’étiolement des tiges et la chute des feuilles. Au printemps, quand on ressort la plante à l'extérieur, il faut acclimater progressivement la plante au soleil pour éviter une brûlure du feuillage.\nSubstrat : un substrat drainant (type terreau spécial cactées ou ajout de sable/perlite) est idéal pour éviter tous risques de pourrissement des racines.\nArrosage : Originaire d'Afrique du Sud, cette plante grasse stocke l'eau dans ses feuilles charnues, elle supporte donc très bien les périodes de sécheresse et a besoin de peu d'arrosage (bien laisser sécher le substrat avant de ré-arroser).\nFertilisation : un apport d'engrais mensuel en été (ou engrais à libération lente) est recommandé pendant la période de croissance.\nMultiplication : Elle se reproduit facilement par bouturage de préférence au printemps ou en début d'été. Il suffit de piquer en terre une branche ou une simple feuille pour assurer un enracinement rapide.",
+        "truncated": true
+      },
+      "id": {
+        "source": "Wikipedia (id): Tanaman giok § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Tanaman_giok#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 28654680,
+        "heading": "Penanaman",
+        "text": "Sebagai tanaman sukulen, Crassula ovata membutuhkan sedikit air di musim panas / kemarau dan bahkan lebih sedikit di musim dingin / hujan.Tanaman ini rentan terhadap penyiraman yang berlebihan, terutama pada musim dingin /hujan. Penyiraman yang berlebihan dapat menyebabkan gugurnya daun dan busuk akar. Namun kekurangan air juga bisa merusaknya. Tanaman ini harus ditanam di substrat berpori dengan drainase yang baik, yang bervariasi tergantung pada iklim tempat tumbuhnya. Dibutuhkan sekitar empat hingga enam jam paparan sinar matahari langsung atau naungan sedang dengan cahaya terang. Di wilayah dengan cuaca sedang, tanaman ini dapat bertahan terhadap embun beku ringan, asalkan substratnya tetap kering.\nC. ovata mungkin menampilkan semburat merah di sekitar daunnya jika ditanam di bawah sinar matahari yang cerah. Dalam kasus yang lebih ekstrem, warna hijau tanaman akan hilang dan dapat digantikan dengan warna kuning. Hal ini disebabkan oleh tanaman giok yang membuat pigmen seperti karotenoid untuk melindungi dari teriknya sinar matahari dan sinar ultraviolet. Tanaman ini juga berbunga di musim dingin, terutama saat cuaca lebih sejuk, gelap, dan kering. C. ovata kadang-kadang diserang oleh kutu putih, yang merupakan gangguan umum pada tanaman sukulen.\n\n■ Perambatan\nTanaman giok juga terkenal dengan kemudahan perbanyakannya, yaitu dapat dilakukan dengan guntingan atau bahkan daun-daun liar yang berguguran dari tanaman. Tanaman giok dapat dengan mudah diperbanyak dari keduanya dengan tingkat keberhasilan yang lebih tinggi dibandingkan dengan stek. Di alam liar, perbanyakan vegetatif adalah metode utama reproduksi tanaman giok. Cabang-cabang tanaman giok liar sering rontok, dan cabang-cabang ini dapat berakar dan membentuk tanaman baru.",
         "truncated": true
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Crassula ovata」の節「Toxicity」",
+        "source": "Wikipedia (en): Crassula ovata § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Crassula_ovata#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377997428,
         "heading": "Toxicity",
         "text": "Some sources claim that some species from the Crassulaceae family, including the jade plant, are toxic to horses, cats and dogs, as well as mildly toxic to humans with skin contact, but such claims remain unproven. Crassula ovata is known to be used as medicinal plant in some regions.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Tanaman giok § Toksisitas",
+        "source_url": "https://id.wikipedia.org/wiki/Tanaman_giok#Toksisitas",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 28654680,
+        "heading": "Toksisitas",
+        "text": "Beberapa sumber mengklaim bahwa beberapa spesies dari keluarga Crassulaceae, termasuk tanaman giok kemungkinan beracun bagi kuda, kucing, dan anjing, serta sedikit beracun bagi manusia jika terkena kulit, namun klaim tersebut masih belum terbukti. Crassula ovata diketahui digunakan sebagai tanaman obat di beberapa daerah.",
         "truncated": false
       }
     }
@@ -202,7 +271,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -221,7 +290,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/273350-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent subshrub or shrub",
@@ -229,7 +298,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/273350-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000625299.webp",
@@ -242,6 +311,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 269,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -8,40 +8,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "マルバハッカ",
       "アップルミント (植物)"
     ],
-    "de": [
-      "Rundblättrige Minze"
-    ],
-    "en": [
-      "apple mint",
-      "Round-leaved Mint"
-    ],
     "fr": [
       "Menthe odorante",
       "Menthe à Feuilles Rondes"
     ],
-    "nl": [
-      "Witte munt"
-    ],
-    "cs": [
-      "máta vonná"
-    ],
-    "fi": [
-      "pyöröminttu"
-    ],
-    "zh": [
-      "苹果薄荷",
-      "圆叶薄荷",
-      "蘋果薄荷"
-    ],
-    "ast": [
-      "mentraste"
+    "de": [
+      "Rundblättrige Minze"
     ],
     "ca": [
       "menta borda"
@@ -49,11 +28,22 @@
     "hsb": [
       "Šěroka mjetlička"
     ],
+    "nl": [
+      "Witte munt"
+    ],
     "sv": [
       "rundmynta"
     ],
     "ru": [
       "Мята душистая"
+    ],
+    "zh": [
+      "蘋果薄荷",
+      "苹果薄荷",
+      "圆叶薄荷"
+    ],
+    "cs": [
+      "máta vonná"
     ],
     "gl": [
       "Mentraste"
@@ -82,6 +72,9 @@
     "kab": [
       "Timejja"
     ],
+    "fi": [
+      "pyöröminttu"
+    ],
     "sk": [
       "mäta voňavá"
     ],
@@ -108,13 +101,20 @@
     ],
     "zgh": [
       "ⵜⵉⵎⵉⵊⵊⴰ"
+    ],
+    "en": [
+      "apple mint",
+      "Round-leaved Mint"
+    ],
+    "ast": [
+      "mentraste"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158892",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158892",
   "search_names": {
@@ -124,22 +124,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「マルバハッカ」",
+      "source": "Wikipedia (ja): マルバハッカ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%90%E3%83%8F%E3%83%83%E3%82%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109081321,
       "text": "マルバハッカ は、東西ヨーロッパから地中海地域西部に分布するシソ科ハッカ属の多年草である。本種は芳香があり、料理用ハーブあるいはグラウンドカバーとしてもっとも普通に用いられる宿根草である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Mentha suaveolens」",
+      "source": "Wikipedia (en): Mentha suaveolens",
       "source_url": "https://en.wikipedia.org/wiki/Mentha_suaveolens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1308239778,
       "text": "Mentha suaveolens, the apple mint, pineapple mint, woolly mint or round-leafed mint, is a member of the mint family Lamiaceae. It is native to southern and western Europe including the Mediterranean region. It is a herbaceous, upright perennial plant that is most commonly grown as a culinary herb or for ground cover."
+    },
+    "es": {
+      "source": "Wikipedia (es): Mentha suaveolens",
+      "source_url": "https://es.wikipedia.org/wiki/Mentha_suaveolens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 158739230,
+      "text": "El mastranzo, también conocido como padrastro dependiendo de la región es una planta perenne, rizomatosa y a veces estolonífera, de la familia de las lamiáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Menthe odorante",
+      "source_url": "https://fr.wikipedia.org/wiki/Menthe_odorante",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228911743,
+      "text": "La menthe odorante ou menthe à feuilles rondes est une espèce de plantes à fleurs de la famille des Lamiacées. C'est une plante herbacée originaire de l'Ancien Monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Mentha suaveolens",
+      "source_url": "https://pt.wikipedia.org/wiki/Mentha_suaveolens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65314437,
+      "text": "Mentha suaveolens, comummente conhecida como hortelã-brava, é uma espécie de planta com flor pertencente à família das Lamiáceas e ao tipo fisionómico dos proto-hemicriptófitos."
     }
   },
   "edible": {
@@ -153,7 +180,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -228,7 +255,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/451188-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -236,7 +263,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/451188-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000241424.webp",
@@ -249,6 +276,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 373,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

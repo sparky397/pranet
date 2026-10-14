@@ -15,19 +15,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "フタホセンナ"
-    ],
-    "en": [
-      "African senna",
-      "peanut butter cassia",
-      "popcorn senna"
-    ],
-    "zh": [
-      "长穗决明"
     ],
     "rw": [
       "Umucyuro"
@@ -38,35 +30,52 @@
     "arz": [
       "كاسيا ديديموبوتريا"
     ],
+    "zh": [
+      "长穗决明"
+    ],
     "et": [
       "mustpea-senna"
+    ],
+    "en": [
+      "African senna",
+      "peanut butter cassia",
+      "popcorn senna"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1498059",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1498059",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「フタホセンナ」",
+      "source": "Wikipedia (ja): フタホセンナ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%BF%E3%83%9B%E3%82%BB%E3%83%B3%E3%83%8A",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107287429,
       "text": "フタホセンナ はマメ科センナ属の低木～小高木。別名コヤシセンナ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Senna didymobotrya」",
+      "source": "Wikipedia (en): Senna didymobotrya",
       "source_url": "https://en.wikipedia.org/wiki/Senna_didymobotrya",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357447040,
       "text": "Senna didymobotrya is a species of flowering plant in the legume family known by the common names African senna, popcorn senna, candelabra tree, and peanut butter cassia. It is native to Africa, where it can be found across the continent in several types of habitats."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Senna didymobotrya",
+      "source_url": "https://fr.wikipedia.org/wiki/Senna_didymobotrya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224630089,
+      "text": "Senna didymobotrya est une espèce de plantes à fleurs dicotylédones de la famille des Fabaceae, sous-famille des Caesalpinioideae. C'est un arbuste originaire d'Afrique tropicale. Il est appelé communément séné, arbre candélabre ou Cassia popcorn en raison de ses boutons en forme de popcorn en éclosion."
     }
   },
   "edible": {
@@ -83,7 +92,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -132,7 +141,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/234467-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -140,7 +149,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/234467-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000163726.webp",
@@ -153,6 +162,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

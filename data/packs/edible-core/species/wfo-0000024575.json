@@ -15,19 +15,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "llysiau-Pawl Asia"
-    ],
-    "en": [
-      "common St. Paul's wort",
-      "Siegesbeckia orientalis"
+    "id": [
+      "Jabung (tumbuhan)"
     ],
     "zh": [
-      "豨薟",
-      "豨莶"
+      "豨莶",
+      "豨薟"
+    ],
+    "en": [
+      "Siegesbeckia orientalis",
+      "common St. Paul's wort"
     ],
     "vi": [
       "Hy thiêm"
@@ -40,6 +40,9 @@
     ],
     "qu": [
       "Qalti"
+    ],
+    "cy": [
+      "Llysiau-pawl Asia"
     ],
     "nl": [
       "Siegesbeckia orientalis"
@@ -58,18 +61,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3483517",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3483517",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sigesbeckia orientalis」",
+      "source": "Wikipedia (en): Sigesbeckia orientalis",
       "source_url": "https://en.wikipedia.org/wiki/Sigesbeckia_orientalis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306463757,
       "text": "Sigesbeckia orientalis, commonly known as Indian weed or common St. Paul's wort, is a species of flowering plant in the family Asteraceae. It is a small, upright, sparsely branched shrub with yellow flowers and widespread in Asia, Africa and Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sigesbeckia orientalis",
+      "source_url": "https://fr.wikipedia.org/wiki/Sigesbeckia_orientalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230760066,
+      "text": "Sigesbeckia orientalis est une espèce de plantes à fleurs de la grande famille des Asteraceae ou Compositae"
+    },
+    "id": {
+      "source": "Wikipedia (id): Jabung (tumbuhan)",
+      "source_url": "https://id.wikipedia.org/wiki/Jabung_(tumbuhan)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28106242,
+      "text": "Jabung adalah tumbuhan semak (shrub) dan termasuk ke dalam keluarga Asteraceae. Tumbuhan ini yang mempunyai bunga berukuran kecil berwarna kuning. Tumbuhan ini tersebar luas di Asia, Afrika, Madagaskar, Australia dan dapat ditemukan di Indonesia. Salah satu tempat persebarannya di Indonesia adalah Gunung Prau."
     }
   },
   "edible": {
@@ -83,7 +104,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -209,7 +230,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/249084-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -217,7 +238,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/249084-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000024575.webp",
@@ -230,6 +251,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

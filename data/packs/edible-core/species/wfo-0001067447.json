@@ -8,21 +8,27 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Manchurian Walnut"
+    "fr": [
+      "Noyer de Mandchourie"
     ],
-    "cs": [
-      "ořešák mandžuský"
+    "pl": [
+      "Orzech mandżurski"
+    ],
+    "ru": [
+      "Орех маньчжурский"
     ],
     "ko": [
       "가래나무"
     ],
+    "ka": [
+      "მანჯურიული კაკალი"
+    ],
     "fi": [
-      "mantsurianjalopähkinä",
-      "mantšurianjalopähkinä"
+      "mantšurianjalopähkinä",
+      "mantsurianjalopähkinä"
     ],
     "zh": [
       "胡桃楸",
@@ -34,18 +40,6 @@
       "野核桃仁",
       "核桃楸果",
       "核桃楸果仁"
-    ],
-    "sl": [
-      "mandžurski oreh"
-    ],
-    "pl": [
-      "Orzech mandżurski"
-    ],
-    "ru": [
-      "Орех маньчжурский"
-    ],
-    "ka": [
-      "მანჯურიული კაკალი"
     ],
     "lt": [
       "Mandžiūrinis riešutmedis"
@@ -80,29 +74,56 @@
     "nb": [
       "Mandsjurvalnøtt"
     ],
+    "cs": [
+      "ořešák mandžuský"
+    ],
     "ja": [
       "マンシュウグルミ"
     ],
     "arz": [
       "جوز منشورى"
+    ],
+    "sl": [
+      "mandžurski oreh"
+    ],
+    "en": [
+      "Manchurian Walnut"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311361",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311361",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Juglans mandshurica」",
+      "source": "Wikipedia (en): Juglans mandshurica",
       "source_url": "https://en.wikipedia.org/wiki/Juglans_mandshurica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1281683920,
       "text": "Juglans mandshurica, also known as Manchurian walnut or tigernut, is a species of deciduous tree in the walnut family, Juglandaceae. It is native to East Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Juglans mandshurica",
+      "source_url": "https://es.wikipedia.org/wiki/Juglans_mandshurica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 160486927,
+      "text": "Juglans mandshurica, es un árbol caducifolio del género Juglans, nativa de la región del este asiático."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Noyer de Mandchourie",
+      "source_url": "https://fr.wikipedia.org/wiki/Noyer_de_Mandchourie",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230384697,
+      "text": "Le noyer de Mandchourie, Juglans mandshurica, est un arbre à feuilles caduques, de la famille des Juglandaceae. Originaire de l'Asie orientale, il atteint environ 25 m de hauteur."
     }
   },
   "edible": {
@@ -117,7 +138,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -149,7 +170,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/442388-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -157,7 +178,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/442388-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001067447.webp",
@@ -170,6 +191,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

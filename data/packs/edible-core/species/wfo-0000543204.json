@@ -22,37 +22,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "イチゴノキ"
     ],
-    "cy": [
-      "mefusbren  -nau",
-      "Mefusbren"
-    ],
-    "en": [
-      "Strawberry-tree"
-    ],
-    "zh": [
-      "草莓树",
-      "草莓樹"
-    ],
-    "ast": [
-      "borrachinal"
-    ],
-    "sl": [
-      "navadna jagodičnica"
+    "fr": [
+      "Arbousier"
     ],
     "pl": [
       "chruścina jagodna"
     ],
     "eu": [
       "gurbitz"
-    ],
-    "fr": [
-      "Arbousier"
     ],
     "oc": [
       "Arboç"
@@ -93,6 +76,10 @@
     "co": [
       "Albitru"
     ],
+    "cy": [
+      "Mefusbren",
+      "mefusbren  -nau"
+    ],
     "da": [
       "Almindelig Jordbærtræ"
     ],
@@ -129,8 +116,15 @@
     "fa": [
       "درخت قطاب"
     ],
+    "sl": [
+      "navadna jagodičnica"
+    ],
     "el": [
       "Kουμαριά"
+    ],
+    "zh": [
+      "草莓樹",
+      "草莓树"
     ],
     "ar": [
       "قطلب أونيدو"
@@ -170,13 +164,19 @@
     ],
     "mk": [
       "јагодник"
+    ],
+    "en": [
+      "Strawberry-tree"
+    ],
+    "ast": [
+      "borrachinal"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q329046",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q329046",
   "search_names": {
@@ -188,43 +188,70 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「イチゴノキ」",
+      "source": "Wikipedia (ja): イチゴノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%81%E3%82%B4%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111315916,
       "text": "イチゴノキ は、地中海地方と西ヨーロッパ北部、西フランス、アイルランドに分布するツツジ科イチゴノキ属の常緑低木である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Arbutus unedo」",
+      "source": "Wikipedia (en): Arbutus unedo",
       "source_url": "https://en.wikipedia.org/wiki/Arbutus_unedo",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378053623,
       "text": "Arbutus unedo, commonly known as strawberry-tree, or strawberry tree, also called madroño in Spanish, is an evergreen shrub or small tree in the family Ericaceae, native to the Mediterranean Basin and Western Europe. The tree is well known for its fruit, the arbutus berry, which bears some resemblance to the strawberry, hence the common name strawberry-tree. However, it is not closely related to true strawberries of the genus Fragaria."
+    },
+    "es": {
+      "source": "Wikipedia (es): Arbutus unedo",
+      "source_url": "https://es.wikipedia.org/wiki/Arbutus_unedo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175563174,
+      "text": "El madroño es una especie de arbusto perteneciente al género Arbutus en la familia Ericaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Arbousier",
+      "source_url": "https://fr.wikipedia.org/wiki/Arbousier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239848392,
+      "text": "L'Arbousier ou Arbousier commun (Arbutus unedo), parfois appelé Arbre à fraises, est une espèce de plante à fleurs de la famille des Ericaceae. Ce sont des arbustes ou de petits arbres qui poussent sur l'ensemble du pourtour méditerranéen occidental mais aussi dans le nord du pourtour oriental. Son fruit est appelé arbouse."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Arbutus unedo",
+      "source_url": "https://pt.wikipedia.org/wiki/Arbutus_unedo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70152727,
+      "text": "Arbutus unedo, o medronheiro, é uma espécie de pequenas árvores frutíferas pertencentes ao género Arbutus da família das Ericales. Com distribuição natural na Bacia do Mediterrâneo e costa atlântica da Europa Ocidental, resistente ao fogo, ocorre em zonas de solos siliciosos pobres e de elevado declive, sendo uma das mais importantes espécies do maquial mediterrânico e das charnecas ibéricas. O fruto é o medronho, utilizado na produção de aguardentes e licores. Em Portugal, ocorre em todo o país, mas com maior concentração nas serras do Caldeirão e Monchique (Algarve)."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「イチゴノキ」の節「栽培」",
+        "source": "Wikipedia (ja): イチゴノキ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%81%E3%82%B4%E3%83%8E%E3%82%AD#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111315916,
         "heading": "栽培",
         "text": "日本においてイチゴノキをはじめとするイチゴノキ属の樹木はごく最近まで馴染のない樹木であったが、近年は小型の園芸品種を中心に園芸店にも出回っている。多くのツツジ科樹木と違い、イチゴノキは石灰質土壌でよく成長する。花期が遅いことにより、温室ではよく植えられる。庭木として成長させるときは、潅木状にするよりむしろ、主幹になる枝を一つ選択して他の萌芽を剪定し続けることが重要である。イチゴノキは水捌けのよい土壌と適度な水量を好む。\nイチゴノキは西アイルランドの冬の寒さや夏の多湿でもよく成長するが、本来は乾燥した夏に適応した樹木である。それゆえ、地中海性気候の地域での植栽として役に立ち、カリフォルニア州や北アメリカ西海岸地方では非常に一般的な庭園樹となっている。USDAハーディネスゾーンは8 - 10。害虫としてはカイガラムシやアザミウマ、病害として、炭疽病、根腐れ病、サビ病、疫病菌などがある。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Arbutus unedo」の節「Cultivation」",
+        "source": "Wikipedia (en): Arbutus unedo § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Arbutus_unedo#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378053623,
         "heading": "Cultivation",
         "text": "Arbutus unedo is quite an easy plant to cultivate, and is adaptable to many climates. Once established it is fairly drought resistant, frost resistant, shade tolerant and salt tolerant.\nLower production of fruit mass has however been reported in case of summer droughts, and frosts in flowering time were seen to decrease the amount of fruit.\nArbutus unedo is naturally adapted to Mediterranean dry summer climates, but grows well in the cool, wet summers of western Ireland and England, and temperate regions of Europe and Asia. It has become a very popular ornamental plant in California and the rest of the west coast of North America. It can grow easily in USDA hardiness zone 7 or warmer. Pests include scales and thrips, and diseases include anthracnose, Phytophthora, root rot, and rust.\nUnlike most of the Ericaceae, A. unedo grows well in basic (limy) high pH soils, even though it does better in more acidic soils.\nThe fruit production is not very high and is highly variable on the weather, and that may be part of the reason this plant is not frequently cultivated. The average yield in a two years study is around 46 kg per hectare, and 180 grams per cubic metre of crown. However, very little work has so far been done in terms of genotype selection.\nArbutus unedo forms mycorrhizal relationships. Inoculation with Pisolithus tinctorius has shown to greatly improve the plant's root mass, size, and tolerance of drought and nutritional stress.\nIn cultivation in the UK, the form A. unedo f. rubra\nand the cultivar 'Atlantic' have gained the Royal Horticultural Society's Award of Garden Merit.\n\n■ Propagation\nPropagation can be done by seed, layering, or cutting.",
@@ -244,7 +271,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -281,7 +308,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/326526-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -289,7 +316,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/326526-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000543204.webp",
@@ -302,6 +329,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 325,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

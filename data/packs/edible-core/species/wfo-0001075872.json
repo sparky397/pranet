@@ -17,9 +17,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "id": [
+      "Drini"
+    ],
     "zh": [
       "水芫花"
     ],
@@ -34,27 +37,42 @@
     ],
     "ms": [
       "Pokok Mentigi"
-    ],
-    "id": [
-      "Drini"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3374608",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3374608",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pemphis acidula」",
+      "source": "Wikipedia (en): Pemphis acidula",
       "source_url": "https://en.wikipedia.org/wiki/Pemphis_acidula",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1312889664,
       "text": "Pemphis acidula, commonly known as bantigue or mentigi, is a species of flowering plant in the family Lythraceae. It is the only species in the genus Pemphis."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pemphis acidula",
+      "source_url": "https://fr.wikipedia.org/wiki/Pemphis_acidula",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232917945,
+      "text": "Pemphis acidula est une espèce de plantes à fleurs de la famille des Lythraceae. C'est un arbuste naturellement présent sur de nombreux rivages tropicaux de l'océan Indien et de la partie occidentale et centrale de l'océan Pacifique."
+    },
+    "id": {
+      "source": "Wikipedia (id): Drini",
+      "source_url": "https://id.wikipedia.org/wiki/Drini",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29668751,
+      "text": "Pemphis acidula, umumnya dikenal sebagai setigi, drini bantigi atau mentigi, adalah spesies tumbuhan berbunga dalam famili Lythraceae. Ini adalah hutan bakau yang ditemukan di sebagian besar wilayah tropis Indo-Pasifik yang tumbuh di pantai berbatu. Genus Pemphis, yang menjadi miliknya, sampai saat ini dianggap hanya memiliki satu spesies ini, pertama kali dideskripsikan pada tahun 1775 dan telah lama dianggap sebagai spesies tipe, tetapi sekarang diyakini memiliki setidaknya satu spesies lain."
     }
   },
   "edible": {
@@ -70,7 +88,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -137,7 +155,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554064-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -145,7 +163,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554064-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001075872.webp",
@@ -158,6 +176,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

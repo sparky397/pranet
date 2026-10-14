@@ -12,19 +12,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "coralbush"
-    ],
-    "zh": [
-      "細裂珊瑚油桐",
-      "红珊瑚",
-      "珊瑚花"
-    ],
     "fr": [
       "Arbre corail"
+    ],
+    "id": [
+      "Jarak tintir"
+    ],
+    "zh": [
+      "珊瑚花",
+      "細裂珊瑚油桐",
+      "红珊瑚"
     ],
     "vi": [
       "Bạch phụ tử"
@@ -41,32 +41,74 @@
     "ml": [
       "ചുരക്കള്ളി"
     ],
-    "id": [
-      "Jarak tintir"
-    ],
     "ar": [
       "جتروفة مرجانية"
     ],
     "fon": [
       "Wɛ̀kɛ́"
+    ],
+    "en": [
+      "coralbush"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2859740",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2859740",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Jatropha multifida」",
+      "source": "Wikipedia (en): Jatropha multifida",
       "source_url": "https://en.wikipedia.org/wiki/Jatropha_multifida",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371150691,
       "text": "Jatropha multifida, called coral plant, coralbush, and physic nut, is a species of Jatropha native to Mexico and the Caribbean. A garden plant, it has been introduced to Florida, and to many places in South America, Africa, the Indian subcontinent, China and Southeast Asia. Mildly toxic, consumption causes gastrointestinal distress."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Arbre corail",
+      "source_url": "https://fr.wikipedia.org/wiki/Arbre_corail",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240091152,
+      "text": "Jatropha multifida, communément appelée l'arbre corail, le médicinier d'Espagne ou le noisetier purgatif, est une espèce d'arbustes ou de petits arbres de la famille des Euphorbiaceae. Elle est originaire du Mexique et des Caraïbes, mais a été introduite dans de nombreuses régions tropicales, notamment en Afrique, en Asie et dans le Pacifique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Jatropha multifida",
+      "source_url": "https://pt.wikipedia.org/wiki/Jatropha_multifida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72410646,
+      "text": "A Jatropha, também conhecida como jatrofa-formiga, jatrofa-coral e pinhão-manso, é uma espécie de Jatropha nativa do México e do Caribe. Planta ornamental, foi introduzida na Flórida e em muitos lugares da América do Sul, África, subcontinente indiano, China e Sudeste Asiático. Levemente tóxica, seu consumo causa desconforto gastrointestinal."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jarak tintir",
+      "source_url": "https://id.wikipedia.org/wiki/Jarak_tintir",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29988867,
+      "text": "Jatropha multifida atau dikenal dengan nama Jarak tintir, Tanaman Yodium, daun betadin, daun pinisilin, Jarak Dokter atau Jarak Cina adalah spesies tumbuhan dari famili Euphorbiaceae. Tumbuhan ini asli dari Meksiko dan Kepulauan Karibia. Tumbuhan ini tanam sebagai obat luka atau tanaman hias, tetapi seperti anggota genus Jatropha lainnya, tumbuhan ini juga mengandung racun."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Arbre corail § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Arbre_corail#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240091152,
+        "heading": "Toxicité",
+        "text": "L'ingestion des fruits ou des graines peut provoquer des nausées, des vomissements répétés, des douleurs abdominales et des diarrhées, avec un risque de déshydratation. Plusieurs intoxications pédiatriques ont été rapportées dans la littérature médicale.\nUne autre observation portant sur quatre enfants décrit des vomissements, des diarrhées et un myosis après l'ingestion de la plante, tableau pouvant évoquer une intoxication par un composé organophosphoré.\nL'huile des graines a traditionnellement été employée comme purgatif, mais elle peut provoquer une forte irritation et une intoxication. Son usage interne est donc dangereux.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -83,7 +125,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -144,7 +186,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/314308-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -152,7 +194,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/314308-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000219811.webp",
@@ -165,6 +207,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 268,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

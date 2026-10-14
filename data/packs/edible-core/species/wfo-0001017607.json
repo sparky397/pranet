@@ -12,38 +12,28 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "スモモ"
     ],
-    "en": [
-      "Japanese plum",
-      "Chinese plum"
-    ],
     "de": [
-      "Chinesische Pflaume",
-      "Chinesischer Pflaumenbaum"
+      "Chinesischer Pflaumenbaum",
+      "Chinesische Pflaume"
     ],
     "fi": [
-      "Japaninluumu"
+      "japaninluumu"
     ],
     "ko": [
-      "자두",
-      "자두나무"
+      "자두나무",
+      "자두"
     ],
-    "nl": [
-      "Japanse pruim",
-      "Perzikpruim"
-    ],
-    "tr": [
-      "Japon eriği"
-    ],
-    "uk": [
-      "Слива китайська"
+    "vi": [
+      "Mận hậu"
     ],
     "zh": [
+      "中国李",
       "中國李",
       "李",
       "李子",
@@ -54,14 +44,14 @@
       "李子花",
       "李根",
       "李根皮",
-      "李树胶",
-      "中国李"
-    ],
-    "vi": [
-      "Mận hậu"
+      "李树胶"
     ],
     "ru": [
       "Слива китайская"
+    ],
+    "nl": [
+      "Japanse pruim",
+      "Perzikpruim"
     ],
     "bg": [
       "китайска слива"
@@ -89,13 +79,23 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇမၼ်ႉ"
+    ],
+    "en": [
+      "Japanese plum",
+      "Chinese plum"
+    ],
+    "tr": [
+      "Japon eriği"
+    ],
+    "uk": [
+      "Слива китайська"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1250033",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1250033",
   "search_names": {
@@ -110,56 +110,114 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「スモモ」",
+      "source": "Wikipedia (ja): スモモ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%A2%E3%83%A2",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110857960,
       "text": "スモモ はバラ科サクラ属の落葉小高木。また、その果実のこと。原産地は中国。中国から古くに日本へ渡来し、和歌などにも詠まれる。果樹として栽培される。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Prunus salicina」",
+      "source": "Wikipedia (en): Prunus salicina",
       "source_url": "https://en.wikipedia.org/wiki/Prunus_salicina",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365294769,
       "text": "Prunus salicina, commonly called the Chinese plum or Japanese plum, is a small, deciduous tree native to China, Taiwan, and Southeast Asia. It is an introduced species in Korea, Japan, the United States, and Australia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Prunus salicina",
+      "source_url": "https://es.wikipedia.org/wiki/Prunus_salicina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174388952,
+      "text": "El ciruelo chino o ciruelo japonés es un pequeño árbol originario de China y domesticado en Japón, aunque en la actualidad también se cultiva en Corea, los Estados Unidos de América, Australia, en Europa y Chile."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Prunus salicina",
+      "source_url": "https://fr.wikipedia.org/wiki/Prunus_salicina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235899088,
+      "text": "Prunus salicina, le prunier japonais, ou encore le prunier de Chine, est une espèce de plantes à fleurs de la famille des Rosaceae. C'est un petit arbre à feuilles caduques originaire de Chine, de Corée, d'Extrême-Orient russe, du Nord Vietnam et de Taïwan. Il est cultivé dans son aire d’origine mais aussi au Japon et dans de nombreuses autres régions du monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Prunus salicina",
+      "source_url": "https://pt.wikipedia.org/wiki/Prunus_salicina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69867447,
+      "text": "Prunus salicina, conhecida no Brasil como ameixeira-japonesa, é uma árvore com frutos do tamanho de uma maçã pequena e casca avermelhadas, de textura macia, variando do ácido ao doce, estando madura ou não. Também é usada para fins ornamentais devido a suas belas flores, podendl alcançar entre seis a dez metros de altura, principalmente se ela encontrar espaço para as raízes crescerem, produzindo árvores mais fortes e troncos mais grossos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Prunus salicina",
+      "source_url": "https://id.wikipedia.org/wiki/Prunus_salicina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29690833,
+      "text": "Prunus salicina, umumnya disebut prem cina atau prem jepang adalah sejenis pohon peluruh kecil yang merupakan flora asli Tiongkok. Saat ini, tanaman ini tersebar luas di zona beriklim sedang di seluruh dunia. Prunus salicina merupakan pohon berbunga kecil yang mekar lebih awal di musim semi dan buahnya matang lebih awal di musim panas daripada prem eropa, dan sering dibingungkan dengan Prunus mume."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「スモモ」の節「栽培」",
+        "source": "Wikipedia (ja): スモモ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%A2%E3%83%A2#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110857960,
         "heading": "栽培",
         "text": "スモモは多くの品種が自家不和合性であり、安定した結実には交配親和性のある品種の花粉による受粉が必要となる。\n病害には、結実直後の果実が肥大して奇形となるふくろみ病などがある。ふくろみ病は春先の気温が低く、降雨が多い場合に多発しやすい。\n2010年（平成22年）2月20日から2021年（令和3年）3月31日まで、ウメ輪紋ウイルス（プラムポックスウイルス）について植物防疫法に基づく緊急防除が実施された。\nスモモミハバチはスモモのみを寄主とする外来種で、幼虫が幼果の内部に食入し、被害果は肥大を停止して落果する。中国および韓国にも分布し、日本では2019年に山口県で初めて確認された後、広島県、大分県、福岡県、佐賀県でも確認されている。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Prunus salicina」の節「Cultivation」",
+        "source": "Wikipedia (en): Prunus salicina § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Prunus_salicina#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1365294769,
         "heading": "Cultivation",
         "text": "The main producing country of Japanese plums is China, followed by the United States of America, Mexico, Italy, Spain, Pakistan, Korea, Australia, Chile, France, South Africa, and Argentina. The most famous variety of this fruit in Vietnam is the Tam Hoa plum grown in Bắc Hà town, in Lào Cai Province.\nJapanese cultivars were introduced into the United States in the latter half of the 19th century, where subsequent breeding produced many more cultivars, generally with larger fruit. Plant breeder Luther Burbank developed a number of cultivars by hybridizing P. salicina with P. simonii and other native North American diploid plums such as P. americana, P. hortulana, or P. munsoniana. In the late 19th and early 20th centuries from these hybridizations, Burbank selected cultivars such as 'Beauty', 'Eldorado', 'Formosa', 'Gaviota', 'Santa Rosa', 'Shiro', and 'Wickson', some of which are still widely grown. One of the famous cultivars, \"Santa Rosa\", named after the city in California.\nMost of the fresh plums sold in North American supermarkets are P. salicina cultivars or hybrids. They are grown on a large scale in a number of other countries, for example, they dominate the stone fruit industry in Western Australia. In France in 2020, Japanese plum production volumes are now higher than those of European plums.\n\nThe important work of breeding and selection of new Japanese plum cultivars and varieties is continuing around the world from different breeding programs. As a result, the Community Plant Variety Office of the European Union (CPVO) registered 155 new Japanese plum cultivars from 1995 to 2021. The table below presents a short list of varieties.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Prunus salicina § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Prunus_salicina#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174388952,
+        "heading": "Cultivo",
+        "text": "En China se cultivan muchas variedades de Prunus salicina, algunas son híbridas entre esta y otras especies. Prunus salicina también está muy extendida en los cultivos de Japón y Corea. También se ha extendido su cultivo a muchos otros países. Por ejemplo, está ampliamente cultivada en Australia, y domina la industria de frutas de hueso en Australia occidental .[2] La mayoría de las ciruelas vendidas como fruta fresca en los Estados Unidos y en Europa son variedades de P. salicina. Las antiguas variedades de esta especie fueron mejoradas en Japón y posteriormente introducidas en los Estados Unidos en la última mitad del siglo XIX, donde variedades obtenidas por sucesivas mejoras de aquellas introducidas son vendidas en el mercadp actual. Muchas de estas variedades obtenidas en Estados Unidos han sido exportadas a otros países incluido de nuevo Japón, su ancestral lugar de origen. Las variedades asiáticas antiguas producen fruta algo pequeña, mientras que las modernas variedades vendidas en Japón, Australia, Estados Unidos y Europa son más grandes.\nEn España esta especie de ciruela ha sustituido en gran medida a la ciruela europea.\nEntre las variedades de ciruela japonesa más cultivadas en España están: Red Beaut, Santa Rosa, Angeleno, Laroda, etc.\nLos patrones más utilizados en el cultivo del ciruelo son:\n\nCiruelo mirobolano (Prunus cerasifera).Originaria de Asia occidental\nCiruelo marianna  (Prunus cerasifera × Prunus munsoniana)\nCiruelo pollizo de Murcia (Prunus insititia)\nAunque también se puede injertar por ser compatible sobre almendro, melocotonero y otros frutales de hueso. Pero no se suele usar por no dar tan buen resultado como los anteriores.\nEn España según el Ministerio de Medio Ambiente y Medio Rural y Marino, en 2006 había 20.520 ha de ciruelo.",
+        "truncated": true
+      },
+      "id": {
+        "source": "Wikipedia (id): Prunus salicina § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Prunus_salicina#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29690833,
+        "heading": "Budidaya",
+        "text": "Prunus salicina cukup tahan dingin, menoleransi suhu di musim dingin hingga -15 °C atau mungkin lebih rendah. Namun, tanaman ini membutuhkan musim panas yang panas untuk mematangkan kayunya dan sering kali tidak tumbuh subur di daerah dekat laut dan musim panas yang sejuk. Tanaman ini juga dapat tumbuh lebih awal di daerah musim dingin yang nyaman dan kemudian rentan terhadap kerusakan oleh salju akhir. Tumbuh subur di tanah lempung tahan kelembapan yang dikeringkan dengan baik. Lebih suka tanah berkapur tetapi cenderung mengalami klorosis jika terlalu banyak mengandung kapur. Tumbuh subur di bawah sinar matahari atau teduh sebagian meskipun berbuah lebih baik di tempat yang cerah terkena sinar matahari.",
         "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Prunus salicina」の節「Toxicity」",
+        "source": "Wikipedia (en): Prunus salicina § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Prunus_salicina#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1365294769,
         "heading": "Toxicity",
         "text": "As with other stone fruits, the pit and leaves are poisonous to humans, as they contain amygdalin, which breaks down to hydrogen cyanide. While poisoning from unintentional ingestion of a few pits is unlikely, avoiding ingestion, especially of crushed pits, is recommended.",
@@ -177,7 +235,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -208,7 +266,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/730232-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -216,7 +274,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/730232-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001017607.webp",
@@ -229,6 +287,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 262,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

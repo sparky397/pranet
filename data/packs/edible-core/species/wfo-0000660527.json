@@ -14,9 +14,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "lt": [
+      "Žemasis ežiakaktusis"
+    ],
+    "zh": [
+      "太平丸",
+      "花王丸",
+      "小平"
+    ],
+    "fa": [
+      "کاکتوس اسب‌انداز"
+    ],
     "en": [
       "devilshead",
       "blue barrel cactus",
@@ -28,26 +39,15 @@
     "es": [
       "Biznaga-tonelmancamula"
     ],
-    "zh": [
-      "太平丸",
-      "花王丸",
-      "小平"
-    ],
     "nl": [
       "zeegroene egelcactus"
-    ],
-    "lt": [
-      "Žemasis ežiakaktusis"
-    ],
-    "fa": [
-      "کاکتوس اسب‌انداز"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q141016",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q141016",
   "search_names": {
@@ -58,13 +58,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Echinocactus horizonthalonius」",
+      "source": "Wikipedia (en): Echinocactus horizonthalonius",
       "source_url": "https://en.wikipedia.org/wiki/Echinocactus_horizonthalonius",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372649407,
       "text": "Echinocactus horizonthalonius is a species of cactus known by several common names, including devilshead, turk's head cactus, blue barrel cactus, eagle's claw, horse maimer, horse crippler, and visnaga meloncillo. It is native to the southwestern United States and northern Mexico, where it occurs in Chihuahuan Desert and Sonoran Desert habitats, particularly on limestone substrates. One of its varieties is a federally listed endangered species of the United States."
+    },
+    "es": {
+      "source": "Wikipedia (es): Echinocactus horizonthalonius",
+      "source_url": "https://es.wikipedia.org/wiki/Echinocactus_horizonthalonius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174457546,
+      "text": "Echinocactus horizontalonius, conocida comúnmente como biznaga meloncillo, es una especie de planta suculenta perteneciente al género Echinocactus, dentro de la familia Cactaceae. Se distribuye desde el sur de Estados Unidos hasta México."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Echinocactus horizonthalonius",
+      "source_url": "https://fr.wikipedia.org/wiki/Echinocactus_horizonthalonius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 213773514,
+      "text": "Echinocactus horizonthalonius est une espèce de plantes à fleurs de la famille des cactus originaire des déserts de Sonora et de Chihuahua à cheval sur les États-Unis et le Mexique."
     }
   },
   "edible": {
@@ -75,7 +93,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -90,7 +108,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/131879-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent subshrub",
@@ -98,7 +116,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/131879-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000660527.webp",
@@ -111,6 +129,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 357,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

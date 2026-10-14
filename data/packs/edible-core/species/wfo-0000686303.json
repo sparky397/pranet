@@ -21,15 +21,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "es": [
-      "Guamishí"
-    ],
-    "zh": [
-      "文鸟丸"
-    ],
     "sv": [
       "Bronsdjävulstunga"
     ],
@@ -38,24 +32,48 @@
     ],
     "arz": [
       "هيستريكس فيروكاكتوس"
+    ],
+    "es": [
+      "Guamishí"
+    ],
+    "zh": [
+      "文鸟丸"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q145195",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q145195",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ferocactus histrix」",
+      "source": "Wikipedia (en): Ferocactus histrix",
       "source_url": "https://en.wikipedia.org/wiki/Ferocactus_histrix",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1231967867,
       "text": "Ferocactus histrix, also known as Acitrón barrel cactus is a species of Ferocactus native to central Mexico.\nIt is a large barrel cactus that can be commonly found throughout all the Central Mexican matorral. It produces an edible fruit appreciated for its sour taste."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ferocactus histrix",
+      "source_url": "https://es.wikipedia.org/wiki/Ferocactus_histrix",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174493709,
+      "text": "Ferocactus histrix, conocida comúnmente como biznaga barril de Acitrón, es una especie de planta suculenta perteneciente al género Ferocactus, dentro de la familia Cactaceae. Es endémica de México, específicamente de los estados de Aguascalientes, Durango, Guanajuato, Hidalgo, Jalisco, Querétaro, San Luis Potosí, Veracruz y Zacatecas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ferocactus histrix",
+      "source_url": "https://fr.wikipedia.org/wiki/Ferocactus_histrix",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234967953,
+      "text": "Ferocactus histrix est une espèce de plantes à fleurs de la famille des Cactacées, originaire du Mexique. Elle est utilisée comme plante ornementale."
     }
   },
   "edible": {
@@ -67,7 +85,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -80,7 +98,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/103642-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent subshrub",
@@ -88,7 +106,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/103642-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000686303.webp",
@@ -101,6 +119,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 394,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -24,7 +24,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -32,33 +32,9 @@
       "ヒロハコケモモ",
       "オオバコケモモ"
     ],
-    "de": [
-      "Preiselbeere"
-    ],
-    "en": [
-      "Cowberry"
-    ],
-    "nl": [
-      "Rode bosbes"
-    ],
-    "cs": [
-      "brusnice brusinka"
-    ],
-    "fr": [
-      "airelle rouge"
-    ],
-    "fi": [
-      "taigapuolukka",
-      "puolukka"
-    ],
-    "ess": [
-      "kiitmik"
-    ],
-    "zh": [
-      "越桔",
-      "越橘",
-      "越橘叶",
-      "越桔（温普乌饭树）"
+    "id": [
+      "Mentigi lembu",
+      "Odang sapi"
     ],
     "lb": [
       "Rout Molbier"
@@ -108,6 +84,10 @@
     "stq": [
       "Krounsbäie"
     ],
+    "fi": [
+      "puolukka",
+      "taigapuolukka"
+    ],
     "uk": [
       "брусниця"
     ],
@@ -138,11 +118,17 @@
     "ko": [
       "월귤"
     ],
+    "fr": [
+      "airelle rouge"
+    ],
     "bar": [
       "Grant"
     ],
     "lv": [
       "brūklene"
+    ],
+    "de": [
+      "Preiselbeere"
     ],
     "mrj": [
       "Изивӧчӹж"
@@ -164,6 +150,9 @@
     ],
     "sl": [
       "brusnica"
+    ],
+    "cs": [
+      "brusnice brusinka"
     ],
     "sgs": [
       "Bruknė"
@@ -191,6 +180,12 @@
     ],
     "kk": [
       "Итбүлдірген"
+    ],
+    "zh": [
+      "越橘",
+      "越桔",
+      "越橘叶",
+      "越桔（温普乌饭树）"
     ],
     "nb": [
       "tyttebær"
@@ -288,9 +283,6 @@
     "is": [
       "Rauðberjalyng"
     ],
-    "id": [
-      "Odang sapi"
-    ],
     "sje": [
       "jågŋå"
     ],
@@ -305,13 +297,22 @@
     ],
     "th": [
       "ลิงงอนเบอร์รี"
+    ],
+    "en": [
+      "Cowberry"
+    ],
+    "nl": [
+      "Rode bosbes"
+    ],
+    "ess": [
+      "kiitmik"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q93235",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q93235",
   "search_names": {
@@ -335,35 +336,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「コケモモ」",
+      "source": "Wikipedia (ja): コケモモ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111239045,
       "text": "コケモモ は、ツツジ科スノキ属の常緑小低木。果実を食用とするが、栽培されることは稀で、野生のものを採取するのが一般的である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vaccinium vitis-idaea」",
+      "source": "Wikipedia (en): Vaccinium vitis-idaea",
       "source_url": "https://en.wikipedia.org/wiki/Vaccinium_vitis-idaea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369232090,
       "text": "Vaccinium vitis-idaea is a small evergreen shrub in the heath family, Ericaceae. It is known colloquially as the lingonberry, partridgeberry, foxberry, mountain cranberry, or cowberry. It is native to the boreal forest and Arctic tundra throughout the Northern Hemisphere."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vaccinium vitis-idaea",
+      "source_url": "https://es.wikipedia.org/wiki/Vaccinium_vitis-idaea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171666233,
+      "text": "El arándano rojo o arándano encarnado es una planta perenne de la familia de las ericáceas, nativa de Eurasia y Norteamérica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vaccinium vitis-idaea",
+      "source_url": "https://fr.wikipedia.org/wiki/Vaccinium_vitis-idaea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 218001957,
+      "text": "Vaccinium vitis-idaea est une espèce de plantes à fleurs du genre Vaccinium et de la famille des Ericaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vaccinium vitis-idaea",
+      "source_url": "https://pt.wikipedia.org/wiki/Vaccinium_vitis-idaea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65326286,
+      "text": "Vaccinium vitis-idaea (arando-vermelho) é um pequeno arbusto verde da família Ericaceae, de frutos vermelhos comestíveis."
+    },
+    "id": {
+      "source": "Wikipedia (id): Mentigi lembu",
+      "source_url": "https://id.wikipedia.org/wiki/Mentigi_lembu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29729461,
+      "text": "Vaccinium vitis-idaea, lingonberi, mentigi biru, kranberi gunung atau mentigi lembu, adalah semak malar hijau kecil di famili heath Ericaceae, yang menghasilkan buah yang dapat dimakan. Ia berasal dari hutan boreal dan tundra Artik di seluruh Belahan Bumi Utara, dari Eropah dan Asia hingga Amerika Utara. Buah mentigi lembu dipetik di alam liar dan digunakan untuk menemani berbagai hidangan, terutama di negara-negara Nordik. Budidaya komersial dilakukan di Pacific Northwest AS dan di Belanda."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Vaccinium vitis-idaea」の節「Cultivation」",
+        "source": "Wikipedia (en): Vaccinium vitis-idaea § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Vaccinium_vitis-idaea#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369232090,
         "heading": "Cultivation",
         "text": "Lingonberry has been commercially cultivated in the Netherlands, Germany, Sweden, Poland, the United States (including the Pacific Northwest) and Latvia since the 1960s.\nSome cultivars are grown for their ornamental rather than culinary value. In the United Kingdom, the Koralle Group has gained the Royal Horticultural Society's Award of Garden Merit.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Mentigi lembu § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Mentigi_lembu#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29729461,
+        "heading": "Penanaman",
+        "text": "Mentigi lembu telah dibudidayakan secara komersial di Belanda dan negara lain sejak tahun 1960an.\nBeberapa kultivar ditanam karena nilai hiasnya, bukan karena nilai kulinernya. Di Inggris, Grup Koralle telah memperoleh Penghargaan Garden Merit dari Royal Horticultural Society .",
         "truncated": false
       }
     }
@@ -378,7 +426,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -471,7 +519,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/293975-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -479,7 +527,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/293975-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000421966.webp",
@@ -492,6 +540,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -14,12 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "红花风车子"
-    ],
     "af": [
       "Riviervaderlandswilg"
     ],
@@ -31,13 +28,16 @@
     ],
     "arz": [
       "قمبريط احمر الاوراق"
+    ],
+    "zh": [
+      "红花风车子"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3642252",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3642252",
   "search_names": {
@@ -47,13 +47,37 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Combretum erythrophyllum」",
+      "source": "Wikipedia (en): Combretum erythrophyllum",
       "source_url": "https://en.wikipedia.org/wiki/Combretum_erythrophyllum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1275849055,
       "text": "Combretum erythrophyllum, commonly known as the river bushwillow, is a medium-sized, spreading tree found in bush near or along river banks in southern Africa. It is planted as a shade and ornamental tree in South Africa and the United States, and is propagated by seed."
+    },
+    "es": {
+      "source": "Wikipedia (es): Combretum erythrophyllum",
+      "source_url": "https://es.wikipedia.org/wiki/Combretum_erythrophyllum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171633704,
+      "text": "Combretum erythrophyllum (Burch.) Sond., es una especie de arbusto trepador que se encuentra en el sur de África."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Combretum erythrophyllum § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Combretum_erythrophyllum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171633704,
+        "heading": "Cultivo",
+        "text": "Este es un popular árbol de sombra, es sorprendente en la sequía, resistente a las heladas y de crecimiento rápido en buenas condiciones, puede llegar a 4–6 m en tres años. Tiene el atractivo de ser una de las más sensibles y adaptables de las especies de Combretum, incluso sobreven en el Karoo donde sus colores de otoño son incluso más brillante que en climas suaves.\nEsta especie se reproducen en lotes de semillas y plántulas que se encuentran a menudo bajo los árboles. Crece fácilmente a partir de un lugar fresco, las semillas deben ser empapados por anti-parasitarios algunas horas antes de plantar.  Las plantas de semillero aparecen 7-13 días después de la plantación.  Las plantas de semillero son resistentes a las heladas, después de dos años.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -69,7 +93,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -87,7 +111,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/170067-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -95,7 +119,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/170067-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000616274.webp",
@@ -108,6 +132,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

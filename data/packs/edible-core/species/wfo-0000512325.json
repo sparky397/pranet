@@ -21,49 +21,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "イチビ"
-    ],
-    "de": [
-      "Samtpappel",
-      "Chinesischer Hanf",
-      "Lindenblättrige Schönmalve"
-    ],
-    "en": [
-      "velvetleaf",
-      "china jute",
-      "Indianmallow"
-    ],
-    "zh": [
-      "莔麻",
-      "苘麻",
-      "苘麻子",
-      "苘麻根",
-      "茼麻"
-    ],
-    "nl": [
-      "Fluweelblad"
-    ],
-    "cs": [
-      "mračňák Theophrastův"
-    ],
-    "fi": [
-      "kelta-aulio"
-    ],
-    "ro": [
-      "teișor"
-    ],
-    "it": [
-      "Cencio molle"
-    ],
-    "ast": [
-      "mantu la virxe"
-    ],
-    "sl": [
-      "baržunasti oslezovec"
     ],
     "ar": [
       "أبو طيلون ابن سينا"
@@ -74,8 +36,19 @@
     "bg": [
       "абутилон теофрасти"
     ],
+    "cs": [
+      "mračňák Theophrastův"
+    ],
+    "de": [
+      "Lindenblättrige Schönmalve",
+      "Samtpappel",
+      "Chinesischer Hanf"
+    ],
     "dv": [
       "މާބުޅާ"
+    ],
+    "fi": [
+      "kelta-aulio"
     ],
     "he": [
       "אבוטילון תאופרסטוס"
@@ -85,6 +58,9 @@
     ],
     "ko": [
       "어저귀"
+    ],
+    "nl": [
+      "Fluweelblad"
     ],
     "pl": [
       "Zaślaz pospolity"
@@ -97,6 +73,13 @@
     ],
     "uk": [
       "Абутилон Теофраста"
+    ],
+    "zh": [
+      "苘麻",
+      "莔麻",
+      "苘麻子",
+      "苘麻根",
+      "茼麻"
     ],
     "hu": [
       "sárga selyemmályva"
@@ -122,6 +105,9 @@
     "arz": [
       "ابو طيلون ابن سينا"
     ],
+    "sl": [
+      "baržunasti oslezovec"
+    ],
     "ta": [
       "அபுதிலோன் தியோஃப்ராசுடி"
     ],
@@ -136,13 +122,27 @@
     ],
     "shn": [
       "တူၼ်ႈၵိုၼ်ၵႆႇ"
+    ],
+    "en": [
+      "velvetleaf",
+      "china jute",
+      "Indianmallow"
+    ],
+    "ro": [
+      "teișor"
+    ],
+    "it": [
+      "Cencio molle"
+    ],
+    "ast": [
+      "mantu la virxe"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q606369",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q606369",
   "search_names": {
@@ -161,22 +161,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「イチビ」",
+      "source": "Wikipedia (ja): イチビ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%81%E3%83%93",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108672588,
       "text": "イチビ は、アオイ科イチビ属（アブチロン属）の一年草。インド、西アジア原産。別名にキリアサ（桐麻）、ハクマ（白麻）ボウマ（莔麻）など。かつては繊維植物などの用途で広く栽培されたが、現在では利用法の多くが廃れ、もっぱら畑地に害を与える雑草として知られる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Abutilon theophrasti」",
+      "source": "Wikipedia (en): Abutilon theophrasti",
       "source_url": "https://en.wikipedia.org/wiki/Abutilon_theophrasti",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372030106,
       "text": "Abutilon theophrasti, also known as velvetleaf, velvet plant, velvetweed and the Chinese jute, is an annual plant in the family Malvaceae that is native to Central and East Asia. It is the type species of the genus Abutilon. Its specific epithet, theophrasti, commemorates the ancient Greek botanist-philosopher Theophrastus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Abutilon theophrasti",
+      "source_url": "https://es.wikipedia.org/wiki/Abutilon_theophrasti",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174135730,
+      "text": "Abutilon theophrasti es una especie de planta caducifolia perteneciente a la familia Malvaceae, es originaria del sur de Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Abutilon theophrasti",
+      "source_url": "https://fr.wikipedia.org/wiki/Abutilon_theophrasti",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 215375454,
+      "text": "Abutilon theophrasti, appelé abutilon d'Avicenne, abutilon de Théophraste ou abutilon à fleurs jaunes, est une espèce de plantes dicotylédones de la famille des Malvaceae, originaire d'Asie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Abutilon theophrasti",
+      "source_url": "https://pt.wikipedia.org/wiki/Abutilon_theophrasti",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65178887,
+      "text": "Abutilon theophrasti é uma espécie de planta do gênero Abutilon."
     }
   },
   "edible": {
@@ -192,7 +219,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -337,7 +364,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1044174-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -345,7 +372,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1044174-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000512325.webp",
@@ -358,6 +385,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 322,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

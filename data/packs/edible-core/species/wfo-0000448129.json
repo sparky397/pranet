@@ -10,12 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "卵叶辣木"
-    ],
     "ar": [
       "بان بيضوي الأوراق"
     ],
@@ -24,13 +21,16 @@
     ],
     "arz": [
       "بان بيضوى الاوراق"
+    ],
+    "zh": [
+      "卵叶辣木"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q293168",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q293168",
   "search_names": {
@@ -44,13 +44,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Moringa ovalifolia」",
+      "source": "Wikipedia (en): Moringa ovalifolia",
       "source_url": "https://en.wikipedia.org/wiki/Moringa_ovalifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368717552,
       "text": "Moringa ovalifolia is a succulent flowering tree of the family Moringaceae native to Namibia and southwestern Angola."
+    },
+    "es": {
+      "source": "Wikipedia (es): Moringa ovalifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Moringa_ovalifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 134680490,
+      "text": "Moringa ovalifolia es una especie de árbol de la familia Moringaceae. Es originario de las tierras más secas de Namibia y de Angola."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Moringa ovalifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Moringa_ovalifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 219117391,
+      "text": "Moringa ovalifolia est une espèce d'arbre de la famille des Moringaceae. Elle est originaire des terrains les plus secs de Namibie et d'Angola.\nSon tronc épais à l'écorce blanche lui sert de stockage pour l'eau."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Moringa ovalifolia",
+      "source_url": "https://pt.wikipedia.org/wiki/Moringa_ovalifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 59854954,
+      "text": "Moringa ovalifolia Moringa ovalifolia é uma espécie de árvore pertencente à família Moringaceae. Originária das terras mais secas da Namíbia e de Angola."
     }
   },
   "edible": {
@@ -66,7 +93,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -77,7 +104,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/584737-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "semisucculent tree",
@@ -85,6 +112,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/584737-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

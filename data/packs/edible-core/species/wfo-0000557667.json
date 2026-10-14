@@ -14,13 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "高大印楝",
-      "菲律宾楝树"
-    ],
     "th": [
       "สะเดาเทียม"
     ],
@@ -32,24 +28,37 @@
     ],
     "arz": [
       "نيم عالى"
+    ],
+    "zh": [
+      "菲律宾楝树",
+      "高大印楝"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4034656",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4034656",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Azadirachta excelsa」",
+      "source": "Wikipedia (en): Azadirachta excelsa",
       "source_url": "https://en.wikipedia.org/wiki/Azadirachta_excelsa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314232895,
       "text": "Azadirachta excelsa, commonly known as sentang, is a tree in the mahogany family Meliaceae. The specific epithet excelsa is from the Latin meaning 'lofty'."
+    },
+    "es": {
+      "source": "Wikipedia (es): Azadirachta excelsa",
+      "source_url": "https://es.wikipedia.org/wiki/Azadirachta_excelsa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 121874191,
+      "text": "Azadirachta excelsa es una especie de árbol perteneciente a la familia Meliaceae."
     }
   },
   "edible": {
@@ -67,7 +76,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -86,7 +95,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/577602-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -94,6 +103,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/577602-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -11,36 +11,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "シアーバターノキ"
     ],
-    "en": [
-      "shea butter",
-      "shea tree",
-      "Shea Butter Tree"
-    ],
-    "ak": [
-      "Nkuto",
-      "nkuto dua"
-    ],
-    "de": [
-      "Karitébaum"
-    ],
-    "fi": [
-      "Voipuu"
-    ],
     "fr": [
-      "Karité"
-    ],
-    "zh": [
-      "牛油果",
-      "乳油木"
+      "Karité",
+      "karité"
     ],
     "pt": [
+      "Carité",
       "carité"
+    ],
+    "id": [
+      "Karite"
     ],
     "eo": [
       "buterarbo"
@@ -54,6 +40,12 @@
     "ca": [
       "karité"
     ],
+    "fi": [
+      "voipuu"
+    ],
+    "de": [
+      "Karitébaum"
+    ],
     "bm": [
       "si"
     ],
@@ -62,6 +54,10 @@
     ],
     "sv": [
       "sheanötsträd"
+    ],
+    "zh": [
+      "乳油木",
+      "牛油果"
     ],
     "cs": [
       "máslovník africký"
@@ -111,6 +107,10 @@
     "mg": [
       "karite"
     ],
+    "ak": [
+      "nkuto dua",
+      "Nkuto"
+    ],
     "et": [
       "võiseemnik"
     ],
@@ -134,13 +134,18 @@
     ],
     "fon": [
       "Wugo"
+    ],
+    "en": [
+      "shea butter",
+      "shea tree",
+      "Shea Butter Tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1348567",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1348567",
   "search_names": {
@@ -153,22 +158,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シアーバターノキ」",
+      "source": "Wikipedia (ja): シアーバターノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%90%E3%82%BF%E3%83%BC%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106363020,
       "text": "シアーバターノキ Vitellaria paradoxa はアカテツ科の1属1種の双子葉植物で、常緑の小高木。シアバターの原料となる。ナイジェリアの言語由来のエミエミ（emi-emi）という名称でも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vitellaria」",
+      "source": "Wikipedia (en): Vitellaria",
       "source_url": "https://en.wikipedia.org/wiki/Vitellaria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357736107,
       "text": "Vitellaria paradoxa, commonly known as shea tree, shi tree, or vitellaria, is a tree of the family Sapotaceae. It is the only species in the genus Vitellaria, and is indigenous to Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vitellaria paradoxa",
+      "source_url": "https://es.wikipedia.org/wiki/Vitellaria_paradoxa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174345178,
+      "text": "El karité es un árbol de hasta 15 metros de altura de las sabanas arbóreas del oeste de África. El nombre de karité significa árbol de mantequilla. Este árbol puede vivir hasta tres siglos y el diámetro del tronco puede medir hasta un metro."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Karité",
+      "source_url": "https://fr.wikipedia.org/wiki/Karit%C3%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237449133,
+      "text": "Le karité, communément appelé « arbre à beurre » ou « l'or des femmes », est une espèce de plante à fleurs de la famille des Sapotaceae. Les amandes des noix de cet arbre sont utilisées pour fabriquer le beurre de karité."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Carité",
+      "source_url": "https://pt.wikipedia.org/wiki/Carit%C3%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72524745,
+      "text": "Carité é uma espécie do género Vitellaria. É a única espécie conhecida do gênero Vitellaria e da família das Sapotaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Karite",
+      "source_url": "https://id.wikipedia.org/wiki/Karite",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29709258,
+      "text": "Vitellaria paradoxa juga disebut sebagai pohon shea atau karite adalah pohon keluarga Sapotaceae. Ini adalah satu-satunya spesies dalam genus Vitellaria, dan asli dari Afrika."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Karité § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Karit%C3%A9#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237449133,
+        "heading": "Culture",
+        "text": "Le karité pousse majoritairement à l’état naturel dans les savanes arborées, où il est conservé lors du défrichement des parcelles agricoles, formant des systèmes agroforestiers appelés parcs à karité. Ces populations résultent d’une sélection empirique d’arbres présentant des caractéristiques jugées favorables (génotypes) pour les fruits et les noix le long des millénaires.\nLa multiplication se fait principalement par semis direct, l’espèce supportant mal la transplantation. Sa croissance est lente: un arbre issu de semis commence généralement à produire après une quinzaine d’années, contre environ cinq ans pour les arbres greffés , permettant une production plus précoce et des caractéristiques mieux maîtrisées.\nLa pleine production intervient vers 30 ans. Un arbre adulte peut produire environ 15 à 30 kg de fruits par an, soit environ 6 kg d'amandes sèches qui permettront d'obtenir 2 kg de beurre de karité. La production maximale (fructification) est généralement observée entre 50 et 100 ans, ce qui constitue une contrainte pour sa domestication.\nLa récolte des fruits intervient selon les régions entre mai-juin et mi-septembre en plus d'être souvent assurée par les femmes.\nLe Nigeria figure parmi les principaux producteurs mondiaux de karité, suivi notamment du Mali (environ 20 millions de pieds de karité en 2017) et du Burkina Faso.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -188,7 +244,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -215,7 +271,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/790034-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -223,7 +279,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/790034-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000332885.webp",
@@ -236,6 +292,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

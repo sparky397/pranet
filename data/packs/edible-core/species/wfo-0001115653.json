@@ -29,27 +29,23 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "光叶藤蕨"
-    ],
-    "tl": [
-      "hagnaya",
-      "diliman"
+    "id": [
+      "Lemidi"
     ],
     "bjn": [
       "Kalakai"
-    ],
-    "id": [
-      "Lemidi"
     ],
     "min": [
       "Paku limbèh"
     ],
     "th": [
       "ลำเท็ง"
+    ],
+    "zh": [
+      "光叶藤蕨"
     ],
     "to": [
       "Pasivaka"
@@ -71,24 +67,37 @@
     ],
     "ar": [
       "ستينوكلينا المستنقعات"
+    ],
+    "tl": [
+      "hagnaya",
+      "diliman"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q10863879",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q10863879",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Stenochlaena palustris」",
+      "source": "Wikipedia (en): Stenochlaena palustris",
       "source_url": "https://en.wikipedia.org/wiki/Stenochlaena_palustris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1263456170,
       "text": "Stenochlaena palustris is an edible medicinal fern species. In the folk medicines of India and Malaysia, the leaves of this fern are used as remedies for fever, skin diseases, ulcers, and stomachache."
+    },
+    "id": {
+      "source": "Wikipedia (id): Lemidi",
+      "source_url": "https://id.wikipedia.org/wiki/Lemidi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28779492,
+      "text": "Lemidi, lemiding, atau ramiding adalah sejenis paku-pakuan anggota famili Blechnaceae. Pucuk dan daun muda pakis ini biasa dijadikan sayuran di pelbagai wilayah sebarannya. Karena itu, paku ini juga dikenal dengan banyak nama seperti miding, mělat, akar pakis (Mly.); lambiding (Ac.); lamidin ; pau rara ; paku limbèh (Min.); paku hurang (Sd.); pakis bang (Jw.); lemiding, remiding, pakis mérah ; bampèsu, maja-majang (Mak.); bempèsu, wèwèsu (Bug.). Di Kalimantan Selatan dan Kalimantan Tengah tumbuhan ini disebut kelakai atau kalakai, sedangkan di Kalimantan Utara, dikenal sebagai piyai."
     }
   },
   "edible": {
@@ -103,7 +112,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -146,7 +155,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/17223880-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "liana",
@@ -154,7 +163,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/17223880-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001115653.webp",
@@ -167,6 +176,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

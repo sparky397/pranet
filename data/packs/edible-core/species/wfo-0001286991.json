@@ -12,9 +12,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "lt": [
+      "Padrikoji opuncija"
+    ],
+    "hu": [
+      "hódfarkú fügekaktusz"
+    ],
+    "sv": [
+      "Bäversvansopuntia"
+    ],
     "en": [
       "beavertail pricklypear",
       "Beavertail Cactus",
@@ -26,33 +35,42 @@
     ],
     "zh": [
       "褐毛掌"
-    ],
-    "lt": [
-      "Padrikoji opuncija"
-    ],
-    "hu": [
-      "hódfarkú fügekaktusz"
-    ],
-    "sv": [
-      "Bäversvansopuntia"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q136763",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q136763",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Opuntia basilaris」",
+      "source": "Wikipedia (en): Opuntia basilaris",
       "source_url": "https://en.wikipedia.org/wiki/Opuntia_basilaris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1330851103,
       "text": "Opuntia basilaris, the beavertail cactus or beavertail pricklypear, is a cactus species found in the southwest United States. It occurs mostly in the Mojave, Anza-Borrego, and Colorado Deserts, as well as in the Colorado Plateau and northwest Mexico. It is also found throughout the Grand Canyon and Colorado River region as well as into southern Utah and Nevada, and in the western Arizona regions along the Lower Colorado River Valley."
+    },
+    "es": {
+      "source": "Wikipedia (es): Opuntia basilaris",
+      "source_url": "https://es.wikipedia.org/wiki/Opuntia_basilaris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173944943,
+      "text": "Opuntia basilaris es una especie del sudoeste de EE. UU., mayormente en el desierto de Mojave y en el desierto de Colorado, y en el noroeste de México."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Opuntia basilaris",
+      "source_url": "https://fr.wikipedia.org/wiki/Opuntia_basilaris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227903845,
+      "text": "Opuntia basilaris est une espèce de cactus de la famille des Cactaceae. Il vit dans le sud-ouest américain et le nord du Mexique. Il est constitué d'une ou plusieurs raquettes aplaties et possède des fleurs roses."
     }
   },
   "edible": {
@@ -64,7 +82,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -80,7 +98,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/136376-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -88,7 +106,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/136376-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001286991.webp",
@@ -101,6 +119,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 268,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

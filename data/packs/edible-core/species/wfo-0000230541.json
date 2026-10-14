@@ -15,23 +15,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "double coconut",
-      "Double Coconut Palm"
-    ],
     "fr": [
-      "Coco de mer",
-      "Cocotier de mer"
-    ],
-    "zh": [
-      "巨子棕",
-      "海椰子"
+      "Cocotier de mer",
+      "Coco de mer"
     ],
     "pt": [
       "Coco-do-mar"
+    ],
+    "id": [
+      "Coco de mer"
     ],
     "pl": [
       "Lodoicja seszelska"
@@ -81,6 +76,10 @@
     "ar": [
       "لودواسيا مالديفية"
     ],
+    "zh": [
+      "海椰子",
+      "巨子棕"
+    ],
     "ga": [
       "cnó cócó dúbailte"
     ],
@@ -126,21 +125,22 @@
     "sd": [
       "دريائي ناريل"
     ],
-    "id": [
-      "Coco de mer"
-    ],
     "my": [
       "ပင်လယ်အုန်းပင်"
     ],
     "dtp": [
       "Kelapa laut"
+    ],
+    "en": [
+      "double coconut",
+      "Double Coconut Palm"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q732371",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q732371",
   "search_names": {
@@ -155,13 +155,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Lodoicea」",
+      "source": "Wikipedia (en): Lodoicea",
       "source_url": "https://en.wikipedia.org/wiki/Lodoicea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376437347,
       "text": "Lodoicea, commonly known as the sea coconut, coco de mer, or double coconut, is a monotypic genus in the palm family. The sole species, Lodoicea maldivica, is endemic to the islands of Praslin and Curieuse in the Seychelles, and was historically found on the neighboring small islets of St Pierre, Chauve-Souris, and Ile Ronde. The species has the largest seed in the plant kingdom."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lodoicea maldivica",
+      "source_url": "https://es.wikipedia.org/wiki/Lodoicea_maldivica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 167889242,
+      "text": "Lodoicea Comm. ex J.St.-Hil. 1805 es un género de plantas perteneciente a la familia de las palmeras (Arecaceae). Es monotípico y su única especie el coco de mar es originaria de las Seychelles y de Maldivas, esta especie produce la mayor semilla del mundo, puede llegar a pesar 20 kg."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cocotier de mer",
+      "source_url": "https://fr.wikipedia.org/wiki/Cocotier_de_mer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239890231,
+      "text": "Le cocotier de mer ou coco de mer (Lodoicea maldivica) est un palmier originaire des Seychelles, et non des Maldives — auxquelles on croyait autrefois pouvoir attribuer le lieu d'origine de ses noix parties à la dérive — qui produit la plus grosse graine du monde. Cette dernière est surnommée cocofesse et peut faire une vingtaine de kilogrammes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Coco-do-mar",
+      "source_url": "https://pt.wikipedia.org/wiki/Coco-do-mar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65908897,
+      "text": "A Lodoicea maldivica, comummente conhecido como coco-do-mar é uma árvore dióica, da família das Arecáceas, endémica da ilha de Praslin, nas Seicheles, embora haja alguns exemplares introduzidos noutras ilhas do arquipélago. O nome «coco-do-mar» tanto diz respeito à árvore, como ao fruto, como à semente desta planta."
+    },
+    "id": {
+      "source": "Wikipedia (id): Coco de mer",
+      "source_url": "https://id.wikipedia.org/wiki/Coco_de_mer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28442549,
+      "text": "Lodoicea, umumnya dikenal sebagai kelapa laut, coco de mer, atau kelapa ganda, adalah genus monotipe dalam keluarga palem. Genus ini hanya memiliki satu spesies saja yakni Lodoicea maldivica. Tumbuhan ini endemik di pulau Praslin dan Curieuse di Seychelles. Ia memiliki benih terbesar di kerajaan tumbuhan. Sebelumnya tumbuhan ini juga ditemukan di pulau kecil St Pierre, Chauve-Souris, dan Ile Ronde, semuanya terletak di dekat Praslin, tetapi sempat punah di sana hingga baru-baru ini diperkenalkan kembali."
     }
   },
   "edible": {
@@ -176,7 +212,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -186,7 +222,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668084-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -194,7 +230,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668084-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000230541.webp",
@@ -207,6 +243,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

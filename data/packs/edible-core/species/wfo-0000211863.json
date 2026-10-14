@@ -19,39 +19,57 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "pod mahogany"
-    ],
-    "zh": [
-      "安哥拉苏木",
-      "安哥拉缅茄"
-    ],
     "sw": [
       "Mbambakofi"
     ],
+    "zh": [
+      "安哥拉缅茄",
+      "安哥拉苏木"
+    ],
     "ja": [
       "ポッドマホガニー"
+    ],
+    "en": [
+      "pod mahogany"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5659600",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5659600",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Afzelia quanzensis」",
+      "source": "Wikipedia (en): Afzelia quanzensis",
       "source_url": "https://en.wikipedia.org/wiki/Afzelia_quanzensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314004433,
       "text": "Afzelia quanzensis is a species of tree native to sub-Saharan Africa. It ranges from Somalia and Democratic Republic of the Congo to South Africa. It is a protected tree in South Africa. It belongs to the subfamily Caesalpinioideae of the bean family Fabaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Afzelia quanzensis",
+      "source_url": "https://es.wikipedia.org/wiki/Afzelia_quanzensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 135200002,
+      "text": "Afzelia quanzensis es una especie de árbol perteneciente a la familia de las fabáceas. Es originaria de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Afzelia quanzensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Afzelia_quanzensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223751404,
+      "text": "Afzelia quanzensis est une espèce de plantes à fleurs dicotylédones de la famille des Fabaceae, sous-famille des Caesalpinioideae. C'est un arbre originaire d'Afrique australe."
     }
   },
   "edible": {
@@ -68,7 +86,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -95,7 +113,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/473077-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -103,7 +121,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/473077-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000211863.webp",
@@ -116,6 +134,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

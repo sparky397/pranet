@@ -19,23 +19,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "ananas"
-    ],
-    "zh": [
-      "企鹅红心凤梨"
-    ],
-    "es": [
-      "maya"
+    "pt": [
+      "Caraguatá"
     ],
     "ru": [
       "бромелия пингвин"
-    ],
-    "pt": [
-      "Caraguatá"
     ],
     "bpy": [
       "গ্রাভাটা"
@@ -45,13 +36,22 @@
     ],
     "mzn": [
       "گراواتا"
+    ],
+    "en": [
+      "ananas"
+    ],
+    "zh": [
+      "企鹅红心凤梨"
+    ],
+    "es": [
+      "maya"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5158994",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5158994",
   "search_names": {
@@ -62,13 +62,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Bromelia pinguin」",
+      "source": "Wikipedia (en): Bromelia pinguin",
       "source_url": "https://en.wikipedia.org/wiki/Bromelia_pinguin",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1356267960,
       "text": "Bromelia pinguin, also called ananas or anana, is a plant species in the genus Bromelia. This species is native to Central America, Mexico, the West Indies, and northern South America. It is also reportedly naturalized in Florida. It is very common in Jamaica, where it is planted as a fence around pasturelands on account of its prickly leaves, and has historically been used as an herbal abortifacient. The plant can be stripped of its pulp, soaked in water, and beaten with a wooden mallet, and it yields a fiber whence thread is made. In Nicaragua and El Salvador it is used to make gruel."
+    },
+    "es": {
+      "source": "Wikipedia (es): Bromelia pinguin",
+      "source_url": "https://es.wikipedia.org/wiki/Bromelia_pinguin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174059702,
+      "text": "Bromelia pinguin es una especie de planta de la familia de las bromeliáceas. Es originaria del sur de México y Centroamérica extendiéndose por toda la América tropical."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bromelia pinguin",
+      "source_url": "https://fr.wikipedia.org/wiki/Bromelia_pinguin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239931272,
+      "text": "Bromelia pinguin est une espèce de plantes à fleurs de la famille des Bromeliaceae, originaire des régions tropicales d'Amérique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Caraguatá",
+      "source_url": "https://pt.wikipedia.org/wiki/Caraguat%C3%A1",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70884221,
+      "text": "Caraguatá, gravatá, abacaxi-de-raposa, caravatá, caroá, caroatá, caruatá, caruatá-de-pau, coroá, coroatá, coroá-verdadeiro, craguatá, crauaçu, crauatá, crautá, cravatá, croá, curauá, curuá, curuatá, erva-do-gentio, erva-piteira, piñuela e gragoatá são designações comuns de várias espécies de plantas epífitas e terrestres da família das bromeliáceas. O nome caraguatá e suas muitas variantes se originam do tupi antigo karaguatá, nome da planta naquela língua."
     }
   },
   "edible": {
@@ -81,7 +108,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -119,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/319113-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -127,7 +154,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/319113-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000341926.webp",
@@ -140,6 +167,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 261,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

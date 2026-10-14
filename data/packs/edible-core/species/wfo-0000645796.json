@@ -15,18 +15,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヤンバルハグロソウ"
     ],
-    "en": [
-      "Chinese foldwing"
-    ],
     "zh": [
-      "華九頭獅子草",
       "狗肝菜",
+      "華九頭獅子草",
       "路边青；青蛇仔"
     ],
     "za": [
@@ -34,33 +31,45 @@
     ],
     "ta": [
       "திக்லிப்டெரா சைனென்சு"
+    ],
+    "en": [
+      "Chinese foldwing"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15224843",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15224843",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヤンバルハグロソウ」",
+      "source": "Wikipedia (ja): ヤンバルハグロソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%83%90%E3%83%AB%E3%83%8F%E3%82%B0%E3%83%AD%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106387478,
       "text": "ヤンバルハグロソウ Dicliptera chinensis は、キツネノマゴ科の草。ハグロソウによく似ているが、別属である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Dicliptera chinensis」",
+      "source": "Wikipedia (en): Dicliptera chinensis",
       "source_url": "https://en.wikipedia.org/wiki/Dicliptera_chinensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368258950,
       "text": "Dicliptera chinensis, commonly known as Chinese foldwing, is a species of subshrub of the plant family Acanthaceae. It occurs in mainland China, Hong Kong, Taiwan, Japan, and South and Southeast Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dicliptera chinensis",
+      "source_url": "https://es.wikipedia.org/wiki/Dicliptera_chinensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 143423403,
+      "text": "Dicliptera chinensis es una especie de planta floral del género Dicliptera, familia Acanthaceae. Fue descripta por Juss."
     }
   },
   "edible": {
@@ -72,7 +81,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -100,7 +109,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/47485-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or subshrub",
@@ -108,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/47485-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000645796.webp",
@@ -121,6 +130,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

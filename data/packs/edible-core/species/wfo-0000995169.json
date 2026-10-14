@@ -8,15 +8,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "snowpeaks raspberry",
-      "hill raspberry",
-      "Mysore raspberry"
+    "ru": [
+      "Малина майсурская"
     ],
     "zh": [
+      "白绒悬钩子",
       "白絨懸鉤子",
       "红泡刺藤",
       "紫泡",
@@ -24,11 +23,7 @@
       "硬枝黑琐梅",
       "硬枝黑琐梅果",
       "白毛悬钩子",
-      "红藨刺藤",
-      "白绒悬钩子"
-    ],
-    "ru": [
-      "Малина майсурская"
+      "红藨刺藤"
     ],
     "mg": [
       "Voarointsilo"
@@ -38,24 +33,73 @@
     ],
     "shn": [
       "မၢၵ်ႇႁူႈၵမ်ႇ"
+    ],
+    "en": [
+      "snowpeaks raspberry",
+      "hill raspberry",
+      "Mysore raspberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1023525",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1023525",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rubus niveus」",
+      "source": "Wikipedia (en): Rubus niveus",
       "source_url": "https://en.wikipedia.org/wiki/Rubus_niveus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374656179,
       "text": "Rubus niveus is a species of Rubus native to southern Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rubus niveus",
+      "source_url": "https://es.wikipedia.org/wiki/Rubus_niveus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172168978,
+      "text": "Rubus niveus es una especie de plantas del género Rubus nativa del sur de Asia, en una región que abarca el este de Afganistán atravesando la India y China hasta Taiwán y las Filipinas, y hacia el sur hasta Sri Lanka y Malasia, y en el norte hasta Gansu en China."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rubus niveus",
+      "source_url": "https://fr.wikipedia.org/wiki/Rubus_niveus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216887635,
+      "text": "Rubus niveus est une espèce de la famille des Rosaceae. Il est aussi dénommé Mysore raspberry, Ceylon raspberry et Hill raspberry\nSon aire de répartition s'étend de l'Afghanistan à la Chine centrale et à l'Indochine, en passant par le Java. Il s'agit d'un arbuste rampant qui pousse principalement dans le biome tempéré."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Rubus niveus § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Rubus_niveus#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 172168978,
+        "heading": "Cultivo",
+        "text": "La planta es cultivada por su fruto comestible. El cual madura rápidamente y tiene un alto valor nutricional. La especie prefiere su desarrollo en altitudes cercanas a los 1000 m s. n. m. sin embargo se adapta con facilidad desde los 500-1500 m s. n. m.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Rubus niveus § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Rubus_niveus#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 216887635,
+        "heading": "Culture",
+        "text": "Rubus niveus est cultivé pour ses fruits comestibles. Les baies de Rubus niveus ont des propriétés gastroprotectrices, antioxydantes et nutraceutiques (Pancholi & Rana 2020).",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -67,7 +111,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -113,7 +157,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/738660-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling shrub",
@@ -121,7 +165,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/738660-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000995169.webp",
@@ -134,6 +178,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

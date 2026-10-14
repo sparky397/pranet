@@ -12,11 +12,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アカキア・ドレパノロビウム"
+    ],
+    "es": [
+      "Acacia drepanolobium"
     ],
     "ta": [
       "விசில் அடிக்கும் மரம்"
@@ -35,7 +38,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15544744",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15544744",
   "search_names": {
@@ -50,22 +53,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アカキア・ドレパノロビウム」",
+      "source": "Wikipedia (ja): アカキア・ドレパノロビウム",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%82%AD%E3%82%A2%E3%83%BB%E3%83%89%E3%83%AC%E3%83%91%E3%83%8E%E3%83%AD%E3%83%93%E3%82%A6%E3%83%A0",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109580860,
       "text": "アカキア・ドレパノロビウム は、マメ科（クロンキスト体系ではネムノキ科）の樹木の一種である。ケニア、タンザニアなどアフリカに分布する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vachellia drepanolobium」",
+      "source": "Wikipedia (en): Vachellia drepanolobium",
       "source_url": "https://en.wikipedia.org/wiki/Vachellia_drepanolobium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374246326,
       "text": "Vachellia drepanolobium, more commonly known as Acacia drepanolobium or whistling thorn, is a swollen-thorn acacia native to East Africa. The whistling thorn grows up to 6 meters tall. It produces a pair of straight spines at each node, some of which have large bulbous bases. These swollen spines are naturally hollow and occupied by any one of several symbiotic ant species. The common name of the plant is derived from the observation that when wind blows over bulbous spines in which ants have made entry and exit holes, they produce a whistling noise."
+    },
+    "es": {
+      "source": "Wikipedia (es): Acacia drepanolobium",
+      "source_url": "https://es.wikipedia.org/wiki/Acacia_drepanolobium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174450707,
+      "text": "Acacia drepanolobium es una especie de acacia perteneciente a la familia de las fabáceas. Es nativa de África oriental."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vachellia drepanolobium",
+      "source_url": "https://fr.wikipedia.org/wiki/Vachellia_drepanolobium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230153669,
+      "text": "Vachellia drepanolobium est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un arbuste qui croit dans la savane africaine, dans l’Est du continent."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vachellia drepanolobium",
+      "source_url": "https://pt.wikipedia.org/wiki/Vachellia_drepanolobium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71547939,
+      "text": "A Vachellia drepanolobium é uma espécie africana de acacia."
     }
   },
   "edible": {
@@ -83,7 +113,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +129,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77089271-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -107,7 +137,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77089271-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001284772.webp",
@@ -120,6 +150,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

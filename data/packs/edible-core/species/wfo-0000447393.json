@@ -22,34 +22,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Bog-myrtle"
-    ],
-    "de": [
-      "Moor-Gagel",
-      "Gagel",
-      "Gagelstrauch"
-    ],
-    "nl": [
-      "Wilde gagel"
-    ],
-    "fr": [
-      "piment royal"
-    ],
-    "fi": [
-      "sahasuomyrtti",
-      "suomyrtti"
-    ],
-    "zh": [
-      "香杨梅",
-      "甜香杨梅"
-    ],
-    "ast": [
-      "lloréu de llamarga"
-    ],
     "is": [
       "Mjaðarlyng"
     ],
@@ -68,11 +43,20 @@
     "hu": [
       "fenyérmirtusz"
     ],
+    "fi": [
+      "suomyrtti",
+      "sahasuomyrtti"
+    ],
     "lv": [
       "Parastā purvmirte"
     ],
     "et": [
       "harilik porss"
+    ],
+    "de": [
+      "Gagelstrauch",
+      "Moor-Gagel",
+      "Gagel"
     ],
     "lt": [
       "Pajūrinis sotvaras"
@@ -85,6 +69,9 @@
     ],
     "sv": [
       "pors"
+    ],
+    "nl": [
+      "Wilde gagel"
     ],
     "nb": [
       "Pors"
@@ -121,24 +108,64 @@
     ],
     "frr": [
       "Gaagelstrük"
+    ],
+    "en": [
+      "Bog-myrtle"
+    ],
+    "fr": [
+      "piment royal"
+    ],
+    "zh": [
+      "香杨梅",
+      "甜香杨梅"
+    ],
+    "ast": [
+      "lloréu de llamarga"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161681",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161681",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Myrica gale」",
+      "source": "Wikipedia (en): Myrica gale",
       "source_url": "https://en.wikipedia.org/wiki/Myrica_gale",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378559842,
       "text": "Myrica gale is a species of flowering plant in the family Myricaceae native to cool temperate regions of Eurasia and North America. Common names include bog-myrtle, sweet gale, Dutch myrtle, and sweetgale."
+    },
+    "es": {
+      "source": "Wikipedia (es): Myrica gale",
+      "source_url": "https://es.wikipedia.org/wiki/Myrica_gale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581394,
+      "text": "Mirto de Brabante o mirto de turbera es una especie vegetal, perteneciente a la familia de las miricáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Myrica gale",
+      "source_url": "https://fr.wikipedia.org/wiki/Myrica_gale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228092274,
+      "text": "Le piment royal (Myrica gale), myrte des marais, myrte du brabant ou pour les francophones d'Amérique le bois-sent-bon ou myrique baumier est une plante arbustive de la famille des Myricaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Myrica gale",
+      "source_url": "https://pt.wikipedia.org/wiki/Myrica_gale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68030109,
+      "text": "Myrica gale, comummente conhecida como samouco-do-brabante, é uma espécie de planta com flor, pertencente à família das Miricáceas e ao tipo fisionómico dos fanerófitos."
     }
   },
   "edible": {
@@ -152,7 +179,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -214,7 +241,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/300581-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -222,7 +249,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/300581-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000447393.webp",
@@ -235,6 +262,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

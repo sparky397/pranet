@@ -12,17 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "silver buffaloberry"
-    ],
-    "zh": [
-      "银色野牛果",
-      "银色水牛果",
-      "野牛果"
-    ],
     "chy": [
       "Ma'emenôtse"
     ],
@@ -44,26 +36,43 @@
     "azb": [
       "گۆموشو شئفئدری"
     ],
+    "zh": [
+      "野牛果",
+      "银色野牛果",
+      "银色水牛果"
+    ],
     "lv": [
       "Sudraba šeferdija"
+    ],
+    "en": [
+      "silver buffaloberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2658110",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2658110",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Shepherdia argentea」",
+      "source": "Wikipedia (en): Shepherdia argentea",
       "source_url": "https://en.wikipedia.org/wiki/Shepherdia_argentea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1321742624,
       "text": "Shepherdia argentea, commonly called silver buffaloberry, bull berry, or thorny buffaloberry, is a species of Shepherdia in the oleaster family. It is native to central and western North America."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Shepherdia argentea",
+      "source_url": "https://fr.wikipedia.org/wiki/Shepherdia_argentea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 212722132,
+      "text": "Shepherdia argentea, la shépherdie argentée, est une espèce de plantes à fleurs de la famille Elaeagnaceae. C'est un buisson originaire d'Amérique du Nord qu'on retrouve de la Saskatchewan au Texas."
     }
   },
   "edible": {
@@ -77,7 +86,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -110,7 +119,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1043645-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -118,7 +127,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1043645-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001046525.webp",
@@ -131,6 +140,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

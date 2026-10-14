@@ -17,20 +17,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "香合欢",
-      "合欢皮",
-      "香须树",
-      "独脚金鸡"
-    ],
     "ml": [
       "പുളിവാക"
     ],
     "te": [
       "చిండుగ"
+    ],
+    "zh": [
+      "香合欢",
+      "合欢皮",
+      "香须树",
+      "独脚金鸡"
     ],
     "ar": [
       "ألبيزيا عطرية"
@@ -61,18 +61,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4712598",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4712598",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Albizia odoratissima」",
+      "source": "Wikipedia (en): Albizia odoratissima",
       "source_url": "https://en.wikipedia.org/wiki/Albizia_odoratissima",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372700570,
       "text": "Albizia odoratissima, a member of the family Fabaceae, is a fast-growing, deciduous tree reaching 15 to 25 m in height, a diameter of 120–150 cm (47–59 in), and native to large parts of India, Bangladesh, Bhutan, Nepal, Myanmar, Laos, Thailand, Vietnam, Sri Lanka and China.\nIt is one of the top nitrogen-fixing trees."
+    },
+    "es": {
+      "source": "Wikipedia (es): Albizia odoratissima",
+      "source_url": "https://es.wikipedia.org/wiki/Albizia_odoratissima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171193284,
+      "text": "Albizia odoratissima es una especie botánica de árbol leguminosa en la familia de las Fabaceae."
     }
   },
   "edible": {
@@ -87,7 +96,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -121,7 +130,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/473340-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -129,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/473340-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000185541.webp",
@@ -142,6 +151,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 284,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

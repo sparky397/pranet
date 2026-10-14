@@ -12,7 +12,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -20,68 +20,15 @@
     ],
     "en": [
       "Borage",
-      "common borage",
-      "borage"
-    ],
-    "cy": [
-      "tafod yr ych"
-    ],
-    "de": [
-      "Borretsch"
-    ],
-    "et": [
-      "Harilik kurgirohi"
-    ],
-    "fi": [
-      "kurkkuyrtti",
-      "purasruoho",
-      "rohtopurasruoho"
+      "borage",
+      "common borage"
     ],
     "fr": [
       "Bourrache officinale"
     ],
-    "gl": [
-      "Borraxe"
-    ],
-    "lv": [
-      "Gurķene",
-      "ārstniecības gurķene"
-    ],
-    "mk": [
-      "Лисичинка"
-    ],
-    "nl": [
-      "Borage",
-      "Bernagie"
-    ],
-    "ru": [
-      "Огуречная трава"
-    ],
-    "sk": [
-      "Borák lekársky"
-    ],
-    "sv": [
-      "Gurkört"
-    ],
-    "tr": [
-      "Hodan"
-    ],
-    "cs": [
-      "brutnák lékařský"
-    ],
-    "zh": [
-      "玻璃苣",
-      "琉璃苣"
-    ],
-    "ast": [
-      "borraxa"
-    ],
-    "sl": [
-      "boraga"
-    ],
-    "ar": [
-      "عشبة لسان الثور",
-      "حمحم مخزني"
+    "pt": [
+      "Borragem",
+      "borragem"
     ],
     "pl": [
       "Ogórecznik lekarski"
@@ -95,17 +42,40 @@
     "it": [
       "Borragine"
     ],
+    "gl": [
+      "Borraxe"
+    ],
+    "et": [
+      "harilik kurgirohi"
+    ],
+    "de": [
+      "Borretsch"
+    ],
     "scn": [
       "Borrago officinalis"
     ],
     "hsb": [
       "Prawy wódrak"
     ],
-    "pt": [
-      "borragem"
+    "nl": [
+      "bernagie",
+      "Borage"
+    ],
+    "sv": [
+      "gurkört"
+    ],
+    "ar": [
+      "حمحم مخزني",
+      "عشبة لسان الثور"
+    ],
+    "ru": [
+      "Огуречная трава"
     ],
     "cv": [
       "Хăяр курăкĕ"
+    ],
+    "tr": [
+      "Hodan"
     ],
     "ro": [
       "Limba mielului"
@@ -113,8 +83,19 @@
     "ca": [
       "borratja"
     ],
+    "fi": [
+      "rohtopurasruoho",
+      "kurkkuyrtti",
+      "purasruoho"
+    ],
     "uk": [
       "Огірочник лікарський"
+    ],
+    "sl": [
+      "boraga"
+    ],
+    "cs": [
+      "brutnák lékařský"
     ],
     "fa": [
       "گاوزبان"
@@ -143,6 +124,10 @@
     "da": [
       "Almindelig Hjulkrone"
     ],
+    "zh": [
+      "琉璃苣",
+      "玻璃苣"
+    ],
     "vep": [
       "Savihein"
     ],
@@ -167,6 +152,9 @@
     "nb": [
       "agurkurt"
     ],
+    "cy": [
+      "Tafod yr ych"
+    ],
     "azb": [
       "سیغیر دیلی"
     ],
@@ -181,6 +169,9 @@
     ],
     "tt": [
       "Кыяр үләне"
+    ],
+    "mk": [
+      "Лисичинка"
     ],
     "th": [
       "โบราจ"
@@ -199,6 +190,10 @@
     ],
     "co": [
       "Frìsgiula"
+    ],
+    "lv": [
+      "ārstniecības gurķene",
+      "Gurķene"
     ],
     "diq": [
       "Gelzun"
@@ -244,13 +239,19 @@
     ],
     "yue": [
       "玻璃苣"
+    ],
+    "sk": [
+      "Borák lekársky"
+    ],
+    "ast": [
+      "borraxa"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q147075",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q147075",
   "search_names": {
@@ -267,48 +268,117 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ルリジサ」",
+      "source": "Wikipedia (ja): ルリジサ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%AA%E3%82%B8%E3%82%B5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107302778,
       "text": "ルリジサ は、ムラサキ科の植物で、ハーブの一種。標準和名はルリヂシャ。チシャ（苣）はレタス（キク科）の意味。別名で、ルリジサ、ルリチシャ、ボリジ、ボラゴソウチシャとよばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Borage」",
+      "source": "Wikipedia (en): Borage",
       "source_url": "https://en.wikipedia.org/wiki/Borage",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365649497,
       "text": "Borage, also known as starflower, is an annual herb in the flowering plant family Boraginaceae native to the Mediterranean region. Although the plant contains small amounts of pyrrolizidine alkaloids, some parts are edible and its seeds provide oil."
+    },
+    "es": {
+      "source": "Wikipedia (es): Borago officinalis",
+      "source_url": "https://es.wikipedia.org/wiki/Borago_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174945448,
+      "text": "Borago officinalis, la borraja, es una especie fanerógama perteneciente a la familia de las boragináceas, nativa de las regiones eurosiberiana y mediterránea. Es empleada tradicionalmente en la gastronomía de algunas partes de España, en concreto en Aragón, La Rioja, Navarra y Valle del Ebro, en Europa, en Grecia es plato habitual como entrante y se utiliza también en Liguria (Italia), el Midi (Francia) y Baden-Württemberg (Alemania)."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bourrache officinale",
+      "source_url": "https://fr.wikipedia.org/wiki/Bourrache_officinale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236763174,
+      "text": "La Bourrache ou Bourrache officinale est une espèce de plantes annuelles de la famille des Boraginacées, assez commune en Europe."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Borragem",
+      "source_url": "https://pt.wikipedia.org/wiki/Borragem",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73001390,
+      "text": "Borragem, é uma planta herbácea anual mediterrânea, nativa do sul da Europa e do oeste da Ásia, a seguir naturalizada em toda a Europa e América do Norte."
+    },
+    "id": {
+      "source": "Wikipedia (id): Borago officinalis",
+      "source_url": "https://id.wikipedia.org/wiki/Borago_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29994971,
+      "text": "Borage, juga dikenal sebagai bunga bintang, adalah herba tahunan dalam famili tumbuhan berbunga Boraginaceae yang berasal dari wilayah Cekungan Mediterania. Meskipun tumbuhan ini mengandung sejumlah kecil alkaloid pirolizidina, beberapa bagiannya dapat dimakan dan bijinya menghasilkan minyak."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ルリジサ」の節「栽培」",
+        "source": "Wikipedia (ja): ルリジサ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%AA%E3%82%B8%E3%82%B5#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 107302778,
         "heading": "栽培",
         "text": "春に直まきで播種し、初夏から秋にかけて収穫する。畑に筋まきし、発芽したら生長を見ながら間引きして育て、最終的に株間を30センチメートル (cm) ほどあける。草丈が20 cmくらいで、ぼかし肥や鶏糞などで追肥を行う。収穫期は初夏から始まり、葉をつまんで収穫する。",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Bourrache officinale § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Bourrache_officinale#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236763174,
+        "heading": "Culture",
+        "text": "Elle est souvent cultivée dans les jardins comme plante potagère ou décorative et semée au début du mois d'avril directement en planches. Le cultivar 'Movera' est une des variétés la plus cultivées comme légume, il a été sélectionné à partir de bourraches à fleur blanche par la Banque de matériel génétique de Saragosse (CITA Aragón, Montañana, Saragosse) pour sa résistance à la montaison.\nUne affirmation non démontrée qui trouve sa source dans un manuel d'enseignement (1930) voudrait que «les poils rudes de la bourrache et des plantes voisines sont une défense contre les Limaces». Depuis lors on trouve souvent répété que la bourrache est un répulsif pour les limaces et les escargots.",
         "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Borage」の節「Toxicity」",
+        "source": "Wikipedia (en): Borage § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Borage#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1365649497,
         "heading": "Toxicity",
         "text": "In addition to the liver-toxic pyrrolizidine alkaloids (PAs) found in the leaves and seed oil, the German Federal Institute for Risk Assessment has advised that honey from borage contains pyrrolizidine alkaloids, transferred to the honey through pollen collected from the flowers, and recommends that commercial honey production select for raw honey with limited PA content to prevent contamination.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Borago officinalis § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Borago_officinalis#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174945448,
+        "heading": "Toxicidad",
+        "text": "Su seguridad ha sido cuestionada debido a la presencia de alcaloides de pirrolizidina insaturados.​ Las partes de la planta de borraja contienen alcaloides pirrolizidínicos, tóxicos para el hígado y los pulmones, y posiblemente cancerígenos. Estos alcaloides podrían excretarse en la leche materna.​ Por ello, el Manual de Seguridad Botánica de la Asociación Americana de Productos Herbales (1997) recomendó consumir estas hojas de forma discontinua.​\nEn una revisión sistemática publicada en 2020 no se encontraron informes de casos de efectos adversos de uso referentes al uso de Borago officinalis.​ El aceite de semilla de borraja generalmente es bien tolerado por los adultos; sin embargo, solo se deben utilizar productos certificados como libres de alcaloides de pirrolizidina.​",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Borago officinalis § Toksisitas",
+        "source_url": "https://id.wikipedia.org/wiki/Borago_officinalis#Toksisitas",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29994971,
+        "heading": "Toksisitas",
+        "text": "Selain alkaloid pirolizidina (PA) yang beracun bagi hati yang ditemukan di daun dan minyak biji, Institut Federal Jerman untuk Penilaian Risiko telah menyarankan bahwa madu dari borage mengandung alkaloid pirolizidina, yang ditransfer ke madu melalui serbuk sari yang dikumpulkan dari bunga, dan merekomendasikan agar produksi madu komersial memilih madu mentah dengan kandungan PA yang terbatas untuk mencegah kontaminasi.",
         "truncated": false
       }
     }
@@ -327,7 +397,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -450,7 +520,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/113618-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -458,7 +528,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/113618-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000568964.webp",
@@ -471,6 +541,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

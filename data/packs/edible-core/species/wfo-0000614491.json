@@ -16,20 +16,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "ghanja kola"
-    ],
-    "tr": [
-      "Kola ağacı"
-    ],
-    "zh": [
-      "光亮可乐果",
-      "白可拉",
-      "白可乐果"
-    ],
     "pl": [
       "Kola błyszcząca"
     ],
@@ -53,24 +42,59 @@
     ],
     "ar": [
       "جوز السودان"
+    ],
+    "zh": [
+      "光亮可乐果",
+      "白可拉",
+      "白可乐果"
+    ],
+    "en": [
+      "ghanja kola"
+    ],
+    "tr": [
+      "Kola ağacı"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1185081",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1185081",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cola nitida」",
+      "source": "Wikipedia (en): Cola nitida",
       "source_url": "https://en.wikipedia.org/wiki/Cola_nitida",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377077891,
       "text": "Cola nitida is a species of plant belonging to the family Malvaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cola nitida",
+      "source_url": "https://fr.wikipedia.org/wiki/Cola_nitida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222310540,
+      "text": "Cola nitida est un arbre de la famille des Sterculiacées ou des Malvacées, originaire d'Afrique de l'Ouest tropicale."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Cola nitida § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Cola_nitida#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 222310540,
+        "heading": "Culture",
+        "text": "Les colatiers commencent à produire à l'âge de quatre ans.\nLe ravageur responsable de plus de dégâts est le charançon Balanogastris kolae qui attaque fruits et noix aussi bien sur l'arbre, à terre ou pendant le stockage.\nLa récolte s'effectue avant que les cabosses ne commencent à s'ouvrir. Le paysan monte dans l'arbre avec un long bâton armé d'une lame pour arracher les cabosses. Il ramasse aussi les fruits tombés à terre. Le rendement moyen d’un hectare de colatiers est de 5 tonnes\nL'écabossage consiste à extraire les noix de la cabosse à l'aide d'un couteau ou d'une machette.\nL'étape suivante est le dépulpage: elle consiste à enlever la pulpe qui couvre les noix à l'aide d'un objet tranchant. Pour faciliter l'opération, on laisse au préalable, macérer les noix dans de l'eau pendant quelques jours.\nPour bien conserver les noix à l'état frais, elles sont traitées avec un insecticide (Décis 12.5 DC). Elles sont conservées à l'abri de la lumière, dans un panier tapissé de feuilles d'attiéké (Thaumatococcus) ou en sac plastique.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -86,7 +110,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -120,7 +144,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/822755-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -128,7 +152,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/822755-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000614491.webp",
@@ -141,6 +165,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 266,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

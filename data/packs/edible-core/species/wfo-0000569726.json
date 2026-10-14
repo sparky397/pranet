@@ -15,12 +15,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Indian frankincense"
-    ],
     "ml": [
       "കുന്തിരിക്കം"
     ],
@@ -53,13 +50,16 @@
     ],
     "ja": [
       "ボズウェリア・セッラータ"
+    ],
+    "en": [
+      "Indian frankincense"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2367334",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2367334",
   "search_names": {
@@ -69,13 +69,46 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Boswellia serrata」",
+      "source": "Wikipedia (en): Boswellia serrata",
       "source_url": "https://en.wikipedia.org/wiki/Boswellia_serrata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1361890774,
       "text": "Boswellia serrata is a plant that produces Indian frankincense. The plant is native to much of India and the Punjab region that extends into Pakistan."
+    },
+    "es": {
+      "source": "Wikipedia (es): Boswellia serrata",
+      "source_url": "https://es.wikipedia.org/wiki/Boswellia_serrata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 170924176,
+      "text": "El olibano o árbol del incienso de la India es una especie de planta que produce el incienso indio llamado Salai. Se encuentra en Rajasthan y Madhya Pradesh en India. Su aroma se considera inferior al compararlos con las especies B. sacra o B. frereana."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Boswellia serrata",
+      "source_url": "https://fr.wikipedia.org/wiki/Boswellia_serrata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239027204,
+      "text": "Boswellia serrata, aussi appelé encens indien ou Shallaki en médecine ayurvédique, est un arbre de la famille des Burséracées."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Boswellia serrata § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Boswellia_serrata#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 170924176,
+        "heading": "Toxicidad",
+        "text": "El aceite esencial de la resina de Boswellia serrata contiene fenilpropanoides (hasta un 11%), tales como el estragol, cuya ingestión puede suponer un riesgo para la salud.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -93,7 +126,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -105,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/127067-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -113,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/127067-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000569726.webp",
@@ -126,6 +159,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 322,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

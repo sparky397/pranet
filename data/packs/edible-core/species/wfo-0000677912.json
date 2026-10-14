@@ -10,49 +10,16 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オオバコエンドロ",
-      "大葉コエンドロ",
-      "メキシココリアンダー"
+      "メキシココリアンダー",
+      "大葉コエンドロ"
     ],
-    "en": [
-      "spiritweed",
-      "Chardon Benit Shadon beni",
-      "Cilantro Cimarron",
-      "Fitweed",
-      "Mexican Coriander",
-      "Saw-leaf Herb",
-      "Shadow beni",
-      "Spiritweed Sawtooth Herb",
-      "Wild Coriander"
-    ],
-    "as": [
-      "মান ধনিয়া",
-      "মান-ধনীয়া"
-    ],
-    "de": [
-      "Langer Koriander",
-      "Mexikanischer Koriander"
-    ],
-    "fi": [
-      "Salaattipiikkiputki"
-    ],
-    "sv": [
-      "Mexikansk Koriander"
-    ],
-    "zh": [
-      "刺芫荽",
-      "刺芹",
-      "野芫荽"
-    ],
-    "ast": [
-      "coriandru americanu"
-    ],
-    "es": [
-      "sacha culantro"
+    "id": [
+      "Walangan"
     ],
     "pt": [
       "Coentro-bravo"
@@ -69,6 +36,13 @@
     "ms": [
       "Pokok Jeraju Gunung"
     ],
+    "fi": [
+      "salaattipiikkiputki"
+    ],
+    "de": [
+      "Langer Koriander",
+      "Mexikanischer Koriander"
+    ],
     "bn": [
       "বিলাতী ধনিয়া"
     ],
@@ -81,6 +55,14 @@
     "ar": [
       "قرصعنة كريهة الرائحة"
     ],
+    "sv": [
+      "Mexikansk koriander"
+    ],
+    "zh": [
+      "刺芹",
+      "刺芫荽",
+      "野芫荽"
+    ],
     "si": [
       "අඳු"
     ],
@@ -90,24 +72,42 @@
     "fa": [
       "گشنیز مکزیکی"
     ],
+    "as": [
+      "মান-ধনীয়া",
+      "মান ধনিয়া"
+    ],
     "my": [
       "ရှမ်းနံနံ"
     ],
     "arz": [
       "قرصعنه كريهة الرائحه"
     ],
-    "id": [
-      "Walangan"
-    ],
     "shn": [
       "ၽၵ်းၵီးၵွၵ်ႇ"
+    ],
+    "en": [
+      "spiritweed",
+      "Chardon Benit Shadon beni",
+      "Cilantro Cimarron",
+      "Fitweed",
+      "Mexican Coriander",
+      "Saw-leaf Herb",
+      "Shadow beni",
+      "Spiritweed Sawtooth Herb",
+      "Wild Coriander"
+    ],
+    "ast": [
+      "coriandru americanu"
+    ],
+    "es": [
+      "sacha culantro"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1146782",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1146782",
   "search_names": {
@@ -125,22 +125,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オオバコエンドロ」",
+      "source": "Wikipedia (ja): オオバコエンドロ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B3%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110813712,
       "text": "オオバコエンドロ は、セリ科ヒゴタイサイコ属の熱帯多年草。クラントロー, 、リカオ 、シャドー・ベニー 、メキシカンコリアンダー、バンダニア、ノコギリコリアンダー、ンゴガイ、パクチーファランなどと呼ばれることもある。メキシコ、カリブ海地域、中南米が原産であるが、世界中で栽培されており、主に熱帯地方では多年草として、温帯地方では一年草として栽培されることもある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Eryngium foetidum」",
+      "source": "Wikipedia (en): Eryngium foetidum",
       "source_url": "https://en.wikipedia.org/wiki/Eryngium_foetidum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376422031,
       "text": "Eryngium foetidum is a tropical perennial herb in the family Apiaceae. Common names include culantro, cimarrón, recao, chardon béni (Martinique), Mexican coriander, samat, ban dhaniya, long coriander, wide coriander, Burmese coriander, sawtooth coriander, Shadow Beni, and ngò gai (Vietnam). It is native to Mexico, the Caribbean, and Central and South America, but is cultivated worldwide, mostly in the tropics as a perennial, but sometimes in temperate climates as an annual. In India it is called \"Mandhonia\", specifically in the Northeast."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eryngium foetidum",
+      "source_url": "https://es.wikipedia.org/wiki/Eryngium_foetidum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175583166,
+      "text": "Eryngium foetidum, llamada popularmente cilantro, cilantro habanero, cilantro de monte, cilantrón, cilantro camino, pioresnada, chicoria, chillangua , o culantro coyote, recao, culantro (Panamá), Culantro de pata (Honduras), alcapate, alcapa y samat (Guatemala) o sacha culantro(Perú). En varios países de América para distinguirla de la más tradicional Coriandrum sativum, es una hierba comestible tropical perenne y anual de la familia Apiaceae. Es nativa de América tropical donde crece de forma silvestre, pero se cultiva en todo el mundo tropical. Es utilizada como condimento por su olor y sabor característico, muy semejante al Coriandrum sativum o cilantro europeo pero más fuerte y de hojas significativamente más duras."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eryngium foetidum",
+      "source_url": "https://fr.wikipedia.org/wiki/Eryngium_foetidum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239402067,
+      "text": "Eryngium foetidum, appelée en français coriandre longue, coriandre vietnamienne , coriandre mexicaine, chardon béni, panicaut fétide et bien d'autres noms, est une plante vivace herbacée parfumée de la famille des Apiaceae. Son goût est proche de celui de la coriandre, en plus prononcé et poivré, et elle est plus résistante à la cuisson et à la dessiccation. Originaire d'Amérique tropicale, elle est maintenant cultivée dans de nombreux pays tropicaux, et notamment dans toute l'Asie du Sud-Est, où elle est plus facile à cultiver que la coriandre. Elle est également cultivée sous des climats tempérés comme une plante annuelle."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eryngium foetidum",
+      "source_url": "https://pt.wikipedia.org/wiki/Eryngium_foetidum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70701260,
+      "text": "Eryngium foetidum, eríngio, nhambi, ou coentro-bravo, também conhecida pelo nome chicória ou chicória do Pará, na região norte do Brasil, ou chamado de coentro largo na Bahia, é uma planta perene, de hábito herbáceo, nativa das regiões tropicais das Américas. É utilizada para condimentar pratos típicos da Amazônia, como o tacacá e o pato no tucupi e da culinária baiana, como moquecas e guisados."
+    },
+    "id": {
+      "source": "Wikipedia (id): Walangan",
+      "source_url": "https://id.wikipedia.org/wiki/Walangan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28518179,
+      "text": "Walangan, Walangi, tumbuhan walang sangit, ketumbar jawa atau daun walang sangit adalah spesies tumbuhan menahun tropis dalam keluarga Apiaceae. Tumbuhan ini berasal dari Meksiko, Karibia, serta Amerika Tengah dan Selatan, tetapi dibudidayakan di seluruh dunia. Sebagian besar yang hidup di daerah tropis merupakan tanaman tahunan, tetapi terkadang yang berasal dari daerah beriklim sedang hidup sebagai tanaman semusim."
     }
   },
   "edible": {
@@ -155,7 +191,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -237,7 +273,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/841793-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial",
@@ -245,7 +281,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/841793-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000677912.webp",
@@ -258,6 +294,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

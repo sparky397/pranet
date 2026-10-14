@@ -36,45 +36,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "イヌドクサ"
     ],
-    "de": [
-      "Ästiger Schachtelhalm",
-      "Žstiger Schachtelhalm"
-    ],
-    "en": [
-      "branched scouringrush",
-      "boston horsetail"
-    ],
-    "zh": [
-      "木賊",
-      "節節草",
-      "节节草",
-      "草问荆",
-      "笔管草"
-    ],
     "nl": [
-      "Vertakte paardenstaart"
-    ],
-    "fr": [
-      "Prêle rameuse",
-      "prêle très rameuse"
-    ],
-    "cs": [
-      "přeslička větevnatá"
-    ],
-    "sl": [
-      "razrasla preslica"
+      "vertakte paardenstaart"
     ],
     "pl": [
       "Skrzyp gałęzisty"
     ],
+    "cs": [
+      "přeslička větevnatá"
+    ],
     "az": [
       "Budaqlı qatırquyruğu"
+    ],
+    "zh": [
+      "节节草",
+      "木賊",
+      "節節草",
+      "草问荆",
+      "笔管草"
     ],
     "ru": [
       "Хвощ ветвистый"
@@ -100,6 +85,9 @@
     "arz": [
       "كنباث افرع"
     ],
+    "sl": [
+      "razrasla preslica"
+    ],
     "fa": [
       "دم‌اسب پرشاخه"
     ],
@@ -108,33 +96,72 @@
     ],
     "hr": [
       "Razgranjena preslica"
+    ],
+    "de": [
+      "Ästiger Schachtelhalm",
+      "Žstiger Schachtelhalm"
+    ],
+    "en": [
+      "branched scouringrush",
+      "boston horsetail"
+    ],
+    "fr": [
+      "Prêle rameuse",
+      "prêle très rameuse"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q256971",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q256971",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「イヌドクサ」",
+      "source": "Wikipedia (ja): イヌドクサ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%83%89%E3%82%AF%E3%82%B5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107366407,
       "text": "イヌドクサ はトクサ科のシダ植物の1つ。トクサによく似ているが、普通は一回り細く、また直立する茎に少数の側枝を生じる点で区別される。英名は common horsetail である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Equisetum ramosissimum」",
+      "source": "Wikipedia (en): Equisetum ramosissimum",
       "source_url": "https://en.wikipedia.org/wiki/Equisetum_ramosissimum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1351908907,
       "text": "Equisetum ramosissimum Desf., known as branched horsetail, is a species of evergreen horsetail."
+    },
+    "es": {
+      "source": "Wikipedia (es): Equisetum ramosissimum",
+      "source_url": "https://es.wikipedia.org/wiki/Equisetum_ramosissimum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 168743545,
+      "text": "Equisetum ramosissimum, o cola de caballo es un helecho de la familia botánica Equisetaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Equisetum ramosissimum",
+      "source_url": "https://fr.wikipedia.org/wiki/Equisetum_ramosissimum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 165013543,
+      "text": "Equisetum ramosissimum, communément appelée Prêle rameuse ou Prêle très rameuse, est une espèce de prêles présente en Europe. Elle se propage principalement par voie végétative. Par hybridation avec Equisetum hyemale elle donne Equisetum × moorei."
+    },
+    "id": {
+      "source": "Wikipedia (id): Equisetum ramosissimum",
+      "source_url": "https://id.wikipedia.org/wiki/Equisetum_ramosissimum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29441097,
+      "text": "Equisetum ramosissimum Desf., yang dikenal sebagai ekor kuda bercabang, adalah spesies ekor kuda hijau abadi."
     }
   },
   "edible": {
@@ -151,7 +178,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -286,7 +313,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/93010-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -294,7 +321,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/93010-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001107314.webp",
@@ -307,6 +334,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 299,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

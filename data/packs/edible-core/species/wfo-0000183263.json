@@ -37,7 +37,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -47,26 +47,12 @@
       "Lima bean",
       "sieva bean"
     ],
-    "ca": [
-      "garrofó",
-      "mongeta de Lima"
-    ],
-    "es": [
-      "haba de Lima",
-      "pallar"
-    ],
-    "fi": [
-      "Limanpapu"
-    ],
     "fr": [
+      "Haricot de Lima",
       "haricot de Lima"
     ],
-    "zh": [
-      "棉豆",
-      "金甲豆"
-    ],
-    "sl": [
-      "limski fižol"
+    "id": [
+      "Kacang kratok"
     ],
     "pt": [
       "Feijão-de-lima"
@@ -77,20 +63,32 @@
     "pl": [
       "Fasola półksiężycowata"
     ],
+    "es": [
+      "pallar",
+      "haba de Lima"
+    ],
+    "ca": [
+      "garrofó",
+      "mongeta de Lima"
+    ],
+    "fi": [
+      "limanpapu"
+    ],
     "ilo": [
       "Patani"
     ],
     "de": [
       "Limabohne"
     ],
-    "id": [
-      "Kacang kratok"
-    ],
     "ml": [
       "ബട്ടർ ബീൻസ്"
     ],
     "sv": [
       "Limaböna"
+    ],
+    "zh": [
+      "棉豆",
+      "金甲豆"
     ],
     "ga": [
       "pónaire mhór"
@@ -149,6 +147,9 @@
     "pam": [
       "Bule"
     ],
+    "sl": [
+      "limski fižol"
+    ],
     "hr": [
       "Mjesečev grah"
     ],
@@ -166,7 +167,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1166136",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1166136",
   "search_names": {
@@ -184,32 +185,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ライマメ」",
+      "source": "Wikipedia (ja): ライマメ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%A1",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108685759,
       "text": "ライマメ は、インゲンマメ属の植物。アオイマメ、リママメ、リマビーン、バタービーンともいう。名称は本種がペルーのリマから海外に輸出されていたことにちなむ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lima bean」",
+      "source": "Wikipedia (en): Lima bean",
       "source_url": "https://en.wikipedia.org/wiki/Lima_bean",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374962900,
       "text": "A lima bean, also commonly known as butter bean, sieva bean, double bean or Madagascar bean, is a legume grown for its edible seeds or beans."
+    },
+    "es": {
+      "source": "Wikipedia (es): Phaseolus lunatus",
+      "source_url": "https://es.wikipedia.org/wiki/Phaseolus_lunatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174970823,
+      "text": "Phaseolus lunatus, llamado comúnmente carauta, garrofón, frijol ancho, chilipuca, pallar, patani, o haba manaba es una especie herbácea anual de la familia de las leguminosas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Haricot de Lima",
+      "source_url": "https://fr.wikipedia.org/wiki/Haricot_de_Lima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231338185,
+      "text": "Le haricot de Lima est une espèce de plantes à fleurs de la famille des Fabacées. C'est une plante herbacée cultivée dans les pays chauds pour ses graines et consommées comme légume à l'instar du haricot commun."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Phaseolus lunatus",
+      "source_url": "https://pt.wikipedia.org/wiki/Phaseolus_lunatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68457077,
+      "text": "O Phaseolus lunatus, também conhecido pelos nomes de feijão-de-lima, bonje, feijão-bonje, fava-belém, fava-de-lima, fava-terra, feijão-espadinho, feijão-farinha, feijão-favona, feijão-fígado-de-galinha, feijão-manteiga, feijão-verde, feijoal e mangalô-amargo é uma planta da família das leguminosas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kacang kratok",
+      "source_url": "https://id.wikipedia.org/wiki/Kacang_kratok",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29397821,
+      "text": "Kacang kratok atau kekara adalah sejenis kacang-kacangan dari suku Fabaceae. Semula di Indonesia dikembangkan sebagai tanaman penutup tanah, kacang kratok kemudian juga dipanen bijinya, biji yang muda, polong yang muda, pucuk dan kecambahnya, sebagai bahan makanan manusia maupun ternak."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Lima bean」の節「Cultivation」",
+        "source": "Wikipedia (en): Lima bean § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Lima_bean#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378382659,
         "heading": "Cultivation",
         "text": "In Oaxaca, Mexico, the main rainy season lasts from June to August, and most of the above-ground parts die during the dry season. Germination or budding occurs in June or July. The first inflorescence is in October or November. The production of flowers and fruits usually ends between February and April.",
@@ -218,14 +255,36 @@
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Lima bean」の節「Toxicity」",
+        "source": "Wikipedia (en): Lima bean § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Lima_bean#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378382659,
         "heading": "Toxicity",
         "text": "Like many beans, raw lima beans are toxic (containing e.g. phytohaemagglutinin) if not boiled for at least ten minutes. Canned beans can be eaten without having to be boiled first, as they are pre-cooked.\nThe lima bean can contain anti-nutrients like phytic acids, saponin, oxalate, tannin and trypsin inhibitors. These inhibit the absorption of nutrients in animals and can cause damage to some organs. In addition to boiling, methods of roasting, pressure cooking, soaking, and germination can also reduce the antinutrients significantly.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Phaseolus lunatus § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Phaseolus_lunatus#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174970823,
+        "heading": "Toxicidad",
+        "text": "Los granos de esta planta contienen muchos factores bioquímicos antinutricionales (antialimentarios), como lectinas e inhibidores de la proteasa,​ así como de faseolunatina, o linamarina:  glucósido cianogenético 2-(alfa-D-Glucopiranosiloxi)-2-metilpropanenitrilo​ que libera ácido cianhídrico bajo la acción de enzimas. Esas sustancias se destruyen por cocción en ciertas condiciones.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Haricot de Lima § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Haricot_de_Lima#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 231338185,
+        "heading": "Toxicité",
+        "text": "Les graines de cette plante contiennent plusieurs facteurs antinutritionnels, dont des lectines et des inhibiteurs de protéases, ainsi que de la phaséolunatine ou linamarine. Il s'agit d'un glucoside cyanogénétique, le 2-(alpha-D-glucopyranosyloxy)-2-méthylpropanenitrile, qui libère de l'acide cyanhydrique sous l'action d'enzymes. Cette substance est détruite par la cuisson dans certaines conditions : trempage et cuisson suffisante dans un grand volume d'eau, l'eau utilisée à chacune des deux étapes doit être jetée.",
         "truncated": false
       }
     }
@@ -243,7 +302,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -359,7 +418,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/513918-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling annual or perennial",
@@ -367,7 +426,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/513918-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000183263.webp",
@@ -380,6 +439,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 261,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

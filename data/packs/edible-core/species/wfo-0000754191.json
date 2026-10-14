@@ -8,33 +8,66 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "ru": [
+      "Агава рогатая"
+    ],
     "zh": [
       "牛角龙舌兰",
       "翡翠盘"
-    ],
-    "ru": [
-      "Агава рогатая"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q391662",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q391662",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Agave bovicornuta」",
+      "source": "Wikipedia (en): Agave bovicornuta",
       "source_url": "https://en.wikipedia.org/wiki/Agave_bovicornuta",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1313766217,
       "text": "Agave bovicornuta Gentry, is a plant in the genus Agave, native to mountainous regions in the Mexican states of Chihuahua, Sonora and Sinaloa. The common name Cowhorn Agave and the specific epithet refer to the prominent red spines along the edges of the leaves. Other common names include \"lechguilla verde\""
+    },
+    "es": {
+      "source": "Wikipedia (es): Agave bovicornuta",
+      "source_url": "https://es.wikipedia.org/wiki/Agave_bovicornuta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157049452,
+      "text": "Agave bovicornuta es una especie de planta fanerógama de la familia Asparagaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Agave bovicornuta",
+      "source_url": "https://fr.wikipedia.org/wiki/Agave_bovicornuta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207908812,
+      "text": "Agave bovicornuta est une espèce de plantes de la famille des Asparagaceae."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Agave bovicornuta § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Agave_bovicornuta#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 157049452,
+        "heading": "Cultivo",
+        "text": "Tolera la sequía y suelos pobres, pero requiere un excelente drenaje.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -48,7 +81,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -59,7 +92,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/6391-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent perennial",
@@ -67,7 +100,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/6391-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000754191.webp",
@@ -80,6 +113,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 288,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

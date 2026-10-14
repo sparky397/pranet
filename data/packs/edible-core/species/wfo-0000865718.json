@@ -34,46 +34,33 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オヒシバ"
     ],
-    "cy": [
-      "ffaldwellt"
-    ],
-    "en": [
-      "Indian goosegrass"
-    ],
-    "su": [
-      "Carulang"
-    ],
-    "to": [
-      "Takataka"
-    ],
-    "zh": [
-      "牛筋草",
-      "蟋蟀草",
-      "蟋蟀草(牛筋草)"
-    ],
-    "nl": [
-      "Plat handjesgras"
-    ],
-    "cs": [
-      "kalužnice indická"
-    ],
-    "fi": [
-      "etelänsormihirssi"
+    "id": [
+      "Sambau",
+      "Rumput belulang"
     ],
     "pam": [
       "Sabungsabungan"
     ],
+    "su": [
+      "Carulang"
+    ],
     "ko": [
       "왕바랭이"
     ],
+    "fi": [
+      "etelänsormihirssi"
+    ],
     "ms": [
       "Rumput Sambau"
+    ],
+    "to": [
+      "Takataka"
     ],
     "hif": [
       "Ghoraiya"
@@ -87,11 +74,19 @@
     "az": [
       "Hind elevzinəsi"
     ],
-    "id": [
-      "Rumput belulang"
+    "zh": [
+      "牛筋草",
+      "蟋蟀草",
+      "蟋蟀草(牛筋草)"
     ],
     "sv": [
       "Gåshirs"
+    ],
+    "cy": [
+      "Ffaldwellt"
+    ],
+    "cs": [
+      "kalužnice indická"
     ],
     "sd": [
       "تند گاھ"
@@ -158,13 +153,19 @@
     ],
     "gor": [
       "Huhulo'a li bumbu"
+    ],
+    "en": [
+      "Indian goosegrass"
+    ],
+    "nl": [
+      "Plat handjesgras"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1148930",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1148930",
   "search_names": {
@@ -178,22 +179,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オヒシバ」",
+      "source": "Wikipedia (ja): オヒシバ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%92%E3%82%B7%E3%83%90",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106352354,
       "text": "オヒシバ は、イネ科オヒシバ属の植物である。日なたに生える、それほど背の高くない一年生草本で、道端でもよく見かける雑草である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Eleusine indica」",
+      "source": "Wikipedia (en): Eleusine indica",
       "source_url": "https://en.wikipedia.org/wiki/Eleusine_indica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1212487328,
       "text": "Eleusine indica, the Indian goosegrass, yard-grass, goosegrass, wiregrass, or crowfootgrass, is a species of grass in the family Poaceae. It is a small annual grass distributed throughout the warmer areas of the world to about 50 degrees latitude. It is an invasive species in some areas."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eleusine indica",
+      "source_url": "https://es.wikipedia.org/wiki/Eleusine_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157026172,
+      "text": "Eleusine indica (capín) es una especie de planta en la familia de las gramíneas Poaceae. Es originaria del Viejo Mundo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eleusine indica",
+      "source_url": "https://fr.wikipedia.org/wiki/Eleusine_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207975287,
+      "text": "Eleusine indica, l'éleusine des Indes ou « pied-de-poule », est une espèce de plantes monocotylédones de la famille des Poaceae (graminées).\nC'est une herbe annuelle de petite taille, présente dans les régions tropicales et subtropicales dans la zone des 50 degrés de latitude. Elle se comporte comme une espèce envahissante dans certaines régions."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eleusine indica",
+      "source_url": "https://pt.wikipedia.org/wiki/Eleusine_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66288073,
+      "text": "A Eleusine indica, conhecida pelo nome comum de ¨capim-pé-de-galinha¨, apresenta 2-12 ramos espiciformes longos e estreitos. Espécie anual, originária do Velho Mundo, naturalizado no Rio Grande do Sul. Ruderal, ocorre próximo a habitações, em beira de estrada, jardins, gramados e pomares."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sambau",
+      "source_url": "https://id.wikipedia.org/wiki/Sambau",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28391912,
+      "text": "Sambau atau rumput belulang adalah sejenis tumbuhan untuk pakan ternak. Tumbuhan ini termasuk ke dalam suku Poaceae yaitu suku rumput-rumputan. Rumput ini memiliki sebutan lain disetiap daerah. Carulang atau jampang adalah sebutan rumput ini di daerah Sunda, dan lulangan untuk Jawa."
     }
   },
   "edible": {
@@ -211,7 +248,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -486,7 +523,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/74675-3",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -494,7 +531,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/74675-3",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000865718.webp",
@@ -507,6 +544,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 355,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

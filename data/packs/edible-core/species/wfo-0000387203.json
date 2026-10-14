@@ -58,57 +58,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "カタバミ"
     ],
-    "de": [
-      "Gehörnter Sauerklee",
-      "Horn-Sauerklee"
-    ],
-    "en": [
-      "creeping woodsorrel",
-      "`ihi",
-      "wood sorrel",
-      "`ihi `ai",
-      "`ihi `awa",
-      "`ihi maka `ula",
-      "`ihi makole",
-      "yellow wood sorrel"
-    ],
-    "zh": [
-      "酢漿草",
-      "酢浆草",
-      "酢浆草（酢浆）",
-      "酢酱草",
-      "酢酱草 酸角草",
-      "醡浆草"
-    ],
-    "nl": [
-      "Gehoornde klaverzuring"
-    ],
-    "cs": [
-      "šťavel růžkatý"
-    ],
-    "fi": [
-      "sarvikäenkaali",
-      "tarhakäenkaali"
-    ],
-    "ast": [
-      "pan de cucu",
-      "carneru"
-    ],
-    "haw": [
-      "`ihi",
-      "`ihi `ai",
-      "`ihi `awa",
-      "`ihi maka `ula",
-      "`ihi makole"
-    ],
-    "sl": [
-      "rogata zajčja deteljica"
+    "id": [
+      "Daun asam kecil"
     ],
     "hi": [
       "चांगेरी"
@@ -122,8 +79,16 @@
     "or": [
       "ଆମ୍ବିଳିତି"
     ],
+    "fi": [
+      "tarhakäenkaali",
+      "sarvikäenkaali"
+    ],
     "to": [
       "Kihikihi"
+    ],
+    "de": [
+      "Horn-Sauerklee",
+      "Gehörnter Sauerklee"
     ],
     "ml": [
       "പുളിയാരില"
@@ -134,11 +99,19 @@
     "hsb": [
       "Mjechki nahlenc"
     ],
+    "nl": [
+      "gehoornde klaverzuring"
+    ],
     "sv": [
       "Blodoxalis"
     ],
-    "id": [
-      "Daun asam kecil"
+    "zh": [
+      "酢浆草",
+      "酢漿草",
+      "酢浆草（酢浆）",
+      "酢酱草",
+      "酢酱草 酸角草",
+      "醡浆草"
     ],
     "ne": [
       "चरीअमिलो"
@@ -148,6 +121,9 @@
     ],
     "ar": [
       "أقصليس قريني"
+    ],
+    "cs": [
+      "šťavel růžkatý"
     ],
     "bn": [
       "হলুদ আমরুল"
@@ -215,6 +191,9 @@
     "be": [
       "кіслічка ражковая"
     ],
+    "sl": [
+      "rogata zajčja deteljica"
+    ],
     "ur": [
       "کھٹکل"
     ],
@@ -229,13 +208,34 @@
     ],
     "shn": [
       "တူၼ်ႈသူမ်ႈသႅင်ၵႃ"
+    ],
+    "en": [
+      "creeping woodsorrel",
+      "`ihi",
+      "wood sorrel",
+      "`ihi `ai",
+      "`ihi `awa",
+      "`ihi maka `ula",
+      "`ihi makole",
+      "yellow wood sorrel"
+    ],
+    "ast": [
+      "pan de cucu",
+      "carneru"
+    ],
+    "haw": [
+      "`ihi",
+      "`ihi `ai",
+      "`ihi `awa",
+      "`ihi maka `ula",
+      "`ihi makole"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q162795",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q162795",
   "search_names": {
@@ -255,22 +255,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カタバミ」",
+      "source": "Wikipedia (ja): カタバミ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110593756,
       "text": "カタバミ はカタバミ科カタバミ属の多年草。日本の地方名には「かがみぐさ」「すいば」「しょっぱぐさ」「すずめぐさ」「ねこあし」「もんかたばみ」などがあり、『日本方言大辞典』には180種以上が記録されている。中国名は酢漿草。中国では「三葉酸草」「老鴨嘴」「酸味草」「満天星」などの別名がある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Oxalis corniculata」",
+      "source": "Wikipedia (en): Oxalis corniculata",
       "source_url": "https://en.wikipedia.org/wiki/Oxalis_corniculata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368886676,
       "text": "Oxalis corniculata, the creeping woodsorrel, procumbent yellow sorrel or sleeping beauty, is a somewhat delicate-appearing, low-growing herbaceous plant in the family Oxalidaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Oxalis corniculata",
+      "source_url": "https://es.wikipedia.org/wiki/Oxalis_corniculata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 154351304,
+      "text": "Oxalis corniculata, la acedera, también llamada acederita o chulco. Es una planta herbácea de apariencia delicada, de bajo crecimiento, de la familia Oxalidaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Oxalis corniculata",
+      "source_url": "https://fr.wikipedia.org/wiki/Oxalis_corniculata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224036686,
+      "text": "L'Oxalide corniculée ou Oxalis corniculé est une espèce de plantes à fleurs du genre des Oxalis de la famille des Oxalidacées. C'est une petite plante vivace adventice des jardins, comestible et utilisée dans les médecines traditionnelles."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Oxalis corniculata",
+      "source_url": "https://pt.wikipedia.org/wiki/Oxalis_corniculata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70660400,
+      "text": "Oxalis corniculata é uma espécie de planta com flor pertencente à família Oxalidaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Daun asam kecil",
+      "source_url": "https://id.wikipedia.org/wiki/Daun_asam_kecil",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29810552,
+      "text": "Daun asam kecil atau biasa disebut juga calincing (Sd), lela (Ac), daun asam kecil, semanggen (Jw), semanggi (Pb), cembicenan (Md), dan mala-mala (Tn) adalah tumbuhan obat liar yang dapat tumbuh di tempat terbuka maupun agak terlidung seperti di tepi jalan maupun lapangan rumput."
     }
   },
   "edible": {
@@ -289,7 +325,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -578,7 +614,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/177893-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -586,7 +622,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/177893-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000387203.webp",
@@ -599,6 +635,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

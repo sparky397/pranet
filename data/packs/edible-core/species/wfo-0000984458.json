@@ -48,33 +48,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "ar": [
-      "ورد وبري"
-    ],
-    "bg": [
-      "Ябълкоплодна шипка"
-    ],
-    "cs": [
-      "růže dužnoplodá"
-    ],
     "de": [
       "Apfel-Rose"
     ],
-    "eo": [
-      "Vila rozo"
-    ],
-    "fa": [
-      "رز ویلوسا"
-    ],
-    "fi": [
-      "Luumuruusu"
-    ],
-    "fr": [
-      "Rosier velu",
-      "rosier pomme"
+    "pl": [
+      "Róża jabłkowata"
     ],
     "hsb": [
       "Jabłučkojta róža"
@@ -83,26 +64,29 @@
       "Viltroos",
       "Bottelroos"
     ],
-    "pl": [
-      "róża jabłkowata"
+    "sv": [
+      "Plommonros"
     ],
     "ru": [
       "Шиповник волосистый"
     ],
+    "fa": [
+      "رز ویلوسا"
+    ],
+    "ar": [
+      "ورد وبري"
+    ],
+    "eo": [
+      "vila rozo"
+    ],
+    "bg": [
+      "ябълкоплодна шипка"
+    ],
     "sk": [
       "ruža jabľčková"
     ],
-    "sv": [
-      "Plommonros"
-    ],
-    "en": [
-      "Apple Rose"
-    ],
-    "zh": [
-      "苹果蔷薇"
-    ],
-    "sl": [
-      "dlakavi šipek"
+    "cs": [
+      "růže dužnoplodá"
     ],
     "hu": [
       "gyapjas rózsa"
@@ -113,29 +97,72 @@
     "arz": [
       "ورد فيلوسا"
     ],
+    "fi": [
+      "luumuruusu"
+    ],
+    "sl": [
+      "dlakavi šipek"
+    ],
     "lv": [
       "Ābolu roze"
     ],
     "et": [
       "Õun-kibuvits"
+    ],
+    "zh": [
+      "苹果蔷薇"
+    ],
+    "fr": [
+      "Rosier velu",
+      "rosier pomme"
+    ],
+    "en": [
+      "Apple Rose"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159499",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159499",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rosa villosa」",
+      "source": "Wikipedia (en): Rosa villosa",
       "source_url": "https://en.wikipedia.org/wiki/Rosa_villosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306460606,
       "text": "Rosa villosa, the apple rose, is a species of rose. It was described in 1753."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rosa villosa",
+      "source_url": "https://es.wikipedia.org/wiki/Rosa_villosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174037110,
+      "text": "Rosa villosa, apple rose, es una especie de rosa. Fue descrita en 1753."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rosa villosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Rosa_villosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225053249,
+      "text": "Rosa villosa, le Rosier velu, est une espèce de plantes à fleurs de la famille des Rosaceae. C'est un rosier appartenant à la section des Caninae, originaire d'Europe centrale et méridionale et d'Asie occidentale. On peut rencontrer ce rosier dans les régions de collines et montagnes de 400 à 1 500 mètres d'altitude."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Rosa villosa",
+      "source_url": "https://pt.wikipedia.org/wiki/Rosa_villosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64612240,
+      "text": "Rosa villosa é uma espécie de planta com flor pertencente à família Rosaceae."
     }
   },
   "edible": {
@@ -148,7 +175,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -190,7 +217,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/734665-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -198,7 +225,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/734665-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000984458.webp",
@@ -211,6 +238,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 322,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

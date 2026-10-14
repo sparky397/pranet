@@ -78,20 +78,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "draenen wen sbardunog"
-    ],
-    "en": [
-      "cockspur hawthorn"
-    ],
-    "nl": [
-      "Hanendoorn"
-    ],
-    "zh": [
-      "鸡距山楂"
+    "fr": [
+      "Aubépine ergot-de-coq",
+      "Aubépine ergot de Coq"
     ],
     "de": [
       "Hahnensporn-Weißdorn"
@@ -102,9 +94,6 @@
     "da": [
       "Hanespore-Hvidtjørn"
     ],
-    "fr": [
-      "Aubépine ergot de Coq"
-    ],
     "pl": [
       "Głóg ostrogowy"
     ],
@@ -113,6 +102,9 @@
     ],
     "sv": [
       "Sporrhagtorn"
+    ],
+    "cy": [
+      "Draenen wen sbardunog"
     ],
     "be": [
       "глог петушыны грэбень"
@@ -125,13 +117,22 @@
     ],
     "ar": [
       "زعرور صيصة الديك"
+    ],
+    "en": [
+      "cockspur hawthorn"
+    ],
+    "nl": [
+      "Hanendoorn"
+    ],
+    "zh": [
+      "鸡距山楂"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q916961",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q916961",
   "search_names": {
@@ -141,26 +142,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Crataegus crus-galli」",
+      "source": "Wikipedia (en): Crataegus crus-galli",
       "source_url": "https://en.wikipedia.org/wiki/Crataegus_crus-galli",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1337318821,
       "text": "Crataegus crus-galli is a species of hawthorn known by the common names cockspur hawthorn, cockspur thorn, Newcastle hawthorne, Newcastle thorn, hog apple. It is native to North America and is widely used in horticulture. It produces edible fruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Crataegus crus-galli",
+      "source_url": "https://es.wikipedia.org/wiki/Crataegus_crus-galli",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175560518,
+      "text": "Crataegus crus-galli, el espino de espolones o espolón de gallo, es una especie arbórea de la familia de las Rosáceas. Es originaria del este de Norteamérica, desde Ontario hasta Texas y hasta Florida, y se usa ampliamente en horticultura."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Aubépine ergot-de-coq",
+      "source_url": "https://fr.wikipedia.org/wiki/Aub%C3%A9pine_ergot-de-coq",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228421043,
+      "text": "L'aubépine ergot de Coq, appelée aussi \"aubépine de Virginie\", est une espèce de plantes à fleurs de la famille des Rosaceae. C'est une aubépine originaire de l'Est de l'Amérique du Nord, du Québec à la Louisiane."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Crataegus crus-galli」の節「Cultivation」",
+        "source": "Wikipedia (en): Crataegus crus-galli § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Crataegus_crus-galli#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1337318821,
         "heading": "Cultivation",
         "text": "This species is a popular ornamental tree, especially var. inermis, which lacks thorns. Many other wild forms would be very suitable for landscaping if better known, and yellow-fruited forms exist.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Aubépine ergot-de-coq § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Aub%C3%A9pine_ergot-de-coq#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 228421043,
+        "heading": "Culture",
+        "text": "Cette aubépine peut être cultivée jusqu'en zone USDA 4 et a une croissance lente à modérée.\nL'espèce supporte mal les transplantations[réf. nécessaire].\nSensible au puceron, oïdium et feu bactérien[réf. nécessaire].\nCette espèce est un arbre ornemental populaire, en particulier la variété inermis, sans épines. De nombreuses autres formes sauvages conviendraient très bien à l'aménagement paysager si elles étaient mieux connues. Il existe en particulier une forme à fruits jaunes.",
         "truncated": false
       }
     }
@@ -175,7 +205,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -228,7 +258,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/68112-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -236,7 +266,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/68112-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001015893.webp",
@@ -249,6 +279,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

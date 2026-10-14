@@ -16,42 +16,69 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "pt": [
+      "Canudo-de-pito"
+    ],
+    "zh": [
+      "双荚决明"
+    ],
+    "yue": [
+      "雙莢決明"
+    ],
     "en": [
       "Christmasbush",
       "Christmas Bush",
       "Money Bush",
       "Rambling Senna",
       "Yellow Candlebush"
-    ],
-    "zh": [
-      "双荚决明"
-    ],
-    "pt": [
-      "Canudo-de-pito"
-    ],
-    "yue": [
-      "雙莢決明"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q7450831",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q7450831",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Senna bicapsularis」",
+      "source": "Wikipedia (en): Senna bicapsularis",
       "source_url": "https://en.wikipedia.org/wiki/Senna_bicapsularis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375091176,
       "text": "Senna bicapsularis is a species of the legume genus Senna, native to northern South America, from Panama south to Venezuela and Colombia, and also the West Indies. Common names include rambling senna, winter cassia, Christmas bush, money bush, and yellow candlewood. In Florida, Senna pendula is usually cultivated as, and misapplied to, S. bicapsularis."
+    },
+    "es": {
+      "source": "Wikipedia (es): Senna bicapsularis",
+      "source_url": "https://es.wikipedia.org/wiki/Senna_bicapsularis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 155406724,
+      "text": "Senna bicapsularis también conocido como cadecillo y frijolillo es una especie de arbusto perteneciente a la familia de las fabáceas. Es nativa del norte de América del Sur, desde Panamá hacia el sur hasta Venezuela y Colombia, así como las Indias Occidentales. Es una planta naturalizada e invasiva en varias zonas costeras de los trópicos, como las Islas Galápagos y Nueva Caledonia. En Chile se llama quebracho y en Perú, alcaparrillo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Senna bicapsularis",
+      "source_url": "https://fr.wikipedia.org/wiki/Senna_bicapsularis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237967780,
+      "text": "Senna bicapsularis est une espèce de plantes à fleurs de la famille des Fabaceae. Cette espèce est originaire d'Amérique tropicale. C'est un arbuste qui pousse principalement dans le biome tropical à saison sèche. Il est utilisé comme aliment pour le bétail, comme poison et médicament, et a des applications environnementales, ainsi que comme combustible et aliment."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Canudo-de-pito",
+      "source_url": "https://pt.wikipedia.org/wiki/Canudo-de-pito",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 55169401,
+      "text": "O canudo-de-pito é uma árvore da família das fabáceas, sub-família Caesalpinioideae."
     }
   },
   "edible": {
@@ -68,7 +95,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -141,7 +168,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/518330-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -149,7 +176,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/518330-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000214823.webp",
@@ -162,6 +189,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

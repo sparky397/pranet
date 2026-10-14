@@ -16,29 +16,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Terebinth",
-      "Cyprus Turpentine",
-      "Turpentine tree"
-    ],
-    "es": [
-      "Cornicabra"
-    ],
-    "an": [
-      "Sarrampuz"
-    ],
-    "zh": [
-      "笃耨香",
-      "圓柄黃連木"
-    ],
-    "ast": [
-      "carnapiu blanqueru"
-    ],
-    "sl": [
-      "terebint"
+    "fr": [
+      "Pistachier térébinthe"
     ],
     "pt": [
       "Terebinto"
@@ -57,9 +39,6 @@
     ],
     "ru": [
       "Терпентинное дерево"
-    ],
-    "fr": [
-      "Pistachier térébinthe"
     ],
     "tr": [
       "Menengiç"
@@ -136,21 +115,42 @@
     "sh": [
       "Smrdljika"
     ],
+    "zh": [
+      "圓柄黃連木",
+      "笃耨香"
+    ],
     "kab": [
       "Hejji"
     ],
     "arz": [
       "بطم تربنتينى"
     ],
+    "sl": [
+      "terebint"
+    ],
     "mwl": [
       "fedieira"
+    ],
+    "en": [
+      "Terebinth",
+      "Cyprus Turpentine",
+      "Turpentine tree"
+    ],
+    "es": [
+      "Cornicabra"
+    ],
+    "an": [
+      "Sarrampuz"
+    ],
+    "ast": [
+      "carnapiu blanqueru"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q63045",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q63045",
   "search_names": {
@@ -160,13 +160,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pistacia terebinthus」",
+      "source": "Wikipedia (en): Pistacia terebinthus",
       "source_url": "https://en.wikipedia.org/wiki/Pistacia_terebinthus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377993122,
       "text": "Pistacia terebinthus, also called the terebinth, is a deciduous shrub species of the genus Pistacia, native to the Mediterranean region from the western regions of Morocco and Portugal to Greece and western and southeastern Turkey. At one time terebinths growing on the eastern shores of the Mediterranean Sea were regarded as a separate species, Pistacia palaestina, but these are now considered to be a synonym of P. terebinthus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pistacia terebinthus",
+      "source_url": "https://es.wikipedia.org/wiki/Pistacia_terebinthus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175184838,
+      "text": "El albotín, cornicabra o terebinto es un arbusto o árbol pequeño de hasta 6 m de alto de la familia de las anacardiáceas, del género Pistacia, nativo del Mediterráneo occidental y que se extiende desde las islas Canarias, Marruecos y la península ibérica, hasta Grecia y el oeste de Turquía."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pistachier térébinthe",
+      "source_url": "https://fr.wikipedia.org/wiki/Pistachier_t%C3%A9r%C3%A9binthe",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232097218,
+      "text": "Le Pistachier térébinthe ou Térébinthe, est une plante à feuillage caduc de la famille des Anacardiacées poussant dans la garrigue et le maquis, commune dans tout le bassin méditerranéen."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Terebinto",
+      "source_url": "https://pt.wikipedia.org/wiki/Terebinto",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71487572,
+      "text": "Pistacia terebinthus é uma espécie de planta com flor pertencente à família Anacardiaceae."
     }
   },
   "edible": {
@@ -180,7 +207,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -214,7 +241,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/70274-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -222,7 +249,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/70274-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000393769.webp",
@@ -235,6 +262,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 268,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

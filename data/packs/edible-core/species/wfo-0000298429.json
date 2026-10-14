@@ -10,22 +10,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "ko": [
-      "갈퀴꼭두서니",
-      "갈퀴꼭두선이"
-    ],
-    "en": [
-      "Indian madder"
-    ],
-    "zh": [
-      "茜草",
-      "大红参",
-      "披针叶茜草",
-      "茜草藤",
-      "小血藤"
+    "id": [
+      "Ranggitan"
     ],
     "ml": [
       "മഞ്ചട്ടി"
@@ -35,6 +24,13 @@
     ],
     "te": [
       "మంజిష్ఠ"
+    ],
+    "zh": [
+      "披针叶茜草",
+      "茜草",
+      "大红参",
+      "茜草藤",
+      "小血藤"
     ],
     "pa": [
       "ਮਜੀਠ"
@@ -48,11 +44,12 @@
     "hi": [
       "रुबिया  कॉर्डिफ़ोलिया"
     ],
+    "ko": [
+      "갈퀴꼭두선이",
+      "갈퀴꼭두서니"
+    ],
     "ja": [
       "ルビア・コルディフォーリア"
-    ],
-    "id": [
-      "Ranggitan"
     ],
     "ar": [
       "فوة هندي"
@@ -65,24 +62,63 @@
     ],
     "yue": [
       "茜"
+    ],
+    "en": [
+      "Indian madder"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3237818",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3237818",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rubia cordifolia」",
+      "source": "Wikipedia (en): Rubia cordifolia",
       "source_url": "https://en.wikipedia.org/wiki/Rubia_cordifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1292150606,
       "text": "Rubia cordifolia, known as Indian madder, is a species of flowering plant in the coffee family, Rubiaceae. It has been cultivated for a red pigment derived from roots."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rubia cordifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Rubia_cordifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580965,
+      "text": "Rubia cordifolia L. es una especie herbácea de la familia de las rubiáceas. Ha sido cultivado por un pigmento rojo derivado de las raíces."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rubia cordifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Rubia_cordifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 200585799,
+      "text": "La Garance indienne est une espèce de plantes de la famille des Rubiaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Rubia cordifolia",
+      "source_url": "https://pt.wikipedia.org/wiki/Rubia_cordifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73140636,
+      "text": "Rubia cordifolia L. é uma espécie de plantas com flor herbáceas pertencente à família das rubiáceas. Foi cultivado para produção de um pigmento vermelho derivado das suas raízes. A espécie tem distribuição natural no sueste da Europa, Médio Oriente e Norte de África."
+    },
+    "id": {
+      "source": "Wikipedia (id): Ranggitan",
+      "source_url": "https://id.wikipedia.org/wiki/Ranggitan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29426161,
+      "text": "Ranggitan, Madder biasa atau Madder India merupakan salah satu spesies tumbuhan berbunga dari genus Rubia, famili Rubiaceae. Tumbuhan ini telah sangat dikenal di berbagai negara luar serta digunakan sesuai dengan kebutuhan dari negara tersebut. Tumbuhan ini merupakan sumber pigmen merah yang penting secara ekonomi yang banyak dimanfaatkan di wilayah Asia, Eropa dan Afrika. Ranggitan juga telah dibudidayakan secara ekstensif dari zaman kuno sampai pertengahan abad kesembilan belas, sehingga penyebarannya juga sudah sangat luas."
     }
   },
   "edible": {
@@ -97,7 +133,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -157,7 +193,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/765218-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling perennial",
@@ -165,7 +201,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/765218-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000298429.webp",
@@ -178,6 +214,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 323,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

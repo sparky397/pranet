@@ -42,46 +42,55 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "チゴザサ"
     ],
+    "zh": [
+      "柳叶箬",
+      "柳葉箬",
+      "黄花鸢尾"
+    ],
     "en": [
       "Swamp Millet"
-    ],
-    "zh": [
-      "柳葉箬",
-      "黄花鸢尾",
-      "柳叶箬"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q11109452",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q11109452",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「チゴザサ」",
+      "source": "Wikipedia (ja): チゴザサ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%B4%E3%82%B6%E3%82%B5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107236867,
       "text": "チゴザサ はイネ科の植物の1つ。小型のササのような姿の植物で湿地に群生する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Isachne globosa」",
+      "source": "Wikipedia (en): Isachne globosa",
       "source_url": "https://en.wikipedia.org/wiki/Isachne_globosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1310652542,
       "text": "Isachne globosa, commonly known as swamp millet, is a species of plant in the true grass family. It is widespread throughout South East Asia, Japan, Australia, and New Zealand."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Isachne globosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Isachne_globosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238841826,
+      "text": "Isachne globosa est une espèce de plantes à fleurs de la famille des Poaceae. Son aire de répartition naturelle s'étend d'Oman à l'Asie tropicale et subtropicale jusqu'au Pacifique occidental. C'est une plante vivace ou annuelle qui pousse principalement dans le biome tropical humide."
     }
   },
   "edible": {
@@ -95,7 +104,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -147,7 +156,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/405963-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or annual",
@@ -155,7 +164,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/405963-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000875907.webp",
@@ -168,6 +177,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

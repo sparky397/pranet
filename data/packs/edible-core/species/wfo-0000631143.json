@@ -15,15 +15,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "fi": [
-      "Neulaparsa"
-    ],
-    "sl": [
-      "ostrolistni beluš"
-    ],
     "vec": [
       "Sparaxełe"
     ],
@@ -38,6 +32,9 @@
     ],
     "ku": [
       "Çavmarka strîlok"
+    ],
+    "fi": [
+      "neulaparsa"
     ],
     "bg": [
       "бодлива зайча сянка"
@@ -59,13 +56,16 @@
     ],
     "mwl": [
       "spargos"
+    ],
+    "sl": [
+      "ostrolistni beluš"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1587417",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1587417",
   "search_names": {
@@ -75,13 +75,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Asparagus acutifolius」",
+      "source": "Wikipedia (en): Asparagus acutifolius",
       "source_url": "https://en.wikipedia.org/wiki/Asparagus_acutifolius",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314111455,
       "text": "Asparagus acutifolius, common name wild asparagus, is an evergreen perennial plant belonging to the genus Asparagus. The specific epithet, acutifolius is derived from Latin acutus, and -folius (-leaved), and refers to the characteristic shape of the leaves, a quite common feature in the typical plants of the Mediterranean."
+    },
+    "es": {
+      "source": "Wikipedia (es): Asparagus acutifolius",
+      "source_url": "https://es.wikipedia.org/wiki/Asparagus_acutifolius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175050404,
+      "text": "Asparagus acutifolius es una especie de planta fanerógama de la familia Asparagaceae, anteriormente clasificada en la familia Liliaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Asparagus acutifolius",
+      "source_url": "https://fr.wikipedia.org/wiki/Asparagus_acutifolius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236726559,
+      "text": "Asparagus acutifolius appelée simplement Asperge sauvage est une espèce d'asperges sauvages répandue sur le pourtour méditerranéen, très courante dans le Sud de la France. Elle appartient à la famille des Asparagaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Asparagus acutifolius",
+      "source_url": "https://pt.wikipedia.org/wiki/Asparagus_acutifolius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69139253,
+      "text": "Asparagus acutifolius é uma espécie de planta fanerógama da família Asparagaceae."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Asparagus acutifolius § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Asparagus_acutifolius#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236726559,
+        "heading": "Toxicité",
+        "text": "Certaines parties de la plante sont toxiques (valeurs de CL50 inférieures à 1000 μg/mL.) en particulier les baies ( saponine) figurant sur la Liste des fruits toxiques d'Europe.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -93,7 +135,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -124,7 +166,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/530992-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling perennial",
@@ -132,7 +174,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/530992-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000631143.webp",
@@ -145,6 +187,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

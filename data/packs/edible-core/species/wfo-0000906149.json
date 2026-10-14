@@ -12,7 +12,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -21,18 +21,8 @@
     "en": [
       "Einkorn"
     ],
-    "nl": [
-      "Eenkoren",
-      "eenkoorn"
-    ],
-    "cs": [
-      "pšenice jednozrnka"
-    ],
-    "zh": [
-      "一粒小麦"
-    ],
-    "ast": [
-      "escanda (var. escaña)"
+    "id": [
+      "Einkorn"
     ],
     "pl": [
       "pszenica samopsza"
@@ -51,9 +41,6 @@
     ],
     "hu": [
       "alakor"
-    ],
-    "id": [
-      "Einkorn"
     ],
     "de": [
       "Einkorn"
@@ -79,8 +66,15 @@
     "sv": [
       "Enkornsvete"
     ],
+    "nl": [
+      "eenkoorn",
+      "Eenkoren"
+    ],
     "eo": [
       "Unugrajno"
+    ],
+    "zh": [
+      "一粒小麦"
     ],
     "el": [
       "Μονόκοκκο σιτάρι"
@@ -100,6 +94,9 @@
     "nb": [
       "Einkorn"
     ],
+    "cs": [
+      "pšenice jednozrnka"
+    ],
     "ml": [
       "ഐകോൺ ഗോതമ്പ്"
     ],
@@ -117,13 +114,16 @@
     ],
     "lt": [
       "Vienagrūdis kvietys"
+    ],
+    "ast": [
+      "escanda (var. escaña)"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161397",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161397",
   "search_names": {
@@ -133,22 +133,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヒトツブコムギ」",
+      "source": "Wikipedia (ja): ヒトツブコムギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%88%E3%83%84%E3%83%96%E3%82%B3%E3%83%A0%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106372481,
       "text": "ヒトツブコムギ は、イネ科コムギ属の植物で、栽培型と野生型があり、そのいずれもパンコムギ と関係がある。以前は野生型がT. boeoticum（種小名をbaeoticumと記載されることもある）で栽培型がT. monococcumとしてそれぞれ別種として扱われていた。しかしながら、現在は野生型、栽培型ともにT. monococcumの亜種として分類され、栽培型はT. monococcum ssp. monococcum、野生型はT. monococcum ssp. boeoticum (Boiss.) MKと分類される。ヒトツブコムギは2倍体の植物で難脱穀性、穀粒は堅い頴（殻）にしっかりと包まれている。栽培型の形態は野生型に似るが、熟した時に穂軸が自然に折れて脱落しない非脱落性で、穀粒が大きい点が異なる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Einkorn」",
+      "source": "Wikipedia (en): Einkorn",
       "source_url": "https://en.wikipedia.org/wiki/Einkorn",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374834272,
       "text": "Einkorn  can refer to either a wild species of wheat (Triticum) or a domesticated form of wheat. The wild form is T. boeoticum, and the domesticated form is T. monococcum. Einkorn is a diploid species of hulled wheat, with tough glumes (husks) that tightly enclose the grains. The cultivated form is similar to the wild, except that the ear stays intact when ripe and the seeds are larger. The domestic form is known as petit épeautre in French, Einkorn in German, \"einkorn\" or \"littlespelt\" in English, piccolo farro in Italian and escanda menor in Spanish. The name refers to the fact that each spikelet contains only one grain. Einkorn was one of the first forms of wheat to be cultivated."
+    },
+    "es": {
+      "source": "Wikipedia (es): Triticum monococcum",
+      "source_url": "https://es.wikipedia.org/wiki/Triticum_monococcum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175597169,
+      "text": "La escaña menor o escanda menor es una especie de la familia de los trigos (Triticum), considerada como uno de los trigos antiguos. En Cataluña es conocida como espelta pequeña. Es una especie primitiva de trigo derivada de la escaña silvestre (Triticum boeoticum), por lo que también se la llama escaña cultivada. Antiguamente, la escaña menor era sembrada en España y otras partes de Europa para alimentar a las gallinas, e incluso se menciona como «mala hierba» en los sembradíos de trigo común en las investigaciones sobre asentamientos íberos en el Levante español. En la Antigüedad fue muy importante pero actualmente está casi extinta, ya que solo se preservan cultivos de esta especie en algunas zonas montañosas de Europa. Pertenece a los diploides debido a su conformación de 2n = 14 cromosomas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Triticum monococcum",
+      "source_url": "https://fr.wikipedia.org/wiki/Triticum_monococcum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231422697,
+      "text": "Triticum monococcum L. (1753) est une espèce de plantes monocotylédones de la famille des Poaceae (Graminées), sous-famille des Pooideae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Triticum monococcum",
+      "source_url": "https://pt.wikipedia.org/wiki/Triticum_monococcum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71655093,
+      "text": "Triticum monococcum é uma espécie diploide de trigo com variedades selvagens e domesticadas. As formas selvagens e domesticadas são consideradas espécies separadas, ou como subespécies: Triticum monococcum subsp. boeoticum (selvagem) e T. monococcum subsp. monococcum (domesticado)."
+    },
+    "id": {
+      "source": "Wikipedia (id): Einkorn",
+      "source_url": "https://id.wikipedia.org/wiki/Einkorn",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30063911,
+      "text": "Einkorn dapat merujuk pada spesies gandum liar (Triticum) maupun bentuk gandum yang dibudidayakan. Bentuk liarnya adalah T. boeoticum, sedangkan bentuk yang dibudidayakan adalah T. monococcum. Einkorn merupakan spesies gandum diploid yang termasuk gandum bersekam, dengan gluma (sekam) yang kuat dan membungkus erat bulirnya. Bentuk yang dibudidayakan mirip dengan bentuk liar, kecuali bahwa bulirnya tetap utuh ketika matang dan bijinya lebih besar. Bentuk yang dibudidayakan dikenal sebagai petit épeautre dalam bahasa Prancis, Einkorn dalam bahasa Jerman, \"einkorn\" atau \"littlespelt\" dalam bahasa Inggris, piccolo farro dalam bahasa Italia, dan escanda menor dalam bahasa Spanyol. Nama tersebut mengacu pada fakta bahwa setiap bulir kecil hanya mengandung satu bulir gandum. Einkorn merupakan salah satu bentuk gandum pertama yang dibudidayakan."
     }
   },
   "edible": {
@@ -160,7 +196,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -197,7 +233,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/425811-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -205,6 +241,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/425811-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

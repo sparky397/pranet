@@ -24,20 +24,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "fr": [
-      "laurier indonésien"
+    "id": [
+      "Salam (tumbuhan)",
+      "Salam"
     ],
     "de": [
       "Indonesisches Lorbeerblatt"
-    ],
-    "en": [
-      "Indonesian bay leaf"
-    ],
-    "id": [
-      "Salam"
     ],
     "jv": [
       "Salam"
@@ -68,24 +63,63 @@
     ],
     "gor": [
       "Meme"
+    ],
+    "fr": [
+      "laurier indonésien"
+    ],
+    "en": [
+      "Indonesian bay leaf"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q476606",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q476606",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Syzygium polyanthum」",
+      "source": "Wikipedia (en): Syzygium polyanthum",
       "source_url": "https://en.wikipedia.org/wiki/Syzygium_polyanthum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1329587214,
       "text": "Syzygium polyanthum, with common names Indonesian bay leaf or daun salam, is a species of plant in the family Myrtaceae, native to Indonesia, Indochina and Malaysia. The leaves of the plant are traditionally used as a food flavouring, and have been shown to kill the spores of Bacillus cereus."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Syzygium polyanthum",
+      "source_url": "https://fr.wikipedia.org/wiki/Syzygium_polyanthum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239923756,
+      "text": "Syzygium polyanthum, le laurier indonésien, est une espèce de plantes à fleurs de la famille des Myrtaceae et du genre Syzygium. C'est un arbre trouvé en Asie. Ses feuilles sont utilisées en cuisine sous le nom de feuilles de Salam, et son bois est vendu sous le nom de Kelat."
+    },
+    "id": {
+      "source": "Wikipedia (id): Salam (tumbuhan)",
+      "source_url": "https://id.wikipedia.org/wiki/Salam_(tumbuhan)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28484984,
+      "text": "Salam adalah nama pohon penghasil daun rempah yang digunakan dalam masakan Nusantara. Dalam bahasa Inggris dikenal sebagai Indonesian bay-leaf atau Indonesian laurel, sedangkan nama ilmiahnya adalah Syzygium polyanthum."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "id": {
+        "source": "Wikipedia (id): Salam (tumbuhan) § Budi daya",
+        "source_url": "https://id.wikipedia.org/wiki/Salam_(tumbuhan)#Budi_daya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 28484984,
+        "heading": "Budi daya",
+        "text": "Tanaman salam tumbuh pada tanah dengan ketinggian 225–450 meter di atas permukaan laut dengan curah hujan 3.000–4.000 mm/tahun pada jenis latosol kehitaman. Pemupukan dilakukan dengan menambah pupuk kandang secukupnya pada saat penanaman. Untuk menambah daun, dilakukan penambahan pupuk NPK.\nPemanenan salam dilakukan dengan pemetikan daun yang sudah berwarna hijau tua. Daun tersebut dipangkas secara acak pada ranting-rantingnya. Sesudah daun diperoleh dari rantingnya, daun dilayukan dengan cara dihamparkan di lantai pada suhu ±27 °C dengan pembalikan intensif selama tiga hari. Untuk mendapatkan minyak asiri selanjutnya simplisia salam disuling dengan alat penyuling air dan uap selama 10 jam.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -98,7 +132,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -120,7 +154,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/602097-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -128,7 +162,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/602097-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000319226.webp",
@@ -141,6 +175,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 277,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

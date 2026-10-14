@@ -12,13 +12,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "African Juniper",
-      "African Pencil Cedar",
-      "East African Cedar"
+    "fr": [
+      "Genévrier d'Afrique"
     ],
     "de": [
       "Ostafrikanischer Wacholder"
@@ -31,9 +29,6 @@
     ],
     "ru": [
       "Можжевельник стройный"
-    ],
-    "fr": [
-      "Genévrier d'Afrique"
     ],
     "ar": [
       "عرعر طويل"
@@ -64,24 +59,56 @@
     ],
     "zh": [
       "非洲刺柏"
+    ],
+    "en": [
+      "African Juniper",
+      "African Pencil Cedar",
+      "East African Cedar"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q577041",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q577041",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Juniperus procera」",
+      "source": "Wikipedia (en): Juniperus procera",
       "source_url": "https://en.wikipedia.org/wiki/Juniperus_procera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1362626131,
       "text": "Juniperus procera is a coniferous tree native to mountainous areas in Africa and the Arabian Peninsula. It is a characteristic tree of the Afromontane flora."
+    },
+    "es": {
+      "source": "Wikipedia (es): Juniperus procera",
+      "source_url": "https://es.wikipedia.org/wiki/Juniperus_procera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172748346,
+      "text": "Juniperus procera es una conífera originaria de las zonas montañosas de África y la península arábiga. Es un árbol característico de la flora afromontana."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Genévrier d'Afrique",
+      "source_url": "https://fr.wikipedia.org/wiki/Gen%C3%A9vrier_d'Afrique",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 213475182,
+      "text": "Le Genévrier d'Afrique est une espèce de plantes à fleurs du genre Juniperus et de la famille des Cupressaceae. C'est un arbre originaire de zones de montagneuse en Afrique et la péninsule arabique. C’est un arbre caractéristique de la flore de l’afro-montagnarde."
+    },
+    "id": {
+      "source": "Wikipedia (id): Juniperus procera",
+      "source_url": "https://id.wikipedia.org/wiki/Juniperus_procera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28650231,
+      "text": "Juniperus procera yang dikenal dalam bahasa Inggris dengan nama umumnya sebagai African juniper, African pencil-cedar, East African juniper, East African-cedar, dan Kenya-cedar, adalah pohon konifer yang asli dari wilayah pegunungan di Afrika dan Semenanjung Arab. Spesies ini merupakan salah satu pohon khas yang membentuk flora Afromontane. Pohon ini memiliki nilai kayu yang tinggi dan dimanfaatkan untuk konstruksi rumah, tiang penyangga, serta pembuatan furnitur. Selain itu, kulit kayunya juga digunakan dalam pembuatan sarang lebah."
     }
   },
   "edible": {
@@ -96,7 +123,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -118,7 +145,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262311-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -126,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262311-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000355729.webp",
@@ -139,6 +166,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

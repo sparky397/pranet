@@ -20,19 +20,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "en": [
       "Boldo",
-      "boldo",
-      "árnica"
-    ],
-    "ru": [
-      "Пеумус"
+      "árnica",
+      "boldo"
     ],
     "fr": [
       "Boldo"
+    ],
+    "ru": [
+      "Пеумус"
     ],
     "rw": [
       "Boldo"
@@ -102,31 +102,69 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q833994",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q833994",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Boldo」",
+      "source": "Wikipedia (en): Boldo",
       "source_url": "https://en.wikipedia.org/wiki/Boldo",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372661127,
       "text": "Peumus boldus, commonly known as boldo, is a species of tree in the family Monimiaceae and the only species in the genus Peumus. It is endemic to the central region of Chile, between 33° and 40° southern latitude. Boldo has also been introduced to Europe and North Africa, though it is not often seen outside botanical gardens."
+    },
+    "es": {
+      "source": "Wikipedia (es): Peumus boldus",
+      "source_url": "https://es.wikipedia.org/wiki/Peumus_boldus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175081576,
+      "text": "El boldo es la única especie del género monotípico Peumus, de la familia de las monimiáceas. Este árbol es endémico de Chile. Sus hojas, de fuerte aroma, se utilizan con propósitos culinarios y medicinales."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Boldo",
+      "source_url": "https://fr.wikipedia.org/wiki/Boldo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216441298,
+      "text": "Le boldo est une espèce de plantes à fleurs de la famille des Monimiaceae. C'est un arbre originaire du Chili."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Peumus boldus",
+      "source_url": "https://pt.wikipedia.org/wiki/Peumus_boldus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71644405,
+      "text": "O boldo-do-chile é uma árvore que atinge de 12 a 15 metros de altura e pertence à família das Monimiaceae. É comumente confundido com o boldo-da-terra, arbusto de propriedades medicinais semelhantes, mas com contraindicações diferentes."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Boldo」の節「Toxicity」",
+        "source": "Wikipedia (en): Boldo § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Boldo#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1372661127,
         "heading": "Toxicity",
         "text": "In 2009, the European Medicines Agency assessed boldo as follows:\nBoldo leaf contains the alkaloid boldine. Boldo leaf also contains 2–4% of volatile oil. Major constituents reported as: ascaridole (16–38%), 1,8-cineole (11–39%) and p-Cymene (9–29%). Ascaridole is highly toxic, and this raises concerns about the suitability of boldo leaf in traditional herbal medicinal products.\nAbortifacient and teratogenic effects in rats were observed with very high doses (800 mg/kg) of a dry ethanolic extract of boldine in the first days of pregnancy, not present at lower doses.\nMost investigations have been carried out using boldine.\nLimited information is available on herbal preparations of boldo leaf and where studies have been reported, details of the preparations are usually lacking. There are no reported genotoxicity or carcinogenicity studies with herbal preparations of boldo leaf.\nBoldo oil should not be used internally or externally. Where boldo leaf is used, the total exposure to ascaridole should be considered from a safety standpoint. The levels of ascaridole in herbal medicinal products should be quantified. In view of the low solubility of ascaridole in water, the use of aqueous extracts including herbal teas could be accepted. The use of ethanolic extracts of boldo leaf is not considered acceptable for traditional herbal medicinal products, in view of the potentially higher levels of the toxic ascaridole constituent.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Boldo § Toxicologie",
+        "source_url": "https://fr.wikipedia.org/wiki/Boldo#Toxicologie",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 216441298,
+        "heading": "Toxicologie",
+        "text": "Selon une étude de l'Agence européenne des médicaments en 2009, des tests de reprotoxicité (toxicité pour la reproduction) ont été réalisés avec un extrait sec éthanolique de feuilles de boldo et de boldine administré par voie orale à des rats femelles enceintes. Les résultats ont montré des altérations anatomiques du fœtus et un petit nombre de cas d'avortement à des doses élevées. La pharmacopée européenne (EP) recommande donc de commercialiser des produits à base d'extrait aqueux, qui sont dénués d'ascaridole, substance toxique présente dans l'extrait hydroalcoolique. D'autre part, aucun essai connu de génotoxicité ou de carcinogénicité n'a été réalisé avec une préparation de feuilles de boldo.",
         "truncated": false
       }
     }
@@ -143,7 +181,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -154,7 +192,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/191376-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -162,7 +200,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/191376-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000474092.webp",
@@ -175,6 +213,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

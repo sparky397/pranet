@@ -26,12 +26,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "金柑"
-    ],
     "ar": [
       "برتقال ياباني"
     ],
@@ -46,6 +43,9 @@
     ],
     "hsb": [
       "Japanski kumkwat"
+    ],
+    "zh": [
+      "金柑"
     ],
     "fa": [
       "پورنج مارومی"
@@ -67,7 +67,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q124344319",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q124344319",
   "search_names": {
@@ -80,13 +80,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Citrus japonica」",
+      "source": "Wikipedia (en): Citrus japonica",
       "source_url": "https://en.wikipedia.org/wiki/Citrus_japonica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369374124,
       "text": "Citrus japonica, the round kumquat, Marumi kumquat, or Morgani kumquat, is a species of citrus fruit in the genus Citrus. It was first described by Carl Peter Thunberg in 1780 as Fortunella japonica."
+    },
+    "es": {
+      "source": "Wikipedia (es): Citrus japonica",
+      "source_url": "https://es.wikipedia.org/wiki/Citrus_japonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174326950,
+      "text": "El kumquat redondo es un árbol o arbusto perteneciente al género Citrus, dentro de la familia de las rutáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Citrus japonica",
+      "source_url": "https://fr.wikipedia.org/wiki/Citrus_japonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234650828,
+      "text": "Citrus japonica est une espèce d'agrumes du genre Citrus, synonyme de Fontunella japonica communément appelée kumquat."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Citrus japonica",
+      "source_url": "https://pt.wikipedia.org/wiki/Citrus_japonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67369372,
+      "text": "A Citrus japonica, conhecida pelos nomes comuns de quincã, laranjina, laranjinha kinkan ou cunquate, ou ainda xinxim, é uma pequena fruta cítrica da família das rutáceas."
     }
   },
   "edible": {
@@ -101,7 +128,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -124,7 +151,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/771939-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -132,7 +159,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/771939-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000608080.webp",
@@ -145,6 +172,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 226,
     "height": 288,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

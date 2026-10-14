@@ -21,16 +21,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "麻楝",
-      "毛麻楝"
-    ],
-    "vi": [
-      "lát hoa"
-    ],
     "ms": [
       "Pokok Serian Batu"
     ],
@@ -40,11 +33,18 @@
     "th": [
       "ยมหิน"
     ],
+    "vi": [
+      "lát hoa"
+    ],
     "my": [
       "ယင်းမာ"
     ],
     "yue": [
       "麻楝"
+    ],
+    "zh": [
+      "麻楝",
+      "毛麻楝"
     ],
     "kn": [
       "ಕಲ್ಗರಿಗೆ"
@@ -63,7 +63,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q12701073",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q12701073",
   "search_names": {
@@ -73,13 +73,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Chukrasia」",
+      "source": "Wikipedia (en): Chukrasia",
       "source_url": "https://en.wikipedia.org/wiki/Chukrasia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1363527263,
       "text": "Chukrasia tabularis, the Indian mahogany, is a deciduous, tropical forest tree species in the Mahogany Family (Meliaceae). It is native to the Andaman Islands, Bangladesh, Cambodia, China, India, Indonesia, Laos, Malaysia, Myanmar, Sri Lanka, Thailand, and Vietnam. Also introduced to many western countries such as Cameroon, Costa Rica, Nigeria, Puerto Rico, South Africa, and United States."
+    },
+    "es": {
+      "source": "Wikipedia (es): Chukrasia tabularis",
+      "source_url": "https://es.wikipedia.org/wiki/Chukrasia_tabularis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171238890,
+      "text": "Chukrasia es un género monotípico de árboles pertenecientes a la familia Meliaceae. Su única especie: Chukrasia tabularis es originaria de Asia."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Chukrasia",
+      "source_url": "https://pt.wikipedia.org/wiki/Chukrasia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 59103903,
+      "text": "Chukrasia é um género botânico pertencente à família Meliaceae."
     }
   },
   "edible": {
@@ -94,7 +112,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -124,7 +142,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60465537-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -132,7 +150,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60465537-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000604169.webp",
@@ -145,6 +163,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

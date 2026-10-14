@@ -22,25 +22,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Butterfly-tree",
-      "Purple Camel's Foot",
-      "butterfly tree",
-      "Hawaiian Orchid Tree",
-      "Hong Kong Orchid Tree"
-    ],
-    "zh": [
-      "羊蹄甲",
-      "大夜关门根",
-      "紫羊蹄甲",
-      "红花羊蹄甲"
-    ],
-    "vi": [
-      "móng bò đỏ",
-      "cây móng bò"
+    "id": [
+      "Tayuman"
     ],
     "hi": [
       "कोविदार"
@@ -60,6 +46,16 @@
     "as": [
       "ৰঙা কাঞ্চন"
     ],
+    "vi": [
+      "cây móng bò",
+      "móng bò đỏ"
+    ],
+    "zh": [
+      "红花羊蹄甲",
+      "羊蹄甲",
+      "大夜关门根",
+      "紫羊蹄甲"
+    ],
     "yue": [
       "紅花羊蹄甲"
     ],
@@ -78,9 +74,6 @@
     "sat": [
       "ᱥᱤᱧ ᱫᱟᱨᱮ"
     ],
-    "id": [
-      "Tayuman"
-    ],
     "su": [
       "Tayuman"
     ],
@@ -95,13 +88,20 @@
     ],
     "ta": [
       "மந்தாரை"
+    ],
+    "en": [
+      "Butterfly-tree",
+      "Purple Camel's Foot",
+      "butterfly tree",
+      "Hawaiian Orchid Tree",
+      "Hong Kong Orchid Tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3245410",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3245410",
   "search_names": {
@@ -112,13 +112,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Bauhinia purpurea」",
+      "source": "Wikipedia (en): Bauhinia purpurea",
       "source_url": "https://en.wikipedia.org/wiki/Bauhinia_purpurea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1347384874,
       "text": "Bauhinia purpurea is a species of flowering plant in the family Fabaceae, native to the Indian subcontinent and Myanmar, and widely introduced elsewhere in tropical and subtropical areas of the world. Common names include orchid tree, purple bauhinia, camel's foot, butterfly tree, and Hawaiian orchid tree."
+    },
+    "es": {
+      "source": "Wikipedia (es): Bauhinia purpurea",
+      "source_url": "https://es.wikipedia.org/wiki/Bauhinia_purpurea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171875283,
+      "text": "El urape púrpura es un árbol de la familia de las fabáceas, ampliamente difundido en las regiones tropicales de América. En Costa Rica se le conoce como casco de venado, pata de vaca u orquídea de palo. Originaria de la India y Myanmar, ha sido introducida a diversas zonas tropicales y subtropicales alrededor del mundo."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tayuman",
+      "source_url": "https://id.wikipedia.org/wiki/Tayuman",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29108051,
+      "text": "Bauhinia purpurea atau tayuman adalah salah satu spesies tumbuhan berbunga dalam keluarga Fabaceae. Tumbuhan ini berasal dari Anak benua India dan Myanmar, dan diperkenalkan secara luas di tempat lain di kawasan tropis dan subtropis di dunia."
     }
   },
   "edible": {
@@ -135,7 +153,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -197,7 +215,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/481605-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -205,7 +223,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/481605-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000213155.webp",
@@ -218,6 +236,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 354,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

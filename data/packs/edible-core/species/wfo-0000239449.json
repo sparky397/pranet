@@ -14,21 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "cajeput",
-      "cajuput",
-      "white samet"
-    ],
-    "vi": [
-      "tràm gió"
-    ],
-    "zh": [
-      "原白千层",
-      "白千层"
-    ],
     "fr": [
       "Cajeput"
     ],
@@ -41,6 +29,10 @@
     "id": [
       "gelam"
     ],
+    "zh": [
+      "白千层",
+      "原白千层"
+    ],
     "arz": [
       "بلقاء كايبوت"
     ],
@@ -52,24 +44,50 @@
     ],
     "ms": [
       "gelam"
+    ],
+    "en": [
+      "cajeput",
+      "cajuput",
+      "white samet"
+    ],
+    "vi": [
+      "tràm gió"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2933398",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2933398",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Melaleuca cajuputi」",
+      "source": "Wikipedia (en): Melaleuca cajuputi",
       "source_url": "https://en.wikipedia.org/wiki/Melaleuca_cajuputi",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378197579,
       "text": "Melaleuca cajuputi, commonly known as cajuput or white samet is a plant in the myrtle family, Myrtaceae and is widespread in Australia, Southeast Asia, New Guinea and the Torres Strait islands. It is a medium to tall tree with papery bark, silvery new growth and white or greenish flower spikes. It has important uses as a source of cajuput oil."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cajeput",
+      "source_url": "https://fr.wikipedia.org/wiki/Cajeput",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231978455,
+      "text": "Le cajeput ou cajeputier ou mélaleuque blanc est une espèce de plantes à fleurs de la famille des Myrtaceae. C'est un arbre originaire de l'Asie du Sud-Est et du nord de l'Australie."
+    },
+    "id": {
+      "source": "Wikipedia (id): Melaleuca cajuputi",
+      "source_url": "https://id.wikipedia.org/wiki/Melaleuca_cajuputi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28957715,
+      "text": "Melaleuca cajuputi, yang lebih dikenal sebagai atau samet putih, merupakan anggota keluarga Myrtaceae dan tersebar luas di Australia, Asia Tenggara, Papua Nugini, serta Kepulauan Selat Torres. Pohon dari tanaman ini berukuran sedang hingga tinggi, memiliki kulit batang tipis menyerupai kertas, daun muda berwarna keperakan, dan bunga berbentuk bulir berwarna putih atau kehijauan. Spesies ini memiliki nilai ekonomi penting karena menjadi sumber utama dari minyak kayu putih."
     }
   },
   "edible": {
@@ -86,7 +104,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -114,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/115161-3",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -122,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/115161-3",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000239449.webp",
@@ -135,6 +153,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 302,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -20,78 +20,49 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "en": [
       "Summer savory",
       "summer savory"
     ],
-    "bg": [
-      "Градинска чубрица"
-    ],
-    "ca": [
-      "Sajolida de jardí"
-    ],
-    "cs": [
-      "saturejka zahradní"
-    ],
-    "de": [
-      "Sommer-Bohnenkraut"
-    ],
-    "es": [
-      "Ajedrea de jardín"
-    ],
-    "hsb": [
-      "Poprica"
-    ],
-    "hu": [
-      "Borsikafű"
-    ],
-    "nl": [
-      "eenjarig bonenkruid",
-      "peperkruid",
-      "scharekruid",
-      "tuinbonenkruid",
-      "Bonenkruid"
-    ],
-    "pl": [
-      "Cząber ogrodowy"
-    ],
-    "ro": [
-      "Cimbru"
-    ],
-    "ru": [
-      "или Чабер душистый",
-      "Чабер садовый"
-    ],
-    "sk": [
-      "Saturejka záhradná"
-    ],
-    "sv": [
-      "Sommarkyndel"
-    ],
-    "tr": [
-      "Sater"
-    ],
-    "fi": [
-      "kesäkynteli"
-    ],
-    "zh": [
-      "园圃塔花",
-      "夏香薄荷"
-    ],
-    "ast": [
-      "Saturexa"
-    ],
     "eo": [
       "ĝardena satureo"
+    ],
+    "sk": [
+      "saturejka záhradná"
+    ],
+    "pl": [
+      "cząber ogrodowy"
+    ],
+    "ru": [
+      "чабер садовый",
+      "или Чабер душистый"
+    ],
+    "ro": [
+      "cimbru"
+    ],
+    "ca": [
+      "sajolida de jardí"
     ],
     "mk": [
       "градинарска чубрика"
     ],
+    "hu": [
+      "borsikafű"
+    ],
+    "de": [
+      "Sommer-Bohnenkraut"
+    ],
     "sl": [
       "vrtni šetraj"
+    ],
+    "cs": [
+      "saturejka zahradní"
+    ],
+    "bg": [
+      "градинска чубрица"
     ],
     "hr": [
       "čubar"
@@ -99,11 +70,24 @@
     "az": [
       "Dağınıqçiçək çölnanəsi"
     ],
+    "hsb": [
+      "poprica"
+    ],
+    "sv": [
+      "Sommarkyndel"
+    ],
     "ar": [
       "ندغ بستاني"
     ],
     "sr": [
       "чубар"
+    ],
+    "nl": [
+      "bonenkruid",
+      "eenjarig bonenkruid",
+      "peperkruid",
+      "scharekruid",
+      "tuinbonenkruid"
     ],
     "gl": [
       "segorella"
@@ -120,11 +104,18 @@
     "nn": [
       "Sar"
     ],
+    "zh": [
+      "夏香薄荷",
+      "园圃塔花"
+    ],
     "yue": [
       "夏香薄荷"
     ],
     "wa": [
       "såriete des cortis"
+    ],
+    "fi": [
+      "kesäkynteli"
     ],
     "fa": [
       "مرزه"
@@ -155,24 +146,60 @@
     ],
     "os": [
       "Дыргъдоны джеджджын"
+    ],
+    "es": [
+      "Ajedrea de jardín"
+    ],
+    "tr": [
+      "Sater"
+    ],
+    "ast": [
+      "Saturexa"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157283",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157283",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Summer savory」",
+      "source": "Wikipedia (en): Summer savory",
       "source_url": "https://en.wikipedia.org/wiki/Summer_savory",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376363705,
       "text": "Summer savory is among the best known of the savory genus. It is an annual, but otherwise is similar in use and flavor to the perennial winter savory. It is used more often than winter savory, which has a slightly more bitter flavor."
+    },
+    "es": {
+      "source": "Wikipedia (es): Satureja hortensis",
+      "source_url": "https://es.wikipedia.org/wiki/Satureja_hortensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173123724,
+      "text": "Satureja hortensis L. es la más conocida de las especies de Satureja. Es una planta anual, similar en uso y en sabor a la perenne Satureja montana. Se conoce coloquialmente como satureja de jardín, saborija, calamentola o ajedrea de jardín."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Satureja hortensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Satureja_hortensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238492586,
+      "text": "Satureja hortensis, sariette d'été ou encore Sarriette commune, est une espèce de plantes à fleurs de la famille des Lamiacées. C'est une plante herbacée originaire du sud de l'Europe et d'Asie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Satureja hortensis",
+      "source_url": "https://pt.wikipedia.org/wiki/Satureja_hortensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67590181,
+      "text": "A Satureja hortensis L., comummente conhecida como segurelha ou satureja, trata-se de planta herbácea, aromática, pertencente ao tipo fisionómico dos terófitos e à família das Labiadas."
     }
   },
   "edible": {
@@ -186,7 +213,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -226,7 +253,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/457680-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -234,7 +261,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/457680-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000304214.webp",
@@ -247,6 +274,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

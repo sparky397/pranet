@@ -16,15 +16,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "lilac tasselflower"
-    ],
-    "zh": [
-      "一点红",
-      "羊蹄草"
+    "pt": [
+      "Serralhinha"
     ],
     "id": [
       "Tempuh wiyang"
@@ -38,14 +34,15 @@
     "vi": [
       "Rau má lá rau muống"
     ],
+    "zh": [
+      "一点红",
+      "羊蹄草"
+    ],
     "ne": [
       "चौलाने झार"
     ],
     "ta": [
       "சுவர் முள்ளங்கி"
-    ],
-    "pt": [
-      "Serralhinha"
     ],
     "fi": [
       "valvattiemilia"
@@ -67,37 +64,78 @@
     ],
     "ms": [
       "Pokok Kemandilan"
+    ],
+    "en": [
+      "lilac tasselflower"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3595665",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3595665",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Emilia sonchifolia」",
+      "source": "Wikipedia (en): Emilia sonchifolia",
       "source_url": "https://en.wikipedia.org/wiki/Emilia_sonchifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1366377288,
       "text": "Emilia sonchifolia, also known as lilac tasselflower or cupid's shaving brush, is a tropical flowering species of tasselflower in the sunflower family. It is a branching, annual herb up to 40 cm tall. The leaves are lyrate-pinnatilobed, up to 10 cm (4 in) long, sometimes becoming purplish as they get old. One plant can produce several pink or purplish flower heads."
+    },
+    "es": {
+      "source": "Wikipedia (es): Emilia sonchifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Emilia_sonchifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 134265905,
+      "text": "Emilia sonchifolia es una especie de planta fanerógama de la familia Asteraceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Serralhinha",
+      "source_url": "https://pt.wikipedia.org/wiki/Serralhinha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73177418,
+      "text": "Serralhinha, também conhecida por flor pincel, é uma erva pertencente ao gênero Emilia (Cass.) Cass., família Asteraceae. Encontra-se distribuída em todo o Brasil."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tempuh wiyang",
+      "source_url": "https://id.wikipedia.org/wiki/Tempuh_wiyang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29910191,
+      "text": "Tempuh wiyang atau jonghe adalah tanaman obat dari famili Asteraceae yang teaah banyak digunakan sebagai campuran anti racun dan anti biotik pada industri farmasi. Tempuh wiyang banyak ditemukan di wilayah Asia Tenggara, tanaman ini juga telah disebarluaskan ke Amerika."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Emilia sonchifolia」の節「Toxicity」",
+        "source": "Wikipedia (en): Emilia sonchifolia § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Emilia_sonchifolia#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1366377288,
         "heading": "Toxicity",
         "text": "Emilia sonchifolia contains tumorigenic pyrrolizidine alkaloids, causing hepatotoxicity.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Emilia sonchifolia § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Emilia_sonchifolia#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 134265905,
+        "heading": "Toxicidad",
+        "text": "Emilia sonchifolia contiene alcaloides tumorígenos​",
         "truncated": false
       }
     }
@@ -114,7 +152,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -216,7 +254,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/203080-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -224,7 +262,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/203080-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000017704.webp",
@@ -237,6 +275,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

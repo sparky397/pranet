@@ -8,15 +8,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Flooded Gum"
-    ],
     "zh": [
-      "巨桉",
-      "大桉"
+      "大桉",
+      "巨桉"
     ],
     "ja": [
       "ユーカリプタス・グランディス"
@@ -29,13 +26,16 @@
     ],
     "lt": [
       "Didysis eukaliptas"
+    ],
+    "en": [
+      "Flooded Gum"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q482510",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q482510",
   "search_names": {
@@ -46,13 +46,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Eucalyptus grandis」",
+      "source": "Wikipedia (en): Eucalyptus grandis",
       "source_url": "https://en.wikipedia.org/wiki/Eucalyptus_grandis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1366225507,
       "text": "Eucalyptus grandis, commonly known as the flooded gum or rose gum, is a tall tree with smooth bark, rough at the base fibrous or flaky, grey to grey-brown. At maturity, it reaches 50 metres tall, though the largest specimens can exceed 80 metres tall. It is found on coastal areas and sub-coastal ranges from Newcastle in New South Wales Australia northwards to west of Daintree in Queensland, mainly on flat land and lower slopes, where it is the dominant tree of wet forests and on the margins of rainforests."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eucalyptus grandis",
+      "source_url": "https://es.wikipedia.org/wiki/Eucalyptus_grandis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173749993,
+      "text": "Eucalyptus grandis, comúnmente conocido como eucalipto rosado, es un árbol de corteza suave, áspero en la base fibrosa o escamosa, de color gris a gris-marrón. En la madurez, alcanza los 50 metros de altura, aunque los especímenes más altos pueden exceder los 80 metros. Habita naturalmente cerca de las costas y cordones montañosos subcosteros de Australia, entre el norte de Newcastle, en Nueva Gales del Sur, y el este de Daintree, en Queensland, principalmente en terrenos planos y pendientes más bajas, donde es el árbol dominante de los bosques húmedos, y en los márgenes de las selvas tropicales."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eucalyptus grandis",
+      "source_url": "https://fr.wikipedia.org/wiki/Eucalyptus_grandis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 218913404,
+      "text": "Eucalyptus grandis, dit gommier rose, est une espèce de plante à fleurs de la famille des Myrtaceae. C'est un arbre originaire d'Australie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eucalyptus grandis",
+      "source_url": "https://pt.wikipedia.org/wiki/Eucalyptus_grandis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73002168,
+      "text": "Eucalyptus grandis é uma espécie do gênero Eucalyptus, base para a indústria de celulose e papel do Brasil, o E. grandis é originário da Austrália, principalmente dos estados de New South Wales (NSW) e Queensland (QLD) e lá forma florestas de grande porte em associação com outras espécies florestais. É uma árvore de grande porte, atingindo facilmente mais de 60 m de altura e diâmetros acima de 1,2m. É muito semelhante ao E. saligna e forma híbridos com outras espécies de eucaliptos do mesmo Subgênero Symphyomyrtus com facilidade. No Brasil, foi plantado em mais de 2 milhões de hectares desde os anos 1900 principalmente nos estados de SP, MG, ES, PR, RS. Hoje ainda é plantado puro ou através de híbridos clonados de altíssima produtividade, em especial o E. urograndis, híbrido entre E. grandis e E. urophylla, que viabilizou a silvicultura industrial brasileira no cerrado e em solos mais pobres, arenosos e com estação seca. Sua madeira apresenta densidade baixa a média, apta à produção de celulose e também ideal para uso em mobiliário por ser de fácil trabalhabilidade."
     }
   },
   "edible": {
@@ -68,7 +95,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +126,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/592976-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -107,7 +134,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/592976-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001086255.webp",
@@ -120,6 +147,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

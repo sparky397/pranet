@@ -20,12 +20,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "id": [
+      "Buah makasar"
+    ],
     "zh": [
-      "鴉膽子",
       "鸦胆子",
+      "鴉膽子",
       "老鸦胆叶",
       "老鸦胆根"
     ],
@@ -49,18 +52,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q7691623",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q7691623",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Brucea javanica」",
+      "source": "Wikipedia (en): Brucea javanica",
       "source_url": "https://en.wikipedia.org/wiki/Brucea_javanica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1313914965,
       "text": "Brucea javanica, commonly known as the Macassar kernels, is a plant in the family Simaroubaceae. The specific epithet javanica is from Latin, meaning \"of Java\". Other common names in English include Java brucea and kosam."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Brucea javanica",
+      "source_url": "https://fr.wikipedia.org/wiki/Brucea_javanica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232872105,
+      "text": "Brucea javanica est une espèce d'arbustes de la famille des Simaroubaceae. Il est également connu sous le nom de Noyaux de Macassar. L'épithète spécifique javanica vient du latin et signifie « de Java ». Les autres noms en anglais sont Java brucea et kosam."
+    },
+    "id": {
+      "source": "Wikipedia (id): Buah makasar",
+      "source_url": "https://id.wikipedia.org/wiki/Buah_makasar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29957779,
+      "text": "Buah makasar disebut juga amber merica adalah perdu tegak menahun yang tumbuh meliar di hutan. Tumbuhan ini pahit, dan beracun. Semua bagian tumbuhan ini digunakan untuk obat, terutama untuk mencegah disentri, diare, dan malaria."
     }
   },
   "edible": {
@@ -75,7 +96,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -117,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/813610-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -125,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/813610-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000572705.webp",
@@ -138,6 +159,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

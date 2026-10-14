@@ -13,28 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "golden currant"
-    ],
-    "cs": [
-      "meruzalka zlatá"
-    ],
-    "et": [
-      "Kuldsõstar"
-    ],
-    "fi": [
-      "kultaherukka"
-    ],
-    "zh": [
-      "金茶藨子",
-      "香茶藨子"
-    ],
-    "sl": [
-      "zlati ribez"
-    ],
     "pl": [
       "Porzeczka złota"
     ],
@@ -43,6 +24,9 @@
     ],
     "se": [
       "Gollejieret"
+    ],
+    "fi": [
+      "kultaherukka"
     ],
     "uk": [
       "Смородина золотиста"
@@ -68,6 +52,13 @@
     "nl": [
       "gele ribes"
     ],
+    "cs": [
+      "meruzalka zlatá"
+    ],
+    "zh": [
+      "香茶藨子",
+      "金茶藨子"
+    ],
     "be": [
       "Парэчкі залацістыя"
     ],
@@ -86,18 +77,27 @@
     "nb": [
       "Gullrips"
     ],
+    "et": [
+      "Kuldsõstar"
+    ],
     "lv": [
       "zelta jāņogas"
     ],
+    "sl": [
+      "zlati ribez"
+    ],
     "mn": [
       "Алтан улаагана"
+    ],
+    "en": [
+      "golden currant"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q149376",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q149376",
   "search_names": {
@@ -109,23 +109,32 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ribes aureum」",
+      "source": "Wikipedia (en): Ribes aureum",
       "source_url": "https://en.wikipedia.org/wiki/Ribes_aureum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1301191618,
       "text": "Ribes aureum, known by the common names golden currant, clove currant, pruterberry and buffalo currant, is a species of flowering plant in the genus Ribes native to North America."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ribes aureum",
+      "source_url": "https://fr.wikipedia.org/wiki/Ribes_aureum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 204278968,
+      "text": "Le Groseillier doré ou Gadellier doré est une espèce d'arbustes de la famille des Grossulariacées, originaire d'Amérique du Nord."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Ribes aureum」の節「Cultivation」",
+        "source": "Wikipedia (en): Ribes aureum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Ribes_aureum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1301191618,
         "heading": "Cultivation",
         "text": "R. aureum is widely cultivated as an ornamental plant, in traditional, native plant, drought tolerant, and wildlife gardens, and natural landscaping projects. Named cultivars have been also introduced.\nAlthough the flowers are hermaphroditic, the yield is greatly benefited by cross-pollination.",
@@ -145,7 +154,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -214,7 +223,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/220870-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -222,7 +231,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/220870-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000404928.webp",
@@ -235,6 +244,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 395,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -25,64 +25,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Kirsch-Pflaume",
-      "Kirschpflaume"
-    ],
-    "en": [
-      "Cherry Plum",
-      "Myrobalan Plum",
-      "myrobalan"
-    ],
-    "cs": [
-      "slivoň myrobán",
-      "slivoň myrobalán"
-    ],
-    "fi": [
-      "Kirsikkaluumu",
-      "kirsikkaluumupuu"
-    ],
-    "fr": [
-      "Prunier myrobalan",
-      "myrobolan"
-    ],
-    "gl": [
-      "Ameixeira xaponesa",
-      "Abruñeiro dos xardíns"
-    ],
-    "tr": [
-      "Kiraz eriği"
-    ],
-    "uk": [
-      "Слива розчепірена",
-      "Алича"
-    ],
-    "nl": [
-      "Kerspruim"
-    ],
-    "eu": [
-      "gerezi-aranondo"
-    ],
-    "zh": [
-      "樱桃李",
-      "中亚李"
-    ],
-    "ast": [
-      "guindal-cerezal"
-    ],
-    "ar": [
-      "البُرقوق الكرزي",
-      "الخوخ الكرزي",
-      "برقوق كرزي"
-    ],
-    "sl": [
-      "mirobalana"
-    ],
     "pam": [
       "Cherry plum"
+    ],
+    "eu": [
+      "Gerezi-aranondo"
     ],
     "pl": [
       "śliwa wiśniowa"
@@ -98,6 +48,10 @@
     ],
     "hu": [
       "cseresznyeszilva"
+    ],
+    "de": [
+      "Kirschpflaume",
+      "Kirsch-Pflaume"
     ],
     "kbd": [
       "Пхъэгулъ"
@@ -120,8 +74,19 @@
     "sv": [
       "Körsbärsplommon"
     ],
+    "ar": [
+      "برقوق كرزي",
+      "البُرقوق الكرزي",
+      "الخوخ الكرزي"
+    ],
+    "nl": [
+      "Kerspruim"
+    ],
     "ru": [
       "Алыча"
+    ],
+    "tr": [
+      "Kiraz eriği"
     ],
     "ro": [
       "Corcoduș"
@@ -129,8 +94,20 @@
     "ca": [
       "prunera de fulla vermella"
     ],
+    "fi": [
+      "kirsikkaluumu",
+      "kirsikkaluumupuu"
+    ],
+    "uk": [
+      "Алича",
+      "Слива розчепірена"
+    ],
     "os": [
       "Æхсынцъы"
+    ],
+    "cs": [
+      "slivoň myrobalán",
+      "slivoň myrobán"
     ],
     "bg": [
       "джанка"
@@ -152,6 +129,14 @@
     ],
     "he": [
       "שזיף דובדבני"
+    ],
+    "zh": [
+      "樱桃李",
+      "中亚李"
+    ],
+    "gl": [
+      "Abruñeiro dos xardíns",
+      "Ameixeira xaponesa"
     ],
     "ga": [
       "crann plumaí silíneacha"
@@ -198,6 +183,9 @@
     "xmf": [
       "ჸომური"
     ],
+    "sl": [
+      "mirobalana"
+    ],
     "wuu": [
       "樱桃李"
     ],
@@ -227,13 +215,25 @@
     ],
     "shn": [
       "မၢၵ်ႇၼ"
+    ],
+    "en": [
+      "Cherry Plum",
+      "Myrobalan Plum",
+      "myrobalan"
+    ],
+    "fr": [
+      "Prunier myrobalan",
+      "myrobolan"
+    ],
+    "ast": [
+      "guindal-cerezal"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q146951",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q146951",
   "search_names": {
@@ -244,23 +244,59 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Prunus cerasifera」",
+      "source": "Wikipedia (en): Prunus cerasifera",
       "source_url": "https://en.wikipedia.org/wiki/Prunus_cerasifera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1327184230,
       "text": "Prunus cerasifera is a species of plum known by the common names cherry plum and myrobalan plum. Native to Eurasia and naturalized elsewhere, P. cerasifera is believed to be one of the parents of the cultivated plum."
+    },
+    "es": {
+      "source": "Wikipedia (es): Prunus cerasifera",
+      "source_url": "https://es.wikipedia.org/wiki/Prunus_cerasifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172837694,
+      "text": "El ciruelo mirobolano, ciruelo-cerezo o ciruelo de jardín, es una especie botánica del subgénero Prunus originaria del centro y este de Europa, y del centro y sudoeste de Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Prunus cerasifera",
+      "source_url": "https://fr.wikipedia.org/wiki/Prunus_cerasifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240150410,
+      "text": "Le Myrobolan ou Prunier-cerise, parfois appelé Prunier myrobolan ou Myrobalan, est une espèce de plantes à fleurs de la famille des Rosaceae. C'est un arbre fruitier originaire du Sud-Est de l'Europe et du Sud-Ouest de l'Asie et qui fut introduit en Europe occidentale, comme dans de nombreux autres pays où il s’est naturalisé."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Prunus cerasifera",
+      "source_url": "https://pt.wikipedia.org/wiki/Prunus_cerasifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69497066,
+      "text": "Prunus cerasifera, prunus myrobolana, comummente conhecida como abrunheiro-de-jardim, é uma espécie do género Prunus, a que pertencem as ameixeiras, cerejeiras, pessegueiros, damasqueiros e amendoeiras. É uma árvore originária da Ásia Central até aos Balcãs que pode atingir oito metros de altura. Produz frutos avermelhados, com 2-3 cm de diâmetro."
+    },
+    "id": {
+      "source": "Wikipedia (id): Prunus cerasifera",
+      "source_url": "https://id.wikipedia.org/wiki/Prunus_cerasifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28687625,
+      "text": "Prunus cerasifera adalah spesies prem yang dikenal dengan nama umum prem ceri dan prem myrobalan. Ia merupakan spesies tumbuhan berbentuk pohon dari famili Rosaceae. Tumbuhan ini berasal dari bioma beriklim sedang, dengan rentang sebaran mulai dari Eropa tenggara hingga Asia Tengah dan Himalaya. Nama ilmiah Prunus cerasifera pertama kali dipublikasikan oleh botanis Jakob Friedrich Ehrhart pada tahun 1785. Tumbuhan ini telah dinaturalisasi di tempat-tempat lain, P. cerasifera diyakini sebagai salah satu induk prem budi daya."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Prunus cerasifera」の節「Cultivation」",
+        "source": "Wikipedia (en): Prunus cerasifera § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Prunus_cerasifera#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1327184230,
         "heading": "Cultivation",
         "text": "The cherry plum is a popular ornamental tree for garden and landscaping use, grown for its very early flowering. Numerous cultivars have been developed, many of them selected for purple foliage, such as P. cerasifera var pissardii (Carrière) L.H. Bailey (P. 'Atropurpurea'). The cultivar 'Nigra' with black foliage and pink flowers, has gained the Royal Horticultural Society's Award of Garden Merit. Prunus × cistena (purple leaf sand cherry), a hybrid of Prunus cerasifera and Prunus pumila, the sand cherry, also won the Award of Garden Merit. These purple-foliage forms (often called 'purple-leaf plum'), also have dark purple fruit, which make an attractive, intensely coloured jam. They can have white or pink flowers. The cultivar 'Thundercloud' has bright red foliage which darkens purple. Others, such as 'Lindsayae', have green foliage. Some kinds of purple-leaf plums are used for bonsai and other forms of living sculpture. Cultivated cherry plums can have fruits, foliage, and flowers in any of several colours.",
@@ -280,7 +316,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -356,7 +392,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/729568-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -364,7 +400,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/729568-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001007955.webp",
@@ -377,6 +413,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

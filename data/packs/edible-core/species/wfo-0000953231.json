@@ -24,12 +24,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "热带铁苋菜",
-      "印度铁苋"
+    "id": [
+      "Kucing galak"
     ],
     "hi": [
       "खोकली"
@@ -58,6 +57,10 @@
     "dv": [
       "ވަށްފުފުޅި"
     ],
+    "zh": [
+      "印度铁苋",
+      "热带铁苋菜"
+    ],
     "bn": [
       "মুক্তাঝুরি"
     ],
@@ -75,9 +78,6 @@
     ],
     "th": [
       "กัญชาแมว"
-    ],
-    "id": [
-      "Kucing galak"
     ],
     "jv": [
       "Kucing galak (tetuwuhan)"
@@ -99,18 +99,54 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3339634",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3339634",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Acalypha indica」",
+      "source": "Wikipedia (en): Acalypha indica",
       "source_url": "https://en.wikipedia.org/wiki/Acalypha_indica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306188327,
       "text": "Acalypha indica is an herbaceous annual that has catkin-like inflorescences with cup-shaped involucres surrounding the minute flowers. It is mainly known for its root being attractive to domestic cats, and for its various medicinal uses. It occurs throughout the Tropics."
+    },
+    "es": {
+      "source": "Wikipedia (es): Acalypha indica",
+      "source_url": "https://es.wikipedia.org/wiki/Acalypha_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582822,
+      "text": "El cupamení de la India o hierba del golpe, es una especie de planta perteneciente a la familia Euphorbiaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Acalypha indica",
+      "source_url": "https://fr.wikipedia.org/wiki/Acalypha_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234893058,
+      "text": "Acalypha indica est une espèce de plante à fleurs de la famille des Euphorbiaceae. C'est une espèce herbacée principalement connue pour sa racine qui attire les chats domestiques et pour ses diverses utilisations médicinales. Elle est présente dans toutes les régions tropicales."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Acalypha indica",
+      "source_url": "https://pt.wikipedia.org/wiki/Acalypha_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 60747893,
+      "text": "Acalypha indica é uma espécie de flor do gênero Acalypha, pertencente à família Euphorbiaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kucing galak",
+      "source_url": "https://id.wikipedia.org/wiki/Kucing_galak",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29672764,
+      "text": "Kucing galak \nadalah spesies tumbuhan liar yang berasal dari Genus Acalypha. Tanaman ini juga dinamakan sebagai tanaman kucing-kucingan, anting-anting, dan akar kucing. Tanaman ini sangat disukai oleh para kucing, terutama di bagian akarnya. Di beberapa tempat seperti Kota Salatiga, Jawa Tengah tumbuhan ini disebut sebagai bayam kucing dan dikonsumsi sebagai makanan."
     }
   },
   "edible": {
@@ -125,7 +161,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -205,7 +241,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/337497-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -213,7 +249,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/337497-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000953231.webp",
@@ -226,6 +262,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

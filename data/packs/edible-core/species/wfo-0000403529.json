@@ -10,54 +10,45 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Fluß-Ampfer",
-      "Fluss-Ampfer",
-      "Riesenampfer"
-    ],
-    "ar": [
-      "حماض نهري"
-    ],
-    "en": [
-      "Water Dock"
-    ],
-    "et": [
-      "Jõgioblikas"
-    ],
     "fr": [
       "Patience d'eau",
       "Patience aquatique",
       "patience des eaux"
     ],
-    "hsb": [
-      "Wysoki zdźer"
-    ],
-    "nl": [
-      "waterzuring"
-    ],
     "pl": [
       "Szczaw lancetowaty"
     ],
-    "sl": [
-      "konjska kislica"
-    ],
-    "sv": [
-      "Vattenskräppa"
-    ],
-    "tr": [
-      "Irmak labadası"
-    ],
-    "cs": [
-      "šťovík koňský"
+    "ca": [
+      "paradella de canyissar"
     ],
     "fi": [
       "isohierakka"
     ],
-    "ca": [
-      "paradella de canyissar"
+    "et": [
+      "Jõgioblikas"
+    ],
+    "de": [
+      "Fluss-Ampfer",
+      "Fluß-Ampfer",
+      "Riesenampfer"
+    ],
+    "sl": [
+      "konjska kislica"
+    ],
+    "hsb": [
+      "Wysoki zdźer"
+    ],
+    "nl": [
+      "Waterzuring"
+    ],
+    "ar": [
+      "حماض نهري"
+    ],
+    "sv": [
+      "Vattenskräppa"
     ],
     "gv": [
       "Cabbag ny jeeiginyn"
@@ -74,6 +65,9 @@
     "ga": [
       "copóg uisce"
     ],
+    "cs": [
+      "šťovík koňský"
+    ],
     "arz": [
       "حماض نهرى"
     ],
@@ -85,24 +79,48 @@
     ],
     "lt": [
       "Ilgalapė rūgštynė"
+    ],
+    "en": [
+      "Water Dock"
+    ],
+    "tr": [
+      "Irmak labadası"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158188",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158188",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rumex hydrolapathum」",
+      "source": "Wikipedia (en): Rumex hydrolapathum",
       "source_url": "https://en.wikipedia.org/wiki/Rumex_hydrolapathum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368917879,
       "text": "Rumex hydrolapathum, the great water dock, water dock, or giant water dock, is a species of perennial herbaceous plants in the genus Rumex native to fens and freshwater banks of Europe and Western Asia. It is the tallest species in the genus, with flowering stems attaining a height of up to 2 m. It is one of the small number of decaploid organisms, containing two hundred individual chromosomes."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rumex hydrolapathum",
+      "source_url": "https://es.wikipedia.org/wiki/Rumex_hydrolapathum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 128437855,
+      "text": "Rumex hydrolapathum Huds. es una especie de plantas del género Rumex, familia de las poligonáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Patience d'eau",
+      "source_url": "https://fr.wikipedia.org/wiki/Patience_d'eau",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216722735,
+      "text": "La Patience d'eau ou Patience aquatique est une plante de la famille des Polygonacées."
     }
   },
   "edible": {
@@ -115,7 +133,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -161,7 +179,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/697202-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or helophyte",
@@ -169,7 +187,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/697202-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000403529.webp",
@@ -182,6 +200,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 241,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -35,32 +35,29 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オヒゲシバ"
     ],
-    "cy": [
-      "glaswellt-Rhodes Affrica"
-    ],
-    "en": [
-      "feather fingergrass"
-    ],
     "zh": [
       "虎尾草"
+    ],
+    "sv": [
+      "Dunkvastgräs"
+    ],
+    "cy": [
+      "Glaswellt-Rhodes Affrica"
+    ],
+    "mn": [
+      "Саваан булган сүүл"
     ],
     "ko": [
       "나도바랭이"
     ],
     "fi": [
       "untuvaviuhkaheinä"
-    ],
-    "sv": [
-      "Dunkvastgräs"
-    ],
-    "mn": [
-      "Саваан булган сүүл"
     ],
     "af": [
       "Witpluim-chloris"
@@ -70,13 +67,16 @@
     ],
     "fa": [
       "علف پنجه سر"
+    ],
+    "en": [
+      "feather fingergrass"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5102965",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5102965",
   "search_names": {
@@ -88,22 +88,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オヒゲシバ」",
+      "source": "Wikipedia (ja): オヒゲシバ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%92%E3%82%B2%E3%82%B7%E3%83%90",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106352352,
       "text": "オヒゲシバ Chloris virgata Swartz, 1791. はイネ科の植物の1つ。花茎の先端から放射状に出る太い穂が一束に纏まる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Chloris virgata」",
+      "source": "Wikipedia (en): Chloris virgata",
       "source_url": "https://en.wikipedia.org/wiki/Chloris_virgata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1299970354,
       "text": "Chloris virgata is a species of grass known by the common names feather fingergrass feathery Rhodes-grass and feather windmill grass."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Chloris virgata",
+      "source_url": "https://pt.wikipedia.org/wiki/Chloris_virgata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 40532900,
+      "text": "Chloris virgata é uma espécie de planta com flor pertencente à família Poaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Chloris virgata",
+      "source_url": "https://id.wikipedia.org/wiki/Chloris_virgata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29430917,
+      "text": "Chloris virgata adalah spesies rumput yang dikenal dengan nama umum feather fingergrass feathery Rhodes-grass dan feather windmill grass."
     }
   },
   "edible": {
@@ -117,7 +135,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -285,7 +303,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/396063-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -293,7 +311,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/396063-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000859723.webp",
@@ -306,6 +324,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

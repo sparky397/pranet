@@ -28,38 +28,25 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヤブヘビイチゴ"
     ],
-    "de": [
-      "Scheinerdbeer-Fingerkraut",
-      "Indische Scheinerdbeere",
-      "Scheinerdbeere"
-    ],
-    "nl": [
-      "Schijnaardbei"
-    ],
-    "fr": [
-      "fraisier des indes",
-      "Duchesnea indica"
-    ],
-    "en": [
-      "yellow-flowered strawberry"
-    ],
-    "zh": [
-      "蛇莓"
-    ],
-    "sl": [
-      "indijski jagodnjak"
+    "id": [
+      "Arbenan"
     ],
     "ru": [
       "Лапчатка индийская"
     ],
     "ko": [
       "뱀딸기"
+    ],
+    "de": [
+      "Scheinerdbeere",
+      "Scheinerdbeer-Fingerkraut",
+      "Indische Scheinerdbeere"
     ],
     "ka": [
       "გველის მარწყვი"
@@ -69,6 +56,16 @@
     ],
     "hsb": [
       "Indiska pozdatna truskalca"
+    ],
+    "nl": [
+      "schijnaardbei"
+    ],
+    "fr": [
+      "Duchesnea indica",
+      "fraisier des indes"
+    ],
+    "zh": [
+      "蛇莓"
     ],
     "cs": [
       "jahodka indická"
@@ -100,6 +97,9 @@
     "eo": [
       "Dukesneo"
     ],
+    "sl": [
+      "indijski jagodnjak"
+    ],
     "hr": [
       "Indijska jagoda"
     ],
@@ -127,21 +127,21 @@
     "ar": [
       "فراولة هندية"
     ],
-    "id": [
-      "Arbenan"
-    ],
     "yue": [
       "蛇藨草"
     ],
     "el": [
       "Ψευδοφράουλα"
+    ],
+    "en": [
+      "yellow-flowered strawberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q162878",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q162878",
   "search_names": {
@@ -154,22 +154,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヤブヘビイチゴ」",
+      "source": "Wikipedia (ja): ヤブヘビイチゴ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%96%E3%83%98%E3%83%93%E3%82%A4%E3%83%81%E3%82%B4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109078848,
       "text": "ヤブヘビイチゴ は、バラ科キジムシロ属の多年草。以前は、ヘビイチゴと共にヘビイチゴ属（Duchesnea）に分類され、Duchesnea indica の学名が与えられていた。種小名の indica は、ラテン語で「インドの」という意味である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Potentilla indica」",
+      "source": "Wikipedia (en): Potentilla indica",
       "source_url": "https://en.wikipedia.org/wiki/Potentilla_indica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374709601,
       "text": "Potentilla indica, known commonly as false strawberry, mock strawberry, or Indian strawberry, is a flowering plant in the family Rosaceae, native to West Asia to India, East Asia, and Southeast Asia. It has ternate foliage and an aggregate accessory fruit, similar to true strawberries of the genus Fragaria. Unlike the white or slightly pink flowers of true strawberries, Potentilla indica has yellow flowers, as do many other Potentilla species. It is native to eastern and southern Asia, but has naturalized in many regions worldwide. P. indica is an introduced species in the United States and Canada, often noticed as a weed on grass lawns."
+    },
+    "es": {
+      "source": "Wikipedia (es): Potentilla indica",
+      "source_url": "https://es.wikipedia.org/wiki/Potentilla_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175252513,
+      "text": "La falsa fresa o fresa india es una planta herbácea perenne de la familia Rosaceae que aunque el follaje y la fruta son similares, no es una verdadera fresa y se puede distinguir perfectamente por sus flores amarillas en comparación con la verdadera fresa que las tiene blancas o rosadas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Potentilla indica",
+      "source_url": "https://fr.wikipedia.org/wiki/Potentilla_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236933983,
+      "text": "Potentilla indica, le Fraisier des Indes, Fraisier de Duchesne ou Fraisier à fleurs jaunes, est une espèce de plantes à fleurs de la famille des Rosaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Potentilla indica",
+      "source_url": "https://pt.wikipedia.org/wiki/Potentilla_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73064721,
+      "text": "Morango Indiano, também conhecido por falso morango (Potentilla indica), é uma espécie de angiosperma da família Rosaceae. Possui folhagem e um fruto acessório semelhante ao de um morango verdadeiro. Suas flores são amarelas, ao contrário das flores brancas ou ligeiramente rosadas dos verdadeiros morangos. É nativa do leste e sul da Ásia, mas foi introduzida em muitas outras áreas como uma planta medicinal e ornamental, sendo posteriormente naturalizada em diversas regiões do mundo. De acordo com o FDA, \"Os morangos indianos, embora possivelmente menos deliciosos do que morangos silvestres, não produzem toxicidade quando ingeridos\"."
+    },
+    "id": {
+      "source": "Wikipedia (id): Arbenan",
+      "source_url": "https://id.wikipedia.org/wiki/Arbenan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29984192,
+      "text": "Potentilla indica atau arbenan adalah salah satu spesies tumbuhan berbunga dalam keluarga Rosaceae. Ia memiliki dedaunan dan buah aksesori agregat yang mirip dengan stroberi. Bunganya berwarna kuning, tidak seperti bunga stroberi yang berwarna putih atau agak merah muda. Tanaman ini berasal dari Asia bagian timur dan selatan, tetapi telah diperkenalkan ke banyak wilayah lain sebagai tanaman obat dan tanaman hias, kemudian dinaturalisasikan di banyak wilayah di seluruh dunia."
     }
   },
   "edible": {
@@ -181,7 +217,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -303,7 +339,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/728289-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -311,7 +347,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/728289-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000984000.webp",
@@ -324,6 +360,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

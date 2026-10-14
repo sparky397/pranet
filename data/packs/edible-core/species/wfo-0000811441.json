@@ -11,7 +11,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -20,11 +20,14 @@
     "en": [
       "American chestnut"
     ],
-    "ru": [
-      "каштан американский"
-    ],
     "fr": [
       "Châtaignier d'Amérique"
+    ],
+    "id": [
+      "Kastanya amerika"
+    ],
+    "ru": [
+      "каштан американский"
     ],
     "de": [
       "Amerikanische Kastanie"
@@ -79,27 +82,54 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q468698",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q468698",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アメリカグリ」",
+      "source": "Wikipedia (ja): アメリカグリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%B0%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107256800,
       "text": "アメリカグリ は、アメリカ合衆国東海岸原産のブナ科の落葉高木。高さ最大 30m、幹の直径 3mに達する。果実は食用となり、材は堅いため昔から先住民が用いてきた。\n病害虫に弱いため、近年はクリ胴枯病によって危機に瀕している。"
     },
     "en": {
-      "source": "Wikipedia 英語版「American chestnut」",
+      "source": "Wikipedia (en): American chestnut",
       "source_url": "https://en.wikipedia.org/wiki/American_chestnut",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374800381,
       "text": "The American chestnut is a large, fast-growing deciduous tree of the beech family native to eastern North America. As is true of all species in the genus Castanea, the American chestnut produces burred fruit with edible nuts. The American chestnut was once common in the Appalachian Mountain range and was a dominant species in the oak-chestnut forest region of its central and southern range."
+    },
+    "es": {
+      "source": "Wikipedia (es): Castanea dentata",
+      "source_url": "https://es.wikipedia.org/wiki/Castanea_dentata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174246164,
+      "text": "Castanea dentata, el castaño estadounidense, es un árbol del género Castanea en la familia Fagaceae. Actualmente se encuentre en estado crítico de conservación."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Châtaignier d'Amérique",
+      "source_url": "https://fr.wikipedia.org/wiki/Ch%C3%A2taignier_d'Am%C3%A9rique",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240173522,
+      "text": "Le châtaignier d'Amérique (Castanea dentata) est une espèce de châtaignier de la famille des Fagaceae. Elle était particulièrement répandue dans les forêts de l'Est des États-Unis et du Sud-Est du Canada avant d'être ravagée par une maladie en provenance d'Asie."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kastanya amerika",
+      "source_url": "https://id.wikipedia.org/wiki/Kastanya_amerika",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29991054,
+      "text": "Kastanya amerika adalah pohon gugur besar yang tumbuh cepat dan termasuk dalam famili bewuk, asli dari Amerika Utara bagian timur. Seperti semua anggota genus Castanea, pohon ini menghasilkan buah berduri yang berisi kacang yang bisa dimakan. Dahulu, kastanya amerika banyak ditemukan di Pegunungan Appalachia dan menjadi spesies dominan di hutan ek-kastanya di wilayah tengah hingga selatan."
     }
   },
   "edible": {
@@ -113,7 +143,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -151,7 +181,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/295320-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -159,7 +189,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/295320-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000811441.webp",
@@ -172,6 +202,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 280,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

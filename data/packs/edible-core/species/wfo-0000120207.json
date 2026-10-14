@@ -13,28 +13,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "en": [
       "Elecampane",
       "elecampane inula"
     ],
-    "de": [
-      "Echter Alant"
-    ],
-    "nl": [
-      "Griekse alant",
-      "Elecampane"
-    ],
-    "cs": [
-      "oman pravý"
-    ],
-    "fi": [
-      "isohirvenjuuri"
-    ],
-    "zh": [
-      "土木香"
+    "fr": [
+      "Grande Aunée"
     ],
     "ky": [
       "Бийик карындыз же сарындыз"
@@ -42,8 +29,8 @@
     "pl": [
       "oman wielki"
     ],
-    "fr": [
-      "Grande Aunée"
+    "de": [
+      "Echter Alant"
     ],
     "ba": [
       "Андыҙ"
@@ -66,8 +53,14 @@
     "ca": [
       "herba de l'ala"
     ],
+    "fi": [
+      "isohirvenjuuri"
+    ],
     "sl": [
       "Veliki oman"
+    ],
+    "cs": [
+      "oman pravý"
     ],
     "bg": [
       "бял оман"
@@ -86,6 +79,9 @@
     ],
     "kk": [
       "Биік андыз"
+    ],
+    "zh": [
+      "土木香"
     ],
     "hu": [
       "örménygyökér"
@@ -110,6 +106,10 @@
     ],
     "cy": [
       "Marchalan"
+    ],
+    "nl": [
+      "Elecampane",
+      "Griekse alant"
     ],
     "et": [
       "Aedvaak"
@@ -146,7 +146,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q697416",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q697416",
   "search_names": {
@@ -158,13 +158,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Elecampane」",
+      "source": "Wikipedia (en): Elecampane",
       "source_url": "https://en.wikipedia.org/wiki/Elecampane",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1379098911,
       "text": "Elecampane, pronounced and also called horse-heal or elfdock, is a widespread plant species in the sunflower family Asteraceae. It is native to Eurasia from Spain to Xinjiang province in western China, and naturalized in parts of North America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Inula helenium",
+      "source_url": "https://es.wikipedia.org/wiki/Inula_helenium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581929,
+      "text": "La elecampana, énula o helenio es una planta compuesta perenne común en muchos lugares de Gran Bretaña, y presente por todo el sur y el centro de Europa, así como en Asia hasta incluso en el Himalaya."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Grande Aunée",
+      "source_url": "https://fr.wikipedia.org/wiki/Grande_Aun%C3%A9e",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235071445,
+      "text": "La Grande Aunée est une espèce de plantes à fleurs appartenant au genre Inula et à la famille des Asteraceae, d'origine asiatique et naturalisée depuis longtemps en Europe, où on l'a utilisée pour ses vertus médicinales."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Inula helenium",
+      "source_url": "https://pt.wikipedia.org/wiki/Inula_helenium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68640032,
+      "text": "Inula helenium L., conhecida pelos nomes comuns de helénio e erva-campeira, é uma espécie de plantas vivazes pertencente à família das Asteraceae (compostas) com distribuição natural no oeste da Eurásia, desde a Grã-Bretanha, onde é de ocorrência comum, estendendo-se pelo centro e sul da Europa e Oriente Médio até aos Himalaias. A raiz, de sabor amargo, é muito aromática, sendo utilizada em medicina tradicional, ervanária e confecção de bebidas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Inula helenium",
+      "source_url": "https://id.wikipedia.org/wiki/Inula_helenium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29704046,
+      "text": "Inula helenium adalah spesies tumbuhan yang tersebar luas di keluarga bunga matahari Asteraceae."
     }
   },
   "edible": {
@@ -178,7 +214,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -267,7 +303,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/225914-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -275,7 +311,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/225914-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000120207.webp",
@@ -288,6 +324,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 257,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

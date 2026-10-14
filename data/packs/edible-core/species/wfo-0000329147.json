@@ -18,29 +18,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Chilean guava",
-      "strawberry myrtle"
-    ],
-    "de": [
-      "Chilenische Guave"
-    ],
     "fr": [
       "Goyavier du Chili"
     ],
     "ru": [
-      "Уньи чилийский",
-      "Угни Молины"
+      "Угни Молины",
+      "Уньи чилийский"
     ],
     "uk": [
       "Угні"
     ],
-    "zh": [
-      "莓香果",
-      "小红果"
+    "de": [
+      "Chilenische Guave"
     ],
     "ko": [
       "우니"
@@ -50,24 +42,76 @@
     ],
     "ja": [
       "チリグアバ"
+    ],
+    "en": [
+      "Chilean guava",
+      "strawberry myrtle"
+    ],
+    "zh": [
+      "莓香果",
+      "小红果"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1072849",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1072849",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ugni molinae」",
+      "source": "Wikipedia (en): Ugni molinae",
       "source_url": "https://en.wikipedia.org/wiki/Ugni_molinae",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1358027732,
       "text": "Ugni molinae, commonly known as Chilean guava berry, or strawberry myrtle, is a shrub native to Chile and adjacent regions of southern Argentina. The local Spanish name is murta, and the Mapuche Native American name is \"uñi\". It is in the same botanical family as the guava, in Myrtaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ugni molinae",
+      "source_url": "https://es.wikipedia.org/wiki/Ugni_molinae",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172198283,
+      "text": "Ugni molinae, conocida como murta, murtilla, murtina y mutilla, es un arbusto de la familia de las mirtáceas, nativa del centro y sur de Chile, y de zonas adyacentes del sudoeste de Argentina. Se cultiva por sus frutos, de agradable sabor y aroma, que se emplean en gastronomía."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Goyavier du Chili",
+      "source_url": "https://fr.wikipedia.org/wiki/Goyavier_du_Chili",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234326956,
+      "text": "Le goyavier du Chili est une espèce de plantes à fleurs de la famille des myrtacées. C'est un arbuste fruitier, endémique et natif du Chili. Son nom vernaculaire espagnol est murta ou murtilla. Le fruit au goût de fraise des bois est utilisé pour la production de l'arôme de fraise."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Ugni molinae § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Ugni_molinae#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 172198283,
+        "heading": "Cultivo",
+        "text": "Requiere suelos sin exceso de humedad y sol constante. Se adapta a la mayoría de los suelos, y es resistente a las sequías y a los vientos. Tolera bien el frío, aunque no las heladas fuera de temporada.\nEl período de recolección de frutos depende de la zona, y es más tardío cuanto más fresca sea la región de cultivo. \nActualmente existen variedades seleccionadas que presentan un mayor tamaño de sus bayas, en comparación a los ejemplares silvestres.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Goyavier du Chili § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Goyavier_du_Chili#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 234326956,
+        "heading": "Culture",
+        "text": "L'espèce est rustique jusque -5 °C (Zone USDA 8). Elle préfère les sols acides.\nLe goyavier du Chili est sensible au thrips.\nIl supporte bien la taille et peut être formé en haie.\nIl se multiplie assez facilement par semis (pré-tremper les graines au moins 24 heures dans de l'eau), bouture à talon semi-aoûté ou marcotte.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -81,7 +125,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -97,7 +141,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/602598-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -105,7 +149,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/602598-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000329147.webp",
@@ -118,6 +162,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -10,15 +10,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "mangrove"
-    ],
-    "zh": [
-      "红树",
-      "紅樹"
+    "id": [
+      "Bakau minyak"
     ],
     "eo": [
       "Stretfolia rizoforo"
@@ -41,6 +37,10 @@
     "bn": [
       "গর্জন"
     ],
+    "zh": [
+      "紅樹",
+      "红树"
+    ],
     "mnw": [
       "ကင်တၞးဍောတ်၊ တၞံ"
     ],
@@ -53,29 +53,47 @@
     "ja": [
       "フタバナヒルギ"
     ],
-    "id": [
-      "Bakau minyak"
-    ],
     "ar": [
       "قندل متقابل الذرى"
+    ],
+    "en": [
+      "mangrove"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q920906",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q920906",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rhizophora apiculata」",
+      "source": "Wikipedia (en): Rhizophora apiculata",
       "source_url": "https://en.wikipedia.org/wiki/Rhizophora_apiculata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360732369,
       "text": "The tall-stilt mangrove is a species of flowering plant distributed throughout Southeast Asia and the western Pacific islands."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rhizophora apiculata",
+      "source_url": "https://es.wikipedia.org/wiki/Rhizophora_apiculata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 169826851,
+      "text": "Rhizophora apiculata es una especie de planta fanerógama perteneciente a la familia Rhizophoraceae. Se encuentra en Australia, Guam, India, Indonesia, Malasia, Micronesia, Nueva Caledonia, Papua Nueva Guinea, las Filipinas, Singapur, las Islas Solomon, Sri Lanka, Taiwán, las Maldivas, Tailandia, Vanuatu, y Vietnam."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bakau minyak",
+      "source_url": "https://id.wikipedia.org/wiki/Bakau_minyak",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29706501,
+      "text": "Bakau minyak atau bakau lelaki adalah sejenis pohon bakau yang dalam famili Rhizophoraceae. R. apiculata tersebar di seluruh Australia, Guam, India, Indonesia, Malaysia, Mikronesia, Kaledonia Baru, Papua Nugini, Filipina, Singapura, Kepulauan Solomon, Sri Lanka, Taiwan, Maladewa, Thailand, Vanuatu, dan Vietnam."
     }
   },
   "edible": {
@@ -92,7 +110,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -130,7 +148,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/719801-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -138,7 +156,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/719801-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001131596.webp",
@@ -151,6 +169,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 225,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

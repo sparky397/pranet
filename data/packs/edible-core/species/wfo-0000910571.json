@@ -16,19 +16,16 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ロブスタコーヒーノキ"
     ],
-    "en": [
-      "robusta coffee"
-    ],
     "zh": [
+      "中果咖啡",
       "中粒咖啡",
-      "咖啡",
-      "中果咖啡"
+      "咖啡"
     ],
     "sk": [
       "Kávovník robusta"
@@ -104,13 +101,16 @@
     ],
     "ko": [
       "로부스타 커피"
+    ],
+    "en": [
+      "robusta coffee"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q47532",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q47532",
   "search_names": {
@@ -120,22 +120,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ロブスタコーヒーノキ」",
+      "source": "Wikipedia (ja): ロブスタコーヒーノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%96%E3%82%B9%E3%82%BF%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109917683,
       "text": "ロブスタコーヒーノキ は、リンドウ目アカネ科に分類される被子植物で、ビクトリア湖から西アフリカ原産のコーヒーノキの1種である。コーヒー豆の品種としてはロブスタ種、あるいはカネフォラ種と呼ばれることもある（厳密に言えばロブスタ種は、カネフォラ種の亜種）。主に栽培されているロブスタコーヒーノキはロブスタ、ウガンダという2種であるが、ブラジルのエスピリトサント州ではコニロンという新種も栽培されている。アラビカコーヒーノキやリベリカコーヒーノキとともにコーヒー3大原種の1つに数えられる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Coffea canephora」",
+      "source": "Wikipedia (en): Coffea canephora",
       "source_url": "https://en.wikipedia.org/wiki/Coffea_canephora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378382669,
       "text": "Coffea canephora is a species of coffee plant that has its origins in central and western sub-Saharan Africa. It is a species of flowering plant in the family Rubiaceae. Though widely known as Coffea robusta, the plant is scientifically identified as Coffea canephora, which has two main varieties, robusta and nganda."
+    },
+    "es": {
+      "source": "Wikipedia (es): Coffea canephora",
+      "source_url": "https://es.wikipedia.org/wiki/Coffea_canephora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173970201,
+      "text": "Coffea canephora es una especie de café originaria del África Occidental. Crece sobre todo en África y en Brasil, donde se conoce con el nombre de Conillon. También se halla en el sureste asiático, donde los colonialistas franceses introdujeron el cultivo en Vietnam a fines del siglo XIX, y de allí pasó a Brasil. Es más fácil de cuidar que Coffea arabica y más barato de producir teniendo un precio de mercado internacional por debajo del valor del dólar. Mientras los granos de arabica son considerados superiores, robusta suele limitarse a grados menores de baja calidad. Se usa muy comúnmente para elaborar café instantáneo, y en mezclas para espresso de bajas calidades para abaratar costos de torrefacción. La especie robusta tiene entre el doble y el triple de cafeína que el café tipo arabica, así como un elevado porcentaje de materiales pesados. Aproximadamente un tercio del café del mundo es de la variedad robusta."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Coffea canephora",
+      "source_url": "https://fr.wikipedia.org/wiki/Coffea_canephora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239993044,
+      "text": "Coffea canephora est un arbuste de la famille des Rubiacées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Coffea canephora",
+      "source_url": "https://pt.wikipedia.org/wiki/Coffea_canephora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64941216,
+      "text": "Coffea canephora é uma espécie de café originária da África Ocidental. É cultivado principalmente na África e no Brasil onde é chamado às vezes de Conillon que é corruptela da palavra Kouiliou. É também cultivado no Sudeste asiático onde os colonizadores franceses o introduziram no final do séc. XIX. Nos últimos anos o Vietname, que produz apenas robusta, ultrapassou o Brasil, a Índia e a Indonésia como o maior exportador do mundo. Aproximadamente um terço do café produzido no mundo é robusta."
     }
   },
   "edible": {
@@ -151,7 +178,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -200,7 +227,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/747068-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -208,7 +235,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/747068-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000910571.webp",
@@ -221,6 +248,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

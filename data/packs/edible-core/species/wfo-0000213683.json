@@ -10,39 +10,25 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Gewöhnlicher Blasenstrauch",
-      "Gelber Blasenstrauch"
+    "fr": [
+      "Baguenaudier",
+      "baguenaudier"
     ],
-    "en": [
-      "bladder senna"
+    "de": [
+      "Gelber Blasenstrauch",
+      "Gewöhnlicher Blasenstrauch"
+    ],
+    "pl": [
+      "moszenki południowe"
     ],
     "cs": [
       "žanovec měchýřník"
     ],
-    "fi": [
-      "Keltarakkopensas"
-    ],
-    "fr": [
-      "Baguenaudier"
-    ],
-    "it": [
-      "Vescicaria"
-    ],
-    "nl": [
-      "Europese blazenstruik"
-    ],
-    "zh": [
-      "鱼鳔槐"
-    ],
-    "sl": [
-      "drevesasta mehurka"
-    ],
-    "pl": [
-      "moszenki południowe"
+    "en": [
+      "Bladder senna"
     ],
     "hr": [
       "Pucalina"
@@ -61,6 +47,9 @@
     ],
     "ar": [
       "قنصور شجري"
+    ],
+    "zh": [
+      "鱼鳔槐"
     ],
     "sv": [
       "Blåsärt"
@@ -92,39 +81,69 @@
     "arz": [
       "قنصور شجرى"
     ],
+    "sl": [
+      "drevesasta mehurka"
+    ],
     "av": [
       "Эпепо"
     ],
     "fa": [
       "دغدغک درختی"
+    ],
+    "fi": [
+      "Keltarakkopensas"
+    ],
+    "it": [
+      "Vescicaria"
+    ],
+    "nl": [
+      "Europese blazenstruik"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158890",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158890",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Colutea arborescens」",
+      "source": "Wikipedia (en): Colutea arborescens",
       "source_url": "https://en.wikipedia.org/wiki/Colutea_arborescens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306376428,
       "text": "Colutea arborescens is a species of leguminous shrub known by the common name bladder-senna. It is native to Europe and North Africa, but it is known on other continents where it is grown as an ornamental and used in landscaping for erosion control. It is also known in the wild as an occasionally weedy escapee from cultivation."
+    },
+    "es": {
+      "source": "Wikipedia (es): Colutea arborescens",
+      "source_url": "https://es.wikipedia.org/wiki/Colutea_arborescens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175431633,
+      "text": "El espantalobos es un arbusto de la familia de las leguminosas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Baguenaudier",
+      "source_url": "https://fr.wikipedia.org/wiki/Baguenaudier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240293785,
+      "text": "Le Baguenaudier, aussi appelé Baguenaudier arborescent ou Arbre à vessies, est une espèce de plantes à fleurs de la famille des Fabacées. C'est un arbrisseau qui se caractérise par ses fruits, nommés \"baguenaudes\", qui sont des gousses brun rougeâtre qui enflent à maturité et deviennent translucides. D'où le nom populaire d'Arbre à vessies qui lui est parfois donné."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Colutea arborescens」の節「Cultivation」",
+        "source": "Wikipedia (en): Colutea arborescens § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Colutea_arborescens#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1306376428,
         "heading": "Cultivation",
         "text": "It will grow in poor dry soil in exposed conditions but likes full sun. It propagates by seed or softwood cuttings.",
@@ -145,7 +164,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -205,7 +224,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/486805-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -213,7 +232,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/486805-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000213683.webp",
@@ -226,6 +245,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

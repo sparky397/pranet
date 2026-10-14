@@ -24,22 +24,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "キワタ"
     ],
-    "en": [
-      "red silk cottontree",
-      "Kapok"
+    "pt": [
+      "Paineira-vermelha-da-índia"
+    ],
+    "id": [
+      "Randu alas"
+    ],
+    "nl": [
+      "Indische kapokboom"
+    ],
+    "th": [
+      "งิ้ว"
     ],
     "eo": [
       "Hinda bombako"
-    ],
-    "fi": [
-      "Valkokapokkio",
-      "valkokapokkipuu"
     ],
     "zh": [
       "木棉",
@@ -53,18 +57,6 @@
       "木棉花蕊",
       "木棉花瓣"
     ],
-    "tl": [
-      "malabulak"
-    ],
-    "nl": [
-      "Indische kapokboom"
-    ],
-    "th": [
-      "งิ้ว"
-    ],
-    "pt": [
-      "Paineira-vermelha-da-índia"
-    ],
     "vi": [
       "Gạo (cây)"
     ],
@@ -76,9 +68,6 @@
     ],
     "te": [
       "బూరుగ"
-    ],
-    "id": [
-      "Randu alas"
     ],
     "pl": [
       "Wełniak azjatycki"
@@ -128,6 +117,9 @@
     "bo": [
       "གེ་སར་"
     ],
+    "tl": [
+      "malabulak"
+    ],
     "ms": [
       "Pokok Randu Alas"
     ],
@@ -139,13 +131,21 @@
     ],
     "shn": [
       "မႆႉၼိဝ်ႉ"
+    ],
+    "en": [
+      "red silk cottontree",
+      "Kapok"
+    ],
+    "fi": [
+      "Valkokapokkio",
+      "valkokapokkipuu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q13399160",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q13399160",
   "search_names": {
@@ -156,32 +156,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キワタ」",
+      "source": "Wikipedia (ja): キワタ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AF%E3%82%BF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109894211,
       "text": "キワタ（木棉）は、アオイ科キワタ属の1種の落葉高木である。学名 Bombax ceiba。なお、同じ科にキワタの種小名と同じ属名のセイバ属 Ceiba があるので注意。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Bombax ceiba」",
+      "source": "Wikipedia (en): Bombax ceiba",
       "source_url": "https://en.wikipedia.org/wiki/Bombax_ceiba",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371962260,
       "text": "Bombax ceiba, like other trees of the genus Bombax, is commonly known as cotton tree. More specifically, it is sometimes known as Malabar silk-cotton tree; red silk-cotton; red cotton tree; or ambiguously as silk-cotton or kapok, both of which may also refer to Ceiba pentandra."
+    },
+    "es": {
+      "source": "Wikipedia (es): Bombax ceiba",
+      "source_url": "https://es.wikipedia.org/wiki/Bombax_ceiba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 159835120,
+      "text": "Bombax ceiba, la ceiba común o algodonero rojo, es un árbol de la familia de las malváceas, género Bombax."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bombax ceiba",
+      "source_url": "https://fr.wikipedia.org/wiki/Bombax_ceiba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240046368,
+      "text": "Bombax ceiba, l'un des fromagers, encore appelé Fromager rouge ou Kapokier rouge, est une espèce de plantes à fleurs de la famille des Bombacaceae selon la classification classique, ou de celle des Malvaceae selon la classification phylogénétique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Paineira-vermelha-da-índia",
+      "source_url": "https://pt.wikipedia.org/wiki/Paineira-vermelha-da-%C3%ADndia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 52874806,
+      "text": "A paineira-vermelha-da-índia é uma árvores da família Malvaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Randu alas",
+      "source_url": "https://id.wikipedia.org/wiki/Randu_alas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29871814,
+      "text": "Randu alas adalah pohon yang dianggap suci oleh umat Hindu. Tumbuhan ini dapat berukuran sangat besar dan sering ditanam di dekat bangunan suci."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Bombax ceiba」の節「Cultivation」",
+        "source": "Wikipedia (en): Bombax ceiba § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Bombax_ceiba#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1371962260,
         "heading": "Cultivation",
         "text": "The tree is widely planted in southeastern Asian countries and regions (such as in Myanmar, Nepal, Thailand, Vietnam, Malaysia, Philippines, Indonesia, southern China and Taiwan, etc.). According to Chinese historical record, the king of Nam Yuet (located in the southern China and northern Vietnam nowadays), Zhao Tuo, gave a tree to the emperor of the Han dynasty in the 2nd century BC.\nThis tree is commonly known as Let-pan (Burmese language: လက်ပံ), semal (Hindi: सेमल), shimal (Nepali: सीमल), shimul (Bengali: শিমুল) or ximolu (Assamese: শিমলু) in India. It is widely planted in parks and on roadsides there because of its beautiful red flowers which bloom in March/April. This tree is quite common in New Delhi although it doesn't reach its full size of 60m there because of the semi arid climate. The cotton fibers of this tree can be seen floating in the wind around the time of early May. This tree shows two marked growth sprints in India: in spring and during the monsoon months. Perhaps due to subtropical climate and heavy rainfalls, it is found in dense populations throughout the Northeast India. In Myanmar, its flowers are let to be dry and cooked, which is one of the traditional foods of Myanmar.\nThis tree is also found in the eastern parts of Pakistan, especially in Margalla Hills and the eastern city of Lahore. The local Urdu and Punjabi names for the tree is sumbal.",
@@ -205,7 +241,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -254,7 +290,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/559120-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -262,7 +298,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/559120-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000568369.webp",
@@ -275,6 +311,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

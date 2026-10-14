@@ -13,13 +13,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "jelutong"
-    ],
     "id": [
+      "Jelutung melayu",
       "Jelutung"
     ],
     "ms": [
@@ -33,24 +31,54 @@
     ],
     "ace": [
       "Jeulutông"
+    ],
+    "en": [
+      "jelutong"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2714937",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2714937",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Dyera costulata」",
+      "source": "Wikipedia (en): Dyera costulata",
       "source_url": "https://en.wikipedia.org/wiki/Dyera_costulata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369857298,
       "text": "Dyera costulata, the jelutong, is a species of tree in the family Apocynaceae. It grows to approximately 60 metres (200 ft) tall with diameters of 2 metres, or even to 80 m (260 ft) tall with diameters to 3 m (10 ft), and boles clear and straight for 30 m (90 ft). It grows in Malaysia, Borneo, Sumatra and southern Thailand. Its natural distribution is scattered locales in low-elevation tropical evergreen forest."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dyera costulata",
+      "source_url": "https://es.wikipedia.org/wiki/Dyera_costulata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166844675,
+      "text": "Dyera costulata, syn. D. laxiflora es una especie arbórea de la familia Apocynaceae. Se comercializa con el nombre de jelutong."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dyera costulata",
+      "source_url": "https://fr.wikipedia.org/wiki/Dyera_costulata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 220981151,
+      "text": "Dyera costulata est une espèce de plantes à fleurs de la famille des Apocynaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jelutung melayu",
+      "source_url": "https://id.wikipedia.org/wiki/Jelutung_melayu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26367545,
+      "text": "Jelutung atau jelutong adalah spesies pohon dari subfamilia oleander. Pohon ini dapat tumbuh hingga 60 meter dengan diameter sebesar 2 meter. Pohon ini tumbuh di semenanjung Malaysia, Kalimantan, Sumatra dan bagian selatan Thailand."
     }
   },
   "edible": {
@@ -63,7 +91,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -76,7 +104,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/78323-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -84,7 +112,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/78323-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000946993.webp",
@@ -97,6 +125,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

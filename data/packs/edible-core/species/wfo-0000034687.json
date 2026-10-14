@@ -26,15 +26,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "鲱鱼籽",
-      "藏掖花"
+    "es": [
+      "Cnicus benedictus"
     ],
-    "ast": [
-      "cardu moyar"
+    "pt": [
+      "Cnicus"
     ],
     "ru": [
       "Кникус"
@@ -42,8 +41,9 @@
     "eo": [
       "Cnicus benedictus"
     ],
-    "pt": [
-      "Cnicus"
+    "zh": [
+      "藏掖花",
+      "鲱鱼籽"
     ],
     "sq": [
       "Cnuku"
@@ -59,9 +59,6 @@
     ],
     "fa": [
       "خار مقدس"
-    ],
-    "es": [
-      "Cnicus benedictus"
     ],
     "uk": [
       "Кнік бенедиктинський"
@@ -116,13 +113,16 @@
     ],
     "hu": [
       "benedekfű"
+    ],
+    "ast": [
+      "cardu moyar"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q792835",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q792835",
   "search_names": {
@@ -132,13 +132,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Centaurea benedicta」",
+      "source": "Wikipedia (en): Centaurea benedicta",
       "source_url": "https://en.wikipedia.org/wiki/Centaurea_benedicta",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373844987,
       "text": "Centaurea benedicta, known by the common names St. Benedict's thistle, blessed thistle, holy thistle, spotted thistle or blessed knapweed, is an annual thistle-like plant in the family Asteraceae, native to Mediterranean Europe and western and Central Asia, ranging from Portugal and Spain to southeastern Europe, Ukraine and southern European Russia, Saudi Arabia, Xinjiang, and Pakistan. It is known in other parts of the world, including parts of North America, as an introduced species and often a noxious weed."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cnicus benedictus",
+      "source_url": "https://es.wikipedia.org/wiki/Cnicus_benedictus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175406802,
+      "text": "El cardo bendito es una especie de fanerógama perteneciente a la familia de las Asteraceae/Compositae.Nota: la especie está considerada hoy día un sinónimo reemplazado por Centaurea benedicta (L.) L., Sp. Pl., ed. 2, vol. 2, p. 1296, 1763, que entonces es la especie válida."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Centaurea benedicta",
+      "source_url": "https://fr.wikipedia.org/wiki/Centaurea_benedicta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238830116,
+      "text": "Centaurea benedicta, le Chardon béni, Cnicaut béni ou Cnicus béni, est une espèce de plantes à fleurs de la famille des Astéracées, assez commune en terrain sec dans la région méditerranéenne."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cnicus",
+      "source_url": "https://pt.wikipedia.org/wiki/Cnicus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71385854,
+      "text": "Cnicus é um género botânico pertencente à família Asteraceae."
     }
   },
   "edible": {
@@ -152,7 +179,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -237,7 +264,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/190024-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -245,7 +272,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/190024-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000034687.webp",
@@ -258,6 +285,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 327,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

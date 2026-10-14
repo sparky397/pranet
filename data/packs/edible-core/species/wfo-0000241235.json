@@ -41,56 +41,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ペニーロイヤルミント"
     ],
-    "de": [
-      "Polei-Minze",
-      "Poleiminze"
-    ],
-    "en": [
-      "pennyroyal",
-      "penny-royal"
-    ],
-    "ca": [
-      "Poliol"
-    ],
-    "es": [
-      "Menta poleo"
-    ],
     "fr": [
       "Menthe pouliot"
     ],
-    "pl": [
-      "Mięta polej"
-    ],
     "pt": [
-      "Poejo"
+      "Poejo",
+      "poejo"
     ],
-    "ru": [
-      "Мята блошница",
-      "Мята болотная"
-    ],
-    "sv": [
-      "Polejmynta"
-    ],
-    "tr": [
-      "Yarpuz"
-    ],
-    "nl": [
-      "polei"
-    ],
-    "fi": [
-      "puolanminttu"
-    ],
-    "zh": [
-      "唇萼薄荷"
-    ],
-    "ast": [
-      "menta polexu"
+    "pl": [
+      "mięta polej"
     ],
     "ang": [
       "Dƿeorgedosle"
@@ -101,20 +66,40 @@
     "gl": [
       "Poexo"
     ],
+    "de": [
+      "Polei-Minze",
+      "Poleiminze"
+    ],
     "hsb": [
       "Dźiwja mjetlička"
     ],
     "ar": [
       "نعناع أوروبي"
     ],
+    "nl": [
+      "Polei"
+    ],
     "eo": [
       "Pulegio"
+    ],
+    "ru": [
+      "мята болотная",
+      "Мята блошница"
+    ],
+    "tr": [
+      "Yarpuz"
     ],
     "ckb": [
       "پوونگە"
     ],
     "ro": [
       "busuiocul cerbilor"
+    ],
+    "ca": [
+      "poliol"
+    ],
+    "fi": [
+      "puolanminttu"
     ],
     "uk": [
       "м'ята блошина"
@@ -134,6 +119,9 @@
     "sr": [
       "метвица"
     ],
+    "zh": [
+      "唇萼薄荷"
+    ],
     "ku": [
       "Pûng"
     ],
@@ -145,6 +133,9 @@
     ],
     "da": [
       "Polejmynte"
+    ],
+    "sv": [
+      "Polejmynta"
     ],
     "yue": [
       "普利薄荷"
@@ -208,13 +199,23 @@
     ],
     "mwl": [
       "puleijos"
+    ],
+    "en": [
+      "pennyroyal",
+      "penny-royal"
+    ],
+    "es": [
+      "Menta poleo"
+    ],
+    "ast": [
+      "menta polexu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161235",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161235",
   "search_names": {
@@ -226,35 +227,84 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ペニーロイヤルミント」",
+      "source": "Wikipedia (ja): ペニーロイヤルミント",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%8B%E3%83%BC%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%9F%E3%83%B3%E3%83%88",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106375172,
       "text": "ペニーロイヤルミント は、シソ科ハッカ属の多年草。和名はメグサハッカ（目草薄荷）、別名ペニローヤルミント、ペニロイアルハッカ。名前は硬貨のペニーに由来。中国名は、唇萼薄荷。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Mentha pulegium」",
+      "source": "Wikipedia (en): Mentha pulegium",
       "source_url": "https://en.wikipedia.org/wiki/Mentha_pulegium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1367740321,
       "text": "Mentha pulegium, commonly (European) pennyroyal, or pennyrile, also called mosquito plant and pudding grass, is a species of flowering plant in the mint family, Lamiaceae, native to Europe, North Africa, and the Middle East. Crushed pennyroyal leaves emit a very strong fragrance similar to spearmint. Pennyroyal is a traditional folk remedy, emmenagogue, abortifacient, and culinary herb, but is toxic to the liver and has caused some deaths. European pennyroyal is related to an American species, Hedeoma pulegioides. Though they differ in genera, they share similar chemical properties."
+    },
+    "es": {
+      "source": "Wikipedia (es): Mentha pulegium",
+      "source_url": "https://es.wikipedia.org/wiki/Mentha_pulegium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174716673,
+      "text": "El poleo es una de las especies más conocidas del género Mentha. De la familia de las labiadas, es una perenne cespitosa y de raíces rizomatosas que crece bien en sitios húmedos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Menthe pouliot",
+      "source_url": "https://fr.wikipedia.org/wiki/Menthe_pouliot",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225682482,
+      "text": "La menthe pouliot ou pouliot est une plante herbacée de la famille des Lamiacées (Labiées), originaire d'Europe, d'Afrique du Nord et d'Asie tempérée. Connue depuis l'Antiquité européenne comme plante médicinale, elle ne fut rattachée aux menthes qu'à l'époque moderne."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Poejo",
+      "source_url": "https://pt.wikipedia.org/wiki/Poejo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73056491,
+      "text": "Mentha pulegium, comummente conhecida como poejo, é uma das espécies mais conhecidas do género Mentha, pertencendo à família Lamiaceae, é uma planta perene cespitosa de raízes rizomatosas que cresce bem em locais húmidos ou junto de cursos fluviais, onde pode ser encontrada selvagem entre gramíneas e outras plantas."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Mentha pulegium」の節「Toxicity」",
+        "source": "Wikipedia (en): Mentha pulegium § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Mentha_pulegium#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378917522,
         "heading": "Toxicity",
         "text": "Pennyroyal is toxic to humans and has differing effects dependent on the volume and concentration ingested. The most concentrated and toxic form of the pennyroyal plant is pennyroyal oil. The oil contains pulegone (a cyclohexanone), the molecule found in the highest concentration (80-92%) in the pennyroyal plant. Pulegone causes a variety of ailments in those who ingest it and is what causes the plant to have its peppermint flavor.\nSymptoms that may persist after ingesting a small dose (<10 mL) of pennyroyal oil are nausea, vomiting, abdominal pain and dizziness. Larger volumes may result in multiorgan failure that could lead to death. There are no current toxicokinetics studies performed on humans for the effects of pulegone, but there are some studies performed on other mammals. When pulegone is ingested, it is broken down by the liver and reacts to form multiple toxic metabolites that can wreak havoc in the body. Some identified metabolites are menthofuran, piperitenone, piperitone, and menthone.\nAs little as 10 mL of pennyroyal oil ingestion was associated with moderate to severe hepatic toxicity.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Menthe pouliot § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Menthe_pouliot#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 225682482,
+        "heading": "Toxicité",
+        "text": "L'huile de pouliot se caractérise par une prépondérance plus ou moins importante d'une cétone monoterpénique toxique, la (+)-pulégone. Celle-ci et son produit d'oxydation, le menthofurane, sont en effet reconnus hépatotoxiques. La dose létale médiane DL50 de l'huile de pouliot et du pulégone sont :\n\nDans une première étape, l'oxydation du pulégone par les enzymes monooxygénases du cytochrome P450 du foie, suivie d'une cyclisation, conduit au menthofurane. Dans une seconde étape, le menthofurane est oxydé par une monooxygénase du cytochrome P450 en un composé réactif, le γ-ketoenal, l'hépatotoxine ultime. Celui-ci réagit avec les groupes nucléophiles des protéines pour former des adduits covalents dont on pense qu'ils sont responsables de l'hépatotoxicité de la pulégone.\nUne vingtaine de cas d'intoxication humaine à la suite de l'ingestion de menthe pouliot sont connus. Dans le cas d'une femme décédée des suites d'une ingestion d'extraits de pouliot comme abortif, un examen post-mortem d'un échantillon du sérum, y a identifié 18 mg/mL de pulégone et 1 ng/mL de menthofurane. L'étude des divers cas montre, que les personnes exposées à au moins 10 mL d'huile de pouliot peuvent être sujette à une intoxication modérée à grave et qu'au-delà de 15 mL (ou d'environ 250 mg/kg bw), la mort peut s'ensuivre. La pathologie clinique est caractérisée par une nécrose hépato-cellulaire, de l’œdème pulmonaire et une hémorragie interne. Bakering et al. ont rapporté la mort de deux bébés à la suite de la prise d'une infusion de menthe pouliot riche en pulégone, donnée comme remède traditionnel contre la colique du nourrisson.\nEn France, d'après l'arrêté du 24 juin 2014, Mentha pulegium n'est pas autorisée dans les compléments alimentaires.",
+        "truncated": true
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Poejo § Toxicologia",
+        "source_url": "https://pt.wikipedia.org/wiki/Poejo#Toxicologia",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 73056491,
+        "heading": "Toxicologia",
+        "text": "É de notar que o óleo essencial do poejo é venenoso (é uma substância hepotóxica), sendo especialmente perigoso para as grávidas pois pode causar o aborto. Nos cozinhados deve, pois, ser usado em moderação e evitado completamente pelas grávidas. O poejo é dotado dos seguintes compostos químicos: 3-Octanol, isomentona, limoneno (α-limoneno), mentona e pulegona",
         "truncated": false
       }
     }
@@ -271,7 +321,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -343,7 +393,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/451022-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -351,7 +401,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/451022-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000241235.webp",
@@ -364,6 +414,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

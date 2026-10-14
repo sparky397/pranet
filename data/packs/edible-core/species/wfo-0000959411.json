@@ -50,23 +50,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ピタンガ"
     ],
-    "en": [
-      "Surinam cherry"
-    ],
-    "zh": [
-      "稜果蒲桃",
-      "红果仔",
-      "扁樱桃",
-      "苏里南苦樱桃"
+    "fr": [
+      "Cerisier de Cayenne"
     ],
     "pt": [
       "Pitanga"
+    ],
+    "id": [
+      "Ceremai belanda"
     ],
     "eo": [
       "Pitango"
@@ -76,9 +73,6 @@
     ],
     "pl": [
       "Goździkowiec jednokwiatowy"
-    ],
-    "fr": [
-      "Cerisier de Cayenne"
     ],
     "ru": [
       "Суринамская вишня"
@@ -107,8 +101,11 @@
     "jv": [
       "Dewandaru"
     ],
-    "id": [
-      "Ceremai belanda"
+    "zh": [
+      "苏里南苦樱桃",
+      "稜果蒲桃",
+      "红果仔",
+      "扁樱桃"
     ],
     "th": [
       "มะยมฝรั่ง"
@@ -142,13 +139,16 @@
     ],
     "mwl": [
       "Pitaña"
+    ],
+    "en": [
+      "Surinam cherry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q306504",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q306504",
   "search_names": {
@@ -163,22 +163,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ピタンガ」",
+      "source": "Wikipedia (ja): ピタンガ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%BF%E3%83%B3%E3%82%AC",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109597764,
       "text": "ピタンガ は、フトモモ科の常緑低木。ピタンガとはブラジル先住民族の言葉の一つであるトゥピ語で〈赤い〉を意味する pi'tãg に由来する。別名としてスリナム・チェリー 、ブラジリアン・チェリー 、カイエン・チェリーなどがある。果物として食用に利用される。南米の熱帯地方原産。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Eugenia uniflora」",
+      "source": "Wikipedia (en): Eugenia uniflora",
       "source_url": "https://en.wikipedia.org/wiki/Eugenia_uniflora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376318050,
       "text": "Eugenia uniflora is a flowering plant in the family Myrtaceae, native to tropical and subtropical South America's east coast, ranging from Suriname, French Guiana to southern Brazil, as well as Uruguay and parts of Paraguay and Argentina."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eugenia uniflora",
+      "source_url": "https://es.wikipedia.org/wiki/Eugenia_uniflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175068361,
+      "text": "Eugenia uniflora L., también conocido en idioma guarani como ñangapirí, pitanga, pitangueira, pitanguero, es un árbol pequeño o arbusto de la familia de las Mirtáceas. Es nativa de Paraguay, Argentina y Brasil. Es una especie muy adaptable a diferentes condiciones de clima y suelo. Debido a la excelencia de sus frutos, así como a su uso ornamental, la pitanga ha sido introducida en diferentes regiones desde América del Sur y América Central, el Caribe, Florida y California en Estados Unidos, Hawái, Sudeste asiático, China, India, Sri Lanka, México, Madagascar, África del Sur, Israel y varios países del Mediterráneo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cerisier de Cayenne",
+      "source_url": "https://fr.wikipedia.org/wiki/Cerisier_de_Cayenne",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239750343,
+      "text": "Eugenia uniflora est une espèce de plantes à fleurs de la famille des Myrtacées. C'est un arbuste fruitier trouvé en Amérique du Sud."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pitanga",
+      "source_url": "https://pt.wikipedia.org/wiki/Pitanga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72127468,
+      "text": "A pitanga é o fruto da pitangueira, dicotiledônea da família das mirtáceas. Tem a forma de bolinhas globosas e carnosas, de cor vermelha, laranja, amarela ou preta. Na mesma árvore, o fruto poderá ter desde as cores verde, amarelo e alaranjado até a cor vermelho-intenso, de acordo com o grau de maturação."
+    },
+    "id": {
+      "source": "Wikipedia (id): Ceremai belanda",
+      "source_url": "https://id.wikipedia.org/wiki/Ceremai_belanda",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29934019,
+      "text": "Ceremai belanda atau biasa disebut dewandaru, asam selong, atau cerme belanda adalah tumbuhan buah yang tergolong familia Myrtaceae yang berasal dari Brasil."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Eugenia uniflora § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Eugenia_uniflora#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175068361,
+        "heading": "Cultivo",
+        "text": "La pitanga requiere mucho sol, y resiste mal las heladas; temperaturas por debajo de los -2 °C causan daños que pueden ser fatales para plantas jóvenes. Crece entre el nivel del mar y los 1750 m de altitud, en suelos de cualquier tipo salvo salinos; resiste bien las sequías y las inundaciones de corta duración. Se planta generalmente de semilla, que germina en el plazo de un mes, aunque la viabilidad de las mismas disminuye espectacularmente a partir de las 4 semanas de recolección. Los esquejes y los injertos son también viables, aunque tiende a presentar chupones en la zona del injerto.\nAunque el requerimiento en agua y nutrientes es bajo, la fruta aumenta en tamaño, calidad y cantidad con buena humedad y fertilización con fósforo. La cantidad de fruta es mayor en los ejemplares sin podar. La recolección debe hacerse sólo cuando el fruto cae en la mano con el simple tacto, para evitar el intenso sabor resinoso del fruto a medio madurar.\nSe ha reportado sabor resinoso en frutas rojas o anaranjadas, mientras que las que maduran en color oscuro (marrón, púrpura o negro) no presentan ese sabor.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -194,7 +245,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -254,7 +305,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/596263-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -262,7 +313,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/596263-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000959411.webp",
@@ -275,6 +326,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

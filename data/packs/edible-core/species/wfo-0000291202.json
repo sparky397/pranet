@@ -33,46 +33,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウヒイラギガシ"
     ],
-    "it": [
-      "leccio"
+    "fr": [
+      "Chêne vert"
     ],
-    "en": [
-      "Holm Oak"
-    ],
-    "cs": [
-      "dub cesmínovitý"
-    ],
-    "es": [
-      "encina",
-      "carrasca",
-      "chaparro",
-      "chaparra",
-      "carrasco",
-      "charrasco"
-    ],
-    "ca": [
-      "alzina"
-    ],
-    "an": [
-      "lecinera",
-      "lezinera"
-    ],
-    "cy": [
-      "derwen fythwyrdd",
-      "Prinwydden"
-    ],
-    "sl": [
-      "črničevje"
-    ],
-    "af": [
-      "Holmeik",
-      "Steeneik"
+    "pt": [
+      "Azinheira"
     ],
     "eu": [
       "Arte"
@@ -107,9 +78,6 @@
     "nl": [
       "steeneik"
     ],
-    "pt": [
-      "Azinheira"
-    ],
     "eo": [
       "Anzino"
     ],
@@ -119,11 +87,24 @@
     "tr": [
       "Pırnal meşe"
     ],
+    "ca": [
+      "alzina"
+    ],
     "fi": [
       "rautatammi"
     ],
     "co": [
       "Leccia"
+    ],
+    "cy": [
+      "Prinwydden",
+      "derwen fythwyrdd"
+    ],
+    "sl": [
+      "črničevje"
+    ],
+    "cs": [
+      "dub cesmínovitý"
     ],
     "hr": [
       "Hrast crnika"
@@ -202,13 +183,35 @@
     ],
     "ka": [
       "ქვამუხა"
+    ],
+    "it": [
+      "leccio"
+    ],
+    "en": [
+      "Holm Oak"
+    ],
+    "es": [
+      "encina",
+      "carrasca",
+      "chaparro",
+      "chaparra",
+      "carrasco",
+      "charrasco"
+    ],
+    "an": [
+      "lecinera",
+      "lezinera"
+    ],
+    "af": [
+      "Holmeik",
+      "Steeneik"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q218155",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q218155",
   "search_names": {
@@ -221,22 +224,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウヒイラギガシ」",
+      "source": "Wikipedia (ja): セイヨウヒイラギガシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%92%E3%82%A4%E3%83%A9%E3%82%AE%E3%82%AC%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106365380,
       "text": "セイヨウヒイラギガシ は、ブナ科コナラ属の常緑高木。英名にはevergreen oak、holly oak、holm oakなどがある。トキワガシ（常磐樫）とも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Quercus ilex」",
+      "source": "Wikipedia (en): Quercus ilex",
       "source_url": "https://en.wikipedia.org/wiki/Quercus_ilex",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375202588,
       "text": "The holm oak, also called the holly oak, is a large evergreen oak native to the Mediterranean region. It is a member of the section Ilex of the genus, with acorns that mature in a single summer."
+    },
+    "es": {
+      "source": "Wikipedia (es): Quercus ilex",
+      "source_url": "https://es.wikipedia.org/wiki/Quercus_ilex",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174761925,
+      "text": "La encina es un árbol de la familia de las fagáceas. Otros nombres comunes con los que se conoce a la encina son encino, carrasca, chaparra, chaparro o bellotero alto. Es un árbol perennifolio nativo de la región mediterránea de talla mediana, aunque puede aparecer en forma arbustiva, condicionado por las características pluviométricas o por el terreno en el que se encuentre."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Chêne vert",
+      "source_url": "https://fr.wikipedia.org/wiki/Ch%C3%AAne_vert",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237631723,
+      "text": "Le Chêne vert ou Yeuse, Alzina, Euse, Euve, Garric ou Chêne faux houx, est une espèce d'arbres à feuillage persistant de la famille des Fagacées, présent sous forme de bois clairs et garrigues essentiellement présent dans les régions méditerranéennes. Il est parfois appelé Chêne faux houx, allusion au fait que ses feuilles ressemblent à celles du houx."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Azinheira",
+      "source_url": "https://pt.wikipedia.org/wiki/Azinheira",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71576240,
+      "text": "Azinheira é o nome comum dado a duas espécies diferentes do género Quercus, a Quercus ilex e a Quercus rotundifolia. Os frutos destas duas espécies, que se afiguram como bolotas de formato ovóide, são conhecidos como «azinhas» ou «enzinhas»."
+    },
+    "id": {
+      "source": "Wikipedia (id): Quercus ilex",
+      "source_url": "https://id.wikipedia.org/wiki/Quercus_ilex",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28545630,
+      "text": "Quercus ilex adalah pohon ek hijau abadi berukuran besar yang berasal dari kawasan Mediterania. Spesies ini termasuk dalam bagian Ilex dari genus Quercus, dan biji ek-nya berkembang hingga matang hanya dalam satu musim panas. Kerabat dekatnya, Quercus rotundifolia, dahulu sering dianggap sebagai subspesies Q. ilex, tetapi kini lebih umum diperlakukan sebagai spesies tersendiri, meskipun beberapa ahli masih mengelompokkannya sebagai subspesies dari Quercus ilex."
     }
   },
   "edible": {
@@ -250,7 +289,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -285,7 +324,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/296290-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -293,7 +332,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/296290-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000291202.webp",
@@ -306,6 +345,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

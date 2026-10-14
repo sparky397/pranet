@@ -33,18 +33,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "サゴヤシ"
     ],
-    "en": [
-      "sago palm"
+    "fr": [
+      "Sagoutier"
     ],
-    "zh": [
-      "西谷椰",
-      "硕莪树"
+    "id": [
+      "Rumbia"
     ],
     "pl": [
       "Sagownica zwyczajna"
@@ -66,9 +65,6 @@
     ],
     "uk": [
       "Сагова пальма"
-    ],
-    "id": [
-      "Rumbia"
     ],
     "de": [
       "Sagopalme"
@@ -100,6 +96,10 @@
     "yue": [
       "西米椰子"
     ],
+    "zh": [
+      "硕莪树",
+      "西谷椰"
+    ],
     "su": [
       "Kirai"
     ],
@@ -123,33 +123,87 @@
     ],
     "iba": [
       "Mulung"
+    ],
+    "en": [
+      "sago palm"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164088",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164088",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「サゴヤシ」",
+      "source": "Wikipedia (ja): サゴヤシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B4%E3%83%A4%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110441127,
       "text": "サゴヤシ とは、樹幹からサゴ という食用デンプンが採れるヤシ科やソテツ目の植物の総称。サゴヤシ澱粉（サゴ）は東南アジアなどで食用とするほかソースの原料にもなる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Metroxylon sagu」",
+      "source": "Wikipedia (en): Metroxylon sagu",
       "source_url": "https://en.wikipedia.org/wiki/Metroxylon_sagu",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314379377,
       "text": "Metroxylon sagu, the true sago palm, is a species of palm in the genus Metroxylon, native to tropical southeastern Asia. The tree is a major source of sago starch."
+    },
+    "es": {
+      "source": "Wikipedia (es): Metroxylon sagu",
+      "source_url": "https://es.wikipedia.org/wiki/Metroxylon_sagu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 165918911,
+      "text": "La palma de sagú es una especie de planta de la familia Arecaceae. En Filipinas se llama landán o yoro."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sagoutier",
+      "source_url": "https://fr.wikipedia.org/wiki/Sagoutier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235840490,
+      "text": "Le sagoutier est une espèce de plantes de la famille des palmiers."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Metroxylon sagu",
+      "source_url": "https://pt.wikipedia.org/wiki/Metroxylon_sagu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71477350,
+      "text": "Metroxylon sagu é uma espécie de arecácea do gênero Metroxylon, nativa do sudeste asiático tropical. A árvore constitui a principal fonte de sagu, um amido extraído do tronco."
+    },
+    "id": {
+      "source": "Wikipedia (id): Rumbia",
+      "source_url": "https://id.wikipedia.org/wiki/Rumbia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29508143,
+      "text": "Rumbia atau disebut juga (pohon) sagu adalah nama sejenis palma penghasil tepung sagu. Nama-nama lainnya di berbagai daerah di Sumatra dan Sulawesi adalah rumbieu, rembie, rembi, rembiau, rambia, hambia, humbia, lumbia, rombia, rumpia. Di Maluku dikenal sebagai ripia, lipia, lepia, lapia, lapaia, hula atau huda. Di Jawa, ambulung, bulung, (am)bulu, tembulu (Jw.), bhulung (Md.), dan ki ray (Sd.). Di Banda, pohonnya disebut dengan romiho, sementara tepungnya disebut sangyera. Di Makassar pohonnya disebut rambiya dan tepungnya disebut palehu. Di negara-negara tetangga dikenal sebagai balau (Sarawak), lumbia, lăbi (Filipina), thagu bin (Burma), sa kuu (Kamboja), dan sa khu (Thailand), dan Sago Palm (Ingg.)."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Metroxylon sagu § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Metroxylon_sagu#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 165918911,
+        "heading": "Cultivo",
+        "text": "La palma sagú se reproduce por la fructificación. Cada tallo termina su vida tras producir flores y frutos, pero cada palma como organismo individual vive a través de sus retoños, brotes que se están diversificando en forma continua desde una planta madre en o por debajo del nivel del suelo. La palma de sagú es propagada por el hombre principalmente por corte, recolección y replantación de los retoños jóvenes.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -168,7 +222,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -187,7 +241,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668244-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -195,7 +249,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668244-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000242653.webp",
@@ -208,6 +262,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

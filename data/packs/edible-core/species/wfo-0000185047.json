@@ -18,17 +18,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "jand"
+    "hi": [
+      "खेजड़ी"
     ],
     "gu": [
       "ખીજડો"
-    ],
-    "hi": [
-      "खेजड़ी"
     ],
     "mr": [
       "शमी"
@@ -74,13 +71,16 @@
     ],
     "zh": [
       "波斯牧豆樹"
+    ],
+    "en": [
+      "jand"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1136117",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1136117",
   "search_names": {
@@ -90,13 +90,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Prosopis cineraria」",
+      "source": "Wikipedia (en): Prosopis cineraria",
       "source_url": "https://en.wikipedia.org/wiki/Prosopis_cineraria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376631920,
       "text": "Prosopis cineraria, also known as Persian mesquite or ghaf, chaunkro , jand or khejri, is a species of flowering tree in the pea family, Fabaceae. It is native to arid portions of Western Asia and the Indian subcontinent, including Afghanistan, Bahrain, Iran, India, Oman, Pakistan, Saudi Arabia, the United Arab Emirates, and Yemen. Its leaves are bipinnate. It can survive extreme drought. It is an established introduced species in parts of Southeast Asia, including Indonesia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Prosopis cineraria",
+      "source_url": "https://es.wikipedia.org/wiki/Prosopis_cineraria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172918343,
+      "text": "Prosopis cineraria es una especie de planta con flor de la familia Fabaceae, es nativo de las regiones áridas de Asia Occidental y el subcontinente indio incluyendo Afganistán, Irán, India, Omán, Pakistán, Arabia Saudita, Emiratos Árabes Unidos, y Yemen. Es una especie introducida que se ha establecido en varias partes del Sudeste Asiático, incluyendo Indonesia."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Prosopis cineraria",
+      "source_url": "https://pt.wikipedia.org/wiki/Prosopis_cineraria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72054072,
+      "text": "Prosopis cineraria é uma espécie de leguminosa do gênero Prosopis, pertencente à família Fabaceae."
     }
   },
   "edible": {
@@ -115,7 +133,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -135,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/515801-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -143,7 +161,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/515801-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000185047.webp",
@@ -156,6 +174,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -10,9 +10,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "fa": [
+      "نخل گوآدالوپ"
+    ],
+    "fi": [
+      "meksikonbraheapalmu"
+    ],
     "en": [
       "Guadalupe palm"
     ],
@@ -25,19 +31,13 @@
     ],
     "fr": [
       "Palmier de Guadalupe"
-    ],
-    "fa": [
-      "نخل گوآدالوپ"
-    ],
-    "fi": [
-      "meksikonbraheapalmu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2593999",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2593999",
   "search_names": {
@@ -48,13 +48,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Brahea edulis」",
+      "source": "Wikipedia (en): Brahea edulis",
       "source_url": "https://en.wikipedia.org/wiki/Brahea_edulis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1344985254,
       "text": "Brahea edulis, the Guadalupe palm or palma de Guadalupe, is a palm endemic to Guadalupe Island, Mexico, although a few stands have been planted elsewhere. It is a fan palm which grows 4.50 to 13 metres tall. It grows on the island between 400 and 1,000 metres above mean sea level (ASL), with this altitudinal zonation producing one of the few fog oases present in North America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Brahea edulis",
+      "source_url": "https://es.wikipedia.org/wiki/Brahea_edulis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 170529355,
+      "text": "Brahea edulis, llamada popularmente palma de Guadalupe, es una palmera perteneciente a la familia Arecaceae. Es endémica de la isla Guadalupe en México"
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Brahea edulis",
+      "source_url": "https://fr.wikipedia.org/wiki/Brahea_edulis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 201645691,
+      "text": "Brahea edulis ou palmier de Guadalupe, est une espèce de la famille des Arecaceae (Palmier) endémique de l'île Guadalupe (Mexique). Brahea edulis est un palmier à feuilles palmées qui mesure entre 4,5 à 13 mètres de hauteur.\nLa population sauvage entière est constituée de vieux arbres adultes sans régénération observée. Encore récemment, on recensait sur l'île une importante population de chèvres. La présence de ces chèvres sur l'île empêchait la régénération de Brahea edulis et d'autres arbres endémiques."
     }
   },
   "edible": {
@@ -68,7 +86,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -78,7 +96,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664901-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -86,7 +104,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664901-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000390731.webp",
@@ -99,6 +117,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 298,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

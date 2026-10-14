@@ -11,30 +11,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Französische Erdkastanie",
-      "Französische Erd Kastanie"
+    "da": [
+      "Svinenød"
     ],
     "nl": [
       "Franse aardkastanje"
-    ],
-    "fr": [
-      "conopode dénudé"
-    ],
-    "en": [
-      "pignut"
-    ],
-    "da": [
-      "Svinenød"
     ],
     "nn": [
       "Jordnøtt"
     ],
     "sv": [
       "Nötkörvel"
+    ],
+    "de": [
+      "Französische Erdkastanie",
+      "Französische Erd Kastanie"
     ],
     "nb": [
       "Jordnøtt"
@@ -56,24 +50,57 @@
     ],
     "mwl": [
       "borrachins"
+    ],
+    "fr": [
+      "conopode dénudé"
+    ],
+    "en": [
+      "pignut"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q672080",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q672080",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Conopodium majus」",
+      "source": "Wikipedia (en): Conopodium majus",
       "source_url": "https://en.wikipedia.org/wiki/Conopodium_majus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1268325640,
       "text": "Conopodium majus is a perennial herbaceous flowering plant in the celery family, Apiaceae. Its underground part resembles a chestnut and is sometimes eaten as a wild or cultivated root vegetable. The plant has many English names variously including kippernut, cipernut, arnut, jarnut, hawknut, earth chestnut, groundnut, and earthnut. From its popularity with pigs come the names pignut, hognut, and more indirectly Saint Anthony's nut, for Anthony the Great or Anthony of Padua, both patron saints of swineherds."
+    },
+    "es": {
+      "source": "Wikipedia (es): Conopodium majus",
+      "source_url": "https://es.wikipedia.org/wiki/Conopodium_majus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175492388,
+      "text": "La castañuela es una planta de la familia de las apiáceas"
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Conopodium majus",
+      "source_url": "https://fr.wikipedia.org/wiki/Conopodium_majus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236398008,
+      "text": "Conopodium majus, en français le Conopode dénudé, est une espèce de plantes à fleurs de la famille des Apiaceae (Ombellifères). C'est une plante herbacée trouvée en Europe et en Afrique du Nord."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Conopodium majus",
+      "source_url": "https://pt.wikipedia.org/wiki/Conopodium_majus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 54734652,
+      "text": "Conopodium majus é uma espécie de planta com flor pertencente à família Apiaceae."
     }
   },
   "edible": {
@@ -84,7 +111,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -106,7 +133,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/840717-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tuberous geophyte",
@@ -114,7 +141,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/840717-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000619241.webp",
@@ -127,6 +154,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 239,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -24,7 +24,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -34,33 +34,17 @@
       "Sorrel",
       "Common Sorrel"
     ],
-    "de": [
-      "Wiesen-Sauer-Ampfer",
-      "Wiesen-Sauerampfer"
+    "fr": [
+      "Oseille commune",
+      "oseille sauvage"
+    ],
+    "id": [
+      "Sijungkot bayam"
     ],
     "zh": [
       "酸模",
       "酸模叶",
       "酸模（毛脉酸模）"
-    ],
-    "nl": [
-      "Veldzuring"
-    ],
-    "cs": [
-      "šťovík kyselý"
-    ],
-    "fr": [
-      "oseille sauvage",
-      "Oseille commune"
-    ],
-    "fi": [
-      "niittysuolaheinä"
-    ],
-    "ast": [
-      "agrieta"
-    ],
-    "sl": [
-      "navadna kislica"
     ],
     "eu": [
       "Mingarratz handi"
@@ -82,6 +66,9 @@
     ],
     "ba": [
       "Ҡуҙғалаҡ"
+    ],
+    "nl": [
+      "veldzuring"
     ],
     "ar": [
       "حماض بستاني"
@@ -112,6 +99,9 @@
     ],
     "mk": [
       "Киселец"
+    ],
+    "fi": [
+      "niittysuolaheinä"
     ],
     "stq": [
       "Suurke"
@@ -152,6 +142,10 @@
     "gl": [
       "Aceda"
     ],
+    "de": [
+      "Wiesen-Sauerampfer",
+      "Wiesen-Sauer-Ampfer"
+    ],
     "vi": [
       "Chút chít"
     ],
@@ -169,6 +163,9 @@
     ],
     "ca": [
       "agrella"
+    ],
+    "cs": [
+      "šťovík kyselý"
     ],
     "os": [
       "Хуырхæг"
@@ -193,6 +190,9 @@
     ],
     "hr": [
       "Obična kiselica"
+    ],
+    "sl": [
+      "navadna kislica"
     ],
     "ga": [
       "samhadh"
@@ -269,9 +269,6 @@
     "ta": [
       "புளியாரைக் கீரை"
     ],
-    "id": [
-      "Sijungkot bayam"
-    ],
     "mwl": [
       "azedones"
     ],
@@ -280,13 +277,16 @@
     ],
     "th": [
       "ซอร์เรล"
+    ],
+    "ast": [
+      "agrieta"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q26297",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q26297",
   "search_names": {
@@ -303,22 +303,84 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「スイバ」",
+      "source": "Wikipedia (ja): スイバ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%83%90",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110856683,
       "text": "スイバ は、タデ科スイバ属の多年草。道端などに生えて、草丈は60センチメートル前後で、高いもので1メートルになる。茎葉はところどころで赤みを帯び、下部は矢じり形の根から生える葉がつき、上部は茎を抱くかたちの葉がつく。初夏から夏にかけて、赤みを帯びた淡緑の花を花穂になってつける。薬用にもできる食草で、ヨーロッパでは「ガーデン・ソレル」 や 「オゼイユ」などと呼ばれ、ハーブや野菜として広く栽培されている。食べると酸っぱい味がするので日本地方名でスカンポともよばれるが、同別名をもつイタドリとは別の植物である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sorrel」",
+      "source": "Wikipedia (en): Sorrel",
       "source_url": "https://en.wikipedia.org/wiki/Sorrel",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375079742,
       "text": "Sorrel is a perennial herbaceous plant in the family Polygonaceae. It is also called common sorrel, meadow sorrel, green sorrel, sour dock, spinach dock and narrow-leaved dock."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rumex acetosa",
+      "source_url": "https://es.wikipedia.org/wiki/Rumex_acetosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581013,
+      "text": "Rumex acetosa es una planta del género Rumex, nativa de Europa y cultivada en algunas zonas por sus hojas comestibles. Tiene una gran variedad de nombres comunes, entre ellos acedera común y vinagrera."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Oseille commune",
+      "source_url": "https://fr.wikipedia.org/wiki/Oseille_commune",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236653312,
+      "text": "Rumex acetosa, l’Oseille commune, Grande oseille, Oseille des prés ou vinette, est une plante vivace de la famille des Polygonacées. C'est une plante potagère fréquemment cultivée, l'espèce sauvage ayant été améliorée pour donner naissance à l'Oseille des jardins."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Rumex acetosa",
+      "source_url": "https://pt.wikipedia.org/wiki/Rumex_acetosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73142662,
+      "text": "A Rumex acetosa, comumente conhecida como azedinha, é uma planta do género Rumex que cresce no Norte da Península Ibérica.. Quanto à sua tipologia fisionómica, trata-se de uma planta hemicriptófita."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sijungkot bayam",
+      "source_url": "https://id.wikipedia.org/wiki/Sijungkot_bayam",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29729638,
+      "text": "Sorrel, adalah tanaman herba abadi dalam keluarga Polygonaceae. Nama lain untuk sorrel termasuk sijungkot bayam dan sijungkot daun-sempit sijungkot menjadi nama umum untuk genus Rumex."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Rumex acetosa § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Rumex_acetosa#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171581013,
+        "heading": "Cultivo",
+        "text": "Es una planta fácil de cultivar, en los huertos suele recolectarse en los meses de primavera.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Rumex acetosa § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Rumex_acetosa#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 73142662,
+        "heading": "Cultivo",
+        "text": "É uma planta fácil de cultivar, flora de Maio a Setembro e pode colher-se entre os meses de Abril e Junho.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -332,7 +394,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -445,7 +507,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/332105-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -453,7 +515,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/332105-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000403595.webp",
@@ -466,6 +528,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -20,23 +20,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "te": [
+      "వన తులసి"
+    ],
     "zh": [
       "灰罗勒",
       "草灵脂"
-    ],
-    "en": [
-      "American basil",
-      "hoary basil",
-      "lime basil"
-    ],
-    "it": [
-      "basilico americano"
-    ],
-    "te": [
-      "వన తులసి"
     ],
     "ar": [
       "حبق أمريكي"
@@ -52,13 +44,21 @@
     ],
     "arz": [
       "حبق امريكى"
+    ],
+    "en": [
+      "American basil",
+      "hoary basil",
+      "lime basil"
+    ],
+    "it": [
+      "basilico americano"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3240154",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3240154",
   "search_names": {
@@ -69,13 +69,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ocimum americanum」",
+      "source": "Wikipedia (en): Ocimum americanum",
       "source_url": "https://en.wikipedia.org/wiki/Ocimum_americanum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375011582,
       "text": "Ocimum americanum, known as American basil, lime basil, or hoary basil, is a species of an annual herb in the family Lamiaceae. Despite the misleading name, it is native to Africa, the Indian subcontinent, China, and Southeast Asia. The species is naturalized in Queensland, Christmas Island, and parts of tropical America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ocimum americanum",
+      "source_url": "https://es.wikipedia.org/wiki/Ocimum_americanum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581437,
+      "text": "La albahaca lima es una especie de planta herbácea anual perteneciente a la familia de las lamiáceas, originaria y ampliamente distribuida en los trópicos del Viejo Mundo; naturalizada en Mesoamérica, Perú, Bolivia, Brasil. Es una planta herbácea anual con flores de color blanco o lavanda. Es usada como planta medicinal."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ocimum americanum",
+      "source_url": "https://fr.wikipedia.org/wiki/Ocimum_americanum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235589915,
+      "text": "Ocimum americanum L. est une espèce de plantes à fleurs de la famille des Lamiaceae et du genre Ocimum, selon la classification phylogénétique. C'est une plante originaire des régions tropicales et subtropicales de l'Ancien Monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ocimum americanum",
+      "source_url": "https://pt.wikipedia.org/wiki/Ocimum_americanum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71189727,
+      "text": "Alfavaca-do-campo é uma planta anual, odorífica e medicinal que pertence à família das lamiáceas, originária das regiões tropicais e subtropicais do Velho Mundo, cujo flores da cor branca ou lavanda. Originária da Ásia e África, naturalizou-se\npela América tropical, onde é encontrada vegetando espontaneamente. É conhecida popularmente pelos nomes de alfavaca-do-campo, alfavaca-de-vaqueiro, remédio-de-vaqueiro, segurelha, manjericão branco e anão."
     }
   },
   "edible": {
@@ -94,7 +121,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -189,7 +216,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316218-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or subshrub",
@@ -197,6 +224,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316218-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -21,14 +21,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "岭南臭椿",
-      "毛叶南臭椿",
-      "山蜡梅"
-    ],
     "vi": [
       "Thanh thất"
     ],
@@ -37,6 +32,11 @@
     ],
     "ml": [
       "മട്ടി"
+    ],
+    "zh": [
+      "岭南臭椿",
+      "毛叶南臭椿",
+      "山蜡梅"
     ],
     "fa": [
       "آیلانتوس تریفیسا"
@@ -52,7 +52,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2110253",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2110253",
   "search_names": {
@@ -62,13 +62,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ailanthus triphysa」",
+      "source": "Wikipedia (en): Ailanthus triphysa",
       "source_url": "https://en.wikipedia.org/wiki/Ailanthus_triphysa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314088414,
       "text": "Ailanthus triphysa, ferntop ash, is a medium to tall evergreen rainforest tree that is native to Asia and Australia. The wood is used for matchwood and plywood. The tree is known as halmaddi in India, where its resin, also called halmaddi, may be used in incense. Inappropriate extraction methods were resulting in trees dying, thus by the 1990s the Indian forestry department had banned extraction."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ailanthus triphysa",
+      "source_url": "https://es.wikipedia.org/wiki/Ailanthus_triphysa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172632701,
+      "text": "El Ailanthus triphysa es un árbol de bosque tropical de Asia y Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ailanthus triphysa",
+      "source_url": "https://fr.wikipedia.org/wiki/Ailanthus_triphysa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233866860,
+      "text": "Ailanthus triphysa est un arbre de la famille des Simaroubaceae originaire d'Asie et de la forêt tropicale australienne."
     }
   },
   "edible": {
@@ -81,7 +99,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -107,7 +125,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/813557-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -115,7 +133,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/813557-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001140390.webp",
@@ -128,6 +146,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

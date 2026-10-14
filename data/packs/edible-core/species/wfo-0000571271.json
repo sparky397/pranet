@@ -16,7 +16,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -26,28 +26,13 @@
       "Rapeseed",
       "rape"
     ],
-    "de": [
-      "Raps"
-    ],
-    "nl": [
-      "Koolzaad"
-    ],
-    "cs": [
-      "brukev řepka"
-    ],
     "fr": [
-      "navette",
-      "colza"
+      "Colza",
+      "colza",
+      "navette"
     ],
-    "zh": [
-      "欧洲油菜"
-    ],
-    "ast": [
-      "colza"
-    ],
-    "sl": [
-      "navadna ogršcica",
-      "navadna ogrščica"
+    "pt": [
+      "Colza"
     ],
     "eu": [
       "Koltza"
@@ -58,14 +43,14 @@
     "et": [
       "raps"
     ],
+    "nl": [
+      "koolzaad"
+    ],
     "ar": [
       "سلجم"
     ],
     "sv": [
       "Raps"
-    ],
-    "pt": [
-      "Colza"
     ],
     "eo": [
       "kolzo"
@@ -118,6 +103,9 @@
     "gl": [
       "colza"
     ],
+    "de": [
+      "Raps"
+    ],
     "yue": [
       "油菜"
     ],
@@ -145,6 +133,13 @@
     "cy": [
       "Rêp"
     ],
+    "sl": [
+      "navadna ogrščica",
+      "navadna ogršcica"
+    ],
+    "cs": [
+      "brukev řepka"
+    ],
     "sgs": [
       "Rapsos"
     ],
@@ -165,6 +160,9 @@
     ],
     "ru": [
       "рапс"
+    ],
+    "zh": [
+      "欧洲油菜"
     ],
     "kk": [
       "Рапс"
@@ -216,6 +214,9 @@
     ],
     "mn": [
       "Рапс"
+    ],
+    "ast": [
+      "Colza"
     ],
     "bs": [
       "Uljana repica"
@@ -276,7 +277,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q177932",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q177932",
   "search_names": {
@@ -287,47 +288,105 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウアブラナ」",
+      "source": "Wikipedia (ja): セイヨウアブラナ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%82%A2%E3%83%96%E3%83%A9%E3%83%8A",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109072141,
       "text": "セイヨウアブラナ は、アブラナ科アブラナ属の二年生植物。食用油の原料として、世界中で広く栽培されている。英語では、白菜等の仲間である近縁種Braasica rapaに由来する語rapeと表記される。しかし、近年では「rape」という単語が持つネガティブなイメージを避けるためか、キャノーラ品種を意味する語canolaをセイヨウアブラナ全体を指す語として用いるケースが多い。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Rapeseed」",
+      "source": "Wikipedia (en): Rapeseed",
       "source_url": "https://en.wikipedia.org/wiki/Rapeseed",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369018628,
       "text": "Rapeseed, also known as rape and oilseed rape and canola, is a yellow-flowered member of the Brassicaceae family."
+    },
+    "es": {
+      "source": "Wikipedia (es): Brassica napus",
+      "source_url": "https://es.wikipedia.org/wiki/Brassica_napus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175043762,
+      "text": "Brassica napus, conocida como colza, canola o raps es una especie de planta cultivada de la familia de las brasicáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Colza",
+      "source_url": "https://fr.wikipedia.org/wiki/Colza",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239029778,
+      "text": "Le colza est une plante annuelle à fleurs jaunes de la famille des Brassicacées, famille anciennement nommée Crucifères. Elle est largement cultivée pour la production d'huile alimentaire et d'agrocarburant. C'est, avec le tournesol et l'olivier, l'une des trois principales sources d'huile végétale alimentaire en Europe."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Colza",
+      "source_url": "https://pt.wikipedia.org/wiki/Colza",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70941553,
+      "text": "A Brassica napus, comumente conhecida como colza é uma planta da família das brassicáceas (couves), pertencente ao tipo fisionómico dos caméfitos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Brassica napus",
+      "source_url": "https://id.wikipedia.org/wiki/Brassica_napus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29216552,
+      "text": "Brassica napus L. dikenal dari salah satu kelompoknya yang menjadi tumbuhan penghasil minyak penting dunia, yaitu rapa. Rapa secara agak salah kaprah disebut juga kanola, nama untuk sebagian kultivar dengan ciri tertentu). B. napus merupakan hasil persilangan alami antara B. rapa dan B. oleracea. Di alam tidak pernah ditemukan B. napus yang tumbuh liar di tempat yang dianggap menjadi pusat keragamannya."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「セイヨウアブラナ」の節「栽培」",
+        "source": "Wikipedia (ja): セイヨウアブラナ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%82%A2%E3%83%96%E3%83%A9%E3%83%8A#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109072141,
         "heading": "栽培",
         "text": "日本国内の栽培面積では北海道が最大である。中でも空知地方が特に多く、作付面積で日本一の滝川市のほか、近年は岩見沢市と美唄市もそれに迫る勢いで栽培が増えている。次いで青森県が多く、先述の滝川市と作付面積日本一の座を長年競っている横浜町が有名。このほか秋田県や福島県も作付けが大きい。\n\n■ 作付面積\n\n■ 生産量\nナタネが農業者戸別所得補償制度の戦略作物に指定されたことにより、2010年より全国の生産量が報告されるようになった。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Rapeseed」の節「Cultivation」",
+        "source": "Wikipedia (en): Rapeseed § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Rapeseed#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369018628,
         "heading": "Cultivation",
         "text": "Crops from the genus Brassica, including rapeseed, were among the earliest plants to be widely cultivated by humankind as early as 10,000 years ago. Rapeseed was being cultivated in India as early as 4000 B.C.E. and it spread to China and Japan 2000 years ago.\nRapeseed is predominantly cultivated in its winter form in most of Europe and Asia due to the requirement of vernalization to start the process of flowering. It is sown in autumn and remains in a leaf rosette on the soil surface during the winter. The plant grows a long vertical stem in the next spring followed by lateral branch development. It generally flowers in late spring with the process of pod development and ripening occurring over a period of 6–8 weeks until midsummer.\nIn Europe, winter rapeseed is grown as an annual break crop in three to four-year rotations with cereals such as wheat and barley, and break crops such as peas and beans. This is done to reduce the possibility of pests and diseases being carried over from one crop to another. Winter rape is less susceptible to crop failure as it is more vigorous than the summer variety and can compensate for damage done by pests.\nSpring rapeseed is cultivated in Canada, northern Europe and Australia as it is not winter-hardy and does not require vernalization. The crop is sown in spring with stem development happening immediately after germination.\nRapeseed can be cultivated on a wide variety of well-drained soils, prefers a pH between 5.5 and 8.3 and has a moderate tolerance of soil salinity. It is predominantly a wind-pollinated plant but shows significantly increased grain yields when bee-pollinated, almost double the final yield but the effect is cultivar dependent.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Colza § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Colza#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239029778,
+        "heading": "Culture",
+        "text": "Le colza est une culture largement répandue dans le monde, principalement dans les zones tempérées fraîches, principalement pour l'alimentation animale, pour la production d'huile alimentaire, et plus récemment pour la production de biocarburant.\nEn France, le colza d'hiver se sème en fin d'été (du 15 août au 15 septembre), le peuplement recherché pour la culture sera d'environ 30 pieds/m2 pour les lignées et 20 pieds/m2 pour les hybrides. L'écartement entre les rangs varie entre 12 et 80 cm suivant le choix du semoir, classique ou monograine, et les choix de l'agriculteur en matière de désherbage mécanique, notamment du binage.\nLe colza est très gourmand en azote (7 kg/q contre 3 pour le blé et 2,2 pour le tournesol). La fertilisation totale du colza doit apporter entre 140 et 200 unités d'azote par hectare avec des engrais chimiques ou organiques. On ne cultive pas de colza de printemps en France.\nAu Canada, on cultive essentiellement du canola de printemps, dans l'ouest canadien, et aussi un peu de canola d'automne en Ontario. Dans l'ouest canadien, les techniques culturales font appel aux TCS ou au semis direct. Le désherbage est facilité grâce à l'utilisation de semences OGM résistantes à deux herbicides totaux. Toutefois, en mars 2015, l'OMS, à travers le CIRC, classe un des herbicides utilisés pour le canola OGM (le glyphosate), comme cancérogène « probable ». La récolte peut s'effectuer directement à la moissonneuse-batteuse comme souvent en France, ou bien passer par une opération de fauchage-andainage préalable comme au Canada, les produits étant repris par une moissonneuse une dizaine de jours plus tard.",
+        "truncated": true
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Colza § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Colza#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 70941553,
+        "heading": "Cultivo",
+        "text": "Há uma subespécie de couve-nabiça, a Brassica napus L. emend. Metzg., que é cultivada tradicionalmente em Portugal, durante todo o ano, e é conhecida como «doce-maria», encontrando-se registada no Catálogo Nacional de Variedades de Espécies Agrícolas e Hortícolas desde 2011.",
+        "truncated": false
       }
     }
   },
@@ -346,7 +405,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -497,7 +556,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/279419-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -505,7 +564,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/279419-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000571271.webp",
@@ -518,6 +577,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 393,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

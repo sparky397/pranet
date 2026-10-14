@@ -14,7 +14,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -24,15 +24,17 @@
       "Shallot",
       "wild onion"
     ],
-    "zh": [
-      "分蔥",
-      "细香葱",
-      "火葱（细香葱）",
-      "火葱",
-      "西亚火葱"
+    "fr": [
+      "Échalote",
+      "échalote"
     ],
-    "sl": [
-      "šalotka"
+    "pt": [
+      "Chalota",
+      "chalota"
+    ],
+    "id": [
+      "Bawang merah",
+      "Bawang Merah"
     ],
     "lb": [
       "Schalott"
@@ -52,9 +54,6 @@
     "he": [
       "בצלצל"
     ],
-    "fr": [
-      "échalote"
-    ],
     "es": [
       "chalote"
     ],
@@ -63,9 +62,6 @@
     ],
     "de": [
       "Schalotte"
-    ],
-    "id": [
-      "Bawang Merah"
     ],
     "ml": [
       "ചുവന്നുള്ളി"
@@ -78,9 +74,6 @@
     ],
     "sv": [
       "schalottenlök"
-    ],
-    "pt": [
-      "chalota"
     ],
     "ht": [
       "echalot"
@@ -123,6 +116,13 @@
     ],
     "fi": [
       "salottisipuli"
+    ],
+    "zh": [
+      "火葱",
+      "分蔥",
+      "细香葱",
+      "火葱（细香葱）",
+      "西亚火葱"
     ],
     "eu": [
       "tipulatx"
@@ -214,6 +214,9 @@
     "yi": [
       "שעלאט"
     ],
+    "sl": [
+      "šalotka"
+    ],
     "tg": [
       "Картошкапиёз"
     ],
@@ -228,7 +231,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q193498",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q193498",
   "search_names": {
@@ -241,22 +244,84 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「エシャロット」",
+      "source": "Wikipedia (ja): エシャロット",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B7%E3%83%A3%E3%83%AD%E3%83%83%E3%83%88",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109311774,
       "text": "エシャロット は、タマネギの一種、具体的にはタマネギ の変種である。調味料および野菜として栽培されており、食用とされる球根（鱗茎）もエシャロットと呼ばれる。タマネギはヒガンバナ科に分類される（以前はユリ科）。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Shallot」",
+      "source": "Wikipedia (en): Shallot",
       "source_url": "https://en.wikipedia.org/wiki/Shallot",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368454041,
       "text": "The shallot is a cultivar group of the onion. Until 2010, the shallot was classified as a separate species, Allium ascalonicum. The taxon was synonymized with Allium cepa in 2010, as the difference was too small to justify a separate species."
+    },
+    "es": {
+      "source": "Wikipedia (es): Allium ascalonicum",
+      "source_url": "https://es.wikipedia.org/wiki/Allium_ascalonicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174360964,
+      "text": "Allium ascalonicum, nombre científico de la chalota, carlota, chalote, echalote, escaloña o ascalonia, es una planta herbácea comestible que pertenece a la familia de las aliáceas. Esta verdura es originaria de Asia Central, específicamente de las regiones que comprenden el actual Irán, Afganistán y partes de Asia Menor. Se ha cultivado y utilizado en la gastronomía mundial desde tiempos antiguos debido a sus características culinarias y su sabor más suave y menos picante que el de otras especies de Allium, como la cebolla común."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Échalote",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89chalote",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240140151,
+      "text": "L'échalote est une variété de plante bulbeuse de la famille des Amaryllidacées, cultivée comme plante condimentaire et potagère. Le terme désigne aussi le bulbe lui-même, qui fait partie depuis longtemps de la gastronomie française. Au Québec et au Nouveau-Brunswick, elle est appelée « échalote française »."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Chalota",
+      "source_url": "https://pt.wikipedia.org/wiki/Chalota",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69043833,
+      "text": "A chalota ou échalote é uma planta bulbosa do género Allium, originária da Ásia central. Seu nome vem de Ascalão, cidade da antiga Palestina de onde foi trazida para França durante a Primeira Cruzada. Como a maioria das plantas deste gênero, é utilizada com fins culinários. A parte comestível são os bulbos. O sabor é semelhante ao da cebola."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bawang merah",
+      "source_url": "https://id.wikipedia.org/wiki/Bawang_merah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30036546,
+      "text": "Bawang merah, juga dikenal sebagai berambang, adalah sebuah kelompok budidaya dari bawang bombai. Hingga 2010, bawang merah Prancis diklasifikasikan sebagai spesies terpisah, Allium ascalonicum. Takson tersebut disinonimkan dengan Allium cepa pada 2010, karena perbedaannya dianggap terlalu kecil untuk membenarkannya sebagai spesies yang terpisah."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Allium ascalonicum § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Allium_ascalonicum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174360964,
+        "heading": "Cultivo",
+        "text": "■ Chalota \"tradicional\" (a partir de bulbos)\nLas chalotas pueden cultivarse en cualquier suelo, a menos que contenga demasiado humus y esté mal drenado. El suelo ideal es ligero, arenoso y profundamente suelto. Conviene esperar de 3 a 5 años antes de plantar en una parcela donde se hayan establecido especies de la misma familia (cebolla, ajo, puerro)​ Esta planta teme la humedad y debe cultivarse a pleno sol.​\nEs preferible utilizar plantas certificadas libres de enfermedades.​ Los bulbos se plantan en otoño, de octubre a diciembre, o a finales del invierno, de marzo a abril, según la variedad y la región. Puede aplicarse un acolchado para evitar las malas hierbas y reducir el oídio.\nLa cosecha tiene lugar entre cinco y nueve meses después de la plantación, hacia julio.\nLos bulbos secos pueden conservarse bien en un lugar fresco durante varios meses.\n\n■ Chalotas a partir de semilla\nLa siembra directa se realiza en marzo o abril, según la variedad, a razón de 1,8 a 2 millones de semillas por hectárea en función del tamaño deseado.\nLa cosecha tiene lugar en agosto.\nLos bulbos son fáciles de almacenar porque el material de base (la semilla) es material de propagación sano. Puede almacenarse desde la cosecha hasta finales de junio del año siguiente.\nLas chalotas pueden almacenarse en un ambiente fresco y seco (0-4 °C, 60-70nbsp;% de humedad) durante seis meses o más.​",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Échalote § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/%C3%89chalote#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240140151,
+        "heading": "Culture",
+        "text": "■ Échalote « traditionnelle » (bulbes)\nL’échalote se cultive dans tout sol sauf s’il est trop humifère et mal drainé. L’idéal reste un sol léger, plutôt sableux et profondément ameubli. Il est prudent d'attendre 3 à 5 ans avant de planter dans une parcelle où des espèces de la même famille (oignon, ail, poireau) étaient installées. Cette plante redoute l’humidité et doit être cultivée en plein soleil.\nIl est préférable d'utiliser des plants certifiés exempt de maladies\nLa plantation des bulbes est réalisée, soit en automne d'octobre à décembre, soit en fin d'hiver de mars à avril, selon les variétés et les régions. Un paillage peut être mis en place afin d'éviter le désherbage et de réduire les attaques d'oïdium.\nLa récolte intervient selon les cas entre cinq et neuf mois après la plantation, vers le mois de juillet.\nLes bulbes secs peuvent être bien conservés dans un local frais, durant plusieurs mois.\n\n■ Échalote « issue de semis »\n\nLe semis direct est pratiqué en mars ou avril, selon les variétés, à raison de 1,8 à 2 millions de graines par hectare en fonction du calibre souhaité.\nLa récolte est effectuée au mois d'août.\nLa conservation des bulbes est facilitée car le matériel de base (la graine) est un matériel de propagation sain. Elle peut s'étendre de la récolte jusqu'à fin juin de l'année suivante.\nLes échalotes  peuvent être conservées à la fraicheur, en atmosphère sèche (0 à 4 °C, 60 à 70% d'humidité) pendant six mois voire plus.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -268,7 +333,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -284,7 +349,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30185627-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -292,7 +357,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30185627-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000755698.webp",
@@ -305,6 +370,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 259,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

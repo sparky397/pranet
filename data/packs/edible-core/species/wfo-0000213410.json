@@ -11,44 +11,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ハリエニシダ"
-    ],
-    "de": [
-      "Gewöhnlicher Stechginster",
-      "Gaspeldorn"
-    ],
-    "en": [
-      "Common Gorse",
-      "Gorse"
-    ],
-    "nl": [
-      "Gaspeldoorn"
-    ],
-    "cs": [
-      "hlodáš evropský"
-    ],
-    "fr": [
-      "ajonc deurope"
-    ],
-    "fi": [
-      "euroopanpiikkiherne"
-    ],
-    "uk": [
-      "Улекс європейський"
-    ],
-    "zh": [
-      "荆豆"
-    ],
-    "ast": [
-      "árgoma machu",
-      "cábada",
-      "cábadu",
-      "calva",
-      "mota"
     ],
     "wa": [
       "Djiniesse ås spenes"
@@ -65,6 +32,9 @@
     "nrm": [
       "Geon"
     ],
+    "fi": [
+      "euroopanpiikkiherne"
+    ],
     "gl": [
       "Toxo arnal"
     ],
@@ -77,6 +47,9 @@
     "sv": [
       "Ärttörne"
     ],
+    "nl": [
+      "Gaspeldoorn"
+    ],
     "da": [
       "Almindelig Tornblad"
     ],
@@ -85,6 +58,12 @@
     ],
     "ca": [
       "gatosa europea"
+    ],
+    "zh": [
+      "荆豆"
+    ],
+    "cs": [
+      "hlodáš evropský"
     ],
     "cy": [
       "Eithinen Ffrengig"
@@ -130,13 +109,34 @@
     ],
     "yue": [
       "荊豆"
+    ],
+    "de": [
+      "Gewöhnlicher Stechginster",
+      "Gaspeldorn"
+    ],
+    "en": [
+      "Common Gorse",
+      "Gorse"
+    ],
+    "fr": [
+      "ajonc deurope"
+    ],
+    "uk": [
+      "Улекс європейський"
+    ],
+    "ast": [
+      "árgoma machu",
+      "cábada",
+      "cábadu",
+      "calva",
+      "mota"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161794",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161794",
   "search_names": {
@@ -146,32 +146,59 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ハリエニシダ」",
+      "source": "Wikipedia (ja): ハリエニシダ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%A8%E3%83%8B%E3%82%B7%E3%83%80",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110893759,
       "text": "ハリエニシダ は、マメ科マメ亜科ハリエニシダ属に分類される植物の一種。西ヨーロッパ・イタリア原産であるが、広く移入され、日本にも外来種として定着している。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ulex europaeus」",
+      "source": "Wikipedia (en): Ulex europaeus",
       "source_url": "https://en.wikipedia.org/wiki/Ulex_europaeus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374278321,
       "text": "Ulex europaeus, commonly known as gorse, common gorse, furze or whin, is a species of flowering plant native to Western Europe."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ulex europaeus",
+      "source_url": "https://es.wikipedia.org/wiki/Ulex_europaeus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173175782,
+      "text": "Ulex europaeus, comúnmente denominada argoma, árgoma, aliaga, aulaga, chacay, espinillo, rebolla, retamo espinoso o tojo es una especie vegetal, un arbusto de origen europeo perteneciente a la familia de las leguminosas. La especie debe su nombre común a que las hojas de los individuos maduros están modificadas en espinas de hasta 4 cm de longitud, lo cual le da a la planta un aspecto espinoso. Las plántulas tienen hojas trifolioladas, características de los miembros de la subfamilia, hasta un par de meses después de la germinación. Está incluido en la lista 100 de las especies exóticas invasoras más dañinas del mundo de la Unión Internacional para la Conservación de la Naturaleza."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ulex europaeus",
+      "source_url": "https://fr.wikipedia.org/wiki/Ulex_europaeus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239660453,
+      "text": "Ulex europaeus, l'ajonc d'Europe, est une espèce de plantes à fleurs dicotylédones de la famille des Fabaceae, sous-famille des Faboideae, originaire d'Europe occidentale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ulex europaeus",
+      "source_url": "https://pt.wikipedia.org/wiki/Ulex_europaeus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72405906,
+      "text": "Ulex europaeus é uma espécie de planta com flor pertencente à família Fabaceae. Apresenta ramificação aberta ou compacta, filódios rígidos, flores amarelas dispostas em tirsos e vagens achatadas, escuras e pubescentes."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Ulex europaeus」の節「Cultivation」",
+        "source": "Wikipedia (en): Ulex europaeus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Ulex_europaeus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374278321,
         "heading": "Cultivation",
         "text": "This plant is used for hedging, boundary definition and groundcover in suitably sunny, open locations. Cultivars include 'Strictus' (Irish gorse), a dwarf form, and the double-flowered, non-fruiting 'Flore Pleno', which has gained the Royal Horticultural Society's Award of Garden Merit.",
@@ -192,7 +219,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -268,7 +295,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/524298-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -276,7 +303,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/524298-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000213410.webp",
@@ -289,6 +316,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

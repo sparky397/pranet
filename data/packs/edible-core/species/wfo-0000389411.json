@@ -26,47 +26,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ニガカシュウ",
       "カシュウイモ"
     ],
-    "en": [
-      "air yam",
-      "potato yam",
-      "bitter yam"
-    ],
-    "zh": [
-      "山芋",
-      "金錦吊蝦蟆",
-      "薢萆川",
-      "獨黃",
-      "山慈菇",
-      "黄药子",
-      "黄独零余子",
-      "黄独",
-      "零余子"
-    ],
-    "bn": [
-      "কাঠ আলু",
-      "বনআলু"
-    ],
-    "hi": [
-      "बाराही कन्द, गेंठी"
-    ],
-    "ig": [
-      "Ona"
-    ],
-    "sl": [
-      "gomoljasta dioskoreja"
-    ],
-    "dv": [
-      "މަތިވައް ކައްޓަލަ"
+    "fr": [
+      "Hoffe (plante)",
+      "Hoffe"
     ],
     "id": [
       "Gembolo"
+    ],
+    "dv": [
+      "މަތިވައް ކައްޓަލަ"
     ],
     "de": [
       "Luftkartoffel"
@@ -76,9 +51,6 @@
     ],
     "mr": [
       "मटाळू"
-    ],
-    "fr": [
-      "Hoffe"
     ],
     "ne": [
       "गिठ्ठा"
@@ -92,8 +64,23 @@
     "ml": [
       "അടതാപ്പ്"
     ],
+    "zh": [
+      "黄独",
+      "山芋",
+      "金錦吊蝦蟆",
+      "薢萆川",
+      "獨黃",
+      "山慈菇",
+      "黄药子",
+      "黄独零余子",
+      "零余子"
+    ],
     "as": [
       "কাঠ আলু"
+    ],
+    "bn": [
+      "কাঠ আলু",
+      "বনআলু"
     ],
     "ru": [
       "Диоскорея клубненосная"
@@ -131,6 +118,9 @@
     "za": [
       "Goyazbyah"
     ],
+    "sl": [
+      "gomoljasta dioskoreja"
+    ],
     "ace": [
       "Ladong"
     ],
@@ -145,13 +135,24 @@
     ],
     "shn": [
       "တူၼ်ႈႁူဝ်ၶူဝ်ႇ"
+    ],
+    "en": [
+      "air yam",
+      "potato yam",
+      "bitter yam"
+    ],
+    "hi": [
+      "बाराही कन्द, गेंठी"
+    ],
+    "ig": [
+      "Ona"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311239",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311239",
   "search_names": {
@@ -167,43 +168,70 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ニガカシュウ」",
+      "source": "Wikipedia (ja): ニガカシュウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AC%E3%82%AB%E3%82%B7%E3%83%A5%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107028846,
       "text": "ニガカシュウ は、ヤマノイモ科のヤムである。英語では、air potato、air yam、bitter yam、cheeky yam、potato yam、aerial yam、parsnip yam等と呼ばれる。日本国内ではエアーポテト、宇宙芋などの呼称で流通している。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Dioscorea bulbifera」",
+      "source": "Wikipedia (en): Dioscorea bulbifera",
       "source_url": "https://en.wikipedia.org/wiki/Dioscorea_bulbifera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369587382,
       "text": "Dioscorea bulbifera is a species of true yam in the yam family, Dioscoreaceae. It is native to Africa, Asia and northern Australia. It is widely cultivated and has become naturalized in many regions."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Hoffe (plante)",
+      "source_url": "https://fr.wikipedia.org/wiki/Hoffe_(plante)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240263488,
+      "text": "L'hoffe, igname bulbifère, pomme-en-l'air à l'île de La Réunion, masako en Guyane, koko-bourik ou koko-milé en Martinique, \"adò\" en Guadeloupe, ou encore pomme Edward aux Seychelles, est une espèce de plantes de la famille des Dioscoreaceae. Cette plante grimpante originaire d'Afrique de l'Est et proche de l'igname, donne des tubercules aériens comestibles, d'où son nom vernaculaire. Elle s'est répandue sur toutes les côtes est de l'océan Indien, puis dans les zones tropicales où elle est devenue envahissante."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Dioscorea bulbifera",
+      "source_url": "https://pt.wikipedia.org/wiki/Dioscorea_bulbifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66182822,
+      "text": "Dioscorea bulbifera é uma espécie da família Dioscoreaceae cultivada pelos seus tubérculos (\"batatas\") e bulbos axilares. Dependendo da região, esta espécie pode ser chamada de inhame ou cará; mais especificamente, de cará-do-ar ou inhame-do-ar, cará-moela, cará-voador, cará-de-árvore, cará-taramela, cará-de-rama ou cará-aéreo."
+    },
+    "id": {
+      "source": "Wikipedia (id): Gembolo",
+      "source_url": "https://id.wikipedia.org/wiki/Gembolo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28923241,
+      "text": "Gembolo atau kentang gantung, kentang udara, umbi udara, katibung merupakan tanaman umbi-umbian yang ditanam di pekarangan. Tanaman ini makin jarang dikenal dan hanya bisa dijumpai di desa-desa. Umbi gembolo serupa dengan umbi gembili tetapi berukuran lebih besar."
     }
   },
   "sections": {
     "toxicity": {
       "ja": {
-        "source": "Wikipedia 日本語版「ニガカシュウ」の節「毒性」",
+        "source": "Wikipedia (ja): ニガカシュウ § 毒性",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AC%E3%82%AB%E3%82%B7%E3%83%A5%E3%82%A6#%E6%AF%92%E6%80%A7",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 107028846,
         "heading": "毒性",
         "text": "フロリダ州で自生しているもののような栽培種以外の種は、毒を含むことがあり、ホルモン避妊で用いられるもの等の様々な合成ステロイドホルモンの主原料となるステロイドのジオスゲニン等が含まれる。このような野生種でも、乾燥したり茹でると食べられると言われることがあるが、実際の毒性についてはよく分かっていない。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Dioscorea bulbifera」の節「Toxicity」",
+        "source": "Wikipedia (en): Dioscorea bulbifera § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Dioscorea_bulbifera#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369587382,
         "heading": "Toxicity",
         "text": "Uncultivated forms, such as those found growing wild in Florida, can be poisonous. These varieties contain the steroid diosgenin, which is a principal material used in the manufacture of a number of synthetic steroidal hormones, such as those used in hormonal contraception.  There have been claims that even the wild forms are rendered edible after drying and boiling, leading to confusion over actual toxicity.",
@@ -225,7 +253,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -352,7 +380,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/323908-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing tuberous geophyte",
@@ -360,7 +388,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/323908-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000389411.webp",
@@ -373,6 +401,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

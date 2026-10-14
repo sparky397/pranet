@@ -41,29 +41,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "barfwellt unflwydd"
-    ],
-    "en": [
-      "annual rabbitsfoot grass",
-      "Annual Beard-grass"
-    ],
-    "zh": [
-      "長芒棒頭草",
-      "长芒棒头草"
-    ],
-    "nl": [
-      "Baardgras"
-    ],
-    "cs": [
-      "vousec středomořský"
-    ],
-    "fi": [
-      "ranskansukaheinä"
-    ],
     "ru": [
       "Многобородник монпелиенский"
     ],
@@ -73,6 +53,10 @@
     "bg": [
       "монпелийски полипогон"
     ],
+    "zh": [
+      "长芒棒头草",
+      "長芒棒頭草"
+    ],
     "ko": [
       "갯쇠돌피"
     ],
@@ -81,6 +65,15 @@
     ],
     "sv": [
       "Skäggräs"
+    ],
+    "cy": [
+      "Barfwellt unflwydd"
+    ],
+    "cs": [
+      "vousec středomořský"
+    ],
+    "fi": [
+      "ranskansukaheinä"
     ],
     "pl": [
       "polipogon montpeliański"
@@ -99,13 +92,20 @@
     ],
     "grc": [
       "ἀλωπέκουρος"
+    ],
+    "en": [
+      "annual rabbitsfoot grass",
+      "Annual Beard-grass"
+    ],
+    "nl": [
+      "Baardgras"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4298830",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4298830",
   "search_names": {
@@ -115,13 +115,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Polypogon monspeliensis」",
+      "source": "Wikipedia (en): Polypogon monspeliensis",
       "source_url": "https://en.wikipedia.org/wiki/Polypogon_monspeliensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1297899440,
       "text": "Polypogon monspeliensis, commonly known as annual beard-grass or annual rabbitsfoot grass, is a species of grass. It is native to the Old World, but it can be found today throughout the world as an introduced species and sometimes a noxious weed. It is an annual grass growing to heights between 5 centimeters and one meter. The soft, fluffy inflorescence is a dense, greenish, plumelike panicle, sometimes divided into lobes. The spikelets have long, thin, whitish awns, which give the inflorescence its texture."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Polypogon monspeliensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Polypogon_monspeliensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235679244,
+      "text": "Polypogon monspeliensis, le Polypogon de Montpellier, est une espèce de plantes herbacées de la famille des Poacées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Polypogon monspeliensis",
+      "source_url": "https://pt.wikipedia.org/wiki/Polypogon_monspeliensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70584870,
+      "text": "Polypogon monspeliensis é uma espécie de planta com flor pertencente à família Poaceae."
     }
   },
   "edible": {
@@ -135,7 +153,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -318,7 +336,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1048074-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -326,7 +344,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1048074-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000894716.webp",
@@ -339,6 +357,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

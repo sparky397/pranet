@@ -11,29 +11,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "lemonscented gum"
-    ],
-    "zh": [
-      "柠檬桉"
-    ],
-    "he": [
-      "אקליפטוס לימוני"
-    ],
     "pt": [
       "Eucalyptus citriodora"
     ],
     "cs": [
       "blahovičník citroníkový"
     ],
+    "he": [
+      "אקליפטוס לימוני"
+    ],
     "it": [
       "Eucalyptus citriodora"
     ],
     "de": [
       "Zitroneneukalyptus"
+    ],
+    "zh": [
+      "柠檬桉"
     ],
     "yue": [
       "檸檬桉"
@@ -55,13 +52,16 @@
     ],
     "mg": [
       "Eucalyptus citriodora"
+    ],
+    "en": [
+      "lemonscented gum"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2549523",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2549523",
   "search_names": {
@@ -74,13 +74,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Corymbia citriodora」",
+      "source": "Wikipedia (en): Corymbia citriodora",
       "source_url": "https://en.wikipedia.org/wiki/Corymbia_citriodora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1347020952,
       "text": "Corymbia citriodora, commonly known as lemon-scented gum and other common names, is a species of tall tree that is endemic to north-eastern Australia. It has smooth white to pink bark, narrow lance-shaped to curved adult leaves, flower buds in groups of three, white flowers and urn-shaped or barrel-shaped fruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Corymbia citriodora",
+      "source_url": "https://es.wikipedia.org/wiki/Corymbia_citriodora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 168044324,
+      "text": "Corymbia citriodora es una especie arbórea de hasta 50 m de altura, oriunda del este templado y tropical de Australia. Se le conoce popularmente como \"eucalipto olor de limón\", \"eucalipto limón\" y \"eucalipto moteado\". De hecho, el nombre Corymbia citriodora se deriva del latín citriodorus, que significa olor a limón."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Corymbia citriodora",
+      "source_url": "https://fr.wikipedia.org/wiki/Corymbia_citriodora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228074448,
+      "text": "Corymbia citriodora, l'eucalyptus citronné, est une espèce de plantes à fleurs du genre Corymbia et de la famille des Myrtaceae. C'est un arbre originaire d'Australie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Corymbia citriodora",
+      "source_url": "https://pt.wikipedia.org/wiki/Corymbia_citriodora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73153276,
+      "text": "Corymbia citriodora, conhecido globalmente como eucalipto-limão e no Brasil também como eucalipto-cheiroso ou eucalipto-cidró, é uma espécie de árvore de grande porte, endêmica de florestas abertas em Queensland, nordeste da Austrália. É célebre mundialmente por seu tronco elegante, liso e pálido, e pelo penetrante aroma de limão de suas folhas, que a torna a principal fonte natural do composto citronelal."
     }
   },
   "edible": {
@@ -96,7 +123,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -138,7 +165,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/986336-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -146,7 +173,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/986336-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000925431.webp",
@@ -159,6 +186,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 262,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

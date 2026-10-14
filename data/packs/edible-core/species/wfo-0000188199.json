@@ -17,11 +17,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "太平洋粟"
+    "fr": [
+      "Châtaignier tahitien"
     ],
     "id": [
       "Gayam"
@@ -49,13 +49,16 @@
     ],
     "ms": [
       "Gayam"
+    ],
+    "zh": [
+      "太平洋粟"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2583958",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2583958",
   "search_names": {
@@ -70,13 +73,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Inocarpus fagifer」",
+      "source": "Wikipedia (en): Inocarpus fagifer",
       "source_url": "https://en.wikipedia.org/wiki/Inocarpus_fagifer",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355328639,
       "text": "Inocarpus fagifer, commonly known as the Tahitian chestnut or Polynesian chestnut, is a species of flowering plant in the subfamily Faboideae of the legume family, Fabaceae. The tree has a wide range in the tropics of the south-west Pacific and south-east Asian regions, and a history of traditional use by the peoples of Polynesia and Melanesia. It is the only edible and culturally important member of the genus Inocarpus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Inocarpus fagifer",
+      "source_url": "https://es.wikipedia.org/wiki/Inocarpus_fagifer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 135200451,
+      "text": "Inocarpus fagifers, conocido como castaño de Tahití o castaño de Polinesia o mape es una especie de plantas con flores perteneciente a la familia Fabaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Châtaignier tahitien",
+      "source_url": "https://fr.wikipedia.org/wiki/Ch%C3%A2taignier_tahitien",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224001385,
+      "text": "Le Châtaignier tahitien ou mapé est une espèce de plantes à fleurs de la famille des Fabaceae. C'est l'unique espèce du genre Inocarpus. C'est un arbre trouvé de l'Indonésie jusqu'en Polynésie orientale."
+    },
+    "id": {
+      "source": "Wikipedia (id): Gayam",
+      "source_url": "https://id.wikipedia.org/wiki/Gayam",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29397850,
+      "text": "Gayam adalah sejenis pohon anggota suku polong-polongan (Fabaceae) yang dapat tumbuh setinggi 20 sampai 30 meter dengan diameter 4 hingga 6 meter. Nama lainnya adalah gatep, atau Tahitian chestnut (Ingg.)."
     }
   },
   "edible": {
@@ -93,7 +123,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -130,7 +160,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/500944-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -138,7 +168,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/500944-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000188199.webp",
@@ -151,6 +181,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

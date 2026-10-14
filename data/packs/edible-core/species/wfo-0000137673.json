@@ -13,15 +13,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "wild cosmos"
-    ],
     "zh": [
-      "尾秋英",
-      "帝皇乌蓝"
+      "帝皇乌蓝",
+      "尾秋英"
     ],
     "ms": [
       "ulam raja"
@@ -43,13 +40,16 @@
     ],
     "ar": [
       "قسموس ذنبي"
+    ],
+    "en": [
+      "wild cosmos"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5174633",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5174633",
   "search_names": {
@@ -59,13 +59,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cosmos caudatus」",
+      "source": "Wikipedia (en): Cosmos caudatus",
       "source_url": "https://en.wikipedia.org/wiki/Cosmos_caudatus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372707164,
       "text": "Cosmos caudatus or king's salad is an annual plant in the genus Cosmos, bearing purple, pink, or white ray florets. It is native to Latin America, and the West Indies, though naturalized in tropical parts of Asia, Africa, and Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cosmos caudatus",
+      "source_url": "https://fr.wikipedia.org/wiki/Cosmos_caudatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225452295,
+      "text": "Cosmos caudatus est une espèce de plantes à fleurs de la famille des Asteraceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cosmos caudatus",
+      "source_url": "https://pt.wikipedia.org/wiki/Cosmos_caudatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66743379,
+      "text": "Cosmo caudatus é uma planta anual do gênero Cosmos. É conhecida no Brasil como amor-de-moça."
     }
   },
   "edible": {
@@ -78,7 +96,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -136,7 +154,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/198324-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -144,7 +162,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/198324-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000137673.webp",
@@ -157,6 +175,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 256,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

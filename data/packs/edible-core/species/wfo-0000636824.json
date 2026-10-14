@@ -12,33 +12,23 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "onionweed",
-      "Wild Onion"
+    "fr": [
+      "Asphodèle fistuleux"
     ],
     "de": [
       "Röhriger Affodill"
     ],
     "es": [
-      "Gamoncillo"
-    ],
-    "fi": [
-      "Pillisoihtu"
-    ],
-    "fr": [
-      "Asphodèle fistuleux"
-    ],
-    "sv": [
-      "Pipafodill"
-    ],
-    "ast": [
-      "gamonín"
+      "gamoncillo"
     ],
     "ar": [
       "بروق أجوف"
+    ],
+    "sv": [
+      "Pipafodill"
     ],
     "tr": [
       "Hıdırellezkamçısı"
@@ -60,13 +50,23 @@
     ],
     "he": [
       "עירית נבובה"
+    ],
+    "en": [
+      "onionweed",
+      "Wild Onion"
+    ],
+    "fi": [
+      "Pillisoihtu"
+    ],
+    "ast": [
+      "gamonín"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1538573",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1538573",
   "search_names": {
@@ -78,13 +78,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Asphodelus fistulosus」",
+      "source": "Wikipedia (en): Asphodelus fistulosus",
       "source_url": "https://en.wikipedia.org/wiki/Asphodelus_fistulosus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1321207736,
       "text": "Asphodelus fistulosus is a species of plant known as hollow-stemmed asphodel, onionweed, onion-leafed asphodel, and pink asphodel. It is native to the Mediterranean region as well as the Arabian Peninsula, Transcaucasus, and Madeira."
+    },
+    "es": {
+      "source": "Wikipedia (es): Asphodelus fistulosus",
+      "source_url": "https://es.wikipedia.org/wiki/Asphodelus_fistulosus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174108197,
+      "text": "Asphodelus fistulosus, el gamoncillo o varita de San José es una especie de planta del género Asphodelus perteneciente a la familia Xanthorrhoeaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Asphodèle fistuleux",
+      "source_url": "https://fr.wikipedia.org/wiki/Asphod%C3%A8le_fistuleux",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 221257296,
+      "text": "L'Asphodèle fistuleux est une espèce de plante herbacée vivace de la famille des Asphodélacées, depuis 2016."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Asphodelus fistulosus",
+      "source_url": "https://pt.wikipedia.org/wiki/Asphodelus_fistulosus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 41424933,
+      "text": "Asphodelus fistulosus é uma espécie de planta do género Asphodelus pertencente à família Xanthorrhoeaceae."
     }
   },
   "edible": {
@@ -97,7 +124,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -156,7 +183,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/531496-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -164,7 +191,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/531496-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000636824.webp",
@@ -177,6 +204,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

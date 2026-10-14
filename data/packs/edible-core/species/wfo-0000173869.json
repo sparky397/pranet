@@ -10,19 +10,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ナンバンアカアズキ",
       "海紅豆"
     ],
-    "en": [
-      "Red Sandalwood",
-      "red beadtree"
-    ],
-    "zh": [
-      "光海红豆"
+    "id": [
+      "Saga pohon"
     ],
     "dv": [
       "މަދޮށި"
@@ -48,9 +44,6 @@
     "to": [
       "Lopa"
     ],
-    "id": [
-      "Saga pohon"
-    ],
     "bn": [
       "রঞ্জনা"
     ],
@@ -65,6 +58,9 @@
     ],
     "gu": [
       "રક્તચંદન"
+    ],
+    "zh": [
+      "光海红豆"
     ],
     "yue": [
       "相思豆"
@@ -110,13 +106,17 @@
     ],
     "ace": [
       "Bayi"
+    ],
+    "en": [
+      "Red Sandalwood",
+      "red beadtree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2717414",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2717414",
   "search_names": {
@@ -126,22 +126,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ナンバンアカアズキ」",
+      "source": "Wikipedia (ja): ナンバンアカアズキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%B3%E3%83%90%E3%83%B3%E3%82%A2%E3%82%AB%E3%82%A2%E3%82%BA%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110125430,
       "text": "ナンバンアカアズキ はマメ科ナンバンアカアズキ属の落葉高木。IUCNレッドリストカテゴリーLC。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Adenanthera pavonina」",
+      "source": "Wikipedia (en): Adenanthera pavonina",
       "source_url": "https://en.wikipedia.org/wiki/Adenanthera_pavonina",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371211940,
       "text": "Adenanthera pavonina is a species of leguminous tree native to southern Asia and northern Australasia. Its uses include food and drink, traditional medicine, and timber."
+    },
+    "es": {
+      "source": "Wikipedia (es): Adenanthera pavonina",
+      "source_url": "https://es.wikipedia.org/wiki/Adenanthera_pavonina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174088745,
+      "text": "Adenanthera pavonina es una especie de árbol, usado por su madera."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Adenanthera pavonina",
+      "source_url": "https://fr.wikipedia.org/wiki/Adenanthera_pavonina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224495252,
+      "text": "Adenanthera pavonina, parfois appelé bois de condori ou cardinalier, est une espèce de plantes à fleurs de la famille des Mimosaceae, ou des Fabaceae selon la classification phylogénétique. C'est un arbre que l'on trouve en Asie et en Océanie. C'est une espèce introduite aux Amériques."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Adenanthera pavonina",
+      "source_url": "https://pt.wikipedia.org/wiki/Adenanthera_pavonina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72541655,
+      "text": "'Adenanthera pavonina' é uma árvore de até 15 metros, da família das leguminosas, subfamília mimosoideae, popularmente chamada de olho-de-pavão, dragoon's eye, carolina, segavé, tento-carolina e false-sandalwood. Também é conhecida por manjelim, manto-de-sangue, aryanwood. Tem folhas bipinadas, 3-6 pares de pina, alternas; foliólulos alternos, oblongos ou ovadas, flores pequenas amarelo-pálidas, favas estreitas e falcadas e sementes vermelhas, muito duras e lustrosas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Saga pohon",
+      "source_url": "https://id.wikipedia.org/wiki/Saga_pohon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29407919,
+      "text": "Saga pohon atau kenderi adalah pohon yang buahnya menyerupai petai dengan bijinya kecil berwarna merah. Tumbuhan ini berasal dari Asia Selatan tetapi sekarang telah tersebar pantropis."
     }
   },
   "edible": {
@@ -161,7 +197,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -250,7 +286,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/317691-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -258,7 +294,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/317691-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000173869.webp",
@@ -271,6 +307,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 310,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

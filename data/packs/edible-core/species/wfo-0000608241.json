@@ -10,7 +10,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -20,61 +20,14 @@
       "Mandarin orange",
       "tangerine"
     ],
-    "bar": [
-      "Mandariene"
+    "fr": [
+      "Mandarinier"
     ],
-    "de": [
-      "Mandarine"
+    "pt": [
+      "Tangerina"
     ],
-    "el": [
-      "Μανταρίνι",
-      "Μανταρινιά"
-    ],
-    "fi": [
-      "Mandariini"
-    ],
-    "nl": [
-      "Sinaasappelboompje",
-      "Mandarijn"
-    ],
-    "tr": [
-      "Mandalina"
-    ],
-    "uk": [
-      "Мандарин"
-    ],
-    "zh": [
-      "柑橘",
-      "柑桔",
-      "橘络",
-      "青皮",
-      "橘核",
-      "酸橙（橙、橙树）",
-      "茶枝柑*(右柑）",
-      "朱红（朱橘）",
-      "柚子",
-      "积壳",
-      "橘白",
-      "橘子",
-      "福橘",
-      "橘",
-      "酸橙",
-      "橘叶",
-      "橘红",
-      "代代花枳壳",
-      "桔子",
-      "枳实",
-      "橘饼",
-      "橘根",
-      "柑橘（橘）",
-      "枳壳",
-      "陈皮"
-    ],
-    "ast": [
-      "Mandarinal"
-    ],
-    "sl": [
-      "mandarinovec"
+    "id": [
+      "Jeruk keprok"
     ],
     "pl": [
       "mandarynka"
@@ -94,14 +47,19 @@
     "sq": [
       "Mandarina"
     ],
+    "el": [
+      "Μανταρινιά",
+      "Μανταρίνι"
+    ],
+    "nl": [
+      "Mandarijn",
+      "Sinaasappelboompje"
+    ],
     "sv": [
       "Småcitrus"
     ],
     "ar": [
       "اليوسفي"
-    ],
-    "pt": [
-      "Tangerina"
     ],
     "eo": [
       "Mandarinujo"
@@ -110,6 +68,15 @@
       "Mandarína"
     ],
     "ru": [
+      "мандарин"
+    ],
+    "tr": [
+      "mandalina"
+    ],
+    "fi": [
+      "mandariini"
+    ],
+    "uk": [
       "мандарин"
     ],
     "nn": [
@@ -145,6 +112,9 @@
     "lbe": [
       "Мандарин"
     ],
+    "de": [
+      "Mandarine"
+    ],
     "mrj": [
       "Мандарин"
     ],
@@ -172,6 +142,9 @@
     "cy": [
       "Oren Mandarin"
     ],
+    "sl": [
+      "mandarinovec"
+    ],
     "os": [
       "Мандарин"
     ],
@@ -195,6 +168,33 @@
     ],
     "sr": [
       "мандарина"
+    ],
+    "zh": [
+      "橘",
+      "柑橘",
+      "柑桔",
+      "橘络",
+      "青皮",
+      "橘核",
+      "酸橙（橙、橙树）",
+      "茶枝柑*(右柑）",
+      "朱红（朱橘）",
+      "柚子",
+      "积壳",
+      "橘白",
+      "橘子",
+      "福橘",
+      "酸橙",
+      "橘叶",
+      "橘红",
+      "代代花枳壳",
+      "桔子",
+      "枳实",
+      "橘饼",
+      "橘根",
+      "柑橘（橘）",
+      "枳壳",
+      "陈皮"
     ],
     "oc": [
       "Mandarina"
@@ -240,9 +240,6 @@
     ],
     "cdo": [
       "Gék"
-    ],
-    "id": [
-      "Jeruk keprok"
     ],
     "ba": [
       "Мандарин"
@@ -291,6 +288,9 @@
     ],
     "azb": [
       "نارینگی"
+    ],
+    "ast": [
+      "Mandarinal"
     ],
     "ml": [
       "മന്ദാരിൻ ഓറഞ്ച്"
@@ -360,13 +360,16 @@
     ],
     "acm": [
       "لالنگي"
+    ],
+    "bar": [
+      "Mandariene"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q125337",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q125337",
   "search_names": {
@@ -382,22 +385,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「マンダリンオレンジ」",
+      "source": "Wikipedia (ja): マンダリンオレンジ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110821034,
       "text": "マンダリンオレンジ は、ミカン属の柑橘類。耐寒性指標は9-11(Cold-hardy citrus)。常緑低木で白い花をつけ、秋から冬に食用となる果実をつける。果皮が薄く手でむくことができるのが特徴である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Mandarin orange」",
+      "source": "Wikipedia (en): Mandarin orange",
       "source_url": "https://en.wikipedia.org/wiki/Mandarin_orange",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372928956,
       "text": "A mandarin orange, often simply called mandarin, is a small, rounded citrus tree fruit. Treated as a distinct species of orange, it is usually eaten plain or in fruit salads. The mandarin is small and oblate, unlike the roughly spherical sweet orange. The taste is sweeter and stronger than the common orange. A ripe mandarin orange is firm to slightly soft, heavy for its size, and pebbly-skinned. The peel is thin and loose, with little white mesocarp, so they are usually easier to peel and to split into segments. Hybrids have these traits to lesser degrees. The mandarin orange is tender and is damaged easily by cold. It can be grown in tropical and subtropical areas."
+    },
+    "es": {
+      "source": "Wikipedia (es): Citrus reticulata",
+      "source_url": "https://es.wikipedia.org/wiki/Citrus_reticulata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175722816,
+      "text": "Citrus reticulata es una especie del género Citrus, en la familia de las rutáceas, nativa del sudeste asiático y Filipinas. Se conoce popularmente por el nombre de mandarino y sus frutos como mandarina, si bien estas denominaciones no son exclusivas, ya que Citrus × tangerina recibe el mismo nombre. La pulpa de su fruto está formada por un considerable número de gajos llenos de jugo que contienen gran cantidad de vitamina C, flavonoides y aceites esenciales."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Mandarinier",
+      "source_url": "https://fr.wikipedia.org/wiki/Mandarinier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225959487,
+      "text": "Le mandarinier est un agrume de la famille des Rutaceae produisant des fruits nommés mandarines."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tangerina",
+      "source_url": "https://pt.wikipedia.org/wiki/Tangerina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72392972,
+      "text": "A tangerina, também conhecida como laranja-mimosa, mexerica, mandarina, fuxiqueira, poncã, manjerica, laranja-cravo, mimosa e bergamota, é uma fruta cítrica de cor alaranjada e sabor adocicado. Parece ser uma antiga espécie selvagem, nativa da Ásia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jeruk keprok",
+      "source_url": "https://id.wikipedia.org/wiki/Jeruk_keprok",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29970870,
+      "text": "Jeruk keprok atau jeruk mandarin merupakan sebuah jeruk yang dapat tumbuh di daerah tropis dan subtropis. Pohon jeruk ini memiliki ukuran yang relatif lebih kecil dibandingkan jeruk lainnya. Bunganya dapat diserbuki dengan bantuan lebah, penyerbukan sendiri, atau secara partenokarpi."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "pt": {
+        "source": "Wikipedia (pt): Tangerina § Plantio",
+        "source_url": "https://pt.wikipedia.org/wiki/Tangerina#Plantio",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72392972,
+        "heading": "Plantio",
+        "text": "A tangerina é cultivada há milênios na China, sendo introduzida na Europa apenas em 1805, inicialmente importada para a Inglaterra. No Brasil a variedade poncã veio com os colonos portugueses em 1892.\nNormalmente, é colhida entre os meses de maio a agosto, mas a safra pode ir de abril a setembro.\nA árvore é de porte mediano, com espinhos nos galhos, como forma de proteção, com flores brancas e aromáticas, semelhantes à laranjeira.\nA casca possui concentrações elevadas de vitaminas A, B1, B2, Niacina, Vitamina C, cálcio e fósforo, podendo ser usada para fazer doces e geleias.\nAs variedades mais conhecidas são a cravo, monte-negrina, mexerica, poncã e mandarina, sendo mais comerciais as mexericas, para consumo natural e a morgote, para produção de sucos.",
+        "truncated": false
+      }
     }
   },
   "distribution": {
@@ -408,7 +462,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/772038-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -416,7 +470,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/772038-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000608241.webp",
@@ -429,6 +483,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

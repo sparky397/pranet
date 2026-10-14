@@ -21,19 +21,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "nodding onion",
-      "Lady's leek",
-      "nodding pink onion"
-    ],
     "sv": [
       "prärielök"
-    ],
-    "zh": [
-      "垂花葱"
     ],
     "ru": [
       "Лук склонённый"
@@ -49,37 +41,83 @@
     ],
     "cs": [
       "Česnek převislý"
+    ],
+    "zh": [
+      "垂花葱"
+    ],
+    "en": [
+      "nodding onion",
+      "Lady's leek",
+      "nodding pink onion"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q10641333",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q10641333",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Allium cernuum」",
+      "source": "Wikipedia (en): Allium cernuum",
       "source_url": "https://en.wikipedia.org/wiki/Allium_cernuum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1345443368,
       "text": "Allium cernuum, known as nodding onion or lady's leek, is a perennial plant in the genus Allium. It grows in open areas in North America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Allium cernuum",
+      "source_url": "https://es.wikipedia.org/wiki/Allium_cernuum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172739727,
+      "text": "Allium cernuum es una especie de planta bulbosa del género Allium, perteneciente a la familia de las amarilidáceas, del orden de las Asparagales. Originaria de América del Norte."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Allium cernuum",
+      "source_url": "https://fr.wikipedia.org/wiki/Allium_cernuum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237651762,
+      "text": "Allium cernuum, l’Ail penché, est une espèce de plantes vivaces de la famille des Amaryllidaceae. Elle pousse en Amérique du Nord dans les zones ouvertes."
+    },
+    "id": {
+      "source": "Wikipedia (id): Allium cernuum",
+      "source_url": "https://id.wikipedia.org/wiki/Allium_cernuum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28105417,
+      "text": "Allium cernuum adalah spesies tumbuhan yang tergolong ke dalam famili Amaryllidaceae. Spesies ini juga merupakan bagian dari ordo Asparagales. Spesies Allium cernuum sendiri merupakan bagian dari genus bawang Allium. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh Roth."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Allium cernuum」の節「Cultivation」",
+        "source": "Wikipedia (en): Allium cernuum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Allium_cernuum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1345443368,
         "heading": "Cultivation",
         "text": "It is grown in gardens for its distinctive nodding flowers that are white, pink, or maroon; it is winter hardy in U.S. Department of Agriculture hardiness zones 3–9. In gardens it will often form dense clusters of bulbs over time from offsets of the parent bulb. Plants are healthiest in full sun with well drained soil. In hot climates, they appreciate some shade, especially in the afternoon.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Allium cernuum § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Allium_cernuum#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237651762,
+        "heading": "Culture",
+        "text": "Allium cernuum est cultivé dans les jardins pour ses fleurs penchées et distinctes qui sont blanches, roses ou marron. Il est résistant au froid. Dans les jardins, il forme souvent des grappes denses de bulbes qui se décalent du bulbe parent au fil du temps. Cette espèce est adaptée au plein soleil dans un sol bien drainé, mais, dans les climats chauds, elles apprécient un peu d'ombre, surtout l'après-midi.",
         "truncated": false
       }
     }
@@ -94,7 +132,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -143,7 +181,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/527801-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -151,7 +189,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/527801-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000755924.webp",
@@ -164,6 +202,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

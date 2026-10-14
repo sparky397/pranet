@@ -19,15 +19,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "pink shower"
-    ],
-    "zh": [
-      "大果铁刀木",
-      "红花铁刀木"
+    "pt": [
+      "Cássia-gigante"
     ],
     "ml": [
       "പിങ്ക് കൊന്ന"
@@ -49,24 +45,58 @@
     ],
     "arz": [
       "جرانديز كاسيا"
+    ],
+    "zh": [
+      "红花铁刀木",
+      "大果铁刀木"
+    ],
+    "en": [
+      "pink shower"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164094",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164094",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cassia grandis」",
+      "source": "Wikipedia (en): Cassia grandis",
       "source_url": "https://en.wikipedia.org/wiki/Cassia_grandis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1342083555,
       "text": "Cassia grandis, one of several species called pink shower tree, and known as carao in Spanish, is a flowering plant in the family Fabaceae, native to the neotropics, that grows up to 30 m (98 ft). The species is distributed from southern Mexico, to Venezuela and Ecuador. It grows in forests and open fields at lower elevations, and is known to be planted as an ornamental. In at least Costa Rica, its pods are stewed into a molasses-like syrup, taken as a sweetener and for its nutritional and medicinal effects, called Jarabe de Carao."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cassia grandis",
+      "source_url": "https://es.wikipedia.org/wiki/Cassia_grandis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 167881171,
+      "text": "El carao, cañandonga, cañafístola o cañafístula cimarrona es un árbol natural de América Central, el Caribe Colombiano y las zonas costeras de las Antillas que se utiliza para el tratamiento de enfermedades del pecho y como bebida con muchas propiedades nutritivas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cassia grandis",
+      "source_url": "https://fr.wikipedia.org/wiki/Cassia_grandis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239228743,
+      "text": "Cassia grandis, appelé carao en espagnol, est une espèce de plantes à fleurs du genre Cassia et de la famille des Caesalpiniaceae, ou des Fabaceae, sous-famille des Caesalpinioideae, selon la classification phylogénétique. C'est un arbre de 30 m de hauteur originaire des néotropiques, et que l'on trouve du sud du Mexique jusqu'au Venezuela en en Équateur et aussi au Vietnam."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cássia-gigante",
+      "source_url": "https://pt.wikipedia.org/wiki/C%C3%A1ssia-gigante",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70206020,
+      "text": "O marimari é uma árvore da subfamília Caesalpinioideae, da família das fabáceas. É oriundo da Amazônia."
     }
   },
   "edible": {
@@ -81,7 +111,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -142,7 +172,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/484607-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -150,7 +180,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/484607-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000163908.webp",
@@ -163,6 +193,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 312,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -29,73 +29,23 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヤセイカンラン"
     ],
-    "de": [
-      "Gemüse-Kohl",
-      "Gemüsekohl"
-    ],
-    "en": [
-      "cabbage",
-      "Wild Mustard"
-    ],
-    "cs": [
-      "brukev zelná"
-    ],
-    "es": [
-      "Col Silvestre"
-    ],
-    "fi": [
-      "Kaali"
-    ],
     "fr": [
+      "Chou commun",
       "Chou Commun"
     ],
-    "frr": [
-      "(Wil) Kual"
-    ],
-    "hu": [
-      "Vadkáposzta"
-    ],
-    "it": [
-      "Cavolo"
-    ],
-    "lv": [
-      "Dārza kāposts"
-    ],
-    "mk": [
-      "Дива зелка"
-    ],
-    "nl": [
-      "Kool",
-      "Kool en Wilde kool"
+    "pt": [
+      "Couve",
+      "couves"
     ],
     "pl": [
-      "kapusta ogrodowa",
-      "kapusta warzywna"
-    ],
-    "sv": [
-      "Kål"
-    ],
-    "tr": [
-      "Lahana",
-      "Pancar"
-    ],
-    "zh": [
-      "野甘蓝",
-      "卷心菜",
-      "甘蓝",
-      "甘藍"
-    ],
-    "ast": [
-      "romanescu"
-    ],
-    "sl": [
-      "kapus"
+      "kapusta warzywna",
+      "kapusta ogrodowa"
     ],
     "wa": [
       "Cabu"
@@ -115,17 +65,31 @@
     "lbe": [
       "Калан"
     ],
+    "hu": [
+      "vadkáposzta"
+    ],
+    "lv": [
+      "dārza kāposts"
+    ],
+    "de": [
+      "Gemüsekohl",
+      "Gemüse-Kohl"
+    ],
     "vi": [
       "Cải bắp dại"
     ],
     "hsb": [
       "Zeleninowy kał"
     ],
+    "sv": [
+      "Kål"
+    ],
+    "nl": [
+      "kool",
+      "Kool en Wilde kool"
+    ],
     "ar": [
       "كرنب"
-    ],
-    "pt": [
-      "couves"
     ],
     "eo": [
       "legoma brasiko"
@@ -139,8 +103,14 @@
     "ca": [
       "col"
     ],
+    "fi": [
+      "kaali"
+    ],
     "uk": [
       "капуста городня"
+    ],
+    "cs": [
+      "brukev zelná"
     ],
     "os": [
       "Къабуска"
@@ -165,6 +135,12 @@
     ],
     "kk": [
       "Жапырақты қырыққабат"
+    ],
+    "zh": [
+      "甘藍",
+      "野甘蓝",
+      "卷心菜",
+      "甘蓝"
     ],
     "sr": [
       "дивљи купус"
@@ -207,6 +183,12 @@
     ],
     "tyv": [
       "Байзаа"
+    ],
+    "mk": [
+      "дива зелка"
+    ],
+    "frr": [
+      "(Wil) Kual"
     ],
     "hy": [
       "կաղամբ"
@@ -306,13 +288,33 @@
     ],
     "th": [
       "กะหล่ำ"
+    ],
+    "en": [
+      "cabbage",
+      "Wild Mustard"
+    ],
+    "es": [
+      "Col Silvestre"
+    ],
+    "it": [
+      "Cavolo"
+    ],
+    "tr": [
+      "Lahana",
+      "Pancar"
+    ],
+    "ast": [
+      "romanescu"
+    ],
+    "sl": [
+      "kapus"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q146212",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q146212",
   "search_names": {
@@ -326,36 +328,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヤセイカンラン」",
+      "source": "Wikipedia (ja): ヤセイカンラン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%BB%E3%82%A4%E3%82%AB%E3%83%B3%E3%83%A9%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106386998,
       "text": "ヤセイカンラン は、アブラナ科アブラナ属の野草。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Brassica oleracea」",
+      "source": "Wikipedia (en): Brassica oleracea",
       "source_url": "https://en.wikipedia.org/wiki/Brassica_oleracea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369636624,
       "text": "Brassica oleracea, also known as wild cabbage in its uncultivated form, is a plant of the family Brassicaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Brassica oleracea",
+      "source_url": "https://es.wikipedia.org/wiki/Brassica_oleracea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174043284,
+      "text": "La col silvestre es una especie de planta del género Brassica perteneciente a la familia de las brasicáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Chou commun",
+      "source_url": "https://fr.wikipedia.org/wiki/Chou_commun",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236630562,
+      "text": "Le chou est une espèce de plantes de la famille des Brassicacées, originaire du Sud-Ouest de l'Europe. La majorité des variétés sont bisannuelles, leurs feuilles comestibles peuvent ou non former une tête compacte ou « pomme ». On retrouve aussi des variétés de chou vivace comme le chou Daubenton. Leur culture en tant que légume remonte à la plus haute Antiquité, à partir de formes sauvages originaires d'Europe de l'Ouest ou d'Europe du Sud."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Couve",
+      "source_url": "https://pt.wikipedia.org/wiki/Couve",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71054132,
+      "text": "Couve é o nome vulgar, genérico, das diversas variedades cultivares da espécie Brassica oleracea L., da família das Brassicaceae, a que também pertence o nabo e a mostarda. É uma planta muito utilizada como verdura na cozinha, para sopas e conservas, entre outros acompanhamentos, como a couve à mineira."
+    },
+    "id": {
+      "source": "Wikipedia (id): Brassica oleracea",
+      "source_url": "https://id.wikipedia.org/wiki/Brassica_oleracea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29216569,
+      "text": "Brassica oleracea L. adalah spesies dari famili kubis-kubisan atau Brassicaceae yang mencakup berbagai jenis sayur-sayuran populer sebagai kultivar dari spesies ini seperti kubis, kembang kol, romanesko, brokoli, kubis brussel, kohlrabi, kailan, dan lain-lain. Semua jenis sayuran tersebut berasal dari varietas aslinya yang disebut kubis liar yang juga merupakan sayuran untuk masyarakat purba yang tinggal di sekitar Laut Tengah yang memakan daunnya. Tumbuhan ini memang berasal dari daerah tersebut. Plinius sudah menyebut tentang beberapa macamnya dalam ensiklopedia yang ia tulis."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Brassica oleracea」の節「Cultivation」",
+        "source": "Wikipedia (en): Brassica oleracea § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Brassica_oleracea#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369636624,
         "heading": "Cultivation",
         "text": "The species has become established as an important human food crop, used because of its large food reserves, which are stored over the winter in its leaves. It has been bred into a wide range of cultivars, including cabbage, broccoli, cauliflower, brussels sprouts, collards, and kale, some of which are hardly recognizable as being members of the same genus, let alone species. The historical genus of Crucifera, meaning \"cross-bearing\" in reference to the four-petaled flowers, may be the only unifying feature beyond taste.\nThe plant is tolerant of a variety of soil conditions between pH 6.0 and 7.5, but grows particularly well in alkaline soils in full sunlight, with good drainage and high amounts of nitrogen. The plant can grow in partial shade, but care must be taken to provide sufficient ventilation, as this reduces the prevalence of downy mildew.\n\n■ History\nResearchers believe that B. oleracea has been cultivated for several thousand years, but its history as a domesticated plant is not clear before Greek and Roman times, when it was a well-established garden vegetable. Theophrastus mentions three kinds of rhaphanos (ῥάφανος): a curly-leaved, a smooth-leaved, and a wild-type. He reports the antipathy of the cabbage and the grape vine, for the ancients believed cabbages grown near grapes would impart their flavour to the wine.\nThrough artificial selection for various phenotypic traits, the emergence of variations of the plant with drastic differences in appearance occurred over centuries. Preference for leaves, terminal buds, lateral buds, stems, and inflorescences resulted in selection of varieties of wild cabbage into the many forms known today. The wild plant (and its ancestors) originated in the eastern Mediterranean region of Europe.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Chou commun § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Chou_commun#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236630562,
+        "heading": "Culture",
+        "text": "Deux types de choux sont généralement cultivés. Les variétés précoces mûrissent en 50 jours environ, et produisent de petites têtes qui se conservent peu. Ces choux sont prévus pour être consommés frais. Les variétés tardives mûrissent en 80 jours environ et produisent une tête plus grosse, jusqu'à plus de 7 kilogrammes.\nLe chou peut être démarré en intérieur ou semé directement. Comme tous les Brassicaceae, il se récolte en période fraîche, de préférence en automne.\nComme la grande majorité des Brassicacées, les choux sont allogames et entomophiles (à l'exception de certains choux-fleurs d'été qui sont autogames).\nLe contrôle des parasites est important, en particulier les chenilles de plusieurs papillons de la famille des Pieridae.\n\n■ Production\n\n■ Ravageurs et maladies\n\nLe chou est sensible à de multiples ravageurs et maladies.\n\n■ Produits phytopharmaceutiques\nLa liste des produits phytopharmaceutiques autorisés en France pour lutter contre les parasites du chou est disponible en ligne.",
+        "truncated": false
       }
     }
   },
@@ -373,7 +422,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -478,7 +527,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/279435-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial or subshrub",
@@ -486,7 +535,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/279435-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000571350.webp",
@@ -499,6 +548,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

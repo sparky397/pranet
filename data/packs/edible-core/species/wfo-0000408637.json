@@ -49,45 +49,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヨーロッパイチイ"
     ],
-    "de": [
-      "Gewöhnliche Eibe",
-      "Eibe",
-      "Europäische Eibe"
-    ],
-    "en": [
-      "European Yew",
-      "Common Yew",
-      "yew"
-    ],
     "fr": [
       "If commun",
       "If"
-    ],
-    "it": [
-      "tasso"
-    ],
-    "cs": [
-      "tis červený"
-    ],
-    "fi": [
-      "euroopanmarjakuusi"
-    ],
-    "zh": [
-      "欧洲红豆杉",
-      "歐洲紅豆杉"
-    ],
-    "ast": [
-      "texu"
-    ],
-    "sl": [
-      "tisa",
-      "navadna tisa"
     ],
     "vec": [
       "Tuja"
@@ -115,6 +85,11 @@
     ],
     "et": [
       "harilik jugapuu"
+    ],
+    "de": [
+      "Europäische Eibe",
+      "Gewöhnliche Eibe",
+      "Eibe"
     ],
     "el": [
       "Ίταμος"
@@ -152,6 +127,9 @@
     "ca": [
       "teix"
     ],
+    "fi": [
+      "euroopanmarjakuusi"
+    ],
     "uk": [
       "тис ягідний"
     ],
@@ -160,6 +138,9 @@
     ],
     "os": [
       "Заз"
+    ],
+    "cs": [
+      "tis červený"
     ],
     "bg": [
       "обикновен тис"
@@ -208,6 +189,14 @@
     ],
     "kw": [
       "Ewin"
+    ],
+    "sl": [
+      "tisa",
+      "navadna tisa"
+    ],
+    "zh": [
+      "歐洲紅豆杉",
+      "欧洲红豆杉"
     ],
     "ps": [
       "اروپايي ټاکسوس"
@@ -280,13 +269,24 @@
     ],
     "th": [
       "ยูยุโรป"
+    ],
+    "en": [
+      "European Yew",
+      "Common Yew",
+      "yew"
+    ],
+    "it": [
+      "tasso"
+    ],
+    "ast": [
+      "texu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q179729",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q179729",
   "search_names": {
@@ -302,49 +302,129 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヨーロッパイチイ」",
+      "source": "Wikipedia (ja): ヨーロッパイチイ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%82%A4%E3%83%81%E3%82%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111315550,
       "text": "ヨーロッパイチイ は、イチイ科イチイ属の針葉樹。セイヨウイチイ（西洋一位）とも言う。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Taxus baccata」",
+      "source": "Wikipedia (en): Taxus baccata",
       "source_url": "https://en.wikipedia.org/wiki/Taxus_baccata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378354864,
       "text": "Taxus baccata is a species of coniferous tree in the family Taxaceae. It is the tree originally known as yew, though to distinguish it from related species it is sometimes called common yew, European yew, or, in North America, English yew. It is a woodland tree in its native range, which spans much of Europe and parts of West Asia, the Caucasus and Northwest Africa. All parts of the plant except the fleshy aril are poisonous, with toxins that can be absorbed through inhalation, ingestion, and transpiration through the skin."
+    },
+    "es": {
+      "source": "Wikipedia (es): Taxus baccata",
+      "source_url": "https://es.wikipedia.org/wiki/Taxus_baccata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174978793,
+      "text": "El tejo común o tejo negro es una especie del género Taxus originaria de Europa occidental, central y meridional. Es una gimnosperma de la familia de las taxáceas, grupo primitivo ampliamente difundido ya desde el Jurásico y del que actualmente el tejo es el único representante europeo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): If commun",
+      "source_url": "https://fr.wikipedia.org/wiki/If_commun",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239886530,
+      "text": "L'If commun ou If à baies est une espèce de conifères non résineux, de la famille des Taxacées. Très longévif et poussant lentement, c’est un arbre qui se prête bien à la taille. Il fait partie des plantes toxiques. Devenu rares, les ifs sont protégés au titre d'habitat prioritaire en Europe."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Taxus baccata",
+      "source_url": "https://pt.wikipedia.org/wiki/Taxus_baccata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71862625,
+      "text": "A taxus baccata L., conhecida pelo nome comum de teixo, é uma espécie de gimnospérmicas arborescentes da família das taxáceas. As folhas são venenosas, podendo ser fatais se ingeridas em grande quantidade."
+    },
+    "id": {
+      "source": "Wikipedia (id): Taxus baccata",
+      "source_url": "https://id.wikipedia.org/wiki/Taxus_baccata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30063023,
+      "text": "Taxus baccata adalah spesies pohon malar hijau dalam famili Taxaceae, berasal dari Eropa Barat, Eropa Tengah dan Eropa Selatan, Afrika Barat Laut, Iran utara, dan Asia Barat Daya. Ini adalah pohon yang dikenal sebagai, tampinur Inggris, atau tampinur Eropa. Ini terutama ditanam sebagai tanaman hias. Sebagian besar bagian tanaman beracun, dengan racun yang dapat diserap melalui penghirupan dan melalui kulit; konsumsi dedaunan dalam jumlah kecil sekalipun dapat mengakibatkan kematian."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Taxus baccata」の節「Horticulture」",
+        "source": "Wikipedia (en): Taxus baccata § Horticulture",
         "source_url": "https://en.wikipedia.org/wiki/Taxus_baccata#Horticulture",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378354864,
         "heading": "Horticulture",
         "text": "Yew is widely used in landscaping and ornamental horticulture. Due to its dense, dark green, mature foliage, and its tolerance of severe pruning, it is used especially for formal hedges and topiary. Its relatively slow growth rate means that in such situations it needs to be clipped only once per year (in late summer). It tolerates a wide range of soils and situations, including shallow chalk soils and shade. The species is tolerant of urban pollution, cold, and heat, though soil compaction can harm it. It is slow-growing, taking about 20 years to grow 4.5 metres (15 ft) tall, and vertical growth effectively stops after 100 years.\nIn Europe, the species grows naturally north to Molde in southern Norway, but is used in gardens further north. It is popular as a bonsai in many parts of Europe.\nWell over 200 yew cultivars have been named. The most popular of these are the Irish yew (T. baccata var 'Fastigiata'), selected from two trees found growing in Ireland, and the several cultivars with yellow leaves, collectively known as \"golden yew\".\nThe following cultivars have gained the Royal Horticultural Society's Award of Garden Merit:",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): If commun § Horticulture",
+        "source_url": "https://fr.wikipedia.org/wiki/If_commun#Horticulture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239886530,
+        "heading": "Horticulture",
+        "text": "L'if a été planté originellement dans les cimetières traditionnels, près des églises, puis dans les parcs et jardins, ce qui lui a probablement évité l’extinction au cours du Moyen Âge. On le trouve soit en pied isolé, soit sous forme de haies. Il en existe de nombreuses variétés ornementales. Une des plus répandues est l’if fastigié ou if d’Irlande, à port en colonne étroite.\nSi l'on prend la circonférence pour déterminer leur âge, le plus ancien if de cimetière de France serait celui du Ménil-Ciboult, dans l'Orne, avec une circonférence de 13 m mesurée à 1,30 m de hauteur. En outre, plusieurs sujets normands dépassent les 10 m, ce qui leur confère un âge supérieur à 1 000 ans[réf. nécessaire].\nIl se prête très bien à l’art topiaire grâce à sa grande facilité de bourgeonnement, permettant de constituer toutes sortes de formes, cônes, boules, formes animales...",
         "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Taxus baccata」の節「Toxicity」",
+        "source": "Wikipedia (en): Taxus baccata § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Taxus_baccata#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378354864,
         "heading": "Toxicity",
         "text": "The entire plant is poisonous, with the exception of the aril (the red flesh of the \"berry\" covering the seed). Yews contain numerous toxic compounds, including alkaloids, ephedrine, nitriles,  and essential oil. The most important toxins are taxine alkaloids; these are cardiotoxic compounds which act via calcium and sodium channel antagonism. If any leaves or seeds of the plant are ingested, urgent medical attention is recommended as well as observation for at least six hours after the point of ingestion.\nYew poisonings are relatively common in both domestic and wild animals which consume the plant accidentally, resulting in numerous livestock fatalities. Taxines are absorbed efficiently via the skin. Rabbits and deer have a level of immunity to the poisonous alkaloids. \nAccording to Ondřej Piskač, \"The lethal dose for an adult is reported to be 50 g of yew needles. Patients who ingest a lethal dose frequently die due to cardiogenic shock, in spite of resuscitation efforts.\" There are currently no known antidotes for yew poisoning, but drugs such as atropine have been used to treat the symptoms. Taxine remains in the plant all year, with maximal concentrations appearing during the winter. Dried yew plant material retains its toxicity for several months, and even increases its toxicity as the water is removed. Fallen leaves should therefore also be considered toxic. Poisoning usually occurs when leaves of yew trees are eaten, but in at least one case, a victim inhaled sawdust from a yew tree.",
         "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Taxus baccata § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Taxus_baccata#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174978793,
+        "heading": "Toxicidad",
+        "text": "Excepto los arilos, todas las partes del árbol contienen una sustancia tóxica llamada taxina: una mezcla de alcaloides que tienen un efecto cardiotóxico que produce parálisis en el corazón en dosis elevadas.\nEntre las antiguas poblaciones del norte de España estuvo muy extendida la práctica del suicidio con veneno de tejo. Actualmente, es muy rara la intoxicación por el tejo, siendo en ocasiones de extrema gravedad o fatal.\n\n■ Circunstancias de la intoxicación\nEl consumo de bayas casi siempre es obra de niños pequeños: atraídos por el color del arilo, de sabor más bien dulce.\nPor otro lado, en el consumo de hojas, casi todos los casos descritos, son ingestiones voluntarias, con fines suicidas. La práctica es antigua; Julio César cuenta uno de los primeros casos conocidos en la guerra de las Galias, y la primera publicación médica sobre una muerte por ingestión de hojas de tejo sería un artículo publicado en The Lancet en 1836.\n\n■ Síntomas observados\nLa ingestión de \"frutos\" (semillas rodeadas de un arilo carnoso), por regla general, no produce cambios en los humanos, ya que el tegumento externo de la semilla no se altera por su paso a través del tubo digestivo. Para que empiece a manifestarse la intoxicación, es preciso que se mastique la semilla. \nEn cuanto a la ingestión de hojas, a menudo no se pueden percibir síntomas. Los análisis de casos anteriores muestran que un intoxicado puede tener principalmente náuseas, vómitos y sufrir dolores intestinales; poco después encontrarse somnoliento, letárgico, comatoso. Disminuye rápidamente su presión sanguínea, se debilita el pulso. El electrocardiograma registra profundas alteraciones (arritmias ventriculares).",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): If commun § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/If_commun#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239886530,
+        "heading": "Toxicité",
+        "text": "Toutes les parties de l'arbre, sauf l'arille rouge entourant la graine, sont très toxiques car elles contiennent des alcaloïdes (taxine). De nombreux cas d'empoisonnements mortels sont signalés dans la littérature. Depuis 1960, plusieurs suicides par consommation de feuilles d'if ont été signalés dans le monde (feuilles consommées nature ou après préparation de décoctions). En 1989, dans l’État de New York, la baie d'if a été la première cause d'appel au centre antipoison local. Chaque année, de nombreux herbivores sont intoxiqués, parfois des troupeaux entiers. Le cheval, qui en est friand, est très sensible.\nL'if, symbole d'immortalité pour les Anciens, de par sa longévité exceptionnelle, est aujourd'hui utilisé dans un cadre médical. De l'écorce de l'If du Pacifique (Taxus brevifolia) on extrait une substance cytotoxique, le paclitaxel. Cette écorce étant très peu riche en produit actif, il a fallu détruire 12 000 ifs en 1988 pour fabriquer 2 kg de paclitaxel. Toutefois, le chimiste Pierre Potier et son équipe ont réussi à synthétiser, à partir d'une substance voisine extraite du feuillage (renouvelable) de l'If européen (Taxus baccata), la 10-déacétyl-baccatine, un homologue du paclitaxel encore plus puissant que ce dernier, le docétaxel. Depuis, on plante donc activement des hectares d'ifs.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Taxus baccata § Toksisitas",
+        "source_url": "https://id.wikipedia.org/wiki/Taxus_baccata#Toksisitas",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 30063023,
+        "heading": "Toksisitas",
+        "text": "Seluruh semak tampinur beracun, kecuali salut biji (daging merah buah beri yang menutupi bijinya). Tampinur mengandung banyak senyawa beracun, termasuk \"setidaknya sepuluh alkaloid, nitril ( sianogenik ester glikosida ), efedrin \", dan minyak atsirinya, tetapi racun yang paling penting adalah alkaloid taxine, senyawa kimia kardiotoksik yang bekerja melalui antagonisme saluran kalsium dan natrium. Jika ada daun atau biji tanaman yang tertelan, perhatian medis segera dianjurkan serta observasi setidaknya 6 jam setelah titik tertelan. Tampinur Eropa adalah salah satu spesies paling beracun dalam genusnya, bersama dengan tampinur Jepang, T. cuspidata .\nKeracunan tanaman tampinur relatif umum terjadi pada hewan peliharaan dan liar yang memakan tanaman tersebut secara tidak sengaja, yang mengakibatkan \"kematian yang tak terhitung jumlahnya pada ternak\". Zat pada tampinur juga diserap secara efisien melalui kulit. Oleh karena itu, spesies Taxus harus ditangani dengan hati-hati dan sebaiknya dengan sarung tangan.\n“Dosis mematikan untuk orang dewasa dilaporkan sebesar 50 g jarum tampinur Pasien yang menelan dosis mematikan sering kali meninggal karena syok kardiogenik, meskipun telah dilakukan upaya resusitasi.”  Saat ini belum ada obat penawar yang diketahui untuk keracunan tampinur, tetapi obat-obatan seperti atropin telah digunakan untuk mengatasi gejalanya. Taksin tetap berada di tanaman sepanjang tahun, dengan konsentrasi maksimal muncul selama musim dingin. Bahan tanaman tampinur kering mempertahankan toksisitasnya selama beberapa bulan  dan bahkan meningkatkan toksisitasnya seiring dengan hilangnya air. Oleh karena itu, daun yang gugur juga harus dianggap beracun.",
+        "truncated": true
       }
     }
   },
@@ -360,7 +440,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -417,7 +497,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306036-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -425,7 +505,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306036-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000408637.webp",
@@ -438,6 +518,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -10,23 +10,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Senegal mahogany",
-      "African Mahogany",
-      "Benin Mahogany",
-      "Dry Zone Mahogany"
-    ],
-    "zh": [
-      "非洲楝"
-    ],
     "ml": [
       "ആഫ്രിക്കൻ മഹാഗണി"
     ],
     "vi": [
       "xà cừ"
+    ],
+    "zh": [
+      "非洲楝"
     ],
     "yue": [
       "非洲桃花心木"
@@ -54,24 +48,48 @@
     ],
     "ts": [
       "Manana wa perela"
+    ],
+    "en": [
+      "Senegal mahogany",
+      "African Mahogany",
+      "Benin Mahogany",
+      "Dry Zone Mahogany"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q927609",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q927609",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Khaya senegalensis」",
+      "source": "Wikipedia (en): Khaya senegalensis",
       "source_url": "https://en.wikipedia.org/wiki/Khaya_senegalensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369480328,
       "text": "Khaya senegalensis is a species of tree in the Meliaceae family that is native to Africa. Common names include African mahogany, dry zone mahogany, Gambia mahogany, khaya wood, Senegal mahogany, cailcedra, acajou, djalla, and bois rouge."
+    },
+    "es": {
+      "source": "Wikipedia (es): Khaya senegalensis",
+      "source_url": "https://es.wikipedia.org/wiki/Khaya_senegalensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171238892,
+      "text": "Khaya senegalensis es una especie botánica de árboles perteneciente a la familia Meliaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Khaya senegalensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Khaya_senegalensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 220606593,
+      "text": "Khaya senegalensis, dénommé couramment caïlcédrat est une espèce de plantes à fleurs de la famille des Meliaceae. C'est un arbre qui est également appelé « acajou du Sénégal » ou « caïlcédrat »."
     }
   },
   "edible": {
@@ -90,7 +108,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -129,7 +147,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/578867-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -137,7 +155,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/578867-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000356989.webp",
@@ -150,6 +168,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

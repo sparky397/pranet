@@ -10,30 +10,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "European yellow lupine",
-      "Yellow lupin"
-    ],
     "fr": [
       "Lupin jaune"
-    ],
-    "tr": [
-      "Sarı acı bakla"
-    ],
-    "nl": [
-      "Gele lupine"
-    ],
-    "cs": [
-      "lupina žlutá"
-    ],
-    "fi": [
-      "keltalupiini"
-    ],
-    "zh": [
-      "黄羽扇豆"
     ],
     "pt": [
       "Tremoço-amarelo"
@@ -47,6 +28,9 @@
     "ca": [
       "llobí groc"
     ],
+    "fi": [
+      "keltalupiini"
+    ],
     "az": [
       "Sarı acıpaxla"
     ],
@@ -59,8 +43,17 @@
     "sv": [
       "Gullupin"
     ],
+    "nl": [
+      "gele lupine"
+    ],
     "ar": [
       "ترمس أصفر"
+    ],
+    "zh": [
+      "黄羽扇豆"
+    ],
+    "cs": [
+      "lupina žlutá"
     ],
     "eu": [
       "Eskuhori"
@@ -91,13 +84,20 @@
     ],
     "nb": [
       "gullupin"
+    ],
+    "en": [
+      "European yellow lupine",
+      "Yellow lupin"
+    ],
+    "tr": [
+      "Sarı acı bakla"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159751",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159751",
   "search_names": {
@@ -107,13 +107,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Lupinus luteus」",
+      "source": "Wikipedia (en): Lupinus luteus",
       "source_url": "https://en.wikipedia.org/wiki/Lupinus_luteus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1318258193,
       "text": "Lupinus luteus is known as annual yellow-lupin, European yellow lupin or yellow lupin. It is native to the western Mediterranean region from Portugal east to Italy. It is an annual plant growing to around 80 cm tall with hairy stems. The leaves are palmately compound, with 7–11 leaflets, the leaflets 6 cm long by 12 mm broad. The flower are bright yellow, 13–16 mm long, borne on spikes are not continuous, but in regularly spaced verticillasters on the stem."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lupinus luteus",
+      "source_url": "https://es.wikipedia.org/wiki/Lupinus_luteus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175415805,
+      "text": "El lupino amarillo es una especie de la familia de las fabáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lupin jaune",
+      "source_url": "https://fr.wikipedia.org/wiki/Lupin_jaune",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237694500,
+      "text": "Le lupin jaune ou lupin jaune soufre, Lupinus luteus, est une espèce de plantes à fleurs du genre Lupinus et de la famille des Fabaceae. C'est une plante herbacée annuelle cultivée pour ses graines tant en alimentation humaine qu'en alimentation animale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tremoço-amarelo",
+      "source_url": "https://pt.wikipedia.org/wiki/Tremo%C3%A7o-amarelo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68301727,
+      "text": "O tremoço-amarelo é uma espécie de tremoço nativa do Mediterrâneo. Tais plantas chegam a atingir cerca de 60 cm, contando com folíolos lanceolados, flores amarelas e vagens oblongas; também são conhecidas pelos nomes de lupino-amarelo, tremoço-de-cheiro e tremoço-de-flor-amarela."
     }
   },
   "edible": {
@@ -129,7 +156,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -185,7 +212,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/504707-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -193,7 +220,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/504707-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000213494.webp",
@@ -206,6 +233,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

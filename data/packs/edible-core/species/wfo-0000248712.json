@@ -10,24 +10,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ギンバイカ"
     ],
-    "en": [
-      "myrtle",
-      "common myrtle"
-    ],
-    "zh": [
-      "香桃木"
-    ],
-    "ast": [
-      "Mirtu"
-    ],
-    "sl": [
-      "navadna mirta"
+    "pt": [
+      "Murta (género)"
     ],
     "ca": [
       "murtra"
@@ -52,6 +42,9 @@
     ],
     "nl": [
       "Mirte"
+    ],
+    "zh": [
+      "香桃木"
     ],
     "hr": [
       "Mirta"
@@ -143,8 +136,15 @@
     "mk": [
       "обична мирта"
     ],
+    "sl": [
+      "navadna mirta"
+    ],
     "be": [
       "мірт звычайны"
+    ],
+    "en": [
+      "common myrtle",
+      "myrtle"
     ],
     "grc": [
       "μυρσίνη"
@@ -157,13 +157,16 @@
     ],
     "acm": [
       "ياس"
+    ],
+    "ast": [
+      "Mirtu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q6122027",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q6122027",
   "search_names": {
@@ -178,32 +181,59 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ギンバイカ」",
+      "source": "Wikipedia (ja): ギンバイカ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%B3%E3%83%90%E3%82%A4%E3%82%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108335657,
       "text": "ギンバイカ は、フトモモ科の単型の属ギンバイカ属の常緑低木。地中海沿岸原産。イタリア語でミルト。英語でマートル。ドイツ語ではミュルテ（Myrte）。属名からミルトス とも呼ぶ。花が結婚式などの飾りによく使われるので「祝いの木」ともいう。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Myrtus communis」",
+      "source": "Wikipedia (en): Myrtus communis",
       "source_url": "https://en.wikipedia.org/wiki/Myrtus_communis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369952906,
       "text": "Myrtus communis, the common myrtle or true myrtle, is an Old World species of flowering plant in the myrtle family, Myrtaceae. It forms an evergreen shrub."
+    },
+    "es": {
+      "source": "Wikipedia (es): Myrtus communis",
+      "source_url": "https://es.wikipedia.org/wiki/Myrtus_communis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171666125,
+      "text": "El mirto o arrayán europeo es una planta de la familia de las Myrtaceae, nativa del sudeste de Europa y del norte de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Myrtus communis",
+      "source_url": "https://fr.wikipedia.org/wiki/Myrtus_communis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240097660,
+      "text": "Le Myrte commun, parfois appelé Myrte juif ou Herbe du lagui, est une espèce de plantes à fleurs de la famille des Myrtaceae. C'est un arbuste originaire de la région méditerranéenne."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Murta (género)",
+      "source_url": "https://pt.wikipedia.org/wiki/Murta_(g%C3%A9nero)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71003752,
+      "text": "Por Myrtus L. entende-se um género botânico que compreende uma ou duas espécies de plantas com flor, da família das Myrtaceae, nativo da região mediterrânica e do Norte de África."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Myrtus communis」の節「Cultivation」",
+        "source": "Wikipedia (en): Myrtus communis § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Myrtus_communis#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369952906,
         "heading": "Cultivation",
         "text": "This species and the more compact M. communis subsp. tarentina have won the Royal Horticultural Society's Award of Garden Merit. They are hardy but prefer a sheltered position in full sun.\nThe plant can be propagated with seeds stratified for 3 months. Also, one can use a cutting with a short heel (small part of the bark), keeping it in moistened rooting mix.",
@@ -225,7 +255,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -275,7 +305,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/599719-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -283,7 +313,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/599719-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000248712.webp",
@@ -296,6 +326,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 239,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

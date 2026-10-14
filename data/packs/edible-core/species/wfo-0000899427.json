@@ -38,22 +38,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ササキビ"
     ],
-    "en": [
-      "palmgrass",
-      "bigleaf bristlegrass",
-      "palm grass"
-    ],
     "zh": [
+      "粽叶狗尾草",
       "棕葉狗尾草",
       "棕叶狗尾草",
-      "竹头草",
-      "粽叶狗尾草"
+      "竹头草"
     ],
     "pwn": [
       "saluda"
@@ -63,33 +58,65 @@
     ],
     "nan": [
       "Hong-thai-chháu"
+    ],
+    "en": [
+      "palmgrass",
+      "bigleaf bristlegrass",
+      "palm grass"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q11116561",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q11116561",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ササキビ」",
+      "source": "Wikipedia (ja): ササキビ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B5%E3%82%AD%E3%83%93",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106362426,
       "text": "ササキビ はイネ科の植物の1つ。イネ科としては幅広くてヤシのように縦襞の多い大きな葉を持つ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Setaria palmifolia」",
+      "source": "Wikipedia (en): Setaria palmifolia",
       "source_url": "https://en.wikipedia.org/wiki/Setaria_palmifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1367579653,
       "text": "Setaria palmifolia is a species of grass known by the common names palmgrass, highland pitpit, hailans pitpit, short pitpit, broadleaved bristlegrass, and knotroot."
+    },
+    "es": {
+      "source": "Wikipedia (es): Setaria palmifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Setaria_palmifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 154429410,
+      "text": "Setaria palmifolia es una especie de hierba conocida como pasto de palma y en samoano vao 'ofe' ofe. Es nativa de Asia templada y tropical. Se conoce en otros lugares como una especie introducida y, a menudo, invasora, incluso en Australia, Nueva Zelanda, muchas islas del Pacífico, y las Américas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Setaria palmifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Setaria_palmifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228088745,
+      "text": "La sétaire à feuilles de palmier est une espèce de plantes monocotylédones de la famille des Poaceae (graminées), originaire d'Asie tempérée et tropicale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Setaria palmifolia",
+      "source_url": "https://pt.wikipedia.org/wiki/Setaria_palmifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 40549278,
+      "text": "Setaria palmifolia é uma espécie de planta com flor pertencente à família Poaceae."
     }
   },
   "edible": {
@@ -105,7 +132,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -184,7 +211,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/421711-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -192,7 +219,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/421711-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000899427.webp",
@@ -205,6 +232,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

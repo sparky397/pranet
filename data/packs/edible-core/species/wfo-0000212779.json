@@ -17,84 +17,46 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヤハズエンドウ",
-      "オオカラスノエンドウ",
-      "オオヤハズエンドウ"
+      "オオヤハズエンドウ",
+      "オオカラスノエンドウ"
     ],
-    "cy": [
-      "ffacbysen",
-      "Ffugbysen Wyllt"
-    ],
-    "en": [
-      "garden vetch",
-      "Common Vetch"
-    ],
-    "de": [
-      "Futterwicke"
-    ],
-    "et": [
-      "Suvivikk",
-      "Ahtalehine hiirehernes"
+    "pl": [
+      "wyka siewna"
     ],
     "fr": [
       "Vesce commune",
       "vesce cultivée s.l"
     ],
-    "hsb": [
-      "Rólna woka"
-    ],
-    "lt": [
-      "Sėjamasis vikis"
-    ],
-    "mk": [
-      "обичен граор"
-    ],
-    "nl": [
-      "Smalle Wikke",
-      "Vergeten Wikke",
-      "Voederwikke",
-      "Smalle, Vergeten en Voederwikke",
-      "smalle wikke en vergeten wikke"
-    ],
-    "nb": [
-      "Fôrvikke"
-    ],
-    "pl": [
-      "Wyka siewna"
-    ],
     "tr": [
-      "Adi fiğ",
-      "Fiğ"
+      "Fiğ",
+      "Adi fiğ"
     ],
-    "cs": [
-      "vikev setá"
+    "ca": [
+      "veça"
     ],
     "fi": [
       "rehuvirna"
     ],
-    "zh": [
-      "大巢菜",
-      "野豌豆",
-      "救荒野豌豆"
-    ],
-    "ast": [
-      "arbeyera"
-    ],
-    "sl": [
-      "navadna grašica"
-    ],
-    "ca": [
-      "veça"
+    "et": [
+      "Ahtalehine hiirehernes",
+      "Suvivikk"
     ],
     "fa": [
       "ماشک"
     ],
     "az": [
       "Əkin lərgəsi"
+    ],
+    "lt": [
+      "Sėjamasis vikis"
+    ],
+    "hsb": [
+      "Rólna woka"
     ],
     "csb": [
       "Zwëczajnô wika"
@@ -105,11 +67,19 @@
     "sv": [
       "Fodervicker"
     ],
+    "zh": [
+      "救荒野豌豆",
+      "大巢菜",
+      "野豌豆"
+    ],
     "ru": [
       "Горошек посевной"
     ],
     "ko": [
       "살갈퀴"
+    ],
+    "nb": [
+      "Fôrvikke"
     ],
     "vi": [
       "Đậu răng ngựa nhỏ"
@@ -122,6 +92,10 @@
     ],
     "gl": [
       "Ervellaca"
+    ],
+    "cy": [
+      "Ffugbysen Wyllt",
+      "ffacbysen"
     ],
     "eu": [
       "Zalke"
@@ -147,8 +121,14 @@
     "sgs": [
       "Vėkis"
     ],
+    "cs": [
+      "vikev setá"
+    ],
     "ur": [
       "ریواڑی (جڑی بوٹی)"
+    ],
+    "mk": [
+      "обичен граор"
     ],
     "sk": [
       "vika siata"
@@ -186,15 +166,35 @@
     "pnb": [
       "رواڑی"
     ],
+    "sl": [
+      "navadna grašica"
+    ],
     "mt": [
       "Ġulbiena"
+    ],
+    "en": [
+      "garden vetch",
+      "Common Vetch"
+    ],
+    "de": [
+      "Futterwicke"
+    ],
+    "nl": [
+      "Smalle Wikke",
+      "Vergeten Wikke",
+      "Voederwikke",
+      "Smalle, Vergeten en Voederwikke",
+      "smalle wikke en vergeten wikke"
+    ],
+    "ast": [
+      "arbeyera"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157071",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157071",
   "search_names": {
@@ -210,36 +210,74 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヤハズエンドウ」",
+      "source": "Wikipedia (ja): ヤハズエンドウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%8F%E3%82%BA%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110400801,
       "text": "ヤハズエンドウ はマメ目マメ科ソラマメ属のつる性の一年草または越年草。ヤハズエンドウが植物学的局面では標準的に用いられる和名だが、カラスノエンドウ（烏野豌豆）という名が一般には定着している。別名、ノエンドウ（「野豌豆」は中国での名称）、ピーピーグサ。俗称としてシービービー、ピーピー豆というものもある。種を取り払った豆殻を笛として使用する遊びに由来する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vicia sativa」",
+      "source": "Wikipedia (en): Vicia sativa",
       "source_url": "https://en.wikipedia.org/wiki/Vicia_sativa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374338114,
       "text": "Vicia sativa, known as the common vetch, garden vetch, tare or simply vetch, is a nitrogen-fixing leguminous plant in the family Fabaceae. It is now naturalised throughout the world, being absent only in Antarctica and the Arctic regions. The centre of diversity is thought to be the Fertile Crescent, although gold standard molecular confirmation is currently not available."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vicia sativa",
+      "source_url": "https://es.wikipedia.org/wiki/Vicia_sativa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175384472,
+      "text": "Vicia sativa, la arveja, veza o alverja es una especie de planta herbácea del género Vicia en la familia Fabaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vicia sativa",
+      "source_url": "https://fr.wikipedia.org/wiki/Vicia_sativa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240236191,
+      "text": "Vicia sativa, la vesce commune ou vesce cultivée, est une espèce de plantes à fleurs dicotylédones de la famille des Fabaceae, originaire d'Eurasie. C'est une plante herbacée annuelle, grimpante, souvent cultivée comme plante fourragère."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vicia sativa",
+      "source_url": "https://pt.wikipedia.org/wiki/Vicia_sativa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 61146158,
+      "text": "Vicia sativa é uma espécie de planta com flor pertencente à família Fabaceae."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Vicia sativa」の節「Cultivation」",
+        "source": "Wikipedia (en): Vicia sativa § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Vicia_sativa#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374338114,
         "heading": "Cultivation",
         "text": "Sown for fodder, the seed is sown densely, up to 250 kilograms per hectare (220 lb/acre). However, when grown for seed, less seed is used so that the crop is not too thick, which reduces flower and seed production. When meant for seed, sowing is done early in the planting season for good returns; but, when for green manure, any time in spring is suitable. Sometimes, a full crop can be obtained even when sown as late as summer, though sowing so late is not recommended.\nAfter the seed is sown and the land carefully harrowed, a light roller ought to be drawn across, to smooth the surface and permit the scythe to work without interruption. Also, the field should be watched for several days to prevent pigeons from eating too much of the sown seed.\nHorses thrive very well on common vetch, even better than on clover and rye grass; the same applies to fattening cattle, which feed faster on vetch than on most grasses or other edible plants. Danger often arises from livestock eating too much vetch, especially when podded; colics and other stomach disorders are apt to be produced by the excessive amounts devoured.\nCereal grains can be sown with vetch so it can use their stronger stems for support, attaching via tendrils. When grown with oats or other grasses, the vetch can grow upright; otherwise its weak stems may sprawl along the ground. Several cultivars are available for agricultural use, and as for some other legume crops, rhizobia can be added to the seed.\nPests that attack this crop include the powdery mildew fungus Erysiphe baeumleri, the pea aphid Acyrthosiphon pisum, the corn earworm (Heliothis zea), the fall armyworm (Spodoptera frugiperda), and spider mites of genus Tetranychus.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Vicia sativa § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Vicia_sativa#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175384472,
+        "heading": "Cultivo",
+        "text": "Puede establecerse como cultivo monófito, pero se aconseja sembrar la veza con un cereal (avena, cebada) o una gramínea pratense (raigrás italiano) que ejercen de tutor. Se cultiva preferentemente en secano, en diferentes épocas del año. Las variedades de otoño se siembran en esa estación y se cosechan al final de la primavera (mayo-junio). Las variedades de primavera, adecuadas para áreas de inviernos rigurosos, se siembran a inicios de la primavera y completan su ciclo en verano. Finalmente, en algunos regadíos cálidos (valle del Ebro) se siembra la veza en verano, tras la recogida del cereal, y se siega cuando la masa vegetativa es importante, a inicios del invierno, para dar en verde a los animales.\nEn su destino para uso forrajero, se siembra densamente, 250 kg/ha (si el cultivo es de secano la dosis de siembra se reduce al menos a la mitad). En cambio, cuando se siembra para semilla, se necesita menor cantidad a usar; si no, el cultivo será demasiado vegetativo, y habrá menos flores y menor producción de semilla.\nDespués de sembrar se recomienda pasar ligeramente un rulo para suavizar el surcado de siembra, y permitir el correcto pase de la cosechadora. Una vez sembrado, debe vigilarse durante varios días para disuadir a palomas y otras aves que pueden consumir la semilla.\n\nCondiciones climatológicas y edáficas\n\nIluminación: penumbra;\nTemperatura: zonas muy cálidas;\nContinentalidad: intermedia;\nHumedad: suelos de moderadamente secos a húmedos;\nAcidez del suelo: pH entre 5,5 y 8;\nNitrógeno en el suelo: suelos pobres o ligeramente ricos en nitrógeno.",
+        "truncated": false
       }
     }
   },
@@ -255,7 +293,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -476,7 +514,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/525117-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling annual",
@@ -484,7 +522,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/525117-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000212779.webp",
@@ -497,6 +535,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 256,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -13,41 +13,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ベニバナツメクサ"
     ],
-    "en": [
-      "Crimson Clover",
-      "Scarlet Clover",
-      "Italian Clover",
-      "Carnation Clover"
-    ],
-    "es": [
-      "Trébol Encarnado"
-    ],
     "fr": [
-      "Trèfle Incarnat",
+      "Trèfle incarnat",
       "Farouche"
-    ],
-    "nl": [
-      "Inkarnaatklaver"
-    ],
-    "cs": [
-      "jetel inkarnát"
-    ],
-    "fi": [
-      "veriapila"
-    ],
-    "zh": [
-      "绛车轴草",
-      "绛三叶",
-      "砗磲肉"
-    ],
-    "sl": [
-      "inkarnatka"
     ],
     "pl": [
       "Koniczyna krwistoczerwona"
@@ -61,8 +35,14 @@
     "tr": [
       "Kırmızı üçgül"
     ],
+    "fi": [
+      "veriapila"
+    ],
     "de": [
       "Inkarnat-Klee"
+    ],
+    "cs": [
+      "jetel inkarnát"
     ],
     "az": [
       "Al-qırmızı yonca"
@@ -78,6 +58,14 @@
     ],
     "sv": [
       "Blodklöver"
+    ],
+    "nl": [
+      "Inkarnaatklaver"
+    ],
+    "zh": [
+      "绛三叶",
+      "绛车轴草",
+      "砗磲肉"
     ],
     "gl": [
       "Trevo encarnado"
@@ -118,48 +106,98 @@
     "hu": [
       "Bíborhere"
     ],
+    "sl": [
+      "inkarnatka"
+    ],
     "tg": [
       "Себаргаи қирмизӣ"
+    ],
+    "en": [
+      "Crimson Clover",
+      "Scarlet Clover",
+      "Italian Clover",
+      "Carnation Clover"
+    ],
+    "es": [
+      "Trébol Encarnado"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161361",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161361",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ベニバナツメクサ」",
+      "source": "Wikipedia (ja): ベニバナツメクサ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8B%E3%83%90%E3%83%8A%E3%83%84%E3%83%A1%E3%82%AF%E3%82%B5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109927045,
       "text": "ベニバナツメクサ（紅花詰草） は、マメ科の多年草。日本では暑さに弱く夏に枯れるため、一年生植物として扱われる。ストロベリーキャンドル、ストロベリートーチ、ベニバナツメグサ、クリムソンクローバー 、オランダレンゲなどの別名を持つ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Trifolium incarnatum」",
+      "source": "Wikipedia (en): Trifolium incarnatum",
       "source_url": "https://en.wikipedia.org/wiki/Trifolium_incarnatum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365406978,
       "text": "Trifolium incarnatum, known as crimson clover is a species of herbaceous flowering plant in the family Fabaceae. It is native to Eurasia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Trifolium incarnatum",
+      "source_url": "https://es.wikipedia.org/wiki/Trifolium_incarnatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171583218,
+      "text": "El trébol encarnado, escarlata o italiano es una especie de leguminosa que se utiliza como planta forrajera en Europa, Australia, Argentina, y EE. UU."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Trèfle incarnat",
+      "source_url": "https://fr.wikipedia.org/wiki/Tr%C3%A8fle_incarnat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238553965,
+      "text": "Le Trèfle incarnat ou Trèfle du Roussillon ou farouch est une espèce de plantes à fleurs du genre Trifolium et de la famille des Fabacées. C'est une plante herbacée originaire de la Méditerranée. Fréquemment utilisé comme fourrage et engrais vert, il peut former d'importantes colonies. Ses fleurs sont rouge sang le plus souvent, parfois roses ou blanc jaunâtre. On en connaît deux sous-espèces :subsp. incarnatum, ici décrite ;\nsubsp. molinerii Ces. 1844."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Trifolium incarnatum",
+      "source_url": "https://pt.wikipedia.org/wiki/Trifolium_incarnatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65202559,
+      "text": "Trifolium incarnatum é uma espécie de planta com flor pertencente à família Fabaceae."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ベニバナツメクサ」の節「栽培」",
+        "source": "Wikipedia (ja): ベニバナツメクサ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8B%E3%83%90%E3%83%8A%E3%83%84%E3%83%A1%E3%82%AF%E3%82%B5#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109927045,
         "heading": "栽培",
         "text": "日当たりと風通しが必要。水はけが良く、保水性のある土を好む。強健でやせ地でも良く育ち、こぼれ種でも良く増える。一旦根付くと乾燥にも強い。マメ科植物特有の根粒菌が根に生息し、窒素成分を合成できるため、緑肥として栽培されることもある。病害虫にも強いが、アブラムシ類やハダニ類が付きやすく、栽培には管理が必要である。横に広がるため、最低でも20センチメートルから30センチメートルは株間を取る。\n秋に種をまき、間引きを行う。花を咲かせるにはある程度の寒さを必要とするため、屋外で育てる。春まきの場合、葉がよく茂るが前述の理由により、夏に枯れることがある。しかし寒さが厳しい地方では、春まきにする。種を取る必要がない場合、花期が終わると茎は切り落とす。そうすることで株の消耗を防ぎ、花期が長くなる。肥料は少なめにする。",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Trèfle incarnat § Agriculture",
+        "source_url": "https://fr.wikipedia.org/wiki/Tr%C3%A8fle_incarnat#Agriculture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238553965,
+        "heading": "Agriculture",
+        "text": "Le trèfle incarnat fait partie de ces plantes fourragères qui en se substituant à la jachère ont fait  la révolution agricole du XVIIIe siècle. Il était apprécié en particulier dans l'ouest et le sud-ouest de la France pour l'alimentation des bovins, ovins et équins. Il a ensuite été progressivement délaissé.\nÀ présent, on s'intéresse de nouveau à cette culture capable de fixer l'azote atmosphérique, mellifère et résistante au gel. Son semis est facile (graines plus grosses que celles de la luzerne) et il convient aux sols légers, il peut servir de culture intermédiaire et participe à décompacter le sol à moyenne profondeur.\n\n■ Fourrage\nIl permet un pâturage précoce en sortie d'hiver ce qui est un avantage en cette période où les autres plantes pâturées produisent peu. Très peu météorisant contrairement à d'autres légumineuses, il peut être pâturé presque sans précautions particulières.\nLe trèfle incarnat s'ensile bien car il est riche en glucides solubles cependant il est difficile d'en produire du foin en raison de sa forte concentration en eau.\nIl valorise les sols pauvres et est adapté aux sols sains argilo-siliceux et silico-argileux à pH proche de la neutralité.\nSon inconvénient majeur est son rendement modéré.\n\n■ Engrais vert et couvert végétal\n\nSon système radiculaire colonise intensément les 15 premiers centimètres du sol en sortie d'hiver principalement. Ses racines peuvent descendre jusqu'à 60 cm et stimulent l'activité des vers de terre. Comme les autres légumineuses, il fixe l'azote de l'air et en enrichit le sol.\nIl est également possible de réaliser une culture dérobée entre deux cultures de maïs grain. Le principe étant de semer le trèfle juste après la récolte de maïs de l'année 1 et de le récolter avant le semis de maïs de l'année 2.",
         "truncated": false
       }
     }
@@ -177,7 +215,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -293,7 +331,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/523237-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -301,7 +339,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/523237-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000213010.webp",
@@ -314,6 +352,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 225,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

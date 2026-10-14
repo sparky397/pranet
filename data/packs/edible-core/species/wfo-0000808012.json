@@ -8,11 +8,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "pequi"
+    "fr": [
+      "Péqui"
+    ],
+    "pt": [
+      "Pequi"
     ],
     "koi": [
       "Пекуи"
@@ -22,12 +25,6 @@
     ],
     "eo": [
       "Kariokaro"
-    ],
-    "pt": [
-      "Pequi"
-    ],
-    "fr": [
-      "Péqui"
     ],
     "lbe": [
       "Пекуи"
@@ -64,24 +61,54 @@
     ],
     "mzn": [
       "پکوی"
+    ],
+    "en": [
+      "pequi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3411901",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3411901",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Caryocar brasiliense」",
+      "source": "Wikipedia (en): Caryocar brasiliense",
       "source_url": "https://en.wikipedia.org/wiki/Caryocar_brasiliense",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1379561756,
       "text": "Caryocar brasiliense, known as pequi or souari nut, is an edible fruit popular in some areas of Brazil, especially in central-west Brazil."
+    },
+    "es": {
+      "source": "Wikipedia (es): Caryocar brasiliense",
+      "source_url": "https://es.wikipedia.org/wiki/Caryocar_brasiliense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175162074,
+      "text": "Pequi o nuez souari es una especie planta con flor con fruta originaria de Brasil. El nombre pequi se origina de la palabra tupí \"pyqui\", cuya sílaba \"Py\" significa cáscara y la sílaba \"qui\" significa espino."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Péqui",
+      "source_url": "https://fr.wikipedia.org/wiki/P%C3%A9qui",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234184059,
+      "text": "Le Péqui est une espèce de plantes à fleurs de la famille des Caryocaraceae. C'est un arbre du Brésil."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pequi",
+      "source_url": "https://pt.wikipedia.org/wiki/Pequi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71469595,
+      "text": "Pequi, também chamado de pequizeiro, piqui, pequiá, piquiá, piquiá-bravo, amêndoa-de-espinho, grão-de-cavalo, pequiá-pedra, pequerim e suari, é uma árvore da família das cariocaráceas nativa do cerrado brasileiro. Seu fruto é muito utilizado na culinária de algumas regiões do país, principalmente no norte de Minas Gerais, estado maior produtor do fruto. Do pequi, é extraído um óleo denominado \"azeite\" ou \"óleo de pequi\". Seus frutos são, também, consumidos cozidos, puros ou juntamente com arroz e frango. Seu caroço (endocarpo) é dotado de muitos espinhos (acúleos), e há necessidade de muito cuidado ao se roer o fruto, evitando-se nele cravar os dentes, o que pode causar sérios ferimentos nas gengivas e no palato. No entanto, foram observados na natureza genótipos que produzem frutos sem espinhos no endocarpo. O sabor e o aroma dos frutos são muito marcantes e peculiares. O fruto pode ser conservado tanto em essência quanto em conserva."
     }
   },
   "edible": {
@@ -93,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -109,7 +136,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828593-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -117,7 +144,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828593-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000808012.webp",
@@ -130,6 +157,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

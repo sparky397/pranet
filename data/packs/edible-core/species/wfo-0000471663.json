@@ -13,7 +13,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "et": [
@@ -36,18 +36,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311852",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311852",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ptaeroxylon」",
+      "source": "Wikipedia (en): Ptaeroxylon",
       "source_url": "https://en.wikipedia.org/wiki/Ptaeroxylon",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1214925368,
       "text": "Ptaeroxylon obliquum is the botanical name for the sneezewood tree. It is native to Southern Africa, including South Africa, Zimbabwe, and Mozambique. It is the only species in the genus Ptaeroxylon."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ptaeroxylon obliquum",
+      "source_url": "https://es.wikipedia.org/wiki/Ptaeroxylon_obliquum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157034515,
+      "text": "Ptaeroxylon obliquum es un árbol del género monotípico Ptaeroxylon, perteneciente a la familia de las Rutáceas, de los cítricos."
     }
   },
   "edible": {
@@ -65,7 +74,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -84,7 +93,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/784511-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -92,7 +101,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/784511-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000471663.webp",
@@ -105,6 +114,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 275,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

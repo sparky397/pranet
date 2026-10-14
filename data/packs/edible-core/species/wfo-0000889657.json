@@ -12,7 +12,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -22,31 +22,12 @@
       "Canary grass",
       "annual canarygrass"
     ],
-    "de": [
-      "Kanarien-Glanzgras"
-    ],
-    "zh": [
-      "加拿麗鷸草",
-      "加那利鷸草",
-      "加那利虉草",
-      "金絲雀虉草"
-    ],
-    "nl": [
-      "Kanariezaad"
-    ],
-    "cs": [
-      "chrastice kanárská"
-    ],
-    "fi": [
-      "kanarianhelpi"
-    ],
-    "ast": [
-      "alpiste"
-    ],
-    "sl": [
-      "kanarska čužka"
+    "fr": [
+      "Alpiste des Canaries",
+      "Alpiste"
     ],
     "pt": [
+      "Alpiste",
       "Alpista"
     ],
     "ml": [
@@ -55,17 +36,23 @@
     "pl": [
       "Mozga kanaryjska"
     ],
-    "fr": [
-      "Alpiste"
-    ],
     "lt": [
       "Kanarinis strypainis"
+    ],
+    "fi": [
+      "kanarianhelpi"
     ],
     "hu": [
       "Fénymag"
     ],
     "sv": [
       "Kanariegräs"
+    ],
+    "zh": [
+      "金絲雀虉草",
+      "加拿麗鷸草",
+      "加那利鷸草",
+      "加那利虉草"
     ],
     "ar": [
       "خرفار كناري"
@@ -82,8 +69,14 @@
     "et": [
       "Kanaari paelrohi"
     ],
+    "ast": [
+      "Alpiste"
+    ],
     "uk": [
       "Очеретянка канаркова"
+    ],
+    "cs": [
+      "chrastice kanárská"
     ],
     "arz": [
       "خرفار كنارى"
@@ -96,13 +89,22 @@
     ],
     "kn": [
       "ಕ್ಯಾನರಿ ಹುಲ್ಲು"
+    ],
+    "sl": [
+      "kanarska čužka"
+    ],
+    "de": [
+      "Kanarien-Glanzgras"
+    ],
+    "nl": [
+      "Kanariezaad"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2086586",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2086586",
   "search_names": {
@@ -112,22 +114,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カナリークサヨシ」",
+      "source": "Wikipedia (ja): カナリークサヨシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%B5%E3%83%A8%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108387409,
       "text": "カナリークサヨシ はカナリーグラスとも呼ばれる、イネ科クサヨシ属に分類される一年草。種子は飼鳥家の間ではカナリーシードの名で知られる。稀に空き地で見られることがある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Canary grass」",
+      "source": "Wikipedia (en): Canary grass",
       "source_url": "https://en.wikipedia.org/wiki/Canary_grass",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1303548163,
       "text": "Canary grass is a plant, Phalaris canariensis, belonging to the family Poaceae. Originally a native of the Mediterranean region, it is now grown commercially in several parts of the world for birdseed."
+    },
+    "es": {
+      "source": "Wikipedia (es): Phalaris canariensis",
+      "source_url": "https://es.wikipedia.org/wiki/Phalaris_canariensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171666046,
+      "text": "La Phalaris canariensis es una gramínea anual, de crecimiento invierno-primaveral. Originaria de la región mediterránea, se cultiva para la producción de granos en las zonas templadas del mundo. Sus semillas, y por extensión la propia planta, reciben diversos nombres según la región; entre los más comunes están: alpiste, grano de Canarias, rabillo de cordero, rabos de cordero, triguera, etc."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Alpiste des Canaries",
+      "source_url": "https://fr.wikipedia.org/wiki/Alpiste_des_Canaries",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 213878048,
+      "text": "L’alpiste ou alpiste des Canaries est une plante herbacée de la famille des Poaceae (graminées), sous-famille des Pooideae, tribu des Aveneae, cultivée comme céréale secondaire pour ses graines appréciées des oiseaux."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Alpiste",
+      "source_url": "https://pt.wikipedia.org/wiki/Alpiste",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69882447,
+      "text": "Phalaris canariensis é uma espécie de planta com flor pertencente à família Poaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Phalaris canariensis",
+      "source_url": "https://id.wikipedia.org/wiki/Phalaris_canariensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29675368,
+      "text": "Phalaris canariensis adalah sebuah tanaman milik keluarga Poaceae. Awalnya merupakan tanaman asli dari wilayah Mediterania, sekarang ditanam secara komersial di beberapa bagian dunia untuk dijadikan benih burung. Rumput besar dan kasar ini memiliki batang yang tegak dan tidak berbulu, biasanya setinggi 0,61 hingga 1,83 m."
     }
   },
   "edible": {
@@ -141,7 +179,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -320,7 +358,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/415588-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -328,7 +366,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/415588-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000889657.webp",
@@ -341,6 +379,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 252,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

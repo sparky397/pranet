@@ -20,20 +20,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ハイニシキソウ"
     ],
-    "de": [
-      "Hingestreckte Zwergwolfsmilch"
-    ],
     "zh": [
       "匍匐大戟"
-    ],
-    "sl": [
-      "plazeči mleček"
     ],
     "arz": [
       "الفربيون البروستاتا"
@@ -41,38 +35,71 @@
     "pnb": [
       "ہزار داݨی"
     ],
+    "sl": [
+      "plazeči mleček"
+    ],
     "he": [
       "חלבלוב פושט"
     ],
     "mk": [
       "спрострена млечка"
+    ],
+    "de": [
+      "Hingestreckte Zwergwolfsmilch"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1023705",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1023705",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ハイニシキソウ」",
+      "source": "Wikipedia (ja): ハイニシキソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%8B%E3%82%B7%E3%82%AD%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107260587,
       "text": "ハイニシキソウ Chamaesyce prostrata は、トウダイグサ科の植物。ニシキソウ類では小さいもので、コニシキソウより一回り小さい。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Euphorbia prostrata」",
+      "source": "Wikipedia (en): Euphorbia prostrata",
       "source_url": "https://en.wikipedia.org/wiki/Euphorbia_prostrata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377275963,
       "text": "Euphorbia prostrata is a species of spurge known by the common name prostrate spurge or prostrate sandmat."
+    },
+    "es": {
+      "source": "Wikipedia (es): Euphorbia prostrata",
+      "source_url": "https://es.wikipedia.org/wiki/Euphorbia_prostrata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157024414,
+      "text": "Euphorbia prostrata es una especie fanerógama perteneciente a la familia de las euforbiáceas. Es endémica de Estados Unidos hasta Sudamérica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Euphorbia prostrata",
+      "source_url": "https://fr.wikipedia.org/wiki/Euphorbia_prostrata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 206938086,
+      "text": "L'Euphorbe prostrée, est une espèce de plante herbacée de la famille des Euphorbiacées native d'Amérique du Sud, mais largement naturalisée à travers le globe où on la trouve habituellement le long des chemins et dans les endroits perturbés."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Euphorbia prostrata",
+      "source_url": "https://pt.wikipedia.org/wiki/Euphorbia_prostrata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65545633,
+      "text": "Chamaesyce prostrata é uma espécie de planta com flor pertencente à família Euphorbiaceae."
     }
   },
   "edible": {
@@ -87,7 +114,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -286,7 +313,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/101913-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -294,7 +321,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/101913-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000964195.webp",
@@ -307,6 +334,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

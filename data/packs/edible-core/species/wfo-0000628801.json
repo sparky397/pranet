@@ -17,24 +17,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "West Indian gherkin"
-    ],
-    "zh": [
-      "小刺黄瓜",
-      "安古里亚甜瓜"
+    "pt": [
+      "Maxixe (hortaliça)",
+      "Maxixe"
     ],
     "nl": [
       "Surinaamse wilde augurk"
     ],
     "bg": [
       "ангурия"
-    ],
-    "pt": [
-      "Maxixe"
     ],
     "ru": [
       "Ангурия"
@@ -44,6 +38,10 @@
     ],
     "eo": [
       "Angurio"
+    ],
+    "zh": [
+      "小刺黄瓜",
+      "安古里亚甜瓜"
     ],
     "cs": [
       "Okurka angurie"
@@ -59,24 +57,54 @@
     ],
     "ja": [
       "ニシインドコキュウリ"
+    ],
+    "en": [
+      "West Indian gherkin"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2349096",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2349096",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cucumis anguria」",
+      "source": "Wikipedia (en): Cucumis anguria",
       "source_url": "https://en.wikipedia.org/wiki/Cucumis_anguria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369817692,
       "text": "Cucumis anguria, commonly known as maroon cucumber, West Indian gherkin, maxixe, burr gherkin, cackrey, and West Indian gourd, is a vine that is indigenous to Africa, but has become naturalized in the New World, and is cultivated in many places. It is similar and related to the common cucumber (C. sativus) and its cultivars are known as gherkins."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cucumis anguria",
+      "source_url": "https://es.wikipedia.org/wiki/Cucumis_anguria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 167903565,
+      "text": "Cucumis anguria, generalmente conocido como pepinillo, pepino del monte, pepino silvestre, pepinillo de las indias occidentales, pepinillo erizo, sandía de la víbora o pepino cimarrón, es una cucurbitácea originaria de África, pero que se ha naturalizado en el Nuevo Mundo, y está cultivado en muchos sitios. Es similar y relacionado al pepino común."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cucumis anguria",
+      "source_url": "https://fr.wikipedia.org/wiki/Cucumis_anguria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237057901,
+      "text": "Cucumis anguria, le concombre des Antilles, « concombre piquant » en Guyane, ti-concombre ou macissis, est une espèce de plantes à fleurs dicotylédones de la famille des Cucurbitaceae, originaire d'Afrique australe."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Maxixe (hortaliça)",
+      "source_url": "https://pt.wikipedia.org/wiki/Maxixe_(hortali%C3%A7a)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73001303,
+      "text": "Cucumis anguria, conhecido popularmente como maxixe, é uma planta rasteira ou trepadeira anual e de clima quente. Aos seus frutos comestíveis, também se dá o nome maxixe ou, regionalmente, nalgumas partes do Brasil, galinha-arrepiada."
     }
   },
   "edible": {
@@ -91,7 +119,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -167,7 +195,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/292141-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -175,7 +203,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/292141-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000628801.webp",
@@ -188,6 +216,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

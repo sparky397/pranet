@@ -17,12 +17,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "soapbark"
-    ],
     "pt": [
       "Quilaia"
     ],
@@ -73,13 +70,16 @@
     ],
     "nb": [
       "såpetre"
+    ],
+    "en": [
+      "soapbark"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2382775",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2382775",
   "search_names": {
@@ -93,23 +93,50 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Quillaja saponaria」",
+      "source": "Wikipedia (en): Quillaja saponaria",
       "source_url": "https://en.wikipedia.org/wiki/Quillaja_saponaria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368802886,
       "text": "Quillaja saponaria, the soap bark tree or soapbark, is an evergreen tree in the family Quillajaceae, native to warm temperate central Chile. In Chile it occurs from 32 to 40° South Latitude approximately and at up to 2000 m (6500 ft) above sea level. It can grow to 15–20 m (50–65 ft) in height. The tree has thick, dark bark; smooth, leathery, shiny, oval evergreen leaves 3–5 cm long; white star-shaped flowers 15 mm in diameter borne in dense corymbs; and a dry fruit with five follicles each containing 10–20 seeds. The tree has several practical and commercial uses."
+    },
+    "es": {
+      "source": "Wikipedia (es): Quillaja saponaria",
+      "source_url": "https://es.wikipedia.org/wiki/Quillaja_saponaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175258671,
+      "text": "El Quillay, es un árbol endémico de la Zona Central de Chile. Hay poblaciones que llegan hasta los 20 m de altura. Habita en ambientes secos y suelos pobres."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Quillaja saponaria",
+      "source_url": "https://fr.wikipedia.org/wiki/Quillaja_saponaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225116914,
+      "text": "Quillaja saponaria est une espèce de plantes à fleurs de la famille des Rosacées. Certaines études récentes le classent dans la famille des Quillajacées. C'est un arbre à feuilles persistantes provenant d'Amérique du Sud."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Quilaia",
+      "source_url": "https://pt.wikipedia.org/wiki/Quilaia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70858917,
+      "text": "A quilaia é uma árvore perenifólia originária do Chile, cuja casca do tronco é rica em saponinas."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Quillaja saponaria」の節「Toxicity」",
+        "source": "Wikipedia (en): Quillaja saponaria § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Quillaja_saponaria#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1368802886,
         "heading": "Toxicity",
         "text": "First described by Edwin John Quekett, Q. saponaria wood and bark is known to contain raphides, which George Gulliver found were concentrated along the liber and mesophloeum.",
@@ -127,7 +154,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -139,7 +166,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/731377-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -147,7 +174,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/731377-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000734711.webp",
@@ -160,6 +187,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

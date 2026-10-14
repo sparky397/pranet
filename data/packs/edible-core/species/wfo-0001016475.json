@@ -13,45 +13,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Wild-Apfel",
-      "Holzapfel"
-    ],
-    "en": [
-      "European Crab Apple",
-      "Crab Apple",
-      "Pommier Sauvage"
-    ],
-    "nl": [
-      "Appel",
-      "wilde appel"
-    ],
-    "cs": [
-      "jabloň lesní"
-    ],
-    "sk": [
-      "jabloň planá"
-    ],
-    "fr": [
-      "pommier"
-    ],
-    "fi": [
-      "metsäomenapuu"
-    ],
-    "zh": [
-      "欧洲野苹果",
-      "森林苹果",
-      "歐洲野蘋果"
-    ],
-    "ast": [
-      "pumar, mazanal muxín",
-      "pumar"
-    ],
-    "sl": [
-      "lesnika"
+    "id": [
+      "Apel Manalagi"
     ],
     "pl": [
       "jabłoń dzika"
@@ -64,6 +30,10 @@
     ],
     "et": [
       "mets-õunapuu"
+    ],
+    "de": [
+      "Holzapfel",
+      "Wild-Apfel"
     ],
     "sq": [
       "Molla e egër"
@@ -80,6 +50,10 @@
     "sv": [
       "vildapel"
     ],
+    "nl": [
+      "wilde appel",
+      "Appel"
+    ],
     "ru": [
       "Яблоня лесная"
     ],
@@ -89,8 +63,17 @@
     "ca": [
       "pomera silvestre europea"
     ],
+    "fi": [
+      "metsäomenapuu"
+    ],
     "uk": [
       "Яблуня лісова"
+    ],
+    "sl": [
+      "lesnika"
+    ],
+    "cs": [
+      "jabloň lesní"
     ],
     "fa": [
       "سیب خودروی اروپایی"
@@ -128,6 +111,9 @@
     "cy": [
       "Coeden afalau surion"
     ],
+    "sk": [
+      "jabloň planá"
+    ],
     "pt": [
       "Macieira-brava"
     ],
@@ -137,6 +123,15 @@
     "ja": [
       "ワイルドクラブアップル"
     ],
+    "ast": [
+      "Pumar, mazanal muxín",
+      "pumar"
+    ],
+    "zh": [
+      "歐洲野蘋果",
+      "欧洲野苹果",
+      "森林苹果"
+    ],
     "csb": [
       "Dzëkô jabłónka"
     ],
@@ -145,9 +140,6 @@
     ],
     "ml": [
       "മാലസ് സിൽവെസ്ട്രിസ്"
-    ],
-    "id": [
-      "Apel Manalagi"
     ],
     "sr": [
       "Дивља јабука"
@@ -178,13 +170,21 @@
     ],
     "lb": [
       "Holzapel"
+    ],
+    "en": [
+      "European Crab Apple",
+      "Crab Apple",
+      "Pommier Sauvage"
+    ],
+    "fr": [
+      "pommier"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q47161",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q47161",
   "search_names": {
@@ -194,13 +194,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Malus sylvestris」",
+      "source": "Wikipedia (en): Malus sylvestris",
       "source_url": "https://en.wikipedia.org/wiki/Malus_sylvestris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378007054,
       "text": "Malus sylvestris, the European crab apple, also known as the European wild apple or simply the crab apple, is a species of the genus Malus. Its scientific name means \"forest apple\", reflecting its habitat. It is native to western Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Malus sylvestris",
+      "source_url": "https://es.wikipedia.org/wiki/Malus_sylvestris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175376458,
+      "text": "El manzano silvestre o manzano silvestre europeo es una de las especies del género Malus originario de la Europa central. Su nombre científico significa \"manzana del bosque\". En el pasado se pensó que pudiera ser un antepasado importante del manzano de cultivo, sin embargo ahora se sabe que aquél proviene principalmente de la especie Malus sieversii de Asia central. Por otra parte, estudios genéticos recientes confirman que M. sylvestris ha contribuido de manera secundaria, pero significativa, al genoma del manzano de cultivo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Malus sylvestris",
+      "source_url": "https://fr.wikipedia.org/wiki/Malus_sylvestris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239462222,
+      "text": "Malus sylvestris, le Boquettier, le Pommier sauvage ou Pommier des bois, est une espèce de plantes à fleurs de la famille des Rosaceae. C'est un arbre spontané dans toute l'Europe et parfois cultivé."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Malus sylvestris",
+      "source_url": "https://pt.wikipedia.org/wiki/Malus_sylvestris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62641011,
+      "text": "Malus sylvestris é uma espécie do gênero Malus, nativa da Europa. Seu nome científico significa \"maçã silvestre\". a árvore apresenta a presença de espinhos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Apel Manalagi",
+      "source_url": "https://id.wikipedia.org/wiki/Apel_Manalagi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29793835,
+      "text": "Apel Manalagi atau di Indonesia dikenal sebagai Apel Malang atau Apel Batu, adalah spesies buah berupa apel liar dari genus Malus. Nama ilmiahnya berarti \"Apel Hutan\" karena sering tumbuh secara liar di hutan dengan ketinggian atau iklim tertentu dan pohonnya memiliki duri yang lumayan tajam."
     }
   },
   "edible": {
@@ -216,7 +252,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -263,7 +299,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/726415-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -271,7 +307,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/726415-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001016475.webp",
@@ -284,6 +320,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

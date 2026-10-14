@@ -15,7 +15,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -25,79 +25,8 @@
       "Common wheat",
       "common wheat"
     ],
-    "cy": [
-      "gwenith"
-    ],
-    "bg": [
-      "Зимна пшеница"
-    ],
-    "da": [
-      "Brød-Hvede"
-    ],
-    "de": [
-      "Weichweizen"
-    ],
-    "es": [
-      "Trigo"
-    ],
-    "fi": [
-      "leipävehnä",
-      "Vehnä"
-    ],
-    "fr": [
-      "Blé tendre"
-    ],
-    "hsb": [
-      "Prawa pšeńca"
-    ],
-    "hu": [
-      "Közönséges búza"
-    ],
-    "it": [
-      "Frumento tenero"
-    ],
-    "ka": [
-      "რბილი ხორბალი"
-    ],
-    "li": [
-      "Terf"
-    ],
-    "lt": [
-      "Paprastasis kvietys"
-    ],
-    "nl": [
-      "Gewone tarwe",
-      "Tarwe"
-    ],
     "pl": [
-      "Pszenica zwyczajna"
-    ],
-    "ru": [
-      "Пшеница мягкая"
-    ],
-    "sq": [
-      "Gruri"
-    ],
-    "sv": [
-      "Vete"
-    ],
-    "zh": [
-      "小麥",
-      "普通小麦",
-      "瓦维洛夫小麦",
-      "云南小麦",
-      "浮小麦",
-      "小麦",
-      "淀粉"
-    ],
-    "cs": [
-      "pšenice setá"
-    ],
-    "ast": [
-      "trigu"
-    ],
-    "sl": [
-      "navadna pšenica"
+      "pszenica zwyczajna"
     ],
     "ha": [
       "Alkama"
@@ -105,8 +34,20 @@
     "ko": [
       "보통밀"
     ],
+    "hu": [
+      "közönséges búza"
+    ],
+    "li": [
+      "terf"
+    ],
     "et": [
       "harilik nisu"
+    ],
+    "de": [
+      "Weichweizen"
+    ],
+    "sq": [
+      "Gruri"
     ],
     "rw": [
       "Ingano"
@@ -114,14 +55,34 @@
     "scn": [
       "Ciaca"
     ],
+    "hsb": [
+      "Prawa pšeńca"
+    ],
+    "nl": [
+      "gewone tarwe",
+      "Tarwe"
+    ],
     "ar": [
       "قمح طري"
+    ],
+    "ru": [
+      "пшеница мягкая"
     ],
     "ca": [
       "blat xeixa"
     ],
+    "fi": [
+      "vehnä",
+      "leipävehnä"
+    ],
     "fa": [
       "مکسیپک"
+    ],
+    "bg": [
+      "зимна пшеница"
+    ],
+    "ka": [
+      "რბილი ხორბალი"
     ],
     "pcd": [
       "Fourmint"
@@ -129,11 +90,32 @@
     "az": [
       "Yumşaq buğda"
     ],
+    "lt": [
+      "paprastasis kvietys"
+    ],
+    "da": [
+      "Brød-Hvede"
+    ],
+    "cs": [
+      "pšenice setá"
+    ],
+    "zh": [
+      "普通小麦",
+      "小麥",
+      "瓦维洛夫小麦",
+      "云南小麦",
+      "浮小麦",
+      "小麦",
+      "淀粉"
+    ],
     "pt": [
       "trigo"
     ],
     "pnb": [
       "عام کنک"
+    ],
+    "sl": [
+      "navadna pšenica"
     ],
     "mk": [
       "обична печеница"
@@ -167,6 +149,12 @@
     ],
     "kk": [
       "Жұмсақ бидай"
+    ],
+    "cy": [
+      "Gwenith"
+    ],
+    "ast": [
+      "Trigu"
     ],
     "el": [
       "Σίτος ο μαλακός"
@@ -221,13 +209,25 @@
     ],
     "mwl": [
       "trigo"
+    ],
+    "es": [
+      "Trigo"
+    ],
+    "fr": [
+      "Blé tendre"
+    ],
+    "it": [
+      "Frumento tenero"
+    ],
+    "sv": [
+      "Vete"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161098",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161098",
   "search_names": {
@@ -239,32 +239,59 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「パンコムギ」",
+      "source": "Wikipedia (ja): パンコムギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%82%B3%E3%83%A0%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106372134,
       "text": "パンコムギ、麺麭小麦 あるいは普通コムギ は、栽培種のコムギの一種である。種小名の aestivum はラテン語で「夏の」を意味する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Common wheat」",
+      "source": "Wikipedia (en): Common wheat",
       "source_url": "https://en.wikipedia.org/wiki/Common_wheat",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369004123,
       "text": "Common wheat, also known as bread wheat, is a cultivated wheat species. It originated around 8,000 years ago, from the hybridization of an already existing domesticated variety of wheat and the wild goatgrass in the South Caucasus or southwestern Caspian area. About 95% of wheat produced worldwide is this species; it is the most widely grown of all crops and the cereal with the highest monetary yield."
+    },
+    "es": {
+      "source": "Wikipedia (es): Triticum aestivum",
+      "source_url": "https://es.wikipedia.org/wiki/Triticum_aestivum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173728695,
+      "text": "El trigo harinero, trigo del pan o trigo blando, un cereal del género Triticum, es la especie de trigo más extensamente cultivada en el mundo. Es una planta alohexaploide, debido a su conformación de 42 cromosomas repartidos en 6 juegos desde tres diferentes especies. La planta posee tres genomas idénticos, los cuales poseen información genética repetida, lo cual le confiere a la especie en sí gran adaptabilidad a los diferentes ambientes. Cerca del 95 % del trigo producido mundialmente es de esta especie;"
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Triticum aestivum",
+      "source_url": "https://fr.wikipedia.org/wiki/Triticum_aestivum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238569044,
+      "text": "Triticum aestivum L. (1753) est une espèce de plantes monocotylédones de la famille des Poaceae (graminées), sous-famille des Pooideae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Triticum aestivum",
+      "source_url": "https://pt.wikipedia.org/wiki/Triticum_aestivum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70670371,
+      "text": "Triticum aestivum, comummente conhecido como trigo-mole, é uma espécie de planta angiospérmica anual pertencente à família das Poaceae. \nA autoridade científica da espécie é L., tendo sido publicada em Species Plantarum."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Common wheat」の節「Cultivation」",
+        "source": "Wikipedia (en): Common wheat § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Common_wheat#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369004123,
         "heading": "Cultivation",
         "text": "■ History\nCommon wheat originated around 8,000 years ago, from the hybridization of an already domesticated free-threshing wheat and the wild goatgrass (Aegilops tauschii Coss.) in the South Caucasus or southwestern Caspian area.  After domestication it spread  to North Africa, Europe and East Asia in the prehistoric period. Naked wheats (including Triticum aestivum, T. durum, and T. turgidum) were found in Roman burial sites ranging from 100 BCE to 300 CE.\n\nWheat first reached North America with Spanish missions in the 16th century, but North America's role as a major exporter of grain dates from the colonization of the prairies in the 1870s. As grain exports from Russia ceased during World War I, grain production in Kansas doubled.\nWorldwide, bread wheat has proved well adapted to modern industrial baking, and has displaced many of the other wheat, barley, and rye species that were once commonly used for bread making, particularly in Europe.\n\n■ Plant breeding\n\nModern wheat varieties have been selected for short stems, the result of RHt dwarfing genes that reduce the plant's sensitivity to gibberellic acid, a plant hormone that lengthens cells. RHt genes were introduced to modern wheat varieties in the 1960s by Norman Borlaug from Norin 10 cultivars of wheat grown in Japan. Short stems are important because the application of high levels of chemical fertilizers would otherwise cause the stems to grow too high, resulting in lodging (collapse of the stems). Stem heights are also even, which is important for modern harvesting techniques.",
@@ -285,7 +312,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -510,7 +537,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/332110-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -518,7 +545,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/332110-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000905667.webp",
@@ -531,6 +558,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 182,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

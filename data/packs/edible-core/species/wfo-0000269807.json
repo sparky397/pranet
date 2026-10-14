@@ -11,18 +11,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "wild date palm"
+    "lt": [
+      "Indinis finikas"
     ],
     "zh": [
       "银海枣",
       "林刺葵"
-    ],
-    "lt": [
-      "Indinis finikas"
     ],
     "de": [
       "Silber-Dattelpalme"
@@ -74,13 +71,16 @@
     ],
     "ja": [
       "サトウナツメヤシ"
+    ],
+    "en": [
+      "wild date palm"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2285767",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2285767",
   "search_names": {
@@ -94,13 +94,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Phoenix sylvestris」",
+      "source": "Wikipedia (en): Phoenix sylvestris",
       "source_url": "https://en.wikipedia.org/wiki/Phoenix_sylvestris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1337693099,
       "text": "Phoenix sylvestris also known as silver date palm, Indian date, sugar date palm or wild date palm, is a species of flowering plant in the palm family native to southern Pakistan, most of India, Nepal, Bhutan, Myanmar and Bangladesh. It has been introduced to southeastern China, Sri Lanka, Mauritius, Puerto Rico and the Leeward Islands. Growing in plains and scrubland up to 1300 m above sea level, the fruit from this palm species is used to make wine and jelly. The sap is tapped and drunk fresh or fermented into toddy. The fresh sap is boiled to make palm jaggery in West Bengal state of India and Bangladesh."
+    },
+    "es": {
+      "source": "Wikipedia (es): Phoenix sylvestris",
+      "source_url": "https://es.wikipedia.org/wiki/Phoenix_sylvestris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581158,
+      "text": "Phoenix sylvestris, llamada popularmente datilera plateada, Phoenix de la India o dátil silvestre, es una especie de la familia de las palmeras nativa del sur de Pakistán, la mayor parte de la India, Sri Lanka y Bangladés."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Phoenix sylvestris",
+      "source_url": "https://fr.wikipedia.org/wiki/Phoenix_sylvestris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231955871,
+      "text": "Phoenix sylvestris ou dattier indien, est une espèce de plante à fleur de la famille des Arécacées, appartenant au genre Phoenix. Il est essentiellement retrouvé dans le sous-continent indien. Certains taxinomistes pensent qu'il est à l'origine de Phoenix dactylifera, le célèbre palmier dattier, cultivé à échelle industrielle dans certains pays. Phoenix sylvestris est plus petit que le palmier dattier, et ses dattes également."
     }
   },
   "edible": {
@@ -116,7 +134,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -127,7 +145,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60458340-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -135,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60458340-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000269807.webp",
@@ -148,6 +166,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -13,19 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "white-flowered wild banana"
-    ],
-    "af": [
-      "Kaap witwildepiesang"
-    ],
-    "zh": [
-      "白花鹤望兰",
-      "扇芭蕉"
-    ],
     "de": [
       "Weiße Strelitzie"
     ],
@@ -34,6 +24,10 @@
     ],
     "sv": [
       "Jättepapegojblomma"
+    ],
+    "zh": [
+      "白花鹤望兰",
+      "扇芭蕉"
     ],
     "uk": [
       "Стрелітція велична"
@@ -49,24 +43,39 @@
     ],
     "lv": [
       "Baltā strelīcija"
+    ],
+    "en": [
+      "white-flowered wild banana"
+    ],
+    "af": [
+      "Kaap witwildepiesang"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q187675",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q187675",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Strelitzia alba」",
+      "source": "Wikipedia (en): Strelitzia alba",
       "source_url": "https://en.wikipedia.org/wiki/Strelitzia_alba",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1341344277,
       "text": "Strelitzia alba also known as white-flowered wild banana, white bird of paradise, or Cape wild banana is a plant of the Bird of Paradise family and is endemic to the Garden Route along the southernmost coastal regions of the district of Humansdorp Eastern and district of Knysna in Western Cape in South Africa. It grows in evergreen forest, gorges, and on slopes along the rivers."
+    },
+    "es": {
+      "source": "Wikipedia (es): Strelitzia alba",
+      "source_url": "https://es.wikipedia.org/wiki/Strelitzia_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174022239,
+      "text": "Strelitzia alba, también conocida como ave del paraíso blanca o ave del paraíso del Cabo, es una planta de la familia Strelitziaceae, endémica de Garden Route a lo largo de las regiones costeras más meridionales del distrito de Humansdorp Eastern y el distrito de Knysna en Western Cape en Sudáfrica. Crece en bosques de hoja perenne, desfiladeros y en laderas a lo largo de los ríos."
     }
   },
   "edible": {
@@ -79,7 +88,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -89,7 +98,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/585015-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -97,7 +106,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/585015-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000561814.webp",
@@ -110,6 +119,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 242,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

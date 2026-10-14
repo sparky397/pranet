@@ -29,28 +29,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Glanz-Rauke"
-    ],
-    "en": [
-      "London rocket"
-    ],
-    "zh": [
-      "抪娘蒿",
-      "水蒜芥"
-    ],
-    "nl": [
-      "Brede raket"
-    ],
-    "cs": [
-      "hulevník drobnokvětý"
-    ],
-    "fi": [
-      "kiiltopernaruoho"
-    ],
     "fa": [
       "خاکشیر"
     ],
@@ -62,6 +43,13 @@
     ],
     "sv": [
       "Vallsenap"
+    ],
+    "zh": [
+      "水蒜芥",
+      "抪娘蒿"
+    ],
+    "de": [
+      "Glanz-Rauke"
     ],
     "cy": [
       "Roced Llundain"
@@ -78,11 +66,17 @@
     "bn": [
       "মরু সরিষা"
     ],
+    "cs": [
+      "hulevník drobnokvětý"
+    ],
     "ar": [
       "سمارة رثة"
     ],
     "be": [
       "Гуляўнік ірыо"
+    ],
+    "fi": [
+      "kiiltopernaruoho"
     ],
     "tr": [
       "Bülbül otu"
@@ -92,24 +86,57 @@
     ],
     "pa": [
       "ਜੰਗਲੀ ਸਰ੍ਹੋਂ"
+    ],
+    "en": [
+      "London rocket"
+    ],
+    "nl": [
+      "Brede raket"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q163223",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q163223",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sisymbrium irio」",
+      "source": "Wikipedia (en): Sisymbrium irio",
       "source_url": "https://en.wikipedia.org/wiki/Sisymbrium_irio",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1345572704,
       "text": "Sisymbrium irio, London rocket, is a flowering plant in the cabbage family. Its English common name originated when it flourished after the Great Fire of London in 1666, although it is not native to Britain and it does not tend to persist there."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sisymbrium irio",
+      "source_url": "https://es.wikipedia.org/wiki/Sisymbrium_irio",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 128986641,
+      "text": "Sisymbrium irio o matacandil es una planta herbácea de la familia Brassicaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sisymbrium irio",
+      "source_url": "https://fr.wikipedia.org/wiki/Sisymbrium_irio",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237066164,
+      "text": "Sisymbrium irio, communément appelé Sisymbre irio ou Sisymbre vélaret, est une espèce de plante herbacée appartenant à la famille des Brassicaceae (crucifères). C’est une plante annuelle de 20 à 60 cm de hauteur, avec des feuilles basale pennatiséquées. Elle est originaire d’Europe du Sud, du Moyen-Orient jusqu’en Asie centrale, et d’Afrique du Nord."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sisymbrium irio",
+      "source_url": "https://pt.wikipedia.org/wiki/Sisymbrium_irio",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64612306,
+      "text": "Sisymbrium irio é uma espécie de planta com flor pertencente à família Brassicaceae."
     }
   },
   "edible": {
@@ -121,7 +148,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -235,7 +262,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/237940-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -243,7 +270,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/237940-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000431928.webp",
@@ -256,6 +283,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 399,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

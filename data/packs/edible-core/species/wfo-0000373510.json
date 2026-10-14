@@ -12,21 +12,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オオフサモ"
-    ],
-    "cy": [
-      "pluen parot"
-    ],
-    "en": [
-      "parrot feather watermilfoil"
-    ],
-    "zh": [
-      "粉綠狐尾藻",
-      "粉绿狐尾藻"
     ],
     "ru": [
       "Уруть бразильская"
@@ -34,8 +24,15 @@
     "de": [
       "Brasilianisches Tausendblatt"
     ],
+    "zh": [
+      "粉綠狐尾藻",
+      "粉绿狐尾藻"
+    ],
     "sv": [
       "Storslinga"
+    ],
+    "cy": [
+      "Pluen parot"
     ],
     "et": [
       "Brasiilia vesikuusk"
@@ -54,13 +51,16 @@
     ],
     "ms": [
       "bulu ayam"
+    ],
+    "en": [
+      "parrot feather watermilfoil"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q899338",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q899338",
   "search_names": {
@@ -74,22 +74,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オオフサモ」",
+      "source": "Wikipedia (ja): オオフサモ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%95%E3%82%B5%E3%83%A2",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 104217572,
       "text": "オオフサモ（大房藻）、別名パロット・フェザー は、アリノトウグサ科の水生植物。南アメリカのアマゾン川が原産地であるが、アクアリウムやビオトープなどの観賞用として各地に移入され、日本などで侵略的外来種となっている。断片から根が生えて再生するなど繁茂しやすく、水田では水稲の生育を妨げる。日本では41都道府県で繁殖が確認され、特定外来生物、日本の侵略的外来種ワースト100に指定されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Myriophyllum aquaticum」",
+      "source": "Wikipedia (en): Myriophyllum aquaticum",
       "source_url": "https://en.wikipedia.org/wiki/Myriophyllum_aquaticum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1327565079,
       "text": "Myriophyllum aquaticum is a flowering plant, a vascular dicot, commonly called parrot's-feather and parrot feather watermilfoil."
+    },
+    "es": {
+      "source": "Wikipedia (es): Myriophyllum aquaticum",
+      "source_url": "https://es.wikipedia.org/wiki/Myriophyllum_aquaticum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175068331,
+      "text": "La cola de zorro acuática es una especie de planta acuática nativa de humedales de Sudamérica: Brasil, Bolivia, Ecuador, Perú, Argentina, Chile, Paraguay, Uruguay. Es popular por su uso en acuarios, pero fuera de su distribución natural se comporta como especie invasora."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Myriophyllum aquaticum",
+      "source_url": "https://fr.wikipedia.org/wiki/Myriophyllum_aquaticum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230907326,
+      "text": "Myriophyllum aquaticum, est une espèce de plante à fleurs de la famille des Haloragaceae. Elle est appelée en français Myriophylle aquatique ou Myriophylle du Brésil, elle est souvent vendue sous le nom Myriophyllum propium. C'est une plante herbacée, vivace et amphibie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Myriophyllum aquaticum",
+      "source_url": "https://pt.wikipedia.org/wiki/Myriophyllum_aquaticum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 59225752,
+      "text": "Myriophyllum aquaticum é uma espécie de planta com flor pertencente à família Haloragaceae."
     }
   },
   "edible": {
@@ -101,7 +128,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -207,7 +234,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/166319-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "helophyte",
@@ -215,7 +242,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/166319-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000373510.webp",
@@ -228,6 +255,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 266,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

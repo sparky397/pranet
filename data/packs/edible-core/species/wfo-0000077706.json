@@ -14,19 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Indian camphorweed"
-    ],
-    "zh": [
-      "鯽魚膽",
-      "闊苞菊",
-      "阔苞菊",
-      "大榆蘑",
-      "栾樨"
-    ],
     "id": [
       "Beluntas"
     ],
@@ -45,6 +35,13 @@
     "ms": [
       "Beluntas"
     ],
+    "zh": [
+      "阔苞菊",
+      "鯽魚膽",
+      "闊苞菊",
+      "大榆蘑",
+      "栾樨"
+    ],
     "ja": [
       "ヒイラギギク"
     ],
@@ -59,24 +56,45 @@
     ],
     "gor": [
       "Balunta"
+    ],
+    "en": [
+      "Indian camphorweed"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4217123",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4217123",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pluchea indica」",
+      "source": "Wikipedia (en): Pluchea indica",
       "source_url": "https://en.wikipedia.org/wiki/Pluchea_indica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355057407,
       "text": "Pluchea indica is a species of flowering plant in the aster family, Asteraceae. Its common names include Indian camphorweed, Indian fleabane, and Indian pluchea. It is native to parts of Asia and Australia, and it is widespread in the Pacific Islands as an introduced and often invasive species."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pluchea indica",
+      "source_url": "https://es.wikipedia.org/wiki/Pluchea_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171112817,
+      "text": "El rabo de zorra es una especie de planta angiosperma perteneciente a la familia Asteraceae. Es originaria de partes de Asia y Australia, y está muy extendida en las islas del Pacífico como especie introducida e invasora."
+    },
+    "id": {
+      "source": "Wikipedia (id): Beluntas",
+      "source_url": "https://id.wikipedia.org/wiki/Beluntas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29412086,
+      "text": "Beluntas merupakan tumbuhan semak yang bercabang banyak, berusuk halus, dan berbulu lembut. Umumnya tumbuhan ini ditanam sebagai tanaman pagar atau bahkan tumbuh liar, tingginya bisa mencapai 3 meter apabila tidak dipangkas, sehingga sering kali ditanam sebagai pagar pekarangan. Beluntas dapat tumbuh di daerah kering pada tanah yang keras dan berbatu, pada daerah dataran rendah hingga dataran tinggi pada ketinggian 1000 meter dari permukaan laut, memerlukan cukup cahaya matahari atau sedikit naungan, dan perbanyakannya dapat dilakukan dengan setek batang pada batang yang cukup tua.\nNama daerah: beluntas (Melayu), baluntas, baruntas (Sunda), luntas (Jawa), baluntas (Madura), lamutasa (Makasar), lenabou (Timor), sedangkan nama asing untuk tanaman beluntas adalah Luan Yi (Cina), Phatpai (Vietnam), dan Marsh fleabane (Inggris). Nama simplisia beluntas adalah Plucheacea folium (daun), Plucheacea radix (akar)."
     }
   },
   "edible": {
@@ -92,7 +110,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -131,7 +149,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/238839-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -139,7 +157,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/238839-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000077706.webp",
@@ -152,6 +170,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 299,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

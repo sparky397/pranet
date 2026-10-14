@@ -19,13 +19,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "木奶果",
-      "三丫果",
-      "铁东木"
+    "id": [
+      "Tajam molek"
     ],
     "ml": [
       "ബർമീസ് ഗ്രേപ്സ്"
@@ -41,6 +39,11 @@
     ],
     "my": [
       "ကနစိုးပင်"
+    ],
+    "zh": [
+      "木奶果",
+      "三丫果",
+      "铁东木"
     ],
     "as": [
       "লেটেকু"
@@ -60,9 +63,6 @@
     "km": [
       "ផ្ញៀវ"
     ],
-    "id": [
-      "Tajam molek"
-    ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇၽႆး"
     ]
@@ -71,18 +71,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2993711",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2993711",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Baccaurea ramiflora」",
+      "source": "Wikipedia (en): Baccaurea ramiflora",
       "source_url": "https://en.wikipedia.org/wiki/Baccaurea_ramiflora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370106208,
       "text": "Baccaurea ramiflora is a species of flowering plant in the family Phyllanthaceae. This slow-growing evergreen tree is sometimes referred to in English by the common name Burmese grape. It grows up to 25 m (82 ft) in height, with a spreading crown and thin bark."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Baccaurea ramiflora",
+      "source_url": "https://fr.wikipedia.org/wiki/Baccaurea_ramiflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226182290,
+      "text": "Baccaurea ramiflora est une espèce de plantes à fleurs de la famille des Phyllanthaceae. C'est un arbre à feuilles persistantes originaire d’Asie."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tajam molek",
+      "source_url": "https://id.wikipedia.org/wiki/Tajam_molek",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30062921,
+      "text": "Baccaurea ramiflora, atau dikenal sebagai mafai setambun, pupor, dan tajam molek, adalah pohon malar hijau yang tumbuh lambat dalam famili Phyllanthaceae, tumbuh hingga 25 m, dengan tajuk menyebar dan kulit kayu tipis. Ia berasal dari Asia, dari Nepal di barat, timur hingga selatan China dan selatan hingga Semenanjung Malaysia. Tumbuh di hutan yang selalu hijau di berbagai jenis tanah. Buahnya dipanen dan digunakan secara lokal, dimakan sebagai buah, direbus atau dibuat menjadi anggur; itu juga digunakan sebagai obat untuk mengobati penyakit kulit. Kulit kayu, akar dan kayunya dipanen untuk keperluan pengobatan."
     }
   },
   "edible": {
@@ -96,7 +114,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -120,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/339677-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -128,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/339677-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000305379.webp",
@@ -141,6 +159,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

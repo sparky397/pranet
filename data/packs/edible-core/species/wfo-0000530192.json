@@ -10,18 +10,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "spleen amaranth",
-      "amaranth",
-      "pigweed"
-    ],
-    "zh": [
-      "假刺莧",
-      "假刺苋",
-      "疑似苋"
+    "id": [
+      "Bayam merah"
     ],
     "ht": [
       "Zepina"
@@ -35,6 +28,11 @@
     "lt": [
       "Blužninis burnotis"
     ],
+    "zh": [
+      "假刺莧",
+      "假刺苋",
+      "疑似苋"
+    ],
     "yue": [
       "假刺莧"
     ],
@@ -44,21 +42,23 @@
     "te": [
       "బచ్చలి కూర"
     ],
-    "id": [
-      "Bayam merah"
-    ],
     "ks": [
       "وۄستہٕ ہاکھ"
     ],
     "mad": [
       "Tarnya' Mèra"
+    ],
+    "en": [
+      "spleen amaranth",
+      "amaranth",
+      "pigweed"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3238412",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3238412",
   "search_names": {
@@ -69,13 +69,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Amaranthus dubius」",
+      "source": "Wikipedia (en): Amaranthus dubius",
       "source_url": "https://en.wikipedia.org/wiki/Amaranthus_dubius",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1287043952,
       "text": "Amaranthus dubius, the red spinach, Chinese spinach,, spleen amaranth, hon-toi-moi, yin choy, hsien tsai, or Arai keerai (அரைக்கீரை) is a plant species. It belongs to the economically important family Amaranthaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Amaranthus dubius",
+      "source_url": "https://es.wikipedia.org/wiki/Amaranthus_dubius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175715688,
+      "text": "Amaranthus dubius es una especie de planta de la familia Amaranthaceae. Crece hasta 2,5 m de altura. A. dubius Mart. es conocida comúnmente como pira dulce, bledo o bleo. Es suculenta de color morado rojizo, florescencia verde cremosa reunida en espigas compactas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Amaranthus dubius",
+      "source_url": "https://fr.wikipedia.org/wiki/Amaranthus_dubius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239290069,
+      "text": "Amaranthus dubius est une espèce plantes à fleurs de la famille des Amaranthaceae. Cette espèce est couramment dénommée épinards rouges, épinards chinois,, amarante de rate, hon-toi-moi, yin choy, hsien tsai, ou Arai keerai."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bayam merah",
+      "source_url": "https://id.wikipedia.org/wiki/Bayam_merah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28498015,
+      "text": "Amaranthus dubius, bayam merah, bayam Cina,, bayam limpa, hon-toi-moi, yin choy, hsien tsai, atau Arai keerai adalah spesies tumbuhan. Tanaman ini adalah milik keluarga Amaranthaceae yang penting secara ekonomi."
     }
   },
   "edible": {
@@ -89,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -190,7 +217,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/59493-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -198,7 +225,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/59493-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000530192.webp",
@@ -211,6 +238,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 230,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

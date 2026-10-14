@@ -22,24 +22,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "南美椰"
-    ],
     "qu": [
       "Taraputu sach'a"
     ],
     "arz": [
       "ايريارتيا دلتويديا"
+    ],
+    "zh": [
+      "南美椰"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q141221",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q141221",
   "search_names": {
@@ -49,13 +49,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Iriartea」",
+      "source": "Wikipedia (en): Iriartea",
       "source_url": "https://en.wikipedia.org/wiki/Iriartea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378560887,
       "text": "Iriartea is a genus in the palm family Arecaceae. It is native to Central and northern and central South America. The genus includes only the one species, Iriartea deltoidea, which is found from Nicaragua, south into Bolivia and a great portion of the western Amazon basin. It is a common tree in many forests in which it occurs. This species is sometimes referred to as \"the devil's penis tree\" due to the resemblance of the tree's young prop roots to large, erect, black penises."
+    },
+    "es": {
+      "source": "Wikipedia (es): Iriartea deltoidea",
+      "source_url": "https://es.wikipedia.org/wiki/Iriartea_deltoidea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 159188566,
+      "text": "Iriartea es un género monotípico de plantas con flores perteneciente a la familia de las palmeras Arecaceae. Su única especie: Iriartea deltoidea, Ruiz & Pav., Syst. Veg. Fl. Peruv. Chil.: 298 (1798), barrigona es originaria de los trópicos de América donde se encuentran desde el sur de Nicaragua a Bolivia. Es el árbol más común en muchos bosques."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Iriartea deltoidea",
+      "source_url": "https://fr.wikipedia.org/wiki/Iriartea_deltoidea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224406508,
+      "text": "Iriartea est un genre de plantes de la famille des Arecaceae (palmiers) natif de l'Amérique centrale et de l'Amérique du Sud dont Iriartea deltoidea est la seule espèce."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Iriartea deltoidea",
+      "source_url": "https://pt.wikipedia.org/wiki/Iriartea_deltoidea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71736763,
+      "text": "Iriartea deltoidea é uma espécie do género botânico monotípico Iriartea, pertencente à família Arecaceae."
     }
   },
   "edible": {
@@ -72,7 +99,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -91,7 +118,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/667594-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -99,7 +126,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/667594-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000217575.webp",
@@ -112,6 +139,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

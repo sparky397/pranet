@@ -19,12 +19,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Indian sandbur"
-    ],
     "ca": [
       "Cram-cram"
     ],
@@ -36,24 +33,45 @@
     ],
     "kai": [
       "Tòdlɗi"
+    ],
+    "en": [
+      "Indian sandbur"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2944209",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2944209",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cenchrus biflorus」",
+      "source": "Wikipedia (en): Cenchrus biflorus",
       "source_url": "https://en.wikipedia.org/wiki/Cenchrus_biflorus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1329074459,
       "text": "Cenchrus biflorus is a species of annual grass in the family Poaceae. Common names include Indian sandbur, Bhurat or Bhurut in India, Haskaneet in Sudan, Aneeti in the Arabic dialect of Mauritania, Ƙarangiya in the Hausa language of Nigeria, Tòdlɗi in the Karai-karai language and Ngibbi in the Kanuri language of Nigeria. In the francophone countries of the Sahel, it is usually referred to as \"cram-cram\"."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cenchrus biflorus",
+      "source_url": "https://fr.wikipedia.org/wiki/Cenchrus_biflorus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 209648094,
+      "text": "Cenchrus biflorus, le cram-cram est une espèce de plantes herbacées épineuses de la famille des Poaceae dont les graines s'accrochent aux vêtements. Elle est adaptée aux zones tropicales chaudes et sèches et se rencontre généralement sur les sols sableux.\nCette espèce fait partie du groupe des krebs, graminées sauvages faisant l'objet de cueillette dans la région sahélienne."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cenchrus biflorus",
+      "source_url": "https://id.wikipedia.org/wiki/Cenchrus_biflorus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29432085,
+      "text": "Cenchrus biflorus adalah spesies rumput semusim dalam keluarga Poaceae. Nama umumnya termasuk Indian sandbur, Bhurat atau Bhurut di India, Haskaneet di Sudan, Aneeti dalam dialek bahasa Arab di Mauritania, Ƙarangiya dalam bahasa Hausa di Nigeria, Tòdlɗi dalam bahasa Karai-karai, dan Ngibbi dalam bahasa Kanuri di Nigeria. Di negara-negara berbahasa Prancis di Sahel, tanaman ini biasanya disebut sebagai \"cram-cram\"."
     }
   },
   "edible": {
@@ -71,7 +89,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -127,7 +145,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/395201-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -135,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/395201-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000858562.webp",
@@ -148,6 +166,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -24,16 +24,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ババス"
     ],
-    "zh": [
-      "美艳直叶椰子",
-      "奥达尔椰",
-      "巴巴蘇棕櫚樹"
+    "pt": [
+      "Babaçu",
+      "babaçu"
     ],
     "de": [
       "Babassupalme"
@@ -44,11 +43,13 @@
     "hr": [
       "Babassu"
     ],
-    "pt": [
-      "babaçu"
-    ],
     "sh": [
       "Babassu"
+    ],
+    "zh": [
+      "巴巴蘇棕櫚樹",
+      "美艳直叶椰子",
+      "奥达尔椰"
     ],
     "arz": [
       "اتاليا سبيسيوسا"
@@ -64,7 +65,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q239507",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q239507",
   "search_names": {
@@ -79,22 +80,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ババス」",
+      "source": "Wikipedia (ja): ババス",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%90%E3%82%B9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106371839,
       "text": "ババス(Attalea speciosa)は、南アメリカのアマゾン熱帯雨林地方が原産のヤシである。ピアウイ州とマラニョン州のw:Maranhão Babaçu forestsでは、ババスが優占種である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Attalea speciosa」",
+      "source": "Wikipedia (en): Attalea speciosa",
       "source_url": "https://en.wikipedia.org/wiki/Attalea_speciosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378644338,
       "text": "Attalea speciosa, the babassu, babassu palm, babaçu, or cusi, is a palm native to the Amazon rainforest region in South America. The babassu palm is the predominant species in the Maranhão Babaçu forests of Maranhão and Piauí states."
+    },
+    "es": {
+      "source": "Wikipedia (es): Attalea speciosa",
+      "source_url": "https://es.wikipedia.org/wiki/Attalea_speciosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171692979,
+      "text": "Babasú, palma babasu o cusi Mart. ex Spreng., es una palma de las Arecáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Attalea speciosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Attalea_speciosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 219189097,
+      "text": "Attalea speciosa est une espèce de plantes à fleurs de famille des Arecaceae. Elle est originaire d'Amérique du Sud. Ses fruits, semblables à de petites noix de coco, forment de grosses grappes,et fournissent une huile utilisée pour la production de biocarburants ou en cosmétique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Babaçu",
+      "source_url": "https://pt.wikipedia.org/wiki/Baba%C3%A7u",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72366247,
+      "text": "O babaçu, também chamado bauaçu, baguaçu, auaçu, aguaçu, guaguaçu, uauaçu, gebara-uçu, coco-de-macaco, coco-de-palmeira, coco-naiá, coco-pindoba e palha-branca, é uma espécie da família das palmeiras (Arecaceae), dotada de frutos drupáceos com sementes oleaginosas e comestíveis das quais se extrai um óleo, empregado sobretudo na alimentação, remédios, além de ser alvo de pesquisas avançadas para a fabricação de biocombustíveis."
     }
   },
   "edible": {
@@ -110,7 +138,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -125,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664470-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -133,7 +161,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664470-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000296598.webp",
@@ -146,6 +174,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 286,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

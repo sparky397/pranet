@@ -19,66 +19,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ホロムイイチゴ"
     ],
-    "de": [
-      "Moltebeere"
-    ],
-    "en": [
-      "cloudberry",
-      "baked apple berry",
-      "four-leaved mare's tail",
-      "salmonberry"
-    ],
-    "da": [
-      "Multebær"
-    ],
-    "es": [
-      "Mora de los Pantanos"
-    ],
-    "fi": [
-      "hilla",
-      "lakka",
-      "muurain",
-      "suomuurain"
-    ],
     "fr": [
-      "Plaquebière"
-    ],
-    "lv": [
-      "lācene"
-    ],
-    "nn": [
-      "Molte"
-    ],
-    "nb": [
-      "Multe",
-      "molte"
+      "Plaquebière",
+      "plaquebière"
     ],
     "pl": [
       "Malina moroszka"
-    ],
-    "pt": [
-      "Amora-branca-silvestre"
-    ],
-    "ru": [
-      "Морошка"
-    ],
-    "sah": [
-      "Бөллөхүнэ"
-    ],
-    "sv": [
-      "hjortron"
-    ],
-    "cs": [
-      "ostružiník moruška"
-    ],
-    "zh": [
-      "兴安悬钩子"
     ],
     "ik": [
       "Aqpik"
@@ -86,8 +38,14 @@
     "be": [
       "Марошка"
     ],
+    "lv": [
+      "Lācene"
+    ],
     "et": [
       "rabamurakas"
+    ],
+    "de": [
+      "Moltebeere"
     ],
     "hsb": [
       "Žołty ćernjowc"
@@ -95,11 +53,17 @@
     "nl": [
       "Kruipbraam"
     ],
+    "sv": [
+      "hjortron"
+    ],
     "is": [
       "Múltuber"
     ],
     "eo": [
       "Kamemoro"
+    ],
+    "ru": [
+      "морошка"
     ],
     "se": [
       "luomi"
@@ -107,14 +71,39 @@
     "ca": [
       "móra vermella"
     ],
+    "fi": [
+      "lakka",
+      "hilla",
+      "muurain",
+      "suomuurain"
+    ],
+    "sah": [
+      "Бөллөхүнэ"
+    ],
+    "nn": [
+      "molte"
+    ],
     "os": [
       "Цъымарайы мæнæргъы"
+    ],
+    "cs": [
+      "ostružiník moruška"
     ],
     "kv": [
       "Мырпом"
     ],
     "lt": [
       "Paprastoji tekšė"
+    ],
+    "da": [
+      "multebær"
+    ],
+    "zh": [
+      "兴安悬钩子"
+    ],
+    "nb": [
+      "molte",
+      "Multe"
     ],
     "uk": [
       "Морошка"
@@ -187,13 +176,25 @@
     ],
     "sma": [
       "laadtege"
+    ],
+    "en": [
+      "cloudberry",
+      "baked apple berry",
+      "four-leaved mare's tail",
+      "salmonberry"
+    ],
+    "es": [
+      "Mora de los Pantanos"
+    ],
+    "pt": [
+      "Amora-branca-silvestre"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q160092",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q160092",
   "search_names": {
@@ -212,32 +213,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ホロムイイチゴ」",
+      "source": "Wikipedia (ja): ホロムイイチゴ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AD%E3%83%A0%E3%82%A4%E3%82%A4%E3%83%81%E3%82%B4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107870850,
       "text": "ホロムイイチゴ は、成長の遅い小柄なバラ科キイチゴ属の植物である。和名は、北海道岩見沢市の幌向地区で発見されたことにちなむ。果実はコハク色をしており、食用になる。日本ではクラウドベリーの英語名でも知られる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Rubus chamaemorus」",
+      "source": "Wikipedia (en): Rubus chamaemorus",
       "source_url": "https://en.wikipedia.org/wiki/Rubus_chamaemorus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376325555,
       "text": "Rubus chamaemorus is a species of flowering plant in the genus Rubus. It has numerous common names varying by region, such as cloudberry, Nordic berry, Arctic berry, bakeapple, knotberry, aqpik, and lowbush salmonberry."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rubus chamaemorus",
+      "source_url": "https://es.wikipedia.org/wiki/Rubus_chamaemorus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580981,
+      "text": "Rubus chamaemorus, llamada popularmente mora o zarzamora de los pantanos, es una especie del género Rubus distribuida por la Europa central y septentrional, parte de Norteamérica, Japón, China y Corea. Produce frutos comestibles que se comercializan para elaborar zumos y mermeladas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Plaquebière",
+      "source_url": "https://fr.wikipedia.org/wiki/Plaquebi%C3%A8re",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237418272,
+      "text": "La plaquebière ou chicoutai en Amérique du Nord, appelée mûre arctique ou mûre polaire en Europe, Rubus chamaemorus, est une espèce de plantes à fleurs du genre Rubus et de la famille des Rosacées. C'est une plante vivace poussant principalement dans la toundra et dans la taïga. Elle est typique des pays nordiques où son fruit est utilisé frais ou transformé."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Rubus chamaemorus",
+      "source_url": "https://pt.wikipedia.org/wiki/Rubus_chamaemorus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72206800,
+      "text": "A amora-ártica, também conhecida como amora-branca-silvestre ou framboesa-amarela é uma espécie circumboreal de crescimento lento do género Rubus e que produz um fruto particularmente saboroso. O seu nome científico provém do grego chamai (\"anã\") e morus (\"amora\")."
+    },
+    "id": {
+      "source": "Wikipedia (id): Rubus chamaemorus",
+      "source_url": "https://id.wikipedia.org/wiki/Rubus_chamaemorus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29080023,
+      "text": "Rubus chamaemorus adalah spesies tanaman berbunga dari famili mawar, berupa herba tahunan yang menghasilkan buah berwarna kuning menyerupai beri hitam dan dapat dimakan. Tanaman ini berasal dari wilayah beriklim dingin seperti tundra alpin dan Arktik, serta hutan boreal. Dalam bahasa Inggris, tanaman ini memiliki berbagai nama umum, antara lain cloudberry, Nordic berry, bakeapple, knotberry dan knoutberry, aqpik atau low-bush salmonberry, averin atau evron, serta chicoutai di kalangan penutur bahasa Inggris di Quebec."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Rubus chamaemorus」の節「Cultivation」",
+        "source": "Wikipedia (en): Rubus chamaemorus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Rubus_chamaemorus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1376325555,
         "heading": "Cultivation",
         "text": "As mainly a tundra species, cloudberries grow in the wild, and are not cultivated on a commercial scale. In northern Alberta, agriculture, energy and industrial footprints reduce habitat suitability.",
@@ -255,7 +292,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -318,7 +355,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/735780-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or rhizomatous geophyte",
@@ -326,7 +363,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/735780-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001014280.webp",
@@ -339,6 +376,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

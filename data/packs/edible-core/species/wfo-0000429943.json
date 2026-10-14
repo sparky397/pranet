@@ -20,26 +20,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "coontie"
-    ],
-    "es": [
-      "guáyara",
-      "yuquilla de paredón",
-      "yuquilla de sabana"
-    ],
-    "zh": [
-      "瘤状泽米铁",
-      "鳞秕泽米"
-    ],
     "cs": [
       "keják drobný"
     ],
     "fi": [
       "samiakävykki"
+    ],
+    "zh": [
+      "鳞秕泽米",
+      "瘤状泽米铁"
     ],
     "ar": [
       "زاميا صغيرة"
@@ -49,13 +41,21 @@
     ],
     "arz": [
       "زاميا صغيره"
+    ],
+    "en": [
+      "coontie"
+    ],
+    "es": [
+      "guáyara",
+      "yuquilla de paredón",
+      "yuquilla de sabana"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2252144",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2252144",
   "search_names": {
@@ -70,13 +70,22 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Zamia pumila」",
+      "source": "Wikipedia (en): Zamia pumila",
       "source_url": "https://en.wikipedia.org/wiki/Zamia_pumila",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1356416770,
       "text": "Zamia pumila, commonly known as guáyiga or guáyara in Spanish, is a small, tough, woody cycad native to the Greater Antilles. Z. pumila was the first species described for the genus and, therefore, is the type species for the genus Zamia, the Zamia pumila species complex, and the family Zamiaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Zamia pumila",
+      "source_url": "https://es.wikipedia.org/wiki/Zamia_pumila",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174229332,
+      "text": "Zamia pumila, zamia, es una especie pequeña, leñosa, de cicada de las Indias Occidentales. Zamia pumila fue la primera especie descripta del género y es la especie tipo para el género Zamia y su familia de las Zamiaceae."
     }
   },
   "edible": {
@@ -91,7 +100,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -104,7 +113,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/270561-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -112,7 +121,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/270561-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000429943.webp",
@@ -125,6 +134,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 280,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

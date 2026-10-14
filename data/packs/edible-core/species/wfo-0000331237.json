@@ -10,19 +10,28 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "wild medlar"
-    ],
     "af": [
-      "wilde mispel",
-      "Wildemispel"
+      "Wildemispel",
+      "wilde mispel"
+    ],
+    "ar": [
+      "فنجرية منحوسة"
     ],
     "ts": [
-      "mpfilwa",
-      "Pfilu"
+      "Pfilu",
+      "mpfilwa"
+    ],
+    "zh": [
+      "非楂"
+    ],
+    "lg": [
+      "Ettugunda"
+    ],
+    "en": [
+      "wild medlar"
     ],
     "nso": [
       "mmilo"
@@ -49,33 +58,42 @@
     "ss": [
       "umvile",
       "amantulwane"
-    ],
-    "ar": [
-      "فنجرية منحوسة"
-    ],
-    "zh": [
-      "非楂"
-    ],
-    "lg": [
-      "Ettugunda"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q7914865",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q7914865",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Vangueria infausta」",
+      "source": "Wikipedia (en): Vangueria infausta",
       "source_url": "https://en.wikipedia.org/wiki/Vangueria_infausta",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1336493033,
       "text": "Vangueria infausta, the medlar or African medlar, is a species of plant in the family Rubiaceae, which is native to the southern and eastern Afrotropics. Some other names for V. infausta in Southern African languages include Mpfilwa in Tsonga, ngayi in Tonga, mmilo in Northern Sotho, muzwilu in Venḓa, umviyo in Southern Ndebele, mothwani in Tswana and umtulwa in Zulu."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vangueria infausta",
+      "source_url": "https://es.wikipedia.org/wiki/Vangueria_infausta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174304074,
+      "text": "Vangueria infausta, el níspero africano es una especie de planta en la familia Rubiaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vangueria infausta",
+      "source_url": "https://fr.wikipedia.org/wiki/Vangueria_infausta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 214103062,
+      "text": "Vangueria infausta est une espèce de plantes à fleurs de la famille Rubiaceae. C'est un arbre originaire du sud et de l'est de l'écozone afrotropicale. Le fruit au goût similaire à celui de la pomme est consommé par l'homme. L'épithète spécifique « infausta » renvoie au malheur qui est censé s'abattre sur ceux qui brûlent ce bois."
     }
   },
   "edible": {
@@ -93,7 +111,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -122,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/769741-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -130,7 +148,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/769741-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000331237.webp",
@@ -143,6 +161,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

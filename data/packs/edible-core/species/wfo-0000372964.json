@@ -41,74 +41,40 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ショクヨウガヤツリ"
     ],
-    "de": [
-      "Erdmandel"
-    ],
-    "en": [
-      "yellow nutsedge",
-      "Earth Almond",
-      "Earth Nut",
-      "Tiger Nut",
-      "edible cyperus"
-    ],
-    "ak": [
-      "Atadwe"
-    ],
-    "es": [
-      "Chufa"
-    ],
     "fr": [
       "Souchet comestible",
       "Amande de Terre"
     ],
-    "it": [
-      "Zigolo dolce"
-    ],
-    "pl": [
-      "Cibora jadalna"
-    ],
-    "ru": [
-      "Сыть съедобная",
-      "Чуфа"
-    ],
-    "th": [
-      "แห้วไทย"
-    ],
-    "zh": [
-      "黃土香",
-      "油莎草",
-      "黄香附",
-      "油莎豆"
-    ],
-    "cs": [
-      "šáchor jedlý"
-    ],
-    "nl": [
-      "knolcyperus"
-    ],
-    "ast": [
-      "chufa"
-    ],
-    "sl": [
-      "užitna ostrica"
-    ],
     "bo": [
       "ཆུ་འབྲུམ།"
+    ],
+    "pl": [
+      "cibora jadalna"
     ],
     "ha": [
       "Aya"
     ],
+    "ru": [
+      "Чуфа",
+      "Сыть съедобная"
+    ],
     "ca": [
       "xufa"
     ],
+    "de": [
+      "Erdmandel"
+    ],
     "az": [
       "Yeməli topalaq"
+    ],
+    "nl": [
+      "knolcyperus"
     ],
     "sv": [
       "Jordmandel"
@@ -116,8 +82,20 @@
     "ar": [
       "سعد لذيذ"
     ],
+    "zh": [
+      "油莎草",
+      "黃土香",
+      "黄香附",
+      "油莎豆"
+    ],
+    "th": [
+      "แห้วไทย"
+    ],
     "gl": [
       "Xunca doce"
+    ],
+    "ak": [
+      "Atadwe"
     ],
     "uz": [
       "Yerbodom"
@@ -143,6 +121,9 @@
     "srn": [
       "Affo"
     ],
+    "cs": [
+      "šáchor jedlý"
+    ],
     "nv": [
       "Tłʼohigaaí"
     ],
@@ -167,6 +148,9 @@
     "nb": [
       "jordmandler"
     ],
+    "sl": [
+      "užitna ostrica"
+    ],
     "grc": [
       "μνάσιον"
     ],
@@ -175,13 +159,29 @@
     ],
     "ang": [
       "Geolo hnutusecg"
+    ],
+    "en": [
+      "yellow nutsedge",
+      "Earth Almond",
+      "Earth Nut",
+      "Tiger Nut",
+      "edible cyperus"
+    ],
+    "es": [
+      "Chufa"
+    ],
+    "it": [
+      "Zigolo dolce"
+    ],
+    "ast": [
+      "chufa"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1165724",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1165724",
   "search_names": {
@@ -200,36 +200,94 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ショクヨウガヤツリ」",
+      "source": "Wikipedia (ja): ショクヨウガヤツリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%82%AF%E3%83%A8%E3%82%A6%E3%82%AC%E3%83%A4%E3%83%84%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109958554,
       "text": "ショクヨウガヤツリ は、カヤツリグサ科カヤツリグサ属の多年生植物である。栽培型には「ショクヨウガヤツリ」、雑草型には「キハマスゲ」の和名を当てることがある。しかし日本には本来分布していないはずの外来種である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cyperus esculentus」",
+      "source": "Wikipedia (en): Cyperus esculentus",
       "source_url": "https://en.wikipedia.org/wiki/Cyperus_esculentus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374787966,
       "text": "Cyperus esculentus is a species of plant in the sedge family widespread across much of the world. It is found in most of the Eastern Hemisphere, including Southern Europe, Africa and Madagascar, as well as the Middle East and the Indian subcontinent. C. esculentus is cultivated for its edible tubers, called earth almonds or tiger nuts, as a snack food and for the preparation of horchata de chufa, a sweet, milk-like beverage."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cyperus esculentus",
+      "source_url": "https://es.wikipedia.org/wiki/Cyperus_esculentus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174531717,
+      "text": "La especie Cyperus esculentus, llamada comúnmente juncia avellanada, es una planta herbácea que produce el tubérculo comestible conocido como chufa, aunque en Andalucía recibe el nombre de alcatufa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Souchet comestible",
+      "source_url": "https://fr.wikipedia.org/wiki/Souchet_comestible",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239525039,
+      "text": "Le souchet comestible, souchet tubéreux ou souchet sucré, est une espèce de plantes à fleurs herbacées rhizomateuses vivaces de la famille des Cyperaceae.\nC'est une plante qui peut être considérée comme envahissante hors de ses aires d’origine."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cyperus esculentus",
+      "source_url": "https://pt.wikipedia.org/wiki/Cyperus_esculentus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67083210,
+      "text": "A Cyperus esculentus, comummente conhecida como juncinha, é uma planta herbácea, perene e rizomatosa, pertencente à família Ciperáceas e ao tipo fisionómico dos geófitos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cyperus esculentus",
+      "source_url": "https://id.wikipedia.org/wiki/Cyperus_esculentus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28105381,
+      "text": "Cyperus esculentus adalah spesies tumbuhan yang tergolong ke dalam famili teki-tekian atau Cyperaceae. Spesies ini juga merupakan bagian dari ordo Poales. Spesies Cyperus esculentus sendiri merupakan bagian dari genus Cyperus. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh L.."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Cyperus esculentus」の節「Cultivation」",
+        "source": "Wikipedia (en): Cyperus esculentus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Cyperus_esculentus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374787966,
         "heading": "Cultivation",
         "text": "Cyperus esculentus is cultivated in Egypt, Spain, Nigeria, the United States, Guatemala, Mexico, Chile, Brazil, Lebanon, Syria, Jordan, Saudi Arabia, Oman, Iran, Iraq, Pakistan, India, Yemen, Morocco, Ivory Coast, Sudan, South Sudan, Gambia, Guinea Bissau, Ghana, Niger, Burkina Faso, Togo, Benin, Cameroon, and Mali, where they are used primarily as animal feed or as a side dish, but in Hispanic countries they are used mainly to make horchata, a sweet, milk-like beverage.\n\n■ Climate requirements\nCyperus esculentus cultivation requires a mild climate. Low temperature, shade, and light intensity can inhibit flowering. Tuber initiation is inhibited by high levels of nitrogen, long photoperiods, and high levels of gibberellic acid. Flower initiation occurs under photoperiods of 12 to 14 hours per day.\n\n■ Soil requirements\nTubers can develop in soil depths around 30 cm, but most occur in the top or upper part. They tolerate many adverse soil conditions including periods of drought and flooding and survive soil temperatures around −5 °C (23 °F). They grow best on sandy, moist soils at a pH between 5.0 – 7.5. The densest populations of C. esculentus are often found in low-lying wetlands. They do not tolerate salinity.\n\n■ Cultivation process\nCyperus esculentus is normally planted on previously tilled flat soils with ridges to facilitate irrigation. Seeds are planted manually on these ridges, which are approximately 60 cm (2 ft) apart. Distances between seeds may vary from 15 to 20 cm (6 to 8 in) and seeding depth is around 8 cm (3 in). A typical seeding rate for chufa is about 120 kg of tubers/ha (107 lbs/acre).\nThey are planted between April and May and must be irrigated every week until they are harvested in November and December.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Cyperus esculentus § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Cyperus_esculentus#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174531717,
+        "heading": "Cultivo",
+        "text": "El cultivo de la chufa en la comarca valenciana de Huerta Norte está protegido con la denominación de origen Chufa de Valencia.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Souchet comestible § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Souchet_comestible#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239525039,
+        "heading": "Culture",
+        "text": "Cette espèce, qui pousse naturellement au bord de l'eau, aime l'humidité et le plein soleil. Sa zone de rusticité se situe entre 8 et 10.\nSes rhizomes jaunes forment des tubercules de la taille d'une noisette, virant au brun-jaunâtre à maturité.\nLe souchet n’est pas cultivé en France, mais assez largement dans la province de Valence (Espagne), où il est connu sous le nom de chufa. Sa culture est mentionnée dès le XIIIe siècle. Aujourd’hui il en est produit 5 300 tonnes par an, utilisés pour produire l'horchata, une boisson sucrée très appréciée dans la région. Le rendement est de 120 à 135 kg/ha. La chufa de Valence bénéficie d’une appellation d’origine contrôlée.",
+        "truncated": false
       }
     }
   },
@@ -249,7 +307,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -453,7 +511,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/300668-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tuberous geophyte",
@@ -461,7 +519,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/300668-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000372964.webp",
@@ -474,6 +532,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 289,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

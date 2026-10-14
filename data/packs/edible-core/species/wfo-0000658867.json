@@ -39,26 +39,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アリタソウ"
     ],
-    "de": [
-      "Duft-Drüsengänsefuß",
-      "Mexikanischer Drüsengänsefuß"
-    ],
-    "zh": [
-      "土荆芥",
-      "土荆芥*"
-    ],
-    "en": [
-      "goosefoot",
-      "lamb's quarters",
-      "pigweed",
-      "Mexican tea",
-      "wormseed"
+    "id": [
+      "Pasote"
     ],
     "hu": [
       "mirrhafű"
@@ -74,6 +62,10 @@
     ],
     "cs": [
       "merlík vonný"
+    ],
+    "de": [
+      "Mexikanischer Drüsengänsefuß",
+      "Duft-Drüsengänsefuß"
     ],
     "et": [
       "Ürt-hanemalts"
@@ -110,6 +102,10 @@
     ],
     "vi": [
       "Dầu giun"
+    ],
+    "zh": [
+      "土荆芥",
+      "土荆芥*"
     ],
     "hsb": [
       "Meksikanska pólšica"
@@ -150,9 +146,6 @@
     "arz": [
       "اثينه عطريه"
     ],
-    "id": [
-      "Pasote"
-    ],
     "ta": [
       "புழுக்கொல்லி"
     ],
@@ -164,13 +157,20 @@
     ],
     "ppl": [
       "Epatzin"
+    ],
+    "en": [
+      "goosefoot",
+      "lamb's quarters",
+      "pigweed",
+      "Mexican tea",
+      "wormseed"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q640032",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q640032",
   "search_names": {
@@ -181,35 +181,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アリタソウ」",
+      "source": "Wikipedia (ja): アリタソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%BF%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110775152,
       "text": "アリタソウ は、ヒユ科アリタソウ属の一年草。別名、ケアリタソウ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Dysphania ambrosioides」",
+      "source": "Wikipedia (en): Dysphania ambrosioides",
       "source_url": "https://en.wikipedia.org/wiki/Dysphania_ambrosioides",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374147047,
       "text": "Dysphania ambrosioides, formerly Chenopodium ambrosioides, known as epazote, Jesuit's tea, Mexican tea or wormseed, is an annual or short-lived perennial herb native to the Americas."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dysphania ambrosioides",
+      "source_url": "https://es.wikipedia.org/wiki/Dysphania_ambrosioides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175054158,
+      "text": "Dysphania ambrosioides, llamada popularmente epazote, apazote, pasote, paico o ka'are, es una especie de planta aromática, antiparasitario, que se usa como condimento y como planta medicinal en México y muchos otros países de Hispanoamérica, como Argentina, Bolivia, Chile, Colombia, Ecuador, Guatemala, El Salvador, Paraguay, Perú y Venezuela, así como en el sur de los Estados Unidos. En México se le llama también acahualillo o té de milpa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dysphania ambrosioides",
+      "source_url": "https://fr.wikipedia.org/wiki/Dysphania_ambrosioides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239173614,
+      "text": "Dysphania ambrosioides, en français Chénopode fausse-ambroisie ou Thé du Mexique, est une espèce de plantes à fleurs de la famille des Amaranthaceae et du genre Dysphania. C'est une herbacée annuelle ou vivace de courte durée, originaire d'Amérique. Elle a été naturalisée un peu partout dans le monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Dysphania ambrosioides",
+      "source_url": "https://pt.wikipedia.org/wiki/Dysphania_ambrosioides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70447764,
+      "text": "Dysphania ambrosioides é uma espécie de planta com flor pertencente à família Amaranthaceae. É popularmente conhecida como erva-de-santa-maria, mentruz, mastruz, mastruço, chá-do-méxico, erva-formigueira, lombrigueira ou quenopódio. É uma planta de porte herbáceo que possui ampla distribuição pelo Brasil e outros países da América Latina."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pasote",
+      "source_url": "https://id.wikipedia.org/wiki/Pasote",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29729006,
+      "text": "Dysphania ambrosioides, sebelumnya Chenopodium ambrosioides, juga dikenal sebagai daun pasote, teh Meksiko, daun paiku, epazote, mastruz, atau daun sanctæ Mariæ, adalah herba abadi tahunan atau berumur pendek yang berasal dari Amerika Tengah, Amerika Selatan, dan Meksiko bagian selatan."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Dysphania ambrosioides」の節「Toxicity」",
+        "source": "Wikipedia (en): Dysphania ambrosioides § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Dysphania_ambrosioides#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378848170,
         "heading": "Toxicity",
         "text": "Humans have died from overdoses of D. ambrosioides essential oils (attributed to the ascaridole content). Symptoms include severe gastroenteritis with pain, vomiting, and diarrhea, dizziness, headache, temporary deafness, kidney and liver damage, convulsions, paralysis, death.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Dysphania ambrosioides § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Dysphania_ambrosioides#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175054158,
+        "heading": "Toxicidad",
+        "text": "El aceite esencial de esta planta, extraído de las hojas y las semillas inmaduras contiene monoterpenos peroxigenados, como el ascaridol (de 10 % a 70 % dependiendo del origen) y fenilpropanoides como el safrol.​ La sobredosis puede causar la muerte. Algunos de los síntomas son gastroenteritis aguda con dolor, vómitos y diarrea.​",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Dysphania ambrosioides § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Dysphania_ambrosioides#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239173614,
+        "heading": "Toxicité",
+        "text": "Sa consommation en général serait à éviter pour les enfants en bas âge et les femmes enceintes.\nDes surdoses d'huile essentielle ont causé des symptômes comprenant des gastro-entérite sévère avec douleurs, des vomissements et de la diarrhée. On a parfois constaté des décès chez l'homme (attribués à l'ascaridole).",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Pasote § Toksisitas",
+        "source_url": "https://id.wikipedia.org/wiki/Pasote#Toksisitas",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29729006,
+        "heading": "Toksisitas",
+        "text": "Manusia meninggal karena overdosis minyak esensial D. ambrosioides (dikaitkan dengan kandungan askaridola ). Gejalanya meliputi gastroenteritis parah disertai nyeri, muntah, dan diare .",
         "truncated": false
       }
     }
@@ -228,7 +297,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -464,7 +533,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1198060-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -472,7 +541,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1198060-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000658867.webp",
@@ -485,6 +554,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

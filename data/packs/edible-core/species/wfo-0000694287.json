@@ -14,16 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Gourka"
-    ],
-    "zh": [
-      "爪哇鳳果",
-      "爪哇凤果"
-    ],
     "id": [
       "Mundu"
     ],
@@ -36,6 +29,10 @@
     "th": [
       "มะพูด"
     ],
+    "zh": [
+      "爪哇凤果",
+      "爪哇鳳果"
+    ],
     "mad": [
       "Monḍhu"
     ],
@@ -44,13 +41,16 @@
     ],
     "ar": [
       "جندم حلو"
+    ],
+    "en": [
+      "Gourka"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2717605",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2717605",
   "search_names": {
@@ -60,13 +60,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Garcinia dulcis」",
+      "source": "Wikipedia (en): Garcinia dulcis",
       "source_url": "https://en.wikipedia.org/wiki/Garcinia_dulcis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1359598819,
       "text": "Garcinia dulcis is a species of tropical fruit tree native to the tropical Asia, ranging from northeastern India, to Indochina, Peninsular Malaysia, the Philippines, Borneo, Java, the Lesser Sunda Islands, Sulawesi, the Maluku Islands), New Guinea, and Queensland (Australia). It was domesticated early and spread inland into mainland Asia. It is commonly known as mundu or munu in Indonesia and Malaysia, baniti or taklang-anak in the Philippines, and maphuut or ma phut in Thailand. In English, it is sometimes known as yellow mangosteen, although that name is used for several other species as well."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Garcinia dulcis",
+      "source_url": "https://fr.wikipedia.org/wiki/Garcinia_dulcis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 212449413,
+      "text": "Garcinia dulci est une espèce de plantes à fleurs du genre Garcinia et de la famille des Clusiaceae. C'est un arbre fruitier tropical d'Indonésie."
+    },
+    "id": {
+      "source": "Wikipedia (id): Mundu",
+      "source_url": "https://id.wikipedia.org/wiki/Mundu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29856935,
+      "text": "Mundu atau rata adalah spesies tumbuhan dari famili Clusiaceae. Tumbuhan ini adalah tumbuhan buah-buahan minor asli Indonesia. Buah ini juga biasa disebut apel jawa. Buahnya dapat dimakan segar atau diolah menjadi selai. Mundu tidak sama dengan mundung (menteng) meskipun namanya mirip."
     }
   },
   "edible": {
@@ -83,7 +101,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -112,7 +130,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/427931-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -120,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/427931-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000694287.webp",
@@ -133,6 +151,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 315,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

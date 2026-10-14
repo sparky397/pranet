@@ -19,32 +19,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "クコ"
-    ],
-    "de": [
-      "Chinesischer Bocksdorn"
-    ],
-    "en": [
-      "Chinese desert-thorn"
-    ],
-    "el": [
-      "Λύκιο το σινικό"
-    ],
-    "fi": [
-      "Kiinanpukinpensas"
-    ],
-    "fr": [
-      "Lyciet de Chine"
-    ],
-    "zh": [
-      "枸杞",
-      "地骨皮",
-      "北方枸杞",
-      "枸杞子"
     ],
     "pl": [
       "Kolcowój chiński"
@@ -61,6 +40,9 @@
     "fa": [
       "لیسیوم چینی"
     ],
+    "fi": [
+      "kiinanpukinpensas"
+    ],
     "cs": [
       "kustovnice čínská"
     ],
@@ -76,6 +58,12 @@
     "ko": [
       "구기자나무"
     ],
+    "zh": [
+      "枸杞",
+      "地骨皮",
+      "北方枸杞",
+      "枸杞子"
+    ],
     "az": [
       "Cin itüzümü"
     ],
@@ -87,13 +75,25 @@
     ],
     "mk": [
       "кинеска плетиплотка"
+    ],
+    "de": [
+      "Chinesischer Bocksdorn"
+    ],
+    "en": [
+      "Chinese desert-thorn"
+    ],
+    "el": [
+      "Λύκιο το σινικό"
+    ],
+    "fr": [
+      "Lyciet de Chine"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q141303",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q141303",
   "search_names": {
@@ -107,22 +107,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「クコ」",
+      "source": "Wikipedia (ja): クコ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109462077,
       "text": "クコ は、東アジア原産のナス科クコ属の落葉低木。荒れ地などに見られ、夏から秋にかけて薄紫色の花を咲かせて、秋に赤い果実をつける。有用植物で、食用や薬用に利用される。北アメリカなどにも移入され、分布を広げている。別名、ウルフベリー、ゴジベリー。中国植物名は枸杞。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lycium chinense」",
+      "source": "Wikipedia (en): Lycium chinense",
       "source_url": "https://en.wikipedia.org/wiki/Lycium_chinense",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1297845032,
       "text": "Lycium chinense is one of two species of boxthorn shrub in the family Solanaceae. Along with Lycium barbarum, it produces the goji berry (\"wolfberry\"). Two varieties are recognized, L. chinense var. chinense and L. chinense var. potaninii. It is also known as Chinese boxthorn, Chinese matrimony-vine, Chinese teaplant, Chinese wolfberry, wolfberry, and Chinese desert-thorn."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lycium chinense",
+      "source_url": "https://es.wikipedia.org/wiki/Lycium_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174574041,
+      "text": "El cauquí es una especie de Lycium perteneciente a la familia de las solanáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lycium chinense",
+      "source_url": "https://fr.wikipedia.org/wiki/Lycium_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 217536726,
+      "text": "Lycium chinense, le lyciet de Chine, est un arbuste de la famille des Solanacées, répandu du pourtour de la Méditerranée à l'Asie orientale. Il est parfois appelé, à des fins de promotion commerciale, Lycium tibeticum, bien que ce terme ne soit pas attesté dans la nomenclature scientifique internationale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lycium chinense",
+      "source_url": "https://pt.wikipedia.org/wiki/Lycium_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 55015219,
+      "text": "Lycium chinense é uma espécie de planta com flor pertencente à família Solanaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Lycium chinense",
+      "source_url": "https://id.wikipedia.org/wiki/Lycium_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28509211,
+      "text": "Lycium chinense merupakan salah satu dari dua spesies semak garkad yang termasuk dalam keluarga Solanaceae. Bersama dengan Lycium barbarum, tanaman ini menghasilkan buah keci atau wolfberry. Terdapat dua varietas yang diakui, yakni L. chinense var. chinense dan L. chinense var. potaninii. Dalam bahasa Inggris, tanaman ini juga dikenal dengan sebutan Chinese wolfberry, atau Chinese desert-thorn."
     }
   },
   "edible": {
@@ -135,7 +171,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -205,7 +241,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/816389-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -213,7 +249,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/816389-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001022784.webp",
@@ -226,6 +262,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -40,20 +40,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "チガヤ"
     ],
-    "en": [
-      "cogongrass"
-    ],
-    "zh": [
-      "白茅",
-      "白茅根",
-      "大白茅（丝茅）",
-      "黄茅根"
+    "id": [
+      "Alang-alang"
     ],
     "pam": [
       "Ilib"
@@ -85,9 +79,6 @@
     "et": [
       "Harilik alang"
     ],
-    "id": [
-      "Alang-alang"
-    ],
     "ml": [
       "കോഗൺ ഗ്രാസ്സ്"
     ],
@@ -111,6 +102,12 @@
     ],
     "ar": [
       "حلف"
+    ],
+    "zh": [
+      "白茅",
+      "白茅根",
+      "大白茅（丝茅）",
+      "黄茅根"
     ],
     "sw": [
       "Mtimbi"
@@ -186,13 +183,16 @@
     ],
     "bdr": [
       "Kera'"
+    ],
+    "en": [
+      "cogongrass"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q693409",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q693409",
   "search_names": {
@@ -215,22 +215,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「チガヤ」",
+      "source": "Wikipedia (ja): チガヤ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%AC%E3%83%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111221505,
       "text": "チガヤ は、単子葉植物イネ科チガヤ属の植物である。日当たりのよい空き地に一面にはえ、細い葉を一面に立てた群落を作り、白い穂を出す。終戦直後は食べられたこともある、古くから親しまれた雑草である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Imperata cylindrica」",
+      "source": "Wikipedia (en): Imperata cylindrica",
       "source_url": "https://en.wikipedia.org/wiki/Imperata_cylindrica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376371649,
       "text": "Imperata cylindrica is a species of perennial rhizomatous grass native to tropical and subtropical Asia, Micronesia, Melanesia, Australia, Africa, and Southern Europe. It has also been introduced to Latin America, the Caribbean, and the Southeastern United States. It is a highly flammable pyrophyte, and can spread rapidly by colonizing disturbed areas and encouraging more frequent wildfires."
+    },
+    "es": {
+      "source": "Wikipedia (es): Imperata cylindrica",
+      "source_url": "https://es.wikipedia.org/wiki/Imperata_cylindrica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173491806,
+      "text": "Imperata cylindrica, conocida comúnmente como cogón en el español filipino, espaes una hierba de la familia de las poáceas. Está incluido en la lista 100 de las especies exóticas invasoras más dañinas del mundo de la Unión Internacional para la Conservación de la Naturaleza."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Imperata cylindrica",
+      "source_url": "https://fr.wikipedia.org/wiki/Imperata_cylindrica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224235757,
+      "text": "Imperata cylindrica, impérate cylindrique, imperata cylindrique, paille de diss ou paillote, est une espèce de plantes monocotylédones de la famille des Poaceae, originaire d'Asie du Sud-Est."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Imperata cylindrica",
+      "source_url": "https://pt.wikipedia.org/wiki/Imperata_cylindrica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71037448,
+      "text": "Imperata cylindrica é uma espécie de planta com flor pertencente à família Poaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Alang-alang",
+      "source_url": "https://id.wikipedia.org/wiki/Alang-alang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28717775,
+      "text": "Alang-alang atau ilalang adalah sejenis rumput berdaun tajam, yang kerap menjadi gulma di lahan pertanian. Rumput ini juga dikenal dengan nama-namanya yang unik karena memiliki perbedaan nama di beberapa wilayah, diambil dari bahasa daerah, seperti:\nalalang, halalang, lalang, Amengan (Bali), Eurih (Sunda), rii, jih (Gayo), re, rii, kii, ki (Flores), rie (Tanimbar), reya (Sulsel), eri, weri, weli, kusu-kusu, nguusu (Halmahera), wusu, wutsu (Sumba) dan lain-lain."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Imperata cylindrica § Horticulture",
+        "source_url": "https://fr.wikipedia.org/wiki/Imperata_cylindrica#Horticulture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 224235757,
+        "heading": "Horticulture",
+        "text": "Imperata cylindrica est cultivée comme ornementale et a quelques cultivars.\nAppelée Chigaya (チガヤ) au Japon, des tiges pourpres sont surmontées à la fin de l'été et au début de l'automne d'une floraison d'épillets plumeux stériles argentés.\nSa couleur rouge, rare, est évoquée par l'écrivain et dame de cour Murasaki Shikibu.[réf. nécessaire]\nLa plantation se fait au printemps dans un sol riche, frais et bien drainé. Il faut choisir un emplacement au soleil ou à mi-ombre si l'on souhaite obtenir des couleurs prononcées[réf. nécessaire].",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -248,7 +299,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -416,7 +467,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30138371-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or rhizomatous geophyte",
@@ -424,7 +475,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30138371-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000875631.webp",
@@ -437,6 +488,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 290,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

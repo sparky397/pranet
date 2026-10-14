@@ -19,7 +19,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -29,40 +29,23 @@
       "Garden cress",
       "gardencress pepperweed"
     ],
-    "cy": [
-      "pupurlys yr ardd"
+    "fr": [
+      "Cresson alénois"
     ],
-    "nl": [
-      "Tuinkers"
-    ],
-    "cs": [
-      "řeřicha setá"
-    ],
-    "fi": [
-      "vihanneskrassi"
+    "id": [
+      "Alim (tumbuhan)",
+      "alim"
     ],
     "zh": [
+      "水芹",
       "家独行菜",
-      "家独行菜子",
-      "水芹"
-    ],
-    "ta": [
-      "ஆளி விரை",
-      "ஆளி விதை",
-      "ஆழி விரை"
-    ],
-    "sl": [
-      "vrtna draguša",
-      "vrtna kreša"
+      "家独行菜子"
     ],
     "pl": [
       "pieprzyca siewna"
     ],
     "qu": [
       "Willk'uyuyu"
-    ],
-    "fr": [
-      "Cresson alénois"
     ],
     "es": [
       "Lepido"
@@ -91,6 +74,9 @@
     "ar": [
       "رشاد مزروع"
     ],
+    "nl": [
+      "tuinkers"
+    ],
     "sv": [
       "Smörgåskrasse"
     ],
@@ -118,8 +104,14 @@
     "ca": [
       "morritort"
     ],
+    "fi": [
+      "vihanneskrassi"
+    ],
     "uk": [
       "кресс-салат"
+    ],
+    "cs": [
+      "řeřicha setá"
     ],
     "os": [
       "Дудгæ"
@@ -174,6 +166,9 @@
     ],
     "lez": [
       "ЦӀуьлуьк"
+    ],
+    "cy": [
+      "Pupurlys yr ardd"
     ],
     "mk": [
       "добрејка"
@@ -244,11 +239,17 @@
     "kn": [
       "ಕುರ್ತಿಗೆ"
     ],
-    "id": [
-      "alim"
-    ],
     "lv": [
       "kressalāti"
+    ],
+    "ta": [
+      "ஆளி விரை",
+      "ஆளி விதை",
+      "ஆழி விரை"
+    ],
+    "sl": [
+      "vrtna draguša",
+      "vrtna kreša"
     ],
     "he": [
       "שחליים תרבותיים"
@@ -258,7 +259,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q27033",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q27033",
   "search_names": {
@@ -271,22 +272,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「コショウソウ」",
+      "source": "Wikipedia (ja): コショウソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106361424,
       "text": "コショウソウ は、アブラナ科の一年草。別名、ガーデンクレス。同科オランダガラシ属のクレソン（ウォータークレス）と共にクレスと呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Garden cress」",
+      "source": "Wikipedia (en): Garden cress",
       "source_url": "https://en.wikipedia.org/wiki/Garden_cress",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374912886,
       "text": "Cress, sometimes referred to as garden cress to distinguish it from similar plants also referred to as cress, is a fast-growing, edible herb."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lepidium sativum",
+      "source_url": "https://es.wikipedia.org/wiki/Lepidium_sativum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171666031,
+      "text": "Lepidium sativum se denomina también mastuerzo, lepidio, berro hortelano o berro de jardín. Es una planta de pequeño tamaño muy empleada en las ensaladas. Se encuentra frecuentemente cerca de los caminos en las fuentes y las orillas de los ríos. Es originaria de Egipto y Asia occidental."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cresson alénois",
+      "source_url": "https://fr.wikipedia.org/wiki/Cresson_al%C3%A9nois",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239987614,
+      "text": "Le cresson alénois ou cressonnette, est une espèce de plante herbacée de la famille des brassicacées utilisée comme légume ou comme salade, ou encore comme herbe médicinale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lepidium sativum",
+      "source_url": "https://pt.wikipedia.org/wiki/Lepidium_sativum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67679356,
+      "text": "O agrião-de-jardim, agrião, agrião-da-índia, agrião-mouro, mastruço ou mastruço-ordinário é uma planta herbácea anual da família Brassicaceae, utilizada como planta medicinal, além de ser utilizado na alimentação humana. De crescimento rápido, é apreciado pelo seu sabor levemente picante e aromático."
+    },
+    "id": {
+      "source": "Wikipedia (id): Alim (tumbuhan)",
+      "source_url": "https://id.wikipedia.org/wiki/Alim_(tumbuhan)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29216677,
+      "text": "Alim, kadang-kadang disebut sebagai selada taman adalah tanaman rempah daun yang tumbuh cepat dan dapat dimakan."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "id": {
+        "source": "Wikipedia (id): Alim (tumbuhan) § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Alim_(tumbuhan)#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29216677,
+        "heading": "Budidaya",
+        "text": "Alim ditanam secara komersial di Inggris, Prancis, dan Skandinavia.\nBudidaya alim praktis baik dalam skala massal maupun skala individu. Alim cocok untuk budidaya hidroponik dan tumbuh subur di air yang sedikit basa. Di banyak pasar lokal, permintaan selada yang ditanam secara hidroponik dapat melebihi pasokan yang tersedia, karena sebagian besar daun selada tidak cocok untuk didistribusikan dalam bentuk kering, sehingga hanya dapat diawetkan sebagian. Konsumen biasanya memperoleh selada air sebagai benih atau (di Eropa) dari pasar sebagai kotak tunas hidup muda.\nPucuk tunas yang dapat dimakan biasanya dipanen dalam satu hingga dua minggu setelah tanam, saat tingginya 5–13 cm (2–5 inci).",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -303,7 +355,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -438,7 +490,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/138141-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -446,7 +498,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/138141-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000358699.webp",
@@ -459,6 +511,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 268,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

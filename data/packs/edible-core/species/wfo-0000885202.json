@@ -20,7 +20,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -30,32 +30,12 @@
       "Proso millet",
       "broomcorn millet"
     ],
-    "de": [
-      "Echte Hirse",
-      "Rispenhirse"
+    "fr": [
+      "Millet commun",
+      "millet commun"
     ],
-    "zh": [
-      "稷",
-      "黍米",
-      "稷*(黍)",
-      "黍茎",
-      "黍根",
-      "黍"
-    ],
-    "nl": [
-      "Pluimgierst"
-    ],
-    "cs": [
-      "proso seté"
-    ],
-    "fi": [
-      "viljahirssi"
-    ],
-    "ast": [
-      "miyu"
-    ],
-    "sl": [
-      "navadno proso"
+    "id": [
+      "Proso"
     ],
     "pl": [
       "proso zwyczajne"
@@ -63,14 +43,15 @@
     "qu": [
       "Mihu"
     ],
-    "fr": [
-      "millet commun"
-    ],
     "ko": [
       "기장"
     ],
     "ta": [
       "பனிவரகு"
+    ],
+    "de": [
+      "Rispenhirse",
+      "Echte Hirse"
     ],
     "vi": [
       "Kê Proso"
@@ -90,11 +71,25 @@
     "mk": [
       "Просо"
     ],
+    "fi": [
+      "viljahirssi"
+    ],
     "lt": [
       "Tikroji sora"
     ],
     "da": [
       "Almindelig Hirse"
+    ],
+    "zh": [
+      "黍",
+      "稷",
+      "黍米",
+      "稷*(黍)",
+      "黍茎",
+      "黍根"
+    ],
+    "nl": [
+      "Pluimgierst"
     ],
     "eu": [
       "Artatxiki arrunt"
@@ -108,8 +103,14 @@
     "sh": [
       "Proso"
     ],
+    "sl": [
+      "navadno proso"
+    ],
     "ro": [
       "Mei"
+    ],
+    "cs": [
+      "proso seté"
     ],
     "gl": [
       "Millo miúdo común"
@@ -152,6 +153,9 @@
     ],
     "mr": [
       "पुनर्वा"
+    ],
+    "ast": [
+      "Miyu"
     ],
     "kn": [
       "ಬರಗು"
@@ -218,7 +222,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q165196",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q165196",
   "search_names": {
@@ -234,36 +238,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キビ」",
+      "source": "Wikipedia (ja): キビ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%93",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111016525,
       "text": "キビ は、イネ科の一年草で、穀物の一種。アワやヒエなどと同じくイネ科雑穀類に分類される穀類である。五穀の一つとされる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Proso millet」",
+      "source": "Wikipedia (en): Proso millet",
       "source_url": "https://en.wikipedia.org/wiki/Proso_millet",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368849885,
       "text": "Panicum miliaceum is a grain crop with many common names, including proso millet, broomcorn millet, common millet, hog millet, Kashfi millet, red millet, and white millet. Archaeobotanical evidence suggests millet was first domesticated about 10,000 BP in Northern China. Major cultivated areas include Northern China, Himachal Pradesh of India, Nepal, Russia, Ukraine, Belarus, the Middle East, Turkey, Romania, and the Great Plains states of the United States. About 500,000 acres are grown each year. The crop is notable both for its extremely short lifecycle, with some varieties producing grain only 60 days after planting, and its low water requirements, producing grain more efficiently per unit of moisture than any other grain species tested. The name \"proso millet\" comes from the pan-Slavic general and generic name for millet."
+    },
+    "es": {
+      "source": "Wikipedia (es): Panicum miliaceum",
+      "source_url": "https://es.wikipedia.org/wiki/Panicum_miliaceum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581544,
+      "text": "Mijo común es una especie de planta herbácea perteneciente a la familia de las poáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Millet commun",
+      "source_url": "https://fr.wikipedia.org/wiki/Millet_commun",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228668701,
+      "text": "Panicum miliaceum, le millet commun ou millet, est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Panicoideae, originaire de l'Asie tempérée."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Panicum miliaceum",
+      "source_url": "https://pt.wikipedia.org/wiki/Panicum_miliaceum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67789810,
+      "text": "Panicum miliaceum é uma espécie de planta com flor pertencente à família Poaceae, do tipo fisionómico das terófitas. O nome vulgar desta espécie em português é painço, tanto em Portugal como no Brasil."
+    },
+    "id": {
+      "source": "Wikipedia (id): Proso",
+      "source_url": "https://id.wikipedia.org/wiki/Proso",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28565676,
+      "text": "Panicum miliaceum atau proso adalah spesies tumbuhan yang tergolong ke dalam famili Poaceae. Spesies ini juga merupakan bagian dari ordo Poales. Spesies Panicum miliaceum sendiri merupakan bagian dari genus Panicum. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh L.."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Proso millet」の節「Cultivation」",
+        "source": "Wikipedia (en): Proso millet § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Proso_millet#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1368849885,
         "heading": "Cultivation",
         "text": "Proso millet is a relatively low-demanding crop, and diseases are not known; consequently, it is often used in organic farming systems in Europe. In the United States, it is often used as an intercrop. Thus, proso millet can help to avoid a summer fallow, and continuous crop rotation can be achieved. Its superficial root system and its resistance to atrazine residue make proso millet a good intercrop between two water- and pesticide-demanding crops. The stubbles of the last crop, by allowing more heat into the soil, result in a faster and earlier millet growth. While millet occupies the ground, because of its superficial root system, the soil can replenish its water content for the next crop. Later crops, for example, a winter wheat, can in turn benefit from the millet stubble, which act as snow accumulators. P. miliaceum is commonly classified into five races, miliaceum, patentissimum, contractum, compactum, and ovatum.",
         "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Millet commun § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Millet_commun#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 228668701,
+        "heading": "Culture",
+        "text": "C'est une plante qui résiste bien à la sécheresse, et probablement celle qui a le moins d'exigence en eau de toutes les céréales : il est possible d'obtenir une récolte avec 200 mm de précipitations annuelles, dont un tiers doit survenir durant la période de croissance.\nLes rendements en grains sont toutefois faibles : 400 à 800 kg à l'hectare en culture sèche, 1 à 2 t/ha en culture irriguée.\nLe rendement potentiel maximal en grain est de plus de 6 t/ha.\nPlusieurs facteurs contribuent à maintenir une faible productivité en grain : Le maïs, plus productif et plus nutritif, a repoussé la culture de ce millet sur les terres les plus marginales. Ensuite, les méthodes de culture de cette céréale parmi les plus anciennes comptent aussi parmi les plus archaïques dans les pays du Sud (culture itinérante). Surtout, cette plante à système racinaire superficiel ne répond ni aux labours profonds, ni à une irrigation poussée.\nAux États-Unis 4,5 t de grain/ha ont déjà été atteint en utilisant le millet commun comme interculture dans un système de non-labour contrôlé chimiquement et non-irrigué (isohyète 380 mm). Cette culture intercalaire de millet commun permet d'éviter une jachère d'été, et l'occupation continue du sol permet une meilleure rotation des cultures. Son système racinaire superficiel et sa résistance aux résidus de biocides de la culture précédente (notamment l'atrazine…) font qu'il se positionne bien entre deux cultures asséchantes en profondeur, et où la pression des biocides a été forte. Les chaumes de la culture précédente réchauffant le sol, le millet peut démarrer plus vite et plus tôt. Pendant qu'il occupe le sol, du fait de ses racines peu profondes, le millet commun permet au sol de se recharger en eau en profondeur, au profit de la culture suivante.",
+        "truncated": true
       }
     }
   },
@@ -279,7 +330,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -461,7 +512,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/412217-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -469,7 +520,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/412217-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000885202.webp",
@@ -482,6 +533,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

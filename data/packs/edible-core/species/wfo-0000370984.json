@@ -49,26 +49,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "イヌクグ"
     ],
-    "en": [
-      "Pacific island flatsedge"
-    ],
     "zh": [
       "砖子苗",
       "大香附子",
       "假香附"
+    ],
+    "en": [
+      "Pacific island flatsedge"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q11286910",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q11286910",
   "search_names": {
@@ -78,22 +78,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「イヌクグ」",
+      "source": "Wikipedia (ja): イヌクグ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%82%AF%E3%82%B0",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106349109,
       "text": "イヌクグまたはクグは、乾燥したところに生えるカヤツリグサ属の植物。傘のように広がる苞とブラシ状の穂が特徴。シュロガヤツリを小さくしたようにも見える。ただし小穂の構造はやや特殊。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cyperus cyperoides」",
+      "source": "Wikipedia (en): Cyperus cyperoides",
       "source_url": "https://en.wikipedia.org/wiki/Cyperus_cyperoides",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1196919759,
       "text": "Cyperus cyperoides is a species of sedge that is native to parts of Africa, Asia, Australia and Oceania."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cyperus cyperoides",
+      "source_url": "https://id.wikipedia.org/wiki/Cyperus_cyperoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28533311,
+      "text": "Cyperus cyperoides adalah spesies tumbuhan yang tergolong ke dalam famili Cyperaceae. Spesies ini juga merupakan bagian dari ordo Poales. Spesies Cyperus cyperoides sendiri merupakan bagian dari genus Cyperus. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh (L.) Kuntze."
     }
   },
   "edible": {
@@ -108,7 +117,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -223,7 +232,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/74580-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or rhizomatous geophyte",
@@ -231,7 +240,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/74580-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000370984.webp",
@@ -244,6 +253,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

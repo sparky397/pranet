@@ -15,24 +15,27 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アメリカツガ",
       "ベイツガ"
     ],
-    "en": [
-      "Western Hemlock",
-      "Pacific Hemlock",
-      "Western Hemlock-spruce"
+    "fr": [
+      "Pruche de l'Ouest"
     ],
-    "de": [
-      "Westamerikanische Hemlocktanne"
+    "eo": [
+      "Okcidenta cugo"
     ],
-    "da": [
-      "Nordvestamerikansk Tsuga",
-      "Vestamerikansk Hemlock"
+    "pl": [
+      "Choina zachodnia"
+    ],
+    "sk": [
+      "Jedľovec rôznolistý"
+    ],
+    "ru": [
+      "Тсуга западная"
     ],
     "fi": [
       "lännenhemlokki"
@@ -40,36 +43,8 @@
     "et": [
       "Läänetsuuga"
     ],
-    "fr": [
-      "Pruche de l'Ouest"
-    ],
-    "cy": [
-      "sbriwsen-hemlog y Gorllewin"
-    ],
-    "nl": [
-      "Westelijke hemlockspar"
-    ],
-    "nb": [
-      "Vestamerikansk hemlokk"
-    ],
-    "pl": [
-      "Choina zachodnia"
-    ],
-    "eo": [
-      "Okcidenta cugo"
-    ],
-    "sk": [
-      "Jedľovec rôznolistý"
-    ],
-    "tr": [
-      "Batı sugası"
-    ],
-    "zh": [
-      "异叶铁杉",
-      "美國西部鐵杉"
-    ],
-    "ru": [
-      "Тсуга западная"
+    "de": [
+      "Westamerikanische Hemlocktanne"
     ],
     "cs": [
       "jedlovec západní"
@@ -77,11 +52,24 @@
     "lt": [
       "Kaliforninė cūga"
     ],
+    "nl": [
+      "westelijke hemlockspar"
+    ],
+    "da": [
+      "Vestamerikansk Hemlock",
+      "Nordvestamerikansk Tsuga"
+    ],
+    "nb": [
+      "Vestamerikansk hemlokk"
+    ],
     "ar": [
       "أتسوغة متباينة الأوراق"
     ],
     "sv": [
       "Jättehemlock"
+    ],
+    "cy": [
+      "Sbriwsen-hemlog y Gorllewin"
     ],
     "is": [
       "Marþöll"
@@ -92,18 +80,30 @@
     "fa": [
       "کاج شوکران غربی"
     ],
+    "zh": [
+      "美國西部鐵杉",
+      "异叶铁杉"
+    ],
     "arz": [
       "تسوجا متباينه الاوراق"
     ],
     "hu": [
       "váltótűs hemlokfenyő"
+    ],
+    "en": [
+      "Western Hemlock",
+      "Pacific Hemlock",
+      "Western Hemlock-spruce"
+    ],
+    "tr": [
+      "Batı sugası"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1144409",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1144409",
   "search_names": {
@@ -114,32 +114,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アメリカツガ」",
+      "source": "Wikipedia (ja): アメリカツガ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%84%E3%82%AC",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111315380,
       "text": "アメリカツガ は、マツ科ツガ属の常緑針葉樹。北アメリカ大陸の冷涼で湿潤な太平洋沿岸に自生する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Tsuga heterophylla」",
+      "source": "Wikipedia (en): Tsuga heterophylla",
       "source_url": "https://en.wikipedia.org/wiki/Tsuga_heterophylla",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372906850,
       "text": "Tsuga heterophylla, the western hemlock or western hemlock-spruce, is a species of conifer in the pine family, Pinaceae. It typically grows to 70 metres tall and is long-lived at high elevations. Native to the northwest coast of North America, it is a source of timber, tannin, and edible cambium."
+    },
+    "es": {
+      "source": "Wikipedia (es): Tsuga heterophylla",
+      "source_url": "https://es.wikipedia.org/wiki/Tsuga_heterophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172747760,
+      "text": "Tsuga heterophylla, la tsuga del Pacífico, tsuga heterófila, también tsuga de Alberta, es una especie arbórea, originaria del noroeste de Norteamérica. Su límite noroeste se encuentra en la península de Kenai, Alaska, y su límite sureste, en el norte del Condado de Sonoma, California."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pruche de l'Ouest",
+      "source_url": "https://fr.wikipedia.org/wiki/Pruche_de_l'Ouest",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235693030,
+      "text": "La Pruche de l'Ouest, Tsuga de Californie, Tsuga de l'Ouest ou Hemlock de l'Ouest est une espèce d'arbre appartenant au genre Tsuga de la famille des Pinaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tsuga heterophylla",
+      "source_url": "https://pt.wikipedia.org/wiki/Tsuga_heterophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70341903,
+      "text": "Tsuga heterophylla, comummente conhecida como tsuga, é uma espécie de conífera, pertencente ao tipo fisionómico dos megafanerófitos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tsuga heterophylla",
+      "source_url": "https://id.wikipedia.org/wiki/Tsuga_heterophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28512225,
+      "text": "Tsuga heterophylla adalah jenis hemlok yang biasanya mencapai ketinggian hingga 70 meter dan memiliki umur panjang di daerah dataran tinggi. Asli dari wilayah barat laut Amerika Utara, pohon ini dimanfaatkan sebagai sumber kayu, tanin, dan kambium yang dapat dikonsumsi."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Tsuga heterophylla」の節「Cultivation」",
+        "source": "Wikipedia (en): Tsuga heterophylla § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Tsuga_heterophylla#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1372906850,
         "heading": "Cultivation",
         "text": "Western hemlock is cultivated as an ornamental tree in gardens in its native habitats and along the U.S. Pacific Coast, where its best reliability is seen in wetter regions. In relatively dry areas, as at Victoria, British Columbia, it is exacting about soil conditions. It needs a high level of organic matter (well-rotted wood from an old log or stump is best; animal manures may have too much nitrogen and salt), in a moist, acidic soil. It is also cultivated in temperate regions worldwide. It has gained the Royal Horticultural Society's Award of Garden Merit.\nIt can also be found in large gardens in northwest Europe and southern New Zealand.",
@@ -158,7 +194,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -183,7 +219,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/260297-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -191,7 +227,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/260297-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000456392.webp",
@@ -204,6 +240,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

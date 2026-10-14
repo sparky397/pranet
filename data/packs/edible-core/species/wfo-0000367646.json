@@ -34,43 +34,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "de": [
-      "Gewöhnlicher Krähenfuß",
-      "Niederliegender Krähenfuß"
-    ],
-    "dsb": [
-      "Pšawa ronica"
-    ],
-    "en": [
-      "Creeping Watercress"
-    ],
-    "es": [
-      "Cervellina"
-    ],
-    "fi": [
-      "Kaljuvariksenkrassi",
-      "ryhmykrassi"
-    ],
-    "fr": [
-      "Pied-de-corneille"
-    ],
-    "hsb": [
-      "Prawa wrónica"
+      "Niederliegender Krähenfuß",
+      "Gewöhnlicher Krähenfuß"
     ],
     "pl": [
       "Wronóg grzebieniasty"
     ],
-    "sl": [
-      "polegla vranja noga"
+    "dsb": [
+      "Pšawa ronica"
+    ],
+    "hsb": [
+      "Prawa wrónica"
     ],
     "sv": [
       "Kråkkrassing"
-    ],
-    "zh": [
-      "匍伏臭芥"
     ],
     "cs": [
       "vranožka šupinatá"
@@ -78,29 +59,57 @@
     "nl": [
       "Grove varkenskers"
     ],
+    "fi": [
+      "ryhmykrassi",
+      "Kaljuvariksenkrassi"
+    ],
     "arz": [
       "ليبيديوم كورونوبوس"
     ],
     "et": [
       "lamav kress"
+    ],
+    "en": [
+      "Creeping Watercress"
+    ],
+    "es": [
+      "Cervellina"
+    ],
+    "fr": [
+      "Pied-de-corneille"
+    ],
+    "sl": [
+      "polegla vranja noga"
+    ],
+    "zh": [
+      "匍伏臭芥"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q149924",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q149924",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Lepidium coronopus」",
+      "source": "Wikipedia (en): Lepidium coronopus",
       "source_url": "https://en.wikipedia.org/wiki/Lepidium_coronopus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1337753197,
       "text": "Lepidium coronopus,, is a species of flowering plant in the mustard family which is native to parts of Africa, western Asia and Europe, growing in shingle banks, wasteland or cultivated fields."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lepidium coronopus",
+      "source_url": "https://fr.wikipedia.org/wiki/Lepidium_coronopus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239775285,
+      "text": "Lepidium coronopus ou Passerage écailleuse, Sénebière commune, est une espèce de plantes à fleurs de la famille des Brassicacées, originaire de certaines régions d'Afrique, d'Asie occidentale et d'Europe, poussant dans des milieux secs, tassés et chauds, éventuellement salinisés. En France, elle fait partie des espèces déterminantes pour les zones naturelles d'intérêt écologiques et floristiques (ZNIEFF)."
     }
   },
   "edible": {
@@ -112,7 +121,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -190,7 +199,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60433916-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -198,6 +207,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60433916-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

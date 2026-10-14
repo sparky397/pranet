@@ -32,7 +32,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -44,13 +44,14 @@
       "Kaffir Lime",
       "Porcupine Orange"
     ],
-    "zh": [
-      "箭叶橙",
-      "马蜂橙",
-      "树葫芦"
+    "fr": [
+      "Combava"
     ],
-    "sl": [
-      "kombava"
+    "pt": [
+      "Combava"
+    ],
+    "id": [
+      "Jeruk purut"
     ],
     "jv": [
       "Jeruk purut"
@@ -60,9 +61,6 @@
     ],
     "udm": [
       "Кафир-лайм"
-    ],
-    "fr": [
-      "Combava"
     ],
     "lbe": [
       "Кафир-лайм"
@@ -75,9 +73,6 @@
     ],
     "de": [
       "Kaffernlimette"
-    ],
-    "id": [
-      "Jeruk purut"
     ],
     "mrj": [
       "Кафир-лайм"
@@ -94,9 +89,6 @@
     "nl": [
       "Mauritius papeda"
     ],
-    "pt": [
-      "Combava"
-    ],
     "ru": [
       "Кафир-лайм"
     ],
@@ -109,11 +101,19 @@
     "fi": [
       "ryppylimetti"
     ],
+    "sl": [
+      "kombava"
+    ],
     "kv": [
       "Кафир-лайм"
     ],
     "nb": [
       "Kaffirlime"
+    ],
+    "zh": [
+      "箭叶橙",
+      "马蜂橙",
+      "树葫芦"
     ],
     "et": [
       "Kahvri laimipuu"
@@ -183,7 +183,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q465934",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q465934",
   "search_names": {
@@ -201,56 +201,103 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「コブミカン」",
+      "source": "Wikipedia (ja): コブミカン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%96%E3%83%9F%E3%82%AB%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109617931,
       "text": "コブミカン は、タイ、マレーシア原産の柑橘類の1種である。和名は「瘤ミカン」の意で、果実の表面にシワが生じ、あるいは「瘤だらけ」のような形状を呈する点を指したもの。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Kaffir lime」",
+      "source": "Wikipedia (en): Kaffir lime",
       "source_url": "https://en.wikipedia.org/wiki/Kaffir_lime",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377321214,
       "text": "Citrus hystrix, called the kaffir lime, Thai lime or makrut lime, is a citrus fruit native to tropical Southeast Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Citrus hystrix",
+      "source_url": "https://es.wikipedia.org/wiki/Citrus_hystrix",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171202590,
+      "text": "La combava o lima kafir es una planta de la familia de las rutáceas procedente del sudeste asiático, poco cultivada en América y Europa; se utilizan sobre todo sus hojas bilobuladas, de característico aroma, y la piel de los frutos. Los frutos son verdes, de unos 4 cm de diámetro, de piel rugosa y extremadamente ácidos. Oriunda de la India, se introdujo en las islas del océano Índico a finales del siglo XIX. Es también conocido como: Cumbaba, Makrut, limon Combera o Lima sanguijuela."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Combava",
+      "source_url": "https://fr.wikipedia.org/wiki/Combava",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239297838,
+      "text": "Combava est le nom du Citrus hystrix, agrume de l'ex-sous-genre Papeda. Il désigne l'arbre, le fruit et l'aromate."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Combava",
+      "source_url": "https://pt.wikipedia.org/wiki/Combava",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66964412,
+      "text": "A Combava é um fruto do gênero Citrus, cuja origem não foi ainda determinada com certeza. Alguns o consideram um híbrido da Cidra com o limão galego, outros defendem a ideia de que seria uma mutação espontânea do limão galego."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jeruk purut",
+      "source_url": "https://id.wikipedia.org/wiki/Jeruk_purut",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29212369,
+      "text": "Jeruk purut merupakan tumbuhan perdu yang dimanfaatkan terutama buah dan daunnya sebagai bumbu penyedap masakan. Dalam perdagangan internasional dikenal sebagai kaffir lime, sementara nama lainnya ma kruut (Thailand),  boh kruët (Aceh), krauch soeuch (Kamboja),  'khi 'hout (Laos), shouk-pote (Burma), kabuyau, kulubut, kolobot (Filipina), truc (Vietnam) dan limau kuwit (Banjar). Dungga Mbudi"
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「コブミカン」の節「栽培」",
+        "source": "Wikipedia (ja): コブミカン § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%96%E3%83%9F%E3%82%AB%E3%83%B3#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109617931,
         "heading": "栽培",
         "text": "鉢植えにも向く。\n耐寒性指標は10-12。日本でも関東以西で、冬季の霜や雪に遭わなければ屋外で栽培が可能である。\n東南アジアの各国から生の果実や枝を検疫を受けずに日本国内に持ち込むことは防疫上禁止されている。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Kaffir lime」の節「Cultivation」",
+        "source": "Wikipedia (en): Kaffir lime § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Kaffir_lime#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378678020,
         "heading": "Cultivation",
         "text": "C. hystrix is grown worldwide in suitable climates as a garden shrub for home fruit production. It is well suited to container gardens and for large garden pots on patios, terraces, and in conservatories.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Combava § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Combava#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239297838,
+        "heading": "Culture",
+        "text": "Ont été mis en évidence (2023) 3 facteurs favorables pour obtenir une végétation vigoureuse et productive en feuille: une lumière moyenne (ombrage doux, « la modification de la culture sous un faible ombrage (réduction de la lumière d'environ 23 %) peut produire un stress bénéfique, augmentant le taux de croissance et le rendement des feuilles de combava de 84 et 63 % respectivement »), taille de la plante dégageant 30 cm de tronc au-dessus du sol, et enfin une fertilisation azotée riche.",
         "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Kaffir lime」の節「Toxicity」",
+        "source": "Wikipedia (en): Kaffir lime § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Kaffir_lime#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378678020,
         "heading": "Toxicity",
         "text": "C. hystrix contains significant quantities of furanocoumarins, in both the peel and the pulp. Furanocoumarins are known to cause phytophotodermatitis, a potentially severe skin inflammation. Cases of phytophotodermatitis induced by external use of C. hystrix have been reported.",
@@ -271,7 +318,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -312,7 +359,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/771927-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -320,7 +367,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/771927-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000608056.webp",
@@ -333,6 +380,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

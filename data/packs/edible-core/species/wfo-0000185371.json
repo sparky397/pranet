@@ -20,35 +20,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Hoher Steinklee",
-      "Hoher Honigklee"
-    ],
-    "en": [
-      "tall yellow sweetclover",
-      "tall melilot"
-    ],
     "fr": [
       "Mélilot élevé",
       "grand mélilot"
     ],
-    "nl": [
-      "Goudgele honingklaver"
-    ],
-    "cs": [
-      "komonice nejvyšší"
-    ],
-    "fi": [
-      "isomesikkä"
-    ],
-    "sl": [
-      "visoka medena detelja"
-    ],
     "et": [
       "kõrge mesikas"
+    ],
+    "de": [
+      "Hoher Steinklee",
+      "Hoher Honigklee"
     ],
     "az": [
       "Hündür xəşənbül"
@@ -59,32 +43,66 @@
     "sv": [
       "Stor sötväppling"
     ],
+    "nl": [
+      "Goudgele honingklaver"
+    ],
     "cy": [
       "Yr wydro dal"
     ],
     "ru": [
       "Донник рослый"
     ],
+    "cs": [
+      "komonice nejvyšší"
+    ],
     "pl": [
       "nostrzyk wyniosły"
+    ],
+    "fi": [
+      "isomesikkä"
+    ],
+    "sl": [
+      "visoka medena detelja"
+    ],
+    "en": [
+      "tall yellow sweetclover",
+      "tall melilot"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159174",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159174",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Melilotus altissimus」",
+      "source": "Wikipedia (en): Melilotus altissimus",
       "source_url": "https://en.wikipedia.org/wiki/Melilotus_altissimus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365407644,
       "text": "Melilotus altissimus, known by the common names tall yellow sweetclover, tall melilot and golden melilot is a plant species of the genus Melilotus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Melilotus altissimus",
+      "source_url": "https://es.wikipedia.org/wiki/Melilotus_altissimus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157029035,
+      "text": "Melilotus altissimus o meliloto alto es una especie botánica bienal leguminosa del género Melilotus. Se distribuye por Asia, Europa, África. A diferencia de otras especies del género, presenta el ovario y el fruto pubescente."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Mélilot élevé",
+      "source_url": "https://fr.wikipedia.org/wiki/M%C3%A9lilot_%C3%A9lev%C3%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224218873,
+      "text": "Le mélilot élevé est une espèce de plantes à fleurs de la famille des Fabacées (Légumineuses), sous-famille des Faboideae, tribu des Trifolieae. C'est une plante herbacée à fleurs jaunes trouvé en Afrique, Asie et Europe. Cette espèce présente un intérêt comme plante mellifère et comme plante fourragère. Elle peut aussi constituer un bon engrais vert."
     }
   },
   "edible": {
@@ -98,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -148,7 +166,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/506901-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial or perennial",
@@ -156,7 +174,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/506901-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000185371.webp",
@@ -169,6 +187,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 337,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

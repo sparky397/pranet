@@ -12,16 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "lechuguilla",
-      "Lecheguilla Agave"
-    ],
-    "zh": [
-      "白肋龙舌兰"
-    ],
     "nah": [
       "Zacametl"
     ],
@@ -33,24 +26,64 @@
     ],
     "ja": [
       "レチュギヤ"
+    ],
+    "en": [
+      "lechuguilla",
+      "Lecheguilla Agave"
+    ],
+    "zh": [
+      "白肋龙舌兰"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q310970",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q310970",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Agave lechuguilla」",
+      "source": "Wikipedia (en): Agave lechuguilla",
       "source_url": "https://en.wikipedia.org/wiki/Agave_lechuguilla",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1344979988,
       "text": "Agave lechuguilla is an Agave species found only in the Chihuahuan Desert. The plant flowers once in its life and then dies."
+    },
+    "es": {
+      "source": "Wikipedia (es): Agave lechuguilla",
+      "source_url": "https://es.wikipedia.org/wiki/Agave_lechuguilla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 152537729,
+      "text": "Agave lechuguilla, de nombre común lechuguilla, es una especie suculenta anteriormente clasificada dentro de la familia Agavaceae, ahora subfamilia Agavoideae, dentro de las asparagáceas. Es nativa de las zonas áridas y semiáridas de México y Sur de Estados Unidos y de las más comunes en la región del Desierto Chihuahuense. Durante generaciones ha sido de gran importancia económica porque de ella se extrae fibra."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Agave lechuguilla",
+      "source_url": "https://fr.wikipedia.org/wiki/Agave_lechuguilla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 213951321,
+      "text": "Agave lechuguilla est une espèce de plantes à fleurs de la famille des Asparagaceae. C'est une agave originaire du sud du Texas, aux États-Unis, en Amérique du Nord."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Agave lechuguilla § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Agave_lechuguilla#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 152537729,
+        "heading": "Toxicidad",
+        "text": "Se describe en la literatura que las cabras y ovejas se envenenan con frecuencia al ingerir esta planta. El 1 % del peso de la planta en relación con el peso del animal es suficiente para causar la muerte.​\nLos síntomas que presentan los animales envenenados son: pérdida del apetito, hinchazón de la piel y de las orejas, y ojos llorosos; la piel blanca es muy afectada, desde pequeñas inflamaciones hasta escoriaciones y necrosis; la coloración se torna amarillenta.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -65,7 +98,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -81,7 +114,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60474750-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent perennial",
@@ -89,7 +122,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60474750-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000754513.webp",
@@ -102,6 +135,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 352,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -46,37 +46,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヨルガオ"
     ],
-    "en": [
-      "tropical white morning-glory",
-      "Moonflower or moon vine"
-    ],
-    "et": [
-      "Kuu-lehtertapp"
-    ],
-    "nl": [
-      "Maanbloem"
-    ],
-    "sv": [
-      "Månvinda"
-    ],
-    "vi": [
-      "Bìm trắng hay tịch nhan",
-      "Bìm trắng"
-    ],
-    "zh": [
-      "天茄兒",
-      "月光花",
-      "夜花薯藤",
-      "月光花种子"
-    ],
-    "es": [
-      "Quiebra-cajete"
+    "id": [
+      "Terulak"
     ],
     "az": [
       "Ağ ipomeya"
@@ -87,8 +64,21 @@
     "hsb": [
       "Běła wijawka"
     ],
-    "id": [
-      "Terulak"
+    "nl": [
+      "Maanbloem"
+    ],
+    "sv": [
+      "Månvinda"
+    ],
+    "zh": [
+      "月光花",
+      "天茄兒",
+      "夜花薯藤",
+      "月光花种子"
+    ],
+    "vi": [
+      "Bìm trắng",
+      "Bìm trắng hay tịch nhan"
     ],
     "fa": [
       "نیلوفر سفید"
@@ -107,13 +97,23 @@
     ],
     "kn": [
       "ಚಂದ್ರಪುಷ್ಪ"
+    ],
+    "et": [
+      "kuu-lehtertapp"
+    ],
+    "en": [
+      "tropical white morning-glory",
+      "Moonflower or moon vine"
+    ],
+    "es": [
+      "Quiebra-cajete"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q133294",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q133294",
   "search_names": {
@@ -128,35 +128,93 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヨルガオ」",
+      "source": "Wikipedia (ja): ヨルガオ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%AB%E3%82%AC%E3%82%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109360706,
       "text": "ヨルガオ は、ヒルガオ科サツマイモ属の植物の一種。ヤカイソウ（夜会草）とも呼ぶ"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ipomoea alba」",
+      "source": "Wikipedia (en): Ipomoea alba",
       "source_url": "https://en.wikipedia.org/wiki/Ipomoea_alba",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371934383,
       "text": "Ipomoea alba, known in English as  white tropical morning glory, evening glory, moonflower or moonvine, is a species of night-blooming morning glory, native to tropical and subtropical regions of North and South America, from Argentina to northern Mexico, Arizona, Florida and the West Indies. Though formerly classified as genus Calonyction, species aculeatum, it is now properly assigned to genus Ipomoea, subgenus Quamoclit, section Calonyction."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ipomoea alba",
+      "source_url": "https://es.wikipedia.org/wiki/Ipomoea_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581931,
+      "text": "Ipomoea alba, llamada comúnmente nicna de Nueva Andalucía o quiebracajete, es una especie del género Ipomoea de hábito trepador, nativa del Nuevo Mundo; desde el norte de Argentina al norte de México y Florida y naturalizada en las regiones tropicales y subtropicales."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ipomoea alba",
+      "source_url": "https://fr.wikipedia.org/wiki/Ipomoea_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235163388,
+      "text": "Ipomoea alba, l’ipomée blanche, appelée aussi fleur de lune en raison de sa floraison nocturne, est une espèce de plantes de la famille des Convolvulaceae, originaire des régions tropicales d’Amérique, naturalisée dans la plupart des pays tropicaux."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ipomoea alba",
+      "source_url": "https://pt.wikipedia.org/wiki/Ipomoea_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70069947,
+      "text": "Ipomoea alba, ou dama-da-noite, é uma espécie do género Ipomoea de floração noturna, nativa das regiões tropicais e subtropicais da América, desde o norte da Argentina até ao México e Florida."
+    },
+    "id": {
+      "source": "Wikipedia (id): Terulak",
+      "source_url": "https://id.wikipedia.org/wiki/Terulak",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26408243,
+      "text": "Terulak adalah tanaman bunga berwarna putih yang mekar di malam hari dan menimbulkan bau harum. Terulak memiliki sebutan beragam, tetapi yang jelas ia berasa dari keluarga Convolvulaceae. Bunga terulak berasal dari Amerika."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Ipomoea alba」の節「Cultivation」",
+        "source": "Wikipedia (en): Ipomoea alba § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Ipomoea_alba#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1371934383,
         "heading": "Cultivation",
         "text": "The species is widely cultivated as an ornamental plant for its flowers. In areas too cold for winter survival, it can be grown as an annual plant. Since it is of tropical origin, it flowers best under a summer short-day photoperiod. Though it can be successfully flowered in the north, its flowering is impaired by excessively long summer days. Thus, at higher latitudes it often does not set buds and bloom until early autumn, when daylight length is once again near 12 hours.\nPropagation is usually by seed. The seed resembles a small, brownish nut, and should be nicked with a file and then soaked overnight before planting.\nIn some areas, the plant is an invasive species which can cause problems in agricultural settings.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Ipomoea alba § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Ipomoea_alba#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171581931,
+        "heading": "Cultivo",
+        "text": "No sobrevive a temperaturas por debajo de los -5 °C, por lo que en regiones de clima frío se comporta como planta anual. Se propaga por semillas o de forma vegetativa. Requiere exposición soleada con suelos húmedos y bien drenados.​",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Ipomoea alba § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Ipomoea_alba#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 70069947,
+        "heading": "Cultivo",
+        "text": "Esta espécie é largamente cultivada como planta ornamental devido às suas flores. Em áreas demasiado frias para permitir a sua sobrevivência no inverno, pode ser criada como planta anual. A propagação é geralmente feita por meio de sementes. Em alguns locais é uma espécie invasora que pode causar problemas em ambiente agrícolas.\nA boa-noite é uma planta que requer plena exposição solar, um solo fértil e bem drenado, enriquecido com matéria orgânica, além de uma irrigação regular. Embora seja uma espécie tipicamente encontrada em regiões tropicais, pode ser cultivada como uma planta anual em locais com clima temperado, sendo recomendado o plantio na primavera, pois ela apresenta um rápido desenvolvimento nessa estação. É importante ressaltar que a boa-noite não tolera geadas, mas pode resistir a curtos períodos de seca ou encharcamento. A multiplicação dessa planta pode ser feita tanto por estaquia quanto por sementes.",
         "truncated": false
       }
     }
@@ -173,7 +231,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -307,7 +365,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/129128-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing herbaceous tree or liana",
@@ -315,7 +373,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/129128-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001297242.webp",
@@ -328,6 +386,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

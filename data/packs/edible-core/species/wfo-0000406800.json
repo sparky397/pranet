@@ -26,29 +26,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "モモタマナ"
     ],
-    "en": [
-      "tropical-almond",
-      "beach almond",
-      "Indian almond",
-      "sea almond"
-    ],
-    "zh": [
-      "欖仁",
-      "榄仁树",
-      "榄仁树子",
-      "榄仁树皮",
-      "榄仁树叶",
-      "榄仁",
-      "欖仁樹"
-    ],
     "pt": [
       "Amendoeira-da-praia"
+    ],
+    "id": [
+      "Ketapang"
     ],
     "dv": [
       "ކަނަމަދު"
@@ -73,9 +61,6 @@
     ],
     "sw": [
       "Kungu"
-    ],
-    "id": [
-      "Ketapang"
     ],
     "de": [
       "Katappenbaum"
@@ -124,6 +109,15 @@
     ],
     "tl": [
       "Talisay"
+    ],
+    "zh": [
+      "欖仁樹",
+      "欖仁",
+      "榄仁树",
+      "榄仁树子",
+      "榄仁树皮",
+      "榄仁树叶",
+      "榄仁"
     ],
     "ace": [
       "Keutapang"
@@ -175,33 +169,75 @@
     ],
     "shn": [
       "တူၼ်ႈမႆႉပူၺ်း"
+    ],
+    "en": [
+      "tropical-almond",
+      "beach almond",
+      "Indian almond",
+      "sea almond"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q271179",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q271179",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「モモタマナ」",
+      "source": "Wikipedia (ja): モモタマナ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%A2%E3%82%BF%E3%83%9E%E3%83%8A",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110111181,
       "text": "モモタマナ Terminalia catappa L. は、シクンシ科に属する樹木。太平洋諸島などに広く分布する。葉が大きく、枝振りが美しいので植栽されることが多い。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Terminalia catappa」",
+      "source": "Wikipedia (en): Terminalia catappa",
       "source_url": "https://en.wikipedia.org/wiki/Terminalia_catappa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370163033,
       "text": "Terminalia catappa is a large tropical tree in the leadwood tree family, Combretaceae, native to Asia, Australia, the Pacific, Madagascar and Seychelles. Common names in English include country almond, Indian almond, Malabar almond, sea almond, tropical almond, beach almond and false kamani."
+    },
+    "es": {
+      "source": "Wikipedia (es): Terminalia catappa",
+      "source_url": "https://es.wikipedia.org/wiki/Terminalia_catappa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171583255,
+      "text": "El almendro malabar, almendro de los trópicos, almendrón, falso kamani o egombegombe es un árbol tropical de gran porte, dentro la familia de las combretáceas. El origen del árbol está en discusión, puede proceder de la India o de la península Malaya o de la antigua Indochina francesa, o de la isla de Nueva Guinea, o también del Sudeste Asiático continental."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Terminalia catappa",
+      "source_url": "https://fr.wikipedia.org/wiki/Terminalia_catappa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239562366,
+      "text": "Terminalia catappa est une espèce de plantes à fleurs de la famille des Combretaceae. C'est un arbre fruitier originaire de Nouvelle-Guinée. Il peut atteindre une vingtaine de mètres de hauteur. Son fruit est appelé « myrobolan », « myrobalan » ou « badame ». Il s'est naturalisé dans de nombreuses régions tropicales."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Amendoeira-da-praia",
+      "source_url": "https://pt.wikipedia.org/wiki/Amendoeira-da-praia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71861279,
+      "text": "A amendoeira-da-praia, também chamada amêndoa, amendoeira, castanheira, anoz, árvore-de-anoz, castanholeira, coração-de-nego, castanhola, sete-copas, chapéu-de-sol, guarda-sol, terminália, coração-de-negro, figueira-da-índia e caroceiro é uma árvore de grandes dimensões que pode atingir 35 metros de altura. É típica de regiões tropicais. Especula-se que sua origem esteja na Índia e na Nova Guiné."
+    },
+    "id": {
+      "source": "Wikipedia (id): Ketapang",
+      "source_url": "https://id.wikipedia.org/wiki/Ketapang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28657347,
+      "text": "Ketapang atau katapang adalah nama sejenis pohon tepi pantai yang rindang. Lekas tumbuh dan membentuk tajuk indah bertingkat-tingkat, ketapang kerap dijadikan pohon peneduh di taman-taman dan tepi jalan. Selain nama ketapang dengan pelbagai variasi dialeknya, pohon ini juga memiliki banyak sebutan seperti talisei, tarisei, salrisé (Sulut); tiliso, tiliho, ngusu ; sarisa, sirisa, sirisal, sarisalo (Mal.); lisa ; kalis, kris ; dan sebagainya."
     }
   },
   "edible": {
@@ -220,7 +256,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -341,7 +377,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/171034-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -349,7 +385,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/171034-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000406800.webp",
@@ -362,6 +398,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

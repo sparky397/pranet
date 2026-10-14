@@ -16,7 +16,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ca": [
@@ -27,31 +27,51 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q111292614",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q111292614",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Lucuma bifera」",
+      "source": "Wikipedia (en): Lucuma bifera",
       "source_url": "https://en.wikipedia.org/wiki/Lucuma_bifera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376633267,
       "text": "Lucuma bifera is a species of tree in the family Sapotaceae cultivated for its fruit, the lúcuma. It is native to the Andean valleys of South America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lucuma bifera",
+      "source_url": "https://es.wikipedia.org/wiki/Lucuma_bifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175759603,
+      "text": "El lúcumo es una de las especies más extendida y comercialmente más valiosa de la familia Sapotaceae. Es un árbol originario y nativo de los valles andinos de Perú, Bolivia, Ecuador, Argentina, y Chile, que se cultiva por su fruto llamado lúcuma utilizado como alimento. Se utiliza para la preparación de dulces, postres y helados, especialmente en la gastronomía peruana."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Lucuma bifera」の節「Cultivation」",
+        "source": "Wikipedia (en): Lucuma bifera § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Lucuma_bifera#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1376633267,
         "heading": "Cultivation",
         "text": "In addition to Peru, the fruit is grown also to a limited extent in Bolivia, Chile, and Costa Rica.  Attempts at growing lúcuma in Florida's climate are typically not successful. The fruit is successfully grown in Vietnam, where it is known as lêkima.\nIn Peru, harvesting season is from October to March and in Chile from June to November.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Lucuma bifera § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Lucuma_bifera#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175759603,
+        "heading": "Cultivo",
+        "text": "Dos intentos de introducir su cultivo en el sur de Estados Unidos han resultado infructuosos; en México y Hawái crece, aunque no se consume a gran escala. \nEl árbol prefiere temperaturas templadas, idealmente entre los 20 y los 22 °C; no es resistente a las heladas.​ El suelo ideal es arenoso, de buen drenaje, rico en nutrientes y de pH neutro, pero tolera bien la salinidad y la alcalinidad.\nNo requiere irrigación constante, y soporta bien períodos breves de sequía así como temporadas muy húmedas, pero no resiste la anegación, ni las temperaturas muy altas, condiciones a las que está mejor adaptada la especie Pouteria macrophylla, en la que se ha intentado injertarlo infructuosamente.\nLa calidad de la fruta varía drásticamente con las condiciones de cultivo. Produce frutos desde nivel del mar hasta los 3000 m s. n. m., pero las condiciones óptimas están alrededor de los 500. En condiciones favorables los árboles producen entre 200 y 300 frutos, a partir del cuarto o quinto año. La producción es mejor en los especímenes producidos por esquejes que por los plantados de semilla, aunque la germinación de éstas no ofrece particulares complicaciones. Los primeros trabajos en relación con la biología, propagación y utilización de la lúcuma se realizaron en el Perú a fines de la década de 1950 por el Dr. Fausto Cisneros Vera.​",
         "truncated": false
       }
     }
@@ -65,7 +85,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -81,7 +101,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/787229-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -89,7 +109,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/787229-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000230760.webp",
@@ -102,6 +122,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 298,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

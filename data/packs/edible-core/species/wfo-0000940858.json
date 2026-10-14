@@ -37,39 +37,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ククイ"
     ],
-    "bug": [
-      "ᨄᨛᨒᨛ"
-    ],
-    "de": [
-      "Lichtnussbaum"
-    ],
-    "en": [
-      "Candlenut"
-    ],
-    "fi": [
-      "Hopeatungpuu"
-    ],
-    "nl": [
-      "kemirie",
-      "Kemirinoot"
-    ],
     "pt": [
-      "Nogueira de Iguape",
-      "Nogueira-de-iguape"
+      "Nogueira-de-iguape",
+      "Nogueira de Iguape"
     ],
-    "to": [
-      "Tuitui"
-    ],
-    "zh": [
-      "石栗",
-      "石栗子",
-      "石栗叶"
+    "id": [
+      "Kemiri"
     ],
     "jv": [
       "Kemiri"
@@ -89,11 +68,23 @@
     "ms": [
       "Buah Keras"
     ],
-    "id": [
-      "Kemiri"
+    "to": [
+      "Tuitui"
+    ],
+    "de": [
+      "Lichtnussbaum"
     ],
     "ar": [
       "ألوريت جزر الملوك"
+    ],
+    "nl": [
+      "Kemirinoot",
+      "kemirie"
+    ],
+    "zh": [
+      "石栗",
+      "石栗子",
+      "石栗叶"
     ],
     "cs": [
       "tungovník molucký"
@@ -106,6 +97,9 @@
     ],
     "ty": [
       "Tiairi"
+    ],
+    "fi": [
+      "hopeatungpuu"
     ],
     "uk": [
       "Свічкове дерево"
@@ -142,13 +136,19 @@
     ],
     "bew": [
       "Kemèri"
+    ],
+    "bug": [
+      "ᨄᨛᨒᨛ"
+    ],
+    "en": [
+      "Candlenut"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1160961",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1160961",
   "search_names": {
@@ -177,32 +177,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ククイ」",
+      "source": "Wikipedia (ja): ククイ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AF%E3%82%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109574357,
       "text": "ククイ あるいはククイノキは、トウダイグサ科の樹木である。学名 Aleurites moluccanus。キャンドルナット 、クミリ 、トゥイトゥイ も呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Aleurites moluccanus」",
+      "source": "Wikipedia (en): Aleurites moluccanus",
       "source_url": "https://en.wikipedia.org/wiki/Aleurites_moluccanus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369309329,
       "text": "Aleurites moluccanus, commonly known as candlenut, Indian walnut or, in Hawaii, kukui, is a tree in the spurge family Euphorbiaceae. It grows to about 30 m (98 ft) tall and produces drupe fruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Aleurites moluccanus",
+      "source_url": "https://es.wikipedia.org/wiki/Aleurites_moluccanus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175136403,
+      "text": "Aleurites moluccanus, nuez de la India, árbol candil o kukui, es un árbol del sur de Asia del que se obtiene un aceite que es usado como barniz. Pertenece al género Aleurites, familia Euphorbiaceae, subfamilia Crotonoideae. Su fruto, conocido como nuez de la India, se promueve falsamente como un medicamento para bajar de peso, pero es altamente tóxico y potencialmente mortal."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Aleurites moluccanus",
+      "source_url": "https://fr.wikipedia.org/wiki/Aleurites_moluccanus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236746636,
+      "text": "Aleurites moluccanus, aussi appelé bancoulier, est une espèce de plantes à fleurs de la famille des Euphorbiaceae. C'est un arbre originaire de zones tropicales indo-malaisiennes et introduite il y a quelques millénaires dans les îles du Pacifique. Ces derniers siècles, l’espèce a été mise en culture dans un grand nombre de pays tropicaux où elle a pu se naturaliser."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Nogueira-de-iguape",
+      "source_url": "https://pt.wikipedia.org/wiki/Nogueira-de-iguape",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67679182,
+      "text": "Nogueira de Iguape é uma árvore ornamental, que tem folhagem ornamental. Ela pode crescer até 12 m e também possui 8 m de diâmetro na sua copa cujas folhas são grandes, semi-caducas e também possuem o a face inferior prateada. É muito conhecida pelas suas flores brancas, que aparecem entre os meses de outubro a novembro. A produção de frutos normalmente inicia-se em novembro e permanece até janeiro."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kemiri",
+      "source_url": "https://id.wikipedia.org/wiki/Kemiri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29905332,
+      "text": "Kemiri adalah tumbuhan yang bijinya dimanfaatkan sebagai sumber minyak dan rempah-rempah. Tumbuhan ini masih sekerabat dengan singkong dan termasuk dalam famili Euphorbiaceae."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Aleurites moluccanus」の節「Toxicity」",
+        "source": "Wikipedia (en): Aleurites moluccanus § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Aleurites_moluccanus#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369309329,
         "heading": "Toxicity",
         "text": "Because the seeds contain saponin, phorbol, and toxalbumins, they are mildly toxic when raw, inducing a laxative effect. Heat treatment reduces the toxicity of the protein component.",
@@ -227,7 +263,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -300,7 +336,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/338514-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -308,7 +344,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/338514-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000940858.webp",
@@ -321,6 +357,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

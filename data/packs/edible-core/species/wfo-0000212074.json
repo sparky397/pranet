@@ -24,20 +24,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "バルサモ"
-    ],
-    "en": [
-      "balsam of Tolu"
-    ],
-    "zh": [
-      "香脂豆",
-      "秘鲁胶树",
-      "吐鲁胶豆",
-      "吐鲁香树"
     ],
     "ca": [
       "bàlsam del Perú"
@@ -54,6 +45,12 @@
     "fi": [
       "rohtobalsami"
     ],
+    "zh": [
+      "吐鲁香树",
+      "香脂豆",
+      "秘鲁胶树",
+      "吐鲁胶豆"
+    ],
     "ar": [
       "طاليسفر"
     ],
@@ -62,13 +59,16 @@
     ],
     "ppl": [
       "Kwawit ne Balsamoj"
+    ],
+    "en": [
+      "balsam of Tolu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15290525",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15290525",
   "search_names": {
@@ -78,22 +78,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「バルサモ」",
+      "source": "Wikipedia (ja): バルサモ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%82%B5%E3%83%A2",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107696414,
       "text": "バルサモ は、中南米原産のマメ科の常緑高木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Myroxylon balsamum」",
+      "source": "Wikipedia (en): Myroxylon balsamum",
       "source_url": "https://en.wikipedia.org/wiki/Myroxylon_balsamum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1331011073,
       "text": "Myroxylon balsamum, is a species of tree in the family Fabaceae. It is known by the common name Santos mahogany or Cabrueva. It is native to tropical forests from Southern Mexico through the Amazon regions of Peru and Brazil at elevations of 200–690 metres (660–2,260 ft). Plants are found growing in well drained soil in evergreen humid forest."
+    },
+    "es": {
+      "source": "Wikipedia (es): Myroxylon balsamum",
+      "source_url": "https://es.wikipedia.org/wiki/Myroxylon_balsamum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 169289427,
+      "text": "Myroxylon balsamum (L.) Harms es una especie de árbol de la familia Fabaceae, se encuentra de forma natural en Mesoamérica y Suramérica. Junto con maquilishuat o apamate es el árbol nacional de El Salvador."
     }
   },
   "edible": {
@@ -107,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -153,7 +162,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/166483-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -161,7 +170,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/166483-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000212074.webp",
@@ -174,6 +183,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 322,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

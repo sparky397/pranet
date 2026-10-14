@@ -15,9 +15,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "es": [
+      "Yushania alpina"
+    ],
     "sv": [
       "Yushania alpina"
     ],
@@ -41,18 +44,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q19820357",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q19820357",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Oldeania alpina」",
+      "source": "Wikipedia (en): Oldeania alpina",
       "source_url": "https://en.wikipedia.org/wiki/Oldeania_alpina",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1292508098,
       "text": "Oldeania alpina, the African alpine bamboo, is a perennial bamboo of the family Poaceae and the genus Oldeania. It can be found growing in dense but not large stands on the mountains and volcanoes surrounding the East African Rift between 2,500 meters and 3,300 meters elevation."
+    },
+    "es": {
+      "source": "Wikipedia (es): Yushania alpina",
+      "source_url": "https://es.wikipedia.org/wiki/Yushania_alpina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 153836525,
+      "text": "Yushania alpina es una planta perenne de bambú perteneciente al género Yushania que crece formando rodales en las montañas y volcanes que rodean el Rift de África oriental entre las altitudes de 2.500 y 3.300 metros."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Oldeania alpina",
+      "source_url": "https://fr.wikipedia.org/wiki/Oldeania_alpina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231984909,
+      "text": "Oldeania alpina, le bambou creux, est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Bambusoideae, originaire d'Afrique tropicale. C'est l'unique espèce du genre Oldeania"
     }
   },
   "edible": {
@@ -68,7 +89,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -89,7 +110,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77131105-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bamboo",
@@ -97,7 +118,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77131105-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001336675.webp",
@@ -110,6 +131,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

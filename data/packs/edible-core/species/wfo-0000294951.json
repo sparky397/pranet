@@ -14,21 +14,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "West African piassava palm"
-    ],
-    "zh": [
-      "酒椰",
-      "象鼻棕"
-    ],
     "hsb": [
       "Wšědna winowa palma"
     ],
     "lt": [
       "Vyninė rafija"
+    ],
+    "zh": [
+      "酒椰",
+      "象鼻棕"
     ],
     "bg": [
       "Африканска винена палма"
@@ -50,13 +47,16 @@
     ],
     "zu": [
       "Umvuma"
+    ],
+    "en": [
+      "West African piassava palm"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q163473",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q163473",
   "search_names": {
@@ -68,13 +68,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Raphia vinifera」",
+      "source": "Wikipedia (en): Raphia vinifera",
       "source_url": "https://en.wikipedia.org/wiki/Raphia_vinifera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368157147,
       "text": "Raphia vinifera, the West African piassava palm, bamboo palm or West African bass fibre is a palm tree species in the genus Raphia. It is native to Benin, Gambia, Ghana, Nigeria, Togo, Central African Republic, Cameroon, and Democratic Republic of the Congo. It is particularly abundant along the creeks of Niger Delta, Cross River, Lagos and Ikorodu in Nigeria."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Raphia vinifera",
+      "source_url": "https://fr.wikipedia.org/wiki/Raphia_vinifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231208527,
+      "text": "Raphia vinifera est une espèce de plantes de la famille des Arecaceae et du genre Raphia."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Raphia vinifera",
+      "source_url": "https://pt.wikipedia.org/wiki/Raphia_vinifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70527587,
+      "text": "Raphia vinifera, a Palma da África Ocidental piassava,"
+    },
+    "id": {
+      "source": "Wikipedia (id): Raphia vinifera",
+      "source_url": "https://id.wikipedia.org/wiki/Raphia_vinifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29242181,
+      "text": "Raphia vinifera, atau palem piassava Afrika Barat, palem bambu atau serat bass Afrika Barat adalah spesies pohon palem dalam genus Raphia. Tanaman ini asli dari Benin, Gambia, Ghana, Nigeria, Togo, Republik Afrika Tengah, Kamerun, dan Republik Demokratik Kongo. Tanaman ini sangat melimpah di sepanjang anak sungai Delta Niger, Cross River, Lagos dan Ikorodu di Nigeria."
     }
   },
   "edible": {
@@ -88,7 +115,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -101,7 +128,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/669541-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -109,7 +136,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/669541-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000294951.webp",
@@ -122,6 +149,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

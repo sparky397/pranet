@@ -24,77 +24,27 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "en": [
       "Bitter orange",
       "sour orange"
     ],
-    "ca": [
-      "Taronger agre"
-    ],
-    "ch": [
-      "Kahet"
-    ],
-    "de": [
-      "Bitterorange",
-      "Pomeranze"
-    ],
-    "el": [
-      "Νερατζιά",
-      "Νεραντζιά"
-    ],
-    "eo": [
-      "Bigaradujo"
-    ],
-    "fi": [
-      "hapanappelsiini",
-      "Pomeranssi"
-    ],
     "fr": [
       "Bigaradier"
     ],
-    "nl": [
-      "Zure sinaasappel"
+    "pt": [
+      "Laranja-azeda"
     ],
-    "nb": [
-      "Pomerans"
-    ],
-    "pl": [
-      "Pomarańcza gorzka"
-    ],
-    "sc": [
-      "Aranzu"
-    ],
-    "si": [
-      "පැණි දොඩම්"
-    ],
-    "tr": [
-      "Turunç"
-    ],
-    "zh": [
-      "酸橙",
-      "枳实",
-      "常山胡柚",
-      "黄果皮(橙子皮)",
-      "橙叶",
-      "玳玳花",
-      "代代酸橙（代代花、玳玳花）",
-      "橙皮",
-      "积壳",
-      "甜橙（橙，柑）",
-      "橙",
-      "苦橙"
-    ],
-    "ast": [
-      "naranxal amarga"
-    ],
-    "sl": [
-      "grenki pomarančevec"
+    "id": [
+      "Jeruk pahit"
     ],
     "bo": [
       "ཚ་ལུ་མ་སྐྱུར་མོ།"
+    ],
+    "pl": [
+      "pomarańcza gorzka"
     ],
     "udm": [
       "Померанец"
@@ -120,8 +70,9 @@
     "ps": [
       "نارنج"
     ],
-    "id": [
-      "Jeruk pahit"
+    "de": [
+      "Bitterorange",
+      "Pomeranze"
     ],
     "ja": [
       "ダイダイ"
@@ -131,6 +82,13 @@
     ],
     "vi": [
       "cam đắng"
+    ],
+    "el": [
+      "Νεραντζιά",
+      "Νερατζιά"
+    ],
+    "sc": [
+      "Aranzu"
     ],
     "koi": [
       "Померанец"
@@ -144,11 +102,24 @@
     "sv": [
       "Pomerans"
     ],
-    "pt": [
-      "Laranja-azeda"
+    "nl": [
+      "zure sinaasappel"
+    ],
+    "eo": [
+      "Bigaradujo"
     ],
     "ru": [
       "Померанец"
+    ],
+    "tr": [
+      "turunç"
+    ],
+    "ca": [
+      "taronger agre"
+    ],
+    "fi": [
+      "pomeranssi",
+      "hapanappelsiini"
     ],
     "uk": [
       "Померанець"
@@ -164,6 +135,9 @@
     ],
     "te": [
       "చేదు నారింజ"
+    ],
+    "ch": [
+      "Kahet"
     ],
     "kv": [
       "Померанец"
@@ -183,11 +157,28 @@
     "kk": [
       "Бигарадия"
     ],
+    "zh": [
+      "苦橙",
+      "酸橙",
+      "枳实",
+      "常山胡柚",
+      "黄果皮(橙子皮)",
+      "橙叶",
+      "玳玳花",
+      "代代酸橙（代代花、玳玳花）",
+      "橙皮",
+      "积壳",
+      "甜橙（橙，柑）",
+      "橙"
+    ],
     "ta": [
       "நரந்தம்"
     ],
     "sco": [
       "bitter oranger"
+    ],
+    "nb": [
+      "Pomerans"
     ],
     "az": [
       "Narınc"
@@ -261,6 +252,9 @@
     "kn": [
       "ಹೇರಳೆಕಾಯಿ"
     ],
+    "sl": [
+      "grenki pomarančevec"
+    ],
     "os": [
       "Померанец"
     ],
@@ -284,13 +278,19 @@
     ],
     "be": [
       "памяранец"
+    ],
+    "si": [
+      "පැණි දොඩම්"
+    ],
+    "ast": [
+      "naranxal amarga"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q147096",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q147096",
   "search_names": {
@@ -309,13 +309,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Bitter orange」",
+      "source": "Wikipedia (en): Bitter orange",
       "source_url": "https://en.wikipedia.org/wiki/Bitter_orange",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368703094,
       "text": "The bitter orange, sour orange, Seville orange, bigarade orange, or marmalade orange is the hybrid citrus tree species Citrus × aurantium, and its fruit. It is native to Southeast Asia and has been spread by humans to many parts of the world. It is a cross between the pomelo, Citrus maxima, and the wild type mandarin orange, Citrus reticulata. The bitter orange is used to make essential oil, used in foods, drinks, and pharmaceuticals. The Seville orange is prized for making British orange marmalade."
+    },
+    "es": {
+      "source": "Wikipedia (es): Citrus × aurantium",
+      "source_url": "https://es.wikipedia.org/wiki/Citrus_%C3%97_aurantium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173984553,
+      "text": "El naranjo agrio, también llamado naranjo amargo, es un árbol cítrico de la familia de las Rutáceas. Es un híbrido entre Citrus maxima y Citrus reticulata. Muchas variedades de naranja amarga se usan por su aceite esencial para perfumes, saborizantes y como medicina. La fruta es conocida también por los nombres de naranja mateca, naranja agria, naranja bigarade, naranja andaluza, naranja de Sevilla, naranja cajera, naranja cachorreña y en Paraguay y noreste de Argentina apepú. Se lo utiliza como portainjerto de otras especies cítricas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bigaradier",
+      "source_url": "https://fr.wikipedia.org/wiki/Bigaradier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237732608,
+      "text": "Le bigaradier, oranger amer ou oranger de Séville (Citrus aurantium L., 1753) est une espèce d'arbres de la famille des rutacées (agrumes). Le fruit — la bigarade ou orange amère — les feuilles, les rameaux et la fleur parfumés ont de nombreuses applications pharmaceutiques, alimentaires et en parfumerie, c'est également un porte-greffe pour d'autres agrumes et un arbre décoratif."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Laranja-azeda",
+      "source_url": "https://pt.wikipedia.org/wiki/Laranja-azeda",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72084259,
+      "text": "A laranja-azeda, laranja-da-terra ou laranja-kunzite[carece de fontes]? é uma espécie de citrino da família Rutaceae. Contém vitamina C, minerais como o potássio e fibras alimentares como a pectina."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jeruk pahit",
+      "source_url": "https://id.wikipedia.org/wiki/Jeruk_pahit",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29837807,
+      "text": "Jeruk pahit merupakan salah satu tumbuhan berbunga anggota genus Citrus dari famili Rutaceae. Anggotanya berbentuk pohon dengan buah yang berdaging dengan rasa masam yang segar, meskipun banyak di antara anggotanya yang memiliki rasa manis. Buah ini biasanya digunakan untuk minyak asiri, parfum, dan minuman."
     }
   },
   "edible": {
@@ -332,7 +368,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [],
@@ -428,7 +464,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/59600-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -436,7 +472,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/59600-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000607909.webp",
@@ -449,6 +485,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

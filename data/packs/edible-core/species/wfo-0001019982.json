@@ -14,93 +14,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "トウガラシ",
       "唐辛子"
-    ],
-    "cy": [
-      "pupryn melys"
-    ],
-    "en": [
-      "cayenne pepper",
-      "pepper"
-    ],
-    "bar": [
-      "Paprika",
-      "Peperóni"
-    ],
-    "bg": [
-      "Пипер"
-    ],
-    "de": [
-      "Paprika"
-    ],
-    "el": [
-      "Πιπεριά"
-    ],
-    "es": [
-      "Ají",
-      "Chile",
-      "Pimiento morrón"
-    ],
-    "fi": [
-      "paprika",
-      "ruokapaprika"
-    ],
-    "fr": [
-      "Piment"
-    ],
-    "frr": [
-      "Paprika",
-      "Spoonsk pöber"
-    ],
-    "mk": [
-      "Пиперка"
-    ],
-    "ml": [
-      "മുളക്",
-      "വറ്റൽ മുളക്"
-    ],
-    "nl": [
-      "Paprika",
-      "Spaanse peper"
-    ],
-    "pt": [
-      "Pimentão",
-      "pimento"
-    ],
-    "ro": [
-      "Ardei"
-    ],
-    "sv": [
-      "Spanskpeppar"
-    ],
-    "th": [
-      "พริกชี้ฟ้า"
-    ],
-    "zh": [
-      "辣椒",
-      "辣椒头",
-      "辣椒叶",
-      "辣椒（小米辣）",
-      "小米辣",
-      "野生小米辣",
-      "米椒",
-      "朝天椒（变种）",
-      "簇生椒",
-      "辣椒茎",
-      "指天椒"
-    ],
-    "ru": [
-      "перец овощной",
-      "перец стручковый",
-      "стручковый перец"
-    ],
-    "cs": [
-      "paprika setá"
     ],
     "ar": [
       "فليفلة حولية"
@@ -110,6 +29,13 @@
     ],
     "ba": [
       "Ҡыҙыл борос"
+    ],
+    "bar": [
+      "Peperóni",
+      "Paprika"
+    ],
+    "bg": [
+      "пипер"
     ],
     "bs": [
       "Paprika"
@@ -125,6 +51,10 @@
     ],
     "eu": [
       "Piper"
+    ],
+    "fi": [
+      "paprika",
+      "ruokapaprika"
     ],
     "he": [
       "פלפל"
@@ -147,8 +77,17 @@
     "pl": [
       "papryka roczna"
     ],
+    "pt": [
+      "pimento",
+      "Pimentão"
+    ],
     "qu": [
       "Wata uchu"
+    ],
+    "ru": [
+      "стручковый перец",
+      "перец овощной",
+      "перец стручковый"
     ],
     "sc": [
       "Piberone"
@@ -162,11 +101,27 @@
     "sq": [
       "Speci"
     ],
+    "sv": [
+      "Spanskpeppar"
+    ],
     "uk": [
       "Стручковий перець звичайний"
     ],
     "za": [
       "lwgmanh"
+    ],
+    "zh": [
+      "辣椒",
+      "辣椒头",
+      "辣椒叶",
+      "辣椒（小米辣）",
+      "小米辣",
+      "野生小米辣",
+      "米椒",
+      "朝天椒（变种）",
+      "簇生椒",
+      "辣椒茎",
+      "指天椒"
     ],
     "ku": [
       "Hîçhar"
@@ -180,8 +135,16 @@
     "ms": [
       "Cili besar"
     ],
+    "frr": [
+      "Paprika",
+      "Spoonsk pöber"
+    ],
     "id": [
       "Paprika"
+    ],
+    "ml": [
+      "വറ്റൽ മുളക്",
+      "മുളക്"
     ],
     "uz": [
       "Shirin qalampir"
@@ -194,6 +157,9 @@
     ],
     "rw": [
       "Puwavuro"
+    ],
+    "cs": [
+      "paprika setá"
     ],
     "yue": [
       "番椒"
@@ -215,6 +181,9 @@
     ],
     "te": [
       "కాప్సికం ఆనం"
+    ],
+    "cy": [
+      "Pupryn melys"
     ],
     "ta": [
       "சீமை மிளகாய்"
@@ -243,6 +212,9 @@
     "sat": [
       "ᱢᱟᱹᱨᱤᱪ"
     ],
+    "el": [
+      "πιπεριά"
+    ],
     "ha": [
       "barkono"
     ],
@@ -263,6 +235,9 @@
     ],
     "nia": [
       "Bua Lada"
+    ],
+    "mk": [
+      "пиперка"
     ],
     "kus": [
       "Nanzʋ'ʋs"
@@ -293,47 +268,119 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇၽိတ်ႉ"
+    ],
+    "en": [
+      "cayenne pepper",
+      "pepper"
+    ],
+    "de": [
+      "Paprika"
+    ],
+    "es": [
+      "Ají",
+      "Chile",
+      "Pimiento morrón"
+    ],
+    "fr": [
+      "Piment"
+    ],
+    "nl": [
+      "Paprika",
+      "Spaanse peper"
+    ],
+    "ro": [
+      "Ardei"
+    ],
+    "th": [
+      "พริกชี้ฟ้า"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1380",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1380",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「トウガラシ」",
+      "source": "Wikipedia (ja): トウガラシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%82%AC%E3%83%A9%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110651436,
       "text": "トウガラシ は、ナス科トウガラシ属の多年草または低木（日本など温帯では一年草）。また、その果実のこと。メキシコ原産（南米アンデス地方という説もある）。果実は、辛味のある香辛料（唐辛子）または野菜として食用にされる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Capsicum annuum」",
+      "source": "Wikipedia (en): Capsicum annuum",
       "source_url": "https://en.wikipedia.org/wiki/Capsicum_annuum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375091647,
       "text": "Capsicum annuum is a flowering plant in the family Solanaceae (nightshades), native to the northern regions of South America and to southwestern North America. The plant produces berries of many colors including red, green, and yellow, often with pungent taste. It is one of the oldest cultivated crops, with domestication dating back to around 6,000 years ago in regions of Mexico. The genus Capsicum has over 30 species but Capsicum annuum is the primary species in its genus, as it has been widely cultivated for human consumption for a substantial amount of time and has spread across the world. This species has many uses in culinary and ornamental applications."
+    },
+    "es": {
+      "source": "Wikipedia (es): Capsicum annuum",
+      "source_url": "https://es.wikipedia.org/wiki/Capsicum_annuum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175375974,
+      "text": "Capsicum annuum, llamado comúnmente pimiento morrón, pimiento dulce, chile morrón, ají morrón, ají dulce, locote o en algunos países pimentón, entre una multitud de localismos, es la especie más conocida, extendida y cultivada del género Capsicum, de la familia de las solanáceas. Todas las innumerables formas, tamaños, colores y sabores de sus frutos, descritos y nombrados en la cultura popular, corresponden en realidad a esta misma especie. Los mismos nombres se utilizan también para el fruto de esta especie vegetal."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Capsicum annuum",
+      "source_url": "https://fr.wikipedia.org/wiki/Capsicum_annuum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234186079,
+      "text": "Capsicum annuum est une espèce de plantes dicotylédones de la famille des Solanacées, originaire d'une région allant de la Colombie au sud des États-Unis."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Capsicum annuum",
+      "source_url": "https://pt.wikipedia.org/wiki/Capsicum_annuum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71870619,
+      "text": "Capsicum annuum é uma espécie de planta do género Capsicum nativa da América."
+    },
+    "id": {
+      "source": "Wikipedia (id): Capsicum annuum",
+      "source_url": "https://id.wikipedia.org/wiki/Capsicum_annuum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29139218,
+      "text": "Capsicum annuum adalah spesies dari genus tanaman Capsicum asli ke Amerika Utara bagian selatan dan Amerika Selatan bagian utara. Spesies ini adalah yang paling umum dan dibudidayakan secara luas dari lima capsicum peliharaan."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「トウガラシ」の節「栽培」",
+        "source": "Wikipedia (ja): トウガラシ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%82%AC%E3%83%A9%E3%82%B7#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110651436,
         "heading": "栽培",
         "text": "露地栽培では、ふつう春に種をまき、夏から秋にかけて果実を収穫する。高温性があり、栽培適温は25 - 30度、夜間は15度以上、地温は25度前後とされる。生育後期は低温に対して強さがあり、晩秋ごろまで生育する。過湿には弱く、根はピーマンよりも繊細であることから、排水性がよい土壌での栽培に適している。一般には、完熟した果実を収穫して、雨の当たらない風通しのよいところに吊して乾燥させてから利用する。未熟果は青トウガラシとして爽やかな辛みを楽しむことができる。\n苗作りは育苗箱に1 cm間隔で種をまき、日中20 - 30度、夜間は15度以上に保温養生して発芽させ、本葉が1枚出たころに育苗ポットに移植して、本葉8 - 9枚ぐらいになるまで育苗する。畑は元肥に堆肥などを十分にすき込んで畝をつくり、地温を上げるために黒色ポリフィルムなどでマルチングをして、初期育成の促進に役立てる。苗の植え付けは、畝のマルチに穴を開けて45 cm前後の間隔で行い、早めに支柱を立てて倒伏防止をはかる。定植後の半月後に最初の追肥を行い、以後は15 - 20日ごとに畝の周囲の土に肥料を混ぜ込んで土寄せを行う。植え付けから45日後くらいに収穫期が始まり、葉トウガラシにするときは果実が4 - 5&nbso;cmくらいになったころに株ごと引き抜いて、葉もむしり取って利用する。成熟果は、開花後50 - 60日後がたつと実が赤く熟する。株ごと引き抜いて収穫し、軒下などに吊して乾果にしたら随時利用できる。",
         "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Capsicum annuum § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Capsicum_annuum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175789912,
+        "heading": "Cultivo",
+        "text": "Para el cultivo es necesaria una temperatura ambiente media de 20 °C, sin demasiados cambios bruscos y con una tasa de humedad no demasiado alta. Requiere gran cantidad de luz, sobre todo durante el primer período de crecimiento después de la germinación.\nSe puede cultivar en cualquier tipo de suelo con humedad. El suelo ideal es el que posee buen drenaje, con presencia de arenas y materia orgánica. Todos estos requerimientos hacen que sean cultivados en invernaderos, donde el manejo de las condiciones exteriores son más controlables.\n\n■ Densidad de plantación\nNormalmente el cultivo se dispone en líneas orientadas Norte-Sur, y con un marco de plantación de 1 m entre líneas y 0,5 m entre plantas dentro de una línea, con una densidad de plantación de dos plantas por metro cuadrado. Según el número de tallos por planta, se puede variar la densidad de plantación hasta tres plantas por metro cuadrado.​ \n\n■ Poda\nEn la poda de formación, se efectúa la supresión parcial de algunas ramas secundarias, con lo cual intentamos concentrar la producción en dos o tres ramificaciones casi exclusivamente, favoreciendo la ventilación y la calidad de los frutos. Aunque la planta de pimiento crece inicialmente con un único tallo, pronto se bifurca para formar dos e incluso tres tallos, y continúa produciéndolos a lo largo de todo su ciclo. Con la poda de formación, se efectúa la supresión parcial de ramas secundarias, con lo que concentramos la producción en dos o tres ramificaciones. La limpieza de tallos del tronco principal por debajo de la cruz de la planta no es práctica habitual.",
+        "truncated": true
       }
     }
   },
@@ -351,7 +398,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -507,7 +554,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316944-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual, subshrub or shrub",
@@ -515,7 +562,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316944-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001019982.webp",
@@ -528,6 +575,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 323,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

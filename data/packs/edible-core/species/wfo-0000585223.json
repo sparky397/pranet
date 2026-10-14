@@ -23,12 +23,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "African caper"
-    ],
     "ar": [
       "قبار لبدي"
     ],
@@ -43,24 +40,51 @@
     ],
     "dag": [
       "Sansaŋwa"
+    ],
+    "en": [
+      "African caper"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5036130",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5036130",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Capparis tomentosa」",
+      "source": "Wikipedia (en): Capparis tomentosa",
       "source_url": "https://en.wikipedia.org/wiki/Capparis_tomentosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1321366737,
       "text": "Capparis tomentosa, the woolly caper bush or African caper, is a plant in the family Capparaceae and is native to Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Capparis tomentosa",
+      "source_url": "https://es.wikipedia.org/wiki/Capparis_tomentosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175533917,
+      "text": "Capparis tomentosa es una planta de la familia Capparaceae nativa de África."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Capparis tomentosa § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Capparis_tomentosa#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175533917,
+        "heading": "Toxicidad",
+        "text": "Las hojas son tóxicas para el ganado,​​ y se ha establecido que contienen un fitosterol y un dipéptido que intoxican al ganado.​ Sin embargo, se ha reportado que el fruto a veces es comido por la gente.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -80,7 +104,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -130,7 +154,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/146824-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling shrub or tree",
@@ -138,7 +162,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/146824-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000585223.webp",
@@ -151,6 +175,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

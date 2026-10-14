@@ -12,25 +12,25 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "火殃勒",
-      "玛玉大戟",
-      "霸王鞭",
-      "金刚钻",
-      "火殃簕",
-      "火秧竻",
-      "金刚纂",
-      "火秧竻叶",
-      "火秧竻蕊"
-    ],
     "te": [
       "బొంత జెముడు"
     ],
     "th": [
       "สลัดได"
+    ],
+    "zh": [
+      "火殃簕",
+      "火殃勒",
+      "玛玉大戟",
+      "霸王鞭",
+      "金刚钻",
+      "火秧竻",
+      "金刚纂",
+      "火秧竻叶",
+      "火秧竻蕊"
     ],
     "ml": [
       "ചതുരക്കള്ളി"
@@ -73,18 +73,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q419654",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q419654",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Euphorbia antiquorum」",
+      "source": "Wikipedia (en): Euphorbia antiquorum",
       "source_url": "https://en.wikipedia.org/wiki/Euphorbia_antiquorum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1379128308,
       "text": "Euphorbia antiquorum, known as antique spurge and \"Euphorbia of the Ancients\", is a species of succulent plant in the family Euphorbiaceae. It is widespread throughout peninsular India, but its wild origin is obscure. Escaped or naturalized and widely cultivated in neighbouring regions, such as Burma, China, Bangladesh, India, Indonesia, Iran, Malaysia, Myanmar, Pakistan, Thailand, the Philippines, Sri Lanka, and Vietnam, and in many tropical zones worldwide."
+    },
+    "es": {
+      "source": "Wikipedia (es): Euphorbia antiquorum",
+      "source_url": "https://es.wikipedia.org/wiki/Euphorbia_antiquorum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174623207,
+      "text": "El euforbio malayo, daluke o sesudu es un arbusto de la familia de las euforbiáceas que crece en las zonas cálidas del sur de Asia y Sri Lanka."
     }
   },
   "edible": {
@@ -100,7 +109,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -127,7 +136,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/345613-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent tree",
@@ -135,7 +144,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/345613-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000960724.webp",
@@ -148,6 +157,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

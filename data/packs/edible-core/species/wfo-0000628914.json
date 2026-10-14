@@ -111,27 +111,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "メロン"
     ],
-    "cy": [
+    "fr": [
+      "Melon (plante)",
       "melon"
     ],
-    "en": [
-      "melon"
+    "pt": [
+      "Melão"
     ],
-    "nl": [
-      "Meloen"
-    ],
-    "cs": [
-      "meloun cukrový"
-    ],
-    "fi": [
-      "herkkumeloni",
-      "meloni"
+    "id": [
+      "Melon"
     ],
     "zh": [
       "甜瓜",
@@ -148,9 +142,6 @@
       "酱瓜",
       "越瓜",
       "甜瓜花"
-    ],
-    "sl": [
-      "melona"
     ],
     "bo": [
       "ཀུབ་མངར།"
@@ -188,11 +179,11 @@
     "sv": [
       "Melon"
     ],
+    "nl": [
+      "meloen"
+    ],
     "kaa": [
       "Qawın"
-    ],
-    "pt": [
-      "Melão"
     ],
     "eo": [
       "Melono"
@@ -208,6 +199,10 @@
     ],
     "tr": [
       "Kavun"
+    ],
+    "fi": [
+      "meloni",
+      "herkkumeloni"
     ],
     "uk": [
       "Диня"
@@ -230,9 +225,6 @@
     "ko": [
       "멜론"
     ],
-    "fr": [
-      "melon"
-    ],
     "he": [
       "מלון"
     ],
@@ -241,9 +233,6 @@
     ],
     "gl": [
       "Melón"
-    ],
-    "id": [
-      "Melon"
     ],
     "de": [
       "Zuckermelone"
@@ -280,6 +269,9 @@
     ],
     "ca": [
       "melonera"
+    ],
+    "cs": [
+      "meloun cukrový"
     ],
     "bg": [
       "пъпеш"
@@ -359,6 +351,9 @@
     "frr": [
       "Sokermeloon"
     ],
+    "cy": [
+      "Melon"
+    ],
     "te": [
       "ఖర్బూజా"
     ],
@@ -416,6 +411,9 @@
     "yo": [
       "Egunsi"
     ],
+    "sl": [
+      "melona"
+    ],
     "guc": [
       "Meruuna"
     ],
@@ -451,13 +449,16 @@
     ],
     "shn": [
       "မၢၵ်ႇတႅင်ႁွမ်"
+    ],
+    "en": [
+      "melon"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q81602",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q81602",
   "search_names": {
@@ -475,47 +476,105 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「メロン」",
+      "source": "Wikipedia (ja): メロン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AD%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110436650,
       "text": "メロン は、果実を食用にするウリ科の一年生草本植物。また、その果物・果実のことである。漢字では甜瓜（てんか）と呼び、これはメロンを指す場合があるほかメロンの変種の一つであるマクワウリを指す場合もある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cucumis melo」",
+      "source": "Wikipedia (en): Cucumis melo",
       "source_url": "https://en.wikipedia.org/wiki/Cucumis_melo",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376161327,
       "text": "Cucumis melo, also known as melon or true melon, is a species of Cucumis that has been developed into many cultivated varieties. The fruit is a pepo. The flesh is either sweet or bland, with or without an aroma, and the rind can be smooth, ribbed, wrinkled or netted. The species is sometimes referred to as muskmelon. However, there is no consensus about the usage of this term, as it can also be used as a specific name for the musky netted-rind American cantaloupe, or as a generic name for any sweet-flesh variety such the inodorous smooth-rind honeydew melon."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cucumis melo",
+      "source_url": "https://es.wikipedia.org/wiki/Cucumis_melo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174379052,
+      "text": "Cucumis melo, llamado comúnmente melón, es una especie de la familia de las cucurbitáceas. Domesticada hace más de cuatro mil años en la región mediterránea oriental y Asia occidental, el origen exacto de la especie silvestre es aún desconocido. Su dilatado cultivo en domesticación ha dado origen a numerosas variedades cuya producción se extiende por todas las regiones cálidas de la mayor parte del mundo con veranos secos y calurosos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Melon (plante)",
+      "source_url": "https://fr.wikipedia.org/wiki/Melon_(plante)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239959382,
+      "text": "Le melon est une espèce de plantes à fleurs de la famille des Cucurbitacées. C'est une plante herbacée annuelle, originaire d'Afrique intertropicale, et largement cultivée comme plante potagère pour son fruit comestible. La tige n'est pas volubile mais la plante peut grimper en s'accrochant à des supports grâce à des vrilles simples. Des mutants sont connus à entre-nœuds courts. Les feuilles sont généralement entières assez arrondies, parfois assez fortement découpées. Le terme désigne aussi le fruit climactérique lui-même très savoureux, sucré et parfumé."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Melão",
+      "source_url": "https://pt.wikipedia.org/wiki/Mel%C3%A3o",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72858377,
+      "text": "Melão é uma fruta provavelmente nativa do Oriente Médio. Existem inúmeras variedades cultivadas em regiões semiáridas de todo o mundo, todas apresentando frutos mais ou menos esféricos, com casca espessa e polpa carnosa e suculenta, com muitas sementes achatadas no centro. A cor e a textura da casca, bem como a cor e o sabor de sua polpa, variam de acordo com o cultivar."
+    },
+    "id": {
+      "source": "Wikipedia (id): Melon",
+      "source_url": "https://id.wikipedia.org/wiki/Melon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29325421,
+      "text": "Melon atau kerahi merupakan nama buah sekaligus tanaman yang menghasilkannya yang termasuk dalam famili labu-labuan atau Cucurbitaceae. Buahnya bisa dimakan segar sebagai buah meja atau diiris-iris sebagai campuran es buah. Bagian yang dimakan adalah daging buah (mesokarp). Teksturnya lunak, berwarna putih, kuning sampai merah, tergantung kultivarnya. Rasanya cenderung manis tawar"
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「メロン」の節「栽培」",
+        "source": "Wikipedia (ja): メロン § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AD%E3%83%B3#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110436650,
         "heading": "栽培",
         "text": "春に種をまき、晩春に植え付け、初夏から盛夏にかけて収穫する果実的野菜である。野菜類のうちでは最も高温性で、栽培適温は昼間28 - 30度、夜温18 - 20度、15度以下では生育困難になるといわれている。日照を大変好む性質のため、日当たりのよい場所で作付けしないと栽培は難しい。連作障害もあり、これを防ぐためには接ぎ木苗を使わない場合で3 - 4年は畑を休める必要が出てくる。畑は前作が終わったときにできるだけ早く石灰をまいて良く耕して準備し、植え付けの2週間くらい前に溝を掘って元肥を入れて埋めて、畝をつくる。畝全体を黒色ポリフィルムで覆ってマルチングすることにより地温を上げたり、フィルム保温により作柄が安定するようになる。つるを地面に這わせる地ばい栽培と、支柱を立てて栽培する支柱立て栽培がある。\n種は育苗ポットに3粒ほどまいて、地温25度前後を目安に保温して発芽させ、本葉1枚のころに間引いて1本仕立てにし、本葉4 - 5枚になったときが仕上がり苗となる。定植は、苗を75 cm以上の間隔で畝に植え付けるようにする。\n地ばい栽培の場合では、親づるの本葉5 - 6枚で摘心し、葉わきから子づるを伸ばしていくが、一番根元の子づるは摘み取る。伸ばした子づるは本葉10 - 12枚で摘心し、孫づるの発生を促す。小果品種では子づるを3本伸ばし、ネット系などの大果品種では2本仕立てにするのが基本になる。果実になる雌花は孫づるにつくので、親づると子づるの摘心によって整枝し、よい孫づるを伸ばすことがよい果実をつくるポイントとなる。支柱立て栽培の場合では、畝に2条植え付けて、子づるの10-15節目から発生した孫づるの1節目の雌花に着果させる。主枝は本葉25枚までに摘心し、果実がついた先の枝のほうは摘心する。メロンは雌雄異花であり、開花日に雄花の葯を雌花の柱頭になするつけるように人工授粉させることにより、着果を確実なものにすることができる。着果10 - 14日後、予定数の形のよいものだけを残すようにして、他は摘果する。1株あたりの着果の目安は、ふつう小果品種で7 - 8個、大果品種で1株4 - 5個ほどである。着果後は畝の両側に追肥を行い、15 - 20日後に2回目の追肥も行う。また地ばい栽培では、着果後につるの下の畝に敷き藁をする。結実後、果実の糖度が高まり収穫できるようになるまでの日数は、品種と栽培時期によって異なる。果実の状態を見て収穫期を判断することもできるが、あらかじめ試し取りなどの方法でよく調べて、熟期を逃さないように収穫することが肝要になる。\n病虫害に、つる割病、べと病、うどんこ病にかかったり、アブラムシがつくことがある。十分な糖度のある実をならすためには、収穫期までに葉が健全であることも重要となる。病虫害が発生したら、早めに葉の表と裏面に薬剤を散布して防除する。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Cucumis melo」の節「Cultivation」",
+        "source": "Wikipedia (en): Cucumis melo § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Cucumis_melo#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1376161327,
         "heading": "Cultivation",
         "text": "The melon is an annual, trailing herb. It grows well in subtropical or warm, temperate climates. It can be found as a weed around sites of recently built airports in American Samoa.\nMelons prefer warm, well-fertilized soil with good drainage that is rich in nutrients, but are vulnerable to downy mildew and anthracnose. Disease risk is reduced by crop rotation with non-cucurbit crops, avoiding crops susceptible to similar diseases as melons. Cross pollination has resulted in some varieties developing resistance to powdery mildew. \nArthropod pest species attracted to melons include the cucumber beetle, Aphis gossypii, melonworm moth and the pickleworm.",
         "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Cucumis melo § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Cucumis_melo#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174379052,
+        "heading": "Cultivo",
+        "text": "Necesita por lo menos 15 °C para germinar; la siembra se hace durante el periodo libre de heladas y al aire libre, a mediados de primavera. Es importante que la semilla tenga niveles de humedad óptimos para que broten.​ El crecimiento de la planta no es verdaderamente activo hasta que se sobrepasan los 15 °C, situándose el óptimo hacia los 32 °C. Resiste la sequía mejor que el maíz. Es capaz de sufrir sequía durante un período bastante largo, y reemprender su crecimiento más adelante cuando cesa la sequía. Por otra parte, necesita menos cantidad de agua que el maíz para formar un kilogramo de materia seca.\nSe desarrolla bien en terrenos alcalinos, sobre todo las variedades azucaradas que exigen la presencia en el suelo de carbonato cálcico, lo que aumenta el contenido en sacarosa de tallos y hojas. Prefiere suelos sanos, profundos, no demasiado pesados y poco arcillosos, ya que la arcilla tiende a compactarse y empezar a dificultar el crecimiento de raíces.\nEs un mal precedente de otros cultivos, particularmente para los cereales de otoño y otras cucurbitáceas.\nAl regar debe evitarse que el agua toque las hojas, pues es fácil que la planta se pudra; por eso no se siembra en bancales y se prefiere hacer riego por surcos. También se puede cultivar en terrenos de secano e incluso los frutos pueden resultar más sabrosos, pero los rendimientos potenciales son menores. Es necesario hacer despulgue (raleo de hojas) para evitar que crezca muy vigorosa y produzca demasiadas flores masculinas y pocas femeninas, que van a originar los frutos. En invernadero se cultivan melones que producen precozmente. Estas plantas crecen verticalmente y se sostienen con la ayuda de cuerdas.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Melon (plante) § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Melon_(plante)#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239959382,
+        "heading": "Culture",
+        "text": "Le melon est une plante allogame qui se cultive aussi bien pour ses graines (consommées grillées ou utilisées pour leur huile comestible) que pour son faux-fruit, doux ou non doux (cas du melon serpent) qui s'emploie cru, cuit ou confit). Le semis en place ou en pots (les racines des cucurbitacées sont assez fragiles, rendant la transplantation à racines nues difficile) de deux ou trois graines, afin de sélectionner le meilleur plant, se fait tous les mètres car le melon a tendance à s'étaler. Il apprécie un emplacement chaud, ensoleillé et un sol bien fumé. En l'absence de fumier pour faciliter le développement, on pourra apporter un engrais riche en potassium (la 3e lettre de la formule standard NPK). Le melon est particulièrement sensible à la carence en calcium. La culture intensive en serre peut provoquer dans le fruit une vitrescence ou un cœur aqueux.\nPincer au-dessus des deux premières vraies feuilles. Puis, sur les deux tiges ainsi formées, repincer au-dessus de la 4e feuille. Pincer ensuite à trois feuilles après chaque melon. Ne conserver que trois à quatre fruits maximum par plant.\nVeiller également à supprimer les feuilles masquant les fleurs femelles, afin que les insectes pollinisateurs y accèdent.\n\nLorsque le melon commence à faire une certaine taille, on peut le poser sur une tuile ou un tapis de gravier pour le protéger de l'humidité du sol et de façon que ce support lui apporte un maximum de chaleur propice à la maturation du fruit.\nLe melon est mûr lorsque ses feuilles et son écorce commencent à jaunir et sa peau et son pédoncule à craqueler.\nIl y a quatre facteurs qui jouent sur la qualité d'un melon : variété, ensoleillement, irrigation et maturité du fruit le jour de la récolte.",
+        "truncated": true
       }
     }
   },
@@ -536,7 +595,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -714,7 +773,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/292238-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling annual",
@@ -722,7 +781,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/292238-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000628914.webp",
@@ -735,6 +794,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

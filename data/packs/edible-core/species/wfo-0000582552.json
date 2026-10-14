@@ -22,9 +22,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "pl": [
+      "Kamelia olejodajna"
+    ],
+    "ru": [
+      "Камелия масличная"
+    ],
+    "ja": [
+      "ユチャ"
+    ],
     "zh": [
       "油茶",
       "油茶油",
@@ -36,15 +45,6 @@
       "油茶花",
       "茶油粑",
       "茶枯"
-    ],
-    "pl": [
-      "Kamelia olejodajna"
-    ],
-    "ru": [
-      "Камелия масличная"
-    ],
-    "ja": [
-      "ユチャ"
     ],
     "bg": [
       "маслинова камелия"
@@ -69,7 +69,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2498293",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2498293",
   "search_names": {
@@ -79,13 +79,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Camellia oleifera」",
+      "source": "Wikipedia (en): Camellia oleifera",
       "source_url": "https://en.wikipedia.org/wiki/Camellia_oleifera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355411024,
       "text": "Camellia oleifera, which originated in China, is notable as an important source of edible oil obtained from its seeds. It is commonly known as the oil-seed camellia or tea oil camellia, though to a lesser extent other species of camellia are used in oil production too."
+    },
+    "es": {
+      "source": "Wikipedia (es): Camellia oleifera",
+      "source_url": "https://es.wikipedia.org/wiki/Camellia_oleifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 149988406,
+      "text": "Camellia oleifera es una especie de planta perteneciente a la familia de las teáceas. Es originaria de China, se destaca como una importante fuente para la obtención de aceite comestible obtenidos a partir de sus semillas. Es comúnmente conocido como el aceite de semillas de camelia, té de aceite de camelia, o Lu Shan Snow Camellia, aunque en menor medida otras especies de camelia se utilizan también en la producción de aceite."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Camellia oleifera",
+      "source_url": "https://fr.wikipedia.org/wiki/Camellia_oleifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232415653,
+      "text": "Camellia oleifera est une espèce de plantes à fleurs de la famille de Theaceae. C'est un arbuste probablement originaire du Sud-Ouest de la Chine, à l'instar du théier. Il est principalement connu pour l'huile comestible que l'on tire de ses graines. On l'appelle oil-seed camellia ou tea oil camellia en anglais. Dans une moindre mesure, d'autres espèces de camélias sont aussi utilisées pour la production d'huile."
+    },
+    "id": {
+      "source": "Wikipedia (id): Camellia oleifera",
+      "source_url": "https://id.wikipedia.org/wiki/Camellia_oleifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29467584,
+      "text": "Camellia oleifera, yang berasal dari Cina, terkenal sebagai sumber penting minyak nabati yang diperoleh dari bijinya. Tumbuhan ini umumnya dikenal sebagai Camellia penghasil minyak atau Camellia minyak teh, meskipun spesies Camellia lainnya juga digunakan dalam produksi minyak dalam jumlah yang lebih sedikit."
     }
   },
   "edible": {
@@ -98,7 +125,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -116,7 +143,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828535-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -124,7 +151,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828535-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000582552.webp",
@@ -137,6 +164,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 315,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -21,26 +21,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アカギ"
     ],
-    "en": [
-      "Javanese bishopwood"
-    ],
-    "zh": [
-      "茄冬",
-      "秋枫",
-      "重阳木",
-      "茄苳",
-      "秋枫木",
-      "秋枫木叶"
-    ],
-    "pt": [
-      "biscófia",
-      "cedro-de-java"
+    "id": [
+      "Pepolo",
+      "Gadog"
     ],
     "ml": [
       "ചോലവേങ്ങ"
@@ -48,8 +37,13 @@
     "to": [
       "Koka"
     ],
-    "id": [
-      "Gadog"
+    "zh": [
+      "秋枫",
+      "茄冬",
+      "重阳木",
+      "茄苳",
+      "秋枫木",
+      "秋枫木叶"
     ],
     "kn": [
       "ನೀಲಿ"
@@ -95,13 +89,20 @@
     ],
     "shn": [
       "တူၼ်ႈမႆႉၶူမ်ၽၢတ်ႇ"
+    ],
+    "en": [
+      "Javanese bishopwood"
+    ],
+    "pt": [
+      "biscófia",
+      "cedro-de-java"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q8248272",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q8248272",
   "search_names": {
@@ -111,22 +112,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アカギ」",
+      "source": "Wikipedia (ja): アカギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110539548,
       "text": "アカギ は、コミカンソウ科の常緑高木あるいは半落葉性の高木である。別名カタン。琉球ではアカン、アカツグ、ミミジンなどとよばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Bischofia javanica」",
+      "source": "Wikipedia (en): Bischofia javanica",
       "source_url": "https://en.wikipedia.org/wiki/Bischofia_javanica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375447495,
       "text": "Bischofia javanica, or bishop wood, is a plant species of the family Phyllanthaceae. It and the related Bischofia polycarpa are the only two members of genus Bischofia and tribe Bischofieae. These species are distributed throughout southern and southeast Asia to Australia and Polynesia also in North America. The tree is commonly used by tigers to scratch-mark territory in the jungles of Assam where it is locally called uriam. They also occur in southwestern, central, eastern, and southern China, and also Taiwan, where the indigenous people consider it a sacred tree."
+    },
+    "es": {
+      "source": "Wikipedia (es): Bischofia javanica",
+      "source_url": "https://es.wikipedia.org/wiki/Bischofia_javanica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157033217,
+      "text": "Bischofia javanica es una especie de planta de flores perteneciente a la familia Phyllanthaceae. Con la especie B. polycarpa son los dos únicos miembros del género (Bischofia) y de la tribu (Bischofieae). Se distribuyen por el sur y sudeste de Asia hasta Australia y Polinesia. También se encuentra en China."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pepolo",
+      "source_url": "https://id.wikipedia.org/wiki/Pepolo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29866306,
+      "text": "Pepolo, sikkam, gintung, gadog atau kerinjing adalah sejenis pohon dari famili Phyllanthaceae. Pohon ini menyebar luas mulai dari India di barat, Jepang selatan di utara, ke selatan hingga ke Kepulauan Nusantara dan ke timur hingga ke Australia dan Pasifik. Nama-nama daerahnya antara lain sikam, singkam, cingkam ; tingkeuëm (Acèh); tingkeum (Gayo); kerinjing, geronjing (Mly.); bintungan (Mink.); gintungan, gintung, gĕntung, gelintungan (Jw.); gadog, ki maung (Sd.); marintĕk, kayawu (Minh.); simamo."
     }
   },
   "edible": {
@@ -146,7 +165,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -201,7 +220,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/339921-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -209,7 +228,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/339921-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000342237.webp",
@@ -222,6 +241,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

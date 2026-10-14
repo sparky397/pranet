@@ -28,17 +28,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "northern spicebush",
-      "spicebush"
-    ],
-    "zh": [
-      "北美山胡椒",
-      "北方山胡椒"
-    ],
     "da": [
       "Feberbusk"
     ],
@@ -47,13 +39,21 @@
     ],
     "ar": [
       "جاوي"
+    ],
+    "en": [
+      "northern spicebush",
+      "spicebush"
+    ],
+    "zh": [
+      "北美山胡椒",
+      "北方山胡椒"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3024124",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3024124",
   "search_names": {
@@ -65,23 +65,41 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Lindera benzoin」",
+      "source": "Wikipedia (en): Lindera benzoin",
       "source_url": "https://en.wikipedia.org/wiki/Lindera_benzoin",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378900131,
       "text": "Lindera benzoin is a shrub in the laurel family. It is native to eastern North America, growing in the understory in moist, rich woods."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lindera benzoin",
+      "source_url": "https://es.wikipedia.org/wiki/Lindera_benzoin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 133496040,
+      "text": "Lindera benzoin, es una planta perteneciente a la familia Lauraceae, nativa del este de Norteamérica, desde Maine y Ontario, en el norte, a Kansas, Texas, y el norte de Florida."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lindera benzoin",
+      "source_url": "https://fr.wikipedia.org/wiki/Lindera_benzoin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 215881392,
+      "text": "Lindera benzoin est une espèce de plantes à fleurs de la famille des Lauracées. C'est un arbuste originaire d'Amérique du Nord."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Lindera benzoin」の節「Cultivation」",
+        "source": "Wikipedia (en): Lindera benzoin § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Lindera_benzoin#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378900131,
         "heading": "Cultivation",
         "text": "Spicebush is often cultivated in gardens or edges of gardens. The brightly colored fruits and early flowers along with the spherical growth form make the plant desirable in gardens. It is hardy in USDA zones 4–9 and tolerates shade excellently but will also grow in full sun. When grown in sun the plant tends to grow denser and have more berries and flowers compared to growing in shade or partial shade. It is best to grow the plant from seed as its extensive rootsystem does not handle transplanting well.  At least three cultivars have been developed although they are rarely available:\n\n'Rubra' has brick red male flowers, the winter buds are also a darker red brown color. Since it is male it produces no fruit.\n'Xanthocarpa,' which has yellow-orange fruits, was discovered in Arnold Arboretum in 1967 by Alfred Fordham.\n'Green gold' a male, non-fruiting cultivar with larger ornamental flowers.\nAlthough several butterflies and moths used spicebush as a host, they are not considered serious pests.",
@@ -100,7 +118,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -142,7 +160,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/140503-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -150,7 +168,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/140503-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001071106.webp",
@@ -163,6 +181,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

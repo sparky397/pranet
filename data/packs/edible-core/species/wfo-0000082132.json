@@ -70,51 +70,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オナモミ"
     ],
-    "de": [
-      "Gewöhnliche Spitzklette",
-      "Gemeine Spitzklette"
-    ],
-    "en": [
-      "rough cocklebur",
-      "Canada cockleburr",
-      "Cockle bur",
-      "Rough cockleburr",
-      "Spiny cockleburr",
-      "cocklebur",
-      "kikania"
-    ],
-    "zh": [
-      "蒼耳",
-      "羊帶來",
-      "苍耳",
-      "欧洲苍耳",
-      "苍耳子",
-      "胭木",
-      "蒙古苍耳（大苍耳）",
-      "苍耳(苍耳草)",
-      "蒙古苍耳",
-      "苍耳根",
-      "苍耳花",
-      "苍耳草"
-    ],
-    "nl": [
-      "Late stekelnoot"
-    ],
-    "cs": [
-      "řepeň durkoman"
-    ],
     "fr": [
-      "lampourde glouteron"
-    ],
-    "fi": [
-      "vaaleasappiruoho",
-      "karheasappiruoho"
+      "Lampourde glouteron"
     ],
     "pl": [
       "Rzepień pospolity"
@@ -134,11 +97,22 @@
     "ca": [
       "llepassa"
     ],
+    "fi": [
+      "karheasappiruoho",
+      "vaaleasappiruoho"
+    ],
     "uk": [
       "Нетреба звичайна"
     ],
+    "de": [
+      "Gewöhnliche Spitzklette",
+      "Gemeine Spitzklette"
+    ],
     "ml": [
       "അരിഷ്ട"
+    ],
+    "cs": [
+      "řepeň durkoman"
     ],
     "fa": [
       "توق"
@@ -154,6 +128,20 @@
     ],
     "ka": [
       "ღორის ბირკა"
+    ],
+    "zh": [
+      "苍耳",
+      "蒼耳",
+      "羊帶來",
+      "欧洲苍耳",
+      "苍耳子",
+      "胭木",
+      "蒙古苍耳（大苍耳）",
+      "苍耳(苍耳草)",
+      "蒙古苍耳",
+      "苍耳根",
+      "苍耳花",
+      "苍耳草"
     ],
     "kbd": [
       "Банэдэгу"
@@ -229,13 +217,25 @@
     ],
     "mzn": [
       "مستک"
+    ],
+    "en": [
+      "rough cocklebur",
+      "Canada cockleburr",
+      "Cockle bur",
+      "Rough cockleburr",
+      "Spiny cockleburr",
+      "cocklebur",
+      "kikania"
+    ],
+    "nl": [
+      "Late stekelnoot"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q857159",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q857159",
   "search_names": {
@@ -252,22 +252,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オナモミ」",
+      "source": "Wikipedia (ja): オナモミ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8A%E3%83%A2%E3%83%9F",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108115768,
       "text": "オナモミ は、キク科オナモミ属の一年草。アジア大陸原産。果実に多数の棘（とげ）があるのでよく知られている。また同属のオオオナモミやイガオナモミなども果実が同じような形をしており、一般に混同されている。日本では外来種オオオナモミの存在で2007年の環境省第3次レッドリストに指定されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Xanthium strumarium」",
+      "source": "Wikipedia (en): Xanthium strumarium",
       "source_url": "https://en.wikipedia.org/wiki/Xanthium_strumarium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371723744,
       "text": "Xanthium strumarium is a species of annual plants in the flowering plant family Asteraceae. Some sources claim it originates in southern Europe and Asia, but has been extensively naturalized elsewhere. Others, such as the Flora of China and Flora of North America, state it originates in the Americas but was an early introduction to Eurasia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Xanthium strumarium",
+      "source_url": "https://es.wikipedia.org/wiki/Xanthium_strumarium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171715012,
+      "text": "La bardana común es una especie de planta herbácea de la familia de las asteráceas, nativa de América del Norte y alóctona en Europa y Asia. Prolifera en campos, cunetas, guijarrales junto a los cauces y riberas; en general, en zonas degradadas pero húmedas de zonas cálidas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lampourde glouteron",
+      "source_url": "https://fr.wikipedia.org/wiki/Lampourde_glouteron",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238982564,
+      "text": "Xanthium strumarium L., la lampourde glouteron ou lampourde commune, est une espèce de plante à fleurs de la famille des Astéracées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Xanthium strumarium",
+      "source_url": "https://pt.wikipedia.org/wiki/Xanthium_strumarium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71351007,
+      "text": "Bardana-menor é uma espécie de planta com flor pertencente à família Asteraceae."
     }
   },
   "edible": {
@@ -279,7 +306,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -379,7 +406,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/260893-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -387,7 +414,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/260893-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000082132.webp",
@@ -400,6 +427,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

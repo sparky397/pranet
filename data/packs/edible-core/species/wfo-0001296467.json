@@ -25,27 +25,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "myrobalan"
-    ],
-    "zh": [
-      "毗黎勒",
-      "三果木皮",
-      "毗黎勒（毛诃子）",
-      "毛诃子"
-    ],
-    "pa": [
-      "ਬਹੇੜਾ"
-    ],
-    "pnb": [
-      "بہیڑا"
-    ],
-    "sd": [
-      "ٻَهيڙو",
-      "ٻهيڙو"
+    "id": [
+      "Jelawai"
     ],
     "dv": [
       "ބުރޮޅި"
@@ -95,11 +79,23 @@
     "vi": [
       "Bàng hôi"
     ],
+    "zh": [
+      "毗黎勒",
+      "三果木皮",
+      "毗黎勒（毛诃子）",
+      "毛诃子"
+    ],
+    "pa": [
+      "ਬਹੇੜਾ"
+    ],
     "si": [
       "බුලු"
     ],
     "kn": [
       "ಶಾಂತಿಮರ"
+    ],
+    "pnb": [
+      "بہیڑا"
     ],
     "as": [
       "ভোমোৰা (বৃক্ষ)"
@@ -110,35 +106,48 @@
     "fa": [
       "بلیله"
     ],
+    "sd": [
+      "ٻهيڙو",
+      "ٻَهيڙو"
+    ],
     "ja": [
       "セイタカミロバラン"
     ],
     "ar": [
       "بليلج"
     ],
-    "id": [
-      "Jelawai"
-    ],
     "shn": [
       "တူၼ်ႈမႆႉႁႅၼ်"
+    ],
+    "en": [
+      "myrobalan"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1983629",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1983629",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Terminalia bellirica」",
+      "source": "Wikipedia (en): Terminalia bellirica",
       "source_url": "https://en.wikipedia.org/wiki/Terminalia_bellirica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1322381681,
       "text": "Terminalia bellirica, known as bahera, beleric or bastard myrobalan, is a large deciduous tree in the family Combretaceae. It is common on the plains and lower hills in South and Southeast Asia, where it is also grown as an avenue tree. The basionym is Myrobalanus bellirica Gaertn.. William Roxburgh transferred M. bellirica to Terminalia as \"T. bellerica (Gaertn.) Roxb.\". This spelling error is now widely used, causing confusion. The correct name is Terminalia bellirica (Gaertn.) Roxb."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jelawai",
+      "source_url": "https://id.wikipedia.org/wiki/Jelawai",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29668764,
+      "text": "Jelawai, atau juga dikenal sebagai Jaha kebo baheda, bahera, behada, juwo atau joho, Persia بلیله (Balileh), Sanskerta: Vibhītaka बिभीतक, अक्ष) अ ya अक्ष) adalah pohon peluruh besar dalam famili Combretaceae. Tanaman ini umum ditemukan di dataran dan perbukitan rendah di Asia Selatan dan Tenggara, di mana pohon ini juga ditanam sebagai pohon jalan raya. Di Indonesia, biji dari tanaman ini dikenal sebagai pewarna batik."
     }
   },
   "edible": {
@@ -153,7 +162,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -186,7 +195,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/170982-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -194,7 +203,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/170982-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001296467.webp",
@@ -207,6 +216,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

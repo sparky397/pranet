@@ -14,15 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "African mahogany"
-    ],
-    "fr": [
-      "Savanna Doussié"
-    ],
     "et": [
       "Aafrika afseelia"
     ],
@@ -49,13 +43,19 @@
     ],
     "ja": [
       "オレンジストーンナッツ"
+    ],
+    "en": [
+      "African mahogany"
+    ],
+    "fr": [
+      "Savanna Doussié"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q146260",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q146260",
   "search_names": {
@@ -68,13 +68,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Afzelia africana」",
+      "source": "Wikipedia (en): Afzelia africana",
       "source_url": "https://en.wikipedia.org/wiki/Afzelia_africana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1344111428,
       "text": "Afzelia africana, the African mahogany, afzelia, lenke, lengue, apa, or doussi, is a Myrmecophyte tree species in the family Fabaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Afzelia africana",
+      "source_url": "https://es.wikipedia.org/wiki/Afzelia_africana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 154857173,
+      "text": "Afzelia africana es una especie de árbol de la familia de las fabáceas. Se encuentran en Benín, Burkina Faso, Camerún, República Centroafricana, Chad, la República Democrática del Congo, Costa de Marfil, Ghana, Guinea, Guinea-Bisáu, Malí, Níger, Nigeria, Senegal, Sierra Leona, Sudán, Togo y Uganda. Su nombre comercial más usado es Doussie, el nombre procede de Camerún y abarca a varias Afzelias madereras."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Afzelia africana",
+      "source_url": "https://fr.wikipedia.org/wiki/Afzelia_africana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223352845,
+      "text": "Afzelia africana est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un arbre originaire d'Afrique."
     }
   },
   "edible": {
@@ -94,7 +112,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -126,7 +144,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/473043-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -134,7 +152,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/473043-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000213207.webp",
@@ -147,6 +165,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 292,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

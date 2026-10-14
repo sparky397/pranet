@@ -10,9 +10,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "et": [
+      "honduurase mänd"
+    ],
     "es": [
       "Ocote Chino",
       "Pino Chino",
@@ -29,16 +32,13 @@
     "zh": [
       "卵果松",
       "印果松"
-    ],
-    "et": [
-      "honduurase mänd"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2744076",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2744076",
   "search_names": {
@@ -51,13 +51,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pinus oocarpa」",
+      "source": "Wikipedia (en): Pinus oocarpa",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_oocarpa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375588258,
       "text": "Pinus oocarpa is a species of conifer in the family Pinaceae, a pine tree native to Mexico and Central America. It is the national tree of Honduras, where it is known as ocote. Common names include ocote chino, pino amarillo, pino avellano, Mexican yellow pine, egg-cone pine and hazelnut pine. It appears that it was the progenitor (original) species that served as the ancestor for some of the other pines of Mexico."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus oocarpa",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_oocarpa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166843137,
+      "text": "Pinus oocarpa , conocido como pino amarillo o pino avellano, es una especie de pino nativo de Centroamérica. Representa el árbol nacional de Honduras."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pinus oocarpa",
+      "source_url": "https://fr.wikipedia.org/wiki/Pinus_oocarpa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208077969,
+      "text": "Pinus oocarpa est une espèce de conifères de la famille des Pinaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus oocarpa",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_oocarpa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205934,
+      "text": "Pinus oocarpa é uma espécie de pinheiro originária do Novo Mundo. Faz parte do grupo de espécies de pinheiros com área de distribuição na América Central, Caraíbas, México, sul do Arizona e Novo México."
     }
   },
   "edible": {
@@ -72,7 +99,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -91,7 +118,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/314959-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -99,7 +126,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/314959-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000481733.webp",
@@ -112,6 +139,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 378,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

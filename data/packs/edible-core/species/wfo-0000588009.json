@@ -40,7 +40,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -50,15 +50,16 @@
       "Papaya",
       "papaya"
     ],
+    "fr": [
+      "Papayer"
+    ],
+    "id": [
+      "Pepaya",
+      "pepaya"
+    ],
     "zh": [
       "番木瓜",
       "番木瓜叶"
-    ],
-    "sl": [
-      "papaja"
-    ],
-    "ast": [
-      "papayal"
     ],
     "bo": [
       "སེ་ཡབ།"
@@ -210,9 +211,6 @@
     "gl": [
       "Papaio"
     ],
-    "id": [
-      "pepaya"
-    ],
     "de": [
       "Papaya"
     ],
@@ -302,6 +300,9 @@
     ],
     "pnb": [
       "پپیتا"
+    ],
+    "sl": [
+      "papaja"
     ],
     "sco": [
       "Papaya"
@@ -506,13 +507,16 @@
     ],
     "kaj": [
       "A̱ka̱mbvut"
+    ],
+    "ast": [
+      "papayal"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q34887",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q34887",
   "search_names": {
@@ -530,56 +534,114 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「パパイア」",
+      "source": "Wikipedia (ja): パパイア",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%91%E3%82%A4%E3%82%A2",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111313040,
       "text": "スクロース、インフルエンザ は、アブラナ目パパイア科パパイア属の常緑小高木、またはその果実である。別名「チチウリ（乳瓜）」「モッカ／モクカ（木瓜）」などとよばれることもある。園芸学会での正式呼称は「パパイア」だが、農業界では「パパイヤ」を正式呼称とするため、農薬登録名は「パパイヤ」となる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Papaya」",
+      "source": "Wikipedia (en): Papaya",
       "source_url": "https://en.wikipedia.org/wiki/Papaya",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375091436,
       "text": "The papaya is the plant species Carica papaya, one of the 3 accepted species in the genus Carica of the family Caricaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Carica papaya",
+      "source_url": "https://es.wikipedia.org/wiki/Carica_papaya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175120160,
+      "text": "Carica papaya es la papaya herbácea del género Carica en la familia Caricaceae. Su fruto se conoce comúnmente como papaya, papayón, fruta bomba, olocotón, papayo, mamón o lechosa.[cita requerida]"
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Papayer",
+      "source_url": "https://fr.wikipedia.org/wiki/Papayer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239505755,
+      "text": "Le papayer est un arbre fruitier à feuillage persistant des régions tropicales humides et sous-humides cultivé pour son fruit, la papaye. Il est originaire du Sud du Mexique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Carica papaya",
+      "source_url": "https://pt.wikipedia.org/wiki/Carica_papaya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72518949,
+      "text": "Carica papaya L. é uma espécie de fruteira tropical que produz os frutos conhecidos pelos nomes comerciais de papaia ou ababaia (Brasil), ou mamão. Carica papaya é, na actual circunscrição taxonómica do género Carica, a única espécie deste género monotípico, embora a família Caricaceae inclua várias espécies similares, algumas da quais produzindo frutos conhecidos pelos mesmos nomes comuns ou nomes similares. A espécie é nativa das regiões tropicais das Américas, provavelmente da região sul do México e regiões adjacentes da América Central. Terá sido inicialmente cultivada no sul do México[carece de fontes]? vários séculos antes da emergência das civilizações clássicas mesoamericanas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pepaya",
+      "source_url": "https://id.wikipedia.org/wiki/Pepaya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29908178,
+      "text": "Pepaya atau betik adalah tumbuhan yang diperkirakan berasal dari Meksiko bagian selatan dan bagian utara dari Amerika Selatan. Pepaya kini telah menyebar luas dan banyak ditanam di seluruh daerah tropis untuk diambil buahnya. C. papaya adalah satu-satunya jenis dalam genus Carica. Dalam bahasa Jawa pepaya disebut katès dan dalam bahasa Sunda, Rejang, dan Bali disebut gedang."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「パパイア」の節「栽培」",
+        "source": "Wikipedia (ja): パパイア § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%91%E3%82%A4%E3%82%A2#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111313040,
         "heading": "栽培",
         "text": "パパイアの種を蒔くと簡単に発芽するので、観葉植物として楽しむことが出来る。ただし、発芽にある程度の温度が必要なので、日本本土では5月頃に蒔くのがよい。また苗木でも実生苗でも結実まで1-2年かかる。雌雄異株なので、結実を目指すのなら数株育てる必要がある。雌花開花後に雄花の花粉を受粉させれば果実が育つ。また、温度によっては両性花がつくこともある。この場合は1株でも果実が得られる。\n近年は樹高が1m程度の矮生種も開発されているので、条件さえ揃えば植木鉢等で結実させることも可能である。\nまたハダニや線虫の害を受けるが、薬剤に弱いので薬剤の散布は避けなければならない。\n現在主流のFI両性品種の場合、同一品種内に両性と雌性が混在する。単体で栽培した場合両性は自家受粉により着果する。雌性は単為結果により着果しその場合種無しの果実となる。相対的に雌性は丸い果実に、両性は長い果実が実る。\n2012年頃より日本本土での野菜栽培が活発に行われ始める。きっかけは「獣害による被害が無い」「目立った病害虫が無い」栽培の容易性と、野菜としての果実に含まれる酵素成分に注目が集まったからである。また家庭園芸向けや営利栽培向けにパパイヤ苗を取り扱う店舗が増え、本州でも4月中旬に苗が販売されることで春定植-秋収穫の作型が提唱され広まった。\n青パパイヤ栽培はその珍しさもあってローカルニュースで取り上げられることも多く、地域活性化への特産品目としても注目を浴びている。ここ数年はより本州向きとされる早生性、より節間長の短い品種が多数紹介され、家庭菜園用にも「青パパイヤ苗」としホームセンターなどでも購入できるほど一般化しつつある。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Papaya」の節「Cultivation」",
+        "source": "Wikipedia (en): Papaya § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Papaya#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375091436,
         "heading": "Cultivation",
         "text": "Historical accounts from 18th-century travelers and botanists suggested that papaya seeds were transported from the Caribbean to Malacca and then to India. From Malacca or the Philippines, papaya spread throughout Asia and into the South Pacific region. Credit for introducing papaya to Hawaii is often given to Francisco de Paula Marín, a Spanish explorer and horticulturist, who brought it from the Marquesas Islands in the early 1800s. Since then, papaya cultivation has expanded to all tropical countries and many subtropical regions worldwide. Today, papaya is grown extensively across the globe, owing to its adaptability to various climates and its popularity as a tropical fruit.\nPapaya plants grow in three sexes: male, female, and hermaphrodite. The male produces only pollen, never fruit. The female produces small, inedible fruits unless pollinated. The hermaphrodite can self-pollinate since its flowers contain both male stamens and female ovaries. Almost all commercial papaya orchards contain only hermaphrodites.\nOriginally from southern Mexico (particularly Chiapas and Veracruz), Central America, northern South America, and southern Florida the papaya is now cultivated in most tropical countries. In cultivation, it grows rapidly, fruiting within three years. It is, however, highly frost-sensitive, limiting its production to tropical climates. Temperatures below −2 °C (29 °F) are greatly harmful, if not fatal. In Florida, California, and Texas, growth is generally limited to the southern parts of those states. It prefers sandy, well-drained soil, as standing water can kill the plant within 24 hours.\n\n■ Cultivars\nTwo kinds of papayas are commonly grown.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Papayer § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Papayer#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239505755,
+        "heading": "Culture",
+        "text": "Le papayer se cultive principalement dans les régions tropicales et subtropicales, entre les latitudes 32° Nord et 32° Sud. Il prospère sous des climats chauds et humides, avec des températures optimales comprises entre 21 et 33 °C. L'arbre ne supporte pas le gel et sa croissance ralentit considérablement en dessous de 15 °C.\nLa multiplication du papayer s'effectue généralement par semis en godets profonds. Les jeunes plants sont repiqués au champ lorsqu'ils atteignent 15 à 25 cm de hauteur (après 3 à 6 feuilles), généralement après 2 mois en pépinière. Le papayer développant une racine pivotante sensible, le repiquage doit être effectué avec précaution pour éviter d'endommager le système racinaire.\nLes graines peuvent être prélevées directement dans les fruits mûrs du commerce, après avoir été lavées et séchées. Elles conservent leur pouvoir germinatif pendant plusieurs mois si elles sont stockées au sec. La germination intervient en 2 à 3 semaines à une température de 25 à 30 °C. Toutefois, les plants issus de semis présentent une forte variabilité génétique et le sexe des fleurs ne peut être déterminé qu'à la floraison. En production commerciale, on privilégie donc les variétés sélectionnées et les plants issus de pépinières spécialisées.\nLe papayer nécessite un sol bien drainé, profond et riche en matière organique, avec un pH légèrement acide à neutre, idéalement entre 6 et 7. Les sols argileux lourds et mal drainés sont à éviter, car l'engorgement hydrique favorise le développement de maladies racinaires.\nLa plantation s'effectue généralement en début de saison des pluies. Les plants sont espacés de 2 à 3 mètres (selon les variétés) en tous sens pour permettre un développement optimal et faciliter les opérations culturales.",
+        "truncated": true
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Carica papaya § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Carica_papaya#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72518949,
+        "heading": "Cultivo",
+        "text": "Originalmente do sul do México e países vizinhos, é actualmente cultivada na maioria dos países tropicais e nos Estados Unidos, onde foi introduzido primeiramente na Flórida, Havai, Porto Rico, e nas Ilhas Virgens.\nO mamoeiro produz fruto o ano todo, porém, no Brasil, a safra geralmente ocorre nos meses de maio, junho, agosto e outubro.\nExistem diversas variedades de mamão e as mais conhecidas no Brasil são: mamão papaia, mamão formosa (um pouco maior e geralmente usado para fazer doces), mamão-da-baía, mamão-macho e mamão-da-índia.",
+        "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Papaya」の節「Toxicity」",
+        "source": "Wikipedia (en): Papaya § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Papaya#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375091436,
         "heading": "Toxicity",
         "text": "Papaya releases a latex fluid when not ripe, possibly causing irritation and an allergic reaction in some people. Because the enzyme papain acts as an allergen in sensitive individuals, meat that has been tenderized with it may induce an allergic reaction.",
@@ -710,7 +772,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30011248-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -718,7 +780,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30011248-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000588009.webp",
@@ -731,6 +793,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 283,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

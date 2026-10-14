@@ -8,14 +8,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "狭叶咖啡"
-    ],
     "et": [
       "ahtalehine kohvipuu"
+    ],
+    "zh": [
+      "狭叶咖啡"
     ],
     "ko": [
       "시에라리온고분지커피나무"
@@ -28,18 +28,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q672410",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q672410",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Coffea stenophylla」",
+      "source": "Wikipedia (en): Coffea stenophylla",
       "source_url": "https://en.wikipedia.org/wiki/Coffea_stenophylla",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1366480336,
       "text": "Coffea stenophylla, also known as highland coffee or Sierra Leone coffee, is a species of Coffea originating in West Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Coffea stenophylla",
+      "source_url": "https://es.wikipedia.org/wiki/Coffea_stenophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 154533373,
+      "text": "Coffea stenophylla, también conocido como café de las tierras altas o café de Sierra Leona, es una especie de Coffea originaria de África occidental."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Coffea stenophylla",
+      "source_url": "https://fr.wikipedia.org/wiki/Coffea_stenophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207944249,
+      "text": "Coffea stenophylla, également nommé  Highland Coffee ou « Café à petites feuilles et petits grains de l'Indénié[réf. nécessaire] », est une espèce de caféiers qui pousse au Sierra Leone, en Guinée et en Côte d'Ivoire à l’état sauvage, et qui a contribué à l'élaboration du caféier robusta, présent au XXIe siècle dans quatre tasses de café sur dix sur la planète."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Coffea stenophylla",
+      "source_url": "https://pt.wikipedia.org/wiki/Coffea_stenophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65163853,
+      "text": "Coffea stenophylla é uma espécie de Coffea originária da África Ocidental."
     }
   },
   "edible": {
@@ -55,7 +82,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -71,7 +98,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/747266-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -79,7 +106,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/747266-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000912372.webp",
@@ -92,6 +119,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -30,36 +30,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウノダイコン"
     ],
-    "de": [
-      "Acker-Rettich",
-      "Ackerrettich"
-    ],
-    "en": [
-      "wild radish"
-    ],
-    "cs": [
-      "ředkev ohnice"
-    ],
-    "nl": [
-      "knopherik"
-    ],
-    "fr": [
-      "ravenelle"
-    ],
-    "fi": [
-      "peltoretikka"
-    ],
     "zh": [
       "野萝卜"
-    ],
-    "sl": [
-      "njivska redkev"
     ],
     "pl": [
       "rzodkiew świrzepa"
@@ -79,11 +57,21 @@
     "ca": [
       "rave bord"
     ],
+    "fi": [
+      "peltoretikka"
+    ],
     "co": [
       "Armuraccia"
     ],
     "uk": [
       "Редька дика"
+    ],
+    "de": [
+      "Acker-Rettich",
+      "Ackerrettich"
+    ],
+    "cs": [
+      "ředkev ohnice"
     ],
     "ka": [
       "ბოლოკურა"
@@ -96,6 +84,9 @@
     ],
     "ar": [
       "فجل بري"
+    ],
+    "nl": [
+      "knopherik"
     ],
     "cy": [
       "Rhuddygl"
@@ -130,6 +121,9 @@
     "et": [
       "põldrõigas"
     ],
+    "sl": [
+      "njivska redkev"
+    ],
     "arz": [
       "فجل برى"
     ],
@@ -141,13 +135,19 @@
     ],
     "grc": [
       "ἀγρία ῥαφανός"
+    ],
+    "en": [
+      "wild radish"
+    ],
+    "fr": [
+      "ravenelle"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q28017",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q28017",
   "search_names": {
@@ -161,22 +161,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウノダイコン」",
+      "source": "Wikipedia (ja): セイヨウノダイコン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%8E%E3%83%80%E3%82%A4%E3%82%B3%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106365370,
       "text": "セイヨウノダイコン は、アブラナ科の被子植物の一つである。食用のダイコン Raphanus sativus の祖先と主張されることがある。アジア（あるいは一部の権威によれば地中海）原産で、世界のほとんどの地域に帰化しており、多くの地域（例えばオーストラリア）において有害な侵入種と見なされている。素早く広がり、道端などでしばしば見られる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Raphanus raphanistrum」",
+      "source": "Wikipedia (en): Raphanus raphanistrum",
       "source_url": "https://en.wikipedia.org/wiki/Raphanus_raphanistrum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372180236,
       "text": "Raphanus raphanistrum, also known as wild radish, white charlock or jointed charlock, is a flowering plant in the family Brassicaceae. The species is native to western Asia, Europe and parts of Northern Africa. It has been introduced into most parts of the world and is regarded as a habitat threatening invasive species in many areas, for example, Australia. It spreads rapidly and is often found growing on roadsides or in other places where the ground has been disturbed. The cultivated radish, widely used as a root vegetable, is sometimes considered to be one of its subspecies as Raphanus raphanistrum subsp. sativus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Raphanus raphanistrum",
+      "source_url": "https://es.wikipedia.org/wiki/Raphanus_raphanistrum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171665659,
+      "text": "La rabaniza, rabizón o rábano silvestre es una planta herbácea anual de la familia de las brasicáceas. Se la considera una de las posibles antepasadas del rábano doméstico."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Raphanus raphanistrum",
+      "source_url": "https://fr.wikipedia.org/wiki/Raphanus_raphanistrum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235900829,
+      "text": "La Ravenelle, Radis ravenelle ou Radis sauvage (Raphanus raphanistrum), est une espèce de plantes annuelles communes de la famille des Brassicaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Raphanus raphanistrum",
+      "source_url": "https://pt.wikipedia.org/wiki/Raphanus_raphanistrum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67981826,
+      "text": "Raphanus raphanistrum é uma espécie de planta com flor pertencente à família Brassicaceae com os nomes comuns de labrestos, saramago, ineixa, rapistro, rábano-bastardo e rábano-silvestre."
+    },
+    "id": {
+      "source": "Wikipedia (id): Raphanus raphanistrum",
+      "source_url": "https://id.wikipedia.org/wiki/Raphanus_raphanistrum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29960440,
+      "text": "Raphanus raphanistrum adalah tanaman berbunga di keluarga Brassicaceae. Kadang-kadang diklaim sebagai leluhur lobak yang dapat dimakan, Raphanus sativus. Berasal dari Asia barat, Eropa dan sebagian Afrika Utara. Ini telah diperkenalkan ke sebagian besar dunia dan dianggap sebagai habitat yang mengancam spesies invasif di banyak daerah, misalnya, Australia. Ini menyebar dengan cepat dan sering ditemukan tumbuh di tepi jalan atau di tempat-tempat lain di mana tanah telah terganggu."
     }
   },
   "edible": {
@@ -190,7 +226,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -438,7 +474,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/217826-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -446,7 +482,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/217826-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000402425.webp",
@@ -459,6 +495,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 353,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

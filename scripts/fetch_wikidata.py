@@ -16,7 +16,8 @@ from common import (http_get_json, load_json, log, read_species_list, save_json,
 
 API = "https://www.wikidata.org/w/api.php"
 SPARQL = "https://query.wikidata.org/sparql"
-LANGS = ["ja", "en"]  # 記事名と検索用の別名を取る言語（説明文を取る言語と合わせる）
+LANGS = ["ja", "en"]  # 検索用の別名を取る言語（索引に入るので増やしすぎない）
+WIKI_LANGS = ["ja", "en", "es", "fr", "pt", "id"]  # Wikipedia の記事名を取る言語（説明文を取る言語と合わせる）
 # 表示用の一般名は、Wikidata にある全言語を取る（言語を足すときに取り直さなくてよいように）
 
 
@@ -83,12 +84,13 @@ def common_names(entity: dict, scientific_name: str) -> tuple[dict[str, list[str
         if text.lower() not in seen:
             target.setdefault(lang, []).append(text)
 
+    # ラベル（その言語での主な呼び名）を先頭に、次に P1843（一般名。地方名が混じる）。先頭が画面の主表示になる
+    for lang, lab in entity.get("labels", {}).items():
+        add(names, lang, lab["value"])
     for cv in _claim_values(entity, "P1843"):
         v = cv["value"]
         if isinstance(v, dict) and v.get("language"):
             add(names, v["language"], v["text"])
-    for lang, lab in entity.get("labels", {}).items():
-        add(names, lang, lab["value"])
     for lang in LANGS:
         for al in entity.get("aliases", {}).get(lang, []):
             add(search, lang, al["value"])
@@ -110,7 +112,7 @@ def main(only: list[str] | None = None) -> None:
             save_json(work_path(sci, "wikidata"), {"qid": None, "found_by": how, "retrieved": today()})
             continue
         ent = get_entity(qid)
-        sitelinks = {lang: ent.get("sitelinks", {}).get(f"{lang}wiki", {}).get("title") for lang in LANGS}
+        sitelinks = {lang: ent.get("sitelinks", {}).get(f"{lang}wiki", {}).get("title") for lang in WIKI_LANGS}
         images = [cv["value"] for cv in _claim_values(ent, "P18")]
         names, search_names = common_names(ent, wfo["scientific_name"])
         out = {

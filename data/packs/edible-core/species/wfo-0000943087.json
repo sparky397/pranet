@@ -11,24 +11,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "網子椰子",
-      "白飓风椰",
-      "网子椰",
-      "白金椰",
-      "网子椰子"
+    "fr": [
+      "Palmiste blanc"
     ],
     "eo": [
       "Uragana palmo"
     ],
-    "fr": [
-      "Palmiste blanc"
-    ],
     "ar": [
       "ذو البذر الشبكي"
+    ],
+    "zh": [
+      "网子椰子",
+      "網子椰子",
+      "白飓风椰",
+      "网子椰",
+      "白金椰"
     ],
     "lv": [
       "Orkāna palma"
@@ -41,7 +41,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3141626",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3141626",
   "search_names": {
@@ -54,13 +54,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Dictyosperma」",
+      "source": "Wikipedia (en): Dictyosperma",
       "source_url": "https://en.wikipedia.org/wiki/Dictyosperma",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1123418222,
       "text": "Dictyosperma is a monotypic genus of flowering plant in the palm family found in the Mascarene Islands in the Indian Ocean. The sole species, Dictyosperma album, is widely cultivated in the tropics but has been farmed to near extinction in its native habitat. It is commonly called princess palm or hurricane palm, the latter owing to its ability to withstand strong winds by easily shedding leaves. It is closely related to, and resembles, palms in the genus Archontophoenix. The genus is named from two Greek words meaning \"net\" and \"seed\" and the epithet is Latin for \"white\", the common color of the crownshaft at the top of the trunk."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dictyosperma album",
+      "source_url": "https://es.wikipedia.org/wiki/Dictyosperma_album",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174248119,
+      "text": "Dictyosperma es un género monotípico de planta perteneciente a la familia de las palmeras (Arecaceae). Su única especie: Dictyosperma album, es nativa de las Mascareñas. Es comúnmente llamado palmera princesa o palmera huracán, el último debido a su capacidad para soportar los vientos fuertes porque se desprende fácilmente de las hojas. Está estrechamente relacionada y se asemeja, al género Archontophoenix."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Palmiste blanc",
+      "source_url": "https://fr.wikipedia.org/wiki/Palmiste_blanc",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227963826,
+      "text": "Le Palmiste blanc est une espèce de plantes à fleurs de la famille des Arécacées. C'est un palmier à grandes feuilles pennées, endémique des îles Mascareignes. Il peut atteindre plus de 20 m de hauteur. Il résiste particulièrement aux cyclones, d'où l'un de ses noms en anglais, Hurricane palm."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Dictyosperma",
+      "source_url": "https://pt.wikipedia.org/wiki/Dictyosperma",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67259014,
+      "text": "Dictyosperma é um género botânico pertencente à família Arecaceae."
     }
   },
   "edible": {
@@ -74,7 +101,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -88,7 +115,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/666678-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -96,7 +123,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/666678-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000943087.webp",
@@ -109,6 +136,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 347,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

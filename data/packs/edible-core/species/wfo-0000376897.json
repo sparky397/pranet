@@ -17,7 +17,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -27,15 +27,11 @@
       "Gac",
       "gac melon"
     ],
-    "zh": [
-      "木虌子",
-      "木鳖子",
-      "木鳖子根",
-      "木鳖子*(木鳖）",
-      "番木鳖",
-      "大叶木鳖子",
-      "木鳖",
-      "木鱉果"
+    "fr": [
+      "Gac"
+    ],
+    "id": [
+      "Tepurang"
     ],
     "pl": [
       "Przepękla indochińska"
@@ -52,9 +48,6 @@
     "th": [
       "ฟักข้าว"
     ],
-    "id": [
-      "Tepurang"
-    ],
     "mrj": [
       "Гак"
     ],
@@ -66,6 +59,16 @@
     ],
     "az": [
       "Koxinxin momordikası"
+    ],
+    "zh": [
+      "木鱉果",
+      "木虌子",
+      "木鳖子",
+      "木鳖子根",
+      "木鳖子*(木鳖）",
+      "番木鳖",
+      "大叶木鳖子",
+      "木鳖"
     ],
     "eo": [
       "Gako"
@@ -108,7 +111,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311079",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311079",
   "search_names": {
@@ -121,35 +124,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ナンバンカラスウリ」",
+      "source": "Wikipedia (ja): ナンバンカラスウリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%B3%E3%83%90%E3%83%B3%E3%82%AB%E3%83%A9%E3%82%B9%E3%82%A6%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110934195,
       "text": "ナンバンカラスウリ は、中国南部からオーストラリア北東部、タイ王国、ラオス、ミャンマー、カンボジア、ベトナムに分布するつる植物である。別名ナンバンキカラスウリ、モクベツシ（木鼈子）。ベトナム語の名称からガック とも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Gac」",
+      "source": "Wikipedia (en): Gac",
       "source_url": "https://en.wikipedia.org/wiki/Gac",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378679073,
       "text": "Gac, from the Vietnamese gấc, scientific name Momordica cochinchinensis, is a species of plant in the melon and cucumber family Cucurbitaceae native to countries throughout Southeast Asia and to Queensland, Australia. It is notable for its vivid orange-reddish color resulting from a mix of beta-carotene and lycopene."
+    },
+    "es": {
+      "source": "Wikipedia (es): Momordica cochinchinensis",
+      "source_url": "https://es.wikipedia.org/wiki/Momordica_cochinchinensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175334755,
+      "text": "Momordica cochinchinensis, nombre común gac, del vietnamita gấc, es una especie de planta de la familia Cucurbitaceae que es originaria de países del sudeste asiático y de Queensland, Australia. Destaca por su vivo color naranja rojizo resultante de su rico contenido en b-caroteno y licopeno."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Gac",
+      "source_url": "https://fr.wikipedia.org/wiki/Gac",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238411034,
+      "text": "Le gac, Momordica cochinchinensis, est une espèce de plantes à fleurs de la famille des Cucurbitaceae. Le fruit, également couramment appelé courge de Cochinchine, concombre amer, courge douce ou fruit du ciel, est un mets d'Asie du Sud que l'on trouve principalement dans les régions du Sud de la Chine mais aussi en Thaïlande, au Laos, en Birmanie, au Cambodge, au Vietnam ainsi qu'au Nord-Est de l'Australie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Momordica cochinchinensis",
+      "source_url": "https://pt.wikipedia.org/wiki/Momordica_cochinchinensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66898871,
+      "text": "Gấc [IPA ɣək̚˧˦] é uma trepadeira herbácea, um tipo de melão perene cultivado nos países do sudeste asiático e no nordeste da Austrália, incluindo Tailândia, Laos, Mianmar, Camboja e Vietnã. Gấc é conhecido por sua característica cor laranja-avermelhada viva resultante de seu rico conteúdo em beta-caroteno e licopeno."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tepurang",
+      "source_url": "https://id.wikipedia.org/wiki/Tepurang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28701233,
+      "text": "Tepurang atau pupia adalah sejenis tumbuhan buah anggota suku labu-labuan (Cucurbitaceae) yang berasal dari Asia Tenggara. Tumbuhan ini masih berkerabat dengan peria. Nama lainnya adalah pakurebu (Sulawesi), teruah atau torobuk. Di Vietnam ia dikenal sebagai gấc. Orang Cina mengenalnya sebagai mùbiēguǒ. Dalam bahasa Inggris disebut sebagai Gac, Baby Jackfruit, Spiny Bitter Gourd, Sweet Gourd, atau Cochinchin Gourd."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Gac」の節「Cultivation」",
+        "source": "Wikipedia (en): Gac § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Gac#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378679073,
         "heading": "Cultivation",
         "text": "As gac plant is dioecious, both male and female plants are needed; hence, farmers must have at least one corresponding male plant growing in or around the gardens for the fruit-bearing female plants to be pollinated. When grown from seed, the ratio of male to female plants is unpredictable.\nPollination may be facilitated by insects, but hand pollination allows for better fruit yield. An alternative method is to graft female material onto the main shoot of a male plant.\nFor maximum insect-aided pollination, the recommended ratio is about 1 male for every 10 female plants. If propagating from vines, farmers make diagonal cut (around 15–20 cm or 6–8 in long and 3–6 mm or 1⁄8–1⁄4 in wide), then root the tubers in water or well-aerated, moist potting media before planting.\nApart from Southeast Asian countries where the fruits are native, gac can be grown in sub-tropical climate regions. Cool temperatures inhibit growth.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Momordica cochinchinensis § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Momordica_cochinchinensis#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175334755,
+        "heading": "Cultivo",
+        "text": "Como el gac es dioica, se necesitan tanto plantas masculinas como femeninas; por lo tanto, los agricultores deben tener al menos una planta masculina correspondiente creciendo en o alrededor de los jardines para que las plantas femeninas frutales sean polinizadas. Cuando se cultiva a partir de semillas, la proporción de plantas masculinas y femeninas es impredecible. \nLos insectos pueden facilitar la polinización, pero la polinización manual permite un mejor rendimiento de frutos. Un método alternativo consiste en injertar material femenino en el brote principal de una planta masculina.​\nPara una polinización máxima asistida por insectos, la proporción recomendada es aproximadamente 1 macho por cada 10 plantas femeninas. Si se propaga a partir de vides, los agricultores hacen cortes diagonales (alrededor de 15 a 20 cm de largo y 3 a 6 mm de ancho), luego enraíce los tubérculos en agua o en un medio para macetas húmedo y bien aireado antes de plantar. \nAparte de los países del sudeste asiático donde los frutos son nativos, el gac se puede cultivar en regiones de clima subtropical. Las temperaturas frías inhiben el crecimiento.",
         "truncated": false
       }
     }
@@ -167,7 +217,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -202,7 +252,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/293419-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing tuberous geophyte",
@@ -210,7 +260,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/293419-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000376897.webp",
@@ -223,6 +273,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 209,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -13,21 +13,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヒメコウジ",
       "ウィンターグリーン"
     ],
-    "cy": [
-      "gweunlwyn ymlusgol"
-    ],
-    "en": [
-      "eastern teaberry"
-    ],
-    "zh": [
-      "匍枝白珠"
+    "fr": [
+      "Gaulthérie couchée"
     ],
     "hu": [
       "kúszó fajdbogyó"
@@ -37,9 +31,6 @@
     ],
     "de": [
       "Niedere Scheinbeere"
-    ],
-    "fr": [
-      "Gaulthérie couchée"
     ],
     "pl": [
       "Golteria rozesłana"
@@ -62,21 +53,30 @@
     "cs": [
       "libavka poléhavá"
     ],
+    "cy": [
+      "Gweunlwyn ymlusgol"
+    ],
     "fa": [
       "انگورک"
     ],
     "am": [
       "የቁራ ሻይ"
     ],
+    "zh": [
+      "匍枝白珠"
+    ],
     "arz": [
       "عنب الارض"
+    ],
+    "en": [
+      "eastern teaberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q386770",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q386770",
   "search_names": {
@@ -89,22 +89,55 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヒメコウジ」",
+      "source": "Wikipedia (ja): ヒメコウジ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%B3%E3%82%A6%E3%82%B8",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107711051,
       "text": "ヒメコウジ は、ツツジ科シラタマノキ属の植物。北アメリカ東北部原産でニューファンドランド島からマニトバ州南東部、南はアラバマ州まで広がる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Gaultheria procumbens」",
+      "source": "Wikipedia (en): Gaultheria procumbens",
       "source_url": "https://en.wikipedia.org/wiki/Gaultheria_procumbens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376725677,
       "text": "Gaultheria procumbens, also called the eastern teaberry, the checkerberry, the boxberry, or the American wintergreen, is a perennial species of Gaultheria native to northeastern North America from Newfoundland west to southeastern Manitoba, and south to Alabama. It is a member of the Ericaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Gaultheria procumbens",
+      "source_url": "https://es.wikipedia.org/wiki/Gaultheria_procumbens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175384562,
+      "text": "El axocopaque o gaulteria es un arbusto de la familia Ericaceae, natural de México y el norte de los Estados Unidos, donde crece en lugares arenosos y húmedos o pantanosos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Gaulthérie couchée",
+      "source_url": "https://fr.wikipedia.org/wiki/Gaulth%C3%A9rie_couch%C3%A9e",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226147958,
+      "text": "La gaulthérie couchée, appelée aussi thé des bois ou pomme de terre (acadianisme) ou thé rouge à Saint-Pierre-et-Miquelon, est une espèce de plante à fleurs de la famille des Ericaceae et du genre Gaultheria qui croît dans les forêts du Canada et de l’Est des États-Unis."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Gaulthérie couchée § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Gaulth%C3%A9rie_couch%C3%A9e#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 226147958,
+        "heading": "Culture",
+        "text": "En forêt jardinée, en verger potager forestier, en lisière forestière, en bande riveraine, en trouée forestière, en couvre-sol. Fruits comestibles. Les feuilles sont utilisées en herboristerie traditionnelle.\n\n■ Entretien\nEffectuer les semis en automne avec les graines fraîches, après les avoir débarrassées de la pulpe qui les entoure. Les semer dans du sable fin et les mettre sous un châssis froid.\n\n■ Multiplication\nLes bouturages se pratiquent en juillet ou août. Il faut procéder à un bouturage à talon.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -116,7 +149,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -160,7 +193,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/330655-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or subshrub",
@@ -168,6 +201,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/330655-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

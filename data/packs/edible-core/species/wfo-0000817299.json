@@ -10,12 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "非洲木樨榄"
-    ],
     "af": [
       "Ysterhout"
     ],
@@ -31,6 +28,9 @@
     "ja": [
       "オレア・カペンシス"
     ],
+    "zh": [
+      "非洲木樨榄"
+    ],
     "arz": [
       "زيتون راس الرجاء"
     ],
@@ -42,7 +42,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q568254",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q568254",
   "search_names": {
@@ -56,13 +56,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Olea capensis」",
+      "source": "Wikipedia (en): Olea capensis",
       "source_url": "https://en.wikipedia.org/wiki/Olea_capensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365313773,
       "text": "Olea capensis, the black ironwood, is an African tree species in the olive family Oleaceae. It is widespread in sub-Saharan Africa: from the east in Somalia, Ethiopia and Sudan, south to the tip of South Africa, and west to Cameroon, Sierra Leone and the islands of the Gulf of Guinea, as well as Madagascar and the Comoros. It occurs in bush, littoral scrub and evergreen forest."
+    },
+    "es": {
+      "source": "Wikipedia (es): Olea capensis",
+      "source_url": "https://es.wikipedia.org/wiki/Olea_capensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157036703,
+      "text": "Olea capensis es un árbol africano de la familia de olivos (Oleaceae). Olea capensis es endémica de África, del oeste de Camerún al norte de Sudán y de Somalia, este del océano Índico, y sur de Sudáfrica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Olea capensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Olea_capensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228377021,
+      "text": "Olea capensis, l'Olivier du Cap, est une espèce de plantes à fleurs, de la famille des Oléacées. C'est un arbre ou un arbuste originaire d'Afrique."
     }
   },
   "edible": {
@@ -80,7 +98,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -112,7 +130,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/610645-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -120,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/610645-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000817299.webp",
@@ -133,6 +151,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 390,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -12,63 +12,43 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "fr": [
+      "Anthyllide vulnéraire",
+      "vulnéraire"
+    ],
     "de": [
-      "Gewöhnlicher Wundklee",
       "Echter Wundklee",
+      "Gewöhnlicher Wundklee",
       "Gemeiner Wundklee",
       "Tannenklee"
     ],
-    "en": [
-      "common kidneyvetch",
-      "kidney vetch",
-      "kidney-vetch",
-      "ladies’ fingers",
-      "woundwort"
-    ],
     "ca": [
-      "Vulnerària"
+      "vulnerària"
     ],
     "cs": [
       "úročník bolhoj"
     ],
-    "cy": [
-      "Plucen felen"
-    ],
     "da": [
       "Gul Rundbælg"
     ],
-    "es": [
-      "hierba de la cuchillada",
-      "pie de gallo encarnado",
-      "pitiflor blanca",
-      "uña de gato",
-      "vulneraria"
-    ],
     "et": [
-      "Harilik koldrohi"
+      "harilik koldrohi"
     ],
     "fi": [
-      "euroopanmasmalo",
-      "Masmalo"
-    ],
-    "fr": [
-      "Anthyllide vulnéraire",
-      "vulnéraire"
+      "masmalo",
+      "euroopanmasmalo"
     ],
     "hsb": [
       "Wšědny wuwróćenc"
     ],
     "hu": [
-      "Nyúlszapuka"
+      "nyúlszapuka"
     ],
     "io": [
       "Vulnerario"
-    ],
-    "it": [
-      "Antillide vulneraria"
     ],
     "lt": [
       "Paprastasis perluotis"
@@ -76,12 +56,8 @@
     "nap": [
       "Contrerva"
     ],
-    "nb": [
-      "rundbelg",
-      "rundskolm"
-    ],
     "nl": [
-      "Wondklaver"
+      "wondklaver"
     ],
     "nn": [
       "rundskolm"
@@ -89,37 +65,36 @@
     "pl": [
       "Przelot pospolity"
     ],
-    "ru": [
-      "Язвенник ранозаживляющий"
-    ],
-    "sk": [
-      "bôľhoj lekársky"
-    ],
-    "sl": [
-      "Pravi ranjak"
-    ],
     "sr": [
-      "Детелина камењарка"
+      "детелина камењарка"
     ],
     "sv": [
       "Getväppling"
     ],
+    "nb": [
+      "rundbelg",
+      "rundskolm"
+    ],
+    "ru": [
+      "Язвенник ранозаживляющий"
+    ],
+    "sl": [
+      "pravi ranjak"
+    ],
     "tr": [
       "Çobangülü"
+    ],
+    "cy": [
+      "Plucen felen"
     ],
     "uk": [
       "Заяча конюшина багатолиста"
     ],
-    "zh": [
-      "岩豆",
-      "绒毛花",
-      "疗伤绒毛花"
-    ],
-    "ast": [
-      "vulneraria"
-    ],
     "bg": [
       "целебна раменка"
+    ],
+    "sk": [
+      "bôľhoj lekársky"
     ],
     "sco": [
       "craw-nebs"
@@ -145,15 +120,40 @@
     "arz": [
       "حشيشة الدب"
     ],
+    "zh": [
+      "疗伤绒毛花",
+      "岩豆",
+      "绒毛花"
+    ],
     "lv": [
       "Brūču pērkonamoliņš"
+    ],
+    "en": [
+      "common kidneyvetch",
+      "kidney vetch",
+      "kidney-vetch",
+      "ladies’ fingers",
+      "woundwort"
+    ],
+    "es": [
+      "hierba de la cuchillada",
+      "pie de gallo encarnado",
+      "pitiflor blanca",
+      "uña de gato",
+      "vulneraria"
+    ],
+    "it": [
+      "Antillide vulneraria"
+    ],
+    "ast": [
+      "vulneraria"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q126256",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q126256",
   "search_names": {
@@ -164,13 +164,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Anthyllis vulneraria」",
+      "source": "Wikipedia (en): Anthyllis vulneraria",
       "source_url": "https://en.wikipedia.org/wiki/Anthyllis_vulneraria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354453002,
       "text": "Anthyllis vulneraria, the common kidneyvetch, kidney vetch or woundwort is a medicinal plant native to Europe, northern Africa, and Western Asia. The specific epithet vulneraria means 'wound healer'."
+    },
+    "es": {
+      "source": "Wikipedia (es): Anthyllis vulneraria",
+      "source_url": "https://es.wikipedia.org/wiki/Anthyllis_vulneraria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175406220,
+      "text": "La vulneraria es una planta de la familia Fabaceae que alcanzan los 5-50 cm."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Anthyllide vulnéraire",
+      "source_url": "https://fr.wikipedia.org/wiki/Anthyllide_vuln%C3%A9raire",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229541966,
+      "text": "L'Anthyllide vulnéraire est une espèce de plantes à fleurs de la famille des Fabacées (Légumineuses). C'est une plante herbacée trouvée en Europe, en Afrique du Nord et en Asie de l'Ouest."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Anthyllis vulneraria",
+      "source_url": "https://pt.wikipedia.org/wiki/Anthyllis_vulneraria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72939754,
+      "text": "Anthyllis vulneraria L. (vulnerária) é uma espécie de planta com flor pertencente à família Fabaceae."
     }
   },
   "edible": {
@@ -183,7 +210,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -255,7 +282,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/474795-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -263,7 +290,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/474795-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000212115.webp",
@@ -276,6 +303,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

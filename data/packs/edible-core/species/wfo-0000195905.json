@@ -12,35 +12,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "タイワンコマツナギ"
     ],
-    "en": [
-      "true indigo"
-    ],
-    "zh": [
-      "木藍",
-      "木蓝",
-      "大靛根",
-      "青黛",
-      "南板蓝叶",
-      "南板蓝根"
-    ],
     "fr": [
       "Indigotier",
+      "indigotier",
       "Indigo des teinturiers",
       "Indigo des Indes"
     ],
-    "ast": [
-      "índigu"
-    ],
-    "ta": [
-      "அவுரி",
-      "நீலி",
-      "நீலம்"
+    "id": [
+      "Tarum"
     ],
     "pl": [
       "Indygowiec barwierski"
@@ -87,14 +72,19 @@
     "lt": [
       "Dažinė indigažolė"
     ],
+    "zh": [
+      "木藍",
+      "木蓝",
+      "大靛根",
+      "青黛",
+      "南板蓝叶",
+      "南板蓝根"
+    ],
     "th": [
       "คราม"
     ],
     "vi": [
       "Chàm quả cong"
-    ],
-    "id": [
-      "Tarum"
     ],
     "ro": [
       "Planta de indigo"
@@ -107,6 +97,11 @@
     ],
     "ms": [
       "Pokok Tarum"
+    ],
+    "ta": [
+      "அவுரி",
+      "நீலி",
+      "நீலம்"
     ],
     "fa": [
       "درخت نیل"
@@ -161,13 +156,19 @@
     ],
     "shn": [
       "ၶၢမ်းထိူၼ်ႇ"
+    ],
+    "en": [
+      "true indigo"
+    ],
+    "ast": [
+      "índigu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q165213",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q165213",
   "search_names": {
@@ -181,22 +182,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「タイワンコマツナギ」",
+      "source": "Wikipedia (ja): タイワンコマツナギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%AF%E3%83%B3%E3%82%B3%E3%83%9E%E3%83%84%E3%83%8A%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107125268,
       "text": "タイワンコマツナギ は、マメ科の被子植物である。布などを藍色に染めるインディゴ染料が得られる植物の一つで、木から採取できる藍 として、インディゴが化学合成されるまでは主要な染料であった。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Indigofera tinctoria」",
+      "source": "Wikipedia (en): Indigofera tinctoria",
       "source_url": "https://en.wikipedia.org/wiki/Indigofera_tinctoria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1363249016,
       "text": "Indigofera tinctoria, also called true indigo, is a species of plant from the bean family that was one of the original sources of indigo dye."
+    },
+    "es": {
+      "source": "Wikipedia (es): Indigofera tinctoria",
+      "source_url": "https://es.wikipedia.org/wiki/Indigofera_tinctoria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 160506289,
+      "text": "Indigofera tinctoria, conocida comúnmente como Añil, es una planta perteneciente a la familia de las leguminosas y es la fuente original de tinte índigo. Está naturalizada en Asia tropical y templada, y partes de África, su hábitat primigenio no se conoce."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Indigotier",
+      "source_url": "https://fr.wikipedia.org/wiki/Indigotier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239770173,
+      "text": "L'indigotier, indigo des teinturiers ou indigo des Indes, est une espèce de plantes à fleurs de la famille des Fabacées. C'est un arbuste des régions chaudes dont les feuilles sont utilisées pour la préparation de la teinture d'indigo."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Indigofera tinctoria",
+      "source_url": "https://pt.wikipedia.org/wiki/Indigofera_tinctoria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 49649532,
+      "text": "Indigofera tinctoria é uma espécie de planta da família Fabaceae conhecido popularmente como anil, anileira, erva anil, guajana, timbó, caa-chica, jiquilite, anil-das-lavadeiras."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tarum",
+      "source_url": "https://id.wikipedia.org/wiki/Tarum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30016306,
+      "text": "Tarum atau nila merupakan tumbuhan penghasil warna biru alami. Penggunaan zat pewarna pakaian ini terutama dilakukan dalam pembuatan batik atau tenun ikat tradisional dari Nusantara. Zat pewarna nila, sebagai produk dari tumbuhan ini, juga merupakan komoditas dagang yang penting. Daun dari indigofera juga dapat digunakan sebagai pakan ternak yang lebih murah"
     }
   },
   "edible": {
@@ -212,7 +249,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -321,7 +358,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/500111-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -329,7 +366,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/500111-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000195905.webp",
@@ -342,6 +379,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

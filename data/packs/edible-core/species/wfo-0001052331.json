@@ -15,35 +15,29 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ハゼノキ"
-    ],
-    "en": [
-      "wax tree"
-    ],
-    "fr": [
-      "arbre à cire"
-    ],
-    "hu": [
-      "japánlakkfa",
-      "viaszfa",
-      "viaszszömörce"
-    ],
-    "zh": [
-      "木蠟樹",
-      "野漆",
-      "野漆树根",
-      "漆木",
-      "野漆树"
     ],
     "ko": [
       "검양옻나무"
     ],
     "ru": [
       "Токсикодендрон сочный"
+    ],
+    "zh": [
+      "野漆",
+      "木蠟樹",
+      "野漆树根",
+      "漆木",
+      "野漆树"
+    ],
+    "hu": [
+      "viaszszömörce",
+      "japánlakkfa",
+      "viaszfa"
     ],
     "bg": [
       "сочен токсикодендрон"
@@ -59,13 +53,19 @@
     ],
     "ar": [
       "عبرب"
+    ],
+    "en": [
+      "wax tree"
+    ],
+    "fr": [
+      "arbre à cire"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q130143",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q130143",
   "search_names": {
@@ -88,22 +88,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ハゼノキ」",
+      "source": "Wikipedia (ja): ハゼノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%BC%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109200195,
       "text": "ハゼノキ は、ウルシ科ウルシ属の落葉小高木。単にハゼとも言う。東南アジアから東アジアの温暖な地域に自生する。秋に美しく紅葉することで知られ、ウルシほどではないがかぶれることもある。日本には、果実から木蝋 を採取する資源作物として、江戸時代頃に琉球王国から持ち込まれた。昭和30年代まではポマードやチックなどへの需要があったが、その後急速に需要が減少した。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Toxicodendron succedaneum」",
+      "source": "Wikipedia (en): Toxicodendron succedaneum",
       "source_url": "https://en.wikipedia.org/wiki/Toxicodendron_succedaneum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1225112718,
       "text": "Toxicodendron succedaneum, the wax tree, Japanese Hazenoki tree, sơn in Vietnamese or charão in Portuguese, is a flowering plant species in the genus Toxicodendron found in Asia, although it has been planted elsewhere, most notably Australia and New Zealand. It is a large shrub or tree, up to 8 m tall, somewhat similar to a sumac tree. Because of its beautiful autumn foliage, it has been planted outside Asia as an ornamental plant, often by gardeners who were apparently unaware of the dangers of allergic reactions. It is now officially classified as a noxious weed in Australia and New Zealand. It is one of the city tree symbols of Kurume, Fukuoka, Japan."
+    },
+    "es": {
+      "source": "Wikipedia (es): Toxicodendron succedaneum",
+      "source_url": "https://es.wikipedia.org/wiki/Toxicodendron_succedaneum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 145268817,
+      "text": "Toxicodendron succedaneum, comúnmente llamado árbol de cera o árbol de cera japonesa y denominado en Vietnam como sơn, es una especie de planta con flores del género Toxicodendron nativa de Asia, aunque ha sido cultivada igualmente en Australia y Nueva Zelanda. Es un arbusto grande o árbol que llega a medir hasta 8 metros de altura. Debido a su bello follaje de otoño, ha sido utilizado fuera de Asia como planta de ornamento, usualmente por jardineros que desconocían las reacciones alérgicas que genera y el peligro de estas. Actualmente, es considerada como maleza nociva en Australia y Nueva Zelanda. Es uno de los símbolos de la ciudad de Kurume, en Japón."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Toxicodendron succedaneum",
+      "source_url": "https://fr.wikipedia.org/wiki/Toxicodendron_succedaneum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240047089,
+      "text": "Le Toxicodendron succedaneum, ou Arbre à cire, Sumac faux-vernis est un petit arbre de la famille des Anacardiacées originaire d'Asie."
     }
   },
   "edible": {
@@ -118,7 +136,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -154,7 +172,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/71802-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -162,7 +180,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/71802-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001052331.webp",
@@ -175,6 +193,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 302,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

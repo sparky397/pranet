@@ -14,58 +14,36 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウスグリ"
     ],
-    "de": [
-      "Stachelbeere"
-    ],
-    "en": [
-      "Gooseberry",
-      "European gooseberry"
-    ],
-    "nl": [
-      "Kruisbes"
-    ],
-    "cs": [
-      "srstka angrešt"
-    ],
     "fr": [
-      "groseillier épineux",
-      "groseillier à maquereau"
+      "Groseillier à maquereau",
+      "groseillier à maquereau",
+      "groseillier épineux"
     ],
-    "fi": [
-      "hillokarviainen",
-      "karviainen"
-    ],
-    "mk": [
-      "огрозд"
-    ],
-    "zh": [
-      "鹅莓",
-      "欧洲醋栗",
-      "鵝莓"
-    ],
-    "ast": [
-      "bruselar"
-    ],
-    "sl": [
-      "kosmulja"
-    ],
-    "hu": [
-      "egres"
+    "pt": [
+      "Groselheira"
     ],
     "lb": [
       "Déck Kréischel"
+    ],
+    "zh": [
+      "鵝莓",
+      "鹅莓",
+      "欧洲醋栗"
     ],
     "pl": [
       "porzeczka agrest"
     ],
     "ms": [
       "Gusberi"
+    ],
+    "hu": [
+      "egres"
     ],
     "et": [
       "aed-karusmari"
@@ -76,14 +54,14 @@
     "mt": [
       "Għenba tax-xewk"
     ],
+    "nl": [
+      "kruisbes"
+    ],
     "ar": [
       "عنب الثعلب"
     ],
     "sv": [
       "Krusbär"
-    ],
-    "pt": [
-      "Groselheira"
     ],
     "eo": [
       "groso"
@@ -105,6 +83,10 @@
     ],
     "stq": [
       "Kjuusbäie"
+    ],
+    "fi": [
+      "karviainen",
+      "hillokarviainen"
     ],
     "uk": [
       "Аґрус"
@@ -148,6 +130,9 @@
     "li": [
       "Kroezjel"
     ],
+    "de": [
+      "Stachelbeere"
+    ],
     "yue": [
       "菇時啤梨"
     ],
@@ -174,6 +159,12 @@
     ],
     "ca": [
       "agrassó"
+    ],
+    "sl": [
+      "kosmulja"
+    ],
+    "cs": [
+      "srstka angrešt"
     ],
     "os": [
       "Хъалгъæн"
@@ -253,6 +244,9 @@
     "tg": [
       "Бектошӣ (бутта)"
     ],
+    "ast": [
+      "Bruselar"
+    ],
     "kab": [
       "Imilten"
     ],
@@ -264,6 +258,9 @@
     ],
     "nds": [
       "Stickelbeer"
+    ],
+    "mk": [
+      "огрозд"
     ],
     "arz": [
       "عنب الثعلب"
@@ -279,13 +276,17 @@
     ],
     "rsk": [
       "Космачки"
+    ],
+    "en": [
+      "Gooseberry",
+      "European gooseberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q41503",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q41503",
   "search_names": {
@@ -302,36 +303,94 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウスグリ」",
+      "source": "Wikipedia (ja): セイヨウスグリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%82%B9%E3%82%B0%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106365342,
       "text": "セイヨウスグリ はスグリ科スグリ属の落葉低木。別名、マルスグリ（丸酸塊）、オオスグリ。英語ではgooseberry（アメリカとイギリス北部では主にグースベリーまたはグーズベリー、イギリス南部では主にグズバリ）。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ribes uva-crispa」",
+      "source": "Wikipedia (en): Ribes uva-crispa",
       "source_url": "https://en.wikipedia.org/wiki/Ribes_uva-crispa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365386110,
       "text": "Ribes uva-crispa, commonly known as the gooseberry or European gooseberry, is a species of flowering shrub native to Europe, northwestern Africa, and southwestern Asia. It belongs to the family Grossulariaceae, which includes currants and gooseberries. The plant is cultivated for its edible fruit, which is used in culinary applications ranging from desserts to preserves."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ribes uva-crispa",
+      "source_url": "https://es.wikipedia.org/wiki/Ribes_uva-crispa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175405346,
+      "text": "La grosella espinosa europea o uva espina es un arbusto oriundo de Europa, el noroeste de África y el sudoeste de Asia Menor; pertenece al subgénero Grossularia, a veces tratado como un género aparte dentro de Ribes, comprendiendo a las diferentes especies hirsutas de groselleros. El grosellero espinoso americano, Ribes hirtellum, está estrechamente emparentado, y es fácil de confundir a simple vista; ambos poseen tallos espinosos y presentan las flores terminales aisladas, en parejas o tríos, no en racimos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Groseillier à maquereau",
+      "source_url": "https://fr.wikipedia.org/wiki/Groseillier_%C3%A0_maquereau",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240073140,
+      "text": "Le groseillier à maquereau est une espèce d'arbustes épineux à gros fruits d'abord vert pâle, devenant, selon les variétés, blanchâtres et translucides ou rouge sombre à maturité."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Groselheira",
+      "source_url": "https://pt.wikipedia.org/wiki/Groselheira",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69122194,
+      "text": "A groselheira é uma espécie das Ribes, nativa da Europa, da África setentrional e do Sudoeste asiático. É uma das muitas espécies semelhantes no subgênero Grossularia; para as outras espécies relacionadas, ver a página sobre o gênero Ribes."
+    },
+    "id": {
+      "source": "Wikipedia (id): Ribes uva-crispa",
+      "source_url": "https://id.wikipedia.org/wiki/Ribes_uva-crispa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29704324,
+      "text": "Ribes uva-crispa adalah spesies pokok renek berbunga dalam keluarga kismis, Grossulariaceae. Ia berasal dari Eropa, Kaukasus dan Afrika utara."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Ribes uva-crispa」の節「Cultivation」",
+        "source": "Wikipedia (en): Ribes uva-crispa § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Ribes_uva-crispa#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1365386110,
         "heading": "Cultivation",
         "text": "Gooseberry growing was popular in the 19th century, as described in 1879:\n\nIn Britain, it is often found in copses and hedgerows and about old ruins, but the gooseberry has been cultivated for so long that it is difficult to distinguish wild bushes from feral ones, or to determine where the gooseberry fits into the native flora of the island. Common as it is now on some of the lower slopes of the Alps of Piedmont and Savoy, it is uncertain whether the Romans were acquainted with the gooseberry, though it may possibly be alluded to in a vague passage of Pliny the Elder's Natural History; the hot summers of Italy, in ancient times as at present, would be unfavourable to its cultivation. Although gooseberries are now abundant in Germany and France, it does not appear to have been much grown there in the Middle Ages, though the wild fruit was held in some esteem medicinally for the cooling properties of its acid juice in fevers; while the old English name, Fea-berry, still surviving in some provincial dialects, indicates that it was similarly valued in Britain, where it was planted in gardens at a comparatively early period.\nWilliam Turner describes the gooseberry in his Herball, written about the middle of the 16th century, and a few years later it is mentioned in one of Thomas Tusser's quaint rhymes as an ordinary object of garden culture. Improved varieties were probably first raised by the skilful gardeners of Holland, whose name for the fruit, Kruisbezie, may have been corrupted into the present English vernacular word.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Ribes uva-crispa § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Ribes_uva-crispa#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175405346,
+        "heading": "Cultivo",
+        "text": "Necesita humedad en el suelo, no tolera las sequías ni las temperaturas veraniegas excesivas. El frío invernal, sin heladas extremas, es necesario para una buena fructificación.\nSe puede propagar por semilla, pero el crecimiento es lento los primeros años. Es más rápido propagar las variedades frutales por estaquillas plantadas en otoño; éstas enraízan rápidamente y en  pocos años forman unos buenos arbustos frutales. De este modo también se reproducen fielmente las características del progenitor. \nLas flores aparecen en las yemas terminales de los tallos del año anterior, por lo tanto, no se deben acortar las ramas en invierno. Para evitar el excesivo desarrollo en longitud de los renuevos basales se deben pinzar en verano, cuando todavía están tiernos. Esto fuerza la formación de yemas florales y evita que se alarguen en exceso, algo que no es recomendable, debido a su fragilidad. Los troncos más viejos van perdiendo poco a poco su vitalidad, por lo que conviene cortarlos cuando declina la producción de frutos. Mediante una poda correcta se permite el escalonamiento en la fructificación entre los nuevos brotes y los más antiguos, y se evitan el envejecimiento y el enmarañamiento por el crecimiento natural.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Groselheira § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Groselheira#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 69122194,
+        "heading": "Cultivo",
+        "text": "É mais fácil de se propagar a groselheira com mudas que com o crescimento das sementes; cortes feitos no outono enraízam rapidamente e começam a frutificar em poucos anos.\nPode ser necessária podar com freqüência; os frutos são produzidos nos ramos laterais e nos galhos do ano anterior, tanto que o padrão do séc. XIX era aparar os galhos laterais e talvez podar os ramos principais no inverno, e deixar para apenas desbastar no verão.\nA adubação intensa é usada para produção de groselhas grandes, especialmente se a maioria dos frutos é colhida quando ainda pequenos de modo a deixar espaço para o crescimento de mais alguns frutos. O enxerto de groselheiras em variedades ornamentais (como a groselheira-dourada ou Ribes aurum) ou outra espécie de Ribes pode ser de alguma utilidade para esse fim. Alguns plantadores do séc. XIX e outros do começo do séc. XX conseguiram produzir groselhas pesando quase 60 g, mas, como acontece com muitas variedades de frutas, quanto maior o tamanho, mais fraco o sabor.",
+        "truncated": false
       }
     }
   },
@@ -346,7 +405,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -426,7 +485,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/793052-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -434,7 +493,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/793052-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000405193.webp",
@@ -447,6 +506,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 285,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

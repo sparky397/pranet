@@ -31,32 +31,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Gewöhnliche Sichelmöhre",
-      "Sichelmöhre",
-      "Gemeine Sichelmöhre"
-    ],
-    "en": [
-      "sickleweed",
-      "longleaf"
-    ],
     "ru": [
       "Резак обыкновенный"
-    ],
-    "nl": [
-      "Sikkelkruid"
-    ],
-    "cs": [
-      "srpek obecný"
-    ],
-    "fr": [
-      "falcaire"
-    ],
-    "sl": [
-      "navadna srpnica"
     ],
     "lt": [
       "Liaugara"
@@ -64,11 +43,19 @@
     "uk": [
       "Різак звичайний"
     ],
+    "de": [
+      "Gemeine Sichelmöhre",
+      "Gewöhnliche Sichelmöhre",
+      "Sichelmöhre"
+    ],
     "pl": [
       "Sierpnica pospolita"
     ],
     "sv": [
       "Skärblad"
+    ],
+    "cs": [
+      "srpek obecný"
     ],
     "bg": [
       "обикновен сърпец"
@@ -108,24 +95,55 @@
     ],
     "hu": [
       "Közönséges sarlófű"
+    ],
+    "sl": [
+      "navadna srpnica"
+    ],
+    "en": [
+      "sickleweed",
+      "longleaf"
+    ],
+    "nl": [
+      "Sikkelkruid"
+    ],
+    "fr": [
+      "falcaire"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1500700",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1500700",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Falcaria vulgaris」",
+      "source": "Wikipedia (en): Falcaria vulgaris",
       "source_url": "https://en.wikipedia.org/wiki/Falcaria_vulgaris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1245498854,
       "text": "Falcaria vulgaris, the sickleweed or longleaf, is the sole species in the genus Falcaria. It is a biennial herb of the spherical shape. Blossoms in June–July. Grows in Europe, Siberia, Middle East, Northern Africa, North and South Americas. Contains alkaloids, carotene, vitamin C, proteins."
+    },
+    "es": {
+      "source": "Wikipedia (es): Falcaria vulgaris",
+      "source_url": "https://es.wikipedia.org/wiki/Falcaria_vulgaris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171710115,
+      "text": "Falcaria es un género monotípico de planta herbácea perteneciente a la familia Apiaceae. Su única especie: Falcaria vulgaris, es originaria de Eurasia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Falcaria vulgaris",
+      "source_url": "https://fr.wikipedia.org/wiki/Falcaria_vulgaris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226206534,
+      "text": "Falcaria vulgaris, la falcaire commune, est une espèce de plantes à fleurs de la famille des Apiaceae. C'est une plante herbacée originaire d'Europe, d'Asie et d'Afrique du Nord"
     }
   },
   "edible": {
@@ -137,7 +155,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -210,7 +228,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/842163-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -218,7 +236,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/842163-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000685760.webp",
@@ -231,6 +249,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

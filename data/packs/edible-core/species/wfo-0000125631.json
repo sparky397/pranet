@@ -8,15 +8,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "big sagebrush"
-    ],
-    "zh": [
-      "三齿蒿"
-    ],
     "de": [
       "Wüsten-Beifuß"
     ],
@@ -32,6 +26,9 @@
     "he": [
       "לענה משוננת"
     ],
+    "zh": [
+      "三齿蒿"
+    ],
     "cs": [
       "Pelyněk trojzubý"
     ],
@@ -40,13 +37,16 @@
     ],
     "nb": [
       "sagebrush"
+    ],
+    "en": [
+      "big sagebrush"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2117903",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2117903",
   "search_names": {
@@ -56,13 +56,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Artemisia tridentata」",
+      "source": "Wikipedia (en): Artemisia tridentata",
       "source_url": "https://en.wikipedia.org/wiki/Artemisia_tridentata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1361899667,
       "text": "Artemisia tridentata, commonly called big sagebrush, Great Basin sagebrush or simply sagebrush, is an aromatic shrub from the family Asteraceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Artemisia tridentata",
+      "source_url": "https://es.wikipedia.org/wiki/Artemisia_tridentata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174719420,
+      "text": "La artemisa es una especie fanerógama de arbusto o pequeño árbol perteneciente a la familia Asteraceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Artemisia tridentata",
+      "source_url": "https://fr.wikipedia.org/wiki/Artemisia_tridentata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231272062,
+      "text": "Artemisia tridentata, l'Armoise tridentée, est une espèce de plantes à fleurs de la famille des Asteraceae. Cet arbrisseau gris-argenté robuste, à fleurs jaunes, est typique de l'Amérique du Nord où il est désigné par le nom vernaculaire anglophone de « big sagebrush »."
+    },
+    "id": {
+      "source": "Wikipedia (id): Artemisia tridentata",
+      "source_url": "https://id.wikipedia.org/wiki/Artemisia_tridentata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29411697,
+      "text": "Artemisia tridentata adalah semak aromatik dari keluarga Asteraceae yang tumbuh di wilayah kering hingga semi-kering, termasuk gurun, padang rumput, dan pegunungan dingin di Pegunungan Barat Amerika Utara. Spesies ini, bersama dengan semak Artemisia lainnya, merupakan tanaman dominan di sebagian besar Great Basin. Semak ini menyediakan makanan dan tempat tinggal bagi berbagai hewan termasuk wica, antelop, burung vireo abu-abu, kelinci kerdil, dan rusa bagal. Ekosistemnya menghadapi beberapa ancaman utama, seperti pemukiman manusia, konversi lahan menjadi pertanian, invasi tanaman asing, dan kebakaran hutan."
     }
   },
   "edible": {
@@ -79,7 +106,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -108,14 +135,14 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/20780-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/20780-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000125631.webp",
@@ -128,6 +155,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -27,23 +27,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "blue giant hyssop",
-      "lavender giant-hyssop"
-    ],
-    "de": [
-      "Duftnessel"
-    ],
-    "fi": [
-      "anisiiso",
-      "yrtti-iiso"
-    ],
-    "zh": [
-      "茴藿香"
-    ],
     "lt": [
       "Pankolinė kinmėtė"
     ],
@@ -55,6 +41,16 @@
     ],
     "chy": [
       "Mo'éhemóxêšéne"
+    ],
+    "de": [
+      "Duftnessel"
+    ],
+    "fi": [
+      "yrtti-iiso",
+      "anisiiso"
+    ],
+    "zh": [
+      "茴藿香"
     ],
     "ar": [
       "أغستاش شمري"
@@ -79,13 +75,17 @@
     ],
     "arz": [
       "اغستاش شمرى"
+    ],
+    "en": [
+      "blue giant hyssop",
+      "lavender giant-hyssop"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1264088",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1264088",
   "search_names": {
@@ -95,13 +95,37 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Agastache foeniculum」",
+      "source": "Wikipedia (en): Agastache foeniculum",
       "source_url": "https://en.wikipedia.org/wiki/Agastache_foeniculum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378627020,
       "text": "Agastache foeniculum, commonly called anise hyssop, blue giant hyssop, Fragrant giant hyssop, or the lavender giant hyssop, is a species of perennial plant in the mint family."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Agastache foeniculum",
+      "source_url": "https://fr.wikipedia.org/wiki/Agastache_foeniculum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228061807,
+      "text": "L’Agastache foeniculum, communément appelée agastache fenouil, anis hysope, hysope anisée ou grande hysope, est une espèce de plantes à fleurs de la famille des Lamiacées (Labiées), de la tribu des mentheae et du genre Agastache. C'est une plante herbacée vivace cultivée comme plante ornementale, aromatique et condimentaire."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Agastache foeniculum § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Agastache_foeniculum#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 228061807,
+        "heading": "Culture",
+        "text": "L'agastache est une plante vivace très rustique et peu exigeante.\nElle sait s'adapter à la plupart des types de sols (y compris calcaires ou argileux) à condition qu'ils soient correctement drainés. Elle préfère une exposition ensoleillée ou semi-ombrée.\nElle est capable de se resemer et, de ce fait, peut devenir envahissante.\nElle résiste à des gels modérés. Il convient cependant de protéger les pieds en cas de fortes gelées.\nPas de maladies ou de ravageurs (mais à protéger des limaces et escargots).",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -115,7 +139,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -153,7 +177,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/6304-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -161,7 +185,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/6304-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000902466.webp",
@@ -174,6 +198,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

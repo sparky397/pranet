@@ -58,17 +58,37 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ニセアカシア",
       "ハリエンジュ"
     ],
-    "en": [
-      "Black Locust",
-      "false acacia",
-      "locust tree"
+    "pms": [
+      "Gasia"
+    ],
+    "eu": [
+      "Sasiakazia"
+    ],
+    "bs": [
+      "Bagrem"
+    ],
+    "he": [
+      "רוביניה בת-השיטה"
+    ],
+    "ko": [
+      "아까시나무",
+      "아까시 나무",
+      "아카시나무",
+      "아카시아나무"
+    ],
+    "hu": [
+      "fehér akác"
+    ],
+    "gl": [
+      "Falsa acacia",
+      "Acacia bastarda"
     ],
     "de": [
       "Gewöhnliche Robinie",
@@ -80,31 +100,82 @@
       "Silberregen",
       "Weiße Robinie"
     ],
-    "az": [
-      "Ağ akasiya",
-      "Yalançı akasiya robiniyası"
+    "vi": [
+      "Dương hòe",
+      "Dương hoè"
     ],
-    "be": [
-      "Белая акацыя"
+    "sc": [
+      "Acacia"
     ],
-    "bg": [
-      "бяла акация",
-      "салкъм",
-      "Бял салкъм"
-    ],
-    "bs": [
+    "sh": [
       "Bagrem"
     ],
+    "hsb": [
+      "Běła robinija"
+    ],
+    "eo": [
+      "Ŝajnakacia robinio",
+      "Blanka robinio"
+    ],
+    "sk": [
+      "agát biely"
+    ],
+    "ru": [
+      "Робиния псевдоакация",
+      "Белая акация",
+      "Лжеакация",
+      "Робиния лжеакация",
+      "Робиния обыкновенная",
+      "Робиния-лжеакация"
+    ],
+    "tr": [
+      "Beyaz çiçekli yalancı akasya",
+      "Beyaz çiçekli yalancıakasya"
+    ],
+    "ro": [
+      "Salcâm",
+      "Salcîm"
+    ],
     "ca": [
-      "Acàcia borda",
+      "acàcia borda",
       "Robínia"
+    ],
+    "fi": [
+      "valeakaasia",
+      "Valkovaleakaasia"
+    ],
+    "uk": [
+      "Робінія звичайна",
+      "Акація біла",
+      "Біла акація",
+      "Робінія псевдоакація"
+    ],
+    "sl": [
+      "navadna robinija"
+    ],
+    "nn": [
+      "Storrobinia",
+      "Falsk akasie"
     ],
     "cs": [
       "trnovník akát",
       "trnovník bílý"
     ],
-    "cy": [
-      "coeg-acasia"
+    "pcd": [
+      "Acachieu",
+      "Agassiå",
+      "Aglassiå"
+    ],
+    "az": [
+      "Yalançı akasiya robiniyası",
+      "Ağ akasiya"
+    ],
+    "hr": [
+      "bagrem",
+      "Agacija"
+    ],
+    "lt": [
+      "Baltažiedė robinija"
     ],
     "da": [
       "Almindelig Robinie",
@@ -115,9 +186,103 @@
       "Ροβίνια η ψευδοακακία",
       "ψευδοακακία"
     ],
-    "eo": [
-      "Blanka robinio",
-      "Ŝajnakacia robinio"
+    "sr": [
+      "Багрем"
+    ],
+    "zh": [
+      "刺槐",
+      "洋槐",
+      "刺槐花",
+      "刺槐根"
+    ],
+    "be": [
+      "Белая акацыя"
+    ],
+    "hy": [
+      "սպիտակ ակացիա"
+    ],
+    "fa": [
+      "اقاقیای سیاه"
+    ],
+    "ka": [
+      "ცრუაკაცია"
+    ],
+    "nap": [
+      "Cagg"
+    ],
+    "ga": [
+      "crann lócaiste",
+      "Acaicia bréige"
+    ],
+    "mk": [
+      "багрем"
+    ],
+    "bg": [
+      "Бял салкъм",
+      "бяла акация",
+      "салкъм"
+    ],
+    "cy": [
+      "Coeg-acasia"
+    ],
+    "ar": [
+      "روبينية سنطية"
+    ],
+    "tg": [
+      "Ақоқиё"
+    ],
+    "tt": [
+      "Ак сәрви агачы"
+    ],
+    "rup": [
+      "Sâlcâmu"
+    ],
+    "azb": [
+      "آغ چیچک‌لی یالانچی آکاسی"
+    ],
+    "ast": [
+      "Alcacia"
+    ],
+    "et": [
+      "harilik robiinia"
+    ],
+    "ml": [
+      "റോബിനിയ സ്യൂഡോക്കേഷിയ"
+    ],
+    "is": [
+      "Róbinía"
+    ],
+    "wuu": [
+      "刺槐"
+    ],
+    "arz": [
+      "زهره العنقود السنطيه"
+    ],
+    "vec": [
+      "Gazìa"
+    ],
+    "myv": [
+      "Кувтелчувто"
+    ],
+    "lb": [
+      "Akazia"
+    ],
+    "cv": [
+      "Шурă суя акартси"
+    ],
+    "wa": [
+      "Arcacia"
+    ],
+    "lv": [
+      "baltā robīnija"
+    ],
+    "rsk": [
+      "Баґрен"
+    ],
+    "en": [
+      "Black Locust",
+      "false acacia",
+      "locust tree"
     ],
     "es": [
       "acacia bastarda",
@@ -148,74 +313,16 @@
       "siete sayos",
       "sopitas"
     ],
-    "et": [
-      "Harilik robiinia"
-    ],
-    "eu": [
-      "Sasiakazia"
-    ],
-    "fa": [
-      "اقاقیای سیاه"
-    ],
-    "fi": [
-      "valeakaasia",
-      "Valkovaleakaasia"
-    ],
     "fr": [
       "Faux acacia",
       "Robinier faux-acacia"
-    ],
-    "ga": [
-      "Acaicia bréige",
-      "crann lócaiste"
-    ],
-    "gl": [
-      "Acacia bastarda",
-      "Falsa acacia"
-    ],
-    "he": [
-      "רוביניה בת-השיטה"
-    ],
-    "hr": [
-      "Agacija",
-      "Bagrem"
-    ],
-    "hsb": [
-      "Běła robinija"
-    ],
-    "hu": [
-      "Fehér akác"
-    ],
-    "hy": [
-      "սպիտակ ակացիա"
     ],
     "it": [
       "Maruga",
       "Robinie"
     ],
-    "ka": [
-      "ცრუაკაცია"
-    ],
-    "ko": [
-      "아까시 나무",
-      "아까시나무",
-      "아카시나무",
-      "아카시아나무"
-    ],
     "lmo": [
       "Rübì"
-    ],
-    "lt": [
-      "Baltažiedė Robinija"
-    ],
-    "lv": [
-      "Baltā robīnija"
-    ],
-    "mk": [
-      "Багрем"
-    ],
-    "nap": [
-      "Cagg"
     ],
     "nl": [
       "Gewone robinia",
@@ -223,158 +330,122 @@
       "Valse acacia",
       "Witte acacia"
     ],
-    "nn": [
-      "Falsk akasie",
-      "Storrobinia"
-    ],
-    "pcd": [
-      "Acachieu",
-      "Agassiå",
-      "Aglassiå"
-    ],
     "pl": [
       "Grochodrzew biały"
     ],
     "pt": [
       "acácia bastarda"
-    ],
-    "ro": [
-      "Salcâm",
-      "Salcîm"
-    ],
-    "ru": [
-      "Белая акация",
-      "Лжеакация",
-      "Робиния лжеакация",
-      "Робиния обыкновенная",
-      "Робиния псевдоакация",
-      "Робиния-лжеакация"
-    ],
-    "sh": [
-      "Bagrem"
-    ],
-    "sk": [
-      "agát biely"
-    ],
-    "sl": [
-      "navadna robinija"
-    ],
-    "sr": [
-      "Багрем"
-    ],
-    "tr": [
-      "Beyaz çiçekli yalancı akasya",
-      "Beyaz çiçekli yalancıakasya"
-    ],
-    "uk": [
-      "Акація біла",
-      "Біла акація",
-      "Робінія звичайна",
-      "Робінія псевдоакація"
-    ],
-    "vi": [
-      "Dương hoè",
-      "Dương hòe"
-    ],
-    "zh": [
-      "刺槐",
-      "洋槐",
-      "刺槐花",
-      "刺槐根"
-    ],
-    "pms": [
-      "Gasia"
-    ],
-    "sc": [
-      "Acacia"
-    ],
-    "ar": [
-      "روبينية سنطية"
-    ],
-    "tg": [
-      "Ақоқиё"
-    ],
-    "tt": [
-      "Ак сәрви агачы"
-    ],
-    "rup": [
-      "Sâlcâmu"
-    ],
-    "azb": [
-      "آغ چیچک‌لی یالانچی آکاسی"
-    ],
-    "ast": [
-      "Alcacia"
-    ],
-    "ml": [
-      "റോബിനിയ സ്യൂഡോക്കേഷിയ"
-    ],
-    "is": [
-      "Róbinía"
-    ],
-    "wuu": [
-      "刺槐"
-    ],
-    "arz": [
-      "زهره العنقود السنطيه"
-    ],
-    "vec": [
-      "Gazìa"
-    ],
-    "myv": [
-      "Кувтелчувто"
-    ],
-    "lb": [
-      "Akazia"
-    ],
-    "cv": [
-      "Шурă суя акартси"
-    ],
-    "wa": [
-      "Arcacia"
-    ],
-    "rsk": [
-      "Баґрен"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157417",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157417",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ニセアカシア」",
+      "source": "Wikipedia (ja): ニセアカシア",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%BB%E3%82%A2%E3%82%AB%E3%82%B7%E3%82%A2",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110528753,
       "text": "ニセアカシア は北米原産のマメ科ハリエンジュ属の落葉高木。植物学上の標準和名はハリエンジュ（針槐）で、単に「アカシア」と称されることがあるが（後述）、アカシア属（Acacia属）のアカシアとは別の種である。日本には1873年に渡来した。蜜源植物として重要で、街路樹、公園樹、砂防・土止め用の植栽、材は器具用等に用いられる。季語は夏である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Robinia pseudoacacia」",
+      "source": "Wikipedia (en): Robinia pseudoacacia",
       "source_url": "https://en.wikipedia.org/wiki/Robinia_pseudoacacia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377028869,
       "text": "Robinia pseudoacacia, commonly known as black locust, is a medium-sized hardwood deciduous tree, belonging to the tribe Robinieae of the legume family. Another common name is false acacia, a literal translation of the specific name."
+    },
+    "es": {
+      "source": "Wikipedia (es): Robinia pseudoacacia",
+      "source_url": "https://es.wikipedia.org/wiki/Robinia_pseudoacacia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175376326,
+      "text": "La falsa acacia es una especie del género Robinia en la familia Fabaceae. Es nativa del este de Estados Unidos, aunque se ha introducido en otros países. Es, junto con Sophora japonica y Gleditsia triacanthos, una de las tres «falsas acacias» plantadas en tantas ciudades del mundo para adornar calles y parques."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Robinia pseudoacacia",
+      "source_url": "https://fr.wikipedia.org/wiki/Robinia_pseudoacacia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240037897,
+      "text": "Robinia pseudoacacia, le Robinier faux-acacia, le Robinier, l'Acacia, le Faux-acacia ou le Carouge, est une espèce de plantes à fleurs de la famille des Fabacées. C'est un arbre originaire d'Amérique du Nord."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Robinia pseudoacacia",
+      "source_url": "https://pt.wikipedia.org/wiki/Robinia_pseudoacacia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73127631,
+      "text": "Robinia pseudoacacia (acácia-bastarda) é uma angiosperma da família Fabaceae. É endêmica nos Estados Unidos e é naturalizada, biologicamente, em outras regiões da América do Norte, Europa, África do Sul e Ásia. Em algumas áreas, é considerada uma espécie invasora."
+    },
+    "id": {
+      "source": "Wikipedia (id): Robinia pseudoacacia",
+      "source_url": "https://id.wikipedia.org/wiki/Robinia_pseudoacacia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29080015,
+      "text": "Robinia pseudoacacia adalah pohon gugur kayu keras berukuran sedang yang termasuk dalam suku Robinieae di famili kacang-kacangan Fabaceae. Asalnya terbatas pada beberapa wilayah kecil di Amerika Serikat, tetapi kini telah banyak dibudidayakan dan dinaturalisasi di berbagai daerah beriklim sedang di Amerika Utara, Eropa Selatan, Afrika Selatan, dan Asia Selatan. Di beberapa tempat, seperti pantai timur Australia, spesies ini dianggap invasif karena salah satu kultivarnya, yaitu kultivar \"Frisia\" yang awalnya ditanam sebagai pohon jalanan kini digolongkan sebagai gulma. Nama umum lain, akasia palsu, merupakan terjemahan harfiah dari nama ilmiahnya yang pseudo berarti “palsu” dan akasia merujuk pada genus tumbuhan yang sama. Meskipun genus ini asli Amerika Utara, fosilnya telah ditemukan di batuan era Eosen dan Miosen di Eropa."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Robinia pseudoacacia」の節「Toxicity」",
+        "source": "Wikipedia (en): Robinia pseudoacacia § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Robinia_pseudoacacia#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377028869,
         "heading": "Toxicity",
         "text": "The bark, leaves, and wood are toxic to both humans and livestock. Important constituents of the plant are the toxalbumin robin, which loses its toxicity when heated, and robinin, a nontoxic glucoside.\nHorses that consume the plant show signs of anorexia, depression, incontinence, colic, weakness, and cardiac arrhythmia. Symptoms usually occur about 1 hour following consumption, and immediate veterinary attention is required.\nThe sawdust and shavings from Robinia lumber can cause contact dermatitis in sensitive persons.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Robinia pseudoacacia § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Robinia_pseudoacacia#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175376326,
+        "heading": "Toxicidad",
+        "text": "La robinia posee una lectina en sus semillas, que las hace tóxicas:\nlos caballos que consumen la planta desarrollan síntomas de anorexia, depresión, diarrea, cólicos, debilidad, y arritmia cardíaca. Los síntomas aparecen generalmente alrededor de 1 hora de haber ingerido y se requiere de la atención veterinaria inmediata.\nSólo las flores se pueden comer.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Robinia pseudoacacia § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Robinia_pseudoacacia#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240037897,
+        "heading": "Toxicité",
+        "text": "L'arbre contient de la robine (dans l'écorce) et de la robinine (feuilles et graines), des lectines (toxiques pour l'homme et les animaux, en particulier pour le cheval et les poules). Il contient également de la phasine.\nToutes les parties de l'arbre sont toxiques mais uniquement par ingestion sauf les fleurs qui sont comestibles (on en fait des beignets, des sirops, du miel d'acacia). Un risque de confusion existe avec le cytise mais ce dernier a des fleurs jaunes. Le mobilier en Faux-acacia ne présente a priori aucun risque sanitaire.\n\n■ Phytothérapie\nLe pollen d'« acacia » est un calmant. Le miel du Robinier est recommandé contre l'alopécie, en mélange avec du miel de lavande et de la gelée royale, contre la constipation, contre le diabète et contre l'irritation des voies respiratoires supérieures.",
+        "truncated": false
+      }
+    },
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Robinia pseudoacacia § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Robinia_pseudoacacia#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240037897,
+        "heading": "Culture",
+        "text": "C'est un arbre pionnier de croissance rapide (1,5 m de haut et 2 cm de diamètre dès la première année). Il se suffit de terrains dégradés qu'il enrichit, en fixant l'azote par ses racines, comme la plupart des légumineuses. Il préfère les terrains frais, pauvres en calcaire, mais peut se satisfaire de terrains secs. Il ne pousse pas dans les terrains trop humides et sur des terres argileuses compactes. Arbre héliophile et sciaphobe, il a besoin de beaucoup de soleil et redoute l'ombre mais supporte bien le gel.\nEn raison de son système racinaire radial très superficiel, il ne peut être transplanté que lorsqu'il est jeune. Pour les mêmes raisons, l'arbre supporte mal les forts vents. Le robinier supporte assez mal la taille sévère et l'élagage. Si c'est absolument nécessaire, il faut préférer la période juste après la floraison. Planté en bord d'une voie goudonnée, ses racines ont tendance à soulever le bitume.\nOn le propage par semis puis par rabattage au sol des plants de deux ou trois ans. Les racines émettent alors de très nombreux drageons qui font rapidement de nombreux et excellents piquets.\nDans le monde entier, la superficie cultivée est passée de 227 000 à 3 264 000 hectares entre 1958 et 1986, soit plus de dix fois plus. Avec 3,2 millions d'hectares dans le monde, c'est la troisième essence de feuillus de plantation après le peuplier et l'eucalyptus.",
         "truncated": false
       }
     }
@@ -393,7 +464,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -541,7 +612,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30034699-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -549,7 +620,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30034699-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000213931.webp",
@@ -562,6 +633,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

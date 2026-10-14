@@ -18,35 +18,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "イワダレソウ"
     ],
-    "en": [
-      "turkey tangle fogfruit",
-      "Turkey Tangle Frogfruit",
-      "frog fruit",
-      "sawtooth fogfruit",
-      "turkey tangle"
-    ],
-    "fr": [
-      "Verveine Nodiflore"
-    ],
-    "zh": [
-      "鴨舌癀",
-      "鴨嘴黃",
-      "過江藤",
-      "过江藤",
-      "蓬莱草",
-      "过江龙"
-    ],
-    "bn": [
-      "ভূঁই ওকরা"
-    ],
-    "ne": [
-      "मत्स्यगन्धा"
+    "id": [
+      "Gigi gergaji"
     ],
     "ml": [
       "നീർത്തിപ്പലി"
@@ -57,8 +36,22 @@
     "pnb": [
       "بوکن"
     ],
+    "zh": [
+      "过江藤",
+      "鴨舌癀",
+      "鴨嘴黃",
+      "過江藤",
+      "蓬莱草",
+      "过江龙"
+    ],
+    "ne": [
+      "मत्स्यगन्धा"
+    ],
     "th": [
       "หญ้าเหล็กขูด"
+    ],
+    "bn": [
+      "ভূঁই ওকরা"
     ],
     "fa": [
       "توت پایابی"
@@ -66,18 +59,25 @@
     "ha": [
       "Godon kada"
     ],
-    "id": [
-      "Gigi gergaji"
-    ],
     "he": [
       "ליפיה זוחלת"
+    ],
+    "en": [
+      "turkey tangle fogfruit",
+      "Turkey Tangle Frogfruit",
+      "frog fruit",
+      "sawtooth fogfruit",
+      "turkey tangle"
+    ],
+    "fr": [
+      "Verveine Nodiflore"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3273836",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3273836",
   "search_names": {
@@ -88,22 +88,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「イワダレソウ」",
+      "source": "Wikipedia (ja): イワダレソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AF%E3%83%80%E3%83%AC%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110374376,
       "text": "イワダレソウ はクマツヅラ科イワダレソウ属の植物。地表を低く這う植物で、よく群落を作る。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Phyla nodiflora」",
+      "source": "Wikipedia (en): Phyla nodiflora",
       "source_url": "https://en.wikipedia.org/wiki/Phyla_nodiflora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1322816858,
       "text": "Phyla nodiflora, commonly known as lippia, kurapia, turkey tangle frogfruit, capeweed, and frogfruit, is a species of flowering plant in the family Verbenaceae. It can be found in the tropics around the globe. It is often grown as an ornamental plant for ground cover, and is often present in yards or disturbed areas."
+    },
+    "es": {
+      "source": "Wikipedia (es): Phyla nodiflora",
+      "source_url": "https://es.wikipedia.org/wiki/Phyla_nodiflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171452748,
+      "text": "Phyla nodiflora es una especie de plantas con flores de la familia Verbenaceae. Es una planta cosmopolita que puede encontrar en los trópicos de todo el mundo. A menudo se cultiva como planta ornamental para cubrir el suelo y, a menudo, está presente en patios o áreas perturbadas.[cita requerida]"
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Phyla nodiflora",
+      "source_url": "https://fr.wikipedia.org/wiki/Phyla_nodiflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235652223,
+      "text": "Phyla nodiflora, Phyla à fleurs nodales, est une espèce de plantes herbacées ornementales de la famille des Verbénacées."
+    },
+    "id": {
+      "source": "Wikipedia (id): Gigi gergaji",
+      "source_url": "https://id.wikipedia.org/wiki/Gigi_gergaji",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29824463,
+      "text": "Phyla nodiflora, umumnya dikenal sebagai gigi gergaji, adalah spesies tanaman berbunga dalam famili Verbenaceae. Ini dapat ditemukan di daerah Tropis di seluruh dunia. Ini sering ditanam sebagai tanaman hias penutup tanah, dan sering ada di pekarangan atau daerah yang terganggu."
     }
   },
   "edible": {
@@ -119,7 +146,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -311,7 +338,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/194567-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or subshrub",
@@ -319,7 +346,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/194567-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000270345.webp",
@@ -332,6 +359,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

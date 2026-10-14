@@ -20,24 +20,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "バンレイシ"
     ],
-    "en": [
-      "sugar apple"
+    "fr": [
+      "Attier"
     ],
-    "zh": [
-      "番荔枝",
-      "釋迦",
-      "番荔枝根",
-      "番荔枝叶"
+    "pt": [
+      "Fruta-pinha"
     ],
-    "mg": [
-      "Zato",
-      "zaty"
+    "id": [
+      "Srikaya"
     ],
     "nan": [
       "Sek-khia"
@@ -51,9 +47,6 @@
     "qu": [
       "Saramuyu"
     ],
-    "fr": [
-      "Attier"
-    ],
     "ta": [
       "சீதாப் பழம்"
     ],
@@ -62,9 +55,6 @@
     ],
     "de": [
       "Zimtapfel"
-    ],
-    "id": [
-      "Srikaya"
     ],
     "ml": [
       "സീതപ്പഴം"
@@ -80,9 +70,6 @@
     ],
     "nl": [
       "zoetzak"
-    ],
-    "pt": [
-      "Fruta-pinha"
     ],
     "ht": [
       "Kachiman kanèl"
@@ -129,6 +116,12 @@
     "bn": [
       "আতা"
     ],
+    "zh": [
+      "番荔枝",
+      "釋迦",
+      "番荔枝根",
+      "番荔枝叶"
+    ],
     "sv": [
       "Sockerannona"
     ],
@@ -137,6 +130,10 @@
     ],
     "dv": [
       "ދިވެހި އަތަ"
+    ],
+    "mg": [
+      "zaty",
+      "Zato"
     ],
     "yue": [
       "番鬼荔枝"
@@ -221,13 +218,16 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇဢေႃးၸႃႇ"
+    ],
+    "en": [
+      "sugar apple"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q275620",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q275620",
   "search_names": {
@@ -244,35 +244,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「バンレイシ」",
+      "source": "Wikipedia (ja): バンレイシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%AC%E3%82%A4%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109569515,
       "text": "バンレイシ は、バンレイシ科バンレイシ属に属する植物の1種、またはその果実のことである。多数の果実が合着した集合果を形成し（図1）、その形態を釈迦の頭に例えて釈迦頭 とも呼ばれる。英名に基づいてシュガーアップル やスウィートソップ（sweetsop）とも呼ばれる。バンレイシ属の他の種と同様、カスタードアップル と呼ばれることもある。中米原産であるが、世界中の熱帯域で広く栽培され、果実が食用とされている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Annona squamosa」",
+      "source": "Wikipedia (en): Annona squamosa",
       "source_url": "https://en.wikipedia.org/wiki/Annona_squamosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371659372,
       "text": "Annona squamosa is a small, well-branched tree or shrub from the family Annonaceae that bears edible fruits called sugar apples, sweetsops or custard apples. It tolerates a tropical lowland climate better than its relatives Annona reticulata and Annona cherimola, and is the most widely cultivated of these Annona species."
+    },
+    "es": {
+      "source": "Wikipedia (es): Annona squamosa",
+      "source_url": "https://es.wikipedia.org/wiki/Annona_squamosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 169982519,
+      "text": "Annona squamosa, llamado comúnmente Anón, ates, o atis, riñón, anona, chirimoya, o saramuyo, es un frutal perteneciente al género Annona, de la familia Annonaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Attier",
+      "source_url": "https://fr.wikipedia.org/wiki/Attier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238392032,
+      "text": "L'attier ou pommier cannelle est une espèce de plantes à fleurs de la famille des Annonaceae et du genre Annona. C'est un arbuste fruitier originaire d'Amérique tropicale. Il diffère du pommier cannelle du Sénégal."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Fruta-pinha",
+      "source_url": "https://pt.wikipedia.org/wiki/Fruta-pinha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72964447,
+      "text": "Annona squamosa é uma árvore ou arbusto pequeno e bem ramificado da família Annonaceae que produz frutas comestíveis chamadas de fruta-do-conde, também chamadas de pinha, ata e saramuyo. Tolera um clima tropical de planície melhor do que seus parentes Annona reticulata e Annona cherimola, ajudando a torná-la a mais amplamente cultivada dessas espécies. Annona squamosa é uma pequena, semi-(ou tardia) decídua, arbusto muito ramificado ou pequena árvore que possui de 3 a 8 metros de altura, sendo semelhante à graviola."
+    },
+    "id": {
+      "source": "Wikipedia (id): Srikaya",
+      "source_url": "https://id.wikipedia.org/wiki/Srikaya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28166616,
+      "text": "Srikaya atau atis, adalah tanaman yang tergolong ke dalam genus Annona yang berasal dari daerah tropis dan subtropis"
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「バンレイシ」の節「栽培」",
+        "source": "Wikipedia (ja): バンレイシ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%AC%E3%82%A4%E3%82%B7#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109569515,
         "heading": "栽培",
         "text": "バンレイシはバンレイシ属の中では最も広く栽培されており、アメリカ、アフリカ、アジア、太平洋の熱帯域で見られる（図4a）。栽培には高温を必要とするが乾燥には強く、乾燥後の降雨によって着花数が多くなる。\nバンレイシは、種子または挿し木、接ぎ木によって増やす。種子の発芽率は90–95%に達する。植え付け後2–4年で実をつけ始めるが，1本の木あたりの収穫量は年平均40–75個と多くはない。果実の収穫期は、台湾では7月から3月、インドでは8月から11月、タイや米国フロリダ州、西インド諸島では7月から10月である。完熟前に収穫され、追熟させる。\n\n病虫害としては炭疽病（Colletrotrichia）、ならたけ病（Armillaria）、青枯病（Pseudomonas）、黒斑病（Phytophthora）、Phomopsis、果実腐敗（Gliocladium）、さび病（Phakopsora）、キクイムシ、コバチ（Bephratelloides）、ガ（Cerconota, Anonaepestis）、カメムシ（Amblypelta）、ミバエ、カイガラムシ、ハダニなどが知られている。\nさまざまな品種が作出されており、‘Arka’、‘Arka Sahan’、‘Balanagar’、‘Balondegar’、‘Barbadose Seedling’、‘British Guinea’、‘Lal Sitiphal’、‘Mammoth’、‘Puranddhar’、‘Washington’、‘Sindhan’、‘Ruan-zhi’、‘Cu-lin’、‘Da-mu’、‘Xi-lin’、‘Tai-nong no.1’ などがある。また ‘Cuban Seedless’ はキューバ産の種無し品種である。果実が赤紫色になる品種も存在し（‘Red Sitaphal’）、日本ではレッドアテスとも呼ばれる（上図4b）。\n1907年、米国フロリダ州において、バンレイシとチェリモヤ（Annona cherimola）の交雑によってアテモヤ（Annona × atemoya）が作出され（この交雑は独立に何度も起こっている）、広く栽培されている（上図4c）。",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Attier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Attier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238392032,
+        "heading": "Culture",
+        "text": "Comme la plupart des espèces d'Annona, l'attier nécessite un climat tropical ou subtropical avec des températures estivales de 25 °C à 41 °C, et une moyenne des températures hivernales au-dessus de 15 °C. Il est sensible au froid et au gel. Il perd ses feuilles en dessous de 10 °C et meurt s'il est exposé à des températures négatives. Il est seulement modérément tolérant à la sécheresse, nécessitant au moins 700 mm de précipitations annuelles, et ne produira pas de fruits en période de sécheresse.\nDans de bonnes conditions, il est très prolifique, et produit des fruits dès deux ou trois ans après le semis. À cinq ans l'arbre peut produire jusqu'à 50 pommes cannelle.\n\n■ Pollinisation\n\nUne faible production de fruits a été rapportée en Floride parce qu'il y a peu de pollinisateurs naturels (les abeilles pénètrent difficilement les fleurs femelles fermées hermétiquement) ; Toutefois, la pollinisation à la main avec une brosse en fibres naturelles est efficace pour augmenter le rendement. Les pollinisateurs naturels sont les coléoptères (Coleoptera) des familles Nitidulidae, Staphylinidae, Chrysomelidae, Curculionidae et Scarabeidae. Aux Philippines, le fruit est couramment consommé par la roussette (kabag ou kabog), qui propage ensuite les graines d'île en île. L'attier est une plante hôte pour les larves du papillon Graphium agamemnon.",
         "truncated": false
       }
     }
@@ -293,7 +340,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -388,7 +435,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/72319-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -396,7 +443,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/72319-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000537947.webp",
@@ -409,6 +456,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

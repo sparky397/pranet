@@ -25,33 +25,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ツルコケモモ"
-    ],
-    "en": [
-      "Small Cranberry",
-      "Bog Cranberry"
-    ],
-    "cy": [
-      "llygaeren"
-    ],
-    "nl": [
-      "Kleine veenbes"
-    ],
-    "cs": [
-      "klikva bahenní"
-    ],
-    "ast": [
-      "arandanera bermeya"
     ],
     "hu": [
       "tőzegáfonya"
     ],
     "ar": [
       "عنب المناقع"
+    ],
+    "cs": [
+      "klikva bahenní"
     ],
     "da": [
       "almindelig tranebær"
@@ -76,6 +63,9 @@
     ],
     "lt": [
       "Paprastoji spanguolė"
+    ],
+    "nl": [
+      "kleine veenbes"
     ],
     "pl": [
       "żurawina błotna"
@@ -106,6 +96,9 @@
     ],
     "ru": [
       "Клюква болотная"
+    ],
+    "cy": [
+      "Llygaeren"
     ],
     "sk": [
       "kľukva močiarna"
@@ -145,13 +138,20 @@
     ],
     "sjd": [
       "рыһпмӯррьй"
+    ],
+    "en": [
+      "Small Cranberry",
+      "Bog Cranberry"
+    ],
+    "ast": [
+      "arandanera bermeya"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q374399",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q374399",
   "search_names": {
@@ -165,32 +165,50 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ツルコケモモ」",
+      "source": "Wikipedia (ja): ツルコケモモ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111252728,
       "text": "ツルコケモモ はツツジ科スノキ属ツルコケモモ亜属の常緑小低木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vaccinium oxycoccos」",
+      "source": "Wikipedia (en): Vaccinium oxycoccos",
       "source_url": "https://en.wikipedia.org/wiki/Vaccinium_oxycoccos",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365322145,
       "text": "Vaccinium oxycoccos is a species of cranberry in the heath family. It is known as small cranberry, marshberry, bog cranberry, swamp cranberry, or just cranberry. It occurs broadly across cooler climates in the temperate Northern Hemisphere."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vaccinium oxycoccos",
+      "source_url": "https://es.wikipedia.org/wiki/Vaccinium_oxycoccos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580820,
+      "text": "El arándano palustre es una especie de planta fanerógama perteneciente a la familia Ericaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vaccinium oxycoccos",
+      "source_url": "https://fr.wikipedia.org/wiki/Vaccinium_oxycoccos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236123504,
+      "text": "Vaccinium oxycoccos, de noms communs Canneberge ou Myrtille des marais, est une espèce de plantes de la famille des Ericaceae, du genre Vaccinium et du sous-genre Oxycoccos (Canneberges)."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ツルコケモモ」の節「栽培」",
+        "source": "Wikipedia (ja): ツルコケモモ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111252728,
         "heading": "栽培",
         "text": "植えつけ場所は、午前中は日当たりがよく、午後は明るい木陰になるような場所がよい。水やりは、庭植えの場合でも土を乾かさないように随時行う必要がある。\n植え付けの適期は2月中旬から3月中旬頃。植え替えは、根詰まりを防ぎ、通気をよくするのが目的で、生育具合にもよるが、通常2年に1回は必要になる。\n増やしたい場合、2月中旬から下旬に株分けをするか、3月、あるいは梅雨の時期に挿し芽をして増やす。\n株が混んだら随時、間引いたり、切り詰めを行う。",
@@ -208,7 +226,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -298,7 +316,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/261956-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -306,7 +324,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/261956-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000421932.webp",
@@ -319,6 +337,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 266,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

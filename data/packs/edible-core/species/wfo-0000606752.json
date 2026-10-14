@@ -25,13 +25,13 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "zh": [
+      "白粉藤",
       "粉藤",
       "四方藤",
-      "白粉藤",
       "独脚乌桕"
     ],
     "ta": [
@@ -51,18 +51,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5122258",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5122258",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cissus repens」",
+      "source": "Wikipedia (en): Cissus repens",
       "source_url": "https://en.wikipedia.org/wiki/Cissus_repens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1135726036,
       "text": "Cissus repens is a species of tropical rainforest vine in the grape family. It is found in various parts of Asia including Malaysia. This vine is recorded as far south as Cape York Peninsula and the wet tropics region of north eastern Queensland, Australia. It has heart shaped leaves, near them on the stem is the tendril. The specific epithet repens is from the Latin, meaning “creeping”."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cissus repens",
+      "source_url": "https://es.wikipedia.org/wiki/Cissus_repens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173316316,
+      "text": "Cissus repens es una especie del género Cissus en la familia Vitaceae. Es una planta trepadora que se encuentra en Asia y Australia."
     }
   },
   "edible": {
@@ -75,7 +84,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -114,7 +123,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/67906-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "liana",
@@ -122,7 +131,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/67906-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000606752.webp",
@@ -135,6 +144,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

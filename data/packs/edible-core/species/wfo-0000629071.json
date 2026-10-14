@@ -14,15 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Missouri gourd"
-    ],
-    "zh": [
-      "臭瓜"
-    ],
     "ru": [
       "Тыква вонючая"
     ],
@@ -40,13 +34,19 @@
     ],
     "shn": [
       "တူၼ်ႈၶၢမ်းလိၼ်"
+    ],
+    "en": [
+      "Missouri gourd"
+    ],
+    "zh": [
+      "臭瓜"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311136",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311136",
   "search_names": {
@@ -56,13 +56,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cucurbita foetidissima」",
+      "source": "Wikipedia (en): Cucurbita foetidissima",
       "source_url": "https://en.wikipedia.org/wiki/Cucurbita_foetidissima",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1342614059,
       "text": "Cucurbita foetidissima is a tuberous xerophytic plant found in the central and southwestern United States and northern Mexico. It has numerous common names, but is most commonly called the buffalo gourd in English. The type specimen was collected from Mexico by Alexander von Humboldt and Aimé Bonpland sometime before 1817. In Latin, foetidissima means most unpleasant smell."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cucurbita foetidissima",
+      "source_url": "https://es.wikipedia.org/wiki/Cucurbita_foetidissima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174388039,
+      "text": "Cucurbita foetidissima es una planta tuberosa y una verdadera planta xerófila que se encuentra en el suroeste de Estados Unidos y noroeste de México."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cucurbita foetidissima",
+      "source_url": "https://fr.wikipedia.org/wiki/Cucurbita_foetidissima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229091009,
+      "text": "Cucurbita foetidissima est une espèce de plantes à fleurs de la famille des Cucurbitaceae, originaire du Sud-Ouest des États-Unis et du nord du Mexique."
     }
   },
   "edible": {
@@ -77,7 +95,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -114,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/292371-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tuberous geophyte",
@@ -122,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/292371-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000629071.webp",
@@ -135,6 +153,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

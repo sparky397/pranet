@@ -12,17 +12,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "fr": [
+      "Morelle de Linné"
+    ],
     "co": [
       "Pomu di sodoma"
     ],
     "de": [
       "Sodomsapfel"
-    ],
-    "fr": [
-      "Morelle de Linné"
     ],
     "nl": [
       "Sodomsappel"
@@ -53,18 +53,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q683282",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q683282",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Solanum linnaeanum」",
+      "source": "Wikipedia (en): Solanum linnaeanum",
       "source_url": "https://en.wikipedia.org/wiki/Solanum_linnaeanum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1177000536,
       "text": "Solanum linnaeanum is a nightshade species known as devil's apple and, in some places where it is introduced, apple of Sodom. The latter name is also used for other nightshades and entirely different plants elsewhere, in particular the poisonous milkweed Calotropis procera."
+    },
+    "es": {
+      "source": "Wikipedia (es): Solanum linnaeanum",
+      "source_url": "https://es.wikipedia.org/wiki/Solanum_linnaeanum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 168024808,
+      "text": "Solanum linnaeanum es una planta venenosa parecida al tomate siendo natural de Sudáfrica y considerada una planta invasora en Australia y Nueva Zelanda. Ampliamente naturalizada en el Mediterráneo y en la península ibérica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Morelle de Linné",
+      "source_url": "https://fr.wikipedia.org/wiki/Morelle_de_Linn%C3%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 217469589,
+      "text": "La morelle de Linné est une plante de la famille des Solanacées et du genre Solanum. Synonyme : Solanum sodomaeum. Originaire d'Afrique, elle est naturalisée sur le pourtour méditerranéen, où elle pousse au bord des chemins, dans les friches et les lieux caillouteux, notamment au bord de la mer. Floraison de mai à septembre."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Solanum linnaeanum",
+      "source_url": "https://pt.wikipedia.org/wiki/Solanum_linnaeanum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71187098,
+      "text": "Solanum linnaeanum, conhecido pelos nomes comuns tomate-de-sodoma ou tomateiro-do-diabo, é uma espécie de planta com flor pertencente à família Solanaceae."
     }
   },
   "edible": {
@@ -79,7 +106,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -129,7 +156,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/930040-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -137,7 +164,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/930040-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001029101.webp",
@@ -150,6 +177,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 299,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

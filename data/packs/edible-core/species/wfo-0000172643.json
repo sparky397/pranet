@@ -11,22 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Bleedwood tree",
-      "Kiaat",
-      "Mukwa",
-      "Kiaat Bloodwood"
-    ],
-    "af": [
-      "Kiaat",
-      "Bloedhoud"
-    ],
-    "zh": [
-      "安哥拉紫檀"
-    ],
     "et": [
       "Angoola tiibviljak"
     ],
@@ -47,13 +34,26 @@
     ],
     "ar": [
       "توز مرجاني"
+    ],
+    "zh": [
+      "安哥拉紫檀"
+    ],
+    "en": [
+      "Bleedwood tree",
+      "Kiaat",
+      "Mukwa",
+      "Kiaat Bloodwood"
+    ],
+    "af": [
+      "Kiaat",
+      "Bloedhoud"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2716882",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2716882",
   "search_names": {
@@ -63,13 +63,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pterocarpus angolensis」",
+      "source": "Wikipedia (en): Pterocarpus angolensis",
       "source_url": "https://en.wikipedia.org/wiki/Pterocarpus_angolensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1324253487,
       "text": "Pterocarpus angolensis is a species of Pterocarpus native to southern Africa, in Angola, Mozambique, Namibia, South Africa, Eswatini, Tanzania, Democratic Republic of the Congo, Zimbabwe, and Zambia. It is a protected tree in South Africa. The name Kiaat, although Afrikaans, is sometimes used outside South Africa as well. In Zimbabwe, depending on the region, it is known as Mukwa or Mubvamaropa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pterocarpus angolensis",
+      "source_url": "https://es.wikipedia.org/wiki/Pterocarpus_angolensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171202766,
+      "text": "Pterocarpus angolensis es una especie de árbol perteneciente a la familia de las fabáceas. Es originaria de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pterocarpus angolensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Pterocarpus_angolensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223751454,
+      "text": "Pterocarpus angolensis est une espèce de plantes à fleurs du genre Pterocarpus et de la famille des Fabaceae. C’est un arbre trouvé en Afrique australe."
     }
   },
   "edible": {
@@ -88,7 +106,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -111,7 +129,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/516403-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -119,7 +137,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/516403-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000172643.webp",
@@ -132,6 +150,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

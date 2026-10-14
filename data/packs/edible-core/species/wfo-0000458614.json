@@ -18,9 +18,33 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "de": [
+      "Französische Tamariske"
+    ],
+    "hsb": [
+      "Chinska tamariska"
+    ],
+    "ar": [
+      "أثل فرنسي"
+    ],
+    "et": [
+      "prantsuse tamarisk"
+    ],
+    "sl": [
+      "navadna tamariša"
+    ],
+    "kab": [
+      "Amemmay"
+    ],
+    "arz": [
+      "اثل فرنسى"
+    ],
+    "mzn": [
+      "گز دار"
+    ],
     "fr": [
       "Tamaris commun"
     ],
@@ -35,48 +59,51 @@
     ],
     "cs": [
       "tamaryšek francouzský"
-    ],
-    "sl": [
-      "navadna tamariša"
-    ],
-    "de": [
-      "Französische Tamariske"
-    ],
-    "hsb": [
-      "Chinska tamariska"
-    ],
-    "ar": [
-      "أثل فرنسي"
-    ],
-    "et": [
-      "prantsuse tamarisk"
-    ],
-    "kab": [
-      "Amemmay"
-    ],
-    "arz": [
-      "اثل فرنسى"
-    ],
-    "mzn": [
-      "گز دار"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164285",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164285",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Tamarix gallica」",
+      "source": "Wikipedia (en): Tamarix gallica",
       "source_url": "https://en.wikipedia.org/wiki/Tamarix_gallica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1315358380,
       "text": "Tamarix gallica, also known as the French tamarisk, is a deciduous, herbaceous, twiggy shrub or small tree reaching up to about 5 meters high."
+    },
+    "es": {
+      "source": "Wikipedia (es): Tamarix gallica",
+      "source_url": "https://es.wikipedia.org/wiki/Tamarix_gallica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175415781,
+      "text": "Tamarix gallica, llamada vulgarmente taray, taraje, tamariz o tamarisco, es una especie vegetal de la familia de las Tamaricáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Tamarix gallica",
+      "source_url": "https://fr.wikipedia.org/wiki/Tamarix_gallica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223324907,
+      "text": "Le Tamaris commun, Tamarix commun, Tamaris de France ou Tamarix de France est un arbuste ou arbrisseau bien adapté au climat méditerranéen, où il pousse spontanément. En conditions naturelles, cette espèce préfère les milieux plus ou moins humides ou sableux proches de la mer, dans les zones humides ou à proximité des cours d'eau."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tamarix gallica",
+      "source_url": "https://pt.wikipedia.org/wiki/Tamarix_gallica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66968328,
+      "text": "Tamarix gallica é uma espécie de planta com flor pertencente à família Tamaricaceae."
     }
   },
   "edible": {
@@ -91,7 +118,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -146,7 +173,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828110-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -154,7 +181,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828110-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000458614.webp",
@@ -167,6 +194,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -35,21 +35,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "es": [
-      "Cadushi"
-    ],
-    "en": [
-      "Apple Cactus"
-    ],
-    "zh": [
-      "六角柱",
-      "秘鲁天轮柱"
-    ],
-    "pap": [
-      "kadushi"
+    "id": [
+      "Kaktus gada"
     ],
     "he": [
       "קובו"
@@ -57,32 +47,69 @@
     "lt": [
       "Venesuelinis stulpenis"
     ],
+    "pap": [
+      "Kadushi"
+    ],
     "ar": [
       "شمعية متموجة الحواف"
     ],
     "arz": [
       "شمعيه عسماء"
     ],
-    "id": [
-      "Kaktus gada"
+    "zh": [
+      "秘鲁天轮柱",
+      "六角柱"
+    ],
+    "es": [
+      "Cadushi"
+    ],
+    "en": [
+      "Apple Cactus"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q310887",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q310887",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cereus repandus」",
+      "source": "Wikipedia (en): Cereus repandus",
       "source_url": "https://en.wikipedia.org/wiki/Cereus_repandus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1349118284,
       "text": "Cereus repandus, the Peruvian apple cactus, is a large, erect, spiny columnar cactus found in South America. It is also known as giant club cactus, hedge cactus, cadushi, and kayush."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cereus repandus",
+      "source_url": "https://es.wikipedia.org/wiki/Cereus_repandus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171574701,
+      "text": "Cereus repandus, conocida comúnmente como lefaria, breva, cactus manzana peruano, cardón uruguayo o cadushi, es una especie de planta suculenta perteneciente al género Cereus, dentro de la familia Cactaceae. Se distribuye por el sur del Caribe, desde Venezuela hasta Colombia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cereus repandus",
+      "source_url": "https://fr.wikipedia.org/wiki/Cereus_repandus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 202279382,
+      "text": "Le Cereus repandus aussi appelé Cierge du Pérou est un large, dressé et épineux cactus colonnaire répertorié en Amérique du Sud ainsi qu'aux abords des îles ABC des caraïbes hollandaises. Il est aussi connu sous le nom de : Giant Club Cactus, Hedge Cactus, cadushi et kayush."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kaktus gada",
+      "source_url": "https://id.wikipedia.org/wiki/Kaktus_gada",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29706126,
+      "text": "Cereus repandus, kaktus apel Peru, adalah kaktus kolumnar berduri besar, tegak, dan ditemukan di Amerika Selatan. Ia juga dikenal sebagai kaktus gada raksasa, kaktus pagar, cadushi, dan kayush."
     }
   },
   "edible": {
@@ -98,7 +125,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -115,7 +142,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/130627-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent tree",
@@ -123,7 +150,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/130627-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000597593.webp",
@@ -136,6 +163,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 266,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

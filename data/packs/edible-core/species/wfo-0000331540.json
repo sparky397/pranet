@@ -16,12 +16,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "West Indian vanilla"
-    ],
     "da": [
       "Guadeloupevanilje"
     ],
@@ -30,13 +27,16 @@
     ],
     "arz": [
       "الفانيليا بومبونا"
+    ],
+    "en": [
+      "West Indian vanilla"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q292737",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q292737",
   "search_names": {
@@ -46,13 +46,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Vanilla pompona」",
+      "source": "Wikipedia (en): Vanilla pompona",
       "source_url": "https://en.wikipedia.org/wiki/Vanilla_pompona",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1320329294,
       "text": "Vanilla pompona is a species of vanilla orchid. It is native to Mexico and northern South America, and is one of the sources for vanilla flavouring, due to its high vanillin content. According to research by British and Swedish scientists, the smell of vanilla is a favorite among most people in the world."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vanilla pompona",
+      "source_url": "https://es.wikipedia.org/wiki/Vanilla_pompona",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 167819687,
+      "text": "Vanilla pompona, es una especie de orquídea de hábito trepador y de crecimiento esparcido que es originaria de México a Costa Rica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vanilla pompona",
+      "source_url": "https://fr.wikipedia.org/wiki/Vanilla_pompona",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058673,
+      "text": "Vanilla pompona, le vanillon, est une espèce de plantes à fleurs monocotylédones de la famille des Orchidaceae, originaire des régions tropicales des Amériques."
     }
   },
   "edible": {
@@ -65,7 +83,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -101,7 +119,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/661259-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climber",
@@ -109,7 +127,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/661259-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000331540.webp",
@@ -122,6 +140,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 344,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

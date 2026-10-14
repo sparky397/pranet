@@ -10,19 +10,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "en": [
       "Caribbean pine",
       "Caribbean Pine"
-    ],
-    "es": [
-      "Pino de la Costa",
-      "Pino Macho"
-    ],
-    "zh": [
-      "加勒比松"
     ],
     "eo": [
       "Kariba pino"
@@ -38,6 +31,9 @@
     ],
     "de": [
       "Karibische Kiefer"
+    ],
+    "zh": [
+      "加勒比松"
     ],
     "ms": [
       "Pokok Caribaea"
@@ -62,24 +58,55 @@
     ],
     "el": [
       "Πεύκο το καραϊβικός"
+    ],
+    "es": [
+      "Pino de la Costa",
+      "Pino Macho"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2900918",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2900918",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Caribbean pine」",
+      "source": "Wikipedia (en): Caribbean pine",
       "source_url": "https://en.wikipedia.org/wiki/Caribbean_pine",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377204544,
       "text": "The Caribbean pine is a species of conifer in the family Pinaceae, a hard pine species native to Central America, southeastern Mexico, and the northern West Indies. It belongs to subsection Australes in subgenus Pinus. It inhabits tropical and subtropical coniferous forests such as Bahamian pineyards, in both lowland savannas and montane forests."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus caribaea",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_caribaea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174825363,
+      "text": "Pinus caribaea, el pino macho, es una especie de pino nativo de México, Cuba, Bahamas, Belice, Guatemala, El Salvador ,Honduras, Nicaragua, Panamá e Islas Turcas y Caicos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pinus caribaea",
+      "source_url": "https://fr.wikipedia.org/wiki/Pinus_caribaea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237639272,
+      "text": "Le pin caraïbe, Pinus caribaea une espèce de conifères de la famille des Pinaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus caribaea",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_caribaea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73050763,
+      "text": "Pinus caribaea é uma espécie de pinheiro originária do Novo Mundo. Faz parte do grupo de espécies de pinheiros com área de distribuição na América Central, Caraíbas, México, sul do Arizona e Novo México."
     }
   },
   "edible": {
@@ -94,7 +121,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -124,7 +151,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/314859-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -132,7 +159,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/314859-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000482235.webp",
@@ -145,6 +172,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 379,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -11,12 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "智利榛"
-    ],
     "qu": [
       "Qiwin"
     ],
@@ -25,6 +22,9 @@
     ],
     "de": [
       "Chilenische Haselnuss"
+    ],
+    "zh": [
+      "智利榛"
     ],
     "he": [
       "לוז צ'יליאני"
@@ -43,18 +43,60 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2716551",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2716551",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Gevuina」",
+      "source": "Wikipedia (en): Gevuina",
       "source_url": "https://en.wikipedia.org/wiki/Gevuina",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369383196,
       "text": "Gevuina avellana, commonly known as the Chilean hazelnut or Gevuina hazelnut, is an evergreen tree growing up to 20 meters tall. It is the only species currently classified in the genus Gevuina belonging to the family Proteaceae. It is native to southern Chile and adjacent valleys in Argentina; it is found from sea level to 700 meters above sea level with a distribution that extends from 35° to 44° south latitude. Its indigenous name is guevin in Mapudungun."
+    },
+    "es": {
+      "source": "Wikipedia (es): Gevuina avellana",
+      "source_url": "https://es.wikipedia.org/wiki/Gevuina_avellana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 163141883,
+      "text": "Gevuina avellana es la única especie del género Gevuina, de la familia Proteaceae. La especie se conoce con los nombres vulgares de avellano o avellano chileno y es un árbol perenne monoico. Crece en los bosques templados de Chile, entre los 35° y los 44° de latitud Sur. Este árbol se adapta a diferentes climas y terrenos pero nunca pasando a lo extremo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Gevuina avellana",
+      "source_url": "https://fr.wikipedia.org/wiki/Gevuina_avellana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226816965,
+      "text": "L’avellano, noisetier chilien ou gevuín, est une espèce de plantes à fleurs de la famille des Proteaceae. C'est un arbres à feuilles persistantes qui pousse dans les forêts tempérées du centre sud du Chili et Argentine, entre 35 et 44º de latitude Sud. Les colonisateurs espagnols l'ont appelé avellano à cause de la ressemblance de ses fruits avec ceux de Corylus avellana, le noisetier commun ou européen qui porte ce nom en espagnol."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Gevuina",
+      "source_url": "https://pt.wikipedia.org/wiki/Gevuina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66258955,
+      "text": "Gevuina é um género botânico pertencente à família Proteaceae."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Gevuina avellana § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Gevuina_avellana#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 163141883,
+        "heading": "Cultivo",
+        "text": "Crece bien en clima templado oceánico con temperaturas frescas y donde las heladas son comunes.\nTiene una aceptable resistencia a las heladas; al menos −12 °C en madurez; por lo que puede ser cultivada hasta en zonas geográficas australes equivalentes a la zona de rusticidad 8.\nEste árbol fue introducido en Gran Bretaña en 1826. Crece bien en Irlanda, Escocia, Nueva Zelanda, California y algunas partes de Inglaterra; existen pocos especímenes cultivados en España​ y la costa noroeste del Pacífico de Estados Unidos.​ \nEl árbol más alto en las islas británicas mide 17 m. En Seattle, Washington, ardillas y aves comen de sus semillas.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -68,7 +110,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -82,7 +124,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/703659-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -90,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/703659-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000702478.webp",
@@ -103,6 +145,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 291,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

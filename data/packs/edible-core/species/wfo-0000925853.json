@@ -23,14 +23,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "吕宋贝叶棕",
-      "高大贝叶棕",
-      "吕宋糖棕"
-    ],
     "lt": [
       "Aukštoji korifa"
     ],
@@ -54,13 +49,18 @@
     ],
     "et": [
       "kõrge varipalm"
+    ],
+    "zh": [
+      "吕宋贝叶棕",
+      "高大贝叶棕",
+      "吕宋糖棕"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3768507",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3768507",
   "search_names": {
@@ -71,13 +71,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Corypha utan」",
+      "source": "Wikipedia (en): Corypha utan",
       "source_url": "https://en.wikipedia.org/wiki/Corypha_utan",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357231827,
       "text": "Corypha utan, the cabbage palm, buri palm or gebang palm, is a species of palm native to Asia and Oceania."
+    },
+    "es": {
+      "source": "Wikipedia (es): Corypha utan",
+      "source_url": "https://es.wikipedia.org/wiki/Corypha_utan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 128822650,
+      "text": "Corypha utan es una especie de palmera originaria del Sudeste de Asia hasta el norte de Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Corypha utan",
+      "source_url": "https://fr.wikipedia.org/wiki/Corypha_utan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 220681429,
+      "text": "Corypha utan est une espèce de plantes à fleurs de la famille des Arecaceae. Il est également dénommé cabbage palm, buri palm or gebang palm. Il est originaire dAsie et d'Océanie."
     }
   },
   "edible": {
@@ -95,7 +113,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -125,7 +143,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/666349-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -133,7 +151,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/666349-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000925853.webp",
@@ -146,6 +164,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 252,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

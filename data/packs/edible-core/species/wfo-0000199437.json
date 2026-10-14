@@ -8,14 +8,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "酸榄豆",
-      "印度酸欖豆"
-    ],
     "id": [
+      "Keranji",
       "Asam keranji"
     ],
     "bjn": [
@@ -33,6 +30,10 @@
     "th": [
       "กาหยีเขา"
     ],
+    "zh": [
+      "印度酸欖豆",
+      "酸榄豆"
+    ],
     "mad": [
       "Karanjhi"
     ],
@@ -44,18 +45,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q314303",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q314303",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Dialium indum」",
+      "source": "Wikipedia (en): Dialium indum",
       "source_url": "https://en.wikipedia.org/wiki/Dialium_indum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1328729910,
       "text": "Dialium indum, the tamarind-plum or velvet tamarind, is a tall, tropical, fruit-bearing tree. It belongs to the family Fabaceae, and has small, typically grape-sized edible fruits with brown hard inedible shells. No reports of cultivation exist, information on propagation is limited."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dialium indum",
+      "source_url": "https://fr.wikipedia.org/wiki/Dialium_indum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224712423,
+      "text": "Dialium indum est une espèce de plantes à fleurs de la famille des Fabaceae, originaire de l'Asie du Sud-Est."
+    },
+    "id": {
+      "source": "Wikipedia (id): Keranji",
+      "source_url": "https://id.wikipedia.org/wiki/Keranji",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29957809,
+      "text": "Keranji atau kranji adalah pohon berbuah anggota suku Fabaceae (polong-polongan)."
     }
   },
   "edible": {
@@ -68,7 +87,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -83,7 +102,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/492321-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -91,7 +110,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/492321-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000199437.webp",
@@ -104,6 +123,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

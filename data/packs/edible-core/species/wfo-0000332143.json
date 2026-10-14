@@ -11,28 +11,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "クマツヅラ"
-    ],
-    "de": [
-      "Echtes Eisenkraut",
-      "Eisenkraut"
-    ],
-    "en": [
-      "herb of the cross",
-      "vervain"
-    ],
-    "zh": [
-      "馬鞭草",
-      "鐵馬鞭",
-      "马鞭草",
-      "土马鞭;风须草"
-    ],
-    "nl": [
-      "Ijzerhard"
     ],
     "fr": [
       "Verveine officinale",
@@ -41,29 +24,24 @@
       "Veine de Vénus",
       "Herbe aux sorcières"
     ],
-    "cs": [
-      "sporýš lékařský"
-    ],
-    "fi": [
-      "rohtoverbena"
-    ],
-    "mk": [
-      "врбинка"
-    ],
-    "sl": [
-      "navadni sporiš"
-    ],
     "pl": [
       "Werbena pospolita"
     ],
     "ko": [
       "마편초"
     ],
+    "de": [
+      "Echtes Eisenkraut",
+      "Eisenkraut"
+    ],
     "rw": [
       "Umugosora"
     ],
     "hsb": [
       "Prawa twjerdźenka"
+    ],
+    "nl": [
+      "IJzerhard"
     ],
     "ar": [
       "رعي الحمام الطبي"
@@ -76,6 +54,9 @@
     ],
     "ca": [
       "berbena"
+    ],
+    "fi": [
+      "rohtoverbena"
     ],
     "uk": [
       "Вербена лікарська"
@@ -95,11 +76,20 @@
     "gv": [
       "Vervine"
     ],
+    "zh": [
+      "马鞭草",
+      "馬鞭草",
+      "鐵馬鞭",
+      "土马鞭;风须草"
+    ],
     "hu": [
       "közönséges vasfű"
     ],
     "sv": [
       "Järnört"
+    ],
+    "cs": [
+      "sporýš lékařský"
     ],
     "gl": [
       "Verxebán"
@@ -125,6 +115,9 @@
     "azb": [
       "مین‌چیچک"
     ],
+    "mk": [
+      "врбинка"
+    ],
     "hy": [
       "Աղավնիճ դեղատու"
     ],
@@ -143,18 +136,25 @@
     "arz": [
       "رعى الحمام الطبى"
     ],
+    "sl": [
+      "navadni sporiš"
+    ],
     "lv": [
       "Ārstniecības verbēna"
     ],
     "os": [
       "Хосгæнæн вербенæ"
+    ],
+    "en": [
+      "herb of the cross",
+      "vervain"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161417",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161417",
   "search_names": {
@@ -165,22 +165,77 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「クマツヅラ」",
+      "source": "Wikipedia (ja): クマツヅラ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%9E%E3%83%84%E3%83%85%E3%83%A9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106359549,
       "text": "クマツヅラ はクマツヅラ科クマツヅラ属の多年草。鳩がこの草を好むことから「pigeon grass」(鳩の草)、「pigeon meat」(鳩の餌) と言う呼び名も持つ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Verbena officinalis」",
+      "source": "Wikipedia (en): Verbena officinalis",
       "source_url": "https://en.wikipedia.org/wiki/Verbena_officinalis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375920982,
       "text": "Verbena officinalis, the common vervain or common verbena, is a perennial herb native to Europe. It grows up to 70 cm (28 in) high, with an upright habitus. The lobed leaves are toothed, and the delicate spikes hold clusters of two-lipped mauve flowers."
+    },
+    "es": {
+      "source": "Wikipedia (es): Verbena officinalis",
+      "source_url": "https://es.wikipedia.org/wiki/Verbena_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173465005,
+      "text": "Verbena officinalis es una hierba perenne nativa del sudeste de Europa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Verveine officinale",
+      "source_url": "https://fr.wikipedia.org/wiki/Verveine_officinale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230654799,
+      "text": "La Verveine officinale ou Verveine sauvage est une espèce de plantes à fleurs de la famille des Verbénacées. est une plante herbacée annuelle ou vivace. Elle est parfois appelée Herbe sacrée, Veine de Vénus, Herbe aux sorcières ou Herbe à pigeon (péristéréos)."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Verbena officinalis",
+      "source_url": "https://pt.wikipedia.org/wiki/Verbena_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 40231790,
+      "text": "Verbena officinalis é uma espécie de planta com flor pertencente à família Verbenaceae."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Verbena officinalis § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Verbena_officinalis#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 173465005,
+        "heading": "Toxicidad",
+        "text": "Los extractos de verbena pueden presentar una cierta acción hipotiroidea (disminuyen la actividad del tiroides) por lo que pueden bloquear la acción de determinadas hormonas. Está prohibido su uso en mujeres embarazadas porque el verbenalósido (heterósido irioideo que se hidroliza en verbenalol) puede causar un efecto uterotónico y dificultar las contracciones características del parto. \nDosis elevadas de verbenalina provocan la parálisis del sistema nervioso central, lo que causa la aparición de estupor y convulsiones.",
+        "truncated": false
+      }
+    },
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Verveine officinale § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Verveine_officinale#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 230654799,
+        "heading": "Culture",
+        "text": "La verveine officinale indigène se trouve dans les prairies et au bord des chemins.\nSa culture est facile, par semis au printemps ou par bouturage.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -197,7 +252,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -363,7 +418,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/330554-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -371,7 +426,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/330554-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000332143.webp",
@@ -384,6 +439,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

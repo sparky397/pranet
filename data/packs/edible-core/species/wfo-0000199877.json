@@ -18,14 +18,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ネジレフサマメノキ"
     ],
-    "zh": [
-      "臭豆"
+    "id": [
+      "Petai",
+      "petai"
     ],
     "jv": [
       "Peté"
@@ -42,11 +43,11 @@
     "ms": [
       "Petai"
     ],
-    "id": [
-      "petai"
-    ],
     "nl": [
       "Petehboon"
+    ],
+    "zh": [
+      "臭豆"
     ],
     "bg": [
       "красива паркия"
@@ -83,7 +84,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311088",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311088",
   "search_names": {
@@ -95,22 +96,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ネジレフサマメノキ」",
+      "source": "Wikipedia (ja): ネジレフサマメノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B8%E3%83%AC%E3%83%95%E3%82%B5%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109797795,
       "text": "ネジレフサマメノキ はオジギソウ連のフサマメノキ属に属する高木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Parkia speciosa」",
+      "source": "Wikipedia (en): Parkia speciosa",
       "source_url": "https://en.wikipedia.org/wiki/Parkia_speciosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378822011,
       "text": "[[File:Petaidish.jpg|thumb|right|220px| A Malaysian petai beans dish with minced meat, dried shrimp, chili, onions, belacan, and soy sauce"
+    },
+    "es": {
+      "source": "Wikipedia (es): Parkia speciosa",
+      "source_url": "https://es.wikipedia.org/wiki/Parkia_speciosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 158600619,
+      "text": "Parkia speciosa es una especie de planta tipo árbol del género Parkia en la familia Fabaceae. Produce largas vainas legumbres planas comestibles con semillas verde brillante que poseen el tamaño y la forma de almendras y que poseen un aroma peculiar, similar pero más fuerte que el del hongo Shiitake, algunas personas dicen se asemeja al olor del gas natural."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Parkia speciosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Parkia_speciosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223500626,
+      "text": "Parkia speciosa, le petai, ou pété, en indonésien, est une espèce de plantes à fleurs de la famille des Mimosaceae, ou des Fabaceae, sous-famille des Mimosoideae selon la classification phylogénétique. C'est un arbre trouvé en Asie. Il porte des gousses comestibles longues et plates avec des graines vertes brillantes de la taille et de la forme d'amandes dodues qui ont une odeur forte assez particulière, parfois comparée celle du shiitake, ou encore à celle du gaz naturel."
+    },
+    "id": {
+      "source": "Wikipedia (id): Petai",
+      "source_url": "https://id.wikipedia.org/wiki/Petai",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29397772,
+      "text": "Petai, pete (IPA:pətɛ), atau mlanding merupakan pohon tahunan tropika dari famili polong-polongan (Fabaceae), anak-suku petai-petaian (Mimosoidae). Tumbuhan ini tersebar luas di Nusantara bagian barat. Bijinya, yang disebut \"petai\" juga, dikonsumsi ketika masih muda, baik segar maupun direbus."
     }
   },
   "edible": {
@@ -124,7 +152,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -139,7 +167,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/512231-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -147,7 +175,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/512231-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000199877.webp",
@@ -160,6 +188,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 266,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

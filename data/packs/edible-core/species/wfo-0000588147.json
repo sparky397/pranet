@@ -11,7 +11,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -22,20 +22,16 @@
       "Saguaro Cactus",
       "giant cactus"
     ],
-    "es": [
-      "Saguaro"
-    ],
-    "fi": [
-      "Jättikaktus",
-      "saguarokaktus"
-    ],
-    "zh": [
-      "巨人柱",
-      "弁庆"
-    ],
-    "nl": [
-      "reuzentoortscactus",
+    "fr": [
+      "Saguaro",
       "saguaro"
+    ],
+    "pt": [
+      "Saguaro",
+      "saguaro"
+    ],
+    "id": [
+      "Saguaro"
     ],
     "pl": [
       "Karnegia olbrzymia"
@@ -45,9 +41,6 @@
     ],
     "udm": [
       "Сагуаро"
-    ],
-    "fr": [
-      "saguaro"
     ],
     "hu": [
       "Saguaro"
@@ -61,8 +54,9 @@
     "sv": [
       "Saguarokaktus"
     ],
-    "pt": [
-      "saguaro"
+    "nl": [
+      "saguaro",
+      "reuzentoortscactus"
     ],
     "eo": [
       "saguaro"
@@ -72,6 +66,10 @@
     ],
     "ca": [
       "saguaro"
+    ],
+    "fi": [
+      "jättikaktus",
+      "saguarokaktus"
     ],
     "sl": [
       "Saguaro"
@@ -105,6 +103,10 @@
     ],
     "sr": [
       "Сагуаро кактус"
+    ],
+    "zh": [
+      "巨人柱",
+      "弁庆"
     ],
     "sco": [
       "Saguaro"
@@ -166,7 +168,7 @@
     "gn": [
       "Saguáro"
     ],
-    "id": [
+    "es": [
       "Saguaro"
     ]
   },
@@ -174,7 +176,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q275573",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q275573",
   "search_names": {
@@ -190,22 +192,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ベンケイチュウ」",
+      "source": "Wikipedia (ja): ベンケイチュウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%82%B1%E3%82%A4%E3%83%81%E3%83%A5%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107699071,
       "text": "ベンケイチュウ は、サボテン科の一種である。サワロ、サグアロ、サグワロ、サガァロ、サガロとも呼ばれる。カルネギア属 (学名：Carnegia)は単型。樹木状の巨大なサボテンで、高さは12 mを超える。アリゾナ州のソノラ砂漠、メキシコのソノラ州、カリフォルニア州のウィップル山脈とインペリアル郡が原産である。ベンケイチュウの花は、アリゾナ州の州の花に指定されている。学名はアンドリュー・カーネギーへの献名。1933年にはアリゾナ州ツーソン近郊のサワロ国立公園が、本種およびその生息地を保護するために、国立公園に指定された。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Saguaro」",
+      "source": "Wikipedia (en): Saguaro",
       "source_url": "https://en.wikipedia.org/wiki/Saguaro",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378788014,
       "text": "The saguaro is a tree-like cactus species in the monotypic genus Carnegiea that can grow to be over 12 meters tall. It is native to the Sonoran Desert in Arizona, the Mexican state of Sonora, and the Whipple Mountains and Imperial County areas of California. Saguaro typically grow at elevations ranging from sea level to 4,500 feet (1,400 m), although they may be found at up to 5,000 feet (1,500 m). The saguaro blossom is the state wildflower of Arizona. Its scientific name is given in honor of Andrew Carnegie. In 1933, Saguaro National Park, near Tucson, Arizona, was designated to help protect this species and its habitat."
+    },
+    "es": {
+      "source": "Wikipedia (es): Carnegiea gigantea",
+      "source_url": "https://es.wikipedia.org/wiki/Carnegiea_gigantea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175153312,
+      "text": "Carnegiea gigantea, conocida comúnmente como saguaro o sahuaro, es una especie de planta suculenta perteneciente a la familia Cactaceae y único miembro del género monotípico Carnegiea. Es nativa del desierto de Sonora en Arizona, el estado mexicano de Sonora y las áreas de las montañas Whipple y condado de Imperial de California."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Saguaro",
+      "source_url": "https://fr.wikipedia.org/wiki/Saguaro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235802039,
+      "text": "Le Saguaro est un grand cactus arborescent, la seule espèce du genre monotypique Carnegiea. Le nom « saguaro » est le nom amérindien[pas clair] du cactus. Cette espèce est originaire du désert de Sonora, la plus grande zone désertique de l'Amérique du Nord, situé à cheval sur le Sud-Ouest des États-Unis (Arizona) et le Nord du Mexique. On la trouve aussi dans le Sud de la Californie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Saguaro",
+      "source_url": "https://pt.wikipedia.org/wiki/Saguaro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73148744,
+      "text": "O saguaro faz parte da família Cactaceae, sendo nativo da região do Deserto de Sonora, que abrange parte do México e Estados Unidos. Trata-se de um cacto colunar, com ramificações em forma de candelabro, espinhos curtos e grandes flores brancas e tubulares, com antese noturna."
+    },
+    "id": {
+      "source": "Wikipedia (id): Saguaro",
+      "source_url": "https://id.wikipedia.org/wiki/Saguaro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29736316,
+      "text": "Saguaro adalah spesies kaktus mirip pohon dalam genus monotipe Carnegiea yang dapat tumbuh hingga lebih dari 12 meter. Tanaman ini berasal dari Gurun Sonora di Arizona, negara bagian Sonora di Meksiko, serta daerah Pegunungan Whipple dan County Imperial di California. Bunga saguaro merupakan bunga liar negara bagian Arizona. Nama ilmiahnya diberikan untuk menghormati Andrew Carnegie. Pada tahun 1933, Taman Nasional Saguaro, dekat Tucson, Arizona, diresmikan untuk membantu melindungi spesies ini dan habitatnya."
     }
   },
   "edible": {
@@ -220,7 +258,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -233,7 +271,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/47644-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent tree",
@@ -241,7 +279,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/47644-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000588147.webp",
@@ -254,6 +292,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

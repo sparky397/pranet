@@ -11,11 +11,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Cascara buckthorn"
+    "es": [
+      "Rhamnus purshiana"
+    ],
+    "fr": [
+      "Cascara (arbre)"
+    ],
+    "pt": [
+      "Cáscara-sagrada"
     ],
     "ru": [
       "Каскара"
@@ -43,38 +49,79 @@
     ],
     "fa": [
       "ارجنگ"
+    ],
+    "en": [
+      "Cascara buckthorn"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15540797",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15540797",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Frangula purshiana」",
+      "source": "Wikipedia (en): Frangula purshiana",
       "source_url": "https://en.wikipedia.org/wiki/Frangula_purshiana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375573983,
       "text": "Frangula purshiana is a species of plant in the family Rhamnaceae. It is native to western North America from southern British Columbia south to central California, and eastward to northwestern Montana."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rhamnus purshiana",
+      "source_url": "https://es.wikipedia.org/wiki/Rhamnus_purshiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171202757,
+      "text": "Rhamnus purshiana, o cáscara sagrada es una planta natural de las zonas templadas de Norteamérica desde medio oeste hasta California, crece en bosques de coníferas y se cultiva en África central."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cascara (arbre)",
+      "source_url": "https://fr.wikipedia.org/wiki/Cascara_(arbre)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 211800790,
+      "text": "Le cascara est une espèce de plantes à fleurs de la famille des Rhamnacées. C'est un arbre originaire de la côte ouest de l'Amérique du Nord. Il a été implanté en Afrique de l'Est où il a trouvé des conditions de culture similaires à celles de son habitat d'origine."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cáscara-sagrada",
+      "source_url": "https://pt.wikipedia.org/wiki/C%C3%A1scara-sagrada",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71420735,
+      "text": "A cáscara-sagrada, também conhecida por californian buckthorn, é uma planta medicinal, originária da floresta de coníferas do noroeste da América do Norte. Tem propriedades laxativas devido aos compostos antraquinônicos presentes na planta, devido a esta razão é indicada nos casos de obstipação intestinal.\nPode ser encontrada em forma de folhas para chá ou pó, geralmente vendido em cápsulas."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Frangula purshiana」の節「Toxicity」",
+        "source": "Wikipedia (en): Frangula purshiana § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Frangula_purshiana#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375573983,
         "heading": "Toxicity",
         "text": "The fruit and bark contain a bitter chemical making them inedible to humans, although there are contested medicinal uses.\nUntil 2002, cascara was the principal ingredient in commercial, over-the-counter (OTC) laxatives in North American pharmacies until the U.S. Food and Drug Administration (FDA) issued a final rule banning the use of aloe and cascara as laxative ingredients. Serious adverse effects may occur from using cascara, including dehydration, loss of electrolyte levels (such as potassium, sodium, chloride), heart rhythm irregularities, and muscle weakness. There is also concern for its potential carcinogenicity. Laxatives should also not be used by people with Crohn's disease, irritable bowel syndrome, colitis, hemorrhoids, appendicitis, or kidney problems. Use of cascara is a safety concern for pregnant or breastfeeding women, and for children.\n\n■ Dietary supplement\nCascara is sold in the United States as a natural \"dietary supplement\" rather than a drug, and its common use is ingested by mouth to relieve constipation. Although it may be safe for use over a few days, there is insufficient scientific evidence to assure its safety and effectiveness. Use of cascara may adversely affect the actions of various prescribed drugs, such as digoxin, warfarin, corticosteroids, and diuretic agents.\n\n■ Phytochemistry\nNumerous quinoid phytochemicals are present in cascara bark. The chemicals possibly contributing to a laxative effect are the hydroxyanthracene glycosides, which include cascarosides A, B, C, and D. Cascara contains approximately 8% anthranoids by mass, of which about two-thirds are cascarosides.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Cascara (arbre) § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Cascara_(arbre)#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 211800790,
+        "heading": "Toxicité",
+        "text": "L'écorce fraîche est toxique par la présence d'anthrones. Après séchage, les anthrones sont oxydées en anthraquinones.",
+        "truncated": false
       }
     }
   },
@@ -89,7 +136,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -105,7 +152,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30426867-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -113,7 +160,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30426867-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000691925.webp",
@@ -126,6 +173,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 285,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

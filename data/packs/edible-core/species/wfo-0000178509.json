@@ -21,19 +21,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "vegetable hummingbird"
-    ],
-    "zh": [
-      "大花田菁",
-      "向天蜈蚣"
-    ],
-    "ta": [
-      "அகத்தி",
-      "பேரகத்தி"
+    "id": [
+      "Turi"
     ],
     "dv": [
       "ފީރު މުރަނގަ ތޮޅި"
@@ -43,6 +35,10 @@
     ],
     "ru": [
       "Сесбания крупноцветковая"
+    ],
+    "ta": [
+      "அகத்தி",
+      "பேரகத்தி"
     ],
     "th": [
       "แค"
@@ -55,9 +51,6 @@
     ],
     "to": [
       "Sepania"
-    ],
-    "id": [
-      "Turi"
     ],
     "de": [
       "Turibaum"
@@ -82,6 +75,10 @@
     ],
     "ilo": [
       "katuday"
+    ],
+    "zh": [
+      "大花田菁",
+      "向天蜈蚣"
     ],
     "min": [
       "Turi"
@@ -148,13 +145,16 @@
     ],
     "gor": [
       "Wuliyango"
+    ],
+    "en": [
+      "vegetable hummingbird"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q947251",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q947251",
   "search_names": {
@@ -167,23 +167,59 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sesbania grandiflora」",
+      "source": "Wikipedia (en): Sesbania grandiflora",
       "source_url": "https://en.wikipedia.org/wiki/Sesbania_grandiflora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355005104,
       "text": "Sesbania grandiflora, common names vegetable hummingbird, katurai, agati, agastya, agasya, kathurumurunga and West Indian pea, is a leguminous tree of family Fabaceae native to Malesia, including Malaysia, New Guinea, and the Philippines. It is widely distributed globally in equatorial regions. The flowers are eaten in Southeast and South Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sesbania grandiflora",
+      "source_url": "https://es.wikipedia.org/wiki/Sesbania_grandiflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 156092326,
+      "text": "Sesbania grandiflora, comúnmente conocido como agati de la India, es un árbol pequeño del género Sesbania."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sesbania grandiflora",
+      "source_url": "https://fr.wikipedia.org/wiki/Sesbania_grandiflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227126440,
+      "text": "Sesbania grandiflora est une espèce de plantes à fleurs du genre Sesbania. C'est un petit arbre aux multiples usages et probablement originaire d'Asie du Sud et d'Asie du Sud-est, mais maintenant introduit dans diverses régions tropicales du monde. Son nom français est fayotier ou fagotier."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sesbania grandiflora",
+      "source_url": "https://pt.wikipedia.org/wiki/Sesbania_grandiflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71864633,
+      "text": "Sesbania grandiflora, também conhecida pelos nomes comuns de árvore-beija-flor, katurai, agati, agastya, agasya, kathurumurunga e ervilha-das-Índias, é uma árvore leguminosa da família Fabaceae nativa da Malásia, Nova Guiné e Filipinas. Atualmente, encontra-se presente em grande parte das regiões equatoriais do mundo, devido a sua ampla utilização com planta ornamental. As flores são consumidas no Sudeste e Sul da Ásia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Turi",
+      "source_url": "https://id.wikipedia.org/wiki/Turi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29932413,
+      "text": "Turi merupakan pohon kecil anggota famili Fabaceae. Tumbuhan dengan banyak kegunaan ini asalnya diduga dari Asia Selatan dan Asia Tenggara, tetapi sekarang telah tersebar ke berbagai daerah tropis dunia."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Sesbania grandiflora」の節「Toxicity」",
+        "source": "Wikipedia (en): Sesbania grandiflora § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Sesbania_grandiflora#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1355005104,
         "heading": "Toxicity",
         "text": "Feed from the seed can be deadly to chickens.",
@@ -205,7 +241,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -283,7 +319,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/518476-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -291,7 +327,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/518476-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000178509.webp",
@@ -304,6 +340,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

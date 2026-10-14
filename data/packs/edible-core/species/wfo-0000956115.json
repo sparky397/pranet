@@ -8,19 +8,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "ewcalyptws gwialennog"
-    ],
-    "en": [
-      "manna gum"
-    ],
-    "zh": [
-      "多枝桉",
-      "多枝桉樹"
-    ],
     "nl": [
       "Suikereucalyptus"
     ],
@@ -42,18 +32,28 @@
     "de": [
       "Rutenförmiger Eukalyptus"
     ],
+    "cy": [
+      "Ewcalyptws gwialennog"
+    ],
+    "zh": [
+      "多枝桉樹",
+      "多枝桉"
+    ],
     "he": [
       "אקליפטוס המוט"
     ],
     "ja": [
       "リボンガム"
+    ],
+    "en": [
+      "manna gum"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2137116",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2137116",
   "search_names": {
@@ -67,13 +67,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Eucalyptus viminalis」",
+      "source": "Wikipedia (en): Eucalyptus viminalis",
       "source_url": "https://en.wikipedia.org/wiki/Eucalyptus_viminalis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1359216908,
       "text": "Eucalyptus viminalis, commonly known as the manna gum, white gum or ribbon gum, is a species of small to very tall tree that is endemic to south-eastern Australia. It has smooth bark, sometimes with rough bark near the base, lance-shaped to curved adult leaves, flower buds in groups of three or seven, white flowers and cup-shaped or hemispherical fruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eucalyptus viminalis",
+      "source_url": "https://es.wikipedia.org/wiki/Eucalyptus_viminalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173801622,
+      "text": "Eucalyptus viminalis es una especie fanerógama perteneciente a la familia de las mirtáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eucalyptus viminalis",
+      "source_url": "https://fr.wikipedia.org/wiki/Eucalyptus_viminalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237448406,
+      "text": "Eucalyptus viminalis, appelé aussi Gommier blanc ou Gommier manne, est une espèce de plantes à fleurs de la famille des Myrtaceae. C'est un arbre originaire d'Australie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eucalyptus viminalis",
+      "source_url": "https://pt.wikipedia.org/wiki/Eucalyptus_viminalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66934802,
+      "text": "Eucalyptus viminalis é uma árvore do gênero Eucalyptus, originária da Austrália."
     }
   },
   "edible": {
@@ -88,7 +115,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -119,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/593454-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -127,7 +154,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/593454-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000956115.webp",
@@ -140,6 +167,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -30,28 +30,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "wild leadwort",
-      "White leadwort"
-    ],
-    "zh": [
-      "烏面馬",
-      "白花丹",
-      "乌面马"
-    ],
-    "haw": [
-      "ʻIlieo",
-      "Hilieʻe",
-      "Lauhihi",
-      "ʻIlieʻe",
-      "ʻIliheʻe",
-      "Hiliee",
-      "Iliee",
-      "Ilieo",
-      "Ilihee"
+    "id": [
+      "Daun encok"
     ],
     "ml": [
       "വെള്ളക്കൊടുവേലി"
@@ -65,11 +48,13 @@
     "vi": [
       "Bạch hoa xà"
     ],
-    "id": [
-      "Daun encok"
-    ],
     "min": [
       "Ceraka"
+    ],
+    "zh": [
+      "乌面马",
+      "烏面馬",
+      "白花丹"
     ],
     "sv": [
       "Vit blyblomma"
@@ -100,13 +85,28 @@
     ],
     "shn": [
       "ပိတ်းပီႇၽိူၵ်ႇ"
+    ],
+    "en": [
+      "wild leadwort",
+      "White leadwort"
+    ],
+    "haw": [
+      "ʻIlieo",
+      "Hilieʻe",
+      "Lauhihi",
+      "ʻIlieʻe",
+      "ʻIliheʻe",
+      "Hiliee",
+      "Iliee",
+      "Ilieo",
+      "Ilihee"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5240308",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5240308",
   "search_names": {
@@ -117,13 +117,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Plumbago zeylanica」",
+      "source": "Wikipedia (en): Plumbago zeylanica",
       "source_url": "https://en.wikipedia.org/wiki/Plumbago_zeylanica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306456591,
       "text": "Plumbago zeylanica, commonly known as Ceylon leadwort, doctorbush or wild leadwort, is a species of plumbago with a pantropical distribution. Carl Linnaeus described the paleotropical P. zeylanica and Neotropical P. scandens as separate species, but they are currently considered synonymous."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Plumbago zeylanica",
+      "source_url": "https://fr.wikipedia.org/wiki/Plumbago_zeylanica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216267194,
+      "text": "Plumbago zeylanica est une espèce de plantes à fleurs de la famille des Plumbaginaceae. C'est une plante herbacée ou buissonnante, à répartition pantropicale et appartenant au groupe des Dentelaires."
+    },
+    "id": {
+      "source": "Wikipedia (id): Daun encok",
+      "source_url": "https://id.wikipedia.org/wiki/Daun_encok",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29901111,
+      "text": "Daun encok atau Ceraka putih adalah semak-semak yang tumbuh dari Afrika dan tersebar hingga Indonesia. Tumbuhan ini dikenal dengan nama bama (Bali), ki encok (Sunda), godong encok (Jawa), kareka (Madura), dan oporio (Timor). Tumbuhan ini sangatlah beracun, sehingga pada saat menurapkan tumbuhan ini janganlah terlalu lama, cukup 30 menit saja. Tumbuhan dari genus yang sama, yakni akar binasa kemungkinan racunnya lebih kuat daripada daun encok."
     }
   },
   "edible": {
@@ -138,7 +156,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -286,7 +304,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/687109-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling shrub",
@@ -294,7 +312,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/687109-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000487062.webp",
@@ -307,6 +325,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

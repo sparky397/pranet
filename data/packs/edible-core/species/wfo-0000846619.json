@@ -10,16 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "bluestem"
-    ],
-    "zh": [
-      "非洲须芒草",
-      "甘巴草"
-    ],
     "ha": [
       "Gamba"
     ],
@@ -37,24 +30,49 @@
     ],
     "bm": [
       "Waga"
+    ],
+    "zh": [
+      "甘巴草",
+      "非洲须芒草"
+    ],
+    "en": [
+      "bluestem"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2112248",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2112248",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Andropogon gayanus」",
+      "source": "Wikipedia (en): Andropogon gayanus",
       "source_url": "https://en.wikipedia.org/wiki/Andropogon_gayanus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365863851,
       "text": "Andropogon gayanus, commonly known as gamba grass, Rhodesian blue grass, tambuki grass, and other names, is a species of grass native to most of the tropical and subtropical savannas of Africa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Andropogon gayanus",
+      "source_url": "https://fr.wikipedia.org/wiki/Andropogon_gayanus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 215073922,
+      "text": "Andropognon gayanus est une plante de la famille de Poaceae et appartenant au genre Andropogon."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Andropogon gayanus",
+      "source_url": "https://pt.wikipedia.org/wiki/Andropogon_gayanus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62738824,
+      "text": "Andropogon gayanus é uma espécie de gramínea nativa de regiões tropicais e sub-tropicais das savanas."
     }
   },
   "edible": {
@@ -70,7 +88,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -142,7 +160,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/387915-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -150,7 +168,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/387915-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000846619.webp",
@@ -163,6 +181,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

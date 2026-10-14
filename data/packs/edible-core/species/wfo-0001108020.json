@@ -23,28 +23,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Hawai'I birdnest fern",
-      "Bird's nest fern"
+    "id": [
+      "Paku sarang burung"
     ],
     "zh": [
+      "鸟巢蕨",
       "臺灣山蘇花",
       "巢蕨",
       "斩妖剑",
-      "铁蚂蟥",
-      "鸟巢蕨"
-    ],
-    "vi": [
-      "tổ điểu"
-    ],
-    "sl": [
-      "gnezdnati sršaj"
-    ],
-    "id": [
-      "Paku sarang burung"
+      "铁蚂蟥"
     ],
     "pl": [
       "Zanokcica gniazdowa"
@@ -57,6 +47,9 @@
     ],
     "fi": [
       "pesäraunioinen"
+    ],
+    "sl": [
+      "gnezdnati sršaj"
     ],
     "ms": [
       "Paku langsuyar"
@@ -78,24 +71,58 @@
     ],
     "ace": [
       "Bayeuek"
+    ],
+    "en": [
+      "Hawai'I birdnest fern",
+      "Bird's nest fern"
+    ],
+    "vi": [
+      "tổ điểu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1736890",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1736890",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Asplenium nidus」",
+      "source": "Wikipedia (en): Asplenium nidus",
       "source_url": "https://en.wikipedia.org/wiki/Asplenium_nidus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354922959,
       "text": "Asplenium nidus is an epiphytic species of fern in the family Aspleniaceae, native to tropical southeastern Asia, eastern Australia, Hawaii, Polynesia, Christmas Island, India, and eastern Africa. It is known by the common names bird's-nest fern or simply nest fern."
+    },
+    "es": {
+      "source": "Wikipedia (es): Asplenium nidus",
+      "source_url": "https://es.wikipedia.org/wiki/Asplenium_nidus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582704,
+      "text": "Asplenium nidus es una especie de helecho de la familia de las aspleniáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Asplenium nidus",
+      "source_url": "https://fr.wikipedia.org/wiki/Asplenium_nidus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240017634,
+      "text": "Asplenium nidus est une espèce de fougères de la famille des Aspleniaceae. On l'appelle aussi fougère nid d'oiseau."
+    },
+    "id": {
+      "source": "Wikipedia (id): Paku sarang burung",
+      "source_url": "https://id.wikipedia.org/wiki/Paku_sarang_burung",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28516794,
+      "text": "Paku sarang burung merupakan jenis tumbuhan paku jamak ditemui di tempat-tempat yang lembap dan ternaung ini juga populer ditanam sebagai tanaman hias. Ia juga memiliki nama lain seperti kadaka (Sd.); kedaka (Jw.,Btw.); lukut (Bjr.), dan lainnya."
     }
   },
   "edible": {
@@ -110,7 +137,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -138,7 +165,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/17048040-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "epiphyte or lithophyte",
@@ -146,7 +173,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/17048040-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001108020.webp",
@@ -159,6 +186,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

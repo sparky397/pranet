@@ -14,9 +14,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "es": [
+      "Rhus lancea"
+    ],
     "sn": [
       "Chisau"
     ],
@@ -28,18 +31,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15525290",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15525290",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Searsia lancea」",
+      "source": "Wikipedia (en): Searsia lancea",
       "source_url": "https://en.wikipedia.org/wiki/Searsia_lancea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357611195,
       "text": "Searsia lancea commonly known as karee, is an evergreen, frost hardy, drought resistant tree, which can reach up to 8 metres (26 ft) in height with a 5-metre (16 ft) spread. It is one of the most common trees on the Highveld and in the Bushveld in South Africa, but not found in the Lowveld. In North America, where it is naturalised, it is known as African sumac and willow rhus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rhus lancea",
+      "source_url": "https://es.wikipedia.org/wiki/Rhus_lancea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 141937253,
+      "text": "Rhus lancea  L.f., comúnmente conocido como Karee."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Searsia lancea",
+      "source_url": "https://fr.wikipedia.org/wiki/Searsia_lancea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240045935,
+      "text": "Searsia lancea est une espèce de plantes à fleurs de la famille des Anacardiaceae. C'est un arbre à feuillage persistant, résistant au froid et à la sécheresse, qui peut atteindre huit mètres de hauteur et cinq mètres d'envergure. C'est l'un des arbres les plus communs du Highveld et du Bushveld d'Afrique du Sud, mais on ne le trouve pas dans le Lowveld."
     }
   },
   "edible": {
@@ -56,7 +77,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -79,7 +100,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/71177-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -87,7 +108,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/71177-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000434904.webp",
@@ -100,6 +121,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 275,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

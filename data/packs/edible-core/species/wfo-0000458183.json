@@ -11,7 +11,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "en": [
@@ -19,61 +19,81 @@
       "water chestnut",
       "Jesuit's nut"
     ],
-    "de": [
-      "Gewöhnliche Wassernuss",
-      "Wassernuss"
-    ],
-    "ca": [
-      "Castanya d'aigua"
-    ],
-    "cs": [
-      "kotvice plovoucí"
-    ],
-    "fi": [
-      "Vesipähkinä"
-    ],
     "fr": [
       "Mâcre nageante",
       "Châtaigne d'Eau",
       "Mâcre"
     ],
-    "hsb": [
-      "Wšědna kótwica"
-    ],
-    "it": [
-      "Castagna d'acqua",
-      "Tribolo acquatico"
-    ],
-    "ja": [
-      "ヒシ",
-      "オニビシ(広義)"
-    ],
-    "lt": [
-      "Plūduriuojantysis agaras"
-    ],
-    "nl": [
-      "waterkastanje",
-      "waternoot"
+    "nan": [
+      "Lêng-kak"
     ],
     "pl": [
-      "Kotewka orzech wodny"
+      "kotewka orzech wodny"
     ],
-    "ro": [
-      "Cornaci"
+    "be": [
+      "Вадзяны арэх плывучы"
     ],
-    "ru": [
-      "орех водяной",
-      "Чилим",
-      "рогульник плавающий"
+    "de": [
+      "Wassernuss",
+      "Gewöhnliche Wassernuss"
+    ],
+    "ja": [
+      "オニビシ(広義)",
+      "ヒシ"
+    ],
+    "bn": [
+      "পানিফল"
+    ],
+    "my": [
+      "ကျွဲခေါင်းသီးပင်"
+    ],
+    "hsb": [
+      "Wšědna kótwica"
     ],
     "sv": [
       "Sjönöt"
     ],
-    "vi": [
-      "Củ ấu"
+    "nl": [
+      "Waternoot",
+      "waterkastanje"
     ],
-    "nan": [
-      "Lêng-kak"
+    "hi": [
+      "सिंघाड़ा"
+    ],
+    "eo": [
+      "Trapo"
+    ],
+    "ru": [
+      "рогульник плавающий",
+      "орех водяной",
+      "Чилим"
+    ],
+    "ca": [
+      "Castanya d'aigua"
+    ],
+    "fi": [
+      "vesipähkinä"
+    ],
+    "uk": [
+      "Водяні горіхи звичайні"
+    ],
+    "cs": [
+      "kotvice plovoucí"
+    ],
+    "bg": [
+      "воден орех"
+    ],
+    "fa": [
+      "سه‌کنجه‌خیز"
+    ],
+    "lt": [
+      "Plūduriuojantysis agaras"
+    ],
+    "tl": [
+      "Water caltrop"
+    ],
+    "kk": [
+      "Су шылымы"
     ],
     "zh": [
       "菱角",
@@ -90,39 +110,6 @@
       "菱茎",
       "欧菱",
       "细果野菱"
-    ],
-    "tr": [
-      "Su Kestanesi"
-    ],
-    "be": [
-      "Вадзяны арэх плывучы"
-    ],
-    "bn": [
-      "পানিফল"
-    ],
-    "my": [
-      "ကျွဲခေါင်းသီးပင်"
-    ],
-    "hi": [
-      "सिंघाड़ा"
-    ],
-    "eo": [
-      "Trapo"
-    ],
-    "uk": [
-      "Водяні горіхи звичайні"
-    ],
-    "bg": [
-      "воден орех"
-    ],
-    "fa": [
-      "سه‌کنجه‌خیز"
-    ],
-    "tl": [
-      "Water caltrop"
-    ],
-    "kk": [
-      "Су шылымы"
     ],
     "ka": [
       "წყლის კაკალი"
@@ -195,13 +182,26 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇၶဝ်ၵႂၢႆး"
+    ],
+    "it": [
+      "Castagna d'acqua",
+      "Tribolo acquatico"
+    ],
+    "ro": [
+      "Cornaci"
+    ],
+    "vi": [
+      "Củ ấu"
+    ],
+    "tr": [
+      "Su Kestanesi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161110",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161110",
   "search_names": {
@@ -226,13 +226,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Water caltrop」",
+      "source": "Wikipedia (en): Water caltrop",
       "source_url": "https://en.wikipedia.org/wiki/Water_caltrop",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1345271543,
       "text": "Trapa natans, the water caltrop, is a widespread species of flowering plant in the genus Trapa, family Lythraceae, grown as a food crop. Other vernacular names include buffalo nut, bat nut, devil pod, ling nut, mustache nut, singhara nut, water nut, and water chestnut, though this last name is commonly applied to Eleocharis dulcis."
+    },
+    "es": {
+      "source": "Wikipedia (es): Trapa natans",
+      "source_url": "https://es.wikipedia.org/wiki/Trapa_natans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174221142,
+      "text": "La castaña de agua es una especie de planta de la familia Lythraceae.\nRecibe el nombre de castaña de agua cualquiera de las dos especies del género Trapa: T. natans y T. bicornis. Ambas especies de plantas acuáticas van creciendo en el agua lentamente hasta unos cinco metros de profundidad, y son originarias de las partes templadas de Eurasia y África. Producen unas frutas adornadas, similares a la cabeza de un toro, y cada cabeza contiene una sola semilla almidonada. Han sido cultivadas en China desde hace al menos 3000 años por estas semillas, que hierven y venden como bocado ocasional."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Mâcre nageante",
+      "source_url": "https://fr.wikipedia.org/wiki/M%C3%A2cre_nageante",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238551377,
+      "text": "La mâcre nageante, ou châtaigne d'eau, est une espèce de plantes à fleurs de la famille des Trapaceae ou des Lythraceae, selon la classification phylogénétique. C'est une plante aquatique originaire des régions tempérées et chaudes d'Afrique, d'Asie et d'Europe."
     }
   },
   "edible": {
@@ -248,7 +266,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -360,7 +378,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/614405-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "hydroannual",
@@ -368,7 +386,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/614405-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000458183.webp",
@@ -381,6 +399,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -21,12 +21,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "purple mistress"
-    ],
     "sv": [
       "Blåsenap"
     ],
@@ -35,24 +32,54 @@
     ],
     "et": [
       "lilla sinisinep"
+    ],
+    "en": [
+      "purple mistress"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q6024189",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q6024189",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Moricandia arvensis」",
+      "source": "Wikipedia (en): Moricandia arvensis",
       "source_url": "https://en.wikipedia.org/wiki/Moricandia_arvensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1329743240,
       "text": "Moricandia arvensis, the purple mistress, is a species of flowering plant in the family Brassicaceae. It has a broadly western Mediterranean distribution, from the Canary Islands to northern Africa including Mauritania and Chad, the Iberian Peninsula, Italy and as far as Greece, and has been introduced to France, Corsica, and Sardinia. It has an intermediate C3–C4 carbon fixation system, known as C2 photosynthesis."
+    },
+    "es": {
+      "source": "Wikipedia (es): Moricandia arvensis",
+      "source_url": "https://es.wikipedia.org/wiki/Moricandia_arvensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171202683,
+      "text": "Moricandia arvensis, la berza arvense o collejón, es una especie de planta anual o perenne, con tallos erectos, pero muy flexibles, de hasta 75 cm de altura que florece entre los meses de septiembre y junio. Es un vegetal oportunista, adaptado a la degradación y nitrificación de suelo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Moricandia arvensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Moricandia_arvensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228092299,
+      "text": "Moricandia arvensis, qui a pour nom commun Moricandie des champs, Moricandie ou Chou des champs, est une espèce européenne et africaine de plante à fleurs de la famille des Brassicaceae et du genre Moricandia."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Moricandia arvensis",
+      "source_url": "https://pt.wikipedia.org/wiki/Moricandia_arvensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 60069430,
+      "text": "Moricandia arvensis é uma espécie de planta com flor pertencente à família Brassicaceae."
     }
   },
   "edible": {
@@ -66,7 +93,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -94,7 +121,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1085378-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial or perennial",
@@ -102,7 +129,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1085378-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000369713.webp",
@@ -115,6 +142,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

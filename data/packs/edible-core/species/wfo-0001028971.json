@@ -16,18 +16,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "羊不食",
-      "毛茄"
-    ],
-    "en": [
-      "Indian nightshade"
+    "id": [
+      "Terung Dayak",
+      "Terung dayak"
     ],
     "ms": [
       "Pokok Terung Bulu"
+    ],
+    "zh": [
+      "毛茄",
+      "羊不食"
     ],
     "su": [
       "Karundang"
@@ -38,26 +39,35 @@
     "iba": [
       "Terung asam"
     ],
-    "id": [
-      "Terung dayak"
+    "en": [
+      "Indian nightshade"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5236925",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5236925",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Solanum lasiocarpum」",
+      "source": "Wikipedia (en): Solanum lasiocarpum",
       "source_url": "https://en.wikipedia.org/wiki/Solanum_lasiocarpum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369866051,
       "text": "Solanum lasiocarpum, synonym Solanum ferox L., otherwise known as Indian nightshade or hairy-fruited eggplant, is a plant that produces edible fruit. Its flowers are white and its fruits are pale yellow."
+    },
+    "id": {
+      "source": "Wikipedia (id): Terung Dayak",
+      "source_url": "https://id.wikipedia.org/wiki/Terung_Dayak",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29471398,
+      "text": "Terung Dayak adalah sebuah spesies tanaman dalam famili Solanaceae yang dapat ditemukan di Indonesia, khususnya di seluruh wilayah Kalimantan. Nama lainnya antara lain terong dayak dan terong asam. Terung dayak memiliki buah berwarna kuning yang berbentuk bulat dengan diameter sekitar 3 cm. Rasanya yang asam membuat buah ini digunakan untuk memberi rasa asam pada masakan. Salah satu olahan pangan yang menggunakan terung dayak adalah juhu rimbang yang merupakan kuliner khas dari Kalimantan Tengah."
     }
   },
   "edible": {
@@ -69,7 +79,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -105,7 +115,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/819751-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -113,7 +123,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/819751-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001028971.webp",
@@ -126,6 +136,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 225,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

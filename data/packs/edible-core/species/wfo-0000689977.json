@@ -26,18 +26,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "うどんげ"
     ],
-    "en": [
-      "cluster fig"
-    ],
-    "zh": [
-      "聚果榕",
-      "梨果榕"
+    "id": [
+      "Loa"
     ],
     "pl": [
       "Figowiec groniasty"
@@ -72,6 +68,10 @@
     "vi": [
       "Sung"
     ],
+    "zh": [
+      "聚果榕",
+      "梨果榕"
+    ],
     "si": [
       "අට්ටික්කා"
     ],
@@ -95,9 +95,6 @@
     ],
     "jv": [
       "Elo"
-    ],
-    "id": [
-      "Loa"
     ],
     "arz": [
       "اللبخ راسيموزا"
@@ -131,13 +128,16 @@
     ],
     "shn": [
       "တူၼ်ႈၽၵ်းလိူဝ်ႇ"
+    ],
+    "en": [
+      "cluster fig"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q713794",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q713794",
   "search_names": {
@@ -149,22 +149,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「うどんげ」",
+      "source": "Wikipedia (ja): うどんげ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93%E3%81%92",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106461445,
       "text": "うどんげは、植物の名前。梵語のउडुम्बर を語源とし、「優曇華」または「憂曇華」とも書かれる。実在の植物を示す場合、伝説上の植物を指す場合、昆虫の卵を指す場合とがある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ficus racemosa」",
+      "source": "Wikipedia (en): Ficus racemosa",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_racemosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378515862,
       "text": "Ficus racemosa, the cluster fig, red river fig, udumbara, audumbara, or gular, is a species of plant in the mulberry family Moraceae. It is native to tropical Asia and Australia. It is a fast-growing plant with large, very coarse leaves, attaining the size of a large shrub or even larger in old specimens. A distinctive feature of its growth habit is the cauliflorous nature of its fruiting, where the syconia (figs) grow in dense clusters directly from the trunk and larger branches. The ripe figs are a favourite food of the rhesus macaque, and the plant also serves as a host for the caterpillars of the two-brand crow butterfly of northern Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ficus racemosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Ficus_racemosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 203948485,
+      "text": "Ficus racemosa ou Ficus glomerata est une espèce de plante de la famille des Moraceae. Elle est originaire d'Australasie, d'Asie du Sud-Est et du sous-continent indien. Ses figues poussent directement sur tronc ou à proximité."
+    },
+    "id": {
+      "source": "Wikipedia (id): Loa",
+      "source_url": "https://id.wikipedia.org/wiki/Loa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29849665,
+      "text": "Loa, adalah spesies tumbuhan dari famili Moraceae."
     }
   },
   "edible": {
@@ -182,7 +200,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -217,7 +235,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853540-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -225,7 +243,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853540-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000689977.webp",
@@ -238,6 +256,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

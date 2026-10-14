@@ -13,12 +13,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "量天尺",
-      "火龙果"
+    "pt": [
+      "Hylocereus undatus"
     ],
     "fi": [
       "tarhametsäkaktus"
@@ -47,6 +46,10 @@
     "tr": [
       "Hylocereus undatus"
     ],
+    "zh": [
+      "量天尺",
+      "火龙果"
+    ],
     "ml": [
       "സെലെനിസെറിയസ് അണ്ടറ്റസ്"
     ]
@@ -55,7 +58,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q90600463",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q90600463",
   "search_names": {
@@ -65,13 +68,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Selenicereus undatus」",
+      "source": "Wikipedia (en): Selenicereus undatus",
       "source_url": "https://en.wikipedia.org/wiki/Selenicereus_undatus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375162390,
       "text": "Selenicereus undatus, the white-fleshed pitahaya, is a species of the genus Selenicereus in the family Cactaceae and is the most cultivated species in the genus. It is used both as an ornamental vine and as a fruit crop, the pitahaya or dragon fruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Selenicereus undatus",
+      "source_url": "https://es.wikipedia.org/wiki/Selenicereus_undatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174777909,
+      "text": "Selenicereus undatus, llamada popularmente pitahaya, es la especie más cultivada del género Selenicereus. Es nativa de América Central y de México, se distribuye ampliamente en las regiones tropicales de todo el mundo, donde se cultiva como planta ornamental y para cosechar sus frutos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Selenicereus undatus",
+      "source_url": "https://fr.wikipedia.org/wiki/Selenicereus_undatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224700023,
+      "text": "Selenicereus undatus est une espèce de cactus hémiépiphyte d'Amérique centrale et du Sud, dont le fruit est le pitaya. Elle est maintenant répandue dans la zone intertropicale comme plante ornementale et pour son fruit original."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Hylocereus undatus",
+      "source_url": "https://pt.wikipedia.org/wiki/Hylocereus_undatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 60203319,
+      "text": "A pitaia-branca, é uma espécie de pitaia pertencente ao gênero Hylocereus e a família Cactaceae, é disseminada na América Latina e cultivada nos quatro continentes, e pode ser encontrada desde Israel até a China. Nativa de florestas úmidas mantem hábito escandente ou trepador, pode ser encontrada subindo em árvores ou rochas, no seu habitat natural, utilizando raízes aéreas para se fixar."
     }
   },
   "edible": {
@@ -85,7 +115,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -140,7 +170,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77163184-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent epiphyte",
@@ -148,7 +178,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77163184-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001434109.webp",
@@ -161,6 +191,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 225,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

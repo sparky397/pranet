@@ -11,21 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "blackhaw",
-      "Black haw",
-      "Black Haw Viburnum",
-      "blackhaw viburnum",
-      "sweet haw",
-      "stag bush"
-    ],
-    "zh": [
-      "李叶荚蒾",
-      "莢迷花"
-    ],
     "hu": [
       "szilvalevelű bangita"
     ],
@@ -38,29 +26,59 @@
     "uk": [
       "Калина сливолиста"
     ],
+    "zh": [
+      "莢迷花",
+      "李叶荚蒾"
+    ],
     "arz": [
       "افلوس خوخى الورق"
     ],
     "chr": [
       "ᎧᏂᎦ"
+    ],
+    "en": [
+      "blackhaw",
+      "Black haw",
+      "Black Haw Viburnum",
+      "blackhaw viburnum",
+      "sweet haw",
+      "stag bush"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q678294",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q678294",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Viburnum prunifolium」",
+      "source": "Wikipedia (en): Viburnum prunifolium",
       "source_url": "https://en.wikipedia.org/wiki/Viburnum_prunifolium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1315346936,
       "text": "Viburnum prunifolium is a species of Viburnum native to eastern North America, from Connecticut west to eastern Kansas, and south to Alabama and Texas."
+    },
+    "es": {
+      "source": "Wikipedia (es): Viburnum prunifolium",
+      "source_url": "https://es.wikipedia.org/wiki/Viburnum_prunifolium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 162425493,
+      "text": "Viburnum prunifolium es una especie de arbusto o pequeño árbol perteneciente a la familia de las adoxáceas es originario de Norteamérica, desde Connecticut hasta Kansas, y al sur hasta Alabama y Texas."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Viburnum prunifolium",
+      "source_url": "https://pt.wikipedia.org/wiki/Viburnum_prunifolium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205940,
+      "text": "Viburnum prunifolium é uma espécie do gênero botânico Viburnum, da família das Adoxaceae"
     }
   },
   "edible": {
@@ -74,7 +92,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -111,7 +129,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/326270-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -119,7 +137,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/326270-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001290684.webp",
@@ -132,6 +150,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 291,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

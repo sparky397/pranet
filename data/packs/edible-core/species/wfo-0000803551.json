@@ -17,14 +17,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "amatungulu"
-    ],
-    "zh": [
-      "大花假虎刺"
+    "id": [
+      "Karendang"
     ],
     "ar": [
       "كاريس كبير الثمار"
@@ -44,6 +41,9 @@
     "tr": [
       "Natal eriği"
     ],
+    "zh": [
+      "大花假虎刺"
+    ],
     "af": [
       "Grootnoemnoem"
     ],
@@ -56,15 +56,15 @@
     "arz": [
       "كاريس كبير الثمار"
     ],
-    "id": [
-      "Karendang"
+    "en": [
+      "amatungulu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q934636",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q934636",
   "search_names": {
@@ -74,13 +74,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Carissa macrocarpa」",
+      "source": "Wikipedia (en): Carissa macrocarpa",
       "source_url": "https://en.wikipedia.org/wiki/Carissa_macrocarpa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373620020,
       "text": "Carissa macrocarpa is a shrub native to tropical and southern Africa. It is commonly known as the Natal plum, amathungulu, big num-num or large num-num."
+    },
+    "es": {
+      "source": "Wikipedia (es): Carissa macrocarpa",
+      "source_url": "https://es.wikipedia.org/wiki/Carissa_macrocarpa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 158811211,
+      "text": "Carissa macrocarpa es una especie de arbusto perteneciente a la familia de las apocináceas. Es originaria del sur de África. Produce frutos comestibles."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Carissa macrocarpa",
+      "source_url": "https://fr.wikipedia.org/wiki/Carissa_macrocarpa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231989417,
+      "text": "Carissa macrocarpa, ou prunier du Natal ou carissa, est une espèce de plantes eudicotylédones, de la famille des Apocynaceae. Cette espèce est originaire d'Afrique du Sud, plus précisément de la région Natal."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Carissa macrocarpa",
+      "source_url": "https://pt.wikipedia.org/wiki/Carissa_macrocarpa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71977128,
+      "text": "Carissa macrocarpa é um arbusto nativo da África do Sul. É comumente conhecida como ameixa de Natal e, na África do Sul, o grande num-num. No Zulu, assim como nas tribos Bantu de Uganda, é chamado Amathungulu ou um Thungulu oBomvu. No africâner, a fruta é chamada noem-noem."
+    },
+    "id": {
+      "source": "Wikipedia (id): Karendang",
+      "source_url": "https://id.wikipedia.org/wiki/Karendang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29705807,
+      "text": "Carissa macrocarpa adalah semak asli Afrika tropis dan selatan. Ini umumnya dikenal sebagai kerandang dan, di Afrika Selatan, num-num besar. Di Zulu, juga di suku Bantu di Uganda, disebut Amathungulu atau umThungulu oBomvu. Dalam bahasa Afrikaans buah ini disebut noem-noem."
     }
   },
   "edible": {
@@ -95,7 +131,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -130,7 +166,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77727-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -138,7 +174,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77727-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000803551.webp",
@@ -151,6 +187,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -16,7 +16,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -24,9 +24,6 @@
     ],
     "en": [
       "Kei apple"
-    ],
-    "zh": [
-      "南非锡兰莓"
     ],
     "nl": [
       "Kei-appel"
@@ -39,6 +36,9 @@
     ],
     "ar": [
       "رامحة جنوب إفريقية"
+    ],
+    "zh": [
+      "南非锡兰莓"
     ],
     "fi": [
       "keltakeiomena"
@@ -54,7 +54,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1987504",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1987504",
   "search_names": {
@@ -69,22 +69,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ケイアップル」",
+      "source": "Wikipedia (ja): ケイアップル",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106360572,
       "text": "ケイアップル は、南アフリカ原産の常緑中低木。ヤナギ科に属す（従来の分類ではイイギリ科とされていた）。名称の由来であるグレイト・ケイ川流域からアフリカ大陸東海岸沿いの北はタンザニアまでが産地である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Kei apple」",
+      "source": "Wikipedia (en): Kei apple",
       "source_url": "https://en.wikipedia.org/wiki/Kei_apple",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371400417,
       "text": "Dovyalis caffra, commonly known as the Kei apple, is a small to medium-sized tree, native to southern Africa. Its distribution extends from the Kei River in the south, from which the common name derives, northwards along the eastern side of the continent to Tanzania. The ripe fruits are edible and similar in appearance to apricots, though they are quite acidic due to having a high concentration of malic acid."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dovyalis caffra",
+      "source_url": "https://es.wikipedia.org/wiki/Dovyalis_caffra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175661101,
+      "text": "Dovyalis caffra Warb., la kayaba, umkokola, \"manzana\" kei, o caffra, es un árbol de talla mediana a grande, nativo del sur de África. Su distribución se extiende desde el río Kei en el sur, hacia el norte, por el este del continente, hasta Tanzania. Los frutos maduros son comestibles y sabrosos, reminiscentes de una pequeña manzana."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dovyalis caffra",
+      "source_url": "https://fr.wikipedia.org/wiki/Dovyalis_caffra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225665376,
+      "text": "Dovyalis caffra, le Pommier Kei, le Pommier Kau ou encore la Kayaba, est une espèce de plantes à fleurs de la famille des Salicaceae. C'est un arbre de taille petite à moyenne, originaire d'Afrique australe. Sa distribution s'étend de l'Afrique du Sud, jusqu'en Tanzanie, le long de la côte orientale. Les fruits mûrs sont savoureux mais acides et rappellent une petite pomme."
     }
   },
   "edible": {
@@ -100,7 +118,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -122,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/111560-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -130,7 +148,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/111560-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001062885.webp",
@@ -143,6 +161,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 321,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

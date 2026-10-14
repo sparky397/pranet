@@ -24,46 +24,31 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Gemüse-Lauch",
-      "Kohl-Lauch"
-    ],
-    "en": [
-      "field garlic"
-    ],
-    "et": [
-      "Rohulauk"
-    ],
     "fr": [
       "Ail des jardins",
       "ail des champs"
     ],
-    "nl": [
-      "Moeslook"
-    ],
-    "pl": [
-      "Czosnek zielonawy"
-    ],
-    "sv": [
-      "Backlök"
-    ],
-    "cs": [
-      "česnek planý"
+    "ru": [
+      "Лук огородный"
     ],
     "fi": [
       "nurmilaukka"
     ],
-    "sl": [
-      "zelenjadni luk"
+    "et": [
+      "rohulauk"
     ],
-    "ru": [
-      "Лук огородный"
+    "de": [
+      "Kohl-Lauch",
+      "Gemüse-Lauch"
     ],
     "nn": [
       "vill-lauk"
+    ],
+    "cs": [
+      "česnek planý"
     ],
     "ur": [
       "لہسن بستانی"
@@ -71,11 +56,20 @@
     "hsb": [
       "Dźiwi kobołk"
     ],
+    "sv": [
+      "Backlök"
+    ],
+    "nl": [
+      "Moeslook"
+    ],
     "da": [
       "Vild Løg"
     ],
     "nb": [
       "Villøk"
+    ],
+    "pl": [
+      "czosnek zielonawy"
     ],
     "ar": [
       "ثوم زيتي"
@@ -107,26 +101,59 @@
     "hu": [
       "Érdes hagyma"
     ],
+    "sl": [
+      "zelenjadni luk"
+    ],
     "mk": [
       "полски лук"
+    ],
+    "en": [
+      "field garlic"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161107",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161107",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Allium oleraceum」",
+      "source": "Wikipedia (en): Allium oleraceum",
       "source_url": "https://en.wikipedia.org/wiki/Allium_oleraceum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378672467,
       "text": "Allium oleraceum, the field garlic, is a Eurasian species of wild onion. It is a bulbous perennial that grows wild in dry places, reaching 30 centimetres (12 in) in height. It reproduces by seed, bulbs and by the production of small bulblets in the flower head. Unlike A. vineale, it is very rare with A. oleraceum to find flower-heads containing bulbils only. In addition, the spathe in A. oleraceum is in two parts."
+    },
+    "es": {
+      "source": "Wikipedia (es): Allium oleraceum",
+      "source_url": "https://es.wikipedia.org/wiki/Allium_oleraceum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172740340,
+      "text": "Allium oleraceum es una especie perteneciente a la familia de las amarilidáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ail des jardins",
+      "source_url": "https://fr.wikipedia.org/wiki/Ail_des_jardins",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228662958,
+      "text": "L'Ail des jardins, ail des champs ou ail sauvage est une espèce de plantes à fleurs de la famille des Liliaceae. C'est une plante herbacée vivace trouvée en Eurasie."
+    },
+    "id": {
+      "source": "Wikipedia (id): Allium oleraceum",
+      "source_url": "https://id.wikipedia.org/wiki/Allium_oleraceum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28105424,
+      "text": "Allium oleraceum adalah spesies tumbuhan yang tergolong ke dalam famili Amaryllidaceae. Spesies ini juga merupakan bagian dari ordo Asparagales. Spesies Allium oleraceum sendiri merupakan bagian dari genus bawang Allium. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh L.."
     }
   },
   "edible": {
@@ -137,7 +164,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -186,7 +213,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/528525-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -194,7 +221,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/528525-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000756866.webp",
@@ -207,6 +234,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

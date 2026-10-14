@@ -19,12 +19,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "蜡烛果",
-      "桐花树"
+    "id": [
+      "Gigi gajah"
     ],
     "ml": [
       "പൂക്കണ്ടൽ"
@@ -35,6 +34,10 @@
     "th": [
       "แสมแดง"
     ],
+    "zh": [
+      "蜡烛果",
+      "桐花树"
+    ],
     "ru": [
       "Эгицерас рожковидный"
     ],
@@ -43,27 +46,60 @@
     ],
     "ms": [
       "Pokok Kacang-kacang"
-    ],
-    "id": [
-      "Gigi gajah"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4320452",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4320452",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Aegiceras corniculatum」",
+      "source": "Wikipedia (en): Aegiceras corniculatum",
       "source_url": "https://en.wikipedia.org/wiki/Aegiceras_corniculatum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370226786,
       "text": "Aegiceras corniculatum, commonly known as black mangrove, river mangrove, goat's horn mangrove, or khalsi, is a species of shrub or tree mangrove in the primrose family, Primulaceae, with a distribution in coastal and estuarine areas ranging from India through South East Asia to southern China, New Guinea and Australia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Aegiceras corniculatum",
+      "source_url": "https://es.wikipedia.org/wiki/Aegiceras_corniculatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171717556,
+      "text": "Aegiceras corniculatum es una especie de arbusto o pequeño árbol manglar perteneciente a la familia de las primuláceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Aegiceras corniculatum",
+      "source_url": "https://fr.wikipedia.org/wiki/Aegiceras_corniculatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226296415,
+      "text": "Aegiceras corniculatum est une espèce de plantes à fleurs de la famille des Primulaceae. Elle est communément appelée mangrove noire, mangrove fluviale, mangrove à corne de chèvre, ou khalsi. C'est une espèce d'arbuste ou d'arbre de la mangrove, avec une distribution dans les zones côtières et d'estuaires allant de l'Inde à l'Asie du Sud-Est jusqu'au sud de la Chine, de la Nouvelle-Guinée et de l'Australie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Aegiceras corniculatum",
+      "source_url": "https://pt.wikipedia.org/wiki/Aegiceras_corniculatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66908287,
+      "text": "Aegiceras corniculatum é uma espécie de arbusto ou pequena árvore manguezal pertencente à família das primuláceas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Gigi gajah",
+      "source_url": "https://id.wikipedia.org/wiki/Gigi_gajah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29706502,
+      "text": "Aegiceras corniculatum, umumnya dikenal sebagai gigi gajah atau tudung laut, adalah spesies bakau semak atau pohon dalam famili primrose, Primulaceae, dengan sebaran di daerah pesisir dan muara mulai dari India hingga Asia Tenggara hingga Cina bagian selatan, Papua Nugini, dan Australia."
     }
   },
   "edible": {
@@ -81,7 +117,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -113,7 +149,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/586618-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -121,7 +157,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/586618-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000521489.webp",
@@ -134,6 +170,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 292,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

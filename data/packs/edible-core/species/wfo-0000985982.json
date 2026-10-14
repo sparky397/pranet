@@ -12,22 +12,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "vi": [
+      "Hạnh lí"
+    ],
     "zh": [
       "杏李",
       "鸡血李"
-    ],
-    "vi": [
-      "Hạnh lí"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3017242",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3017242",
   "search_names": {
@@ -38,13 +38,46 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Prunus simonii」",
+      "source": "Wikipedia (en): Prunus simonii",
       "source_url": "https://en.wikipedia.org/wiki/Prunus_simonii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1340678053,
       "text": "Prunus simonii, called apricot plum and Simon plum, is a tree in the genus Prunus. It was first described by Elie-Abel Carrière in 1872 and is native to Hebei province, China.\nThe species is not known in a truly wild state.\nIt has been important for breeding commercial plum cultivars from crosses with other species of the genus Prunus.\nThe species is named for Gabriel Eugène Simon (1829–1896), a French botanist and diplomat who sent pits to the Paris Museum in the early 1860s while he was representing the French government in China.\nBeginning about 1881, the species became commonly known in the United States; having been introduced there from France."
+    },
+    "es": {
+      "source": "Wikipedia (es): Prunus simonii",
+      "source_url": "https://es.wikipedia.org/wiki/Prunus_simonii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174431472,
+      "text": "Prunus simonii, llamado ciruela albaricoque y ciruela Simon, es un árbol del género Prunus. Fue descrito por primera vez por Elie-Abel Carrière en 1872 y es originario de la provincia de Hebei, China.\nLa especie no se conoce en un estado verdaderamente silvestre.\nHa sido importante para la cría de cultivares comerciales de ciruelas de cruces con otras especies del género Prunus.\nLa especie lleva el nombre de Gabriel Eugène Simon (1829–1896), un botánico y diplomático francés que envió muestras al Museo de París a principios de la década de 1860 mientras representaba al gobierno francés en China.\nA partir de 1881, la especie se hizo comúnmente conocida en los Estados Unidos; habiendo sido introducido allí desde Francia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Prunus simonii",
+      "source_url": "https://fr.wikipedia.org/wiki/Prunus_simonii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228235043,
+      "text": "Prunus simonii, le prunier de Simon est une espèce de plantes à fleurs de la famille des Rosaceae. Ce Prunus est un petit arbre que l'on trouve au Hebei en Chine, bien qu'aucun pied sauvage ne soit connu."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Prunus simonii § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Prunus_simonii#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 228235043,
+        "heading": "Culture",
+        "text": "L’espèce apprécie un sol limoneux bien drainé ainsi que le calcaire. Elle nécessite une position ensoleillée. Cette espèce fructifie rarement bien en Grande-Bretagne en raison des fleurs endommagées par les gelées. Prunus simonii s’hybride bien avec Prunus salicina, le prunier japonais, qui a des fruits résistants au gel, l’un des cultivars sélectionnés à partir de cette hybridation s’appelle 'Kara'.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -56,7 +89,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -69,7 +102,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/730279-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -77,7 +110,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/730279-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000985982.webp",
@@ -90,6 +123,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 245,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

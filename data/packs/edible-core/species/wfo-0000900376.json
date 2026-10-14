@@ -31,7 +31,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -41,27 +41,6 @@
       "Johnson grass",
       "Johnsongrass",
       "great millet"
-    ],
-    "de": [
-      "Wilde Mohrenhirse",
-      "Aleppo-Mohrenhirse"
-    ],
-    "zh": [
-      "詹森草",
-      "石茅",
-      "假高粱"
-    ],
-    "nl": [
-      "Wilde sorgo"
-    ],
-    "cs": [
-      "čirok halabský"
-    ],
-    "fr": [
-      "sorgho d'alep"
-    ],
-    "fi": [
-      "jonsonindurra"
     ],
     "ar": [
       "سورغم حلبي"
@@ -77,6 +56,11 @@
     ],
     "hu": [
       "fenyércirok"
+    ],
+    "zh": [
+      "假高粱",
+      "詹森草",
+      "石茅"
     ],
     "ca": [
       "sorgo d'Alep"
@@ -101,6 +85,12 @@
     ],
     "el": [
       "Βέλιουρας"
+    ],
+    "fi": [
+      "jonsonindurra"
+    ],
+    "cs": [
+      "čirok halabský"
     ],
     "azb": [
       "قان‌قورودان"
@@ -137,33 +127,70 @@
     ],
     "mr": [
       "बोरू"
+    ],
+    "de": [
+      "Wilde Mohrenhirse",
+      "Aleppo-Mohrenhirse"
+    ],
+    "nl": [
+      "Wilde sorgo"
+    ],
+    "fr": [
+      "sorgho d'alep"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q858360",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q858360",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイバンモロコシ」",
+      "source": "Wikipedia (ja): セイバンモロコシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%90%E3%83%B3%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106764975,
       "text": "セイバンモロコシ はイネ科の普通に見られる雑草の一つ。英語名はジョンソングラス。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Johnson grass」",
+      "source": "Wikipedia (en): Johnson grass",
       "source_url": "https://en.wikipedia.org/wiki/Johnson_grass",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375262437,
       "text": "Johnson grass or Johnsongrass, Sorghum halepense, is a plant in the grass family, Poaceae, native to Asia and northern Africa. The plant has been introduced to all continents except Antarctica, and most larger islands and archipelagos. It reproduces by rhizomes and seeds."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sorghum halepense",
+      "source_url": "https://es.wikipedia.org/wiki/Sorghum_halepense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174771255,
+      "text": "El sorgo de Alepo es un cereal, producto de una hibridación de introgresión con otra especie del género Sorghum en la familia Poaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sorghum halepense",
+      "source_url": "https://fr.wikipedia.org/wiki/Sorghum_halepense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239535485,
+      "text": "Sorghum halepense, ou sorgho d'Alep, est une espèce de plantes monocotylédones de la famille des Poaceae (Graminées), sous-famille des Panicoideae, originaire du bassin méditerranéen."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sorghum halepense",
+      "source_url": "https://pt.wikipedia.org/wiki/Sorghum_halepense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64274454,
+      "text": "Sorghum halepense é uma espécie de planta com flor pertencente à família Poaceae."
     }
   },
   "edible": {
@@ -180,7 +207,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -402,7 +429,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/422139-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or rhizomatous geophyte",
@@ -410,7 +437,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/422139-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000900376.webp",
@@ -423,6 +450,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

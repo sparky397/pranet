@@ -18,7 +18,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ru": [
@@ -38,7 +38,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2154340",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2154340",
   "search_names": {
@@ -48,23 +48,32 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Elaeocarpus dentatus」",
+      "source": "Wikipedia (en): Elaeocarpus dentatus",
       "source_url": "https://en.wikipedia.org/wiki/Elaeocarpus_dentatus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371946936,
       "text": "Elaeocarpus dentatus, commonly known as hinau, is a native lowland forest tree of New Zealand. Other names in Māori for the tree are hangehange, pōkākā, and whīnau."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Elaeocarpus dentatus",
+      "source_url": "https://pt.wikipedia.org/wiki/Elaeocarpus_dentatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63138396,
+      "text": "Elaeocarpus dentatus é uma espécie de angiosperma da família Elaeocarpaceae."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Elaeocarpus dentatus」の節「Cultivation」",
+        "source": "Wikipedia (en): Elaeocarpus dentatus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Elaeocarpus_dentatus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1371946936,
         "heading": "Cultivation",
         "text": "E. dentatus prefers a rich, moist soil in partial shade. To grow, press the seed well in and cover with 5mm of soil. It takes around 6 months to germinate and fresh fruit can be used.",
@@ -82,7 +91,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -93,7 +102,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/833807-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -101,7 +110,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/833807-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000664202.webp",
@@ -114,6 +123,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 396,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

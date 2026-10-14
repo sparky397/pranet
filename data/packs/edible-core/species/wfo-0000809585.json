@@ -8,9 +8,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "id": [
+      "Palem ekor ikan"
+    ],
     "ms": [
       "Pokok Botoh"
     ],
@@ -22,16 +25,13 @@
     ],
     "fi": [
       "isoeväpalmu"
-    ],
-    "id": [
-      "Palem ekor ikan"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5047745",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5047745",
   "search_names": {
@@ -41,13 +41,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Caryota no」",
+      "source": "Wikipedia (en): Caryota no",
       "source_url": "https://en.wikipedia.org/wiki/Caryota_no",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1339389306,
       "text": "Caryota no is a species of flowering plant in the family Arecaceae. It is endemic to the Island of Borneo. Its specific epithet is from the common name in Malaysian, cajù nó. It is called baroch by the Dayak people of Singhi. The fibers, which are used for fishing lines or woven into baskets, are called talì onus. The extremely hard wood is also used like similar species."
+    },
+    "es": {
+      "source": "Wikipedia (es): Caryota no",
+      "source_url": "https://es.wikipedia.org/wiki/Caryota_no",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171501781,
+      "text": "Caryota no es una especie perteneciente a la familia de las palmeras (Arecaceae)."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Caryota no",
+      "source_url": "https://fr.wikipedia.org/wiki/Caryota_no",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232931904,
+      "text": "Caryota no est une espèce de plantes du genre Caryota, de la famille des Arecaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Palem ekor ikan",
+      "source_url": "https://id.wikipedia.org/wiki/Palem_ekor_ikan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29075344,
+      "text": "Palem ekor ikan adalah tumbuhan berbunga yang termasuk dalam famili Arecaceae (palem-paleman). Tumbuhan ini merupakan tumbuhan endemik dari Kalimantan dan termasuk dalam daftar jenis tumbuhan langka yang berstatus rawan punah. Botanis Odoardo Beccari yang berasal dari Italia adalah ilmuwan pertama yang mempublikasikan nama ilmiah Caryota no Becc pada tahun 1871. Namun, penamaan tersebut terinspirasi dari julukan tumbuhan tersebut dalam bahasa Melayu, yaitu cajù nó."
     }
   },
   "edible": {
@@ -58,7 +85,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -68,7 +95,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/665621-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -76,7 +103,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/665621-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000809585.webp",
@@ -89,6 +116,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

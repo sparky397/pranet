@@ -8,39 +8,84 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "American spikenard"
+    "fr": [
+      "Aralie à grappes"
     ],
     "fi": [
       "terttuaralia"
     ],
     "zh": [
-      "总序土当归",
-      "美洲楤木"
+      "美洲楤木",
+      "总序土当归"
     ],
     "ar": [
       "ناردين أمريكي"
+    ],
+    "en": [
+      "American spikenard"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3926761",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3926761",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Aralia racemosa」",
+      "source": "Wikipedia (en): Aralia racemosa",
       "source_url": "https://en.wikipedia.org/wiki/Aralia_racemosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306192563,
       "text": "Aralia racemosa, with common names American spikenard, small spikenard, Indian root, spice berry, spignet, life-of-man, petty morel, is an ornamental plant in the family Araliaceae native to the United States and Canada. It is a herbaceous plant, about 1 to 2 m tall, which grows in shady areas. Its native range includes most of the eastern United States."
+    },
+    "es": {
+      "source": "Wikipedia (es): Aralia racemosa",
+      "source_url": "https://es.wikipedia.org/wiki/Aralia_racemosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582636,
+      "text": "Aralia racemosa es una especie de planta fanerógama perteneciente a la familia Araliaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Aralie à grappes",
+      "source_url": "https://fr.wikipedia.org/wiki/Aralie_%C3%A0_grappes",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226283799,
+      "text": "L'Aralie à grappes est une espèce de plantes à fleurs de la famille des Araliaceae. C'est une plante herbacée vivace à feuillage caduc originaire des États-Unis et du Canada. Son aire de répartition natale comprend la plupart des États-Unis de l'Est. C'est une plante ornementale, d'environ 1 à 2 m de hauteur, qui pousse dans les zones ombragées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Aralia racemosa",
+      "source_url": "https://pt.wikipedia.org/wiki/Aralia_racemosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 46603255,
+      "text": "Aralia racemosa é uma espécie de Aralia."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Aralie à grappes § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Aralie_%C3%A0_grappes#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 226283799,
+        "heading": "Culture",
+        "text": "En verger potager forestier, en forêt jardinée, en lisière forestière, en trouée forestière, en bande riveraine.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -53,7 +98,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -103,7 +148,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/89765-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -111,7 +156,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/89765-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000258949.webp",
@@ -124,6 +169,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

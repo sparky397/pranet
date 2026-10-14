@@ -13,29 +13,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "シロバナムシヨケギク"
     ],
-    "es": [
-      "Pelitre",
-      "Piretro"
-    ],
     "fr": [
-      "Pyrèthre",
-      "Pyrèthre de Dalmatie"
+      "Pyrèthre de Dalmatie",
+      "pyrèthre de Dalmatie",
+      "Pyrèthre"
     ],
-    "en": [
-      "Dalmatian Insect-Flower",
-      "Dalmatian Pyrethrum",
-      "Dalmatia Pyrethrum"
-    ],
-    "zh": [
-      "除虫菊",
-      "救军粮叶",
-      "除蟲菊"
+    "id": [
+      "Piretrum"
     ],
     "eo": [
       "Dalmata insektofloro"
@@ -52,6 +42,11 @@
     "ar": [
       "أقحوان رمادي الورق"
     ],
+    "zh": [
+      "除蟲菊",
+      "除虫菊",
+      "救军粮叶"
+    ],
     "ca": [
       "piretre"
     ],
@@ -60,9 +55,6 @@
     ],
     "eu": [
       "Piretro"
-    ],
-    "id": [
-      "Piretrum"
     ],
     "sr": [
       "Бухач"
@@ -87,13 +79,22 @@
     ],
     "ka": [
       "დალმაციური გვირილა"
+    ],
+    "es": [
+      "Pelitre",
+      "Piretro"
+    ],
+    "en": [
+      "Dalmatian Insect-Flower",
+      "Dalmatian Pyrethrum",
+      "Dalmatia Pyrethrum"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1158053",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1158053",
   "search_names": {
@@ -106,32 +107,59 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シロバナムシヨケギク」",
+      "source": "Wikipedia (ja): シロバナムシヨケギク",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%83%90%E3%83%8A%E3%83%A0%E3%82%B7%E3%83%A8%E3%82%B1%E3%82%AE%E3%82%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110990450,
       "text": "シロバナムシヨケギク は、キク科の多年草である。胚珠の部分に殺虫成分のピレトリンを含むため、除虫菊（ジョチュウギク）の名前でも知られ殺虫剤の原料に使用されてきた。原産地は地中海沿岸であり、セルビアで発見された。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Tanacetum cinerariifolium」",
+      "source": "Wikipedia (en): Tanacetum cinerariifolium",
       "source_url": "https://en.wikipedia.org/wiki/Tanacetum_cinerariifolium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1352115956,
       "text": "Tanacetum cinerariifolium is a species of flowering plant in the aster family, Asteraceae, and formerly part of the genus Pyrethrum, but now placed in the genus Chrysanthemum, or the genus Tanacetum by some biologists. It is called the Dalmatian chrysanthemum or Dalmatian pyrethrum, denoting its origin in western coastal Balkan Peninsula, where it ranges from Dalmatia to Albania. It looks more like the common daisy than other pyrethrums do. Its flowers, typically white with yellow centers, grow from numerous fairly rigid stems. Plants have blue-green leaves and grow to 45 to 100 cm in height."
+    },
+    "es": {
+      "source": "Wikipedia (es): Tanacetum cinerariifolium",
+      "source_url": "https://es.wikipedia.org/wiki/Tanacetum_cinerariifolium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157139828,
+      "text": "El piretro o pelitre de Dalmacia es una planta de hoja perenne de la familia de las asteráceas, nativa de Dalmacia; es parecida a una margarita, con vistosas flores blancas, rosas o rojas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pyrèthre de Dalmatie",
+      "source_url": "https://fr.wikipedia.org/wiki/Pyr%C3%A8thre_de_Dalmatie",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225041638,
+      "text": "Le pyrèthre de Dalmatie est une espèce de plantes à fleurs de la famille des Asteraceae (Composées), cultivée pour ses fleurs dont on tire une poudre insecticide."
+    },
+    "id": {
+      "source": "Wikipedia (id): Piretrum",
+      "source_url": "https://id.wikipedia.org/wiki/Piretrum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30060773,
+      "text": "Piretrum atau Tanaman Piretrum merupakan tumbuhan sejenis terna yang memiliki bunga. Tanaman ini tumbuh subur di lingkungan yang memiliki iklim dan cuaca serta topografi yang ekstrem/menantang. Sepanjang sejarahnya, Piretrum telah dibudidayakan dan telah tumbuh liar didaerah lintang tinggi mulai dari pegunungan Alphen di Eropa sampai ke dekat Semenanjung Korea di timur. Beberapa waktu ini, Piretrum banyak dibudidayakan di Brazil, Australia, Afrika Timur terutama Kenya dan Meksiko."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Tanacetum cinerariifolium」の節「Safety」",
+        "source": "Wikipedia (en): Tanacetum cinerariifolium § Safety",
         "source_url": "https://en.wikipedia.org/wiki/Tanacetum_cinerariifolium#Safety",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1352115956,
         "heading": "Safety",
         "text": "These plants can cause severe allergic reactions in some people. Prolonged contact with the dried flowers can cause allergic dermatitis, allergic rhinitis, and asthma.",
@@ -150,7 +178,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -190,7 +218,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/252275-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -198,7 +226,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/252275-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000025699.webp",
@@ -211,6 +239,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 281,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

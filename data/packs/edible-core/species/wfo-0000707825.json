@@ -41,27 +41,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "tree cotton"
+    "fr": [
+      "Cotonnier en arbre"
     ],
     "zh": [
+      "亚洲树棉",
       "树棉",
       "大头茶",
       "棉花油",
       "棉花壳",
       "棉花",
       "棉花子",
-      "棉花根",
-      "亚洲树棉"
+      "棉花根"
     ],
     "ne": [
       "कपासको बोट"
-    ],
-    "fr": [
-      "Cotonnier en arbre"
     ],
     "ca": [
       "cotoner arbori"
@@ -92,24 +89,45 @@
     ],
     "bn": [
       "কার্পাস"
+    ],
+    "en": [
+      "tree cotton"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q310124",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q310124",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Gossypium arboreum」",
+      "source": "Wikipedia (en): Gossypium arboreum",
       "source_url": "https://en.wikipedia.org/wiki/Gossypium_arboreum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1340923587,
       "text": "Gossypium arboreum, commonly called tree cotton, is a species of cotton native to India and Sri Lanka. There is evidence of its cultivation as long ago as the Indus Valley Civilisation of the Indus River for the production of cotton textiles. The shrub was included in Linnaeus's Species Plantarum published in 1753. The holotype was also supplied by him, which is now in the Linnean Herbarium in the Swedish Museum of Natural History."
+    },
+    "es": {
+      "source": "Wikipedia (es): Gossypium arboreum",
+      "source_url": "https://es.wikipedia.org/wiki/Gossypium_arboreum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175436201,
+      "text": "Gossypium arboreum, el algodonero arbóreo o árbol del algodón, es una especie de plantas con flores perteneciente a la familia Malvaceae. Es una de las pocas especies de algodón que se cultiva."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cotonnier en arbre",
+      "source_url": "https://fr.wikipedia.org/wiki/Cotonnier_en_arbre",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226849175,
+      "text": "Le cotonnier en arbre (Gossypium arboreum) est une espèce de plantes dicotylédones de la famille des Malvaceae. C'est un arbuste d'environ 2 à 3, 50 m de haut aux feuilles tomenteuses qui pousse en Asie tropicale et subtropicale. Les fleurs sont jaunes ou rouges.\nIl contient du gossypol."
     }
   },
   "edible": {
@@ -127,7 +145,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -166,7 +184,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/559664-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -174,7 +192,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/559664-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000707825.webp",
@@ -187,6 +205,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

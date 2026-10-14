@@ -31,12 +31,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Balsam of Mecca"
-    ],
     "pl": [
       "balsamowiec właściwy"
     ],
@@ -54,24 +51,36 @@
     ],
     "sd": [
       "بالسان"
+    ],
+    "en": [
+      "Balsam of Mecca"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15543125",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15543125",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Commiphora gileadensis」",
+      "source": "Wikipedia (en): Commiphora gileadensis",
       "source_url": "https://en.wikipedia.org/wiki/Commiphora_gileadensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1340416434,
       "text": "Commiphora gileadensis, the Arabian balsam tree, is a shrub species in the family Burseraceae growing in Saudi Arabia, Yemen, southern Oman, Sudan and in southeast Egypt where it may have been introduced. Other common names for the plant include balm of Gilead and Mecca myrrh, but this is due to historical confusion between several plants and the historically important expensive perfumes and drugs obtained from them."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Commiphora gileadensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Commiphora_gileadensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239915890,
+      "text": "Commiphora gileadensis, le Baumier de la Mecque, est une espèce de plantes à fleurs de la famille des Burseraceae. C'est un arbre originaire du sud de l'Arabie et naturalisé, dans l'Antiquité et de nouveau à l'époque moderne, dans l'ancienne Judée / Palestine."
     }
   },
   "edible": {
@@ -85,7 +94,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -103,7 +112,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/127663-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -111,7 +120,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/127663-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000617282.webp",
@@ -124,6 +133,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

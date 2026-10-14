@@ -12,25 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "fishpoison",
-      "Hawaiian Fish Poisoning Plant"
-    ],
-    "zh": [
-      "灰毛豆",
-      "臺灣灰毛豆",
-      "灰叶",
-      "灰叶根"
-    ],
-    "haw": [
-      "Auhuhu",
-      "Ahuhu",
-      "‘Auhola",
-      "Hola"
-    ],
     "vi": [
       "Cốt khí tía"
     ],
@@ -42,6 +26,12 @@
     ],
     "ml": [
       "കൊഴിഞ്ഞിൽ"
+    ],
+    "zh": [
+      "灰毛豆",
+      "臺灣灰毛豆",
+      "灰叶",
+      "灰叶根"
     ],
     "ar": [
       "حويرة أرجوانية"
@@ -66,13 +56,23 @@
     ],
     "shn": [
       "တူၼ်ႈၶၢမ်း"
+    ],
+    "en": [
+      "fishpoison",
+      "Hawaiian Fish Poisoning Plant"
+    ],
+    "haw": [
+      "Auhuhu",
+      "Ahuhu",
+      "‘Auhola",
+      "Hola"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3281054",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3281054",
   "search_names": {
@@ -82,26 +82,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Tephrosia purpurea」",
+      "source": "Wikipedia (en): Tephrosia purpurea",
       "source_url": "https://en.wikipedia.org/wiki/Tephrosia_purpurea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1350167732,
       "text": "Tephrosia purpurea is a species of flowering plant in the family Fabaceae. It grows in poor soils as a common wasteland weed and has a pantropical distribution. It is a type of legume native to south-western Asia and north-eastern Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Tephrosia purpurea",
+      "source_url": "https://es.wikipedia.org/wiki/Tephrosia_purpurea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171900029,
+      "text": "Tephrosia purpurea es una especie de planta perteneciente a la familia Fabaceae, que tiene una distribución pantropical. En muchas partes se encuentra bajo cultivo como abono verde. Se encuentra en toda la India y Sri Lanka en suelos pobres."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tephrosia purpurea",
+      "source_url": "https://pt.wikipedia.org/wiki/Tephrosia_purpurea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71387364,
+      "text": "Tephrosia purpurea é uma angiosperma da família Fabaceae, conhecida por crescer em solos pobres, frequentemente como uma erva comum em áreas degradadas, com distribuição pantropical. Trata-se de uma leguminosa nativa do sudoeste da Ásia e do nordeste da África."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Tephrosia purpurea」の節「Toxicity」",
+        "source": "Wikipedia (en): Tephrosia purpurea § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Tephrosia_purpurea#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1350167732,
         "heading": "Toxicity",
         "text": "Tephrosia purpurea is cited as \"unpalatable\", although the seeds of the plant are reportedly a favourite of sandgrouse inhabiting the scrub-desert of northern Sudan, and the butterfly Colias croceus is known to feed on it. This has allowed it to colonize the landscape in parts of the Middle East which have been overgrazed, especially at lower altitudes.\nThe species is known to be toxic to goats; a study published in the early 1980s revealed that 11 out of 12 goats died after 1 to 40 days of daily oral dosing of Tephrosia purpurea shoots (fresh or dried), and that they displayed adverse reactions to ingesting it such as dyspnoea, weakness of the limbs and joints causing instability in movement, changes in fat composition, catarrhal enteritis, and hemorrhage in the heart, lungs, and intestinal mucosa. Rotenoids extracted from the seeds of the plant also caused complete mortality in Aphis craccivora, when applied at a concentration of 0.1% for 48 hours.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Tephrosia purpurea § Toxicidade",
+        "source_url": "https://pt.wikipedia.org/wiki/Tephrosia_purpurea#Toxicidade",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71387364,
+        "heading": "Toxicidade",
+        "text": "Tephrosia purpurea é considerada \"intragável\", embora suas sementes sejam relatadas como favoritas de cortiçóis que habitam o deserto de arbustos do norte do Sudão, e a borboleta Colias croceus se alimente dela. Isso permitiu que colonizasse paisagens no Oriente Médio que sofreram sobrepastoreio, especialmente em altitudes mais baixas.\nA espécie é conhecida por ser tóxica para cabras; um estudo do início dos anos 1980 revelou que 11 de 12 cabras morreram após 1 a 40 dias de administração oral diária de brotos de Tephrosia purpurea (frescos ou secos), exibindo reações adversas como dispneia, fraqueza nos membros e articulações causando instabilidade de movimento, alterações na composição de gordura, enterite e hemorragia no coração, pulmões e mucosa intestinal. Rotenoides extraídos das sementes também causaram mortalidade total em Aphis craccivora [en] quando aplicados em concentração de 0,1% por 48 horas.",
         "truncated": false
       }
     }
@@ -119,7 +148,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -245,7 +274,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/520851-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual, perennial or subshrub",
@@ -253,7 +282,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/520851-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000203860.webp",
@@ -266,6 +295,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

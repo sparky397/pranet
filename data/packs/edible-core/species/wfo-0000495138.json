@@ -18,15 +18,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "licorice weed"
+    "id": [
+      "Sapu manis"
     ],
     "zh": [
-      "甜珠草",
       "野甘草",
+      "甜珠草",
       "冰糖草",
       "野甘草（冰糖草）"
     ],
@@ -65,13 +65,16 @@
     ],
     "ta": [
       "கல் உருக்கி"
+    ],
+    "en": [
+      "licorice weed"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q7787299",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q7787299",
   "search_names": {
@@ -83,13 +86,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Scoparia dulcis」",
+      "source": "Wikipedia (en): Scoparia dulcis",
       "source_url": "https://en.wikipedia.org/wiki/Scoparia_dulcis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376744614,
       "text": "Scoparia dulcis is a species of flowering plant in the plantain family. Common names include licorice weed, goatweed, scoparia-weed and sweet-broom in English, tapeiçava, tapixaba, and vassourinha in Portuguese, escobillo in Spanish, and tipychä kuratu in Guarani. It is native to the Neotropics but it can be found throughout the tropical and subtropical world."
+    },
+    "es": {
+      "source": "Wikipedia (es): Scoparia dulcis",
+      "source_url": "https://es.wikipedia.org/wiki/Scoparia_dulcis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174062853,
+      "text": "Scoparia dulcis es una especie de planta de la familia Plantaginaceae. Los nombres comunes incluyen escobilla, paraguay y yerbaní. Es nativa del Neotrópico, pero se puede encontrar en todo el mundo tropical y subtropical."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sapu manis",
+      "source_url": "https://id.wikipedia.org/wiki/Sapu_manis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29875795,
+      "text": "Sapu manis adalah spesies tumbuhan berbunga yang berasal dari suku plantaginaceae. Tumbuhan ini juga secara lokal dikenal dengan nama grinje menir, grinje jepun, dan jaka tua."
     }
   },
   "edible": {
@@ -105,7 +126,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -236,7 +257,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/230902-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or subshrub",
@@ -244,7 +265,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/230902-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000495138.webp",
@@ -257,6 +278,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

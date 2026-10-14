@@ -18,18 +18,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "binjai",
-      "Mango"
+    "id": [
+      "Binjai"
     ],
     "nl": [
       "Bauno"
-    ],
-    "id": [
-      "Binjai"
     ],
     "ms": [
       "Binjai"
@@ -57,13 +53,17 @@
     ],
     "ja": [
       "ビンジャイマンゴ"
+    ],
+    "en": [
+      "binjai",
+      "Mango"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4499976",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4499976",
   "search_names": {
@@ -77,13 +77,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Mangifera caesia」",
+      "source": "Wikipedia (en): Mangifera caesia",
       "source_url": "https://en.wikipedia.org/wiki/Mangifera_caesia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1364938891,
       "text": "Mangifera caesia is a species of flowering plant in the cashew family, Anacardiaceae. Known in English as jack or white mango, among other names. It belongs to the same genus as the mango and is widely cultivated in areas of Indonesia, Malaysia, Singapore, Brunei, Papua New Guinea and the Philippines."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Mangifera caesia",
+      "source_url": "https://fr.wikipedia.org/wiki/Mangifera_caesia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223669610,
+      "text": "Mangifera caesia est une espèce de plantes du genre Mangifera de la famille des Anacardiaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Binjai",
+      "source_url": "https://id.wikipedia.org/wiki/Binjai",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 27529655,
+      "text": "Binjai atau Wani adalah pohon buah sejenis mangga dengan bau yang harum menusuk dan rasa yang masam manis. Buah ini juga dikenal dengan beberapa nama lain seperti bin-yaa, lam-yaa (Th.), belenu (Mly., beluno, baluno, bauno, bayuno, wenu, binglu, dan wani. Nama ilmiahnya adalah Mangifera caesia. Bahasa inggrisnya adalah White mango."
     }
   },
   "edible": {
@@ -98,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -115,7 +133,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69885-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -123,7 +141,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69885-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000371266.webp",
@@ -136,6 +154,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 391,
     "height": 349,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

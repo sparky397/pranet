@@ -10,36 +10,54 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "arz": [
+      "فيتيس برلانديرى"
+    ],
     "en": [
       "autumn grape",
       "fall grape"
     ],
     "zh": [
       "冬葡萄"
-    ],
-    "arz": [
-      "فيتيس برلانديرى"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q146635",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q146635",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Vitis berlandieri」",
+      "source": "Wikipedia (en): Vitis berlandieri",
       "source_url": "https://en.wikipedia.org/wiki/Vitis_berlandieri",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1337923159,
       "text": "Vitis berlandieri is a species of grape native to the southern North America, primarily Texas, New Mexico and Arkansas."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vitis berlandieri",
+      "source_url": "https://es.wikipedia.org/wiki/Vitis_berlandieri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 154905253,
+      "text": "Vitis berlandieri es una especie de uva nativa de América del Norte, se la conoce como Heller's Grape o Fall Grape, principalmente Texas, Nuevo México, Arkansas, Chihuahua Coahuila, Nuevo León y Tamaulipas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vitis berlandieri",
+      "source_url": "https://fr.wikipedia.org/wiki/Vitis_berlandieri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229386391,
+      "text": "Vitis berlandieri, la vigne espagnole, est une espèce d'arbrisseaux sarmenteux de la famille des Vitaceae, originaire du sud des États-Unis. Après la grande crise du phylloxéra qui détruisit le vignoble européen à la fin du XIXe siècle, cette vigne américaine participa à la reconstitution des vignobles d'Europe, en fournissant aux cépages réputés de Vitis vinifera des porte-greffes résistants au phylloxéra et tolérants au calcaire."
     }
   },
   "edible": {
@@ -53,7 +71,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -70,7 +88,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/68576-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "liana",
@@ -78,7 +96,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/68576-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000421505.webp",
@@ -91,6 +109,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 275,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

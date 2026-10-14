@@ -11,16 +11,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "mammee apple"
-    ],
-    "zh": [
-      "馬米杏",
-      "马米杏",
-      "南美杏"
+    "fr": [
+      "Abricotier des Antilles"
     ],
     "pt": [
       "Abricó-do-pará"
@@ -34,9 +29,6 @@
     "pl": [
       "Mamea amerykańska"
     ],
-    "fr": [
-      "Abricotier des Antilles"
-    ],
     "ru": [
       "Маммея американская"
     ],
@@ -45,6 +37,11 @@
     ],
     "nl": [
       "Amerikaanse mammi-appel"
+    ],
+    "zh": [
+      "馬米杏",
+      "马米杏",
+      "南美杏"
     ],
     "fa": [
       "مامئا امریکنا"
@@ -69,13 +66,16 @@
     ],
     "ml": [
       "മമ്മി ആപ്പിൾ"
+    ],
+    "en": [
+      "mammee apple"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1888040",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1888040",
   "search_names": {
@@ -88,13 +88,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Mammea americana」",
+      "source": "Wikipedia (en): Mammea americana",
       "source_url": "https://en.wikipedia.org/wiki/Mammea_americana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377275330,
       "text": "Mammea americana, commonly known as mammee, mammee apple, mammey, mamey, mamey apple, Santo Domingo apricot, tropical apricot, or South American apricot, is an evergreen tree of the family Calophyllaceae, whose fruit is edible. It has also been classified as belonging to the family Guttiferae Juss. (1789), which would make it a relative of the mangosteen."
+    },
+    "es": {
+      "source": "Wikipedia (es): Mammea americana",
+      "source_url": "https://es.wikipedia.org/wiki/Mammea_americana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172909502,
+      "text": "El mamey, también conocido como mamey amarillo, mamey de Cartagena de Indias, mamey de Guacayarima o mamey de Santo Domingo, es una fruta perennifolia de la familia Calophyllaceae de frutos dulces, comestibles."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Abricotier des Antilles",
+      "source_url": "https://fr.wikipedia.org/wiki/Abricotier_des_Antilles",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058202,
+      "text": "L'abricotier des Antilles ou abricotier-pays est une espèce de plantes à fleurs de la famille des Calophyllaceae. C'est un arbre fruitier originaire des Grandes Antilles."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Abricó-do-pará",
+      "source_url": "https://pt.wikipedia.org/wiki/Abric%C3%B3-do-par%C3%A1",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72936535,
+      "text": "O abricó da Amazônia, também conhecido como abricoteiro, abricó-de-são-domingos e abricó-selvagem, é uma árvore da família Calophyllaceae ou da família Clusiaceae, natural da Amazônia, das Antilhas e do México. A árvore atinge os 18–21 metros de altura; seu tronco é curto e chega a 1,9-2,2 metros de diâmetro. A madeira é usada em construção interna. O fruto, que é uma baga muito maior que a do abricó comum, é usado em compotas, xaropes e refrescos."
     }
   },
   "edible": {
@@ -112,7 +139,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -148,7 +175,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/428743-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -156,7 +183,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/428743-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000375040.webp",
@@ -169,6 +196,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -11,28 +11,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "mountain ebony"
-    ],
-    "zh": [
-      "白花羊紫荊",
-      "洋紫荆",
-      "羊蹄甲",
-      "羊蹄甲树皮",
-      "羊蹄甲叶",
-      "老白花",
-      "白花树",
-      "宫粉羊蹄甲",
-      "宮粉羊蹄甲"
+    "pt": [
+      "Casco-de-vaca-lilás"
     ],
     "hi": [
       "कचनार"
-    ],
-    "pt": [
-      "Casco-de-vaca-lilás"
     ],
     "he": [
       "בוהיניה מגוונת"
@@ -66,6 +52,17 @@
     ],
     "mr": [
       "कांचन"
+    ],
+    "zh": [
+      "宮粉羊蹄甲",
+      "白花羊紫荊",
+      "洋紫荆",
+      "羊蹄甲",
+      "羊蹄甲树皮",
+      "羊蹄甲叶",
+      "老白花",
+      "白花树",
+      "宫粉羊蹄甲"
     ],
     "pnb": [
       "کچنار"
@@ -111,13 +108,16 @@
     ],
     "ar": [
       "بوهينيا مبرقشة"
+    ],
+    "en": [
+      "mountain ebony"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q840341",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q840341",
   "search_names": {
@@ -128,13 +128,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Bauhinia variegata」",
+      "source": "Wikipedia (en): Bauhinia variegata",
       "source_url": "https://en.wikipedia.org/wiki/Bauhinia_variegata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372199366,
       "text": "Bauhinia variegata is a species of flowering plant in the legume family, Fabaceae. It is native to an area from China through Southeast Asia to the Indian subcontinent. Common names include orchid tree and mountain ebony."
+    },
+    "es": {
+      "source": "Wikipedia (es): Bauhinia variegata",
+      "source_url": "https://es.wikipedia.org/wiki/Bauhinia_variegata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172811461,
+      "text": "Bauhinia variegata, llamado vulgarmente árbol de las orquídeas, o árbol orquídea, es un árbol de la familia de las fabáceas, originario del sur y sureste de Asia, desde China meridional, Birmania, India, Nepal, Pakistán y Sri Lanka.También está presente en América Central de forma naturalizada."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bauhinia variegata",
+      "source_url": "https://fr.wikipedia.org/wiki/Bauhinia_variegata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234724942,
+      "text": "Bauhinia variegata, l'Arbre à fleurs d'orchidées, est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un arbre originaire d'Inde, Chine et de Birmanie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Casco-de-vaca-lilás",
+      "source_url": "https://pt.wikipedia.org/wiki/Casco-de-vaca-lil%C3%A1s",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71442615,
+      "text": "Casco-de-vaca-lilás ou unha-de-vaca-lilás. Árvore encontrada e muito bem adaptada na maior parte do Brasil."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "pt": {
+        "source": "Wikipedia (pt): Casco-de-vaca-lilás § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Casco-de-vaca-lil%C3%A1s#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71442615,
+        "heading": "Cultivo",
+        "text": "Pode ser cultivada em quase qualquer tipo de solo, preferindo solos aerados ricos em material orgânico, e que retenham uma boa quantidade de umidade, apesar de crescer relativamente bem em solos argilosos com poucos nutrientes.\nQuando cultivada a sol pleno, ela tem seu crescimento acelerado, tolerando a meia-sombra tendo no mínimo algumas horas de sol.\nPor não ter raízes agressivas, ela geralmente é utilizada em calçadas, tendo destaque na arborização-urbana.\nSua adubação geralmente não é necessária quando plantada diretamente no chão. Entretanto, a adubação pode sim acelerar o crescimento e melhorar a saúde da planta.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -152,7 +194,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -224,7 +266,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/481756-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -232,7 +274,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/481756-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000213330.webp",
@@ -245,6 +287,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 340,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

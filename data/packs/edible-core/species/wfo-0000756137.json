@@ -11,32 +11,74 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Drummond's onion"
-    ],
     "ta": [
       "அல்லியம் திரம்மண்டி"
+    ],
+    "en": [
+      "Drummond's onion"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4732900",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4732900",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Allium drummondii」",
+      "source": "Wikipedia (en): Allium drummondii",
       "source_url": "https://en.wikipedia.org/wiki/Allium_drummondii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1364930208,
       "text": "Allium drummondii, also known as Drummond's onion, wild garlic and prairie onion, is a North American species of onion native to the southern Great Plains of North America. It is found in South Dakota, Kansas, Nebraska, Colorado, Oklahoma, Arkansas, Texas, New Mexico, and northeastern Mexico."
+    },
+    "es": {
+      "source": "Wikipedia (es): Allium drummondii",
+      "source_url": "https://es.wikipedia.org/wiki/Allium_drummondii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 126388160,
+      "text": "Allium drummondii es una especie de planta bulbosa del género Allium, perteneciente a la familia de las amarilidáceas, del orden de las Asparagales. Es originaria de América del Norte."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Allium drummondii",
+      "source_url": "https://fr.wikipedia.org/wiki/Allium_drummondii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236578680,
+      "text": "Allium drummondii, aussi appelé oignon de Drummond, ail sauvage et oignon des prairies, est une espèce herbacée vivace à bulbe du genre Allium de la famille des Amaryllidaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Allium drummondii",
+      "source_url": "https://id.wikipedia.org/wiki/Allium_drummondii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26156733,
+      "text": "Allium drummondii adalah spesies tumbuhan yang tergolong ke dalam famili Amaryllidaceae. Spesies ini juga merupakan bagian dari ordo Asparagales. Spesies Allium drummondii sendiri merupakan bagian dari genus bawang Allium. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh Regel."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Allium drummondii § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Allium_drummondii#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236578680,
+        "heading": "Culture",
+        "text": "Cette espèce se plait en situation ensoleillée, dans un sol léger et bien drainé. Sa culture est possible dans les jardins de rocailles, bien que, dans les zones froides et humides, il soit préférable de la cultiver dans une serre froide. Les bulbes doivent être plantés assez profondément.\nCes plantes sont très appréciées des animaux de pâturage et sont devenues rares ou absentes dans les prairies.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -48,7 +90,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -64,7 +106,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/527963-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -72,7 +114,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/527963-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000756137.webp",
@@ -85,6 +127,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 290,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

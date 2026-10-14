@@ -25,20 +25,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "myrobalan"
-    ],
-    "zh": [
-      "诃子",
-      "藏青果",
-      "绒毛诃子",
-      "诃子（诃子树）",
-      "诃子叶",
-      "西青果",
-      "黄诃子皮"
+    "id": [
+      "Mojokeling"
     ],
     "dv": [
       "އަރޮޅި"
@@ -88,6 +79,15 @@
     "bn": [
       "হরিতকী"
     ],
+    "zh": [
+      "诃子",
+      "藏青果",
+      "绒毛诃子",
+      "诃子（诃子树）",
+      "诃子叶",
+      "西青果",
+      "黄诃子皮"
+    ],
     "ta": [
       "கடுக்காய்"
     ],
@@ -121,21 +121,21 @@
     "pnb": [
       "ہرڑ"
     ],
-    "id": [
-      "Mojokeling"
-    ],
     "ace": [
       "Keudeukè"
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇၼႃႉ"
+    ],
+    "en": [
+      "myrobalan"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3595915",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3595915",
   "search_names": {
@@ -149,13 +149,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Terminalia chebula」",
+      "source": "Wikipedia (en): Terminalia chebula",
       "source_url": "https://en.wikipedia.org/wiki/Terminalia_chebula",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372732875,
       "text": "Terminalia chebula, commonly known as black- or chebulic myrobalan, is a species of Terminalia, native to South Asia from India, Pakistan and Nepal east to southwest China (Yunnan), and south to Sri Lanka, Malaysia, and Vietnam. It is also known as \"Haritaki\"."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Terminalia chebula",
+      "source_url": "https://fr.wikipedia.org/wiki/Terminalia_chebula",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238743620,
+      "text": "Terminalia chebula, tibétain : ཨ་རུ་ར, Wylie : a ru ra, THL : arura, est une espèce de plantes à fleurs de la famille des Combretaceae. C'est un arbre originaire du sud de l'Asie."
+    },
+    "id": {
+      "source": "Wikipedia (id): Mojokeling",
+      "source_url": "https://id.wikipedia.org/wiki/Mojokeling",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29571323,
+      "text": "Mojokeling atau Jokeling adalah salah satu spesies tumbuhan dalam genus Terminalia, famili combretaceae. Tumbuhan ini berasal Asia Selatan, yang persebarannya dimulai dari India dan Nepal timur hingga barat daya Cina (Yunnan), dan selatan ke Sri Lanka, Malaysia, dan Vietnam."
     }
   },
   "edible": {
@@ -170,7 +188,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -198,7 +216,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/171037-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -206,7 +224,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/171037-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000406875.webp",
@@ -219,6 +237,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

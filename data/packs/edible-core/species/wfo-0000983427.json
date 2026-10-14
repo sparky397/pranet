@@ -15,125 +15,86 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウナツユキソウ"
     ],
-    "en": [
-      "Meadowsweet",
-      "queen of the meadow",
-      "Queen-Of-The-Meadow"
-    ],
-    "de": [
-      "Echtes Mädesüß"
-    ],
-    "ar": [
-      "إكليلية المروج"
-    ],
-    "az": [
-      "Qarağacyarpaq quşqonmaz"
-    ],
-    "ba": [
-      "Еркәүек"
-    ],
-    "ca": [
-      "Reina dels prats"
-    ],
-    "cs": [
-      "tužebník jilmový"
-    ],
-    "cy": [
-      "Erwain"
-    ],
-    "da": [
-      "Almindelig Mjødurt"
-    ],
-    "dsb": [
-      "Bagnowa smalanka"
-    ],
-    "es": [
-      "Ulmaria"
-    ],
-    "eu": [
-      "Nasai-lore"
-    ],
-    "fa": [
-      "اسپیره"
-    ],
-    "fi": [
-      "Mesiangervo"
-    ],
-    "fr": [
-      "Reine-des-prés"
-    ],
-    "ga": [
-      "Airgead luachra"
-    ],
-    "hr": [
-      "Končara"
-    ],
-    "hsb": [
-      "Bahnowa smjetanka"
+    "pl": [
+      "Wiązówka błotna"
     ],
     "hu": [
-      "Réti legyezőfű"
-    ],
-    "is": [
-      "Mjaðjurt"
-    ],
-    "it": [
-      "Olmaria"
-    ],
-    "kbd": [
-      "Сэтэней"
-    ],
-    "li": [
-      "Moerasspirea"
-    ],
-    "lt": [
-      "Pelkinė vingiorykštė"
+      "réti legyezőfű"
     ],
     "lv": [
       "Parastā vīgrieze"
     ],
-    "mk": [
-      "медуника",
-      "сурутарка"
+    "li": [
+      "Moerasspirea"
     ],
-    "nb": [
-      "Mjødurt"
+    "et": [
+      "harilik angervaks"
+    ],
+    "de": [
+      "Echtes Mädesüß"
+    ],
+    "kbd": [
+      "Сэтэней"
+    ],
+    "hsb": [
+      "Bahnowa smjetanka"
+    ],
+    "sv": [
+      "älggräs"
+    ],
+    "ar": [
+      "إكليلية المروج"
     ],
     "nl": [
       "Moerasspirea"
     ],
-    "nn": [
-      "Mjødurt"
-    ],
-    "pl": [
-      "Wiązówka błotna"
-    ],
-    "ro": [
-      "Crețușcă"
+    "is": [
+      "Mjaðjurt"
     ],
     "ru": [
       "Таволга вязолистная"
     ],
-    "sk": [
-      "Túžobník brestový"
+    "ro": [
+      "Crețușcă"
     ],
-    "sl": [
-      "brestovolistni oslad"
-    ],
-    "sv": [
-      "Älggräs"
-    ],
-    "tr": [
-      "Çayırkraliçesi"
+    "fi": [
+      "mesiangervo"
     ],
     "uk": [
       "Гадючник в'язолистий"
+    ],
+    "cy": [
+      "Erwain"
+    ],
+    "nn": [
+      "mjødurt"
+    ],
+    "cs": [
+      "tužebník jilmový"
+    ],
+    "fa": [
+      "اسپیره"
+    ],
+    "dsb": [
+      "Bagnowa smalanka"
+    ],
+    "az": [
+      "Qarağacyarpaq quşqonmaz"
+    ],
+    "hr": [
+      "Končara"
+    ],
+    "lt": [
+      "Pelkinė vingiorykštė"
+    ],
+    "da": [
+      "almindelig mjødurt"
     ],
     "zh": [
       "旋果蚊草子",
@@ -141,11 +102,20 @@
       "合叶子",
       "旋果蚊子草"
     ],
-    "et": [
-      "harilik angervaks"
+    "nb": [
+      "mjødurt"
+    ],
+    "ga": [
+      "airgead luachra"
+    ],
+    "eu": [
+      "Nasai-lore"
     ],
     "bg": [
       "блатен тъжник"
+    ],
+    "sk": [
+      "túžobník brestový"
     ],
     "ast": [
       "Ulmaria"
@@ -156,8 +126,15 @@
     "gl": [
       "Herba ulmeira"
     ],
+    "sl": [
+      "brestovolistni oslad"
+    ],
     "azb": [
       "قار آغاجیارپاق قوشقونماز"
+    ],
+    "mk": [
+      "сурутарка",
+      "медуника"
     ],
     "hy": [
       "Փրփրուկ թեղանման"
@@ -176,13 +153,36 @@
     ],
     "ko": [
       "메도스위트"
+    ],
+    "en": [
+      "Meadowsweet",
+      "queen of the meadow",
+      "Queen-Of-The-Meadow"
+    ],
+    "ba": [
+      "Еркәүек"
+    ],
+    "ca": [
+      "Reina dels prats"
+    ],
+    "es": [
+      "Ulmaria"
+    ],
+    "fr": [
+      "Reine-des-prés"
+    ],
+    "it": [
+      "Olmaria"
+    ],
+    "tr": [
+      "Çayırkraliçesi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q147176",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q147176",
   "search_names": {
@@ -192,22 +192,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウナツユキソウ」",
+      "source": "Wikipedia (ja): セイヨウナツユキソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%8A%E3%83%84%E3%83%A6%E3%82%AD%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106505550,
       "text": "セイヨウナツユキソウ（Filipendula ulmaria・日本語表記でフィリペンドゥラ・ウルマリア\n)は、バラ科シモツケソウ属の多年草。英名はメドウスイート(meadowsweet)。漢字では「西洋夏雪草」と書く。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Filipendula ulmaria」",
+      "source": "Wikipedia (en): Filipendula ulmaria",
       "source_url": "https://en.wikipedia.org/wiki/Filipendula_ulmaria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1344915470,
       "text": "Filipendula ulmaria, commonly known as meadowsweet or mead wort, is a perennial herbaceous plant in the family Rosaceae that grows in damp meadows. It is native throughout most of Europe and Western Asia. It has been introduced and naturalised in North America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Filipendula ulmaria",
+      "source_url": "https://es.wikipedia.org/wiki/Filipendula_ulmaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 165962028,
+      "text": "La ulmaria o reina de los prados es una especie de planta herbácea perteneciente a la familia de las rosáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Filipendula ulmaria",
+      "source_url": "https://fr.wikipedia.org/wiki/Filipendula_ulmaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225536520,
+      "text": "La Reine-des-prés, anciennement appelée ulmaire, ou fausse spirée, est une espèce de plantes à fleurs de la famille des Rosacées, originaire de l'Europe et d'Asie. C'est une plante mellifère."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Filipendula ulmaria",
+      "source_url": "https://pt.wikipedia.org/wiki/Filipendula_ulmaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66739751,
+      "text": "A ulmária, também conhecida por erva-ulmeira, rainha-dos-prados ou ulmeira, é uma espécie de planta com flor pertencente à família Rosaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Filipendula ulmaria",
+      "source_url": "https://id.wikipedia.org/wiki/Filipendula_ulmaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28647387,
+      "text": "Filipendula ulmaria, umumnya dikenal sebagai meadowsweet atau mead wort, adalah tanaman herba tahunan dalam famili Rosaceae yang tumbuh di padang rumput lembap. Spesies ini berasal dari Eropa hingga Timur Jauh Rusia Selatan dan Iran. Spesies ini merupakan tanaman tahunan dan tumbuh terutama di bioma beriklim sedang. Tanaman ini telah diperkenalkan dan dinaturalisasi di Amerika Utara."
     }
   },
   "edible": {
@@ -221,7 +257,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -289,7 +325,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/724943-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -297,7 +333,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/724943-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000983427.webp",
@@ -310,6 +346,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 288,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

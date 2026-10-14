@@ -15,18 +15,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "llwyn llygwyn"
-    ],
-    "en": [
-      "saltbush"
-    ],
-    "fr": [
-      "Arroche marine"
-    ],
     "de": [
       "Strauch-Melde"
     ],
@@ -41,6 +32,9 @@
     ],
     "ar": [
       "رغل ملحي"
+    ],
+    "cy": [
+      "Llwyn llygwyn"
     ],
     "azb": [
       "شوران‌لیق سیرکه‌نی"
@@ -59,13 +53,19 @@
     ],
     "fa": [
       "سلمکی بوته‌ای"
+    ],
+    "en": [
+      "saltbush"
+    ],
+    "fr": [
+      "Arroche marine"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1974321",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1974321",
   "search_names": {
@@ -78,13 +78,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Atriplex halimus」",
+      "source": "Wikipedia (en): Atriplex halimus",
       "source_url": "https://en.wikipedia.org/wiki/Atriplex_halimus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368257397,
       "text": "Atriplex halimus is a species of fodder shrub in the family Amaranthaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Atriplex halimus",
+      "source_url": "https://es.wikipedia.org/wiki/Atriplex_halimus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174890977,
+      "text": "La orgaza es una especie de arbusto forrajero en la familia de las Chenopodiaceae, nativa de Europa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Atriplex halimus",
+      "source_url": "https://fr.wikipedia.org/wiki/Atriplex_halimus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240281616,
+      "text": "Atriplex halimus ou arroche halime est une espèce végétale de la famille des Chenopodiaceae selon la classification classique de Cronquist (1981) ou des Amaranthaceae selon la classification phylogénétique. Elle est utilisée comme plante ornementale en milieu littoral."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Atriplex halimus",
+      "source_url": "https://pt.wikipedia.org/wiki/Atriplex_halimus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64611963,
+      "text": "Atriplex halimus é uma espécie de planta com flor pertencente à família Chenopodiaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Atriplex halimus",
+      "source_url": "https://id.wikipedia.org/wiki/Atriplex_halimus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29445361,
+      "text": "Atriplex halimus adalah spesies semak pakan dalam keluarga Amaranthaceae."
     }
   },
   "edible": {
@@ -98,7 +134,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -144,7 +180,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/163845-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -152,7 +188,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/163845-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000556105.webp",
@@ -165,6 +201,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 283,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

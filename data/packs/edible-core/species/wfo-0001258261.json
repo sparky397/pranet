@@ -20,19 +20,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "cactus apple",
-      "Engelmann's Prickly Pear",
-      "Cactus-apple"
-    ],
-    "zh": [
-      "天人团扇",
-      "牛舌掌",
-      "天人掌"
-    ],
     "lt": [
       "Stambiavaisė opuncija"
     ],
@@ -42,18 +32,28 @@
     "ar": [
       "صبير أنغلماني"
     ],
+    "zh": [
+      "天人掌",
+      "天人团扇",
+      "牛舌掌"
+    ],
     "ja": [
       "天人団扇"
     ],
     "arz": [
       "صبير انغلمانى"
+    ],
+    "en": [
+      "cactus apple",
+      "Engelmann's Prickly Pear",
+      "Cactus-apple"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q142016",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q142016",
   "search_names": {
@@ -64,13 +64,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Opuntia engelmannii」",
+      "source": "Wikipedia (en): Opuntia engelmannii",
       "source_url": "https://en.wikipedia.org/wiki/Opuntia_engelmannii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1332483993,
       "text": "Opuntia engelmannii is a prickly pear common across the south-central and Southwestern United States and northern Mexico. It goes by a variety of common names, including desert prickly pear, discus prickly pear, Engelmann's prickly pear in the US, and nopal, abrojo, joconostle, and vela de coyote in Mexico."
+    },
+    "es": {
+      "source": "Wikipedia (es): Opuntia engelmannii",
+      "source_url": "https://es.wikipedia.org/wiki/Opuntia_engelmannii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173944914,
+      "text": "Opuntia engelmannii Salm-Dyck ex Engelm. es una especie fanerógama perteneciente a la familia Cactaceae. Es nativa de Norteamérica en México, Arizona, California y Texas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Opuntia engelmannii",
+      "source_url": "https://fr.wikipedia.org/wiki/Opuntia_engelmannii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 203079112,
+      "text": "Opuntia engelmannii est un cactus de la famille des Cactaceae et du genre Opuntia qui est présent dans le sud-ouest américain et le nord du Mexique. Il fait partie des cactus dont les fruits sont consommés par les Amérindiens de la tribu Tohono O'odham."
     }
   },
   "edible": {
@@ -85,7 +103,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -123,7 +141,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60447905-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent shrub",
@@ -131,7 +149,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60447905-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001258261.webp",
@@ -144,6 +162,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

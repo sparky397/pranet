@@ -39,36 +39,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "rough bindweed",
-      "catbrier",
-      "common smilax",
-      "greenbrier",
-      "prickly-ivy"
-    ],
-    "ca": [
-      "Arítjol"
-    ],
-    "co": [
-      "Raza"
-    ],
-    "da": [
-      "Orientalsk Sarsaparil"
-    ],
-    "de": [
-      "Raue Stechwinde"
+    "fr": [
+      "Salsepareille d'Europe",
+      "Salsepareille"
     ],
     "eo": [
       "Aspra smilako"
     ],
-    "fi": [
-      "Piikkisarsaparilla"
+    "he": [
+      "קיסוסית קוצנית"
     ],
-    "fr": [
-      "Salsepareille"
+    "ca": [
+      "arítjol"
+    ],
+    "co": [
+      "Raza"
+    ],
+    "de": [
+      "Raue Stechwinde"
+    ],
+    "ne": [
+      "कुकुरडाइनो"
     ],
     "hr": [
       "Tetivika"
@@ -76,20 +70,11 @@
     "hsb": [
       "Kałata přestupnička"
     ],
-    "nl": [
-      "steekwinde"
+    "da": [
+      "Orientalsk Sarsaparil"
     ],
     "zh": [
       "穗菝葜"
-    ],
-    "ast": [
-      "artu moriscu"
-    ],
-    "he": [
-      "קיסוסית קוצנית"
-    ],
-    "ne": [
-      "कुकुरडाइनो"
     ],
     "oc": [
       "Ariège"
@@ -123,13 +108,29 @@
     ],
     "grc": [
       "σμῖλαξ τραχεῖα"
+    ],
+    "en": [
+      "rough bindweed",
+      "catbrier",
+      "common smilax",
+      "greenbrier",
+      "prickly-ivy"
+    ],
+    "fi": [
+      "Piikkisarsaparilla"
+    ],
+    "nl": [
+      "steekwinde"
+    ],
+    "ast": [
+      "artu moriscu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161119",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161119",
   "search_names": {
@@ -139,13 +140,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Smilax aspera」",
+      "source": "Wikipedia (en): Smilax aspera",
       "source_url": "https://en.wikipedia.org/wiki/Smilax_aspera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1329204086,
       "text": "Smilax aspera, with common names common smilax, rough bindweed, sarsaparille, and Mediterranean smilax, is a species of flowering vine in the greenbriar family."
+    },
+    "es": {
+      "source": "Wikipedia (es): Smilax aspera",
+      "source_url": "https://es.wikipedia.org/wiki/Smilax_aspera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173390337,
+      "text": "Smilax aspera es un arbusto de la familia de las esmilacáceas. Es originaria de Asia, África y Europa"
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Salsepareille d'Europe",
+      "source_url": "https://fr.wikipedia.org/wiki/Salsepareille_d'Europe",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239769175,
+      "text": "La Salsepareille d'Europe, ou simplement Salsepareille, parfois appelée liseron épineux, est une espèce de plantes monocotylédones de la famille des Smilacacées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Smilax aspera",
+      "source_url": "https://pt.wikipedia.org/wiki/Smilax_aspera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70155920,
+      "text": "A Smilax aspera é um arbusto da família Smilacaceae. É uma planta nativa da África, Europa, Sul e Sudoeste Asiático. Em Portugal pode ser encontrada em matos e bosques do sul do país."
     }
   },
   "edible": {
@@ -157,7 +185,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -209,7 +237,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/541279-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climber",
@@ -217,7 +245,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/541279-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000740704.webp",
@@ -230,6 +258,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

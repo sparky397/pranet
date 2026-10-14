@@ -13,26 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Langes Zypergras"
-    ],
-    "fr": [
-      "Souchet Long",
-      "Souchet Odorant"
-    ],
-    "en": [
-      "Galingale",
-      "Sweet Cyperus"
-    ],
-    "nl": [
-      "Rood cypergras"
-    ],
-    "ast": [
-      "xuncla llonga"
-    ],
     "ru": [
       "Сыть длинная"
     ],
@@ -71,24 +54,77 @@
     ],
     "mk": [
       "долг смолец"
+    ],
+    "de": [
+      "Langes Zypergras"
+    ],
+    "fr": [
+      "Souchet Long",
+      "Souchet Odorant"
+    ],
+    "en": [
+      "Galingale",
+      "Sweet Cyperus"
+    ],
+    "nl": [
+      "Rood cypergras"
+    ],
+    "ast": [
+      "xuncla llonga"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2425310",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2425310",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cyperus longus」",
+      "source": "Wikipedia (en): Cyperus longus",
       "source_url": "https://en.wikipedia.org/wiki/Cyperus_longus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306378518,
       "text": "Cyperus longus is a species of sedge known by the common names of sweet cyperus and water rush in Africa, or in Britain galingale."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cyperus longus",
+      "source_url": "https://es.wikipedia.org/wiki/Cyperus_longus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173097302,
+      "text": "La juncia loca es una planta herbácea del género Cyperus en la familia Cyperaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cyperus longus",
+      "source_url": "https://fr.wikipedia.org/wiki/Cyperus_longus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 210384626,
+      "text": "Cyperus longus est une plante appartenant au genre Cyperus et à la famille des Cypéracées. Il est également connu sous les noms de souchet long, ou souchet allongé."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cyperus longus",
+      "source_url": "https://pt.wikipedia.org/wiki/Cyperus_longus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 61989311,
+      "text": "A Cyperus longus é uma espécie de planta com flor, herbácea, rizomatosa e de folhas lineares, pertencente à família das Ciperáceas e ao tipo fisionómico dos geófitos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cyperus longus",
+      "source_url": "https://id.wikipedia.org/wiki/Cyperus_longus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 25726264,
+      "text": "Cyperus longus adalah spesies tumbuhan yang tergolong ke dalam famili Cyperaceae. Spesies ini juga merupakan bagian dari ordo Poales. Spesies Cyperus longus sendiri merupakan bagian dari genus Cyperus. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh L.."
     }
   },
   "edible": {
@@ -105,7 +141,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -204,7 +240,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/330932-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or rhizomatous geophyte",
@@ -212,7 +248,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/330932-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000377196.webp",
@@ -225,6 +261,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

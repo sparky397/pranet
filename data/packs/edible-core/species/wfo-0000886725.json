@@ -14,12 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "desert grass"
-    ],
     "ar": [
       "ثمام منتفخ"
     ],
@@ -34,24 +31,54 @@
     ],
     "he": [
       "דוחן אשון"
+    ],
+    "en": [
+      "desert grass"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3768293",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3768293",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Panicum turgidum」",
+      "source": "Wikipedia (en): Panicum turgidum",
       "source_url": "https://en.wikipedia.org/wiki/Panicum_turgidum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368850290,
       "text": "Panicum turgidum is an old world clumping desert bunchgrass of the genus Panicum. It is a plant of arid regions across Africa and Asia, and has been introduced to other parts of the world."
+    },
+    "es": {
+      "source": "Wikipedia (es): Panicum turgidum",
+      "source_url": "https://es.wikipedia.org/wiki/Panicum_turgidum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 150866396,
+      "text": "Panicum turgidum es una gramínea que vive en los semidesiertos del Viejo Mundo. Es común en el sur del Sahara y Arabia, desde el Senegal a Pakistán, los tuaregs la conocen como afazo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Panicum turgidum",
+      "source_url": "https://fr.wikipedia.org/wiki/Panicum_turgidum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208073386,
+      "text": "Panicum turgidum est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Panicoideae. Abondantes dans les régions arides du paléarctique, cette graminée sauvage constitue une ressource alimentaire importante pour les chameaux.Noms vernaculairesTaman ou tuman (Soudan), afezu, guinchi, thaman (Koweït), markouba (Mauritanie), du-ghasi (Somalie)."
+    },
+    "id": {
+      "source": "Wikipedia (id): Panicum turgidum",
+      "source_url": "https://id.wikipedia.org/wiki/Panicum_turgidum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28559614,
+      "text": "Panicum turgidum adalah spesies tumbuhan yang tergolong ke dalam famili Poaceae. Spesies ini juga merupakan bagian dari ordo Poales. Spesies Panicum turgidum sendiri merupakan bagian dari genus Panicum. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh Forssk.."
     }
   },
   "edible": {
@@ -69,7 +96,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -111,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/413428-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -119,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/413428-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000886725.webp",
@@ -132,6 +159,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 302,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

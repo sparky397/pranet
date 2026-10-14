@@ -17,23 +17,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "frost grape",
-      "fox grape",
-      "winter grape"
-    ],
-    "fi": [
-      "Syysviini"
-    ],
-    "zh": [
-      "霜葡萄"
-    ],
-    "sl": [
-      "lisičja vinska trta"
-    ],
     "ar": [
       "كرمة ثعلبية"
     ],
@@ -54,24 +40,47 @@
     ],
     "ja": [
       "ヴィーティス・ヴルピーナ"
+    ],
+    "sl": [
+      "lisičja vinska trta"
+    ],
+    "en": [
+      "frost grape",
+      "fox grape",
+      "winter grape"
+    ],
+    "fi": [
+      "Syysviini"
+    ],
+    "zh": [
+      "霜葡萄"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1264038",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1264038",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Vitis vulpina」",
+      "source": "Wikipedia (en): Vitis vulpina",
       "source_url": "https://en.wikipedia.org/wiki/Vitis_vulpina",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1364116280,
       "text": "Vitis vulpina is a North American species of herbaceous perennial vines in the grape family. It is widespread across most of the eastern and central United States as well as the Canadian Province of Ontario."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vitis vulpina",
+      "source_url": "https://fr.wikipedia.org/wiki/Vitis_vulpina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 179960769,
+      "text": "Vitis vulpina, la vigne des rivages, est une espèce de plantes appartenant à la famille des Vitaceae."
     }
   },
   "edible": {
@@ -86,7 +95,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -128,7 +137,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69152-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing shrub or liana",
@@ -136,7 +145,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69152-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000421880.webp",
@@ -149,6 +158,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 262,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

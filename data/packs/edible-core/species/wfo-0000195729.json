@@ -10,7 +10,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ml": [
@@ -27,18 +27,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3331235",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3331235",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Delonix decaryi」",
+      "source": "Wikipedia (en): Delonix decaryi",
       "source_url": "https://en.wikipedia.org/wiki/Delonix_decaryi",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314079149,
       "text": "Delonix decaryi is a species of plant in the family Fabaceae. It is found only in Madagascar."
+    },
+    "es": {
+      "source": "Wikipedia (es): Delonix decaryi",
+      "source_url": "https://es.wikipedia.org/wiki/Delonix_decaryi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174386984,
+      "text": "Delonix decaryi es una especie de leguminosa de la familia Fabaceae. Se encuentra únicamente en Madagascar."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Delonix decaryi",
+      "source_url": "https://fr.wikipedia.org/wiki/Delonix_decaryi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222444320,
+      "text": "Delonix decaryi est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un arbre trouvé à Madagascar."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Delonix decaryi",
+      "source_url": "https://pt.wikipedia.org/wiki/Delonix_decaryi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 59121323,
+      "text": "Delonix decaryi é uma espécie vegetal da família Fabaceae."
     }
   },
   "edible": {
@@ -51,7 +78,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -61,7 +88,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/491228-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -69,7 +96,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/491228-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000195729.webp",
@@ -82,6 +109,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 350,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

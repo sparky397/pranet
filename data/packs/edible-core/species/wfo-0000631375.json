@@ -11,18 +11,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "灌木天门冬",
-      "白天门冬"
-    ],
     "ca": [
       "esparreguera de moix"
     ],
     "cs": [
       "chřest bílý"
+    ],
+    "zh": [
+      "白天门冬",
+      "灌木天门冬"
     ],
     "ar": [
       "هليون أبيض"
@@ -32,18 +32,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2866767",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2866767",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Asparagus albus」",
+      "source": "Wikipedia (en): Asparagus albus",
       "source_url": "https://en.wikipedia.org/wiki/Asparagus_albus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1313891772,
       "text": "Asparagus albus is a widespread species of flowering plant in the family Asparagaceae, native to the western and central Mediterranean. It is found in the coastal maquis shrubland biome, and in ruderal situations."
+    },
+    "es": {
+      "source": "Wikipedia (es): Asparagus albus",
+      "source_url": "https://es.wikipedia.org/wiki/Asparagus_albus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582687,
+      "text": "Asparagus albus es una especie de planta fanerógama de la familia Asparagaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Asparagus albus",
+      "source_url": "https://fr.wikipedia.org/wiki/Asparagus_albus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227002722,
+      "text": "Asparagus albus, l’Asperge blanche, est une espèce de plantes à fleurs de la famille des Asparagaceae. C'est une asperge sauvage méditerranéenne."
     }
   },
   "edible": {
@@ -55,7 +73,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -76,7 +94,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/531000-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -84,7 +102,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/531000-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000631375.webp",
@@ -97,6 +115,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

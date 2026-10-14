@@ -16,15 +16,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "crabwood"
-    ],
-    "zh": [
-      "苦油楝"
-    ],
     "pt": [
       "Andiroba"
     ],
@@ -36,24 +30,72 @@
     ],
     "ar": [
       "كربة"
+    ],
+    "zh": [
+      "苦油楝"
+    ],
+    "en": [
+      "crabwood"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q309552",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q309552",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Carapa guianensis」",
+      "source": "Wikipedia (en): Carapa guianensis",
       "source_url": "https://en.wikipedia.org/wiki/Carapa_guianensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1325103232,
       "text": "Carapa guianensis is a species of tree in the family Meliaceae, also known by the common names andiroba or crabwood."
+    },
+    "es": {
+      "source": "Wikipedia (es): Carapa guianensis",
+      "source_url": "https://es.wikipedia.org/wiki/Carapa_guianensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173554533,
+      "text": "Carapa guianensis Aubl., es una especie de árboles pertenecientes a la familia de las Meliaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Carapa guianensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Carapa_guianensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 221974459,
+      "text": "Carapa guianensis Aubl. est une espèce de plantes de la famille des Meliaceae et du genre Carapa."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Andiroba",
+      "source_url": "https://pt.wikipedia.org/wiki/Andiroba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72994722,
+      "text": "A andiroba, também conhecida como andirova, andiroba-suruba, angirova, carapa e purga-de-santo-inácio, é uma árvore da família Meliaceae. O nome deriva de nhandyroba, termo tupi que significa \"óleo amargo\", numa referência ao óleo extraído das sementes da planta. É reconhecida oficialmente pelo Ministério da Saúde do Brasil como possuidora de propriedades fitoterápicas."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "pt": {
+        "source": "Wikipedia (pt): Andiroba § Plantio",
+        "source_url": "https://pt.wikipedia.org/wiki/Andiroba#Plantio",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72994722,
+        "heading": "Plantio",
+        "text": "Em condições naturais, as sementes perdem o poder de germinação rapidamente. Para manter a viabilidade, a melhor forma de armazenamento é em câmara seca ou úmida, acondicionadas em sacos plásticos. As sementes são plantadas sem nenhum tratamento em recipientes individuais, contendo substrato rico em matéria orgânica e em ambiente semi-sombreado. A germinação acontece entre 25 e 35 dias depois da semeadura. Em seis ou sete meses, as mudas estão prontas para ir ao campo, onde o desenvolvimento é rápido.\nEntretanto, tal qual as outras meliaceas brasileiras, o seu fuste é constantemente atacado pela larva da lagarta Hypsipilla grandella, a exemplo do que ocorre nos plantios de Cedros e Mognos, o que atrapalha o plantio comercial da espécie.[carece de fontes]?\nApós o cultivo, as sementes são utilizadas principalmente para a extração do óleo de andiroba, produto de grande importância econômica e medicinal na região amazônica. O processo tradicional de extração envolve a coleta dos frutos maduros, seguida da secagem, fermentação e prensagem das sementes para obtenção do óleo bruto. Essa técnica artesanal, amplamente difundida entre populações ribeirinhas e indígenas, mantém as propriedades bioativas do produto, que é rico em limonoides e ácidos graxos insaturados, responsáveis por suas ações anti-inflamatórias, repelentes e cicatrizantes.https://doi.org/10.20435/inter.v0i0.1826\nA extração artesanal é considerada uma prática de manejo florestal sustentável, pois agrega valor a recursos nativos sem promover o desmatamento, além de representar uma importante fonte de renda comunitária e de valorização do conhecimento tradicional amazônico.",
+        "truncated": true
+      }
     }
   },
   "edible": {
@@ -68,7 +110,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -98,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/45059-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -106,7 +148,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/45059-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000586378.webp",
@@ -119,6 +161,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

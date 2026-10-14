@@ -20,13 +20,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "雷神",
-      "棱叶龙舌兰"
-    ],
     "ru": [
       "Агава картофелевидная"
     ],
@@ -38,24 +34,46 @@
     ],
     "arz": [
       "اجاف بوتاتوروم"
+    ],
+    "zh": [
+      "棱叶龙舌兰",
+      "雷神"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q391865",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q391865",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Agave potatorum」",
+      "source": "Wikipedia (en): Agave potatorum",
       "source_url": "https://en.wikipedia.org/wiki/Agave_potatorum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314363774,
       "text": "Agave potatorum, the Verschaffelt agave, is a species of flowering plant in the family Asparagaceae. A smallish and attractive succulent perennial, it is native to partial desert areas of Mexico from Puebla south to Oaxaca."
+    },
+    "es": {
+      "source": "Wikipedia (es): Agave potatorum",
+      "source_url": "https://es.wikipedia.org/wiki/Agave_potatorum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166868555,
+      "text": "Agave potatorum es una especie de planta fanerógama. pequeña y atractiva perteneciente a la familia Agavaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Agave potatorum",
+      "source_url": "https://fr.wikipedia.org/wiki/Agave_potatorum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 210797941,
+      "text": "Agave potatorum, ou « Agave pomme de terre » ou « Agave Verschaffeltii », est une espèce de plante à fleurs de la famille des Asparagacées. C'est une plante vivace succulente petite et attrayante, elle est originaire des zones partiellement désertiques du Mexique, de Puebla au sud jusqu'à Oaxaca."
     }
   },
   "edible": {
@@ -70,7 +88,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -82,7 +100,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/62198-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent perennial",
@@ -90,7 +108,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/62198-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000754697.webp",
@@ -103,6 +121,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 323,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

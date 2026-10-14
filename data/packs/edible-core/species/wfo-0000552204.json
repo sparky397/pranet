@@ -13,44 +13,36 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Schlangenäuglein",
-      "Scharfkraut"
-    ],
-    "en": [
-      "German-madwort",
-      "madwort",
-      "German madwort"
-    ],
     "et": [
-      "Karerohi"
+      "karerohi"
+    ],
+    "de": [
+      "Scharfkraut",
+      "Schlangenäuglein"
+    ],
+    "pl": [
+      "Lepczyca rozesłana"
     ],
     "ru": [
+      "Острица",
       "Асперуга лежачая",
-      "Острица лежачая",
-      "Острица"
-    ],
-    "sv": [
-      "Paddfot"
-    ],
-    "nl": [
-      "Scherpkruid"
-    ],
-    "cs": [
-      "ostrolist poléhavý"
+      "Острица лежачая"
     ],
     "fi": [
       "terhi"
     ],
-    "zh": [
-      "天门冬",
-      "糙草"
+    "sv": [
+      "Paddfot"
     ],
-    "pl": [
-      "Lepczyca rozesłana"
+    "cs": [
+      "ostrolist poléhavý"
+    ],
+    "zh": [
+      "糙草",
+      "天门冬"
     ],
     "kk": [
       "Жабысқақ"
@@ -84,24 +76,41 @@
     ],
     "el": [
       "ασπερούγο"
+    ],
+    "en": [
+      "German-madwort",
+      "madwort",
+      "German madwort"
+    ],
+    "nl": [
+      "Scherpkruid"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1520598",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1520598",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Asperugo」",
+      "source": "Wikipedia (en): Asperugo",
       "source_url": "https://en.wikipedia.org/wiki/Asperugo",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1297739305,
       "text": "Asperugo procumbens, known as German madwort, is the single species in the monotypic plant genus Asperugo. This plant is native to Europe and temperate parts of Asia but has been introduced elsewhere by humans."
+    },
+    "es": {
+      "source": "Wikipedia (es): Asperugo",
+      "source_url": "https://es.wikipedia.org/wiki/Asperugo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 135211669,
+      "text": "Asperugo es un género de plantas con flores perteneciente a la familia Boraginaceae. Comprende 8 especies descritas y de estas, solo una aceptada. Su única especie: Asperugo procumbens, se distribuye por el Norte de África y Eurasia."
     }
   },
   "edible": {
@@ -114,7 +123,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -230,7 +239,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/113506-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -238,7 +247,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/113506-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000552204.webp",
@@ -251,6 +260,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 299,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

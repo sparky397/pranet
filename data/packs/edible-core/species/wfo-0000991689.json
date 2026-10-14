@@ -13,36 +13,25 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アンズ"
     ],
-    "en": [
-      "apricot"
+    "fr": [
+      "Abricotier",
+      "abricotier"
+    ],
+    "pt": [
+      "Damasqueiro"
+    ],
+    "szl": [
+      "Aprikołza"
     ],
     "zh": [
       "杏",
       "野杏"
-    ],
-    "nl": [
-      "Abrikoos"
-    ],
-    "cs": [
-      "meruňka obecná"
-    ],
-    "ca": [
-      "albercoquer"
-    ],
-    "ast": [
-      "albaricocal"
-    ],
-    "sl": [
-      "marelica"
-    ],
-    "szl": [
-      "Aprikołza"
     ],
     "pl": [
       "morela"
@@ -83,6 +72,9 @@
     "ga": [
       "crann aibreog"
     ],
+    "nl": [
+      "abrikoos"
+    ],
     "ar": [
       "مشمش"
     ],
@@ -91,9 +83,6 @@
     ],
     "kaa": [
       "Yerik"
-    ],
-    "pt": [
-      "Damasqueiro"
     ],
     "yi": [
       "אפריקאס"
@@ -209,11 +198,20 @@
     "ro": [
       "Cais"
     ],
+    "ca": [
+      "albercoquer"
+    ],
     "co": [
       "Baracucca"
     ],
+    "sl": [
+      "marelica"
+    ],
     "os": [
       "Чъерами"
+    ],
+    "cs": [
+      "meruňka obecná"
     ],
     "mr": [
       "जर्दाळू"
@@ -253,9 +251,6 @@
     ],
     "et": [
       "harilik aprikoosipuu"
-    ],
-    "fr": [
-      "abricotier"
     ],
     "hsb": [
       "Aprikozowc"
@@ -373,13 +368,19 @@
     ],
     "krc": [
       "Шаптал терек"
+    ],
+    "en": [
+      "apricot"
+    ],
+    "ast": [
+      "albaricocal"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q37453",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q37453",
   "search_names": {
@@ -397,36 +398,94 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アンズ」",
+      "source": "Wikipedia (ja): アンズ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111243122,
       "text": "アンズ は、バラ科サクラ属の落葉小高木から高木。作物群としては子房壁が肥大した部分を食用とする核果類（核果果実）に分類される果樹（果実）である。アプリコット（Apricot）と英名で呼ばれることもある。別名、カラモモ（唐桃）。中国北部で形成された東洋系の品種群には、ウメとの交雑の痕跡がある。原産地は中国の山東省、河北省の山岳地帯から中国東北地方の南部、ペルシャからヒマラヤにかけたかなり広い地域と言われている。学名のPrunus armeniaca は、ヨーロッパにおいては近世にいたるまでアルメニア (Armenia) が原産地と考えられていたためつけられたもの。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Prunus armeniaca」",
+      "source": "Wikipedia (en): Prunus armeniaca",
       "source_url": "https://en.wikipedia.org/wiki/Prunus_armeniaca",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1346731742,
       "text": "Prunus armeniaca is the most commonly cultivated apricot species. The native range is somewhat uncertain due to its extensive prehistoric cultivation. Genetic studies indicate Central Asia is the center of origin. It is extensively cultivated in many countries and has escaped into the wild in many places. The specific epithet armeniaca refers to the country of Armenia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Prunus armeniaca",
+      "source_url": "https://es.wikipedia.org/wiki/Prunus_armeniaca",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175206881,
+      "text": "Prunus armeniaca, llamado comúnmente albaricoque, damasco, amasco, albergero o chabacano es un árbol frutal originario de Armenia, Turquía, Irán, Azerbaiyán y Siria."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Abricotier",
+      "source_url": "https://fr.wikipedia.org/wiki/Abricotier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231317120,
+      "text": "L’Abricotier, parfois appelé commun, est une espèce de plantes à fleurs du genre Prunus de la famille des Rosaceae. C'est un arbre fruitier cultivé pour son fruit, l'abricot.Armeniaca ansu (Maxim.) Kostina [≡ Prunus armeniaca var. ansu]\nArmeniaca vulgaris Lam. [= Prunus armeniaca var. armeniaca]\nPrunus ansu (Maxim.) Kom. [≡ Prunus armeniaca var. ansu]."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Damasqueiro",
+      "source_url": "https://pt.wikipedia.org/wiki/Damasqueiro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70152721,
+      "text": "O damasqueiro é uma árvore da família das rosáceas que atinge de 3 a 10 metros de altura. Possui folhas cordiformes ou ovadas, serreadas e com o pecíolo vermelho; flores solitárias ou geminadas, róseas ou brancas; e drupas subglobosas, com um sulco mediano característico, amarelas ou alaranjadas, com polpa carnuda e sumarenta."
+    },
+    "id": {
+      "source": "Wikipedia (id): Prunus armeniaca",
+      "source_url": "https://id.wikipedia.org/wiki/Prunus_armeniaca",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28922111,
+      "text": "Abrikos biasa adalah salah satu jenis abrikos yang paling banyak dibudidayakan dari subgenus Prem. Asal tanaman ini sulit dipastikan karena sudah dibudayakan orang sejak zaman prasejarah. Kemungkinan besar tanaman ini berasal dari sebelah utara dan barat daratan Cina atau Asia Tengah, tetapi mungkin juga berasal dari Korea atau Jepang."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「アンズ」の節「育て方」",
+        "source": "Wikipedia (ja): アンズ § 育て方",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BA#%E8%82%B2%E3%81%A6%E6%96%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111243122,
         "heading": "育て方",
         "text": "病害虫に注意する。防除体系（防除暦）に基づき適切な農薬使用を行う。冷涼地、乾燥地では無農薬栽培が可能。\n剪定は、12月～2月が適期。落葉期だが翌年の花芽が付いているので、花芽を確認しながら剪定を行う。長い発育枝を間引いたり暴れた枝を整理し、花芽が付いている枝は20～30cmに切る。アンズは新梢に実を付けるので、古い枝は切り落とすようする。\n一年生の植物と異なり、アンズなどの樹木に実る果実はその種を播いても同じ物は実らない。従って苗は接ぎ木によって増やされる。接ぎ木には、2月下旬から3月中旬頃に行う休眠枝つぎや、秋口に行う芽つぎが用いられる。\n\n■ 肥料\nホウ素欠乏土壌では実の外観不良が発生しやすく、ホウ素欠乏抑制のため施肥管理が重要。成木ではカリ、燐酸を多めにする。",
         "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Prunus armeniaca § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Prunus_armeniaca#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175206881,
+        "heading": "Cultivo",
+        "text": "■ Producción\n\nTurquía es el mayor productor mundial, seguido por Irán y Uzbekistán. Actualmente[¿cuándo?] Turquía produce el 85 % de la fruta deshidratada.[cita requerida] \nEn España, el cultivo de esta especie ocupaba en 2006 una extensión de 18 150 ha, siendo las principales provincias productoras Murcia (con 10 152 ha), Valencia (con 3496 ha) y Albacete (con 1915 ha). En Argentina, la mayor superficie cultivada con damascos se ubica en la provincia de Mendoza (aproximadamente el 81 %), seguida por la provincia de San Juan (11 %) y Buenos Aires (5 %), mientras que otras provincias representan el 3 % restante.​\n\n■ Variedades cultivadas\nAlgunas de las principales variedades cultivadas en España son: 'bulida', 'canino', 'moniquí', 'nancy' y 'paviot'.[cita requerida] \nEste árbol se suele cultivar en regadío aunque en España hay algo de producción de secano, donde evidentemente las producciones son menores y con más variación de un año a otro.[cita requerida] \n\n■ Propagación\nSu propagación se suele realizar por injerto utilizando como portainjerto, pie de injerto o patrón, alguno de los siguientes:\n\nFranco, es decir, albaricoquero. Es el portainjerto natural y, por lo tanto, el más conveniente, siempre que encuentre condiciones apropiadas para su crecimiento. Desarrolla un sistema radical profundo, particularmente en suelos ligeros, y suele resistir largos periodos de sequía. La planta crece con mucho vigor y suele ser longeva. Como contraparte, la planta injertada sobre este patrón suele entrar en producción algo más tarde que en el caso de otros portainjertos, aunque la producción suele ser muy abundante. Se adapta mejor a variedades tardías o de media estación que tempranas.​\nMelocotonero o duraznero.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Abricotier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Abricotier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 231317120,
+        "heading": "Culture",
+        "text": "L’abricotier est une espèce de climat chaud, qui prospère vraiment sous climat méditerranéen, cependant il est rustique jusque dans le nord de la France et produit bien en région parisienne. Il est capable de résister à des températures allant jusqu’à - 30 °C mais il est très sensible aux froids printaniers qui peuvent contrarier la floraison (très précoce) ou la nouaison des fruits.\n\n■ Multiplication\n\nSemis pour les porte-greffes et quelques variétés anciennes se reproduisant assez fidèlement (abricot Alberge, abricot de Hollande).\nGreffage sur abricotier ou pêcher fin août, sur amandier ou prunier fin juillet.\nSemis direct du noyau dans du sable humide.\n\n■ Taille\nElle est destinée à assurer un bon équilibre entre la croissance végétative et la fructification. Les objectifs sont :\n\nde constituer une structure de branches maîtresses (tronc, charpentières et sous-mères) ;\nd’assurer une mise à fruit progressive et régulière, de belle présentation et de bon calibre ;\nde permettre un bon renouvellement des ramifications.\nLa taille pratiquée actuellement en production est une taille dite « longue » (préservation du prolongement) puisqu'elle procède à l'allongement des extrémités des charpentières. Celles-ci sont étagées et laissées entières, elles comportent 1 à 2 sous-mères, les rameaux trop vigoureux sont supprimés et les branches vieillissantes ou qui s'allongent trop sont raccourcies afin de préserver le renouvellement des ramifications. Les charpentières ont ainsi une forme pyramidale bien équilibrée qui laisse pénétrer la lumière jusqu'à la base.",
+        "truncated": true
       }
     }
   },
@@ -445,7 +504,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -521,7 +580,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/729463-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -529,7 +588,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/729463-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000991689.webp",
@@ -542,6 +601,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 302,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

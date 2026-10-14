@@ -18,44 +18,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ニチニチソウ"
     ],
-    "en": [
-      "Madagascar Periwinkle"
-    ],
-    "de": [
-      "Rosafarbene Catharanthe"
-    ],
-    "fi": [
-      "Katara",
-      "punatalvio",
-      "Punakatara"
-    ],
     "fr": [
       "Pervenche de Madagascar"
     ],
-    "sv": [
-      "Rosensköna"
-    ],
-    "tr": [
-      "Pervane çiçeği"
-    ],
-    "zh": [
-      "長春花",
-      "日日春",
-      "长春花",
-      "梓叶"
-    ],
-    "sl": [
-      "madagaskarski zimzelen"
-    ],
-    "mg": [
-      "Vonenina",
-      "Tonga (zavamaniry)"
+    "id": [
+      "Tapak dara"
     ],
     "nan": [
       "Ji̍t-ji̍t-chhun"
@@ -78,8 +51,8 @@
     "ms": [
       "Bunga tapak dara"
     ],
-    "id": [
-      "Tapak dara"
+    "de": [
+      "Rosafarbene Catharanthe"
     ],
     "bn": [
       "নয়নতারা"
@@ -108,6 +81,14 @@
     "ca": [
       "pruenga de jardí"
     ],
+    "fi": [
+      "Punakatara",
+      "Katara",
+      "punatalvio"
+    ],
+    "sl": [
+      "madagaskarski zimzelen"
+    ],
     "te": [
       "బిళ్ళ గన్నేరు"
     ],
@@ -116,6 +97,12 @@
     ],
     "dv": [
       "މަލިކުރުވާ"
+    ],
+    "zh": [
+      "長春花",
+      "日日春",
+      "长春花",
+      "梓叶"
     ],
     "pnb": [
       "نین تارہ"
@@ -188,13 +175,26 @@
     ],
     "frr": [
       "Madagaskar Imergreen"
+    ],
+    "mg": [
+      "Tonga (zavamaniry)",
+      "Vonenina"
+    ],
+    "en": [
+      "Madagascar Periwinkle"
+    ],
+    "sv": [
+      "Rosensköna"
+    ],
+    "tr": [
+      "Pervane çiçeği"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161093",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161093",
   "search_names": {
@@ -208,43 +208,79 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ニチニチソウ」",
+      "source": "Wikipedia (ja): ニチニチソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%81%E3%83%8B%E3%83%81%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109709906,
       "text": "ニチニチソウ は、キョウチクトウ科ニチニチソウ属の一年草。ニチニチカ（日日花）とも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Catharanthus roseus」",
+      "source": "Wikipedia (en): Catharanthus roseus",
       "source_url": "https://en.wikipedia.org/wiki/Catharanthus_roseus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357671132,
       "text": "Catharanthus roseus, commonly known as bright eyes, Cape periwinkle, graveyard plant, Madagascar periwinkle, old maid, pink periwinkle, rose periwinkle, is a perennial species of flowering plant in the family Apocynaceae. It is native and endemic to Madagascar, but is grown elsewhere as an ornamental and medicinal plant, and now has a pantropical distribution. It is a source of the drugs vincristine and vinblastine, used to treat cancer. It was formerly included in the genus Vinca as Vinca rosea."
+    },
+    "es": {
+      "source": "Wikipedia (es): Catharanthus roseus",
+      "source_url": "https://es.wikipedia.org/wiki/Catharanthus_roseus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174973066,
+      "text": "Catharanthus roseus es una especie de Catharanthus nativa y endémica de Madagascar. Se le conoce en gran parte del mundo como Vinca y en el Valle de los Pedroches como Príncipe Entre sus sinónimos se incluyen Vinca rosea, Ammocallis rosea, y Lochnera rosea."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pervenche de Madagascar",
+      "source_url": "https://fr.wikipedia.org/wiki/Pervenche_de_Madagascar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240223511,
+      "text": "La Pervenche de Madagascar est une espèce de plantes à fleurs de la famille des Apocynacées. C'est une plante herbacée pérenne originaire et endémique de Madagascar."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Catharanthus roseus",
+      "source_url": "https://pt.wikipedia.org/wiki/Catharanthus_roseus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72137055,
+      "text": "A Catharanthus roseus, também conhecida por cataranto ou boa-noite, é uma planta ornamental, medicinal e pantropical originária da Ilha de Madagáscar."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tapak dara",
+      "source_url": "https://id.wikipedia.org/wiki/Tapak_dara",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29675971,
+      "text": "Tapak dara adalah perdu tahunan yang berasal dari Madagaskar, tetapi telah menyebar ke berbagai daerah tropika lainnya. Nama ilmiahnya Catharanthus roseus (L.) Don. Di Indonesia tumbuhan hias pekarangan ini dikenal dengan bermacam-macam nama, seperti di disebut sindapor (Sulawesi), kembang tembaga, dan kembang tapak dårå. Orang Malaysia lebih mengenalnya sebagai kemunting cina, pokok rumput alang, pokok kembang sari cina, atau pokok rose pantai. Di Filipina ia dikenal sebagai Tsitsirika, di Vietnam sebagai hoa hai dang, di Cina dikenal sebagai Chang chun Hua, di Inggris sebagai Rose Periwinkle, dan di Belanda sebagai soldaten bloem."
     }
   },
   "sections": {
     "toxicity": {
       "ja": {
-        "source": "Wikipedia 日本語版「ニチニチソウ」の節「毒性」",
+        "source": "Wikipedia (ja): ニチニチソウ § 毒性",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%81%E3%83%8B%E3%83%81%E3%82%BD%E3%82%A6#%E6%AF%92%E6%80%A7",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109709906,
         "heading": "毒性",
         "text": "ニチニチソウには、「ビンカアルカロイド」と総称される、10種以上のアルカロイドが、全草に含まれる。\nそのうち、ビンクリスチンとビンブラスチンには、細胞分裂阻害作用（チューブリン脱重合による）がある。抵抗剤として用いられるが、脱毛などの副作用・毒性があるので、素人の利用は危険。貪食すると、嘔吐や下痢程度では済まない。\n\n症状 - 中枢神経刺激作用、心機能障害、痙攣、筋肉麻痺、嘔吐。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Catharanthus roseus」の節「Toxicity」",
+        "source": "Wikipedia (en): Catharanthus roseus § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Catharanthus_roseus#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1357671132,
         "heading": "Toxicity",
         "text": "C. roseus can be extremely toxic if consumed orally by humans, and is cited (under its synonym Vinca rosea) in the Louisiana State Act 159. All parts of the plant are poisonous. On consumption, symptoms consist of mild stomach cramps, cardiac complications, hypotension, systematic paralysis eventually leading to death.\nAccording to French botanist Pierre Boiteau, its poisonous properties are made known along generations of Malagasy people as a poison consumed in ordeal trials, even before the tangena fruit was used. This lent the flower one of its names vonenina, from Malagasy: vony nenina meaning \"flower of remorse\".",
@@ -253,14 +289,36 @@
     },
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Catharanthus roseus」の節「Cultivation」",
+        "source": "Wikipedia (en): Catharanthus roseus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Catharanthus_roseus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1357671132,
         "heading": "Cultivation",
         "text": "As an ornamental plant, it is appreciated for its hardiness in dry and nutritionally deficient conditions, popular in subtropical gardens where temperatures never fall below 5–7 °C (41–45 °F), and as a warm season bedding plant in temperate gardens. It is noted for its long flowering period, throughout the year in tropical conditions, and from spring to late autumn, in warm temperate climates. Full sun and well-drained soil are preferred. Numerous cultivars have been selected, for variation in flower color (white, mauve, peach, scarlet, and reddish orange), and also for tolerance of cooler growing conditions in temperate regions.\nNotable cultivars include 'Albus' (white flowers), 'Grape Cooler' (rose-pink; cool-tolerant), the Ocellatus Group (various colors), and 'Peppermint Cooler' (white with a red center; cool-tolerant).\nIn the U.S. it often remains identified as \"Vinca\" although botanists have shifted its identification and it often can be seen growing along roadsides in the south.\nIn the United Kingdom it has gained the Royal Horticultural Society's Award of Garden Merit (confirmed 2017).",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Catharanthus roseus § Cultivos",
+        "source_url": "https://pt.wikipedia.org/wiki/Catharanthus_roseus#Cultivos",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72137055,
+        "heading": "Cultivos",
+        "text": "A espécie é muito cultivada pela medicina alternativa e também com planta alternativa. A vinca-de-madagáscar é uma planta muito rústica e pouco exigente, por esses motivos pode ser cultivada em quase todo o mundo onde se apresenta um clima tropical e subtropical. O cultivo deve ser feito em um solo fértil e deve ser regado ocasionalmente, pois a vinca-de-madagáscar é bem resistente a seca e aguenta até um ano com pouca água. Ela é geralmente usada nas decorações de jardins, em maciços, vasos, bordaduras e jardineiros. O período de aparecimento das flores estende-se por todo o ano. Apesar de ser um bela planta, a vinca-de-madagáscar é geralmente trocada por períodos de dois anos, isso é feito porque ela perde sua beleza com o passar dos anos.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Tapak dara § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Tapak_dara#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29675971,
+        "heading": "Budidaya",
+        "text": "Tumbuhan ini tidak tahan terhadap pemangkasan besar dan dapat mati karenanya.\nTapak dara biasanya diperbanyak dengan bijinya yang lembut. Caranya, sediakan biji-biji yang tua, lalu semaikan pada suatu tempat persemaian. Masukkan biji ke dalam tanah, lalu tutup dengan lapisan tanah setipis tebal bijinya. Rajinlah menyiram. Bila biji-biji mulai tumbuh, dan tingginya sudah mencapai sekitar 15 – 20 cm, umumnya dapat dipindahkan ke tempat yang diinginkan.\nJika ingin ditanam dalam pot, tentu perlu disiapkan pot dan media tanamnya. Pot bisa dari tanah liat, semen, atau kaleng bekas. Media tanamnya berupa campuran tanah subur, kompos, dan pupuk kandang (2: 1: 1). Bibit langsung ditanam, dan setelah itu diletakkan di tempat teduh. Seminggu kemudian, ditempatkan di tempat terbuka.\nJika ingin ditanam di kebun pekarangan, perlu dibuat lubang tanah berukuran 15 x 151 x 15 cm, dengan jarak di antara lubang 50 cm. Tiap lubang diberi pupuk kandang atau kompos sebanyak 1,5 kg. Masukkan bibit ke dalam lubang, lalu timbun dengan tanah, dan siram.\nUntuk perawatannya, tapak dara tidak menuntut perawatan khusus. Asal disiram dan diberi pupuk, sudah cukup. Pada awal pertumbuhan, gunakan pupuk yang kandungan nitrogennya tinggi, atau pupuk daun yang disemprotkan pada permukaan bawah daun di pagi hari. Kemudian, ketika tanaman mulai berbunga, untuk merangsang pembungaan, dapat digunakan pupuk yang memiliki kandungan fosfor tinggi. Nah, jika rajin merawat, tentulah dijamin tapak dara akan berbunga sepanjang tahun.",
         "truncated": false
       }
     }
@@ -279,7 +337,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -417,7 +475,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77880-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -425,7 +483,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77880-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000819442.webp",
@@ -438,6 +496,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

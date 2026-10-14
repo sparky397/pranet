@@ -8,12 +8,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "印度盱橘"
-    ],
     "lt": [
       "Indinis citrinmedis"
     ],
@@ -34,13 +31,16 @@
     ],
     "yue": [
       "印度柑"
+    ],
+    "zh": [
+      "印度盱橘"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q12656745",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q12656745",
   "search_names": {
@@ -50,13 +50,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Citrus indica」",
+      "source": "Wikipedia (en): Citrus indica",
       "source_url": "https://en.wikipedia.org/wiki/Citrus_indica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357889070,
       "text": "Citrus indica is a species of hybrid Citrus known by the common name Indian wild orange."
+    },
+    "es": {
+      "source": "Wikipedia (es): Citrus indica",
+      "source_url": "https://es.wikipedia.org/wiki/Citrus_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174422566,
+      "text": "Citrus indica, comúnmente conocido como naranja silvestre india, es un árbol o arbusto perteneciente al género Citrus, dentro de la familia de las rutáceas. Es endémico de Assam (India)."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Citrus indica",
+      "source_url": "https://fr.wikipedia.org/wiki/Citrus_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 217923182,
+      "text": "Citrus indica est une espèce sauvage d'agrume du nord-est de l'Inde, de la région de Tura, Monts de Garo, État du Meghalaya. A.-G. Haudricourt et L. Hédin le nomment mandarinier sauvage (1987). Il existe une grande biodiversité de ce probable progéniteur primitif des agrumes dans son habitat naturel restreint, écosystème décrit comme lié à une altitude spécifique. La menace d'extinction sous la pression de l'urbanisation a amené la création du premier sanctuaire indien de gènes d'agrumes à Garo Hills (1981), N. Vairam (2015) note que la conservation de C. indica relève des urgences.."
     }
   },
   "edible": {
@@ -68,7 +86,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -79,7 +97,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/771929-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -87,6 +105,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/771929-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

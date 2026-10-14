@@ -11,12 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "false mastic"
-    ],
     "pt": [
       "Acoma"
     ],
@@ -25,13 +22,16 @@
     ],
     "arz": [
       "فوتيديسيموم سيدروكسيلون"
+    ],
+    "en": [
+      "false mastic"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1226444",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1226444",
   "search_names": {
@@ -41,13 +41,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sideroxylon foetidissimum」",
+      "source": "Wikipedia (en): Sideroxylon foetidissimum",
       "source_url": "https://en.wikipedia.org/wiki/Sideroxylon_foetidissimum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1315335545,
       "text": "Sideroxylon foetidissimum, commonly known as false mastic or yellow mastic, is a species of flowering plant in the family Sapotaceae. It is native to Florida in the United States, the Caribbean, and northern Central America."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sideroxylon foetidissimum",
+      "source_url": "https://fr.wikipedia.org/wiki/Sideroxylon_foetidissimum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216527162,
+      "text": "Sideroxylon foetidissimum Jacq., ou Acomat, est une espèce de plantes à fleurs de la famille des Sapotaceae. C'est un arbre que l'on trouve à Haïti et dans une grande partie des Caraïbes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Acoma",
+      "source_url": "https://pt.wikipedia.org/wiki/Acoma",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70206007,
+      "text": "Acoma é a designação vulgarmente atribuída a uma árvore produtora de madeira originária das Antilhas."
     }
   },
   "edible": {
@@ -60,7 +78,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -84,7 +102,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/236041-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -92,7 +110,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/236041-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000310731.webp",
@@ -105,6 +123,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

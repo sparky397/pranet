@@ -19,21 +19,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Khasi Pine",
-      "Benguet Pine",
-      "Khasia Pine",
-      "Luzon Pine"
-    ],
-    "zh": [
-      "卡西亚松",
-      "思茅松",
-      "松塔",
-      "思茅松（变种）"
-    ],
     "eo": [
       "Ĥasi-pino"
     ],
@@ -55,6 +43,12 @@
     "ilo": [
       "saleng"
     ],
+    "zh": [
+      "卡西亚松",
+      "思茅松",
+      "松塔",
+      "思茅松（变种）"
+    ],
     "th": [
       "สนสามใบ"
     ],
@@ -72,24 +66,57 @@
     ],
     "shn": [
       "မွၵ်ႇပႅၵ်ႇ"
+    ],
+    "en": [
+      "Khasi Pine",
+      "Benguet Pine",
+      "Khasia Pine",
+      "Luzon Pine"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1939271",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1939271",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pinus kesiya」",
+      "source": "Wikipedia (en): Pinus kesiya",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_kesiya",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375581707,
       "text": "Pinus kesiya is a species of conifer in the family Pinaceae, one of the most widely distributed pines in southeast Asia. Its range extends south and east from the Khasi Hills in the northeast Indian state of Meghalaya, to Burma, northern Thailand, Cambodia, Laos, southernmost China, Vietnam, and the Philippines. It is an important plantation species elsewhere in the world, including in southern Africa and South America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus kesiya",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_kesiya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174709067,
+      "text": "Pinus kesiya es una especie arbórea perteneciente a la familia de las Pinaceae, uno de los pinos más extendidos por Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pinus kesiya",
+      "source_url": "https://fr.wikipedia.org/wiki/Pinus_kesiya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 215750860,
+      "text": "Le Pin de Benguet, Pin à trois aiguilles ou Baguio pine en anglais, est une espèce de pin originaire du Sud-Est asiatique .\nLes anglophones le nomment aussi Benguet pine ou kesiya pine ou encore Three-needled Pine. Son nom anglais Khasi Pine vient des Khasi hills en Inde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus kesiya",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_kesiya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63761328,
+      "text": "Pinus kesiya é uma espécie de pinheiro originária do Velho Mundo, mais precisamente da região da Ásia. É conhecida popularmente como pinheiro ou pinheiro-de-khasia. No Brasil, as espécies de Pinus estão entre as principais espécies destinadas à produção de madeira, papel e resina."
     }
   },
   "edible": {
@@ -104,7 +131,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -123,7 +150,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/677057-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -131,7 +158,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/677057-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000481052.webp",
@@ -144,6 +171,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

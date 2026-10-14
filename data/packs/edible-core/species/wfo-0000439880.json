@@ -16,40 +16,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オオツメクサ",
       "ノハラツメクサ"
-    ],
-    "de": [
-      "Acker-Spergel",
-      "Ackerspark",
-      "Acker-Spark"
-    ],
-    "en": [
-      "corn spurry",
-      "corn spurrey"
-    ],
-    "zh": [
-      "大爪草"
-    ],
-    "nl": [
-      "Gewone spurrie"
-    ],
-    "cs": [
-      "kolenec rolní"
-    ],
-    "fr": [
-      "spargoute des champs",
-      "Spergule des champs"
-    ],
-    "fi": [
-      "peltohatikka"
-    ],
-    "sl": [
-      "njivski oklast"
     ],
     "pl": [
       "Sporek polny"
@@ -60,14 +32,26 @@
     "ru": [
       "Торица полевая"
     ],
+    "en": [
+      "corn spurry",
+      "corn spurrey"
+    ],
     "se": [
       "Bealdoseakkalasta"
     ],
     "mk": [
       "Полска пршленка"
     ],
+    "fi": [
+      "peltohatikka"
+    ],
     "et": [
       "harilik nälghein"
+    ],
+    "de": [
+      "Acker-Spark",
+      "Acker-Spergel",
+      "Ackerspark"
     ],
     "csb": [
       "Kolinc"
@@ -78,8 +62,18 @@
     "sv": [
       "Åkerspärgel"
     ],
+    "nl": [
+      "Gewone spurrie"
+    ],
     "da": [
       "Almindelig Spergel"
+    ],
+    "fr": [
+      "Spergule des champs",
+      "spargoute des champs"
+    ],
+    "zh": [
+      "大爪草"
     ],
     "ga": [
       "corrán lín"
@@ -95,6 +89,9 @@
     ],
     "sk": [
       "kolenec roľný"
+    ],
+    "cs": [
+      "kolenec rolní"
     ],
     "uk": [
       "Шпергель польовий"
@@ -128,33 +125,63 @@
     ],
     "ig": [
       "corn spurry"
+    ],
+    "sl": [
+      "njivski oklast"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q162826",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q162826",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オオツメクサ」",
+      "source": "Wikipedia (ja): オオツメクサ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%84%E3%83%A1%E3%82%AF%E3%82%B5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106351416,
       "text": "オオツメクサ は、ヨーロッパ原産のナデシコ科オオツメクサ属の植物である。イギリスのモンゴメリーシャーの州花として知られる。カナダ西部では農業における雑草と見なされている。日本には、明治時代に渡来した。畑地や荒れ地、河川敷、休耕田に生える。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Spergula arvensis」",
+      "source": "Wikipedia (en): Spergula arvensis",
       "source_url": "https://en.wikipedia.org/wiki/Spergula_arvensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306466181,
       "text": "Spergula arvensis, the corn spurry, stickwort, starwort or spurrey, is a species of plant in the genus Spergula. It is an annual plant which is native to Europe, Macaronesia, Siberia, northwestern India, northwestern Africa, and the highlands of eastern tropical Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Spergula arvensis",
+      "source_url": "https://es.wikipedia.org/wiki/Spergula_arvensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174108535,
+      "text": "Spergula arvensis, llamada comúnmente esparcilla, es una especie de la familia de las cariofiláceas"
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Spergula arvensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Spergula_arvensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208157009,
+      "text": "Spergula arvensis, la Spergule des champs, Spargoute des champs, Espargoutte des champs, Spargelle, est une espèce de plantes herbacées du genre Spergula et de la famille des Caryophyllacées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Spergula arvensis",
+      "source_url": "https://pt.wikipedia.org/wiki/Spergula_arvensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69100230,
+      "text": "Spergula arvensis, comummente conhecida como espérgula, é uma espécie de planta com flor pertencente à família Caryophyllaceae."
     }
   },
   "edible": {
@@ -167,7 +194,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -358,7 +385,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/158725-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -366,7 +393,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/158725-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000439880.webp",
@@ -379,6 +406,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

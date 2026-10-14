@@ -38,50 +38,29 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ブラッシカ・ラパ"
     ],
-    "de": [
-      "Rübsen"
-    ],
-    "en": [
-      "field mustard",
-      "common mustard",
-      "wild turnip"
-    ],
-    "nl": [
-      "Raapzaad"
-    ],
-    "cs": [
-      "brukev řepák"
-    ],
-    "fr": [
-      "navette dété"
-    ],
-    "fi": [
-      "satokaali"
-    ],
-    "zh": [
-      "芜菁花",
-      "芜菁子",
-      "芜菁",
-      "蔓菁",
-      "芸薹"
-    ],
-    "ast": [
-      "nabu"
-    ],
-    "sl": [
-      "repa"
+    "id": [
+      "Sawi bunga"
     ],
     "nb": [
       "bondekål"
     ],
+    "de": [
+      "Rübsen"
+    ],
     "az": [
       "Şalğam-turp"
+    ],
+    "cs": [
+      "brukev řepák"
+    ],
+    "fi": [
+      "satokaali"
     ],
     "io": [
       "Kolzo"
@@ -113,11 +92,21 @@
     "ru": [
       "репа"
     ],
+    "sl": [
+      "repa"
+    ],
     "sr": [
       "репа"
     ],
     "uk": [
       "ріпа"
+    ],
+    "zh": [
+      "芸薹",
+      "芜菁花",
+      "芜菁子",
+      "芜菁",
+      "蔓菁"
     ],
     "el": [
       "Κινέζικο λάχανο"
@@ -229,13 +218,27 @@
     ],
     "grc": [
       "γογγύλη"
+    ],
+    "en": [
+      "field mustard",
+      "common mustard",
+      "wild turnip"
+    ],
+    "nl": [
+      "Raapzaad"
+    ],
+    "fr": [
+      "navette dété"
+    ],
+    "ast": [
+      "nabu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3384",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3384",
   "search_names": {
@@ -248,22 +251,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ブラッシカ・ラパ」",
+      "source": "Wikipedia (ja): ブラッシカ・ラパ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%82%AB%E3%83%BB%E3%83%A9%E3%83%91",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110385663,
       "text": "ブラッシカ・ラパ は、アブラナ科アブラナ属の野草で、多様な栽培植物の原種と考えられている。日本語文献では「カブ・ハクサイ類」としているものがある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Brassica rapa」",
+      "source": "Wikipedia (en): Brassica rapa",
       "source_url": "https://en.wikipedia.org/wiki/Brassica_rapa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368757372,
       "text": "Brassica rapa is an annual to biennial plant species native to Eurasia that is from the Brassicaceae family. The B. rapa subspecies oleifera is an oilseed commonly known as turnip rape, field mustard, bird's rape, and keblock."
+    },
+    "es": {
+      "source": "Wikipedia (es): Brassica rapa",
+      "source_url": "https://es.wikipedia.org/wiki/Brassica_rapa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 164898763,
+      "text": "Brassica rapa, también conocido como nabo silvestre o yuyo, es una especie constituida por muchas subespecies ampliamente cultivadas a lo largo del mundo y aparece también como especie pionera de manera silvestre. Entre los cultivos como el nabo, la mizuna, la col china, el bok choy, el rapini y la Brassica rapa subsp. oleifera, una planta de la cual se extrae aceite vegetal de la semilla."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Brassica rapa",
+      "source_url": "https://fr.wikipedia.org/wiki/Brassica_rapa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236630566,
+      "text": "Brassica rapa L., le Chou champêtre, est une espèce de la famille des Brassicaceae (Crucifères), cultivée comme plante potagère ou fourragère. Il comprend les différents types de navet, certaines raves, la navette oléagineuse et le chou chinois, le pakchoï et le pe-tsaï."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Brassica rapa",
+      "source_url": "https://pt.wikipedia.org/wiki/Brassica_rapa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63716351,
+      "text": "A Brassica rapa é uma espécie de planta angiospérmica, constituída por diversas subespécies vastamente cultivadas, como a couve-chinesa ou o nabo. O óleo extraído das suas sementes é chamado de óleo de canola ou óleo de colza."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sawi bunga",
+      "source_url": "https://id.wikipedia.org/wiki/Sawi_bunga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29216571,
+      "text": "Sawi bunga adalah salah satu spesies dari suku sawi-sawian. Spesies ini amat beragam penampilannya, sehingga diperlukan pengelompokan di bawah spesies (infraspesifik) untuk memperjelas posisi setiap macamnya. Di dalamnya terdapat kelompok sayuran daun, sayuran umbi, pakan ternak, serta penghasil minyak."
     }
   },
   "edible": {
@@ -281,7 +320,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -515,7 +554,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/279485-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -523,7 +562,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/279485-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000571544.webp",
@@ -536,6 +575,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

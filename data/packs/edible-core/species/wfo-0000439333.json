@@ -11,12 +11,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Red-berried Elder",
-      "red elderberry"
+    "pl": [
+      "Bez koralowy",
+      "Dziki bez koralowy"
+    ],
+    "ru": [
+      "Бузина красная",
+      "Бузина кистевидная",
+      "Бузина кистистая",
+      "Бузина обыкновенная"
+    ],
+    "hu": [
+      "fürtös bodza"
+    ],
+    "fi": [
+      "terttuselja"
+    ],
+    "uk": [
+      "Бузина червона"
+    ],
+    "et": [
+      "punane leeder"
     ],
     "de": [
       "Roter Holunder",
@@ -25,9 +43,9 @@
       "Hirsch-Holunder",
       "Trauben-Holunder"
     ],
-    "ar": [
-      "خمان عذقي",
-      "بيلسان أحمر"
+    "cs": [
+      "bez červený",
+      "bez hroznatý"
     ],
     "az": [
       "Qırmızı gəndəlaş"
@@ -35,96 +53,54 @@
     "ba": [
       "Өсҡат"
     ],
-    "be": [
-      "Бузіна гронкавая"
+    "lt": [
+      "Raudonuogis šeivamedis"
     ],
-    "bg": [
-      "червен бъз"
+    "hsb": [
+      "Čerwjena bozanka"
     ],
-    "cs": [
-      "bez červený",
-      "bez hroznatý"
+    "sv": [
+      "Druvfläder",
+      "Amerikansk druvfläder",
+      "Flikbladig druvfläder",
+      "Japansk druvfläder"
     ],
-    "cy": [
-      "Ysgawen aeron coch"
+    "ar": [
+      "بيلسان أحمر",
+      "خمان عذقي"
     ],
     "da": [
       "Drue-Hyld",
       "Druehyld"
     ],
-    "es": [
-      "Sauco rojo",
-      "Saúco rojo"
-    ],
-    "et": [
-      "Punane leeder"
-    ],
-    "eu": [
-      "Intsusa gorri"
-    ],
-    "fi": [
-      "Terttuselja"
-    ],
-    "fr": [
-      "sureau à grappes",
-      "sureau de montagne",
-      "sureau rameux",
-      "sureau rouge1ou"
-    ],
-    "hsb": [
-      "Čerwjena bozanka"
-    ],
-    "hu": [
-      "fürtös bodza"
-    ],
-    "ja": [
-      "セイヨウアカミニワトコ"
-    ],
     "kk": [
       "Қызыл ырғай"
     ],
-    "lt": [
-      "Raudonuogis šeivamedis"
+    "nl": [
+      "trosvlier"
     ],
     "nb": [
+      "buskhyll",
       "Raudhyll",
-      "Rødhyll",
-      "buskhyll"
+      "Rødhyll"
     ],
-    "nl": [
-      "Trosvlier"
-    ],
-    "pl": [
-      "bez koralowy",
-      "Dziki bez koralowy"
-    ],
-    "ru": [
-      "Бузина кистевидная",
-      "Бузина кистистая",
-      "Бузина красная",
-      "Бузина обыкновенная"
+    "be": [
+      "Бузіна гронкавая"
     ],
     "sk": [
       "baza červená"
     ],
-    "sv": [
-      "Amerikansk druvfläder",
-      "Druvfläder",
-      "Flikbladig druvfläder",
-      "Japansk druvfläder"
+    "eu": [
+      "Intsusa gorri"
     ],
-    "uk": [
-      "Бузина червона"
+    "cy": [
+      "Ysgawen aeron coch"
     ],
-    "zh": [
-      "总序接骨木",
-      "紅接骨木莓"
+    "bg": [
+      "Червен бъз"
     ],
-    "ast": [
-      "xabú bermeyu"
-    ],
-    "sl": [
-      "divji bezeg"
+    "ja": [
+      "セイヨウアカミニワトコ"
     ],
     "ca": [
       "saüc racemós"
@@ -150,8 +126,15 @@
     "azb": [
       "قیرمیزی گندلاش"
     ],
+    "sl": [
+      "divji bezeg"
+    ],
     "vep": [
       "Sitmarjad"
+    ],
+    "zh": [
+      "紅接骨木莓",
+      "总序接骨木"
     ],
     "arz": [
       "خمان عذقى"
@@ -164,34 +147,69 @@
     ],
     "cv": [
       "Упа хĕрлĕ паланĕ"
+    ],
+    "en": [
+      "Red-berried Elder",
+      "red elderberry"
+    ],
+    "es": [
+      "Sauco rojo",
+      "Saúco rojo"
+    ],
+    "fr": [
+      "sureau à grappes",
+      "sureau de montagne",
+      "sureau rameux",
+      "sureau rouge1ou"
+    ],
+    "ast": [
+      "xabú bermeyu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157276",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157276",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sambucus racemosa」",
+      "source": "Wikipedia (en): Sambucus racemosa",
       "source_url": "https://en.wikipedia.org/wiki/Sambucus_racemosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369596979,
       "text": "Sambucus racemosa is a species of elder known by the common names red-berried elder and red elderberry. It produces a red drupe."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sambucus racemosa",
+      "source_url": "https://es.wikipedia.org/wiki/Sambucus_racemosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581082,
+      "text": "Sambucus racemosa, el saúco rojo, es una especie de Sambucus originario de Europa, el Asia templada y el norte y el centro de Norteamérica. Crece en los medios ribereños, bosques y otros hábitats, generalmente en zonas húmedas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sambucus racemosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Sambucus_racemosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239716736,
+      "text": "Le Sureau de montagne, sureau rameux, sureau rouge ou sureau à grappes est une espèce d'arbustes de la famille des Adoxaceae, dont les sous-espèces poussent dans les parties les plus froides de l'Amérique du Nord, de l'Europe et de l'Asie."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Sambucus racemosa」の節「Cultivation」",
+        "source": "Wikipedia (en): Sambucus racemosa § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Sambucus_racemosa#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369596979,
         "heading": "Cultivation",
         "text": "Sambucus racemosa is cultivated as an ornamental plant, for use as a shrub or small tree in traditional and wildlife gardens, and natural landscape design projects. The yellow-foliaged cultivars 'Plumosa Aurea' and 'Sutherland Gold' are widely grown in Britain.\n\n■ Cultivars\nCultivars in the nursery trade include:\n\nSambucus racemosa 'SMNSRD4' Lemony Lace®  — golden green foliage, with red new growth\nSambucus racemosa 'Sutherland Gold' — green foliage, with bronze new growth: it has received the Royal Horticultural Society's Award of Garden Merit.",
@@ -200,11 +218,11 @@
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Sambucus racemosa」の節「Toxicity」",
+        "source": "Wikipedia (en): Sambucus racemosa § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Sambucus_racemosa#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369596979,
         "heading": "Toxicity",
         "text": "The stems, roots and foliage are poisonous, and the fruit can be toxic or cause nausea if eaten raw.",
@@ -223,7 +241,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -316,7 +334,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30056767-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -324,7 +342,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30056767-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000439333.webp",
@@ -337,6 +355,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

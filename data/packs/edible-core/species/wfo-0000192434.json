@@ -18,19 +18,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "green wattle"
-    ],
-    "zh": [
-      "线叶相思树",
-      "线叶金合欢"
-    ],
-    "id": [
-      "akasia"
-    ],
     "pt": [
       "Acácia-negra"
     ],
@@ -39,6 +29,10 @@
     ],
     "ru": [
       "Акация низбегающая"
+    ],
+    "zh": [
+      "线叶金合欢",
+      "线叶相思树"
     ],
     "uk": [
       "Акація нізбегающа"
@@ -54,13 +48,19 @@
     ],
     "arz": [
       "سنط شائع"
+    ],
+    "id": [
+      "Akasia"
+    ],
+    "en": [
+      "green wattle"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2587160",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2587160",
   "search_names": {
@@ -73,13 +73,77 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Acacia decurrens」",
+      "source": "Wikipedia (en): Acacia decurrens",
       "source_url": "https://en.wikipedia.org/wiki/Acacia_decurrens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376722012,
       "text": "Acacia decurrens, commonly known as black wattle, Sydney green wattle or early green wattle and other common names, is a species of flowering plant in the family Fabaceae and is endemic to New South Wales, Australia. It is a tall shrub to tree with bipinnate, dark green leaves, spherical heads of golden yellow flowers and thinly leathery pods."
+    },
+    "es": {
+      "source": "Wikipedia (es): Acacia decurrens",
+      "source_url": "https://es.wikipedia.org/wiki/Acacia_decurrens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174451050,
+      "text": "Acacia decurrens es una especie de árbol perenne o arbusto nativo de las Grandes Montañas Azules, que es un área protegida mundial en las Montañas azules de Nueva Gales del Sur, Australia. También se encuentra en África, América, Europa, Nueva Zelanda, en la zona del océano Pacífico, en las riberas del océano Índico y Japón."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Acacia decurrens",
+      "source_url": "https://fr.wikipedia.org/wiki/Acacia_decurrens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223809750,
+      "text": "Acacia decurrens est une espèce de plantes à fleurs de la famille des Mimosaceae selon la classification classique, ou de celles des Fabaceae selon la classification phylogénétique. C'est un arbuste originaire de Nouvelle-Galles du Sud en Australie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Acácia-negra",
+      "source_url": "https://pt.wikipedia.org/wiki/Ac%C3%A1cia-negra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71553747,
+      "text": "Acácia-negra é uma árvore ornamental da família Fabaceae cujo fruto em forma de vagem torcida possui sementes pretas. Ela pode crescer até seis metros e também possui quatro metros de diâmetro na sua copa cujas folhas são pequenas e lineares. É muito conhecida pelos seus lindos cachos amarelo-claros de flores."
+    },
+    "id": {
+      "source": "Wikipedia (id): Acacia decurrens",
+      "source_url": "https://id.wikipedia.org/wiki/Acacia_decurrens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28658781,
+      "text": "Acacia decurrens merupakan spesies tumbuhan berbunga dari famili Fabaceae yang berasal dari New South Wales, Australia. Tanaman ini berupa semak tinggi hingga pohon, memiliki daun hijau tua yang memanjang, kepala bunga berbentuk bulat dengan warna kuning keemasan, serta polong yang tipis dan bertekstur agak kasar. Selain dibudidayakan di berbagai wilayah Australia, A. decurrens juga telah menjadi spesies yang ternaturalisasi di beberapa negara bagian lain dan diperkenalkan ke banyak wilayah di luar Australia."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Acacia decurrens § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Acacia_decurrens#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174451050,
+        "heading": "Toxicidad",
+        "text": "Las especies del género Acacia pueden contener derivados de la dimetiltriptamina y glucósidos cianogénicos en las hojas, las semillas y la corteza, cuya ingestión puede suponer un riesgo para la salud.​",
+        "truncated": false
+      }
+    },
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Acacia decurrens § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Acacia_decurrens#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 223809750,
+        "heading": "Culture",
+        "text": "Avant de semer les graines, il faut les faire tremper dans l'eau chaude. Les graines gardent leur capacité de germination pendant de nombreuses années.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -96,7 +160,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -142,7 +206,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/470138-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -150,7 +214,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/470138-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000192434.webp",
@@ -163,6 +227,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

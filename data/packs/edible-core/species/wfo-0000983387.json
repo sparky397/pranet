@@ -12,27 +12,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "black raspberry"
-    ],
-    "cs": [
-      "ostružiník ojíněný"
-    ],
-    "zh": [
-      "西方悬钩子",
-      "黑覆盆莓"
-    ],
     "fa": [
       "رزبری سیاه"
     ],
     "ru": [
       "Чёрная малина"
     ],
+    "zh": [
+      "黑覆盆莓",
+      "西方悬钩子"
+    ],
     "ja": [
       "ブラックラズベリー"
+    ],
+    "cs": [
+      "ostružiník ojíněný"
     ],
     "et": [
       "Läänevaarikas"
@@ -42,34 +39,64 @@
     ],
     "ar": [
       "عوسج الشمال"
+    ],
+    "en": [
+      "black raspberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q7376217",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q7376217",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rubus occidentalis」",
+      "source": "Wikipedia (en): Rubus occidentalis",
       "source_url": "https://en.wikipedia.org/wiki/Rubus_occidentalis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1367230471,
       "text": "Rubus occidentalis is a species of bramble native to eastern North America. Its common name black raspberry is shared with other closely related species. Other names include bear's eye blackberry, black cap, black cap raspberry, and scotch cap."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rubus occidentalis",
+      "source_url": "https://es.wikipedia.org/wiki/Rubus_occidentalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174319861,
+      "text": "Rubus occidentalis, el frambueso negro, es una especie de Rubus nativa del este de Norteamérica, cuyo fruto es la frambuesa negra. El nombre común frambueso negro es compartido con la cercana Rubus leucodermis del oeste de América del Norte."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rubus occidentalis",
+      "source_url": "https://fr.wikipedia.org/wiki/Rubus_occidentalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 209445175,
+      "text": "Rubus occidentalis, en français Framboisier noir ou Ronce à framboises noires, est une espèce de plante à fleurs de la famille des Rosaceae et du genre Rubus, originaire de l'est de l'Amérique du Nord."
+    },
+    "id": {
+      "source": "Wikipedia (id): Rubus occidentalis",
+      "source_url": "https://id.wikipedia.org/wiki/Rubus_occidentalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29737152,
+      "text": "Rubus occidentalis adalah spesies Rubus yang berasal dari Amerika Utara bagian timur. Nama umumnya rasberi hitam digunakan bersama dengan spesies lain yang berkerabat dekat."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Rubus occidentalis」の節「Cultivation」",
+        "source": "Wikipedia (en): Rubus occidentalis § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Rubus_occidentalis#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1367230471,
         "heading": "Cultivation",
         "text": "A center for black raspberry cultivation is in the Willamette Valley of Oregon. The main cultivar is 'Munger'. Other cultivars include 'Allen', 'Blackhawk', 'Bristol', 'Cumberland', 'Dundee', 'Hanover', 'Huron', 'Jewel', 'John Robertson', 'Logan', 'Macblack', 'Morrison', 'Munger', and 'Plum Farmer'. The plants are summer tipped by hand, mechanically pruned in winter and then machine harvested. The yields are generally low per acre and this is why the fruits are often expensive.\nThe species has been used in the breeding of many Rubus hybrids; those between red and black raspberries are common under the name purple raspberries; 'Brandywine', 'Royalty', and 'Estate' are examples of purple raspberry cultivars. Wild purple raspberries have also been found in various places in northeastern North America where the two parental species co-occur and occasionally hybridize naturally.",
@@ -87,7 +114,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -140,14 +167,14 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/223350-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "climate_description": "temperate",
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/223350-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000983387.webp",
@@ -160,6 +187,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -13,7 +13,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -21,46 +21,30 @@
     ],
     "en": [
       "Sweet pea",
+      "sweet pea",
       "sweetpea",
-      "Guisante de Olor",
-      "sweet pea"
-    ],
-    "cy": [
-      "pysen bêr"
-    ],
-    "es": [
-      "Chorreque"
+      "Guisante de Olor"
     ],
     "fr": [
-      "Gesse Odorante",
-      "Pois de Senteur"
+      "Pois de senteur",
+      "Gesse Odorante"
     ],
-    "zh": [
-      "香豌豆"
-    ],
-    "cs": [
-      "hrachor vonný"
-    ],
-    "de": [
-      "Edelwicke",
-      "Duftwicke",
-      "Duftende Platterbse"
-    ],
-    "fi": [
-      "tuoksunätkelmä"
-    ],
-    "he": [
-      "אפונה ריחנית",
-      "טופח ריחני"
-    ],
-    "ast": [
-      "arbeyu de golor"
+    "id": [
+      "Polong manis"
     ],
     "pl": [
       "Groszek pachnący"
     ],
     "ru": [
       "Душистый горошек"
+    ],
+    "fi": [
+      "tuoksunätkelmä"
+    ],
+    "de": [
+      "Duftende Platterbse",
+      "Edelwicke",
+      "Duftwicke"
     ],
     "io": [
       "Latiro"
@@ -79,6 +63,12 @@
     ],
     "da": [
       "Almindelig Ærteblomst"
+    ],
+    "zh": [
+      "香豌豆"
+    ],
+    "cs": [
+      "hrachor vonný"
     ],
     "et": [
       "lillhernes"
@@ -103,6 +93,10 @@
     ],
     "tl": [
       "Gisantes"
+    ],
+    "he": [
+      "טופח ריחני",
+      "אפונה ריחנית"
     ],
     "mk": [
       "мирислив граор"
@@ -143,9 +137,6 @@
     "ar": [
       "بازلاء عطرية"
     ],
-    "id": [
-      "Polong manis"
-    ],
     "myv": [
       "Тантей чине идем вика"
     ],
@@ -157,13 +148,22 @@
     ],
     "tt": [
       "Исле борчак"
+    ],
+    "cy": [
+      "pysen bêr"
+    ],
+    "es": [
+      "Chorreque"
+    ],
+    "ast": [
+      "arbeyu de golor"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q163944",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q163944",
   "search_names": {
@@ -180,59 +180,117 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「スイートピー」",
+      "source": "Wikipedia (ja): スイートピー",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109872742,
       "text": "スイートピー は、マメ科レンリソウ属の植物。和名では、ジャコウエンドウ（麝香豌豆）やカオリエンドウ（香豌豆）、ジャコウレンリソウ（麝香連理草）などと呼ばれている。属名のラティラスはエンドウ（豌豆）のギリシア古名で、種小名のオドラタスはラテン語で「香気ある」を意味する。1月、1月20日、3月15日、3月20日、6月9日等の誕生花。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sweet pea」",
+      "source": "Wikipedia (en): Sweet pea",
       "source_url": "https://en.wikipedia.org/wiki/Sweet_pea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354827826,
       "text": "The sweet pea, Lathyrus odoratus, is a flowering plant in the genus Lathyrus in the family Fabaceae (legumes), native to Sicily, southern Italy and the Aegean Islands."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lathyrus odoratus",
+      "source_url": "https://es.wikipedia.org/wiki/Lathyrus_odoratus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581619,
+      "text": "Lathyrus odoratus L., guisante de olor o arvejilla es una singular especie de guisante, esa planta herbácea de naturaleza trepadora, planta anual. Es nativa del este de la región mediterránea desde Sicilia al este de Creta."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pois de senteur",
+      "source_url": "https://fr.wikipedia.org/wiki/Pois_de_senteur",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238590293,
+      "text": "Le Pois de senteur est une espèce de plantes à fleurs de la famille des Fabaceae. C'est une plante herbacée annuelle grimpante originaire du sud-est de l'Italie et de la Sicile."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lathyrus odoratus",
+      "source_url": "https://pt.wikipedia.org/wiki/Lathyrus_odoratus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67143086,
+      "text": "Ervilha-de-cheiro é uma espécie de planta com flor pertencente à família Fabaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Polong manis",
+      "source_url": "https://id.wikipedia.org/wiki/Polong_manis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29124098,
+      "text": "Polong manis, Lathyrus odoratus, adalah tanaman berbunga dalam genus Lathyrus dalam famili Fabaceae, asli Sisilia, Italia selatan, dan Kepulauan Aegean."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「スイートピー」の節「栽培」",
+        "source": "Wikipedia (ja): スイートピー § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109872742,
         "heading": "栽培",
         "text": "発芽適温は15℃で、10月中～下旬が適期。種皮が硬い硬実種子なので、発芽率をよくするため一晩吸水させてから蒔くようにする。苗は正月過ぎから出始め、ポット苗に植えられて流通する。\n植え付ける場所は、日当たりが良く、水はけ、風通しのよい場所が適地。酸性土を嫌うため、苗を植える2週間前までに苦土石灰をまき、酸度矯正をしておく。根が枝分かれすることなく、地中深くにまっすぐに伸びる植物なので、40cmぐらいの深さまでよく耕しておく。\n定植後1～2週間したら摘心し、わき枝を出させるようにすると、多くの花を楽しめる。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Sweet pea」の節「Cultivation」",
+        "source": "Wikipedia (en): Sweet pea § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Sweet_pea#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1354827826,
         "heading": "Cultivation",
         "text": "Sweet peas have been cultivated since the 17th century and a vast number of cultivars are commercially available. They are grown for their flower colour (usually in pastel shades of blue, pink, purple and white, including bi-colours), and for their intense unique fragrance. They are grown by gardeners for private enjoyment or for exhibition, and in the floristry trade. The large, pea-shaped seeds are sown in cold frames in Spring or Autumn. The seeds benefit from pre-soaking or chipping with a sharp blade. The plants are also available later in the season, as young plants or plugs. They are grown up canes, with the new shoots being regularly pinched out to promote a bushy habit and higher flower yields. Plants typically reach heights of 1–2 metres (3 ft 3 in – 6 ft 7 in), with the flowers appearing in midsummer and continuing for many weeks if regularly deadheaded.\n\nOver 50 cultivars have gained the Royal Horticultural Society's Award of Garden Merit.\nIn the UK the National Collection of Sweet Peas was started by Roger Parsons in 1991, when he offered to host a collection of Lathyrus at Hotham Park, Bognor Regis. At the time Parsons was working as Head of Parks and Landscape for Arun District Council. The collection achieved National Collection status in 1993 and now holds about 1300 species and cultivars from around the world. English Sweet Peas, operated by Phil Johnson, now incorporates Roger Parsons Sweet Peas and Johnson will maintain and add to the National Collection. Johnson has submitted an application to Plant Heritage to become the new custodian.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Polong manis § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Polong_manis#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29124098,
+        "heading": "Penanaman",
+        "text": "Polong manis telah dibudidayakan sejak abad ke-17 dan sejumlah besar kultivar tersedia secara komersial. Mereka ditanam karena warna bunganya (biasanya dalam warna pastel biru, merah muda, ungu dan putih, termasuk dua warna), dan karena aromanya yang unik dan intens. Mereka ditanam oleh tukang kebun untuk kesenangan pribadi atau untuk pameran, dan dalam perdagangan bunga. Benih besar berbentuk kacang polong ditaburkan dalam bingkai dingin di Musim Semi atau Musim Gugur. Benih mendapat manfaat dari perendaman awal atau pemotongan dengan pisau tajam. Tanaman juga tersedia di akhir musim, sebagai tanaman muda atau tanaman colokan. Mereka adalah tanaman tongkat dewasa, dengan tunas baru yang secara teratur dijepit untuk meningkatkan kebiasaan lebat dan hasil bunga yang lebih tinggi. Tanaman biasanya mencapai ketinggian 1–2 meter (3 ft 3 in – 6 ft 7 in), dengan bunga yang muncul di pertengahan musim panas dan berlanjut selama berminggu-minggu jika sering kali mati kepala .",
         "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Sweet pea」の節「Toxicity」",
+        "source": "Wikipedia (en): Sweet pea § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Sweet_pea#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1354827826,
         "heading": "Toxicity",
         "text": "Unlike the edible pea, there is evidence that seeds of members of the genus Lathyrus are toxic if ingested in quantity. A related species, Lathyrus sativus, is grown for human consumption but when it forms a major part of the diet it causes symptoms of toxicity called lathyrism.\nIn studies of rats, animals fed a diet of 50% sweet pea seeds developed enlarged adrenals relative to control animals fed on edible peas. The main effect is thought to be on the formation of collagen. Symptoms are similar to those of scurvy and copper deficiency, which share the common feature of inhibiting proper formation of collagen fibrils. Seeds of the sweet pea contain beta-aminopropionitrile that prevents the cross-linking of collagen by inhibiting lysyl oxidase and thus the formation of allysine, leading to loose skin. Recent experiments have attempted to develop this chemical as a treatment to avoid disfiguring skin contractions after skin grafting.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Polong manis § Toksisitas",
+        "source_url": "https://id.wikipedia.org/wiki/Polong_manis#Toksisitas",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29124098,
+        "heading": "Toksisitas",
+        "text": "Berbeda dengan kacang polong yang dapat dimakan, terdapat bukti bahwa biji anggota genus Lathyrus beracun jika tertelan dalam jumlah banyak. Spesies terkait, Lathyrus sativus, ditanam untuk konsumsi manusia tetapi ketika menjadi bagian utama dari makanan, hal itu menyebabkan gejala toksisitas yang disebut lathyrism .\nDalam penelitian terhadap tikus, hewan yang diberi diet 50% biji polong manis mengalami pembesaran adrenal dibandingkan hewan kontrol yang diberi kacang polong yang bisa dimakan. Efek utamanya diperkirakan pada pembentukan kolagen. Gejalanya mirip dengan gejala penyakit kudis dan defisiensi tembaga, yang memiliki kesamaan ciri yaitu menghambat pembentukan fibril kolagen yang tepat. Biji kacang manis mengandung beta-aminopropionitrile yang mencegah ikatan silang kolagen dengan menghambat lisil oksidase dan pembentukan allysine, yang menyebabkan kulit kendur. Eksperimen terbaru telah berupaya mengembangkan bahan kimia ini sebagai pengobatan untuk menghindari kerusakan kontraksi kulit setelah pencangkokan kulit.",
         "truncated": false
       }
     }
@@ -250,7 +308,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -336,7 +394,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/501909-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling annual",
@@ -344,7 +402,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/501909-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000212700.webp",
@@ -357,6 +415,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 374,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

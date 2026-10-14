@@ -17,25 +17,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ゴールデンキャンドル"
     ],
-    "en": [
-      "emperor's candlesticks",
-      "Candle Bush",
-      "Candelabra Bush",
-      "Empress Candle Plant",
-      "Golden Candlestick"
+    "fr": [
+      "Dartrier"
     ],
-    "zh": [
-      "翼柄決明",
-      "翅柄决明",
-      "翅荚决明",
-      "对叶豆",
-      "翅叶槐"
+    "id": [
+      "Ketepeng cina"
     ],
     "hi": [
       "पीताम्बर"
@@ -51,9 +43,6 @@
     ],
     "qu": [
       "Yunka mut'uy"
-    ],
-    "fr": [
-      "Dartrier"
     ],
     "ta": [
       "சீமையகத்தி"
@@ -79,8 +68,12 @@
     "te": [
       "సీమ తంగేడు"
     ],
-    "id": [
-      "Ketepeng cina"
+    "zh": [
+      "翅荚决明",
+      "翼柄決明",
+      "翅柄决明",
+      "对叶豆",
+      "翅叶槐"
     ],
     "bcl": [
       "Kasitas"
@@ -117,13 +110,20 @@
     ],
     "gor": [
       "Ketepeng Cina"
+    ],
+    "en": [
+      "emperor's candlesticks",
+      "Candle Bush",
+      "Candelabra Bush",
+      "Empress Candle Plant",
+      "Golden Candlestick"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q41504",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q41504",
   "search_names": {
@@ -138,35 +138,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ゴールデンキャンドル」",
+      "source": "Wikipedia (ja): ゴールデンキャンドル",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107454664,
       "text": "ゴールデンキャンドル とは、インドネシア、インドなどの熱帯アジアの湿地帯に自生するマメ科の植物である。学名を Senna alata (L.) Roxb. という。別名はキャンドルブッシュ、和名はハネセンナおよびハネミセンナ。英語名は golden-candle senna〈黄金のロウソクのセンナ〉、candle bush〈ロウソクの低木〉、seven-golden-candlesticks〈7本の黄金のロウソク〉、 ringworm shrub〈たむしの低木〉など様々なものが存在する。中国名は対葉豆（タイヨウトウ）。ビルマ語では မဲဇလီကြီး メーザリー・ジー〈大タガヤサン〉あるいは သင်္ဘောမဲဇလီ ティンボー・メーザリー〈舶来のタガヤサン〉などと呼ぶ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Senna alata」",
+      "source": "Wikipedia (en): Senna alata",
       "source_url": "https://en.wikipedia.org/wiki/Senna_alata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375988496,
       "text": "Senna alata is an important Neotropical medicinal tree, as well as an ornamental flowering plant in the subfamily Caesalpinioideae. It also known as emperor's candlesticks, candle bush, candelabra bush, Christmas candles, empress candle plant, ringworm shrub, Roman candle, or candletree. A remarkable species of Senna, it was sometimes separated in its own genus, Herpetica."
+    },
+    "es": {
+      "source": "Wikipedia (es): Senna alata",
+      "source_url": "https://es.wikipedia.org/wiki/Senna_alata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171583082,
+      "text": "Senna alata es una planta fanerógama de la subfamilia Caesalpinioideae. Es considerada un árbol medicinal y también usada como planta ornamental."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dartrier",
+      "source_url": "https://fr.wikipedia.org/wiki/Dartrier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226055247,
+      "text": "Le Dartrier, dénommé aussi casse ailé ou Cassia alata ou Kassialata, de son binomial Senna alata (L.) Roxb, est une espèce de plantes à fleurs de la famille des Caesalpiniaceae, ou des Fabaceae, sous-famille des Caesalpinioideae, selon la classification phylogénétique. Il appartient à la tribu des Cassieae. C'est un arbuste originaire du Mexique."
+    },
+    "id": {
+      "source": "Wikipedia (id): Ketepeng cina",
+      "source_url": "https://id.wikipedia.org/wiki/Ketepeng_cina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29508096,
+      "text": "Ketepeng Cina atau gelinggang adalah tanaman liar semak, perdu, rimbun yang berasal dari Amerika tropis. Ketepeng sendiri adalah peyebutan umum dari tanaman genus Senna, beberapa penyebutan lainya di Indonesia kerap sebut daun kupang, ketepeng, daun kurap, gelenggang, kupang-kupang, Gelinggang (Paser), ura'kap, ketepeng cina, ketepeng kebo (Jawa), ki manila, ketepang badak (Sunda), saya mara, haya mara, acon-aconan (Madura), tabankun dan kupang-kupang (Ternate)."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Senna alata」の節「Cultivation」",
+        "source": "Wikipedia (en): Senna alata § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Senna_alata#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375988496,
         "heading": "Cultivation",
         "text": "This species is easy to grow from the seed. They may either be sown directly or started in a nursery.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Senna alata § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Senna_alata#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171583082,
+        "heading": "Cultivo",
+        "text": "Las vainas son de color marrón oscuro casi recta o casi negro, de unos 15 cm de largo y 15 mm de ancho. A ambos lados de las vainas no es un ala que corre a lo largo de la vaina. Las legumbres contienen de 50 a 60 , semillas aplanadas y triangulares.\nCassia alata es fácil de cultivar a partir de semillas. Las semillas pueden ser sembradas ya sea directa o iniciados en un vivero.",
         "truncated": false
       }
     }
@@ -186,7 +224,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -303,7 +341,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1192167-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -311,7 +349,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1192167-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000214728.webp",
@@ -324,6 +362,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 381,
     "height": 349,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

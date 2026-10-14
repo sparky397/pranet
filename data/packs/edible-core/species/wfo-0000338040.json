@@ -24,32 +24,33 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アフラムム・アングスティフォリウム"
     ],
     "fr": [
+      "Cardamome de Madagascar",
       "Grand cardamone de Madagascar"
-    ],
-    "en": [
-      "Guinea Grains",
-      "Longoza Plant",
-      "Mlelgueta Pepper"
     ],
     "zh": [
       "窄叶豆蔻"
     ],
     "mg": [
       "Lingoza"
+    ],
+    "en": [
+      "Guinea Grains",
+      "Longoza Plant",
+      "Mlelgueta Pepper"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15318259",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15318259",
   "search_names": {
@@ -60,22 +61,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アフラムム・アングスティフォリウム」",
+      "source": "Wikipedia (ja): アフラムム・アングスティフォリウム",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%A9%E3%83%A0%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A6%E3%83%A0",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110379266,
       "text": "アフラムム・アングスティフォリウム は、ショウガ科アフラモムム属に分類される植物。中部アフリカから南部アフリカ、マダガスカル島の、サバナ気候分布地域に分布している。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Aframomum angustifolium」",
+      "source": "Wikipedia (en): Aframomum angustifolium",
       "source_url": "https://en.wikipedia.org/wiki/Aframomum_angustifolium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1322354390,
       "text": "Aframomum angustifolium, known as longoza is a species in the ginger family Zingiberaceae that grows in tropical Africa and in Madagascar."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cardamome de Madagascar",
+      "source_url": "https://fr.wikipedia.org/wiki/Cardamome_de_Madagascar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223214520,
+      "text": "La Cardamome de Madagascar ou longoza, est une espèce de plantes à fleurs de la famille des Zingibéracées. Cette plante herbacée est largement répartie en Afrique tropicale, ainsi qu'à Madagascar et aux Mascareignes. Les graines et les fruits servent d'épice aux utilisations culinaires et médicinales multiples."
     }
   },
   "edible": {
@@ -89,7 +99,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -127,7 +137,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/871829-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -135,7 +145,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/871829-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000338040.webp",
@@ -148,6 +158,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 256,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

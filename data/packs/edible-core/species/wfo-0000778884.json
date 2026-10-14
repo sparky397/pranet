@@ -15,18 +15,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ソーセージノキ"
     ],
-    "en": [
-      "sausage tree"
-    ],
-    "zh": [
-      "吊瓜树",
-      "吊灯树"
+    "fr": [
+      "Arbre à saucisses"
     ],
     "hu": [
       "kolbászfa"
@@ -49,9 +45,6 @@
     "fi": [
       "makkarapuu"
     ],
-    "fr": [
-      "Arbre à saucisses"
-    ],
     "he": [
       "קיגליה אפריקנית"
     ],
@@ -66,6 +59,10 @@
     ],
     "sw": [
       "Mvungunya"
+    ],
+    "zh": [
+      "吊灯树",
+      "吊瓜树"
     ],
     "eo": [
       "Kolbasarbo"
@@ -132,33 +129,63 @@
     ],
     "id": [
       "Pohon Sosis"
+    ],
+    "en": [
+      "sausage tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q522883",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q522883",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ソーセージノキ」",
+      "source": "Wikipedia (ja): ソーセージノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B8%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109596513,
       "text": "ソーセージノキ は、ノウゼンカズラ科に分類される樹木である。1属1種。エチオピア区の広範囲に分布し、エリトリア、チャド南部から南アフリカ北部、西はセネガルにまで及ぶ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Kigelia」",
+      "source": "Wikipedia (en): Kigelia",
       "source_url": "https://en.wikipedia.org/wiki/Kigelia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370014533,
       "text": "Kigelia is a genus of flowering plants in the trumpet vine family Bignoniaceae. The genus consists of only one species, Kigelia africana, syn. Kigelia pinnata, which occurs throughout tropical Africa and is cultivated elsewhere in the tropics."
+    },
+    "es": {
+      "source": "Wikipedia (es): Kigelia africana",
+      "source_url": "https://es.wikipedia.org/wiki/Kigelia_africana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172657554,
+      "text": "Kigelia africana (Lam.) Benth. es una especie de árbol de la familia de las bignoniáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Arbre à saucisses",
+      "source_url": "https://fr.wikipedia.org/wiki/Arbre_%C3%A0_saucisses",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235148125,
+      "text": "L’arbre à saucisses ou saucissonnier est une espèce de plantes à fleurs de la famille des Bignoniaceae. C'est un arbre qui est réputé et originaire du Sénégal que l'on trouve en Tanzanie, au Mozambique, en Ouganda, dans les zones humides de l'ouest du Kenya, dans celles de la Zambie et du Zimbabwe ainsi qu'au Botswana et jusqu'au nord de l'Afrique du Sud où les Afrikaners le nomment worsboom. On le retrouve aussi aux Antilles plus précisément à Marie-Galante à la suite de l'importation durant l'esclavage."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Kigelia",
+      "source_url": "https://pt.wikipedia.org/wiki/Kigelia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65730039,
+      "text": "Kigelia é um género botânico pertencente à família Bignoniaceae. Há uma espécie, Kigelia africana."
     }
   },
   "edible": {
@@ -178,7 +205,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -231,7 +258,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/109874-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -239,7 +266,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/109874-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000778884.webp",
@@ -252,6 +279,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 284,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

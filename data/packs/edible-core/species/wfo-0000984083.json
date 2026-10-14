@@ -13,29 +13,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Pracht-Himbeere",
-      "Prachthimbeere"
-    ],
-    "en": [
-      "salmonberry"
-    ],
-    "fi": [
-      "Alaskanvatukka"
-    ],
     "fr": [
       "Ronce remarquable",
       "ronce admirable"
     ],
+    "de": [
+      "Prachthimbeere",
+      "Pracht-Himbeere"
+    ],
+    "fi": [
+      "alaskanvatukka"
+    ],
     "hsb": [
-      "Pyšny ćernjow",
-      "Pyšny ćernjowc"
+      "Pyšny ćernjowc",
+      "Pyšny ćernjow"
     ],
     "nl": [
-      "prachtframboos"
+      "Prachtframboos"
     ],
     "da": [
       "Laksebær"
@@ -81,24 +78,54 @@
     ],
     "ku": [
       "Trîreşik"
+    ],
+    "en": [
+      "salmonberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158361",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158361",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rubus spectabilis」",
+      "source": "Wikipedia (en): Rubus spectabilis",
       "source_url": "https://en.wikipedia.org/wiki/Rubus_spectabilis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378519055,
       "text": "Rubus spectabilis, the salmonberry, is a species of bramble native to the west coast of North America. Its fruit is typically yellow-orange or red, resembling raspberries. The plant grows in the wild, and is not cultivated."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rubus spectabilis",
+      "source_url": "https://es.wikipedia.org/wiki/Rubus_spectabilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175671237,
+      "text": "Rubus spectabilis es una especie de Rubus de la familia Rosaceae autóctono a la costa oeste de América del Norte desde el centro-oeste del estado de Alaska a California, y hacia el interior hasta Idaho. Como muchas otras especies del género Rubus, r. spectabilis da frutos comestibles, típicamente de color amarillo anaranjado o rojo como las frambuesas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ronce remarquable",
+      "source_url": "https://fr.wikipedia.org/wiki/Ronce_remarquable",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222706622,
+      "text": "La ronce remarquable, également nommée ronce admirable ou encore ronce élégante en français québécois, est une espèce de plantes à fleurs de la famille des Rosacées. C'est un arbuste qui fait partie des espèces du genre Rubus originaires de la côte occidentale de l'Amérique du Nord."
+    },
+    "id": {
+      "source": "Wikipedia (id): Rubus spectabilis",
+      "source_url": "https://id.wikipedia.org/wiki/Rubus_spectabilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29580733,
+      "text": "Rubus spectabilis atau dikenal juga dalam bahasa Inggris sebagai salmonberry, merupakan spesies semak kesusur dalam keluarga Rosaceae yang berasal dari pesisir barat Amerika Utara, mulai dari wilayah Alaska bagian tengah hingga California, dan meluas ke pedalaman sampai Idaho. Seperti banyak anggota lain dari genus Rubus, tanaman ini menghasilkan buah yang dapat dimakan, umumnya berwarna kuning-oranye hingga merah, dengan bentuk yang mirip buah lembutung."
     }
   },
   "edible": {
@@ -112,7 +139,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -135,7 +162,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/223579-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -143,7 +170,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/223579-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000984083.webp",
@@ -156,6 +183,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

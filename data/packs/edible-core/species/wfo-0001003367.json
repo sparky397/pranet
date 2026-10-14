@@ -28,49 +28,31 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ボケ (植物)",
-      "クサボケ（草木瓜）",
-      "クサボケ"
-    ],
-    "cy": [
-      "coeden gwins Japan"
-    ],
-    "en": [
-      "Maule's quince",
-      "Japanese flowering-quince"
-    ],
-    "de": [
-      "Japanische Zierquitte"
-    ],
-    "et": [
-      "Jaapani ebaküdoonia"
-    ],
-    "eu": [
-      "Irasagar japoniarra"
+      "クサボケ",
+      "クサボケ（草木瓜）"
     ],
     "fr": [
       "Cognassier du Japon"
     ],
-    "cs": [
-      "kdoulovec japonský"
+    "pl": [
+      "Pigwowiec japoński"
     ],
     "fi": [
       "japaninruusukvitteni"
     ],
-    "zh": [
-      "日本木瓜",
-      "和木瓜",
-      "日本海棠"
-    ],
-    "pl": [
-      "Pigwowiec japoński"
-    ],
     "hu": [
       "valódi japánbirs"
+    ],
+    "et": [
+      "jaapani ebaküdoonia"
+    ],
+    "de": [
+      "Japanische Zierquitte"
     ],
     "nn": [
       "Eldkvede"
@@ -93,6 +75,11 @@
     "be": [
       "Айва японская"
     ],
+    "zh": [
+      "日本木瓜",
+      "和木瓜",
+      "日本海棠"
+    ],
     "ru": [
       "Айва японская"
     ],
@@ -104,6 +91,9 @@
     ],
     "sv": [
       "Liten rosenkvitten"
+    ],
+    "cy": [
+      "Coeden gwins Japan"
     ],
     "hy": [
       "խենոմելես ճապոնական"
@@ -126,6 +116,9 @@
     "uk": [
       "японська айва звичайна"
     ],
+    "cs": [
+      "kdoulovec japonský"
+    ],
     "sl": [
       "Japonska kutina"
     ],
@@ -134,13 +127,20 @@
     ],
     "ar": [
       "سفرجل ياباني"
+    ],
+    "en": [
+      "Maule's quince",
+      "Japanese flowering-quince"
+    ],
+    "eu": [
+      "Irasagar japoniarra"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158037",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158037",
   "search_names": {
@@ -150,22 +150,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ボケ (植物)」",
+      "source": "Wikipedia (ja): ボケ (植物)",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B1_(%E6%A4%8D%E7%89%A9)",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110968372,
       "text": "ボケ は、バラ科ボケ属の落葉低木。日本に自生するボケは、クサボケといわれる同属の植物。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Chaenomeles japonica」",
+      "source": "Wikipedia (en): Chaenomeles japonica",
       "source_url": "https://en.wikipedia.org/wiki/Chaenomeles_japonica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360672478,
       "text": "Chaenomeles japonica, called the Japanese quince, Maule's quince, or \"Japonica\", is a species of flowering quince that is native to Japan."
+    },
+    "es": {
+      "source": "Wikipedia (es): Chaenomeles japonica",
+      "source_url": "https://es.wikipedia.org/wiki/Chaenomeles_japonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175263583,
+      "text": "Chaenomeles japonica es una especie de plantas del género Chaenomeles, familia de las rosáceas. Es nativa del este asiático."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cognassier du Japon",
+      "source_url": "https://fr.wikipedia.org/wiki/Cognassier_du_Japon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237892111,
+      "text": "Le Cognassier du Japon est une espèce de plantes à fleurs de la famille des Rosacées. C'est un arbuste croissant à l'état sauvage au Japon."
     }
   },
   "edible": {
@@ -178,7 +196,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -214,7 +232,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77105966-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -222,7 +240,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77105966-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001003367.webp",
@@ -235,6 +253,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

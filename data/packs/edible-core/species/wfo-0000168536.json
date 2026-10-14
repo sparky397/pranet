@@ -12,25 +12,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アカミノキ"
     ],
-    "en": [
-      "bloodwoodtree",
-      "logwood"
-    ],
-    "zh": [
-      "墨水樹",
-      "采木"
-    ],
-    "sl": [
-      "višnjeva pražilka"
-    ],
     "fr": [
+      "Campêche (arbre)",
       "campêche"
+    ],
+    "pt": [
+      "Hematoxylon campechianum"
     ],
     "cs": [
       "kampeškové dřevo"
@@ -56,11 +49,12 @@
     "pl": [
       "Modrzejec kampechiański"
     ],
-    "pt": [
-      "Hematoxylon campechianum"
-    ],
     "ru": [
       "Кампешевое дерево"
+    ],
+    "zh": [
+      "墨水樹",
+      "采木"
     ],
     "nb": [
       "Blåtre"
@@ -85,13 +79,20 @@
     ],
     "hu": [
       "kékfa (festőnövény)"
+    ],
+    "sl": [
+      "višnjeva pražilka"
+    ],
+    "en": [
+      "bloodwoodtree",
+      "logwood"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q376320",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q376320",
   "search_names": {
@@ -109,22 +110,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アカミノキ」",
+      "source": "Wikipedia (ja): アカミノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%9F%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 94661825,
       "text": "アカミノキ は、マメ科ジャケツイバラ亜科の落葉低木である。属名のHaematoxylumはギリシャ語で「血の木」という意味を持つ。別名としてロッグウッド やカンペシアボク、ブラッドウッド と呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Haematoxylum campechianum」",
+      "source": "Wikipedia (en): Haematoxylum campechianum",
       "source_url": "https://en.wikipedia.org/wiki/Haematoxylum_campechianum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1340862868,
       "text": "Haematoxylum campechianum is a species of flowering tree in the legume family, Fabaceae, that is native to southern Mexico, and introduced to the Caribbean, northern Central America, and other localities around the world."
+    },
+    "es": {
+      "source": "Wikipedia (es): Haematoxylum campechianum",
+      "source_url": "https://es.wikipedia.org/wiki/Haematoxylum_campechianum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175154480,
+      "text": "El palo de Campeche, o palo de tinte, es un árbol de la familia de las leguminosas. Es nativo de Mesoamérica, particularmente de la península de Yucatán y en especial del estado de Campeche. De él se obtiene el colorante hematoxilina. El nombre proviene del griego, que podría leerse como \"madera que sangra\". Aparte de para extraer el colorante, su madera se usa para leña y para postes. Las hojas y ramas sirven como forraje. Las flores producen miel. Debido a sus flores atractivas se le utiliza como ornato alrededor de las casas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Campêche (arbre)",
+      "source_url": "https://fr.wikipedia.org/wiki/Camp%C3%AAche_(arbre)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232953339,
+      "text": "Le campêche ou « bois de Campêche », en anglais \"bloodwoodtree\" ou \"Logwood\", est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un petit arbre tropical pouvant atteindre 15 mètres de haut. L'espèce est commune au Mexique, en Amérique centrale et aux Antilles."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Hematoxylon campechianum",
+      "source_url": "https://pt.wikipedia.org/wiki/Hematoxylon_campechianum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68347289,
+      "text": "O campeche ou pau-de-campeche é uma árvore espontânea da América Central."
+    },
+    "id": {
+      "source": "Wikipedia (id): Haematoxylum campechianum",
+      "source_url": "https://id.wikipedia.org/wiki/Haematoxylum_campechianum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29399397,
+      "text": "Haematoxylum campechianum atau juga dikenal dengan sebutan logwood, campeachy wood, blackwood, atau blood wood tree merupakan tumbuhan berbentuk perdu atau pohon dari famili Fabaceae. Tumbuhan ini berasal dari bioma beriklim tropis kering, dengan rentang sebaran mulai dari Meksiko selatan hingga Honduras. Nama ilmiah Haematoxylum campechianum pertama kali dipublikasikan oleh botanis Carolus Linnaeus dalam Species Plantarum tahun 1753. H. campechianum digunakan sebagai obat-obatan dan makanan invertebrata, memiliki manfaat bagi lingkungan, serta sebagai bahan bakar dan makanan."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Campêche (arbre) § Horticulture",
+        "source_url": "https://fr.wikipedia.org/wiki/Camp%C3%AAche_(arbre)#Horticulture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 232953339,
+        "heading": "Horticulture",
+        "text": "Cet arbre épineux lorsqu'il est planté en alignement serré fournit de belles haies impénétrables et délicieusement odorantes au moment de la floraison.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -140,7 +192,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -195,7 +247,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316401-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -203,7 +255,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316401-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000168536.webp",
@@ -216,6 +268,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

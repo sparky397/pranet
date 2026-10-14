@@ -10,41 +10,59 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Elephant’s trunk",
-      "Cobas tree",
-      "Elephant's Trunk"
-    ],
-    "zh": [
-      "光堂",
-      "皱叶狼牙棒"
-    ],
     "af": [
       "Halfmens"
     ],
     "he": [
       "עב-גזע הרדופי"
+    ],
+    "zh": [
+      "皱叶狼牙棒",
+      "光堂"
+    ],
+    "en": [
+      "Elephant’s trunk",
+      "Cobas tree",
+      "Elephant's Trunk"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q149354",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q149354",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pachypodium namaquanum」",
+      "source": "Wikipedia (en): Pachypodium namaquanum",
       "source_url": "https://en.wikipedia.org/wiki/Pachypodium_namaquanum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1367011844,
       "text": "Pachypodium namaquanum, also known as halfmens or elephant's trunk, is a Southern African succulent plant in the Dogbane family (Apocynaceae). The genus name Pachypodium is from the Greek for 'thick foot', an allusion to its swollen base, while the species name namaquanum is a reference to Namaqualand."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pachypodium namaquanum",
+      "source_url": "https://es.wikipedia.org/wiki/Pachypodium_namaquanum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175181185,
+      "text": "Pachypodium namaquanum, también conocido como halfmens o trompa de elefante, es una planta suculenta perteneciente al género Pachypodium, dentro de la familia Apocynaceae. Se distribuye desde el sur de Namibia hasta el noroeste de la Provincia del Cabo (Sudáfrica)."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pachypodium namaquanum",
+      "source_url": "https://fr.wikipedia.org/wiki/Pachypodium_namaquanum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 221341010,
+      "text": "Pachypodium namaquanum est une espèce de plantes à fleurs du genre Pachypodium et de la famille des Apocynaceae."
     }
   },
   "edible": {
@@ -57,7 +75,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -68,7 +86,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/80709-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "caudex pachycaul shrub",
@@ -76,7 +94,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/80709-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000262078.webp",
@@ -89,6 +107,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 303,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

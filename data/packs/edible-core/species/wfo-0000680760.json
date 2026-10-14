@@ -11,9 +11,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "sv": [
+      "Chiotillakaktus"
+    ],
     "de": [
       "Chiotilla"
     ],
@@ -24,9 +27,6 @@
     "es": [
       "Chiotillo"
     ],
-    "sv": [
-      "Chiotillakaktus"
-    ],
     "zh": [
       "白焰柱"
     ]
@@ -35,18 +35,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q135059",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q135059",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Escontria」",
+      "source": "Wikipedia (en): Escontria",
       "source_url": "https://en.wikipedia.org/wiki/Escontria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1339590082,
       "text": "Escontria is a genus of cactus. The only species is Escontria chiotilla, the chiotilla or jiotilla."
+    },
+    "es": {
+      "source": "Wikipedia (es): Escontria chiotilla",
+      "source_url": "https://es.wikipedia.org/wiki/Escontria_chiotilla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174475045,
+      "text": "Escontria chiotilla, conocida comúnmente como chiotilla o jiotilla, es una especie de planta suculenta perteneciente a la familia Cactaceae y único miembro del género monotípico Escontria. Es endémica del sur de México, específicamente de los estados de Puebla, Michoacán, Oaxaca y Guerrero."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Escontria chiotilla",
+      "source_url": "https://fr.wikipedia.org/wiki/Escontria_chiotilla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216905144,
+      "text": "Escontria chiotilla est une espèce de plantes à fleurs de la famille des Cactaceae. C'est la seule espèce du genre Escontria."
     }
   },
   "edible": {
@@ -61,7 +79,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -72,7 +90,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/97551-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent shrub",
@@ -80,7 +98,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/97551-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000680760.webp",
@@ -93,6 +111,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

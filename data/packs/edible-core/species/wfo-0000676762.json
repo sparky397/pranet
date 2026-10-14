@@ -17,17 +17,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "山丹",
-      "百合",
-      "山丹（细叶百合）",
-      "细叶百合",
-      "百合花",
-      "百合子"
-    ],
     "vi": [
       "Bách hợp"
     ],
@@ -36,6 +28,14 @@
     ],
     "ar": [
       "زنبق قزم"
+    ],
+    "zh": [
+      "山丹",
+      "百合",
+      "山丹（细叶百合）",
+      "细叶百合",
+      "百合花",
+      "百合子"
     ],
     "uk": [
       "Лілія карликова"
@@ -60,18 +60,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311806",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311806",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Lilium pumilum」",
+      "source": "Wikipedia (en): Lilium pumilum",
       "source_url": "https://en.wikipedia.org/wiki/Lilium_pumilum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1326468087,
       "text": "Lilium pumilum is an Asian species of bulbous plants native to Mongolia, Siberia, the Russian Far East, Korea and northern China."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lilium pumilum",
+      "source_url": "https://fr.wikipedia.org/wiki/Lilium_pumilum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237307981,
+      "text": "Lilium pumilum est une espèce asiatique de plantes bulbeuse vivace de la famille des Liliaceae originaire de Mongolie, de Sibérie, de l'Extrême-Orient russe, de Corée et du nord de la Chine."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lilium pumilum",
+      "source_url": "https://pt.wikipedia.org/wiki/Lilium_pumilum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68465613,
+      "text": "Lilium pumilum é uma espécie de planta com flor, pertencente à família Liliaceae."
     }
   },
   "edible": {
@@ -83,7 +101,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -106,7 +124,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/323396-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -114,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/323396-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000676762.webp",
@@ -127,6 +145,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 278,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -16,29 +16,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "graban dwyasgellog"
-    ],
-    "en": [
-      "Spanish needles"
-    ],
-    "af": [
-      "Spaanse knapsekêrel"
-    ],
     "zh": [
-      "鬼針",
       "婆婆针",
+      "鬼針",
       "鬼针草",
       "刺针草"
     ],
-    "sl": [
-      "dvojnopernati mrkač"
-    ],
     "ko": [
       "도깨비바늘"
+    ],
+    "cy": [
+      "Graban dwyasgellog"
     ],
     "et": [
       "sulgruse"
@@ -51,24 +42,42 @@
     ],
     "az": [
       "İkiqat lələkyarpaq yatıqqanqal"
+    ],
+    "sl": [
+      "dvojnopernati mrkač"
+    ],
+    "en": [
+      "Spanish needles"
+    ],
+    "af": [
+      "Spaanse knapsekêrel"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15251279",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15251279",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Bidens bipinnata」",
+      "source": "Wikipedia (en): Bidens bipinnata",
       "source_url": "https://en.wikipedia.org/wiki/Bidens_bipinnata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306194568,
       "text": "Bidens bipinnata is a common and widespread species of flowering plant in the family Asteraceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bidens bipinnata",
+      "source_url": "https://fr.wikipedia.org/wiki/Bidens_bipinnata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230466925,
+      "text": "Le Bident bipenné, Bidens bipinnata, est une espèce de plantes à fleurs de la famille des Asteraceae originaire d'Amérique du Nord."
     }
   },
   "edible": {
@@ -85,7 +94,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -200,7 +209,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/184769-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -208,7 +217,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/184769-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000028784.webp",
@@ -221,6 +230,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

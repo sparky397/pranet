@@ -8,17 +8,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Arizona walnut",
-      "Black Walnut"
-    ],
-    "zh": [
-      "大胡桃",
-      "大果胡桃"
-    ],
     "ar": [
       "جوز كبير"
     ],
@@ -36,24 +28,41 @@
     ],
     "sl": [
       "arizonski oreh"
+    ],
+    "zh": [
+      "大果胡桃",
+      "大胡桃"
+    ],
+    "en": [
+      "Arizona walnut",
+      "Black Walnut"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1711441",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1711441",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Juglans major」",
+      "source": "Wikipedia (en): Juglans major",
       "source_url": "https://en.wikipedia.org/wiki/Juglans_major",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369486506,
       "text": "Juglans major, also known as Arizona walnut, is a walnut tree which grows to 50 ft tall (15 m) with a DBH of up to 0.61 metres (2 ft) at elevations of 300–2,130 m (1,000–7,000 ft) in Texas, Oklahoma, New Mexico, Arizona, and Utah. It also occurs in Mexico as far south as Guerrero. Common names include Arizona black walnut, and the Spanish name nogal cimarrón."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Juglans major",
+      "source_url": "https://fr.wikipedia.org/wiki/Juglans_major",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173362400,
+      "text": "Le Noyer noir d'Arizona est une espèce de noyer originaire du Mexique et du sud-ouest des États-Unis."
     }
   },
   "edible": {
@@ -69,7 +78,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -90,7 +99,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/131762-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -98,7 +107,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/131762-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001067436.webp",
@@ -111,6 +120,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 329,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

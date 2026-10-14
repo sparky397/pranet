@@ -14,7 +14,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -24,37 +24,21 @@
       "Radish",
       "cultivated radish"
     ],
-    "cy": [
-      "rhuddygl y gerddi"
+    "fr": [
+      "Radis",
+      "radis"
     ],
-    "nl": [
-      "Radijs"
+    "pt": [
+      "Rabanete"
     ],
-    "cs": [
-      "ředkev setá"
-    ],
-    "fi": [
-      "ruokaretikka",
-      "retiisi"
-    ],
-    "zh": [
-      "萝卜",
-      "枯萝卜",
-      "莱菔缨",
-      "蓝花子",
-      "莱菔子",
-      "莱菔",
-      "红萝卜",
-      "白萝卜",
-      "地骷髅",
-      "莱菔叶"
-    ],
-    "sl": [
-      "vrtna redkev",
-      "redkvica"
+    "id": [
+      "Lobak"
     ],
     "de": [
       "Garten-Rettich"
+    ],
+    "cs": [
+      "ředkev setá"
     ],
     "es": [
       "rábano"
@@ -64,6 +48,9 @@
     ],
     "myv": [
       "Ведема кшумань"
+    ],
+    "nl": [
+      "radijs"
     ],
     "pl": [
       "rzodkiew zwyczajna"
@@ -128,8 +115,9 @@
     "fa": [
       "ترب"
     ],
-    "fr": [
-      "radis"
+    "fi": [
+      "retiisi",
+      "ruokaretikka"
     ],
     "gl": [
       "ravo"
@@ -148,9 +136,6 @@
     ],
     "hu": [
       "retek"
-    ],
-    "id": [
-      "Lobak"
     ],
     "is": [
       "Hreðka"
@@ -203,9 +188,6 @@
     "ps": [
       "مولۍ"
     ],
-    "pt": [
-      "Rabanete"
-    ],
     "qu": [
       "Rawanushcu"
     ],
@@ -220,6 +202,10 @@
     ],
     "sco": [
       "Reefort"
+    ],
+    "sl": [
+      "vrtna redkev",
+      "redkvica"
     ],
     "sr": [
       "ротквица"
@@ -256,6 +242,18 @@
     ],
     "yi": [
       "רעטעך"
+    ],
+    "zh": [
+      "萝卜",
+      "枯萝卜",
+      "莱菔缨",
+      "蓝花子",
+      "莱菔子",
+      "莱菔",
+      "红萝卜",
+      "白萝卜",
+      "地骷髅",
+      "莱菔叶"
     ],
     "bar": [
       "Radi"
@@ -319,6 +317,9 @@
     ],
     "bho": [
       "मुरई"
+    ],
+    "cy": [
+      "Rhuddygl y gerddi"
     ],
     "pam": [
       "Labanus"
@@ -421,7 +422,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q7224565",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q7224565",
   "search_names": {
@@ -435,47 +436,105 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ダイコン」",
+      "source": "Wikipedia (ja): ダイコン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%B3%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109414766,
       "text": "ダイコン は、アブラナ科ダイコン属の越年草で、野菜として広く栽培される。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Radish」",
+      "source": "Wikipedia (en): Radish",
       "source_url": "https://en.wikipedia.org/wiki/Radish",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375183622,
       "text": "The radish is a flowering plant in the mustard family, Brassicaceae. Its large taproot is commonly used as a root vegetable, although the entire plant is edible and its leaves are sometimes used as a leaf vegetable. Domesticated in Asia, radishes are grown and consumed globally. The radish is sometimes considered to form a species complex with the wild radish and instead treated as the subspecies Raphanus raphanistrum subsp. sativus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Raphanus sativus",
+      "source_url": "https://es.wikipedia.org/wiki/Raphanus_sativus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175640647,
+      "text": "Raphanus sativus, el rábano, es una especie de la familia Brassicaceae que se cultiva por sus raíces comestibles. Otro uso del rábano es como cobertura o cultivo intermedio en invierno, o como cultivo de forraje."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Radis",
+      "source_url": "https://fr.wikipedia.org/wiki/Radis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235708933,
+      "text": "Le radis cultivé, Raphanus sativus, « racine, raifort », est une espèce de plantes potagères, annuelle ou bisannuelle, de la famille des Brassicacées, principalement cultivée pour son hypocotyle charnu, souvent consommé cru, comme légume."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Rabanete",
+      "source_url": "https://pt.wikipedia.org/wiki/Rabanete",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70230528,
+      "text": "O rabanete é uma hortaliça cultivada na Europa desde a Antiguidade, hoje é consumida no mundo todo por seu sabor adocicado, refrescante e picante. Ele pertence à família Brassicaceae, a mesma da couve, do nabo, da mostarda e do agrião. Inúmeras variedades de rabanete estão disponíveis, selecionadas principalmente por suas características e por época de plantio. Assim, há variedades próprias para plantar no verão, primavera, inverno ou outono. Da mesma forma, há grande variação no tamanho, na forma e nas cores das raízes, que na maioria das vezes são alongadas ou esféricas e de cor branca ou vermelha, incluindo mesclas. Há também variedades próprias para a produção de sementes, que podem ser utilizadas como tempero ou na extração de óleo."
+    },
+    "id": {
+      "source": "Wikipedia (id): Lobak",
+      "source_url": "https://id.wikipedia.org/wiki/Lobak",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30045566,
+      "text": "Lobak adalah tumbuhan yang masuk ke dalam famili Brassicaceae. Bentuk umbi lobak seperti wortel, tetapi isi dan kulitnya berwarna putih. Tanaman lobak berasal dari Tiongkok, dan telah banyak diusahakan di Indonesia. Tanaman yang mudah ditanam baik di dataran rendah maupun pegunungan."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ダイコン」の節「栽培」",
+        "source": "Wikipedia (ja): ダイコン § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%B3%E3%83%B3#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109414766,
         "heading": "栽培",
         "text": "栽培時期は、晩冬に種をまき、春に収穫する「春どり」、春に種まきして初夏に収穫する「初夏どり」（春まき）、初秋に種まきして晩秋から冬のあいだに収穫する「秋どり」（秋まき）の作型がある。秋まきのほうがとうが立ちにくく作りやすい。栽培適温は15 - 25℃とされ、連作することができる。移植を嫌うことから植え替えはできないため、畑に直接種をまいて、間引きながら育てる。畑となる土壌に石などが混じっていると根がまっすぐに伸びないため、深く耕して石を取り除いておくことが重要になる。栽培はやさしい方であるが、輪作年限は2 - 3年とされる。\n畑を耕したら畝幅70センチメートル (cm) 、高さ15 cmぐらいの平畝をたてる。播種する前の畑が痩せている場合、堆肥をすき込むが、それ以外は元肥は施さないでおく。播種は、畝の中央にまき溝を作り1カ所に5粒ずつ種をまき、覆土したら鍬で鎮圧する。発芽したら2回に分けて間引きを行い、土寄せを行いつつ追肥も3 - 4回に分けて行う。1回目の間引きでは葉の形がよいものを残し、2回目の間引きでは葉の勢いがあるほうを抜くようにするとよい。特に2回目の間引きのころは、まっすぐに根が伸びていないダイコンのほうが葉の勢いがよくなるためであり、結果的に形のよいダイコンを畑に残すことになる。また間引いた葉は、葉ダイコンとして青菜と同様に食べることができる。根茎が生長して太ってきたら土から首の部分が出てきて収穫期を迎え、首の太さをみて、首の部分を持って抜き取っるように収穫する。品種にもよるが、収穫が遅れると鬆（す）が入ったり、根茎の表面に亀裂が入る場合もある。根茎の内部がスカスカになる鬆入り（すいり）現象は栽培条件と品種が大きく影響している。根茎の急激な肥大に対し細胞の増殖が追従できないと生じ易いと報告されている。\nダイコンは、春どり、初夏どりよりも秋どり（秋まき）のほうが防虫害が少ないので作りやすい。しかし、秋どりでも残暑が厳しかったり、蒔き時期が早く気温が高い条件のままだと、ダイコンサルハムシ（成虫）、キスジノミハムシ（幼虫）、カブラハバチ（幼虫）の食害を受けることがある。アブラナ科のダイコンは、コンパニオンプランツとしてセリ科のニンジンやキク科のレタスなどと混植すると、害虫を寄せ付けにくくする効果がある。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Radish」の節「Cultivation」",
+        "source": "Wikipedia (en): Radish § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Radish#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375183622,
         "heading": "Cultivation",
         "text": "Radishes are a fast-growing, annual, cool-season crop. The seed germinates in three to four days in moist conditions with soil temperatures between 18 and 29 °C (65 and 85 °F). Best quality roots are obtained under moderate day lengths with air temperatures in the range 10 to 18 °C (50 to 65 °F). Under average conditions, the crop matures in 3–4 weeks, but in colder weather, 6–7 weeks may be required. Homegrown varieties can be significantly sharper. \nRadishes grow best in full sun in light, sandy loams, with a soil pH 6.5 to 7.0, but for late-season crops, a clayey-loam is ideal. Soils that bake dry and form a crust in dry weather are unsuitable and can impair germination.  Harvesting periods can be extended by making repeat plantings, spaced a week or two apart. In warmer climates, radishes are normally planted in the autumn. The depth at which seeds are planted affects the size of the root, from 1 cm (1⁄2 in) deep recommended for small radishes to 4 cm (1+1⁄2 in) for large radishes. During the growing period, the crop needs to be thinned and weeds controlled, and irrigation may be required.\n\nRadishes are a common garden crop in many parts of the world, and the fast harvest cycle makes them particularly suitable for children's gardens. After harvesting, radishes can be stored without loss of quality for two or three days at room temperature, and about two months at 0 °C (32 °F) with a relative humidity of 90–95%.\n\n■ Companion plant\nRadishes can be useful as companion plants for many other crops, probably because their pungent odour deters such insect pests as aphids, cucumber beetles, tomato hornworms, squash bugs, and ants. They can also function as a trap crop, luring insect pests away from the main crop.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Raphanus sativus § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Raphanus_sativus#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175640647,
+        "heading": "Cultivo",
+        "text": "Los rábanos son un cultivo anual de estación fría, de rápido crecimiento. La semilla germina en tres o cuatro días en condiciones húmedas con temperaturas del suelo entre 18 y 29 °C (65 y 85 °F). Las raíces de mejor calidad se obtienen con días de duración moderada y temperaturas del aire en el rango de 10 a 18 °C (50 a 65 °F). En condiciones normales, la cosecha madura en 3 a 4 semanas, pero en climas más fríos pueden ser necesarias entre 6 y 7 semanas.​ Las variedades de cosecha propia pueden ser mucho más tempranas.\nLos rábanos crecen mejor a pleno sol en suelos franco arenosos y ligeros, con un pH de suelo de 6,5 a 7,0, pero para cultivos tardíos, un suelo franco arcilloso es ideal. Los suelos que se secan y forman una costra en clima seco no son adecuados y pueden afectar la germinación.​​​ Los períodos de cosecha se pueden extender repitiendo las plantaciones con una o dos semanas de diferencia.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Radis § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Radis#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 235708933,
+        "heading": "Culture",
+        "text": "Les semences de radis germent rapidement, généralement en trois à sept jours. Ils arrivent à maturité en trois à quatre semaines.\n\nLes radis d'été sont semés dans un loam ou un sol sableux, par semis direct, dès que le sol est travaillable et à toutes les deux semaines, tandis que les radis d'hiver sont semés en été pour une récolte d'automne.\n\n■ Cultivars\n\nLes différentes variétés de radis cultivées en Europe peuvent être classées en deux grands types : \n\nles radis de tous les mois qui se distinguent selon leurs formes (ronds ou 1/2 longs), leurs couleurs (unicolores, bicolores, rouges, violets, etc.) et selon leur type « hybride » ou « non hybride ».\nles radis raves qui sont de forme longue et se distinguent selon leurs couleurs (blancs, noirs, roses, violets, jaunes, etc.) et selon leur type « hybride » ou « non hybride ».\nParmi les nombreuses variétés on peut citer :\n\nde tous les mois non hybrides : A forcer rond écarlate, Cerise, De dix huit jours, Fakir, Flambo, Flamboyant, Gaudry 2, Lavergne, Mirabeau, Rond écarlate, Shahri, etc.\nde tous les mois hybrides : Apache, Artus, Bacchus, Clipo, Expo, Fluo, Kocto, Saveur, etc.\nrave non hybride : Noir gros long d'hiver de Paris, Noir gros rond d'hiver, Noir long maraicher, Blanche transparente, Rose d'hiver de Chine, Violet de Gournay, etc.\nrave hybride : Structurator.\nDe nouvelles variétés ont été améliorées pour des résistances aux maladies telles que Albugo, Fusarium, Peronospora.\nTrois variétés sont inscrites sur la liste « sans valeur intrinsèque » :\n\nrave non hybride : Blauer Herbst und winter, Rave jaune d'or ovale, Serpent Rattail.",
+        "truncated": false
       }
     }
   },
@@ -672,7 +731,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77159305-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -680,7 +739,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77159305-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000402430.webp",
@@ -693,6 +752,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

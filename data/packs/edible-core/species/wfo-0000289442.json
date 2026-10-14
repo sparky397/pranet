@@ -12,36 +12,63 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Coast Live Oak",
-      "California live oak"
-    ],
     "fa": [
       "بلوط زنده کالیفرنیا"
     ],
     "zh": [
       "禾叶栎"
+    ],
+    "en": [
+      "Coast Live Oak",
+      "California live oak"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q514052",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q514052",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Quercus agrifolia」",
+      "source": "Wikipedia (en): Quercus agrifolia",
       "source_url": "https://en.wikipedia.org/wiki/Quercus_agrifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377529978,
       "text": "Quercus agrifolia, the coast live oak or California live oak, is a live oak native to the California Floristic Province. Live oaks are so-called because they keep living leaves on the tree all year, adding young leaves and shedding dead leaves simultaneously rather than dropping dead leaves en masse in the autumn like a true deciduous tree. The coast live oak may be shrubby, depending on age and growing location, but is generally a medium-sized tree. It grows west of the Sierra Nevada mountain range from Mendocino County, California, south to northern Baja California in Mexico. It is classified in the red oak section of oaks, subsection Agrifoliae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Quercus agrifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Quercus_agrifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 159861904,
+      "text": "Quercus agrifolia, la encina de California o encino de la costa, es un roble perennifolio, muy variable y siempre verde, nativo en el reino floral de California. Crece en el poniente de la Sierra Nevada del condado de Mendocino, California, Estados Unidos a Baja California, México. Está clasificado en la sección roble rojo. Esta especie es comúnmente simpátrica con el encino de las barrancas y por ello es difícil distinguir las dos especies por sus hojas espinosas, que poseen una similitud superficial."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Quercus agrifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Quercus_agrifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207138238,
+      "text": "Le Chêne de Californie est un chêne à feuillage persistant que l'on peut trouver dans les régions côtières de Californie du comté de Mendocino jusqu'au nord de la Basse-Californie au Mexique. Il est classé dans la section des chênes rouges (Quercus section Lobatae)."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Quercus agrifolia",
+      "source_url": "https://pt.wikipedia.org/wiki/Quercus_agrifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205819,
+      "text": "Quercus agrifolia é uma espécie perenifólia de carvalho nativa da Califórnia. Cresce do oeste da Serra Nevada ao condado de Mendocino, na Califórnia."
     }
   },
   "edible": {
@@ -57,7 +84,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -68,7 +95,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/295759-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -76,7 +103,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/295759-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000289442.webp",
@@ -89,6 +116,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

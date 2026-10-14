@@ -25,7 +25,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -35,31 +35,25 @@
       "Dill",
       "dill"
     ],
-    "cy": [
-      "llysiau‘r gwewyr",
-      "Llysiau`r gwewyr"
+    "fr": [
+      "Aneth",
+      "aneth"
     ],
-    "nl": [
-      "Dille"
+    "pt": [
+      "Endro"
     ],
-    "cs": [
-      "kopr vonný"
-    ],
-    "fi": [
-      "maustetilli",
-      "tilli"
+    "id": [
+      "Adas sowa",
+      "adas sowa"
     ],
     "zh": [
+      "蒔蘿",
       "莳萝",
       "香叶天竹葵",
       "莳萝子",
       "香叶天竺葵",
       "香叶",
-      "莳萝苗",
-      "蒔蘿"
-    ],
-    "sl": [
-      "navadni koper"
+      "莳萝苗"
     ],
     "pl": [
       "koper ogrodowy"
@@ -82,14 +76,14 @@
     "my": [
       "စမြိတ်ပင်"
     ],
+    "nl": [
+      "dille"
+    ],
     "sv": [
       "dill"
     ],
     "ar": [
       "شبت"
-    ],
-    "pt": [
-      "Endro"
     ],
     "eo": [
       "Aneto"
@@ -105,6 +99,10 @@
     ],
     "tr": [
       "Dereotu"
+    ],
+    "fi": [
+      "tilli",
+      "maustetilli"
     ],
     "myv": [
       "Копёр"
@@ -141,9 +139,6 @@
     ],
     "be": [
       "Кроп"
-    ],
-    "fr": [
-      "aneth"
     ],
     "he": [
       "שבת ריחני"
@@ -199,6 +194,12 @@
     "ca": [
       "anet"
     ],
+    "sl": [
+      "navadni koper"
+    ],
+    "cs": [
+      "kopr vonný"
+    ],
     "sgs": [
       "Kraps"
     ],
@@ -247,11 +248,12 @@
     "tyv": [
       "Койнут"
     ],
-    "id": [
-      "adas sowa"
-    ],
     "te": [
       "శత పుష్పం"
+    ],
+    "cy": [
+      "Llysiau`r gwewyr",
+      "llysiau‘r gwewyr"
     ],
     "af": [
       "Dille"
@@ -372,7 +374,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q26686",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q26686",
   "search_names": {
@@ -383,46 +385,93 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「イノンド」",
+      "source": "Wikipedia (ja): イノンド",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8E%E3%83%B3%E3%83%89",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106265000,
       "text": "イノンド は、セリ科イノンド属の一年草または二年草。英語由来のディル の名でもよばれる。伝統的に使われているハーブの一種として知られ、種子や葉を香味料や生薬として用いる。魚料理との相性がよく、マリネやドレッシング、スープなど幅広く料理に利用され、種子は軽い辛みがあり、スパイスやピクルス液などに使われる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Dill」",
+      "source": "Wikipedia (en): Dill",
       "source_url": "https://en.wikipedia.org/wiki/Dill",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373033162,
       "text": "Dill is an annual herb in the celery family Apiaceae. Native to North Africa and West Asia, dill is grown widely in Eurasia, where its leaves and seeds are used as a herb or spice for flavouring food."
+    },
+    "es": {
+      "source": "Wikipedia (es): Anethum graveolens",
+      "source_url": "https://es.wikipedia.org/wiki/Anethum_graveolens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175392039,
+      "text": "Anethum graveolens, de nombre común eneldo o abesón, es una planta herbácea anual perteneciente a la familia de las umbelíferas. Se tiene mención de ella desde la antigüedad. Es oriunda de la región oriental del mar Mediterráneo, donde hoy abunda."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Aneth",
+      "source_url": "https://fr.wikipedia.org/wiki/Aneth",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227215484,
+      "text": "L'aneth, Anethum graveolens, est une espèce de plantes herbacées de la famille des Apiacées (Ombellifères), du genre Anethum."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Endro",
+      "source_url": "https://pt.wikipedia.org/wiki/Endro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73019837,
+      "text": "Anethum graveolens, também conhecido por endro ou aneto, é uma planta anual da família das Apiáceas, originária da região situada entre o Cáucaso e o Crescente Fértil. É a única espécie no género Anethum. Usada tradicionalmente no Médio Oriente e na Europa de Leste, foi introduzida na Escandinávia e na Europa ocidental, principalmente como erva aromática, sendo utilizadas tanto as folhas como as sementes."
+    },
+    "id": {
+      "source": "Wikipedia (id): Adas sowa",
+      "source_url": "https://id.wikipedia.org/wiki/Adas_sowa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28917756,
+      "text": "Adas sowa adalah jenis tumbuhan berbunga dan tumbuhan semusim dari famili Apiaceae. Adas sowa memiliki bunga berwarna kuning serta buah dengan bau yang menyengat, tetapi banyak digunakan untuk bumbu dapur. Di Indonesia, tanaman adas sowa dapat ditemukan di Pulau Jawa."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「イノンド」の節「栽培」",
+        "source": "Wikipedia (ja): イノンド § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8E%E3%83%B3%E3%83%89#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 106265000,
         "heading": "栽培",
         "text": "栽培には熱い夏と高い日射量を必要とし、日光不足になると発育が悪い。日当たりが良く、肥沃で水はけの良い土地を好む。フェンネルとは交雑しやすいため、繁殖用に種子を目的として栽培するものは、質の悪いものができるのを防止するために、互いに近くで栽培するべきではない。\n直根性で移植を嫌う性質があるので、露地やプランター・植木鉢などに直まきする。春先に種をまいて15℃程に保つと、おおよそ5 - 20日後には発芽する。晩春の夜間の気温が7℃よりも下がらなくなってきたら、新しく耕した野外に直播してもよい。発芽後は、生長具合を見て約20 - 30センチメートル (cm) 間隔に間引きを行う。株が大きく育つことから、草丈が20 cm前後に生長したら支柱立てや株元への土寄せを行ない、株が倒れるのを防ぐ。夏場は乾燥しないように注意を要する。耐寒性があるので冬越しも可能だが、霜には注意が必要である。\n収穫期は夏（7月 - 9月中旬）で、高さ30 cmほどになったら、先端15 - 20 cmぐらいの葉を摘み取るか、株ごと刈り取って収穫する。夏に花が咲き、結実したら種子が収穫できる。種を収穫するときは、種が茶色に熟成しはじめたら花頭を茎から切り取り、紙袋に入れてよく乾燥させる。種は濃い色付きビンなどの密閉容器に入れて保存する。種子は3年から10年は生育可能である。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Dill」の節「Cultivation」",
+        "source": "Wikipedia (en): Dill § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Dill#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1373033162,
         "heading": "Cultivation",
         "text": "Successful cultivation requires warm to hot summers with high sunshine levels; even partial shade will reduce the yield substantially. It also prefers rich, well-drained soil. The seed is harvested by cutting the flower heads off the stalks when the seed is beginning to ripen. The seed heads are placed upside down in a paper bag and left in a warm, dry place for a week. The seeds then separate from the stems easily for storage in an airtight container.\nThese plants, like their fennel and parsley relatives, often are eaten by black swallowtail caterpillars in areas where that species occurs. For this reason, they may be included in some butterfly gardens.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Anethum graveolens § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Anethum_graveolens#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175392039,
+        "heading": "Cultivo",
+        "text": "El eneldo no se da bien en climas fríos, secos ni demasiado lluviosos. Aunque puede llegar a vivir en zonas ligeramente frías, prefiere los climas templados-cálidos. Vive en campos incultos y barbechos a bajas altitudes, hasta 500–600 m. Le conviene un lugar soleado, bien drenado. Debe mantenerse el suelo húmedo, especialmente en días secos, pero no encharcado.​ El terreno tiene que haber sido abonado con anterioridad, siendo conveniente que después del abonado haya habido una cosecha. El lugar de siembra debe mantenerse limpio de malezas y la tierra siempre húmeda, pues las plántulas son muy delicadas. Se siembra a partir de primavera, en el lugar donde las plantas van a crecer, en hileras a 25 cm de distancia unas de otras, presionando las semillas contra el suelo con una tabla. La germinación se produce a los 14 o 21 días. Efectúe un aclareo dejando unos 30 cm entre planta y planta. El eneldo tiene un crecimiento rápido y necesita un riego regular. Durante la primavera se darán al menos dos binas (labores ligeras al terreno) y si no llueve, dos o tres riegos. Las escardas pueden evitarse utilizando herbicidas selectivos en el caso de cultivos comerciales. El linuron se aplicará en dosis de 1,5 kg/ha de producto comercial; Prometrina en dosis de 2 kg/ha de producto comercial. La acción de estos herbicidas es sobre todo antigerminadora, por lo que deben echarse, con el suelo húmedo, después de la siembra. Es importante saber que las raíces del eneldo son débiles, y generalmente no soportan los trasplantes. Los cultivos de Eneldo son también propensos al ataque de Alternaria sp, la cual provoca importantes pérdidas económicas en el caso de que la enfermedad se desarrolle con fuerza.",
         "truncated": false
       }
     }
@@ -439,7 +488,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -601,7 +650,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/837530-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -609,7 +658,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/837530-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000536042.webp",
@@ -622,6 +671,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

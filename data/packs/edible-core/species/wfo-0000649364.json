@@ -24,7 +24,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "nl": [
@@ -56,18 +56,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1227092",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1227092",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Diospyros montana」",
+      "source": "Wikipedia (en): Diospyros montana",
       "source_url": "https://en.wikipedia.org/wiki/Diospyros_montana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1217058908,
       "text": "Diospyros montana, the Bombay ebony, is a small deciduous tree in the ebony family up to 15 metres (49 ft) tall, distributed all along the Western Ghats of India, Sri Lanka, Indo-China through to Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Diospyros montana",
+      "source_url": "https://fr.wikipedia.org/wiki/Diospyros_montana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 212601932,
+      "text": "Diospyros montana est une espèce de plante à fleurs de la famille des Ebenaceae originaire des Ghats occidentaux en Inde et du Sri-Lanka."
     }
   },
   "edible": {
@@ -80,7 +89,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -106,7 +115,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/322732-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -114,7 +123,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/322732-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000649364.webp",
@@ -127,6 +136,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 340,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

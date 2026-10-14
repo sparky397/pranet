@@ -13,7 +13,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -24,15 +24,11 @@
       "Soursop",
       "soursop"
     ],
-    "zh": [
-      "刺番荔枝",
-      "刺果番荔枝"
-    ],
     "pt": [
       "Graviola"
     ],
-    "sl": [
-      "trnasta anona"
+    "id": [
+      "Sirsak"
     ],
     "sw": [
       "Mstafeli"
@@ -55,14 +51,15 @@
     "el": [
       "Γουανάμπανα"
     ],
+    "zh": [
+      "刺果番荔枝",
+      "刺番荔枝"
+    ],
     "vi": [
       "Mãng cầu Xiêm"
     ],
     "am": [
       "ግሽጣ"
-    ],
-    "id": [
-      "Sirsak"
     ],
     "ru": [
       "Сметанное яблоко"
@@ -223,6 +220,9 @@
     "mr": [
       "हनुमान फळ"
     ],
+    "sl": [
+      "trnasta anona"
+    ],
     "mwl": [
       "Grabiola"
     ],
@@ -243,7 +243,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1709343",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1709343",
   "search_names": {
@@ -261,46 +261,128 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「トゲバンレイシ」",
+      "source": "Wikipedia (ja): トゲバンレイシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B2%E3%83%90%E3%83%B3%E3%83%AC%E3%82%A4%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109082142,
       "text": "トゲバンレイシ は、バンレイシ科バンレイシ属に属する植物の1種である。英名（soursop）に基づいて、サワーソップやシャシャップ、ササップともよばれる。常緑性の小高木であり、多数の雌しべに由来する集合果は大きく、表面に柔らかいトゲが多数生えている（図1）。この果実は、熱帯域で広く食用とされている。中米から南米北部原産であると考えられているが、熱帯アフリカ、南アジアから東南アジア、オーストラリア、太平洋諸島など世界中の熱帯域で栽培されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Soursop」",
+      "source": "Wikipedia (en): Soursop",
       "source_url": "https://en.wikipedia.org/wiki/Soursop",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369406168,
       "text": "Soursop is the fruit of Annona muricata, a broadleaf, flowering, evergreen tree. It is native to the tropical Americas and is widely propagated. It is in the same genus, Annona, as cherimoya and is in the Annonaceae family."
+    },
+    "es": {
+      "source": "Wikipedia (es): Annona muricata",
+      "source_url": "https://es.wikipedia.org/wiki/Annona_muricata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174459385,
+      "text": "La guanábana, guanábano o graviola es un árbol de la familia Annonaceae. Originario de Centro y Sudamérica, se cultiva por sus frutos comestibles en muchos países de clima tropical."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Annona muricata",
+      "source_url": "https://fr.wikipedia.org/wiki/Annona_muricata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058172,
+      "text": "Annona muricata, le corossolier, est une espèce de plantes à fleurs de la famille des Annonaceae. C'est un petit arbre originaire du nord de l'Amérique du Sud, cultivé dans les régions tropicales pour son fruit comestible, le corossol. Le terme « corossol » est aussi utilisé pour désigner l'arbre."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Graviola",
+      "source_url": "https://pt.wikipedia.org/wiki/Graviola",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68551330,
+      "text": "A gravioleira é uma planta originária das Antilhas, onde se encontra em estado silvestre. É nativa das regiões tropicais das Américas e do Caribe e é amplamente propagada. É do mesmo gênero (Annona) que a cherimoya e os araticuns e está na família Annonaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sirsak",
+      "source_url": "https://id.wikipedia.org/wiki/Sirsak",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29991222,
+      "text": "Sirsak, nangka belanda, atau durian belanda adalah tumbuhan berbunga yang berasal dari Karibia, Amerika Tengah dan Amerika Selatan. Di berbagai daerah Indonesia buahnya dikenal sebagai nangka sabrang, nangka walanda, muris (Jawa), nangka walanda, sirsak (Sunda), nangka buris, nangkèlan, nangka ènglan (Madura), srikaya jawa (Bali), boh lôna (Aceh), durio ulondro (Nias), durian betawi (Minangkabau), durian belanda (Malaysia), nangko belando (Palembang), lampun, serta jambu landa. Penyebutan \"belanda\" dan variasinya, \"jawa\", \"betawi\", serta \"sebrang\" menunjukkan bahwa sirsak adalah buah yang didatangkan dari tempat lain. Pada kenyataannya, sirsak didatangkan oleh pemerintah kolonial Hindia Belanda ke Nusantara pada abad ke-19, meskipun bukan berasal dari Eropa."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「トゲバンレイシ」の節「栽培」",
+        "source": "Wikipedia (ja): トゲバンレイシ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B2%E3%83%90%E3%83%B3%E3%83%AC%E3%82%A4%E3%82%B7#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109082142,
         "heading": "栽培",
         "text": "トゲバンレイシの果実は食用とされており、世界中の熱帯域で広く栽培されている。トゲバンレイシは、人間によって新世界から旧世界へ初めて移入された熱帯作物の1つとされる。果実生産は多くはなく、1本の木あたり1年に1-20個（それぞれ重さは平均1キログラム以上）である。栽培においては、人工授粉することで結実が良好になり、果実の形が整う。\nトゲバンレイシは、種子によって増やす。種子の発芽能はすぐに低下するため（6ヶ月）、果実から収穫した後に早く播種する必要がある。新しい種子であれば、発芽率は85-90%に達する。\n病虫害としては炭疽病（Colletrotrichia）、青枯病（Pseudomonas）、黒斑病（Phytophthora）、白斑病（Cercospora）、果実腐敗（Gliocladium）、さび病（Phakopsora）、コバチ（Bephrata, Bephratelloides）、ガ（Cerconota, Thecla）、カメムシ（Amblypelta）、ミバエ、カイガラムシ、ハダニなどが知られている。\nトゲバンレイシの大きな果実と酸味、チェリモヤの芳香と甘みを組み合わせた品種作出のため両種の交雑が行われているが、トゲバンレイシとチェリモヤ、またはバンレイシやギュウシンリなどとの交雑はいずれも成功していない（2008年現在）。これは、トゲバンレイシが、食用となるバンレイシ属の他種と遺伝的に遠縁であるためだと考えられている。\nインドネシアやフィリピンでは、酸味が強い系統と甘みが強い系統が存在し、後者は種子が少ない。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Soursop」の節「Cultivation」",
+        "source": "Wikipedia (en): Soursop § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Soursop#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369406168,
         "heading": "Cultivation",
         "text": "The plant is grown for its 10–35 cm (3.9–13.8 in) long, prickly, green fruit, which can weigh up to 10 kg (22 lb), making it the largest Annona fruit, though not as large as the related junglesop Anonidium mannii. Away from its native area, some limited production occurs as far north as southern Florida within USDA Zone 10; however, these are mostly garden plantings for local consumption. It is also grown in parts of China and Southeast Asia and is abundant on the Island of Mauritius. The main suppliers of the fruit are Mexico followed by Peru, Brazil, Ecuador, Guatemala, and Haiti. To aid soursop breeders and stimulate further development of genomic resources for this globally important plant family, the complete genome for Annona muricata was sequenced in 2021.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Annona muricata § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Annona_muricata#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237058172,
+        "heading": "Culture",
+        "text": "Le corossolier tolère les sols pauvres mais ne supporte pas les basses températures.\nC'est une espèce allogame à hermaphrodisme successif (dichogamie).\nSes fleurs sont peu attractives pour les pollinisateurs (principalement de petits coléoptères de la famille des Nitidulidae - Carpophilus et Uroporus spp.-, des fourmis et des thrips) et peuvent donc avoir des problèmes de pollinisation.\nPour une bonne pollinisation, l'arbre a besoin d'un bon taux d’humidité relative, de limiter les traitements phytosanitaires pour favoriser les pollinisateurs et éventuellement, d'une pollinisation manuelle en  prélevant le pollen des fleurs lorsqu’elles sont au stade mâle puis en le passant au pinceau sur les fleurs quand elles sont au stade femelle. Cette technique donne des taux de nouaison élevés de l’ordre de 80 à 100 % et permet d’augmenter considérablement les rendements.\nOn peut faire 2 récoltes par an.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Graviola § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Graviola#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 68551330,
+        "heading": "Cultivo",
+        "text": "A planta é cultivada por seus 20  a 30 centímetros  fruto de comprimento, espinhoso, verde, que pode ter uma massa de até 15 libras (6,8 kg),  tornando-o provavelmente o segundo maior annona após o Anonidium mannii. Longe de sua área nativa, alguma produção limitada ocorre tão ao norte quanto o sul da Flórida dentro da Zona 10 do USDA; no entanto, são principalmente plantações de jardim para consumo local. Também é cultivada em partes da China e do Sudeste Asiático e é abundante na Ilha de Maurício. Os principais fornecedores da fruta são o México, seguido do Peru, Brasil, Equador, Guatemala e Haiti.  Para ajudar os criadores de graviola e estimular o desenvolvimento de recursos genômicos para esta família de plantas de importância mundial, o genoma completo de Annona muricata foi sequenciado em 2021.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Annona muricata § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Annona_muricata#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174459385,
+        "heading": "Toxicidad",
+        "text": "Hay estudios que sugieren que algunas formas atípicas de la enfermedad de Parkinson podrían estar desencadenadas por su consumo, ya que al ser la anonacina una neurotoxina, puede causar lesiones en el tejido nervioso​ y abocar a enfermedades neurodegenerativas.​\nEn 2008, la Agence Française de Sécurité Sanitaire des Aliments publicó un informe tras ser preguntada sobre la toxicidad de las semillas. Aunque no pudo concluir una relación obvia entre la anonacina y la prevalencia de enfermedades neurodegenerativas en la población en estudio, recomendó prudencia mientras no se estableciese su seguridad con investigaciones adicionales.​",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Annona muricata § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Annona_muricata#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237058172,
+        "heading": "Toxicité",
+        "text": "Une forte prévalence de syndromes parkinsoniens atypiques dans les Caraïbes a cependant été reliée à la consommation d'infusions de feuilles d'annonacées (Annona muricata et Annona squamosa). Les graines et les feuilles de ces plantes contiennent en effet des acétogénines et des alcaloïdes qui pourraient représenter les composés neurotoxiques impliqués dans ces maladies (Caparros-Lefebvre et coll., 2006)",
         "truncated": false
       }
     }
@@ -322,7 +404,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -404,7 +486,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/14308-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -412,7 +494,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/14308-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000537848.webp",
@@ -425,6 +507,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

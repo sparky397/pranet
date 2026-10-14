@@ -22,7 +22,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -32,25 +32,22 @@
       "Pigeon pea",
       "pigeonpea"
     ],
-    "zh": [
-      "木豆",
-      "木豆根",
-      "木豆叶"
+    "fr": [
+      "Pois d'Angole",
+      "pois d'Angole ( Cajanus cajan)"
     ],
-    "gn": [
-      "kumanda yvyra'i"
+    "pt": [
+      "Guandu"
     ],
-    "sl": [
-      "golobji grah"
+    "id": [
+      "Gude",
+      "Kacang gude"
     ],
     "dv": [
       "މުގު ތޮޅި"
     ],
     "ha": [
       "Waaken Santanbul"
-    ],
-    "fr": [
-      "pois d'Angole ( Cajanus cajan)"
     ],
     "ta": [
       "துவரை"
@@ -60,9 +57,6 @@
     ],
     "et": [
       "Harilik tuvihernes"
-    ],
-    "id": [
-      "Kacang gude"
     ],
     "ny": [
       "Nandalo"
@@ -81,9 +75,6 @@
     ],
     "hi": [
       "अरहर दाल"
-    ],
-    "pt": [
-      "Guandu"
     ],
     "ru": [
       "Голубиный горох"
@@ -108,6 +99,11 @@
     ],
     "vi": [
       "Đậu triều"
+    ],
+    "zh": [
+      "木豆",
+      "木豆根",
+      "木豆叶"
     ],
     "kn": [
       "ತೊಗರಿ ಕಾಳು"
@@ -223,6 +219,9 @@
     "ami": [
       "Fata'an"
     ],
+    "sl": [
+      "golobji grah"
+    ],
     "lv": [
       "cūku zirņi"
     ],
@@ -246,13 +245,16 @@
     ],
     "shn": [
       "တူၼ်ႈထူဝ်ႇႁႄႉ"
+    ],
+    "gn": [
+      "kumanda yvyra'i"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q632559",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q632559",
   "search_names": {
@@ -265,46 +267,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キマメ」",
+      "source": "Wikipedia (ja): キマメ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%9E%E3%83%A1",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106358721,
       "text": "キマメ はマメ亜科に属する多年生植物の一種。3500年前に南アジアで栽培化され、種子は食用穀物としてアジア・アフリカ・ラテンアメリカで利用されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pigeon pea」",
+      "source": "Wikipedia (en): Pigeon pea",
       "source_url": "https://en.wikipedia.org/wiki/Pigeon_pea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376864839,
       "text": "The pigeon pea is a perennial legume from the family Fabaceae native to the Eastern Hemisphere. The pigeon pea is widely cultivated in tropical and semitropical regions around the world, being commonly consumed in the Indian Subcontinent, Southeast Asia, Africa, Latin America and the Caribbean."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cajanus cajan",
+      "source_url": "https://es.wikipedia.org/wiki/Cajanus_cajan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175016584,
+      "text": "El guandú, frijol de palo, frijolillo, frijol chícharo, palo de gandules o quinchoncho es una leguminosa arbustiva de hojas alternadas trifolioladas, similar al guisante. Se discute sobre si su origen es África o India, pero se cultiva desde hace por lo menos 3 mil años. Además, es una semilla muy saludable de ingerir y consumida en países hispanoamericanos como Colombia, Costa Rica, Ecuador, Panamá, Paraguay, Puerto Rico, República Dominicana, Venezuela, entre otros."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pois d'Angole",
+      "source_url": "https://fr.wikipedia.org/wiki/Pois_d'Angole",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237057932,
+      "text": "Le pois d'Angole est une espèce de plantes à fleurs de la famille des Fabaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Guandu",
+      "source_url": "https://pt.wikipedia.org/wiki/Guandu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67679628,
+      "text": "O guandu é uma leguminosa arbustiva da família das fabáceas com folhas alternadas trifolioladas; folíolos largos e ovais (oblonco-elípticos), folíolo terminal peciolado, enquanto que os laterais são sésseis e flores amarelas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Gude",
+      "source_url": "https://id.wikipedia.org/wiki/Gude",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29827746,
+      "text": "Gude, kacang gude, kacang kayo, atau kacang bali adalah sejenis tanaman kacang-kacangan jenis polong-polongan yang bersifat tahunan (perenial). Tumbuhan ini banyak tumbuh di Pulau Jawa dan Bali. Bijinya dapat dimakan dan menjadi sumber pangan alternatif dan dapat diolah menjadi tempe. Tanaman ini relatif tahan panas dan kering sehingga cocok sebagai tanaman penghijauan kawasan kering."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「キマメ」の節「栽培」",
+        "source": "Wikipedia (ja): キマメ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%9E%E3%83%A1#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 106358721,
         "heading": "栽培",
         "text": "現在では、本種は旧大陸、新大陸双方の熱帯から亜熱帯で広く栽培されている。多年生の品種は3-5年にわたって豆を収穫することができるが、最初の2年以降は生産量が落ちる。一年生の品種の方が種子の生産には適している。\n半乾燥地帯の天水農業において重要な豆類で、インド亜大陸、アフリカ東部、中米の順に生産量が多く、この3地域が主な生産地である。他にも25以上の熱帯・亜熱帯諸国において、単独栽培されたり、モロコシ・トウジンビエ・トウモロコシなどの穀物やラッカセイなどの他の豆類と混合栽培される。\nこの作物は、耕作限界地において資源の乏しい農家によって栽培されている。彼らは、伝統的には収穫までに5-11ヶ月かかる在来種を育てていたが、3-4ヶ月で収穫できる本種は、近年行われている年に複数回の作付けに適している。伝統的な農業では肥料・草刈り・灌漑・殺虫剤などの利用が最低限であったため、面積あたりの収量は平均で700 kg/ha程度に留まっていた。本種への需要は高く、このような技術を用いても費用的に見合うものとなると考えられ、注目を浴びている。\n非常に高い旱魃耐性を持ち、年間降雨量650mm以下の地域でも育つ。トウモロコシ栽培が5年中3年失敗するようなケニアの旱魃を起こしやすい地域で、国際半乾燥熱帯作物研究所 (ICRISAT) に率いられた団体が、旱魃に強く、栄養価も高い作物としてキマメを奨励する運動を始めている。続くプロジェクトでは、種子の流通と販売を促進することで商業化を進めるため、生産者と販売者の間の連携の強化が進められている。このプロジェクトでは、ナイロビとモンバサにおいて、本種の生産者価格を20-25%上昇させることができた。これによって農家は土地や家畜、携帯電話などの資産を購入することが可能になり、彼らに貧困から脱却する道筋を与えている。\n約430万ヘクタールの土地が本種の栽培に充てられており、世界生産量は年間310万トンである。うち80%がインドで栽培されている。西アフリカ、特にナイジェリアでも、飼料作物としての需要から栽培されている。\nトリニダード・トバゴの植物学者・政治家であるJohn Spenceが、機械を用いて収穫できる本種の矮性品種を開発している。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Pigeon pea」の節「Cultivation」",
+        "source": "Wikipedia (en): Pigeon pea § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Pigeon_pea#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378619186,
         "heading": "Cultivation",
         "text": "Pigeon peas can be of a perennial variety, in which the crop can last three to five years (although the seed yield drops considerably after the first two years), or an annual variety more suitable for seed production.\n\n■ Global production\n\nWorld production of pigeon peas is estimated at 4.49 million tons. About 63% of this production comes from India. The total number of hectares grown to pigeon pea is estimated at 5.4 million. India accounts for 72% of the area grown to pigeon pea or 3.9 million hectares. Africa is the secondary centre of diversity and at present it contributes about 21% of global production with 1.05 million tons. Malawi, Tanzania, Kenya, Mozambique and Uganda are the major producers in Africa. Malawi's Nandolo Farmers' Association is supported by international aid via the charity Christian Aid.\nThe pigeon pea is an important legume crop of rainfed agriculture in the semiarid tropics. The Indian subcontinent, Africa and Central America, in that order, are the world's three main pigeon pea-producing regions. Pigeon peas are cultivated in more than 25 tropical and subtropical countries, either as a sole crop or intermixed with cereals, such as sorghum (Sorghum bicolor), pearl millet (Pennisetum glaucum), or maize (Zea mays), or with other legumes, such as peanuts (Arachis hypogea). Being a legume capable of symbiosis with Rhizobia, the bacteria associated with the pigeon pea enrich soils through symbiotic nitrogen fixation.\nThe crop is cultivated on marginal land by resource-poor farmers, who commonly grow traditional medium- and long-duration (5–11 months) landraces. Short-duration pigeon peas (3–4 months) suitable for multiple cropping have recently been developed.",
+        "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Cajanus cajan § Producción",
+        "source_url": "https://es.wikipedia.org/wiki/Cajanus_cajan#Producci%C3%B3n",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175016584,
+        "heading": "Producción",
+        "text": "La producción mundial de gandul seco la encabeza claramente India, con un 78.19% de la producción y aumentándola cada año (lo que significa unas 3.911.500 toneladas durante el año 2023), seguido de lejos por Malaui (10.85% y creciendo) y Birmania (5.83%, en este caso decreciendo). Otros productores con menos del 2% son Tanzania, Kenia, Haití, República Dominicana, Nepal, Uganda y la República Democrática del Congo. ​",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Gude § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Gude#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29827746,
+        "heading": "Penanaman",
+        "text": "Sebagai tanaman pangan yang multifungsi, gude mungkin bisa dipergunakan sebagai tanaman yang bisa ditanam di tempat kering di Indonesia (Jawa Timur, dan Kepulauan Sunda) serta Filipina. Bisa ditanam di tepian perkebunan dan sawah-sawah. Kemudian, ia juga diperbanyak baik dengan biji maupun setek. Ia ditanam dengan jarak antar baris 30–50 cm × 75–150 cm. Bisa ditanam secara bersamaan dengan sorgum, kacang tanah, dan kapas. Tiap hektare perlu 12–30 kg bibit unggul. Jarak tanam 100–120 cm per baris, dan 30–50 cm dalam barisan. Sebaiknya, tanah dicangkul dahulu dengan pacul, agar dibentuk jadi selokan. Lebar bedengan 140–160 cm, dengan selokan 30 cm lebar. Pupuk kandang yang diperlukan ialah 10–12 ton/ha. Pupuk tersebut dihampar merata.\nUntuk menambah hasil, diperlukan pupuk KCl, TSP, dan urea. Diberikan 4 kali selang 3 bulan sekali, dan hendaknya gulma yang ada disiangi supaya tidak bersaing unsur hara dengan rerumputan. Penggunaan mesin digunakan hanya untuk kultivar berumur pendek. Hama kacang gude yang dikenal adalah spesies Heliothis dan lalat buah Agromyza. Sedangkan di Sulawesi Selatan, kacang gude diganggu oleh hama perusak polong, yakni Maruca testulalis dan Helicoverpa sp. Padahal, hasil panen daripada kacang gude ini merupakan sumber nilai tambah pada petani di sana. Hendaknya dihindari pula, belalang daun hijau (Empoasca facialis). Diduga, belalang ini menulari virus keriting daun dan virus sapu. Pada kondisi tanah yang basah, hindari penyakit layu (Phoma cajani) yang menyerang leher batang dan diberantas dengan fungisida. Yang menarik, setelah adanya musim hujan -sebagaimana kata Rumphius dikutip Heyne- bahwa \"ulat akan datang menghinggap di buah dan daun. Tumbuhan ini berbuah setengah tahun setelah ditanam.",
         "truncated": true
       }
     }
@@ -438,7 +498,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1152177-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or shrub",
@@ -446,7 +506,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1152177-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000203743.webp",
@@ -459,6 +519,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 266,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

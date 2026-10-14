@@ -16,12 +16,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "henbane"
-    ],
     "de": [
       "Ägyptisches Bilsenkraut"
     ],
@@ -33,24 +30,45 @@
     ],
     "arz": [
       "بنج مصرى"
+    ],
+    "en": [
+      "henbane"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q254080",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q254080",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Hyoscyamus muticus」",
+      "source": "Wikipedia (en): Hyoscyamus muticus",
       "source_url": "https://en.wikipedia.org/wiki/Hyoscyamus_muticus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1242548458,
       "text": "Hyoscyamus muticus, the Egyptian henbane, is a shrub in the family of Solanaceae that is native to desert areas of North Africa. It contains alkaloids that are useful in pharmaceuticals. It is used locally as a painkiller and a recreational drug. In high dosages it can be fatal."
+    },
+    "es": {
+      "source": "Wikipedia (es): Hyoscyamus muticus",
+      "source_url": "https://es.wikipedia.org/wiki/Hyoscyamus_muticus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175378821,
+      "text": "Hyoscyamus muticus, el beleño egipcio, es una especie de planta herbácea del género Hyoscyamus de la familia Solanaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Hyoscyamus muticus",
+      "source_url": "https://pt.wikipedia.org/wiki/Hyoscyamus_muticus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70156147,
+      "text": "Hyoscyamus muticus, o meimendro-egípcio, é uma espécie de planta herbácea do género Hyoscyamus da família Solanaceae, com distribuição natural no norte da África, Médio oriente e sueste da Europa. Apesar da sua elevada toxicidade para os humanos, foi utilizada como planta medicinal e como enteógeno."
     }
   },
   "edible": {
@@ -67,7 +85,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -94,7 +112,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/815931-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or subshrub",
@@ -102,7 +120,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/815931-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001021849.webp",
@@ -115,6 +133,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 299,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

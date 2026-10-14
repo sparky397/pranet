@@ -13,21 +13,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ミズレモン"
-    ],
-    "en": [
-      "golden bellapple",
-      "passion flower",
-      "bell apple",
-      "yellow granadilla",
-      "yellow water lemon"
-    ],
-    "zh": [
-      "樟叶西番莲"
     ],
     "ru": [
       "Жёлтая гранадилла"
@@ -37,6 +27,9 @@
     ],
     "hsb": [
       "Žołta ćerpjenka"
+    ],
+    "zh": [
+      "樟叶西番莲"
     ],
     "sv": [
       "Guldgrenadill"
@@ -55,13 +48,20 @@
     ],
     "shn": [
       "ၸူႇၵႃႇ"
+    ],
+    "en": [
+      "golden bellapple",
+      "passion flower",
+      "bell apple",
+      "yellow granadilla",
+      "yellow water lemon"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164659",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164659",
   "search_names": {
@@ -73,22 +73,55 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ミズレモン」",
+      "source": "Wikipedia (ja): ミズレモン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%83%AC%E3%83%A2%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 94185717,
       "text": "ミズレモン は、トケイソウ科トケイソウ属植物の種である。タマゴトケイソウまたはキミノトケイソウ（黄実の時計草）とも呼ばれる。熱帯アメリカ州原産で、世界中に拡がっている。熱帯植物であるため、霜には耐えられない。ごくまれに栽培されるが、野生で生育している地域であればどこでも市場で果実を買うことができる。自生地域以外ではあまり知られていない。種小名のlaurifoliaは「月桂樹のような葉の」の意味。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Passiflora laurifolia」",
+      "source": "Wikipedia (en): Passiflora laurifolia",
       "source_url": "https://en.wikipedia.org/wiki/Passiflora_laurifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369409057,
       "text": "Passiflora laurifolia, commonly known as the water lemon, Jamaican honeysuckle, golden bellapple, pomme liane on Martinique & Guadeloupe and orange lilikoi, is a species in the family Passifloraceae. It is native to tropical Americas, and has spread to other parts of the world. As a tropical species, water lemon will not tolerate any frost. Water lemon is only occasionally cultivated, but the fruits are usually available in markets wherever the vine grows in wild. It is not widely known outside those regions."
+    },
+    "es": {
+      "source": "Wikipedia (es): Passiflora laurifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Passiflora_laurifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581523,
+      "text": "Passiflora laurifolia es una especie de planta perteneciente a la familia Passifloraceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Passiflora laurifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Passiflora_laurifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058163,
+      "text": "Passiflora laurifolia est une espèce de plantes à fleurs du genre Passiflora et de la famille des Passifloracées originaire des régions tropicales des Amériques, communément appelée passiflore à feuille de laurier, pomme d'or ou pomme liane à la Martinique et en Guadeloupe,, pom' lyan' ou \"Kouzou\" en Guyane mais aussi orange lilikoi dans certaines régions d'Hawaï où elle serait cultivée pour ses fruits."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Passiflora laurifolia § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Passiflora_laurifolia#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237058163,
+        "heading": "Culture",
+        "text": "La pomme d'or est presque toujours cultivée à partir de graines, mais peut être multipliée par bouturage. Comme espèce tropicale, les graines prennent 1 à 2 semaines pour germer et doivent être exposées à une température de 21 à 27 °C ; à des températures inférieures, les graines peuvent prendre jusqu'à 10 semaines pour germer. Elle n'est cultivée qu'occasionnellement et ses fruits sont généralement disponibles dans le commerce aux Antilles et peuvent être ramassés dans la nature où elle pousse. Elle n'est pas encore très connue en dehors de ces régions.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -104,7 +137,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -145,7 +178,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/675132-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "liana",
@@ -153,7 +186,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/675132-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000480248.webp",
@@ -166,6 +199,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

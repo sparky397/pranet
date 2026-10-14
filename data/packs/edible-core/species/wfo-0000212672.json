@@ -17,17 +17,23 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "ytbysen tir âr"
+    "ar": [
+      "جلبان حولي"
     ],
-    "en": [
-      "annual vetchling"
+    "sv": [
+      "Fodervial"
+    ],
+    "cy": [
+      "Ytbysen tir âr"
     ],
     "cs": [
       "hrachor roční"
+    ],
+    "et": [
+      "suvik-seahernes"
     ],
     "fi": [
       "välimerennätkelmä"
@@ -35,32 +41,35 @@
     "sl": [
       "enoletni grahor"
     ],
-    "ar": [
-      "جلبان حولي"
-    ],
-    "sv": [
-      "Fodervial"
-    ],
-    "et": [
-      "suvik-seahernes"
+    "en": [
+      "annual vetchling"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q12205674",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q12205674",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Lathyrus annuus」",
+      "source": "Wikipedia (en): Lathyrus annuus",
       "source_url": "https://en.wikipedia.org/wiki/Lathyrus_annuus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1316544108,
       "text": "Lathyrus annuus, the annual vetchling, is a species of annual herb in the family Fabaceae. They are climbers and are associated with freshwater habitat. They have broad leaves. Individuals can grow to 37 cm tall. The species is diploid and has 14 chromosomes (2n=14)."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lathyrus annuus",
+      "source_url": "https://pt.wikipedia.org/wiki/Lathyrus_annuus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64612113,
+      "text": "Lathyrus annuus é uma espécie de planta com flor pertencente à família Fabaceae."
     }
   },
   "edible": {
@@ -73,7 +82,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -122,7 +131,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/501577-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling annual",
@@ -130,7 +139,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/501577-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000212672.webp",
@@ -143,6 +152,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 286,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

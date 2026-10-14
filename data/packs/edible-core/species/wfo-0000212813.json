@@ -26,7 +26,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -34,35 +34,19 @@
     ],
     "en": [
       "Liquorice",
-      "cultivated licorice",
-      "liquorice"
+      "liquorice",
+      "cultivated licorice"
     ],
-    "cs": [
-      "lékořice lysá"
+    "fr": [
+      "Réglisse",
+      "réglisse"
     ],
-    "mk": [
-      "сладунец",
-      "сладок корен"
+    "pt": [
+      "Regaliz",
+      "alcaçuz"
     ],
-    "zh": [
-      "山小橘",
-      "甘草",
-      "甘草节",
-      "甘草梢",
-      "甘草头",
-      "洋甘草（光果甘草）",
-      "甘草膏",
-      "洋甘草",
-      "光果甘草"
-    ],
-    "ast": [
-      "regalicia"
-    ],
-    "sl": [
-      "golostebelni sladki koren"
-    ],
-    "ta": [
-      "அதிமதுரம்"
+    "id": [
+      "Akar manis"
     ],
     "bar": [
       "Bärndreck"
@@ -85,6 +69,9 @@
     "ca": [
       "regalèssia"
     ],
+    "cs": [
+      "lékořice lysá"
+    ],
     "da": [
       "Glat Lakrids"
     ],
@@ -97,9 +84,6 @@
     "fi": [
       "lakritsikasvi"
     ],
-    "fr": [
-      "réglisse"
-    ],
     "he": [
       "שוש קירח"
     ],
@@ -111,9 +95,6 @@
     ],
     "hsb": [
       "Słódnik"
-    ],
-    "id": [
-      "Akar manis"
     ],
     "io": [
       "Regoliso"
@@ -139,20 +120,23 @@
     "pl": [
       "lukrecja gładka"
     ],
-    "pt": [
-      "alcaçuz"
-    ],
     "ru": [
       "лакрица"
     ],
     "sa": [
       "यष्टी"
     ],
+    "sl": [
+      "golostebelni sladki koren"
+    ],
     "sr": [
       "Сладић"
     ],
     "sv": [
       "Lakritsrot"
+    ],
+    "ta": [
+      "அதிமதுரம்"
     ],
     "te": [
       "అతిమధురము"
@@ -198,6 +182,17 @@
     ],
     "pa": [
       "ਮੁਲ੍ਹਠੀ"
+    ],
+    "zh": [
+      "光果甘草",
+      "山小橘",
+      "甘草",
+      "甘草节",
+      "甘草梢",
+      "甘草头",
+      "洋甘草（光果甘草）",
+      "甘草膏",
+      "洋甘草"
     ],
     "dv": [
       "ވޭމުއި"
@@ -298,6 +293,10 @@
     "mad": [
       "Kaju manis cèna"
     ],
+    "mk": [
+      "сладок корен",
+      "сладунец"
+    ],
     "os": [
       "Хуыфæджы хос"
     ],
@@ -339,13 +338,16 @@
     ],
     "ckb": [
       "مێکووک"
+    ],
+    "ast": [
+      "regalicia"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q257106",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q257106",
   "search_names": {
@@ -355,22 +357,86 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「スペインカンゾウ」",
+      "source": "Wikipedia (ja): スペインカンゾウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106365040,
       "text": "スペインカンゾウ（スペイン甘草）は、マメ科カンゾウ属の1種で、広義では甘草に含まれる。別名セイホクカンゾウ（西北甘草）、ヨーロッパカンゾウ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Liquorice」",
+      "source": "Wikipedia (en): Liquorice",
       "source_url": "https://en.wikipedia.org/wiki/Liquorice",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369083200,
       "text": "Liquorice or licorice is the common name of Glycyrrhiza glabra, a flowering plant of the bean family Fabaceae, from the root of which a sweet, aromatic flavouring is extracted."
+    },
+    "es": {
+      "source": "Wikipedia (es): Glycyrrhiza glabra",
+      "source_url": "https://es.wikipedia.org/wiki/Glycyrrhiza_glabra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175274541,
+      "text": "El regaliz, también llamado regalicia, orozuz u orosús,[cita requerida] es un miembro de la familia de las fabáceas nativo del norte de África, Europa oriental y meridional y Asia tropical y templada. Se cultiva extensamente en muchos países, donde también se ha naturalizado en zonas húmedas, como lechos de ríos, barrancos, vaguadas, etcétera."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Réglisse",
+      "source_url": "https://fr.wikipedia.org/wiki/R%C3%A9glisse",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239506875,
+      "text": "La réglisse ou réglisse glabre — du grec γλυκύρριζα — est une espèce de plante à fleurs de la famille des Fabacées, de la sous-famille des Faboideae, aux racines aromatiques. C'est une plante herbacée originaire du sud de l'Europe et de l'Asie, qui pousse dans le bassin méditerranéen, aux États-Unis, au Moyen-Orient, en Afrique du Nord et à l'Île Maurice. Utilisée dans l'alimentation, elle relève dans certains pays d'une réglementation d'utilisation."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Regaliz",
+      "source_url": "https://pt.wikipedia.org/wiki/Regaliz",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68037326,
+      "text": "O regaliz ou alcaçuz é uma espécie de planta com flor pertencente à família Fabaceae.\nPossui raízes adocicadas, ricas em glicirrizina e das quais se obtém um extrato usado em confeitaria e em medicamentos para a tosse."
+    },
+    "id": {
+      "source": "Wikipedia (id): Akar manis",
+      "source_url": "https://id.wikipedia.org/wiki/Akar_manis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29397827,
+      "text": "Akar manis adalah penyebutan untuk akar dari tumbuhan Glycyrrhiza glabra. Tanaman akar manis ini merupakan tanaman sejenis polong-polongan yang berasal dari Eropa Selatan dan beberapa bagian wilayah Asia. Nama liquorice berasal dari bahasa Yunani kuno yang artinya \"akar manis\". Akar manis termasuk tanaman tahunan berbentuk terna dan dapat tumbuh sampai satu meter dengan daun yang tumbuh seperti sayap (pinnate) yang panjangnya 7 sampai 15 cm. Daun-daunnya dapat berjumlah 9–17 helai dalam satu cabang. Bunga akar manis tersusun secara infloresens, warnanya berkisar dari keunguan sampai putih kebiru-biruan serta berukuran panjang 0,8–1,2 cm. Buah akar manis berpolong dan berbentuk panjang sekitar 2–3 cm, dan mengandung biji."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Glycyrrhiza glabra § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Glycyrrhiza_glabra#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175274541,
+        "heading": "Toxicidad",
+        "text": "La glicirricina posee propiedades mineralcorticoide y glucocorticoide; estas propiedades son consecuencia de la inhibición de una enzima que transforma al cortisol en cortisona, la 11-beta-hidroxiesteroide deshidrogenasa, y el acúmulo de cortisol en el organismo es responsable de los efectos negativos como el aumento de la presión sanguínea (hipertensión),​ retención de sodio y del agua. El efecto mineralocorticoide produce una pérdida anormal de potasio que conduce a un estado llamado hipopotasemia (potasio sérico <3,5 mmol/lit) y puede asimismo conllevar efecto tóxico hepáticos.​\nMuchas de las intoxicaciones se producen de una manera inconsciente con el uso habitual de esta planta en caramelos, sobre todo aquellos para refrescar el aliento. Otros causantes de las intoxicaciones son beber cantidades grandes de bebidas que contengan regaliz, como el anís, el fumar mucho tabaco tratado con esta planta, el comer gomas de mascar o caramelos. La dosis tóxica depende de cada individuo pero la Comisión Europea, en un estudio del 2003, recomienda que las dosis diarias de ácido glicirrético no supere los 100 mg (miligramos) diarios.​ Una mujer de 56 años de Yorkshire (Reino Unido) tuvo que ser hospitalizada tras haber estado consumiendo 200 g diarios de extracto de regaliz en forma de caramelos.",
+        "truncated": true
+      }
+    },
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Réglisse § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/R%C3%A9glisse#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239506875,
+        "heading": "Culture",
+        "text": "La réglisse pousse préférentiellement dans un sol riche et humide et elle a besoin d'un climat chaud, comme sur le pourtour de la Méditerranée, dans le sud des États-Unis, au Moyen-Orient, en Afrique du Nord et à l'Île Maurice.\nUne fois plantée dans une zone climatique lui convenant, la réglisse a tendance à devenir invasive : même après arrachage des racines, le moindre fragment laissé en terre engendrera un nouveau plant.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -387,7 +453,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -450,7 +516,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/496941-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or subshrub",
@@ -458,7 +524,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/496941-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000212813.webp",
@@ -471,6 +537,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 248,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

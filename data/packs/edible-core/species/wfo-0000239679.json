@@ -20,16 +20,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Weeping Paperbark"
-    ],
-    "zh": [
-      "长叶白千层",
-      "白千层"
-    ],
     "id": [
       "Kayu putih"
     ],
@@ -84,6 +77,10 @@
     "mad": [
       "Kaju potè"
     ],
+    "zh": [
+      "白千层",
+      "长叶白千层"
+    ],
     "arz": [
       "بلقاء بيضاء الجذع"
     ],
@@ -95,34 +92,64 @@
     ],
     "hu": [
       "Olajos kajeputfa"
+    ],
+    "en": [
+      "Weeping Paperbark"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q310876",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q310876",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Melaleuca leucadendra」",
+      "source": "Wikipedia (en): Melaleuca leucadendra",
       "source_url": "https://en.wikipedia.org/wiki/Melaleuca_leucadendra",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378612690,
       "text": "Melaleuca leucadendra, commonly known as weeping paperbark, long-leaved paperbark or white paperbark is a species of woody plant in the myrtle family Myrtaceae, and is widespread in northern Australia, New Guinea and parts of Indonesia. It grows as a tree to more than 20 m (70 ft) with a trunk covered with thick, white, papery bark and weeping thinner branches. It has a long flowering season, can flower at almost any time of the year and is often grown as a tree in parks and on roadsides. It was the first melaleuca to be described and was described from a specimen growing in Indonesia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Melaleuca leucadendra",
+      "source_url": "https://es.wikipedia.org/wiki/Melaleuca_leucadendra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157140280,
+      "text": "Melaleuca leucadendra es una especie perteneciente a la familia Myrtaceae. Es una planta natural del sudeste asiático y zonas tropicales de Australia, se le conoce popularmente como cayeputi o cajeput."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Melaleuca leucadendra",
+      "source_url": "https://fr.wikipedia.org/wiki/Melaleuca_leucadendra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222981845,
+      "text": "Melaleuca leucadendra est une espèce de plantes à fleurs de la famille des Myrtaceae. C'est un arbre originaire d'Australie et d'Indonésie."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kayu putih",
+      "source_url": "https://id.wikipedia.org/wiki/Kayu_putih",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29279245,
+      "text": "Kayu putih merupakan pohon anggota suku jambu-jambuan (Myrtaceae) yang dimanfaatkan sebagai sumber minyak kayu putih. Minyak diekstrak terutama dari daun dan rantingnya. Namanya diambil dari warna batangnya yang memang putih. Kayu putih dikenal dalam bahasa Melayu sebagai gălam, di Ternate sebagai bajule, di Seram sebagai sakelan, dan di Ambon dengan berbagai nama yaitu kilam, elan dan ilan."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Melaleuca leucadendra」の節「Horticulture」",
+        "source": "Wikipedia (en): Melaleuca leucadendra § Horticulture",
         "source_url": "https://en.wikipedia.org/wiki/Melaleuca_leucadendra#Horticulture",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378612690,
         "heading": "Horticulture",
         "text": "This species of melaleuca is often grown in parks and as a street tree in tropical and sub-tropical areas like Brisbane and as far south as Sydney. It prefers a sunny location but will tolerate poor, waterlogged soils. It has also been used as a street tree in Hong Kong.",
@@ -145,7 +172,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -170,7 +197,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/598002-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -178,7 +205,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/598002-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000239679.webp",
@@ -191,6 +218,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 276,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

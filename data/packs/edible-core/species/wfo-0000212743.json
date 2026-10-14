@@ -27,31 +27,36 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "スズメノエンドウ",
       "スズメノエンドウ（雀野豌豆）"
     ],
-    "de": [
-      "Behaarte Wicke",
-      "Rauhaarige Wicke",
-      "Rauhhaarige Wicke"
-    ],
-    "en": [
-      "tiny vetch",
-      "Hairy Tare"
-    ],
-    "cs": [
-      "vikev chlupatá"
-    ],
     "fr": [
       "Vesce hérissée",
       "vesce hérisée"
     ],
+    "fi": [
+      "peltovirvilä"
+    ],
+    "et": [
+      "Karvane hiirehernes"
+    ],
+    "de": [
+      "Rauhaarige Wicke",
+      "Behaarte Wicke",
+      "Rauhhaarige Wicke"
+    ],
+    "csb": [
+      "Drobnokwiatowô wika"
+    ],
     "hsb": [
       "Mólička woka"
+    ],
+    "ar": [
+      "بيقية شعرية"
     ],
     "nl": [
       "Ringelwikke"
@@ -63,21 +68,6 @@
       "小巢菜",
       "小巢豆"
     ],
-    "fi": [
-      "peltovirvilä"
-    ],
-    "sl": [
-      "dlakava grašica"
-    ],
-    "et": [
-      "Karvane hiirehernes"
-    ],
-    "csb": [
-      "Drobnokwiatowô wika"
-    ],
-    "ar": [
-      "بيقية شعرية"
-    ],
     "cy": [
       "Ffacbysen flewog"
     ],
@@ -86,6 +76,9 @@
     ],
     "bg": [
       "космата глушина"
+    ],
+    "cs": [
+      "vikev chlupatá"
     ],
     "ru": [
       "горошек волосистый"
@@ -126,6 +119,9 @@
     "hr": [
       "Čupava grahorica"
     ],
+    "sl": [
+      "dlakava grašica"
+    ],
     "tt": [
       "Төкле борчак"
     ],
@@ -134,13 +130,17 @@
     ],
     "mk": [
       "рапава глушина"
+    ],
+    "en": [
+      "tiny vetch",
+      "Hairy Tare"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159732",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159732",
   "search_names": {
@@ -153,22 +153,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「スズメノエンドウ」",
+      "source": "Wikipedia (ja): スズメノエンドウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BA%E3%83%A1%E3%83%8E%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106364733,
       "text": "スズメノエンドウ は、ソラマメ属のつる性の越年草。田畑や空地などに生える雑草。別名イヌノエンドウ（犬野豌豆）。和名に「スズメ」とあるのはカラスノエンドウ（ヤハズエンドウ）より小型であることから。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vicia hirsuta」",
+      "source": "Wikipedia (en): Vicia hirsuta",
       "source_url": "https://en.wikipedia.org/wiki/Vicia_hirsuta",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1297902620,
       "text": "Vicia hirsuta is a species of flowering plant in the pea and bean family Fabaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vicia hirsuta",
+      "source_url": "https://es.wikipedia.org/wiki/Vicia_hirsuta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 141491516,
+      "text": "La veza hirsuta, Vicia hirsuta, es una especie de la familia de las fabáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vesce hérissée",
+      "source_url": "https://fr.wikipedia.org/wiki/Vesce_h%C3%A9riss%C3%A9e",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222505602,
+      "text": "La vesce hérissée ou vesce hirsute est une espèce de plantes à fleurs de la famille des Fabacées. C'est une plante herbacée annuelle commune en Europe."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vicia hirsuta",
+      "source_url": "https://pt.wikipedia.org/wiki/Vicia_hirsuta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71487568,
+      "text": "A vicia hirsuta, comummente conhecida como unhas-de-gato, é uma espécie de planta com flor, herbácea, escandente, pertencente à família das fabáceas e ao tipo fisionómico dos terófitos."
     }
   },
   "edible": {
@@ -183,7 +210,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -350,7 +377,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/524810-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing annual",
@@ -358,7 +385,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/524810-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000212743.webp",
@@ -371,6 +398,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 258,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

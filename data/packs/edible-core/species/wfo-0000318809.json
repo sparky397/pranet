@@ -26,14 +26,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "フトモモ"
     ],
-    "en": [
-      "Malabar plum"
+    "fr": [
+      "Jamrosat"
+    ],
+    "pt": [
+      "Jambo"
+    ],
+    "id": [
+      "Jambu mawar"
     ],
     "zh": [
       "蒲桃",
@@ -42,9 +48,6 @@
       "蒲桃壳",
       "蒲桃叶",
       "蒲桃根皮"
-    ],
-    "pt": [
-      "Jambo"
     ],
     "pl": [
       "czapetka jambos"
@@ -63,9 +66,6 @@
     ],
     "to": [
       "Fekika papālangi"
-    ],
-    "id": [
-      "Jambu mawar"
     ],
     "bn": [
       "গোলাপজাম"
@@ -138,13 +138,16 @@
     ],
     "shn": [
       "တူၼ်ႈမႆႉၸမ်ႇပုသပေႇ"
+    ],
+    "en": [
+      "Malabar plum"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q31931",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q31931",
   "search_names": {
@@ -159,22 +162,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「フトモモ」",
+      "source": "Wikipedia (ja): フトモモ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%88%E3%83%A2%E3%83%A2",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106374118,
       "text": "フトモモ はフトモモ科の常緑高木。東南アジア原産の果樹。フトモモの名は中国名の蒲桃 が由来。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Syzygium jambos」",
+      "source": "Wikipedia (en): Syzygium jambos",
       "source_url": "https://en.wikipedia.org/wiki/Syzygium_jambos",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360619596,
       "text": "Syzygium jambos is a species of rose apple originating in Southeast Asia and occurring widely elsewhere, having been introduced as an ornamental and fruit tree."
+    },
+    "es": {
+      "source": "Wikipedia (es): Syzygium jambos",
+      "source_url": "https://es.wikipedia.org/wiki/Syzygium_jambos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175080357,
+      "text": "Syzygium jambos, de nombre común pumarrosa, pomarrosa, pumorroso, pumalaca o perita, es un árbol originario del sudeste asiático perteneciente a la familia Myrtaceae. Se ha cultivado y también naturalizado en América tropical continental, y en las Antillas, donde fue introducida por los ingleses. En Cuba es una especie invasora."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Jamrosat",
+      "source_url": "https://fr.wikipedia.org/wiki/Jamrosat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237246464,
+      "text": "Le jamrosat, aussi appelé jambrosade, jambosier, jam-rose ou encore pommier rose ou pomme rose, est une espèce de plantes à fleurs de la famille des Myrtacées. C'est un arbre originaire de la région indo-malaise."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Jambo",
+      "source_url": "https://pt.wikipedia.org/wiki/Jambo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71716422,
+      "text": "O jambo-rosa, ou jambo, é o fruto de uma espécie de Jambeiro, Syzygium jambos (L.) Alston."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jambu mawar",
+      "source_url": "https://id.wikipedia.org/wiki/Jambu_mawar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28667902,
+      "text": "Jambu mawar alias jambu kraton adalah anggota suku jambu-jambuan atau Myrtaceae yang berasal dari Asia Tenggara, khususnya di wilayah Malesia. Dinamai demikian karena buah jambu ini memiliki aroma wangi yang keras seperti mawar."
     }
   },
   "edible": {
@@ -191,7 +230,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -273,7 +312,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/601802-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -281,7 +320,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/601802-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000318809.webp",
@@ -294,6 +333,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 392,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

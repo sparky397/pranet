@@ -8,13 +8,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Red-fleshed durian",
-      "Orange-fleshed durian",
-      "Yellow durian"
+    "id": [
+      "Durian merah"
     ],
     "ar": [
       "دوريان نفاذ"
@@ -28,29 +26,67 @@
     "bjn": [
       "Tabelak"
     ],
-    "id": [
-      "Durian merah"
-    ],
     "ml": [
       "ദുരിയോ ഗ്രേവോലെൻസ്"
+    ],
+    "en": [
+      "Red-fleshed durian",
+      "Orange-fleshed durian",
+      "Yellow durian"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q10477772",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q10477772",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Durio graveolens」",
+      "source": "Wikipedia (en): Durio graveolens",
       "source_url": "https://en.wikipedia.org/wiki/Durio_graveolens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378437736,
       "text": "Durio graveolens, sometimes called the red-fleshed durian, orange-fleshed durian, or yellow durian, is a species of tree in the family Malvaceae. It is one of six species of durian named by Italian naturalist Odoardo Beccari. The specific epithet graveolens is due to the odor. Although most species of Durio have a strong scent, the red-fleshed type of D. graveolens has a mild scent. It is native to Southeast Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Durio graveolens",
+      "source_url": "https://es.wikipedia.org/wiki/Durio_graveolens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174504468,
+      "text": "Durio graveolens, a veces llamado durián de pulpa roja, durián de pulpa naranja o durián amarillo, es una especie de árbol de la familia Malvaceae. Es una de las seis especies de durián descritas por el naturalista italiano Odoardo Beccari. El epíteto específico graveolens se debe a su olor. Aunque la mayoría de las especies de Durio tienen un olor intenso, el tipo de pulpa roja de D. graveolens tiene un olor suave. Es originario del sudeste asiático."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Durio graveolens",
+      "source_url": "https://fr.wikipedia.org/wiki/Durio_graveolens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234496331,
+      "text": "Durio graveolens, appelé communément durian rouge, est une espèce du genre Durio, famille des Malvaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Durio graveolens",
+      "source_url": "https://pt.wikipedia.org/wiki/Durio_graveolens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70628190,
+      "text": "Durio graveolens é uma espécie de árvore da família Malvaceae. É uma das seis espécies do gênero Durio nomeadas pelo naturalista italiano Odoardo Beccari. O epíteto específico graveolens refere-se ao seu odor. Embora muitas espécies de Durio tenham um aroma forte, o tipo de polpa vermelha de D. graveolens possui um odor suave. É nativa do Sudeste Asiático."
+    },
+    "id": {
+      "source": "Wikipedia (id): Durian merah",
+      "source_url": "https://id.wikipedia.org/wiki/Durian_merah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29038493,
+      "text": "Durian merah, tabelak, sukang, atau anggang, sahung adalah spesies tumbuhan yang tergolong ke dalam famili Malvaceae dan tumbuh di pulau Kalimantan dan Sumatera, Indonesia. Tumbuhan ini pada umumnya memiliki tinggi batang 25-30 m. Daunnya mirip dengan daun durian tetapi ukurannya lebih besar. Keunikan buah ini terletak pada warna daging buahnya yang bervariasi, yaitu berwarna merah, jingga, hingga oranye."
     }
   },
   "edible": {
@@ -63,7 +99,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -76,7 +112,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/559517-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -84,7 +120,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/559517-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000658070.webp",
@@ -97,6 +133,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

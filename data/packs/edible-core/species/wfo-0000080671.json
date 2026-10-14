@@ -27,7 +27,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -36,31 +36,6 @@
     "en": [
       "Chicory",
       "chicory"
-    ],
-    "de": [
-      "Gewöhnliche Wegwarte",
-      "Gemeine Wegwarte"
-    ],
-    "zh": [
-      "菊苣",
-      "菊苣子",
-      "菊苣根"
-    ],
-    "nl": [
-      "Wilde cichorei"
-    ],
-    "cs": [
-      "čekanka obecná"
-    ],
-    "fr": [
-      "chicorée sauvage"
-    ],
-    "ast": [
-      "achicoria",
-      "chicoria"
-    ],
-    "sl": [
-      "navadni potrošnik"
     ],
     "hu": [
       "mezei katáng"
@@ -77,11 +52,18 @@
     "ca": [
       "xicoira"
     ],
+    "cs": [
+      "čekanka obecná"
+    ],
     "csb": [
       "Cychória"
     ],
     "da": [
       "Almindelig Cikorie"
+    ],
+    "de": [
+      "Gemeine Wegwarte",
+      "Gewöhnliche Wegwarte"
     ],
     "eo": [
       "amara cikorio"
@@ -119,6 +101,9 @@
     "ms": [
       "Cikori"
     ],
+    "nl": [
+      "wilde cichorei"
+    ],
     "pcd": [
       "Chicoerèie soevåjhe"
     ],
@@ -137,6 +122,9 @@
     "sk": [
       "čakanka obyčajná"
     ],
+    "sl": [
+      "navadni potrošnik"
+    ],
     "sq": [
       "Bresa"
     ],
@@ -154,6 +142,11 @@
     ],
     "vls": [
       "Chikoung"
+    ],
+    "zh": [
+      "菊苣",
+      "菊苣子",
+      "菊苣根"
     ],
     "ml": [
       "ചിക്കറി"
@@ -280,13 +273,20 @@
     ],
     "th": [
       "ชิโครี"
+    ],
+    "fr": [
+      "chicorée sauvage"
+    ],
+    "ast": [
+      "achicoria",
+      "chicoria"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2544599",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2544599",
   "search_names": {
@@ -296,32 +296,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「チコリー」",
+      "source": "Wikipedia (ja): チコリー",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%B3%E3%83%AA%E3%83%BC",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109549404,
       "text": "チコリー は、キク科の多年生野菜である。ヨーロッパ原産で、野生種も自生しており、高さ60 - 150センチメートルで青い花を付けるものが多い。和名はキクニガナ（菊苦菜）、漢名は菊苣である。近縁種にエンダイブがある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Chicory」",
+      "source": "Wikipedia (en): Chicory",
       "source_url": "https://en.wikipedia.org/wiki/Chicory",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372030113,
       "text": "Common chicory is a somewhat woody, perennial herbaceous plant of the family Asteraceae, usually with bright blue flowers, rarely white or pink. Native to Europe, North Africa, and western Asia, it has been introduced to the Americas, Australia, and South Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cichorium intybus",
+      "source_url": "https://es.wikipedia.org/wiki/Cichorium_intybus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582241,
+      "text": "Cichorium intybus, llamada comúnmente escarola o achicoria común, es una planta herbácea perenne de la familia de las asteráceas; procede originariamente del Viejo Mundo, donde se reproduce de manera silvestre en los prados y campos en barbecho, así como a la vera de los caminos (Carlos Linneo, en su descripción original de 1753, señala textualmente: Habitat in Europa ad margines agrorum viarumque. Se ha naturalizado en varias regiones de América, África, Asia y Oceanía. En Europa se cultiva especialmente en el norte de Francia, Bélgica, Alemania y España. Planta cosmopolita, de excelente dispersión, prefiere suelos bien drenados, no necesariamente fértiles y ambientes soleados. Desde el siglo XVII, la infusión de su raíz tostada se usa como sustituto o adulterante del café."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cichorium intybus",
+      "source_url": "https://fr.wikipedia.org/wiki/Cichorium_intybus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239986521,
+      "text": "La Chicorée amère est une espèce de plantes à fleurs herbacées vivaces de la famille des Astéracées. Elle est à l'origine de salades comme la barbe de capucin , les endives ou chicons ou les chicorées rouges italiennes, mais aussi les chicorées à café, etc."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cichorium intybus",
+      "source_url": "https://pt.wikipedia.org/wiki/Cichorium_intybus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72825983,
+      "text": "Cichorium intybus, conhecida popularmente como chicória, é uma erva bianual da família das Asteraceae, nativa da Europa e da Ásia. Geralmente com flores azuis brilhantes, raramente brancas ou rosadas. Hoje em dia é cultivada em todo o mundo e é utilizada na alimentação e como planta medicinal. Originária do Velho Mundo, foi introduzida na América e na Austrália. Muitas variedades são cultivadas para fazer saladas com suas folhas, brotos tenros ou raízes, que são cozidas, moídas e utilizadas como substituto do café e aditivo alimentar. A inulina, um extrato da raiz de chicória, tem sido utilizada na fabricação de alimentos como adoçante e fonte de fibra alimentar. A chicória também é cultivada como forragem para o gado."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cichorium intybus",
+      "source_url": "https://id.wikipedia.org/wiki/Cichorium_intybus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29805380,
+      "text": "Cichorium intybus adalah spesies semak menahun, yang dibudidayakan untuk sayur, obat-obatan, minuman pengganti kopi, dan pakan hewan ternak. Tumbuhan ini dapat tumbuh dengan mudah sebagai tumbuhan liar di pinggir jalan."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「チコリー」の節「栽培」",
+        "source": "Wikipedia (ja): チコリー § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%B3%E3%83%AA%E3%83%BC#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109549404,
         "heading": "栽培",
         "text": "一般の市場で流通しているチコリは、肥培した株から出させた若芽を遮光栽培したものであり、軟白栽培のため茎は白く葉先がわずかに黄色くなっている。そのまま露地栽培し成長したものの葉や根には、独特の強い苦味があり、慣れていない者にとっては生食は適さない。\n現在、日本でも国産のチコリーが生産されている。最大手のサラダコスモはもやし栽培を主力としていたが、社長の中田智洋が1990年にオランダを視察した際に、設備とノウハウが活かせることから合弁会社設立を経て国内に導入された。日本では、通常の畑でチコリーを充分に育てたあと、栽培工場内で水耕栽培し、冷暗所下で生育した新芽を「チコリー」として、市場へ提供している。また、副産物である根からは上述のような茶やコーヒーのほか、焼酎も生産されている。\n2021年現在、日本国内の都道府県別生産量は埼玉県が1位となっている。ハウス栽培が可能であることから、北海道北見市でも厳寒期に栽培、出荷が行われている。\n\n■ 軟白栽培\n軟白用の栽培では、初夏まきで約5か月間株を養生したのちに掘り上げて、暗所に葉を再生させる軟化栽培を約20日間行って収穫する。まず、充実した根株を養生するのが重要なポイントになり、深く耕した排水性の良い土地を選んで栽培される。太い根を作るために、畝に株間30センチメートル (cm) ほどにして苗を植えて秋までのあいだ株を成長させる。晩秋の霜が降りるころに掘り上げた後に、首部で3 - 5 cmに生長させる。枯れた葉は根元から3 - 4 cmのところで切り落とし、根元に発生している余分な芽はすべて掻き取る。根は長さ30 - 35 cmに切りそろえて、冷暗所に置いておく。軟化方法は、ハウスなどで深さ30 - 40 cmほどの穴を掘り、ビートモス、赤土に4cm間隔で保存した根を植え、そのうえにからビートモス、赤土を被せて敷き藁をして、光に強く当てないようにトタン板などを被せ、18 - 20度に保つ。その後約20日ほどで収穫となる。\n\n■ レッドチコリーの栽培\n\nレッドチコリー（トレビス）の栽培は、植栽密度や肥培管理が玉レタスとほぼ同じで、種まきから収穫まで2 - 3か月を要し、適期を守って形良く結球したところを収穫する。日当たりの良い場所で、栽培に適した土壌酸度は pH 6.0 - 6.5、生育適温は15 - 20℃、発芽適温は18 - 24℃で、連作障害があるため、同じ土地では1年 - 2年空けるとされる。育苗ポットに種をまいて本葉4 - 6枚になるまで育苗し、土壌酸度調整と堆肥で畑の土作りをした畑に畝を作ってマルチングを施し、20 - 30センチメートル (cm) 間隔で葉柄を植え付けていく。土の表面が乾いたら水やりをし、植え付けから2週間ごとに施肥を行う。葉がだんだん赤くなって株の中心が堅く締まるほど結球したら収穫適期で、地際を包丁などで切り取って収穫する。\n病害虫の防除方法はレタス同様である。病虫害はほとんどないともいわれているが、生育期間が長く、収穫期近くに腐敗性病害が多発しやすいので注意を要する。",
@@ -342,7 +378,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -573,7 +609,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/194533-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -581,7 +617,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/194533-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000080671.webp",
@@ -594,6 +630,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 245,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -22,30 +22,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウニンジンボク"
-    ],
-    "en": [
-      "Chaste-tree",
-      "Chaste Tree",
-      "Chasteberry",
-      "Lilac Chaste Tree",
-      "Monk's Pepper",
-      "lilac chastetree",
-      "purple vitex"
-    ],
-    "zh": [
-      "穗花牡荆"
-    ],
-    "pl": [
-      "Niepokalanek pospolity",
-      "Pieprz mnisi",
-      "Niepokalanek pieprzowy",
-      "Niepokalanek mnisi",
-      "Witeks czczony"
     ],
     "hu": [
       "barátcserje"
@@ -83,11 +64,21 @@
     "ka": [
       "წკეპლა ცხარე"
     ],
+    "pl": [
+      "niepokalanek pospolity",
+      "Pieprz mnisi",
+      "Niepokalanek pieprzowy",
+      "Niepokalanek mnisi",
+      "Witeks czczony"
+    ],
     "ru": [
       "Витекс священный"
     ],
     "tr": [
       "Hayıt"
+    ],
+    "zh": [
+      "穗花牡荆"
     ],
     "nb": [
       "Kyskhetstre"
@@ -130,33 +121,106 @@
     ],
     "grc": [
       "ἄγνος"
+    ],
+    "en": [
+      "Chaste-tree",
+      "Chaste Tree",
+      "Chasteberry",
+      "Lilac Chaste Tree",
+      "Monk's Pepper",
+      "lilac chastetree",
+      "purple vitex"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q259318",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q259318",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウニンジンボク」",
+      "source": "Wikipedia (ja): セイヨウニンジンボク",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%B3%E3%83%9C%E3%82%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111316075,
       "text": "セイヨウニンジンボク\n は、シソ科（旧分類ではクマツヅラ科）ハマゴウ属の植物である。原産地は南ヨーロッパから中央アジアである。ハーブとして用いられるほか、見た目が似ていることからコショウの代わりとしても使用されていた。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vitex agnus-castus」",
+      "source": "Wikipedia (en): Vitex agnus-castus",
       "source_url": "https://en.wikipedia.org/wiki/Vitex_agnus-castus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371284601,
       "text": "Vitex agnus-castus is a plant native of the Mediterranean region. It is one of the few temperate-zone species of Vitex, which is on the whole a genus of tropical and subtropical flowering plants. Vitex is a cross-pollinating plant, but its self-pollination has been recorded."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vitex agnus-castus",
+      "source_url": "https://es.wikipedia.org/wiki/Vitex_agnus-castus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 170224356,
+      "text": "Vitex agnus-castus (VAC) —sauzgatillo, saucegatillo, sauce gatillo— es una especie nativa del Mediterráneo, de la familia Lamiaceae, que crece en los sotos frescos y a orillas de los ríos. También se la encuentra en Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vitex agnus-castus",
+      "source_url": "https://fr.wikipedia.org/wiki/Vitex_agnus-castus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238495097,
+      "text": "Vitex agnus-castus, l’arbre au poivre ou gattilier, est une espèce de plantes à fleurs de la famille des Verbenaceae selon la classification classique, ou à celle des Lamiaceae selon la classification phylogénétique. C'est un arbuste originaire de l'Ancien Monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vitex agnus-castus",
+      "source_url": "https://pt.wikipedia.org/wiki/Vitex_agnus-castus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73001468,
+      "text": "Vitex agnus-castus, comummente conhecido como agnocasto , é um arbusto originário da região Mediterrânica, pertencente ao tipo fisionómico dos nanofanerófito."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Vitex agnus-castus § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Vitex_agnus-castus#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 170224356,
+        "heading": "Cultivo",
+        "text": "Vitex agnus-castus es muy cultivado en regiones templadas y subtropicales por su aromático follaje y flores. Alcanza 1-5 m de altura. Requiere sol pleno o sombra parcial con suelo bien drenado.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Vitex agnus-castus § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Vitex_agnus-castus#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238495097,
+        "heading": "Culture",
+        "text": "Cet arbuste se contente de sols pauvres mais drainants et supporte bien la sécheresse une fois installé.\nIl est possible de bouturer le gattilier en prélevant des extrémités de tiges herbacées en été. Le semis sous châssis froid en automne donne aussi de bons résultats.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Vitex agnus-castus § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Vitex_agnus-castus#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 73001468,
+        "heading": "Cultivo",
+        "text": "O agnocasto prefere um solos enxutos e pouco compactos, privilegia posições quente e soalheira, protegida de ventos frios e ressecantes. Apesar de, em estado selvagem, medrar nas cercanias de correntes de água e ambientes higrófitos, é intolerante a ficar alagada. É resistente até cerca de dez graus negativos.\nA floração é abundante apenas em verões quentes, pelo que, mesmo nas zonas onde é resistente, recomenda-se o cultivo junto a muros ou vedações com boa exposição ao sol.\nTrata-se de uma espécie de elevado valor ornamental, existindo diversos cultivares. Toda a planta é aromática: as folhas e os caules apresentam um aroma intenso, as flores são agradavelmente perfumadas e as sementes secas exalam um perfume agradável e limonado.\nQualquer poda que se faça, deve ser efetuada na Primavera, consistindo na remoção da madeira morta e na remoção dos ramos floríferos do ano anterior.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -171,7 +235,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -234,7 +298,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/865568-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -242,7 +306,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/865568-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000332916.webp",
@@ -255,6 +319,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

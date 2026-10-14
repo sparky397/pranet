@@ -33,11 +33,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Padang cassia"
+    "ar": [
+      "قرفة إندونيسية"
+    ],
+    "th": [
+      "อบเชยชวา"
     ],
     "zh": [
       "阴香",
@@ -48,12 +51,6 @@
       "阴香（梅片树）",
       "桂皮",
       "顺江木"
-    ],
-    "ar": [
-      "قرفة إندونيسية"
-    ],
-    "th": [
-      "อบเชยชวา"
     ],
     "ace": [
       "Kulét manèh"
@@ -72,13 +69,16 @@
     ],
     "arz": [
       "قرفه اندونيسيه"
+    ],
+    "en": [
+      "Padang cassia"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4115136",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4115136",
   "search_names": {
@@ -89,13 +89,22 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cinnamomum burmanni」",
+      "source": "Wikipedia (en): Cinnamomum burmanni",
       "source_url": "https://en.wikipedia.org/wiki/Cinnamomum_burmanni",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354420022,
       "text": "Cinnamomum burmanni, also known as Indonesian cinnamon, Padang cassia, Batavia cassia, or korintje, is one of several plants in the genus Cinnamomum whose bark is sold as the spice cinnamon. It is an evergreen tree native to southeast Asia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cinnamomum burmannii",
+      "source_url": "https://id.wikipedia.org/wiki/Cinnamomum_burmannii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29918747,
+      "text": "Cinnamomum burmannii adalah salah satu jenis kayu manis. Spesies ini berasal dari Indonesia dan Asia Tenggara. Umumnya, tumbuhan ini digunakan sebagai rempah-rempah, tanaman hias, maupun tanaman hutan. Kulit kayu C. burmannii yang memiliki bau aromatik ini sehingga digunakan sebagai bumbu, parfum, maupun obat. Pohon C. burmannii dapat mencapai ketinggian 15 meter dan menghasilkan getah berwarna kuning muda atau keputihan. Budidaya C. burmannii dilakukan melalui biji ataupun stek. Buah tua yang berkulit tebal dan berbau harum akan ditanaman sebagai pohon induk untuk reproduksi. Tumbuhan ini diketahui rentan terhadap kutu daun, penyakit akar busuk, dan juga penyakit bintik daun."
     }
   },
   "edible": {
@@ -109,7 +118,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -136,7 +145,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/463328-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -144,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/463328-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000604944.webp",
@@ -157,6 +166,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -10,16 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "fr": [
-      "Germandrée tomenteuse",
-      "Germandrée blanc-grisâtre"
-    ],
-    "cs": [
-      "ožanka polejová"
-    ],
     "el": [
       "Αγαποβότανο"
     ],
@@ -56,6 +49,9 @@
     "pl": [
       "Ożanka popielata"
     ],
+    "cs": [
+      "ožanka polejová"
+    ],
     "os": [
       "Къодегæрдæг"
     ],
@@ -67,24 +63,55 @@
     ],
     "mk": [
       "Бел дупчец"
+    ],
+    "fr": [
+      "Germandrée tomenteuse",
+      "Germandrée blanc-grisâtre"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2415298",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2415298",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Teucrium polium」",
+      "source": "Wikipedia (en): Teucrium polium",
       "source_url": "https://en.wikipedia.org/wiki/Teucrium_polium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1342504800,
       "text": "Teucrium polium, known popularly as felty germander, is a sub-shrub and herb native to the western Mediterranean region. Its flowers are small and range from pink to white, and its leaves are used in cooking and for medicine."
+    },
+    "es": {
+      "source": "Wikipedia (es): Teucrium polium",
+      "source_url": "https://es.wikipedia.org/wiki/Teucrium_polium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175378098,
+      "text": "Teucrium polium o zamarilla es una pequeña mata o hierba del género Teucrium con flores blanquecinas o rosas. Posee varios usos: medicinales, contra los dolores de estómago; como condimento, en la cocina; y en la elaboración de herbero. Es oriundo de las regiones del Medio Oriente y del Mediterráneo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Teucrium polium",
+      "source_url": "https://fr.wikipedia.org/wiki/Teucrium_polium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227666803,
+      "text": "Teucrium polium, la Germandrée tomenteuse, Germandrée blanc-grisâtre ou Germandrée pouillot, est une espèce de plantes à fleurs de la famille des Lamiacées. C'est une plante herbacée méditerranéenne."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Teucrium polium",
+      "source_url": "https://pt.wikipedia.org/wiki/Teucrium_polium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62762622,
+      "text": "Teucrium polium é um sub-arbusto e erva nativa da região oeste do Mediterrâneo . As suas flores são pequenas e variam do rosa ao branco, e suas folhas são usadas na culinária e na medicina."
     }
   },
   "edible": {
@@ -97,7 +124,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -114,7 +141,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/460631-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -122,7 +149,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/460631-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000322436.webp",
@@ -135,6 +162,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

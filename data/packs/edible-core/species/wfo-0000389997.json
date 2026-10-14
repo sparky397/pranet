@@ -21,15 +21,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Gewöhnliche Schmerwurz",
-      "Gemeine Schmerwurz"
-    ],
-    "zh": [
-      "黑薯蓣"
+    "pt": [
+      "Tamus communis"
     ],
     "vec": [
       "Tanoni"
@@ -51,6 +47,10 @@
     ],
     "it": [
       "Tamus communis"
+    ],
+    "de": [
+      "Gemeine Schmerwurz",
+      "Gewöhnliche Schmerwurz"
     ],
     "bg": [
       "обикновена диоскорея"
@@ -75,9 +75,6 @@
     ],
     "sr": [
       "Бљушт"
-    ],
-    "pt": [
-      "Tamus communis"
     ],
     "ga": [
       "crotharnach"
@@ -133,6 +130,9 @@
     "sl": [
       "Navadni bljušč"
     ],
+    "zh": [
+      "黑薯蓣"
+    ],
     "he": [
       "טמוס מצוי"
     ]
@@ -141,18 +141,71 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161378",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161378",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Dioscorea communis」",
+      "source": "Wikipedia (en): Dioscorea communis",
       "source_url": "https://en.wikipedia.org/wiki/Dioscorea_communis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1323336306,
       "text": "Dioscorea communis or Tamus communis is a species of flowering plant in the yam family Dioscoreaceae and is commonly known as black bryony, lady's-seal or black bindweed."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dioscorea communis",
+      "source_url": "https://es.wikipedia.org/wiki/Dioscorea_communis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 169866598,
+      "text": "La nueza negra es una planta de la familia de las dioscoreáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dioscorea communis",
+      "source_url": "https://fr.wikipedia.org/wiki/Dioscorea_communis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237493702,
+      "text": "Le Tamier commun est une espèce de plantes grimpantes monocotylédones de la famille des ignames (Dioscoreaceae)."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tamus communis",
+      "source_url": "https://pt.wikipedia.org/wiki/Tamus_communis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70156039,
+      "text": "Tamus communis é uma planta trepadeira, geófita, da família Dioscoreaceae. O seu nome comum é arrebenta-boi, buganha, baganha, norça-preta, tamo ou uva-de-cão."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Dioscorea communis § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Dioscorea_communis#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237493702,
+        "heading": "Toxicité",
+        "text": "Toute la plante sauf les jeunes pousses est âcre et irritante. La racine renferme quantité de cristaux d’oxalate de calcium, capables de produire sur la peau une révulsion d’origine mécanique. Elle contient aussi des saponines et de la diosgénine.\nL’ingestion des baies rouges cause des inflammations des voies digestives et urinaires, des vomissements, des coliques avec diarrhée, des troubles nerveux, cardiaques et respiratoires. Il y aurait des accidents mortels chez les enfants.\nL’emploi ancien du tamier par voie interne, comme vomitif, purgatif, diurétique, expectorant est donc à proscrire.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Tamus communis § Toxicidade",
+        "source_url": "https://pt.wikipedia.org/wiki/Tamus_communis#Toxicidade",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 70156039,
+        "heading": "Toxicidade",
+        "text": "Os frutos são venenosos, podendo ser mortais. Por vezes produzem intoxicações graves em crianças, que ingerem acidentalmente as suas bagas, de uma atractiva cor vermelha. A intoxicação desenvolve-se com intensa irritação das mucosas, dor abdominal, diarreias e vómitos, acompanhados de abatimento, sonolência, calafrios, podendo ocorrer alterações respiratórias e coma.\nA planta, como um todo é venenosa devido a possuir saponinas, que são degradadas com o cozinhar. As saponinas são absorvidas de maneira fraca pelo corpo, mas mesmo assim não se aconselha a ingerir alimentos com alto teor desta substância. São os cristais de oxalato de cálcio, presentes essencialmente no fruto, que causam o efeito tóxico, não as saponinas.\nDo sumo da baga e dos rizomas foram isolados depósitos de oxalato de cálcio e histaminas que contribuem para irritação da pele e podem produzir dermatite de contacto. A dermatite é provocada por irritação mecânica, devido à penetração na pele dos cristais de oxalato de cálcio.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -165,7 +218,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -208,7 +261,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/20005752-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing tuberous geophyte",
@@ -216,6 +269,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/20005752-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

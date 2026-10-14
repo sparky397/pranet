@@ -26,46 +26,73 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "sv": [
+      "Raggopuntia"
+    ],
+    "be": [
+      "Апунцыя белаватая"
+    ],
+    "zh": [
+      "白鬚仙人掌",
+      "白毛掌",
+      "帕兰团扇",
+      "松山镜",
+      "银世界"
+    ],
     "en": [
       "arborescent pricklypear"
     ],
     "es": [
       "Duraznillo",
       "Nopal Duraznillo"
-    ],
-    "zh": [
-      "白毛掌",
-      "帕兰团扇",
-      "松山镜",
-      "银世界",
-      "白鬚仙人掌"
-    ],
-    "sv": [
-      "Raggopuntia"
-    ],
-    "be": [
-      "Апунцыя белаватая"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q149394",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q149394",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Opuntia leucotricha」",
+      "source": "Wikipedia (en): Opuntia leucotricha",
       "source_url": "https://en.wikipedia.org/wiki/Opuntia_leucotricha",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1285191320,
       "text": "Opuntia leucotricha is a species of cactus with the common names: arborescent pricklypear, Aaron's beard cactus, and semaphore cactus; and duraznillo blanco and nopal blanco."
+    },
+    "es": {
+      "source": "Wikipedia (es): Opuntia leucotricha",
+      "source_url": "https://es.wikipedia.org/wiki/Opuntia_leucotricha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171202711,
+      "text": "El duraznillo blanco, duraznillo rojo, xoconostle amarillo, nopal chaveño o nopal blanco es una especie fanerógama perteneciente a la familia Cactaceae nativa de México. Opuntia leucotricha fue descrita por Augustin Pyrame de Candolle y publicado en Mémoires du Muséum d'Histoire Naturelle 17: 119. 1828. Opuntia: nombre genérico que proviene del griego usado por Plinio el Viejo para una planta que creció alrededor de la ciudad de Opus en Grecia. leucotricha: epíteto latino que significa \"con pelo blanco\"."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Opuntia leucotricha",
+      "source_url": "https://fr.wikipedia.org/wiki/Opuntia_leucotricha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208070287,
+      "text": "Opuntia leucotricha est une plante grasse de la famille des Cactacées."
+    },
+    "id": {
+      "source": "Wikipedia (id): Opuntia leucotricha",
+      "source_url": "https://id.wikipedia.org/wiki/Opuntia_leucotricha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29318819,
+      "text": "Opuntia leucotricha adalah spesies kaktus dengan nama umum: arborescent pricklypear, kaktus janggut Harun, dan kaktus semafor; serta duraznillo blanco dan nopal blanco."
     }
   },
   "edible": {
@@ -78,7 +105,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -97,7 +124,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/136745-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent shrub or tree",
@@ -105,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/136745-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001287130.webp",
@@ -118,6 +145,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

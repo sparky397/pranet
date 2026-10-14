@@ -13,17 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Indian rosewood"
-    ],
-    "zh": [
-      "印度黃檀",
-      "印度黄檀",
-      "降香"
-    ],
     "ml": [
       "ശിംശപ"
     ],
@@ -50,6 +42,11 @@
     ],
     "he": [
       "סיסם הודי"
+    ],
+    "zh": [
+      "印度黄檀",
+      "印度黃檀",
+      "降香"
     ],
     "ar": [
       "ساسم"
@@ -83,13 +80,16 @@
     ],
     "bn": [
       "শিশু গাছ"
+    ],
+    "en": [
+      "Indian rosewood"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1157813",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1157813",
   "search_names": {
@@ -105,23 +105,41 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Dalbergia sissoo」",
+      "source": "Wikipedia (en): Dalbergia sissoo",
       "source_url": "https://en.wikipedia.org/wiki/Dalbergia_sissoo",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369344605,
       "text": "Dalbergia sissoo, known commonly as North Indian rosewood or shisham, is a fast-growing, hardy, deciduous rosewood tree native to the Indian subcontinent and southern Iran. D. sissoo is a large, crooked tree with long, leathery leaves and whitish or pink flowers."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dalbergia sissoo",
+      "source_url": "https://es.wikipedia.org/wiki/Dalbergia_sissoo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171113630,
+      "text": "La Dalbergia sissoo, conocida como sisu, es un árbol de hoja siempre verde. Recibe además muchos otros nombres como sisu, sheesham, tahli, Tali, elondo o Irugudujava. Es nativa del subcontinente Indio y del sur del Irán. En la lengua Persa se le llama Jag. Es el árbol representante estatal del Punjab (India) y el de la provincia de Punjab. Crece principalmente en las orillas de los ríos por debajo de los 900 m de altura, pero se puede sembrar hasta los 1.3oo metros. Las temperatura en su lugar de origen oscilan entre los 10-40 grados. Puede resistir por debajo de cero en casos muy concretos pero no duraderos. Se adapta bien a un régimen de lluvias no superior a los 2000 mm y resiste la sequía que no dure más de dos o tres meses. Prefiere suelos bien drenados e incluso arenosos o de grava y pedregal como los de las orillas de los ríos. El sisu (shisham) también resiste suelos de un cierto nivel de salinidad no elevada. Las semillas no crecen en lugares sombreados, prefieren el sol."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dalbergia sissoo",
+      "source_url": "https://fr.wikipedia.org/wiki/Dalbergia_sissoo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237578095,
+      "text": "Le Sesham est une espèce d'arbres de la famille des Fabacées. Il est aussi appelé « Shisham », « Sheesham » ou « Sissoo ». Il fournit un bois utilisé en ébénisterie."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Dalbergia sissoo」の節「Cultivation」",
+        "source": "Wikipedia (en): Dalbergia sissoo § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Dalbergia_sissoo#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369344605,
         "heading": "Cultivation",
         "text": "Propagation takes place most commonly by root suckers, but also by seeds. When exposed to air, the seeds remain viable for only a few months, but if stored in secured vessels can last for as long as four years. Seeds should be soaked in water for 48 hours before sowing; 60% – 80% germination can be expected in 1–3 weeks. Seedlings require partial sun or full \nsun. In India, shisham wood trading and its uses are under government restrictions.",
@@ -143,7 +161,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -203,7 +221,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/490469-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -211,7 +229,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/490469-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000172499.webp",
@@ -224,6 +242,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 276,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

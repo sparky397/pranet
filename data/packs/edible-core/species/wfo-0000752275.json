@@ -15,33 +15,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Joshua tree"
-    ],
-    "es": [
-      "Izote de desierto"
-    ],
-    "fi": [
-      "Joosuanjukka",
-      "joosuanpuu"
-    ],
-    "vi": [
-      "Cây Joshua"
-    ],
-    "he": [
-      "עץ יהושע"
-    ],
-    "zh": [
-      "短叶丝兰",
-      "小叶丝兰",
-      "短葉絲蘭"
-    ],
-    "sl": [
-      "kratkolistna juka"
-    ],
     "ar": [
       "يكة قصيرة الأوراق"
     ],
@@ -51,6 +27,9 @@
     "et": [
       "Lühilehine tääkliilia"
     ],
+    "he": [
+      "עץ יהושע"
+    ],
     "pl": [
       "jukka krótkolistna"
     ],
@@ -59,6 +38,15 @@
     ],
     "fa": [
       "یوکای نخلی"
+    ],
+    "fi": [
+      "joosuanjukka",
+      "joosuanpuu"
+    ],
+    "zh": [
+      "短葉絲蘭",
+      "短叶丝兰",
+      "小叶丝兰"
     ],
     "ru": [
       "Юкка коротколистная"
@@ -81,6 +69,9 @@
     "ja": [
       "ジョシュア・ツリー"
     ],
+    "sl": [
+      "kratkolistna juka"
+    ],
     "hu": [
       "Józsué-pálmaliliom"
     ],
@@ -95,24 +86,69 @@
     ],
     "lb": [
       "Joshuabam"
+    ],
+    "en": [
+      "Joshua tree"
+    ],
+    "es": [
+      "Izote de desierto"
+    ],
+    "vi": [
+      "Cây Joshua"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1378081",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1378081",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Yucca brevifolia」",
+      "source": "Wikipedia (en): Yucca brevifolia",
       "source_url": "https://en.wikipedia.org/wiki/Yucca_brevifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370709009,
       "text": "Yucca brevifolia, commonly known as the Joshua tree, yucca palm, tree yucca, or palm tree yucca, is a plant species belonging to the genus Yucca."
+    },
+    "es": {
+      "source": "Wikipedia (es): Yucca brevifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Yucca_brevifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174387328,
+      "text": "El árbol de Josué, cuyo nombre ancestral en náhuatl es izotl, hispanizado izote, es una especie de árboles de la familia de las asparagáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Yucca brevifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Yucca_brevifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236351368,
+      "text": "L'arbre de Josué est une espèce de la famille des Agavaceae, que l'on rencontre uniquement en Amérique du Nord dans les États de Californie, d'Arizona, d'Utah, et du Nevada et dans plusieurs États du Mexique comme la Basse-Californie et ceux du nord du pays. Situés principalement dans le désert de Mojave entre 600 et 1 800 m d'altitude, ils poussent notamment dans la région de la Queen Valley et de la Lost Horse Valley (en) dans le parc national de Joshua Tree où on peut d'ailleurs trouver un spécimen de treize mètres de hauteur."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Yucca brevifolia",
+      "source_url": "https://pt.wikipedia.org/wiki/Yucca_brevifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71233712,
+      "text": "Árvore de Josué é uma árvore pertencente à família agavaceae, que cresce quase exclusivamente no deserto de Mojave, nos EUA. Ainda que seja possível encontrar exemplares desta espécie nos estados norte-americanos do Arizona, do Utah e do Nevada, são particularmente abundantes no Parque Nacional Joshua Tree, na Califórnia, situado entre 600 e 2000 metros acima do nível médio das águas do mar."
+    },
+    "id": {
+      "source": "Wikipedia (id): Yucca brevifolia",
+      "source_url": "https://id.wikipedia.org/wiki/Yucca_brevifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29656767,
+      "text": "Yucca brevifolia adalah sebuah spesies tumbuhan dalam genus Yucca. Sifatnya mirip pohon, yang direfleksikan pada banyak nama umumnya."
     }
   },
   "edible": {
@@ -126,7 +162,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -138,7 +174,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/270297-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -146,7 +182,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/270297-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000752275.webp",
@@ -159,6 +195,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 258,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

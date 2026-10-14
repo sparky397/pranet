@@ -19,35 +19,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ローマンカモミール"
     ],
-    "cy": [
-      "camri"
-    ],
-    "en": [
-      "Roman chamomile",
-      "Garden Dog-fennel"
-    ],
     "fr": [
       "Camomille romaine"
     ],
-    "fi": [
-      "jalosauramo"
-    ],
-    "zh": [
-      "果香菊"
-    ],
-    "ast": [
-      "camomilla romana"
-    ],
-    "sl": [
-      "rimska kamilica"
-    ],
     "pt": [
+      "Camomila-romana",
       "camomila-romana"
     ],
     "pl": [
@@ -80,6 +62,12 @@
     "sr": [
       "Римска камилица"
     ],
+    "zh": [
+      "果香菊"
+    ],
+    "sl": [
+      "rimska kamilica"
+    ],
     "br": [
       "Mammlouzoù"
     ],
@@ -88,6 +76,12 @@
     ],
     "eu": [
       "Erromatar kamamila"
+    ],
+    "cy": [
+      "Camri"
+    ],
+    "fi": [
+      "jalosauramo"
     ],
     "ar": [
       "أقحوان شريف"
@@ -121,13 +115,20 @@
     ],
     "mwl": [
       "maçanilha"
+    ],
+    "en": [
+      "Roman chamomile",
+      "Garden Dog-fennel"
+    ],
+    "ast": [
+      "camomilla romana"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5723577",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5723577",
   "search_names": {
@@ -138,35 +139,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ローマンカモミール」",
+      "source": "Wikipedia (ja): ローマンカモミール",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%AB%E3%83%A2%E3%83%9F%E3%83%BC%E3%83%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108396433,
       "text": "ローマンカモミール、あるいはローマンカモマイル は、キク科の多年草である。一般的にカモミールと呼ぶものには、ジャーマンカモミールとローマンカモミールの2種がある。この2種は成分や形態に似ている部分もあるが、分類上の属は異なる。ヨーロッパではハーブとして、どちらも同じように使われてきた。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Chamaemelum nobile」",
+      "source": "Wikipedia (en): Chamaemelum nobile",
       "source_url": "https://en.wikipedia.org/wiki/Chamaemelum_nobile",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375924632,
       "text": "Chamaemelum nobile, commonly known as chamomile, is a low perennial plant found in dry fields and around gardens and cultivated grounds in Europe, North America, and South America. Its synonym is Anthemis nobilis, with various common names, such as Roman chamomile, English chamomile, garden chamomile, ground apple, low chamomile, mother's daisy or whig plant."
+    },
+    "es": {
+      "source": "Wikipedia (es): Chamaemelum nobile",
+      "source_url": "https://es.wikipedia.org/wiki/Chamaemelum_nobile",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175265756,
+      "text": "La Chamaemelum nobile comúnmente conocida como manzanilla o camomila común o manzanilla romana es una hierba perenne de la familia de las asteráceas, nativa de Europa que se encuentra en campos secos y alrededor de jardines y terrenos cultivados en Europa, América del Norte, América del Sur y el Norte de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Camomille romaine",
+      "source_url": "https://fr.wikipedia.org/wiki/Camomille_romaine",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239932986,
+      "text": "La camomille romaine ou camomille noble est une espèce de plante à fleurs de la famille des Astéracées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Camomila-romana",
+      "source_url": "https://pt.wikipedia.org/wiki/Camomila-romana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67736028,
+      "text": "A camomila-romana, camomila-de-paris, macela, mançanila, mançanilha, camomila ou camomilha é uma erva perene da família das asteráceas, nativa da Europa."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ローマンカモミール」の節「栽培」",
+        "source": "Wikipedia (ja): ローマンカモミール § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%AB%E3%83%A2%E3%83%9F%E3%83%BC%E3%83%AB#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 108396433,
         "heading": "栽培",
         "text": "日当たりと水はけのよい場所を好む。日本の夏の暑さには弱いので、鉢植えは、夏の間は日陰になる場所で管理する。香りの芝生として育てたい場合、カーペット状のカモミールの間に生えた草を抜くのは大変なので、苗を植えつける前に、きちんと草を抜いておくことが大事になる。密に茂るのを促すために、刈り込みを繰り返しす。\n水やりに関して、基本的には、年間を通じて乾かし気味に管理する。開花後、収穫を終えたら、暑くなる前に草丈を10cmほどに刈り込んでおくと、夏の蒸れを防ぐことができる。切り戻した茎や葉にもよい香りがあるので、入浴剤やポプリとして使える。\n増やす場合は、種まきか、さし芽を利用する。原種の種まきの適期は春と秋。発芽したばかりの苗は小さくて、強い雨や風に流されたり倒れたりしやすいため、鉢や苗床に箱まきするとよい。ダブルフラワーカモミールとノンフラワーカモミールは種ができないので、さし芽や株分けで増やす。さし芽は3月から4月上旬、10月に可能。種まきからでは開花が翌年になってしまうので、早く開花させたい場合はさし芽や株分けで増やす。立ち上がる花茎ではなく、横に伸びる茎を切ってさす。株分けは3月から4月上旬、9月中旬から10月に可能。4～5年を目安に、密生して老化した株をさし芽や株分けで更新する。根がついているので、さし芽より確実に増やすことができる。",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Camomille romaine § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Camomille_romaine#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239932986,
+        "heading": "Culture",
+        "text": "Zones de rusticité :\t4-9\nExposition :\tsoleil à mi-ombre \nSol :\tpH 6,6 à 7,5, sec à frais, sablonneux, sol pauvre, intolérant au sel, matière organique. Remarque : arrosage régulier\nMultiplication :\tdivision de la motte, semis",
         "truncated": false
       }
     }
@@ -182,7 +221,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -233,7 +272,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/192489-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -241,7 +280,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/192489-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000014359.webp",
@@ -254,6 +293,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

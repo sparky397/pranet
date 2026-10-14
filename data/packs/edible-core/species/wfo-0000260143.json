@@ -20,36 +20,28 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Paraná-pine",
-      "Parana Pine",
-      "Candelabra Tree"
-    ],
-    "es": [
-      "Pino Blanco",
-      "Pino de Missiones"
+    "fr": [
+      "Pin du Paraná"
     ],
     "pt": [
+      "Araucária",
       "araucária",
       "pinheiro-do-paraná",
       "pinheiro-brasileiro",
       "curi"
     ],
-    "zh": [
-      "狭叶南洋杉",
-      "巴西南洋杉"
-    ],
     "eo": [
       "Brazila araŭkario"
     ],
+    "zh": [
+      "巴西南洋杉",
+      "狭叶南洋杉"
+    ],
     "de": [
       "Brasilianische Araukarie"
-    ],
-    "fr": [
-      "Pin du Paraná"
     ],
     "lv": [
       "Šaurlapu araukārija"
@@ -113,13 +105,22 @@
     ],
     "cs": [
       "blahočet úzkolistý"
+    ],
+    "en": [
+      "Paraná-pine",
+      "Parana Pine",
+      "Candelabra Tree"
+    ],
+    "es": [
+      "Pino Blanco",
+      "Pino de Missiones"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q899179",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q899179",
   "search_names": {
@@ -129,13 +130,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Araucaria angustifolia」",
+      "source": "Wikipedia (en): Araucaria angustifolia",
       "source_url": "https://en.wikipedia.org/wiki/Araucaria_angustifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376015200,
       "text": "Araucaria angustifolia, the Paraná pine, Brazilian pine or candelabra tree, is a critically endangered species of conifer in the family Araucariaceae. Although the common names in various languages refer to the species as a pine, it does not belong in the genus Pinus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Araucaria angustifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Araucaria_angustifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175746532,
+      "text": "La Araucaria angustifolia es una especie arbórea perteneciente a la familia Araucariaceae. Aunque los nombres comunes en varios idiomas se refieren a la especie como \"pino\", no pertenece al género Pinus."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pin du Paraná",
+      "source_url": "https://fr.wikipedia.org/wiki/Pin_du_Paran%C3%A1",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227258985,
+      "text": "Le pin du Paraná est une espèce de conifères du genre Araucaria et de la famille des Araucariaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Araucária",
+      "source_url": "https://pt.wikipedia.org/wiki/Arauc%C3%A1ria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73145298,
+      "text": "Araucária é a espécie arbórea dominante da floresta ombrófila mista, ocorrendo majoritariamente na região Sul e Sudeste do Brasil, principalmente no sul do estado de São Paulo até as serras do Rio Grande do Sul e na Serra da Mantiqueira, mas é presente também ao longo do restante do Planalto Atlântico Paulista, até o sul do estado de Minas Gerais, na Serra da Bocaina, na Cuesta de Botucatu e na Região Serrana do estado do Rio de Janeiro, além de pequenos trechos no Paraguai e na província argentina de Misiones. Árvore de grande valor cultural, é conhecida por muitos nomes populares, entre eles estão pinheiro-do-paraná, pinheiro-de-são-paulo, pinheiro-brasileiro, pinheiro-das-missões, pinha-do-paraná ou simplesmente pinheiro, apesar de não ser um verdadeiro pinheiro e tampouco pertencer à família dos pinheiros (Pinaceae). É também conhecida por nomes de origem indígena, curi ou curiúva, em tupi e guarani, e fág, na língua caingangue. Internacionalmente é chamado ainda paraná pine, brazilian pine ou candelabra tree. As suas sementes, ditas pinhão, foram historicamente consumidas por povos indígenas, e são hoje parte tradicional da culinária caipira e da região Sul."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "pt": {
+        "source": "Wikipedia (pt): Araucária § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Arauc%C3%A1ria#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 73145298,
+        "heading": "Cultivo",
+        "text": "O cultivo da araucária se faz basicamente por meio da semeadura, mas, embora pouco utilizada, a enxertia é também um método de propagação viável. Mudas de araucária com 1,5 a 2 anos de idade foram enxertadas com bons resultados, mas durante o desenvolvimento os ramos apresentaram plagiotropismo e ortotropismo. Gurgel Filho citou dois métodos de enxertia, conseguindo 47,5% de êxito utilizando a garfagem, mas a borbulhia não deu resultados positivos. Embora prefira solos fundos e férteis, pode crescer em uma grande variedade de solos, excluindo porém os inundados, os arenosos e os muito rasos. Não se adapta bem a climas quentes mas tolera umidades atmosféricas bastante altas.\n\nAs sementes de araucária possuem boa germinação natural, dispensando a quebra de dormência, mas é costumeira a sua imersão em água à temperatura ambiente por 24 a 48 horas para embebição e semear somente os pinhões que afundam, rejeitando-se os que flutuam. A semeadura pode ser direta no campo, com três pinhões por cova, ou em recipiente, com 2 pinhões, colocados na posição horizontal. Segundo Carvalho, a semeadura direta nem sempre proporciona bons resultados, já que as sementes ficam muito vulneráveis ao ataque de animais, sendo mais seguro o uso de viveiros abrigados para produção de mudas. Recomenda que o recipiente para semeadura tenha pelo menos 20 cm de altura e 7 cm de diâmetro, com volume de substrato de 300 a 500 ml no mínimo. O substrato deve ser bem drenado, homogêneo, de baixa densidade e livre de contaminantes como pragas e doenças. Conforme sua composição, pode ser necessária adubação adicional. A muda deve permanecer no viveiro até atingir 15 a 20 cm de altura. Pode ser plantada a pleno sol em plantios puros ou sob vegetação matricial para conversão ou transformação.",
+        "truncated": true
+      }
     }
   },
   "edible": {
@@ -149,7 +192,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -162,7 +205,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/17518-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -170,7 +213,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/17518-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000260143.webp",
@@ -183,6 +226,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

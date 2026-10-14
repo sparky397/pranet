@@ -22,14 +22,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "丽杯角",
-      "呼撒丽杯角",
-      "丽杯阁"
-    ],
     "he": [
       "הודיה גורדוני"
     ],
@@ -41,24 +36,47 @@
     ],
     "arz": [
       "هوديا جوردونى"
+    ],
+    "zh": [
+      "丽杯阁",
+      "丽杯角",
+      "呼撒丽杯角"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q149296",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q149296",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Hoodia gordonii」",
+      "source": "Wikipedia (en): Hoodia gordonii",
       "source_url": "https://en.wikipedia.org/wiki/Hoodia_gordonii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1350202025,
       "text": "Hoodia gordonii, also known as Bushman's hat, is a leafless spiny succulent plant claimed to have therapeutic properties in folk medicine. It grows naturally in Botswana, South Africa and Namibia. The species became internationally known and threatened by collectors, after a marketing campaign falsely claimed that it was an appetite suppressant for weight loss. The flowers smell like rotten meat and are pollinated mainly by flies. The indigenous San people of the Namib desert call this plant ǁhoba."
+    },
+    "es": {
+      "source": "Wikipedia (es): Hoodia gordonii",
+      "source_url": "https://es.wikipedia.org/wiki/Hoodia_gordonii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172115361,
+      "text": "Hoodia gordonii —ǁhoba (kǁʰɔbɑ) en idioma khoe, y  Ghaap en afrikáans— es una planta medicinal perteneciente a la subfamilia de las Asclepiadáceas nativa del sur de África. Es muy común en el desierto del Kalahari, donde las elevadas temperaturas permiten su floración. En otras latitudes crece con dificultad, de hecho no tolera temperaturas invernales inferiores a los 15 °C."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Hoodia gordonii",
+      "source_url": "https://fr.wikipedia.org/wiki/Hoodia_gordonii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235373531,
+      "text": "Hoodia gordonii est une espèce de plantes à fleurs appartenant au genre Hoodia et à la famille des Apocynacées, originaire du désert du Kalahari."
     }
   },
   "edible": {
@@ -71,7 +89,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -83,7 +101,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/98342-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent subshrub or shrub",
@@ -91,7 +109,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/98342-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001104548.webp",
@@ -104,6 +122,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

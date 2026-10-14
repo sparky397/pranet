@@ -25,27 +25,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "fr": [
+      "Impératoire"
+    ],
     "de": [
       "Meisterwurz"
     ],
-    "en": [
-      "masterwort"
-    ],
-    "zh": [
-      "紫前胡",
-      "欧前胡"
-    ],
-    "sl": [
-      "jaščarica"
-    ],
     "cs": [
       "všedobr horský"
-    ],
-    "fr": [
-      "Impératoire"
     ],
     "nn": [
       "Meisterrot"
@@ -88,13 +78,23 @@
     ],
     "lv": [
       "Meistarsakne"
+    ],
+    "en": [
+      "masterwort"
+    ],
+    "zh": [
+      "紫前胡",
+      "欧前胡"
+    ],
+    "sl": [
+      "jaščarica"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q202532",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q202532",
   "search_names": {
@@ -104,13 +104,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Peucedanum ostruthium」",
+      "source": "Wikipedia (en): Peucedanum ostruthium",
       "source_url": "https://en.wikipedia.org/wiki/Peucedanum_ostruthium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368840188,
       "text": "Peucedanum ostruthium or Imperatoria ostruthium, masterwort, is a species of flowering plant in the family Apiaceae. It is native to the mountains of Central and Southern Europe, but has been widely introduced outside its native range."
+    },
+    "es": {
+      "source": "Wikipedia (es): Peucedanum ostruthium",
+      "source_url": "https://es.wikipedia.org/wiki/Peucedanum_ostruthium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 135212259,
+      "text": "Peucedanum ostruthium o Imperatoria ostruthium W.D.J.Koch es una especie fanerógama perteneciente a la familia Apiaceae. Es nativa de Europa central donde crece en prados húmedos de montaña."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Impératoire",
+      "source_url": "https://fr.wikipedia.org/wiki/Imp%C3%A9ratoire",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226016644,
+      "text": "L’Impératoire ou le Benjoin est une espèce de plantes à fleurs de la famille des Apiaceae (Ombellifères)."
     }
   },
   "edible": {
@@ -123,7 +141,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -160,7 +178,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/846311-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -168,7 +186,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/846311-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000391825.webp",
@@ -181,6 +199,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 333,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

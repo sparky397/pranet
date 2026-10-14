@@ -16,13 +16,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Livingstone's garcinia",
-      "African Mangosteen",
-      "Lowveld Mangosteen"
+    "id": [
+      "Imbe"
     ],
     "so": [
       "Dhamaag"
@@ -39,18 +37,20 @@
     "arz": [
       "جارسينيا ليفينجستين"
     ],
-    "id": [
-      "Imbe"
-    ],
     "ar": [
       "غارسينيا ليفينغستوني"
+    ],
+    "en": [
+      "Livingstone's garcinia",
+      "African Mangosteen",
+      "Lowveld Mangosteen"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1255770",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1255770",
   "search_names": {
@@ -61,13 +61,22 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Garcinia livingstonei」",
+      "source": "Wikipedia (en): Garcinia livingstonei",
       "source_url": "https://en.wikipedia.org/wiki/Garcinia_livingstonei",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1350109914,
       "text": "Garcinia livingstonei is a species of Garcinia, native to a broad area of tropical Africa, from Senegal east to Somalia, south to South Africa, and to the Comoros."
+    },
+    "id": {
+      "source": "Wikipedia (id): Imbe",
+      "source_url": "https://id.wikipedia.org/wiki/Imbe",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 27658667,
+      "text": "Imbe adalah spesies Garcinia, yang berasal dari wilayah luas di daerah tropis Afrika, dari Pantai Gading di timur hingga Somalia, dan ke selatan hingga Afrika Selatan."
     }
   },
   "edible": {
@@ -87,7 +96,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -127,7 +136,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/428049-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -135,7 +144,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/428049-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000694422.webp",
@@ -148,6 +157,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

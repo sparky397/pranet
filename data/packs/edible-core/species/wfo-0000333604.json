@@ -23,17 +23,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "非洲马铃果"
-    ],
     "ru": [
       "Воаканга африканская"
     ],
     "fa": [
       "وواکانگا آفریکانا"
+    ],
+    "zh": [
+      "非洲马铃果"
     ],
     "ar": [
       "فوكانجا إفريقية"
@@ -43,18 +43,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4015906",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4015906",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Voacanga africana」",
+      "source": "Wikipedia (en): Voacanga africana",
       "source_url": "https://en.wikipedia.org/wiki/Voacanga_africana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1359015145,
       "text": "Voacanga africana is a small tree native to tropical Africa belonging to the family Apocynaceae that grows to 6 m (20 ft) in height and bears leaves that are up to 30 cm (12 in) in length. The yellow or white flowers are succeeded by paired, follicular, dehiscent fruit with a mottled green exocarp and a pulpy, yellow mesocarp surrounding the seeds. The plant contains alkaloids acting as CNS depressants and hypotensives."
+    },
+    "es": {
+      "source": "Wikipedia (es): Voacanga africana",
+      "source_url": "https://es.wikipedia.org/wiki/Voacanga_africana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 133493590,
+      "text": "Voacanga africana es una especie de pequeño árbol perteneciente a la familia de las apocináceas. Es originaria de África tropical."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Voacanga africana",
+      "source_url": "https://fr.wikipedia.org/wiki/Voacanga_africana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 211144983,
+      "text": "Voacanga africana est une espèce de plantes à fleurs de la famille des Apocynaceae."
     }
   },
   "edible": {
@@ -72,7 +90,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -113,7 +131,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/82719-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -121,7 +139,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/82719-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000333604.webp",
@@ -134,6 +152,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 334,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

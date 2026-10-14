@@ -20,18 +20,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "kou"
-    ],
-    "zh": [
-      "橙花破布子",
-      "橙花破布木"
-    ],
-    "haw": [
-      "Kou"
+    "id": [
+      "Jati emas"
     ],
     "nl": [
       "Kou"
@@ -48,6 +41,10 @@
     "ar": [
       "سبستان شبه قلبي"
     ],
+    "zh": [
+      "橙花破布木",
+      "橙花破布子"
+    ],
     "ms": [
       "Pokok Agutud"
     ],
@@ -57,21 +54,24 @@
     "ty": [
       "Tou"
     ],
+    "haw": [
+      "Kou"
+    ],
     "arz": [
       "سبستان شبه قلبى"
     ],
     "fa": [
       "سپستان ساحلی"
     ],
-    "id": [
-      "Jati emas"
+    "en": [
+      "kou"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q675926",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q675926",
   "search_names": {
@@ -86,13 +86,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cordia subcordata」",
+      "source": "Wikipedia (en): Cordia subcordata",
       "source_url": "https://en.wikipedia.org/wiki/Cordia_subcordata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369194513,
       "text": "Cordia subcordata is a species of flowering tree in the family Cordiaceae. It can be found growing in eastern Africa, South Asia, Southeast Asia, northern Australia and the Pacific Islands. The plant is known by a variety of names, including kou, beach cordia, sea trumpet, and kerosene wood."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cordia subcordata",
+      "source_url": "https://es.wikipedia.org/wiki/Cordia_subcordata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174511716,
+      "text": "Cordia subcordata es una especie de árbol perteneciente a la familia Boraginaceae, que se produce en el este de África, el sur de Asia, el sudeste de Asia, el norte de Australia y las islas del Pacífico."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cordia subcordata",
+      "source_url": "https://fr.wikipedia.org/wiki/Cordia_subcordata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227790073,
+      "text": "Cordia subcordata ou noyer d'océanie ou faux-ébène, appelé tou à Tahiti, est une espèce de plante du genre Cordia de la famille des Boraginaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jati emas",
+      "source_url": "https://id.wikipedia.org/wiki/Jati_emas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28468385,
+      "text": "Jati emas atau Kalimasada adalah spesies pohon berbunga dalam genus cordia yang tumbuh di Afrika timur, Asia Selatan, Asia Tenggara, Australia utara, dan Kepulauan Pasifik."
     }
   },
   "edible": {
@@ -109,7 +136,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -183,7 +210,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/114575-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -191,7 +218,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/114575-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000621005.webp",
@@ -204,6 +231,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

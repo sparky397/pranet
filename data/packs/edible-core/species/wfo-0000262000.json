@@ -16,52 +16,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ビンロウ"
     ],
-    "en": [
-      "betel palm"
-    ],
-    "cs": [
-      "areka obecná"
-    ],
-    "de": [
-      "Betelnusspalme"
-    ],
-    "fi": [
-      "Pähkinäbetelpalmu",
-      "Arekapalmu"
-    ],
     "fr": [
+      "Aréquier",
       "Palmier à bétel"
     ],
-    "hy": [
-      "Արեկնի",
-      "փուփլե"
-    ],
-    "ml": [
-      "കമുക്",
-      "കവുങ്ങ്"
-    ],
-    "nl": [
-      "betelpalm"
-    ],
-    "zh": [
-      "檳榔",
-      "槟榔",
-      "大果槟榔",
-      "槟榔子",
-      "大腹皮",
-      "槟榔花"
-    ],
-    "sl": [
-      "betlova palma"
-    ],
-    "ru": [
-      "Бетелевая пальма"
+    "id": [
+      "Pinang"
     ],
     "nan": [
       "Pin-nn̂g"
@@ -90,8 +56,12 @@
     "et": [
       "Beetli-areekapalm"
     ],
-    "id": [
-      "Pinang"
+    "de": [
+      "Betelnusspalme"
+    ],
+    "ml": [
+      "കവുങ്ങ്",
+      "കമുക്"
     ],
     "bn": [
       "সুপারি"
@@ -114,6 +84,9 @@
     "sv": [
       "Betelpalm"
     ],
+    "nl": [
+      "Betelpalm"
+    ],
     "ar": [
       "فوفل كاتشو"
     ],
@@ -129,6 +102,9 @@
     "su": [
       "Jambé"
     ],
+    "ru": [
+      "Бетелевая пальма"
+    ],
     "kn": [
       "ಅಡಿಕೆ"
     ],
@@ -137,6 +113,13 @@
     ],
     "ca": [
       "Palmera d'areca"
+    ],
+    "fi": [
+      "Arekapalmu",
+      "Pähkinäbetelpalmu"
+    ],
+    "cs": [
+      "areka obecná"
     ],
     "mr": [
       "पोफळ"
@@ -155,6 +138,14 @@
     ],
     "tl": [
       "Bunga"
+    ],
+    "zh": [
+      "檳榔",
+      "槟榔",
+      "大果槟榔",
+      "槟榔子",
+      "大腹皮",
+      "槟榔花"
     ],
     "ko": [
       "빈랑야자"
@@ -237,6 +228,9 @@
     "bjn": [
       "Pinang"
     ],
+    "sl": [
+      "betlova palma"
+    ],
     "frr": [
       "Beetelpualem"
     ],
@@ -260,13 +254,20 @@
     ],
     "mn": [
       "Бинлан"
+    ],
+    "en": [
+      "betel palm"
+    ],
+    "hy": [
+      "Արեկնի",
+      "փուփլե"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q156969",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q156969",
   "search_names": {
@@ -285,36 +286,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ビンロウ」",
+      "source": "Wikipedia (ja): ビンロウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%B3%E3%83%AD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110638974,
       "text": "ビンロウまたはビンロウジュ は、太平洋・アジアおよび東アフリカの一部で見られるヤシ科の植物。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Areca catechu」",
+      "source": "Wikipedia (en): Areca catechu",
       "source_url": "https://en.wikipedia.org/wiki/Areca_catechu",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378854658,
       "text": "Areca catechu is a species of palm native to the Philippines. It was later introduced to much of tropical South and Southeast Asia, South-central China and Taiwan, West Africa and Madagascar, some of the Pacific Islands, and the West Indies. It is widely cultivated for its seeds, which are used in along with betel leaves and slaked lime for chewing."
+    },
+    "es": {
+      "source": "Wikipedia (es): Areca catechu",
+      "source_url": "https://es.wikipedia.org/wiki/Areca_catechu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 161196576,
+      "text": "Areca catechu es una especie del género Areca, tipo de la familia Arecaceae. Este árbol es una palmera cultivada principalmente para obtener su fruto, la nuez de areca, que se usa en gran parte de Asia y Oceanía por sus propiedades estimulantes."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Aréquier",
+      "source_url": "https://fr.wikipedia.org/wiki/Ar%C3%A9quier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235807529,
+      "text": "L'aréquier (Areca catechu), est une espèce de palmiers originaire des Philippines. Il appartient au genre Areca, de la famille des Arecaceae. Le nom vernaculaire palmier à bétel est sujet à confusion avec une autre plante, le bétel."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Areca catechu",
+      "source_url": "https://pt.wikipedia.org/wiki/Areca_catechu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65908806,
+      "text": "Areca catechu é uma espécie de palmeira encontrada em alguns países de clima tropical da Oceania e do leste da África. Sua noz é bastante empregada para uso medicinal. Acredita-se que tenha sua origem na Malásia ou nas Filipinas. O nome Areca provém de sua denominação na costa de Malabar, na Índia, e catechu é seu nome de origem malaia. Essa palmeira é erroneamente chamada de bétel, já que sua noz costuma ser mascada juntamente com as folhas da Piper betle, planta da família das piperáceas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pinang",
+      "source_url": "https://id.wikipedia.org/wiki/Pinang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29619628,
+      "text": "Pinang adalah salah satu jenis tumbuhan monokotil yang tergolong palem-paleman. Pohon pinang masuk ke dalam famili Arecaceae pada ordo Arecales. Pohon ini merupakan salah satu tanaman dengan nilai ekonomi dan potensi yang cukup tinggi. Tanaman yang memiliki batang lurus dan ramping ini memiliki banyak sekali manfaat dan umum dikenal sebagai tanaman obat. Pemanfaatan tanaman pinang selain untuk ekspor ke Tiongkok dan beberapa negara Asia Selatan, di beberapa daerah Sumatra dan Kalimantan dimanfaatkan untuk acara seremonial seperti ramuan sirih pinang untuk upacara adat. Kemajuan ilmu pengetahuan dan teknologi saat ini telah mengubah pola pemanfaatan tanaman pinang seperti untuk keperluan farmasi dan industri, sementara India dan Tiongkok saat ini telah mengolah pinang menjadi permen."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Areca catechu」の節「Cultivation」",
+        "source": "Wikipedia (en): Areca catechu § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Areca_catechu#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378854658,
         "heading": "Cultivation",
         "text": "It is widely cultivated for its seed (areca nut). Though the tree grows in a variety of habitats and soils, it prefers moist, well drained soils. While it is grown in tropical areas with high annual average temperatures, they are generally planted with other trees to protect the young plants initially and the fruits from the sun later. The plants are usually sprouted directly from the seeds and are transplanted later. Other spices are often grown along with areca trees. Trees mature in about five years. The matured and ripe fruits are harvested and are dried in the sun for 40 to 45 days.\nVarious parts of the trees are affected by mites, nematodes and caterpillars. Plant diseases that may affect areca trees include Collar rot, Stem rot, and yellow leaf spot.",
         "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Aréquier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Ar%C3%A9quier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 235807529,
+        "heading": "Culture",
+        "text": "L’aréquier est cultivé en Inde, Indonésie, Malaisie, Philippines, Sri Lanka, Taiwan ainsi qu’en Afrique. L’Inde est le premier producteur mondial et le premier exportateur de noix d’arec (Rabha, Areca Nut Cultivation in Assam, 2021). Ses trois principales régions productrices de noix d'arec sont le Karnataka, le Kerala et l'Assam.\n\nOn observe que sur la dernière décennie (précisément 2010-2021), la production mondiale a plus que doublé, tirée principalement par l’Inde, et ensuite un peu par le Bangladesh, alors que la production de la Chine, de l’Indonésie et de la Malaisie ont reculé.\nD'après l'enquête de terrain de Rabha, les plantations de palmiers d’arec dans le district Kamrup, en Assam (sur les rives du Brahmapoutre), sont pour plus de la moitié de très petites surfaces. Les plantations peuvent être associées à d’autres cultures, comme celles de l’ananas, du bétel, du poivrier noir, de la papaye, de légumes etc.\nLa première étape de la culture des noix d'arec consiste à niveler le sol et à clôturer les parcelles afin que les plants soient à l'abri des vaches, des chèvres et d'autres animaux. Les graines fraiches germent en 3 à 5 mois à une température de 24–28 °C. Les arbres cultivés donnent des récoltes entre l’âge de 6-7 ans et jusqu’à 40 ans, après quoi ils sont moins productifs mais ils peuvent vivre jusqu’à 60 ans.\nLa récolte se fait de septembre à janvier en Inde.\nÉtant donné l’énorme hauteur de l’aréquier (de 15 à 20 m soit la hauteur d’un bâtiment de 6-7 étages), la récolte est une activité dangereuse, demandant une grande habileté, confiée à des jeunes vigoureux et forts, âgés de 15 à 20 ans. Ils doivent monter régulièrement en haut de l’arbre à la force des jambes et des bras et une fois en haut, ils doivent couper les infrutescences.",
+        "truncated": true
       }
     }
   },
@@ -333,7 +381,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -383,7 +431,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664107-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -391,7 +439,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664107-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000262000.webp",
@@ -404,6 +452,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 383,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

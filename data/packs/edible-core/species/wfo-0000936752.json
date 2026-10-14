@@ -26,21 +26,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "華八角楓",
-      "八角枫",
-      "白龙须",
-      "八月炸",
-      "华瓜木"
-    ],
     "th": [
       "ผีเสื้อ"
     ],
     "ar": [
       "علنج صيني"
+    ],
+    "zh": [
+      "八角枫",
+      "華八角楓",
+      "白龙须",
+      "八月炸",
+      "华瓜木"
     ],
     "fi": [
       "puikkokanuke"
@@ -62,18 +62,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2707318",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2707318",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Alangium chinense」",
+      "source": "Wikipedia (en): Alangium chinense",
       "source_url": "https://en.wikipedia.org/wiki/Alangium_chinense",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314028421,
       "text": "Alangium chinense is a species of flowering plant in the family Cornaceae. It has the Chinese name."
+    },
+    "es": {
+      "source": "Wikipedia (es): Alangium chinense",
+      "source_url": "https://es.wikipedia.org/wiki/Alangium_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 135210533,
+      "text": "Alangium chinense es una especie de planta fanerógama perteneciente a la familia Alangiaceae. Su nombre en chino es: bā jiǎo fēng y es una de las 50 hierbas fundamentales usadas en la medicina tradicional china."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Alangium chinense",
+      "source_url": "https://fr.wikipedia.org/wiki/Alangium_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 203980925,
+      "text": "Alangium chinense est un arbre de la famille des Alangiacées en classification classique de Cronquist (1981) ou de la famille des Cornacées en classification AGP II ou AGP III, d'Asie et d'Afrique."
+    },
+    "id": {
+      "source": "Wikipedia (id): Alangium chinense",
+      "source_url": "https://id.wikipedia.org/wiki/Alangium_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29791583,
+      "text": "Alangium chinense adalah spesies tumbuhan berbunga dari familia Cornaceae. Tanaman ini di Tiongkok bernama. Di Indonesia dikenal dengan nama lokal Merlapang"
     }
   },
   "edible": {
@@ -89,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -133,7 +160,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/58133-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -141,7 +168,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/58133-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000936752.webp",
@@ -154,6 +181,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -19,7 +19,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -29,81 +29,24 @@
       "Cumin",
       "cumin"
     ],
-    "cy": [
-      "cwmin"
-    ],
-    "de": [
-      "Cumin",
-      "Kreuzkümmel",
-      "Kumin",
-      "Mutterkümmel",
-      "Römischer Kümmel",
-      "Weißer Kümmel",
-      "Welscher Kümmel"
-    ],
-    "es": [
-      "Comino"
-    ],
-    "fi": [
-      "juustokumina",
-      "Roomankumina"
-    ],
     "fr": [
+      "Cumin",
+      "cumin",
       "cumin blanc",
       "cumin de Maroc",
-      "Cumin",
       "faux anis"
-    ],
-    "hi": [
-      "जीरा"
-    ],
-    "hu": [
-      "Római kömény",
-      "rómaikömény"
-    ],
-    "it": [
-      "cumino romano",
-      "Cumino"
-    ],
-    "mr": [
-      "जिरे"
-    ],
-    "nl": [
-      "Komijn"
-    ],
-    "nb": [
-      "spisskarve",
-      "Spisskummen",
-      "spisskum"
-    ],
-    "pl": [
-      "Kmin Rzymski"
     ],
     "pt": [
       "Cominho"
     ],
-    "sv": [
-      "Spiskummin"
-    ],
-    "tr": [
-      "Kimyon"
-    ],
-    "bn": [
-      "জিরা"
-    ],
-    "zh": [
-      "孜然芹",
-      "孜然芹（香旱芹）",
-      "孜然"
-    ],
-    "ast": [
-      "comín"
-    ],
-    "sl": [
-      "rimska kumina"
+    "id": [
+      "Jintan putih"
     ],
     "jv": [
       "Jinten putih"
+    ],
+    "pl": [
+      "Kmin rzymski"
     ],
     "eu": [
       "kumino"
@@ -116,6 +59,10 @@
     ],
     "ms": [
       "Jintan putih"
+    ],
+    "hu": [
+      "rómaikömény",
+      "Római kömény"
     ],
     "ceb": [
       "Komino"
@@ -132,6 +79,12 @@
     "ar": [
       "كمون"
     ],
+    "nl": [
+      "komijn"
+    ],
+    "sv": [
+      "spiskummin"
+    ],
     "eo": [
       "Kumino"
     ],
@@ -140,6 +93,13 @@
     ],
     "ru": [
       "Зира"
+    ],
+    "tr": [
+      "Kimyon"
+    ],
+    "fi": [
+      "roomankumina",
+      "juustokumina"
     ],
     "uk": [
       "Зіра"
@@ -174,8 +134,14 @@
     "gl": [
       "Comiño"
     ],
-    "id": [
-      "Jintan putih"
+    "de": [
+      "Kreuzkümmel",
+      "Cumin",
+      "Kumin",
+      "Mutterkümmel",
+      "Römischer Kümmel",
+      "Weißer Kümmel",
+      "Welscher Kümmel"
     ],
     "ml": [
       "ജീരകം"
@@ -186,17 +152,26 @@
     "sa": [
       "जीरकम्"
     ],
+    "hi": [
+      "जीरा"
+    ],
     "ro": [
       "Chimion"
     ],
     "ca": [
       "comí"
     ],
+    "sl": [
+      "rimska kumina"
+    ],
     "cs": [
       "šabrej kmínovitý"
     ],
     "bg": [
       "кимион"
+    ],
+    "mr": [
+      "जिरे"
     ],
     "fa": [
       "زیره سبز"
@@ -207,6 +182,11 @@
     "ka": [
       "ძირა"
     ],
+    "zh": [
+      "孜然",
+      "孜然芹",
+      "孜然芹（香旱芹）"
+    ],
     "ku": [
       "Reşke"
     ],
@@ -215,6 +195,11 @@
     ],
     "os": [
       "Зира"
+    ],
+    "nb": [
+      "spisskum",
+      "spisskarve",
+      "Spisskummen"
     ],
     "lv": [
       "kumīns"
@@ -236,6 +221,9 @@
     ],
     "af": [
       "Komyn"
+    ],
+    "cy": [
+      "Cwmin"
     ],
     "ur": [
       "زیرہ"
@@ -300,6 +288,9 @@
     "lez": [
       "Гьефер"
     ],
+    "bn": [
+      "জিরা"
+    ],
     "lb": [
       "Kräizkimmel"
     ],
@@ -329,13 +320,23 @@
     ],
     "pnt": [
       "κυμιόνιν"
+    ],
+    "es": [
+      "Comino"
+    ],
+    "it": [
+      "cumino romano",
+      "Cumino"
+    ],
+    "ast": [
+      "comín"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q132624",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q132624",
   "search_names": {
@@ -356,22 +357,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「クミン」",
+      "source": "Wikipedia (ja): クミン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%9F%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111109302,
       "text": "クミン は、セリ科の一年生草本である。中東から東はインドまで広がる地域に自生する。種子（クミン・シード）に強い芳香とほろ苦み、辛みがあり、香辛料として用いられる。一般には種子と呼ばれているが、植物学上は果実である。クミンは伝統医学において役に立つと考えられているものの、医薬品として安全または有効性があるとする質の高いエビデンスは存在しない。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cumin」",
+      "source": "Wikipedia (en): Cumin",
       "source_url": "https://en.wikipedia.org/wiki/Cumin",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378292296,
       "text": "Cumin is a flowering plant in the family Apiaceae, native to the Irano-Turanian Region. Its seeds – each one contained within a fruit, which is dried – are used in the cuisines of many cultures in both whole and ground form. Although cumin is used in traditional medicine, there is no high-quality evidence that it is safe or effective as a therapeutic agent."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cuminum cyminum",
+      "source_url": "https://es.wikipedia.org/wiki/Cuminum_cyminum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175593673,
+      "text": "El comino es una planta herbácea perteneciente a la familia Apiaceae, cuyas semillas aromáticas se usan como especia. Originaria de la cuenca del Mediterráneo y ahora difundida también por América, es una planta con importancia histórica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cumin",
+      "source_url": "https://fr.wikipedia.org/wiki/Cumin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234777410,
+      "text": "Le Cumin est une espèce de plantes à fleurs de la famille des Apiacées. C'est une plante herbacée annuelle originaire du Proche-Orient."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cominho",
+      "source_url": "https://pt.wikipedia.org/wiki/Cominho",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68954426,
+      "text": "O cominho é uma planta da família Apiaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jintan putih",
+      "source_url": "https://id.wikipedia.org/wiki/Jintan_putih",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29838006,
+      "text": "Jintan putih merupakan tumbuhan berbunga dari famili Apiaceae yang berasal dari daerah Laut Tengah bagian timur sampai India bagian timur."
     }
   },
   "edible": {
@@ -386,7 +423,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -429,7 +466,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/840882-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -437,7 +474,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/840882-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000629277.webp",
@@ -450,6 +487,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 303,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

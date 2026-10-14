@@ -15,7 +15,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -25,32 +25,26 @@
       "Turmeric",
       "common turmeric"
     ],
-    "arz": [
-      "كركم"
-    ],
-    "ca": [
+    "pt": [
+      "Açafrão-da-terra",
       "Cúrcuma"
     ],
-    "es": [
-      "Cúrcuma",
-      "Cúrcuma longa"
-    ],
-    "pt": [
-      "Cúrcuma",
-      "Açafrão-da-terra"
-    ],
-    "sl": [
-      "kurkuma"
+    "id": [
+      "Kunyit"
     ],
     "zh": [
-      "姜黄",
-      "薑黃"
+      "薑黃",
+      "姜黄"
     ],
     "jv": [
       "Kunir"
     ],
     "pl": [
       "Ostryż długi"
+    ],
+    "es": [
+      "Cúrcuma longa",
+      "Cúrcuma"
     ],
     "ta": [
       "மஞ்சள்"
@@ -169,9 +163,6 @@
     "de": [
       "Kurkuma"
     ],
-    "id": [
-      "Kunyit"
-    ],
     "ml": [
       "മഞ്ഞൾ"
     ],
@@ -192,6 +183,12 @@
     ],
     "th": [
       "ขมิ้น"
+    ],
+    "ca": [
+      "cúrcuma"
+    ],
+    "sl": [
+      "kurkuma"
     ],
     "cs": [
       "kurkumovník domácí"
@@ -301,6 +298,9 @@
     "ban": [
       "Kunyit"
     ],
+    "arz": [
+      "كركم"
+    ],
     "gom": [
       "हळद"
     ],
@@ -363,7 +363,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q42562",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q42562",
   "search_names": {
@@ -392,35 +392,106 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ウコン」",
+      "source": "Wikipedia (ja): ウコン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B3%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109789418,
       "text": "ウコン は、ショウガ科ウコン属の多年草。英称ターメリック（turmeric）。インドが原産であり、紀元前からインドで栽培されている。呉音「ウッコン」が転訛しウコンとなった。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Turmeric」",
+      "source": "Wikipedia (en): Turmeric",
       "source_url": "https://en.wikipedia.org/wiki/Turmeric",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375499984,
       "text": "Turmeric, or Curcuma longa, is a flowering plant in the ginger family Zingiberaceae. It is a perennial, rhizomatous, herbaceous plant native to the Indian subcontinent and Southeast Asia that requires temperatures between 20 and 30 °C and high annual rainfall to thrive. Plants are gathered each year for their rhizomes, some for propagation in the following season and some for consumption or dyeing."
+    },
+    "es": {
+      "source": "Wikipedia (es): Curcuma longa",
+      "source_url": "https://es.wikipedia.org/wiki/Curcuma_longa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174494425,
+      "text": "La cúrcuma o turmérico es una planta herbácea de la familia de las zingiberáceas nativa del suroeste de la India."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Curcuma",
+      "source_url": "https://fr.wikipedia.org/wiki/Curcuma",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239499302,
+      "text": "Le curcuma est une espèce de plantes herbacées rhizomateuses vivaces du genre Curcuma originaire du sud ou sud-est asiatique. De ses rhizomes, réduits en poudre, est extraite l'épice homonyme de couleur jaune (curry)."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Açafrão-da-terra",
+      "source_url": "https://pt.wikipedia.org/wiki/A%C3%A7afr%C3%A3o-da-terra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71564725,
+      "text": "Curcuma longa comummente conhecida como Curcuma (português europeu) ou Cúrcuma (português brasileiro), é uma planta herbácea da família do gengibre (Zingiberaceae), originária do Sudeste da Ásia. Da sua raiz seca e moída, obtém-se a especiaria homónima, utilizada como condimento ou corante de cor amarela e brilhante, na culinária e no preparo de medicamentos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kunyit",
+      "source_url": "https://id.wikipedia.org/wiki/Kunyit",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30008199,
+      "text": "Kunyit atau kunir adalah termasuk salah satu tanaman rempah-rempah dan obat asli dari wilayah Asia Tenggara. Tanaman ini tersebar dari daerah Malaysia, Indonesia, dan negara negara di Asia Tenggara hingga Australia bahkan Afrika. Bagian akarnya yang disebut rimpang merupakan rempah penting yg digunakan secara luas sebagai obat tradisional, minuman kesehatan dan pewarna alami, dan bumbu pada masakan. Hampir setiap orang Indonesia dan India serta bangsa Asia umumnya pernah mengonsumsi tanaman rempah ini, baik sebagai bumbu masakan, jamu, minuman kesehatan maupun obat untuk menjaga kesehatan dan kecantikan."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ウコン」の節「栽培」",
+        "source": "Wikipedia (ja): ウコン § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B3%E3%83%B3#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109789418,
         "heading": "栽培",
         "text": "早春に種球の育苗を行い、春に植え付け、晩秋から初冬にかけて収穫する。栽培の難度はふつうで、輪作の年限は2年とされる。根がはる作物なので、株間を広く取って苗を植え付ける。乾燥や寒さには弱いことから、夏に晴天が続くときは水やりをする。\nウコンの種球を植え付けする畑は、元肥に堆肥などをすき込んでおき、畝を立てておく。種球は小さいものはそのままでよいが、大きいものは50グラム (g) 程度の大きさに割る。種球から芽出しして育苗するため、腐葉土を入れた育苗ポットに種球を植え、土が乾いたら湿る程度に水やりをして、発芽から10センチメートル (cm) 程度の苗になるまで暖かい環境で育てる。苗を畑に植え付けるときは、ポットごと水につけて吸水させてから、株間80 cm以上とって植え付ける。植え付けから2週間後から、ぼかし肥や鶏糞などで追肥を行い、以後2週間の1度のペースで追肥を行なっていくと、草丈が90 - 140 cmくらいまで生長していく。夏に開花して、晩秋のころになると葉が枯れてきて根茎の収穫期を迎える。葉が枯れてきて霜が降りる前に、まわりから掘って収穫する。",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Curcuma § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Curcuma#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239499302,
+        "heading": "Culture",
+        "text": "La récolte des rhizomes de curcuma peut commencer quand la tige commence à sécher. Cela se produit environ sept à huit mois après la plantation. Les rhizomes sont retirés du sol et laissés au repos quelques heures pour stabiliser le taux d'humidité. Ils sont ensuite triés et nettoyés à l'eau (par immersion, agitation ou aspersion).",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Açafrão-da-terra § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/A%C3%A7afr%C3%A3o-da-terra#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71564725,
+        "heading": "Cultivo",
+        "text": "A curcuma é uma planta dos trópicos húmidos e subtropicais, encontrando-se a altitudes de até 2.000 metros. Tende a crescer melhor em áreas onde as temperaturas diurnas anuais alternem entre os 20 e 28 graus Celsius, podendo, no entanto, suportar gamas de temperaturas entre os 18 e os 32 graus Celsius. Prefere uma precipitação anual média entre os 1.000 e 2.000 mm, podendo, no entanto, suportar precipitações anuais na ordem dos 800 a 3.000 mm.\nA curcuma sói de privilegiar solos férteis, bem drenado e com sombra. Em todo o caso, é susceptível de se desenvolver bem tanto em áreas com forte exposição solar, como em espaços com sombra parcial. Prefere um pH do solo entre 6 e 7, mas tolera de 5,5 a 7,5.\nNa Índia, o cultivo enceta-se pouco antes da estação das chuvas, sendo que as primeiras folhas costumam despontar do solo passados cerca de 30 dias. A colheita sucede quando as folhas murcham, passados cerca de 270 a 365 dias.\nAs colheitas de curcuma geralmente variam entre as 7 e as 9 toneladas por hectare, quando é feito cultivo apenas em sequeiro e entre 17 e 25 toneladas por hectare, quando sob irrigação.\nO açafroeiro-da-índia está adaptado para medrar em áreas com seca sazonal e em florestas de monções.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Curcuma § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Curcuma#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239499302,
+        "heading": "Toxicité",
+        "text": "En Italie, des cas d'atteintes hépatiques pourraient être imputables à des préparations à base de curcuma. Dix cas avaient déjà été signalés en Suède et cinq en Norvège en 2009. Le danger semble survenir lors de l'association du curcuma et du nimésulide que l'on trouve dans certaines préparations. Une étude montre que certains compléments alimentaires dont le curcuma sont associés à un risque plus élevé d'atteinte du foie.",
         "truncated": false
       }
     }
@@ -439,7 +510,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -504,7 +575,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/796451-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -512,7 +583,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/796451-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000365771.webp",
@@ -525,6 +596,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 374,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

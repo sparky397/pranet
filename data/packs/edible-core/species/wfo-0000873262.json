@@ -24,31 +24,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "de": [
       "Wasser-Schwaden",
       "Grosses Süeegras"
-    ],
-    "en": [
-      "reed mannagrass",
-      "reed sweet-grass"
-    ],
-    "nl": [
-      "Liesgras"
-    ],
-    "cs": [
-      "zblochan vodní"
-    ],
-    "fr": [
-      "glycérie aquatique"
-    ],
-    "fi": [
-      "isosorsimo"
-    ],
-    "zh": [
-      "水甜茅"
     ],
     "sah": [
       "Өлөҥ"
@@ -65,8 +46,14 @@
     "da": [
       "Høj Sødgræs"
     ],
+    "nl": [
+      "Liesgras"
+    ],
     "sv": [
       "Jättegröe"
+    ],
+    "zh": [
+      "水甜茅"
     ],
     "uk": [
       "лепешняк великий"
@@ -74,8 +61,14 @@
     "cy": [
       "Melyswellt y gamlas"
     ],
+    "cs": [
+      "zblochan vodní"
+    ],
     "ga": [
       "milseán mór"
+    ],
+    "fi": [
+      "isosorsimo"
     ],
     "is": [
       "Fenjapuntur"
@@ -91,13 +84,20 @@
     ],
     "nb": [
       "kjempesøtgras"
+    ],
+    "en": [
+      "reed mannagrass",
+      "reed sweet-grass"
+    ],
+    "fr": [
+      "glycérie aquatique"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161879",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161879",
   "search_names": {
@@ -107,13 +107,22 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Glyceria maxima」",
+      "source": "Wikipedia (en): Glyceria maxima",
       "source_url": "https://en.wikipedia.org/wiki/Glyceria_maxima",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1297841776,
       "text": "Glyceria maxima, imfe Nd commonly known as great manna grass, reed mannagrass, reed sweet-grass, and greater sweet-grass is a species of rhizomatous perennial grasses in the mannagrass genus native to Europe and Western Siberia and growing in wet areas such as riverbanks and ponds. It is highly competitive and invasive and is often considered to be a noxious weed outside its native range."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Glyceria maxima",
+      "source_url": "https://fr.wikipedia.org/wiki/Glyceria_maxima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208891963,
+      "text": "Glyceria maxima, la Glycérie aquatique ou grande glycérie, est une espèce de plantes monocotylédones de la famille des Poaceae (Graminées), sous-famille des Pooideae, originaire d'Eurasie, de l'Europe de l'Ouest à la Sibérie occidentale. L'espèce a été introduite en Amérique du Nord et en Australie."
     }
   },
   "edible": {
@@ -128,7 +137,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -190,7 +199,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/404141-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or rhizomatous geophyte",
@@ -198,7 +207,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/404141-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000873262.webp",
@@ -211,6 +220,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

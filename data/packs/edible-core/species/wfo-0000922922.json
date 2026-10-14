@@ -10,12 +10,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "es": [
+      "Borojoa patinoi"
+    ],
     "zh": [
-      "阳春栀",
-      "博罗霍"
+      "博罗霍",
+      "阳春栀"
     ],
     "arz": [
       "بوروجوا باتينوى"
@@ -28,28 +31,37 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q28819558",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q28819558",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Alibertia patinoi」",
+      "source": "Wikipedia (en): Alibertia patinoi",
       "source_url": "https://en.wikipedia.org/wiki/Alibertia_patinoi",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1366326194,
       "text": "Alibertia patinoi, commonly known as borojó, is a small (2-5m), dioecious tropical rainforest tree, one of the few edible fruit bearing species in the Rubiaceae family. Borojó, native to the world's wettest lowlands, grows in the Chocó Department of northwestern Colombia and in the Esmeraldas Province of northwestern Ecuador."
+    },
+    "es": {
+      "source": "Wikipedia (es): Borojoa patinoi",
+      "source_url": "https://es.wikipedia.org/wiki/Borojoa_patinoi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 169609808,
+      "text": "El borojó es una especie arbórea de la familia de las rubiáceas."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Alibertia patinoi」の節「Cultivation」",
+        "source": "Wikipedia (en): Alibertia patinoi § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Alibertia_patinoi#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1366326194,
         "heading": "Cultivation",
         "text": "Around 3,000 hectares are used to cultivate borojo.",
@@ -66,7 +78,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -79,7 +91,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77116169-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -87,7 +99,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77116169-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000922922.webp",
@@ -100,6 +112,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

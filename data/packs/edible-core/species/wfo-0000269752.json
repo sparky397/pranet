@@ -18,7 +18,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -28,26 +28,17 @@
       "Date palm",
       "date palm"
     ],
-    "fi": [
-      "välimerentaateli"
+    "pt": [
+      "Tamareira"
+    ],
+    "id": [
+      "Pohon kurma",
+      "Kurma"
     ],
     "zh": [
+      "椰枣",
       "海枣",
-      "无漏子",
-      "椰枣"
-    ],
-    "ast": [
-      "palmera datilera"
-    ],
-    "bgn": [
-      "آبدندان"
-    ],
-    "it": [
-      "palma da datteri"
-    ],
-    "sl": [
-      "datljeva palma",
-      "pravi datljevec"
+      "无漏子"
     ],
     "pl": [
       "daktylowiec właściwy"
@@ -97,9 +88,6 @@
     "nl": [
       "dadelpalm"
     ],
-    "pt": [
-      "Tamareira"
-    ],
     "eo": [
       "Daktilopalmo"
     ],
@@ -120,6 +108,9 @@
     ],
     "hak": [
       "Tsûng-su"
+    ],
+    "fi": [
+      "välimerentaateli"
     ],
     "uk": [
       "Фінік їстівний"
@@ -184,9 +175,6 @@
     "de": [
       "Echte Dattelpalme"
     ],
-    "id": [
-      "Kurma"
-    ],
     "ml": [
       "ഈന്തപ്പന"
     ],
@@ -222,6 +210,10 @@
     ],
     "cy": [
       "Palmwydden ddatys"
+    ],
+    "sl": [
+      "pravi datljevec",
+      "datljeva palma"
     ],
     "cs": [
       "datlovník pravý"
@@ -399,13 +391,22 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇသႅင်ႈ"
+    ],
+    "ast": [
+      "palmera datilera"
+    ],
+    "bgn": [
+      "آبدندان"
+    ],
+    "it": [
+      "palma da datteri"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q25292",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q25292",
   "search_names": {
@@ -415,46 +416,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ナツメヤシ」",
+      "source": "Wikipedia (ja): ナツメヤシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%84%E3%83%A1%E3%83%A4%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110191045,
       "text": "ナツメヤシ は、ヤシ科に属する常緑の高木である。ナツメヤシの果実はデーツ と呼ばれ、北アフリカや中東では主要な食品の一つであり、ナツメヤシが広く栽培されている。デーツは乾燥させて保存食にできる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Date palm」",
+      "source": "Wikipedia (en): Date palm",
       "source_url": "https://en.wikipedia.org/wiki/Date_palm",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376687372,
       "text": "Phoenix dactylifera, commonly known as the date palm, is a flowering-plant species in the palm family Arecaceae, native to the region from the Gulf States and Iraq to Pakistan and India. It is cultivated for its edible sweet fruit called dates. The species is widely cultivated across northern Africa, the Middle East, Australia, South and Southeast Asia, the coastal Mediterranean basin, and Southern California. It is naturalised in many tropical and subtropical regions worldwide. P. dactylifera is the type species of genus Phoenix, which contains 12–19 species of wild date palms."
+    },
+    "es": {
+      "source": "Wikipedia (es): Phoenix dactylifera",
+      "source_url": "https://es.wikipedia.org/wiki/Phoenix_dactylifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173865269,
+      "text": "Phoenix dactylifera, de nombre común palma datilera/datilero, palma común, fénix o támara, es una palmera cuyo fruto comestible es el dátil, probablemente oriunda del suroeste de Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Phoenix dactylifera",
+      "source_url": "https://fr.wikipedia.org/wiki/Phoenix_dactylifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240029544,
+      "text": "Le dattier ou palmier dattier (Phoenix dactylifera L.) est une espèce de plantes monocotylédones de la famille des Arécacées (Palmiers) et de la sous-famille des Coryphoideae, largement cultivé d'abord pour ses fruits : les dattes. Dans l'agriculture d'oasis saharienne, c'est la plante qui domine la strate arborée des arbres fruitiers qui poussent à son ombre et qui, eux-mêmes, couvrent cultures maraîchères, fourragères, voire céréalières. A priori on ne connaîssait pas cette espèce à l'état spontané (sauvage), mais sub-spontané. Toutefois, une étude publiée en 2017 semble avoir identifié une petite population sauvage en Oman."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tamareira",
+      "source_url": "https://pt.wikipedia.org/wiki/Tamareira",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72995288,
+      "text": "A tamareira ou datileira é uma palmeira extensivamente cultivada pelos seus frutos comestíveis, as tâmaras. Pelo fato de ser cultivada há milênios, a sua área natural de distribuição é desconhecida, mas seria originária dos oásis da zona desértica do norte de África, embora haja quem admita uma origem no sudoeste da Ásia. É uma palmeira de média dimensão, de 15 a 25 metros de altura, por vezes surgindo em touceira, com vários espiques partilhando o mesmo sistema radicular, mas em geral crescendo isolada. As folhas são frondes pinadas, com até três metros de comprimento, com pecíolo espinhoso e cerca de 150 folíolos. Cada folíolo tem cerca de 30 cm de comprimento e 2 cm de largura."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pohon kurma",
+      "source_url": "https://id.wikipedia.org/wiki/Pohon_kurma",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29301116,
+      "text": "Kurma, adalah tanaman palma (Arecaceae) dalam genus Phoenix, buahnya dapat dimakan. Walaupun tempat asalnya tidak diketahui karena telah sejak lama dibudidayakan, kemungkinan tanaman ini berasal dari tanah sekitar Teluk Persia. Buahnya dijadikan makanan pokok di daerah Timur Tengah dan Afrika Utara. Pohonnya berukuran sedang dengan tinggi sekitar 15–25 m, tumbuh secara tunggal atau membentuk rumpun pada sejumlah batang dari sebuah sistem akar tunggal. Daunnya memiliki panjang 3–5 m, dengan duri pada tangkai daun, menyirip dan mempunyai sekitar 150 pucuk daun muda; daun mudanya berukuran dengan panjang 30 cm dan lebar 2 cm. Rentangan penuh mahkotanya berkisar dari 6–10 m."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ナツメヤシ」の節「栽培」",
+        "source": "Wikipedia (ja): ナツメヤシ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%84%E3%83%A1%E3%83%A4%E3%82%B7#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110191045,
         "heading": "栽培",
         "text": "デーツの2004年の全世界での生産量は670万トンに達し、主な生産国はエジプト（16.2%）、イラン（13%）、サウジアラビア（12.3%）などである。\nナツメヤシは自然界では風によって受粉が行われ、自然に果実をつける。しかし、栽培農業としては完全に人工授粉を行う。この人工授粉の技術は古代アッシリアの時代から知られていたと考えられている。人工授粉することで1本の雄株から50本の雌株に授粉でき、より多くの果実を生産できるようになる。雄株を全く栽培せずに、授粉の時期に雄花だけを市場で購入する生産者も存在する。\n受粉は労働者によって梯子の上で行われるが、現代では昇降機が使われている。古代アッシリアの彫刻には、雄花の房らしきものを雌花の房の上で振って花粉を振りかけている様子が刻まれている。単為結実する栽培品種も存在するが、種子のない果実は小さく、また品質も劣る。\nナツメヤシの繁殖は、組織培養を行うか、根元周りに土を盛り上げて、出てきた根萌芽（ねほうが）を植え替えたりして行われる。これにより、実をつけない雄株の本数を最小限にし、多くの栽培品種をコントロールできるようにしている。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Date palm」の節「Cultivation」",
+        "source": "Wikipedia (en): Date palm § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Date_palm#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1376687372,
         "heading": "Cultivation",
         "text": "Dates are a traditional crop throughout the Middle East and North Africa. Dates (especially Medjool and Deglet Nour) are also cultivated in the southwestern United States, and in Sonora and Baja California in Mexico.\nDate palms can take 4 to 8 years after planting before they will bear fruit, and start producing viable yields for commercial harvest between 7 and 10 years. Mature date palms can produce 70–140 kilograms (150–300 pounds) of dates per harvest season. They do not all ripen at the same time so several harvests are required. To obtain fruit of marketable quality, the bunches of dates must be thinned and bagged or covered before ripening so that the remaining fruit grow larger and are protected from weather and animals, such as birds, that also like to eat them.\nDate palms require well-drained deep sandy loam soils with a pH of 8–11 (alkaline). The soil should have the ability to hold moisture and also be free of calcium carbonate.\n\n■ Agricultural history\n\nDates have been cultivated in the Middle East and the Indus Valley for thousands of years, and there is archaeological evidence of date cultivation in Mehrgarh, a Neolithic civilisation in western Pakistan, around 7000 BCE and in eastern Arabia between 5530 and 5320 calBC. Dates have been cultivated since ancient times from Mesopotamia to prehistoric Egypt. The ancient Egyptians used the fruit to make date wine and ate dates at harvest. In the Levant, the earliest traces of dates appear during the Chalcolithic period, at sites such as Nahal Mishmar (Israel) and Teleilat el-Ghassul (Jordan). Evidence of cultivation is continually found throughout later civilisations in the Indus Valley, including the Harappan period from 2600 to 1900 BCE.",
+        "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Phoenix dactylifera § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Phoenix_dactylifera#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 173865269,
+        "heading": "Cultivo",
+        "text": "■ Plantación\nEl mejor momento para llevar a cabo la plantación abarca desde la primavera (fuera de los períodos de heladas) hasta mediados de verano.\nLos hoyos deberán tener unas dimensiones lo suficientemente amplias en anchura y profundidad como para acomodar todo el sistema radicular. La base del tronco debe quedar a la misma altura a la que estaba anteriormente o ligeramente más enterrado, se afirmará bien el suelo alrededor del cepellón y se dará inmediatamente un abundante riego. Se cubre la superficie del suelo alrededor del tronco con una buena capa de humus o \"mulching\", imposibilitando a la vez la germinación de malas hierbas.\nEl sistema de plantación y las distancias en el cultivo de la palmera datilera difieren con la variedad, pero un espaciado en cuadro o rectangular de más o menos 9-11 m, es lo que generalmente se recomienda. Los hijuelos se pueden trasplantar directamente después de que se les haya separado de la palmera progenitora o las palmeras jóvenes se pueden mantener en vivero un año antes de trasplantarse en el campo.\nEn los palmerales cultivados se tiene un pie masculino por cada 25 pies femeninos, para asegurar la fecundación, pues si no hay que recurrir a la polinización artificial. Para asegurarse de la naturaleza de los pies, se suelen utilizar preferentemente para su reproducción los renuevos que producen las palmeras hembras.\nLa palmera datilera debe tener un aporte regular de agua, siendo lo más costoso en una plantación de palmeras, pues las raíces deben tener un abastecimiento de humedad constante. Puede ser regada con agua salada, cargada con demasiada sal para la mayoría de los cultivos.\n\n■ Aclareo de dátiles\nPara mejorar el tamaño y la calidad del fruto se practica el aclareo tanto de los frutos como de los racimos.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Phoenix dactylifera § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Phoenix_dactylifera#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240029544,
+        "heading": "Culture",
+        "text": "La culture du dattier est appelée phœniciculture. Un verger de dattiers est une palmeraie appelée datteraie. Phoenix dactylifera résiste bien au froid (jusqu'à −12 °C) comme à la sécheresse.\nC'est un grand palmier, qui pousse vite s'il est bien arrosé. Idéalement, il prospère en situation désertique aride, à condition d'avoir suffisamment d'eau à disposition. Malgré tout, il est assez présent, pour raison ornementale, sur la côte d'Améthyste, sur la Côte d'Azur et un peu sur la façade atlantique française, où il se montre parfaitement rustique. En revanche, il ne faut pas espérer de récolte de dattes en France, car il faut beaucoup de chaleur et d'ensoleillement pour la maturation des fruits.\n\nLa pollinisation se fait par le vent (anémophilie) dans la nature. En culture, le nombre volontairement réduit (par l'Homme) de palmiers mâles oblige à pratiquer une pollinisation artificielle, à la main. Dans les oasis algériennes ou tunisiennes, les mâles appelés dhkkar (ذكر = « mâle » en arabe) sont souvent comptés à un pour 100 pieds femelles.\nLa propagation des palmiers-dattiers se fait par clonage : soit traditionnellement, par prélèvement de drageons ou rejets (qu'on appelle souvent en arabe djebbar ou ghars en Afrique du Nord), soit plus récemment par culture in vitro, afin de conserver les cultivars choisis. En effet, le simple semis d'un palmier ne permettrait ni de retrouver les qualités (gustatives du fruit notamment) d'origine, ni d'être certain de son sexe (et seuls les pieds femelles sont choisis pour être multipliés, car porteurs de fruits). Cela dit, le semis est très facile et souvent involontaire et peut, dans de rares cas, être à l'origine d'un dattier femelle intéressant qui sera retenu, et reproduit, devenant ainsi un nouveau cultivar.",
         "truncated": true
       }
     }
@@ -474,7 +533,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -541,7 +600,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668912-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -549,7 +608,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668912-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000269752.webp",
@@ -562,6 +621,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

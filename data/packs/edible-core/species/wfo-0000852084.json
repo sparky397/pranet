@@ -11,27 +11,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "naked oat"
+    "de": [
+      "Nackt-Hafer"
     ],
     "cs": [
       "oves nahý"
     ],
-    "zh": [
-      "裸燕麦",
-      "莜麦"
-    ],
-    "sl": [
-      "goli oves"
-    ],
-    "de": [
-      "Nackt-Hafer"
-    ],
     "hsb": [
       "Nahi wows"
+    ],
+    "zh": [
+      "莜麦",
+      "裸燕麦"
     ],
     "nl": [
       "Naakte haver"
@@ -44,24 +38,39 @@
     ],
     "ar": [
       "شوفان عريان"
+    ],
+    "sl": [
+      "goli oves"
+    ],
+    "en": [
+      "naked oat"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159777",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159777",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Avena nuda」",
+      "source": "Wikipedia (en): Avena nuda",
       "source_url": "https://en.wikipedia.org/wiki/Avena_nuda",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360614977,
       "text": "Avena nuda is a species of grass with edible seeds in the oat genus Avena."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Avena nuda",
+      "source_url": "https://fr.wikipedia.org/wiki/Avena_nuda",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207919897,
+      "text": "L'Avena nuda, l'avoine nue ou avoine à gruau, est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Pooideae, originaire d'Europe."
     }
   },
   "edible": {
@@ -74,7 +83,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -105,7 +114,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/391627-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -113,6 +122,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/391627-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

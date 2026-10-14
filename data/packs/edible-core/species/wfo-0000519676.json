@@ -8,18 +8,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Grandidier's Baobab"
-    ],
-    "mg": [
-      "Renala"
-    ],
-    "zh": [
-      "大猴面包树"
-    ],
     "lb": [
       "Grandidier-Baobab"
     ],
@@ -50,6 +41,9 @@
     "et": [
       "Sammas-ahvileivapuu"
     ],
+    "zh": [
+      "大猴面包树"
+    ],
     "ja": [
       "アダンソニア・グランディディエリ"
     ],
@@ -79,13 +73,19 @@
     ],
     "he": [
       "אדנסוניה גראנדיירי"
+    ],
+    "en": [
+      "Grandidier's Baobab"
+    ],
+    "mg": [
+      "Renala"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311325",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311325",
   "search_names": {
@@ -98,13 +98,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Adansonia grandidieri」",
+      "source": "Wikipedia (en): Adansonia grandidieri",
       "source_url": "https://en.wikipedia.org/wiki/Adansonia_grandidieri",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355863109,
       "text": "Adansonia grandidieri is the biggest and most famous of Madagascar's six species of baobabs. It is sometimes known as Grandidier's baobab or the giant baobab. In French it is called Baobab malgache. The local name is renala or reniala. This tree is endemic to the island of Madagascar, where it is an endangered species threatened by the encroachment of agricultural land. This is the tree found at the Avenue of the Baobabs."
+    },
+    "es": {
+      "source": "Wikipedia (es): Adansonia grandidieri",
+      "source_url": "https://es.wikipedia.org/wiki/Adansonia_grandidieri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172097552,
+      "text": "Adansonia grandidieri es una especie en peligro de extinción del género Adansonia. Es considerada la especie de baobab más grande y famosa de entre las seis especies endémicas de Madagascar en la Provincia de Toliara, y ciertos individuos alcanzan 40 m de altura."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Adansonia grandidieri",
+      "source_url": "https://fr.wikipedia.org/wiki/Adansonia_grandidieri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229349499,
+      "text": "Le Baobab de Grandidier est une espèce d'arbres de la famille des Bombacaceae selon la classification classique, ou de celle des Malvaceae selon la classification phylogénétique. C'est un arbre endémique de Madagascar."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Adansonia grandidieri",
+      "source_url": "https://pt.wikipedia.org/wiki/Adansonia_grandidieri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70940201,
+      "text": "Adansonia grandidieri, o maior e mais famoso dos seis baobás de Madagascar, é uma espécies ameaçadas de extinção no gênero Adansonia. É endêmica de Madagascar. A. grandidieri é nomeado para comemorar o botânico e explorador francês, Alfred Grandidier (1836–1921).\nEste é o tipo de árvore que é mostrado no filme Madagascar como a árvore gigante no centro da ilha[carece de fontes]?."
     }
   },
   "edible": {
@@ -117,7 +144,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -127,7 +154,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558630-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -135,7 +162,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558630-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000519676.webp",
@@ -148,6 +175,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

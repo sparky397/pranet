@@ -15,7 +15,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -24,6 +24,19 @@
     "en": [
       "Adzuki bean",
       "adzuki bean"
+    ],
+    "fr": [
+      "Haricot azuki"
+    ],
+    "id": [
+      "Kacang tolo merah",
+      "Kacang azuki"
+    ],
+    "ru": [
+      "Адзуки"
+    ],
+    "eo": [
+      "Azuki-fabo"
     ],
     "zh": [
       "紅豆",
@@ -34,15 +47,6 @@
       "赤小豆花",
       "赤小豆叶",
       "赤小豆芽"
-    ],
-    "sl": [
-      "azuki fižol"
-    ],
-    "ru": [
-      "Адзуки"
-    ],
-    "eo": [
-      "Azuki-fabo"
     ],
     "pt": [
       "Feijão-azuqui"
@@ -62,9 +66,6 @@
     "sv": [
       "Azukiböna"
     ],
-    "fr": [
-      "Haricot azuki"
-    ],
     "fa": [
       "لوبیای آزوکی"
     ],
@@ -73,9 +74,6 @@
     ],
     "fi": [
       "Azukipapu"
-    ],
-    "id": [
-      "Kacang azuki"
     ],
     "pl": [
       "Fasola azuki"
@@ -128,6 +126,9 @@
     "th": [
       "ถั่วอาซูกิ"
     ],
+    "sl": [
+      "azuki fižol"
+    ],
     "mnc": [
       "ᠰᡳᠰᠠ"
     ]
@@ -136,7 +137,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q380279",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q380279",
   "search_names": {
@@ -150,36 +151,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アズキ」",
+      "source": "Wikipedia (ja): アズキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BA%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110709142,
       "text": "アズキ は、マメ科ササゲ属アズキ亜属に属する一年草。種子は豆の一種（広義の穀物）である。しょうずともいう。ヤブツルアズキ（東アジア原産）の栽培種である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Adzuki bean」",
+      "source": "Wikipedia (en): Adzuki bean",
       "source_url": "https://en.wikipedia.org/wiki/Adzuki_bean",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375071666,
       "text": "Vigna angularis, also known as the adzuki bean , azuki bean, aduki bean, red bean, or red mung bean, is an annual vine widely cultivated throughout East Asia for its small bean. The cultivars most familiar in East Asia have a uniform red color, but there are white, black, gray, and variously mottled varieties."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vigna angularis",
+      "source_url": "https://es.wikipedia.org/wiki/Vigna_angularis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174451098,
+      "text": "La planta Vigna angularis, conocida como alubia, judía, frijol o poroto adzuki y también a veces como alubia morada, soja roja, es una legumbre cultivada en extremo oriente y el Himalaya."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Haricot azuki",
+      "source_url": "https://fr.wikipedia.org/wiki/Haricot_azuki",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237429738,
+      "text": "Le haricot azuki ou haricot rouge du Japon, parfois appelé à tort soja rouge, est une espèce de plantes à fleurs de la famille des légumineuses (Fabaceae). C'est une plante annuelle grimpante largement cultivée en Asie orientale pour ses graines comestibles. Il en existe différentes variétés de couleurs variées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vigna angularis",
+      "source_url": "https://pt.wikipedia.org/wiki/Vigna_angularis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 47723724,
+      "text": "Vigna angularis, conhecida em português pelo nome comum de feijão-azuqui, é uma erva anual da família das Fabaceae, subfamília papilionoídea, com sementes vermelho-escuras ou roxas, alimentícias, nativa da China. É uma leguminosa muito popular no Japão, onde é usado em sua culinária. Também é amplamente cultivado no Himalaia e diferentes partes do leste da Ásia. No Brasil, ainda é pouco conhecido, mas vem ganhando espaço, sobretudo pelos colonos japoneses na região de São Paulo. O feijão azuki é uma cultura subtropical que requer temperaturas entre 15 e 30 ºC durante o ciclo, e tolera maiores taxas de precipitação que o feijão comum."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kacang tolo merah",
+      "source_url": "https://id.wikipedia.org/wiki/Kacang_tolo_merah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29397747,
+      "text": "Kacang merah kecil atau kacang tolo merah adalah sejenis kacang. Kacang ini banyak digunakan dalam masakan Indonesia, contohnya sup kacang merah dan sambal goreng krecek. Kacang ini kadang disebut kacang tolo saja atau kacang merah saja. Sebutan kacang merah juga sering ditujukan untuk kacang merah besar, yang dalam bahasa Inggris disebut Red Kidney Bean."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Adzuki bean」の節「Cultivation」",
+        "source": "Wikipedia (en): Adzuki bean § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Adzuki_bean#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375071666,
         "heading": "Cultivation",
         "text": "■ Area and yield\nThe adzuki bean is mainly cultivated in China (670,000 hectares or 1,700,000 acres), Japan (60,000 hectares or 150,000 acres), South Korea (25,000 hectares or 62,000 acres), and Taiwan (15,000 hectares or 37,000 acres) (data published 2006). The bean is also grown commercially in the US, South America, India, New Zealand, Congo, and Angola.\nIn Japan, the adzuki bean is the second most important legume after the soy bean. In 1998, the annual crop yield was around 100,000 tonnes (98,000 long tons; 110,000 short tons). In 2006, Japan consumed about 140,000 tonnes (140,000 long tons; 150,000 short tons)/year. Japan is the largest importer of adzuki beans. The imports come from China, Korea, Colombia, Taiwan, the US, Thailand, and Canada.\n\n■ Ecological requirements\n\nOptimal temperature range for adzuki bean growth is between 15 and 30 °C (59 and 86 °F). The crop is not frost-hardy and needs soil temperatures above 6–10 °C (43–50 °F) (30–34 °C (86–93 °F) optimal) for germination. Hot temperatures stimulate vegetative growth and are therefore less favorable for pea production. The adzuki bean is usually not irrigated. Annual rainfall ranges from 500 to 1,750 millimetres (20 to 69 in) in areas where the bean is grown. The plant can withstand drought but severe reduction in yield is expected. The cultivation of the adzuki bean is possible on preferably well drained soils with pH 5–7.5. Fertilizer application differs widely depending on expected yield but is generally similar to soybean. Due to nodulation with rhizobia, nitrogen fixation of up to 100 kilograms per hectare (89 lb/acre) is possible.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Haricot azuki § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Haricot_azuki#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237429738,
+        "heading": "Culture",
+        "text": "Le rendement du haricot azuki est sensible à différents facteurs. Tout d’abord aux quantités de phosphates, soufre et azote dans le sols  qui sont essentiels. Et à d’autres éléments que l’on peut considérer pour optimiser le rendement : K, Zn, Mo et B. Des recherches ont pu déterminer la composition optimale du sol, pour laquelle la  plante a le rendement le plus important : 57,23–68,43 kg/ha N, 36,04–47,32 kg/ha P2O5 et 50,29–61,27 kg/ha K2O. La température peut empêcher le développement de la plante si elle se maintient en dessous de 10 °C.\nLa meilleure façon de semer le haricot est de le semer en rangs étroits et d’espacer chaque rang de 30 cm. La plante doit ensuite être arrosée. Le rendement est très sensible au facteur de l’eau. En effet, la plante est très sensible au stress hydrique qui peut entraîner un avortement de la fleur et donc une production de graines très faible voire nulle. De plus, la terre ne doit pas se retrouver saturée en eau car cela peut entraîner une faible croissance du Haricot et une faible nodulation.\nUne culture multiple peut également se montrer intéressante. Il y a deux systèmes très répandus, la culture double riz-azuki ou maïs-azuki. Les légumineuses ont en effet une grande capacité à fixer l'azote atmosphérique grâce au rhizobium. Cette capacité représente un atout économique et environnemental, permettant de réduire les intrants et d’aider l'enrichissement du sol pour d’autres plantes.",
+        "truncated": false
       }
     }
   },
@@ -196,7 +244,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -231,7 +279,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/525291-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling annual or perennial",
@@ -239,7 +287,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/525291-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000187878.webp",
@@ -252,6 +300,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 320,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

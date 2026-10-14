@@ -11,15 +11,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Indian plum"
-    ],
-    "zh": [
-      "羅旦梅",
-      "云南刺篱木"
+    "id": [
+      "Kerukup"
     ],
     "bn": [
       "টিপা ফল"
@@ -32,6 +28,10 @@
     ],
     "ml": [
       "ലൂബി"
+    ],
+    "zh": [
+      "羅旦梅",
+      "云南刺篱木"
     ],
     "as": [
       "পনিয়ল"
@@ -50,13 +50,16 @@
     ],
     "syl": [
       "ꠟꠥꠇ ꠟꠥꠇꠤ"
+    ],
+    "en": [
+      "Indian plum"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1900509",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1900509",
   "search_names": {
@@ -70,13 +73,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Flacourtia jangomas」",
+      "source": "Wikipedia (en): Flacourtia jangomas",
       "source_url": "https://en.wikipedia.org/wiki/Flacourtia_jangomas",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1359048834,
       "text": "Flacourtia jangomas is a species of flowering plant in the family Salicaceae. This lowland and mountain rain forest tree is sometimes referred to by the English common names Indian coffee plum, Indian plum, or scramberry."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Flacourtia jangomas",
+      "source_url": "https://fr.wikipedia.org/wiki/Flacourtia_jangomas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058062,
+      "text": "Flacourtia jangomas, Merise-pays, Prune café dans les Antilles, ou Prune D’Inde, Prune Malgache à la Réunion, est une espèce de plantes à fleurs appartenant à la famille des Salicaceae comme les saules. C'est un arbre de forêt tropicale de plaine et de montagne. Il est souvent confondu avec l'espèce proche Flacourtia indica, dont il se distingue notamment par ses feuilles plus étroites et pointues. Il est largement cultivé en Asie du Sud-Est et de l'Est et s'est naturalisé dans un certain nombre d'endroits. Son origine sauvage est inconnue, mais il semble provenir d'Asie tropicale, peut-être d'Inde. Cet arbre est très commun dans le sud de l'Inde où représente une grande importance culinaire et médicinale, en particulier au Kerala où il est communément appelé lubica ou lovlolika. Les fruits sont consommés crus et cuits sous forme de confiture, et l'écorce est parfois utilisée en médecine traditionnelle. Il est parfois récolté pour son bois d'œuvre. La plante est considérée comme l'une des principales plantes hôtes de la mouche des fruits du Queensland."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kerukup",
+      "source_url": "https://id.wikipedia.org/wiki/Kerukup",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29672796,
+      "text": "Kerukup, kerekup atau kerkut adalah nama dari spesies tumbuhan beserta buahnya yang berasal dari Genus flacourtia."
     }
   },
   "edible": {
@@ -89,7 +110,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -129,7 +150,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/365350-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -137,7 +158,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/365350-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000925661.webp",
@@ -150,6 +171,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

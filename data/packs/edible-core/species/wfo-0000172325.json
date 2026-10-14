@@ -12,20 +12,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アフリカン・ブラックウッド"
     ],
-    "en": [
-      "African blackwood",
-      "Mozambique Ebony"
-    ],
-    "zh": [
-      "东非黑黄檀",
-      "乌木黄檀",
-      "東非黑黃檀"
+    "pt": [
+      "Grenadilha",
+      "Mpingo"
     ],
     "is": [
       "Afrískur svartviður"
@@ -45,9 +40,6 @@
     "pnb": [
       "افریکن بلیکوڈ"
     ],
-    "pt": [
-      "Mpingo"
-    ],
     "ru": [
       "Дальбергия чернодревесная"
     ],
@@ -60,6 +52,11 @@
     "af": [
       "Sebrahout"
     ],
+    "zh": [
+      "東非黑黃檀",
+      "东非黑黄檀",
+      "乌木黄檀"
+    ],
     "ar": [
       "ساسم أسود الخشب"
     ],
@@ -71,13 +68,17 @@
     ],
     "ha": [
       "Kokara"
+    ],
+    "en": [
+      "African blackwood",
+      "Mozambique Ebony"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q83170",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q83170",
   "search_names": {
@@ -88,22 +89,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アフリカン・ブラックウッド」",
+      "source": "Wikipedia (ja): アフリカン・ブラックウッド",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A6%E3%83%83%E3%83%89",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110062497,
       "text": "アフリカン・ブラックウッド は、アフリカの熱帯季節林に育つマメ科ツルサイカチ属の被子植物である。セネガル共和国から東はエリトリア国、南は南アフリカ共和国のトランスヴァール共和国にかけてを原産とする。楽器業界におけるグラナディラ（grenadilla）や木材業者が名付けたアフリカコクタン、またムピンゴ という名称でも知られている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Dalbergia melanoxylon」",
+      "source": "Wikipedia (en): Dalbergia melanoxylon",
       "source_url": "https://en.wikipedia.org/wiki/Dalbergia_melanoxylon",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1363412906,
       "text": "Dalbergia melanoxylon is a flowering plant in the subfamily Faboideae of the family Fabaceae, native to seasonally dry regions of Africa from Senegal east to Eritrea, to southern regions of Tanzania to Mozambique and south to the north-eastern parts of South Africa. The tree is an important timber species in its native areas; it is used in the manufacture of musical instruments, sculptures vinyago in Swahili language and fine furniture. Populations and genomic resources for genetic biodiversity maintenance in parts of its native range are threatened by overharvesting due to poor or absent conservation planning and by the species' low germination rates."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dalbergia melanoxylon",
+      "source_url": "https://es.wikipedia.org/wiki/Dalbergia_melanoxylon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 130660797,
+      "text": "El granadillo negro o granadilla es una especie emparentada con el granadillo rojo y que, al igual que este, es una leguminosa arbórea de gran altura perteneciente a la familia de las Fabáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dalbergia melanoxylon",
+      "source_url": "https://fr.wikipedia.org/wiki/Dalbergia_melanoxylon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237107418,
+      "text": "Dalbergia melanoxylon est une plante à fleurs de la famille des fabaceae. C'est un arbre originaire des régions saisonnièrement sèches d'Afrique situées entre l'est du Sénégal, l'Érythrée et le sud du Transvaal en Afrique du Sud."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Grenadilha",
+      "source_url": "https://pt.wikipedia.org/wiki/Grenadilha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72108040,
+      "text": "Grenadilha, também conhecido como mpingo ou pau-preto é uma angiosperma da família Fabaceae, nativa de regiões sazonalmente secas da África, como Senegal, leste da Eritreia e sul do Transvaal, na África do Sul."
     }
   },
   "edible": {
@@ -120,7 +148,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -161,7 +189,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/490328-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -169,7 +197,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/490328-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000172325.webp",
@@ -182,6 +210,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

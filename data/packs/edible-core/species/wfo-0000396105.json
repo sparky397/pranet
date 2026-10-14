@@ -19,27 +19,27 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Indian yam"
-    ],
-    "es": [
-      "Mapuey"
-    ],
     "ar": [
       "ديسقوريا ثلاثية الأقسام"
     ],
     "zh": [
       "美洲糯薯蓣"
+    ],
+    "en": [
+      "Indian yam"
+    ],
+    "es": [
+      "Mapuey"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5279597",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5279597",
   "search_names": {
@@ -56,13 +56,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Dioscorea trifida」",
+      "source": "Wikipedia (en): Dioscorea trifida",
       "source_url": "https://en.wikipedia.org/wiki/Dioscorea_trifida",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1349393732,
       "text": "Dioscorea trifida is a species of flowering plant in the family Dioscoreaceae. It is a species of yam. It is native to the Caribbean and Central and South America. Its many common names include Indian yam, cush-cush, yampi and yampee. It is called mapuey in Venezuela, inhame in Brazil, tabena and ñame in Colombia, sacha papa in Peru, and ñampi in Costa Rica."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dioscorea trifida",
+      "source_url": "https://es.wikipedia.org/wiki/Dioscorea_trifida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175740527,
+      "text": "La Dioscorea trifida es un tubérculo del género Dioscorea originario del Caribe, Centroamérica tropical y América del Sur. Se le conoce por una variedad de nombres comunes, entre ellos mapuey, yampí, ñame blanco, ñame baboso, papañame, papa de aire o sachapapa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dioscorea trifida",
+      "source_url": "https://fr.wikipedia.org/wiki/Dioscorea_trifida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 211134830,
+      "text": "Dioscorea trifida, l’igname cousse-couche, est une espèce de plantes à fleurs monocotylédones de la famille des Dioscoreaceae, originaire d'Amérique centrale et d'Amérique du Sud."
     }
   },
   "edible": {
@@ -75,7 +93,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -110,7 +128,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/323927-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing tuberous geophyte",
@@ -118,7 +136,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/323927-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000396105.webp",
@@ -131,6 +149,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

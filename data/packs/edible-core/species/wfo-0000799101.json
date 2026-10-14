@@ -12,17 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "elephant bush"
-    ],
-    "zh": [
-      "马齿苋树",
-      "树马齿苋",
-      "樹馬齒莧"
-    ],
     "fa": [
       "پورتولاکاریا افرا"
     ],
@@ -31,6 +23,11 @@
     ],
     "ar": [
       "رجلة الصبار"
+    ],
+    "zh": [
+      "樹馬齒莧",
+      "马齿苋树",
+      "树马齿苋"
     ],
     "hr": [
       "Slanina drvo"
@@ -52,24 +49,60 @@
     ],
     "zu": [
       "Isidondwane"
+    ],
+    "en": [
+      "elephant bush"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2481534",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2481534",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Portulacaria afra」",
+      "source": "Wikipedia (en): Portulacaria afra",
       "source_url": "https://en.wikipedia.org/wiki/Portulacaria_afra",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1328337004,
       "text": "Portulacaria afra is a small-leaved succulent plant found in South Africa. These succulents commonly have a reddish stem and green leaves, but a variegated cultivar is often seen in cultivation. They are simple to care for and make easy houseplants for a sunny location. In frost-free regions they may be used in outdoor landscaping."
+    },
+    "es": {
+      "source": "Wikipedia (es): Portulacaria afra",
+      "source_url": "https://es.wikipedia.org/wiki/Portulacaria_afra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175635059,
+      "text": "Portulacaria afra, conocida comúnmente como árbol de la abundancia o monedita o Jade, es un arbusto suculento perteneciente al género Portulacaria, dentro de la familia Didiereaceae. Se distribuye por el noroeste de Kenia, el sur de Mozambique y el sur de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Portulacaria afra",
+      "source_url": "https://fr.wikipedia.org/wiki/Portulacaria_afra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240285294,
+      "text": "Portulacaria afra est une espèce de plantes à fleurs du genre Portulacaria."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Portulacaria afra § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Portulacaria_afra#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240285294,
+        "heading": "Culture",
+        "text": "Portulacaria afra est une plante qui apprécie le plein soleil et tolère le vent. Il supporte les milieux secs mais apprécie l’humidité pour un meilleur développement.\nIl s’acclimate ordinairement facilement en bonsaï d'appartement s'il est placé dans un endroit lumineux.\n\nSa croissance est assez rapide.\nIl supporte plus ou moins bien le gel selon la variété. La forme ‘Limpopo’ supporte le gel alors que d’autres formes doivent être rentrées en intérieur dès que les températures descendent sous les 5 °C. En Afrique du Sud, des pourpiers en arbre ont survécu à une température de −6 °C.\nPortulacaria afra est un arbuste succulent très ramifié. Son port est généralement buissonnant à dressé, mais certaines branches peuvent s'étaler ou retomber, notamment chez les formes prostrées.\nLa plante supporte très bien la taille. Elle est mangée par différents animaux brouteurs et a une capacité assez stupéfiante à se régénérer à partir des rameaux et feuilles tombées à terre, qui rapidement émettent des racines.\nPortulacaria afra se bouture très facilement en laissant sécher 3 à 4 jours la bouture avant de la placer dans un substrat légèrement humide. Une simple bouture de feuille peut aussi fonctionner (idéalement au printemps et en été pour un enracinement plus rapide mais le bouturage fonctionne quasiment toute l'année).\n\n■ Cultivars\nPortulacaria afra est une espèce variable dont deux formes ont été décrites par Hermann Jacobsen :\n\nPortulacaria afra f. macrophylla\net f. microphylla\nLa forme type présente des feuilles opposées, obovales, de 1 à 1,2 cm de large et 1,4 à 1,6 cm de long.",
+        "truncated": true
+      }
     }
   },
   "edible": {
@@ -87,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -106,7 +139,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/699417-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent shrub",
@@ -114,7 +147,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/699417-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000799101.webp",
@@ -127,6 +160,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

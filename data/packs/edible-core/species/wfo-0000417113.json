@@ -18,7 +18,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "de": [
@@ -47,18 +47,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1518115",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1518115",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Urtica membranacea」",
+      "source": "Wikipedia (en): Urtica membranacea",
       "source_url": "https://en.wikipedia.org/wiki/Urtica_membranacea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1212633223,
       "text": "Urtica membranacea is a species of annual herb in the family Urticaceae native to the Mediterranean Basin. They have a self-supporting growth form and simple, broad leaves. Individuals can grow to 39 cm tall."
+    },
+    "es": {
+      "source": "Wikipedia (es): Urtica membranacea",
+      "source_url": "https://es.wikipedia.org/wiki/Urtica_membranacea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166600829,
+      "text": "La ortiga membranosa es una especie de planta herbácea perteneciente a la familia de las urticáceas. Es originaria de la región del Mediterráneo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Urtica membranacea",
+      "source_url": "https://fr.wikipedia.org/wiki/Urtica_membranacea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222138490,
+      "text": "Urtica membranacea, l’Ortie douteuse ou Ortie à membranes, est une espèce de plantes à fleurs de la famille des Urticaceae. C'est une plante herbacée, urticante, présente sur le pourtour méditerranéen et dans le Finistère.\nElle a pour synonyme : Urtica dubia Forssk.\nIl existe une sous-espèce Urtica membranacea subsp. neglecta."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Urtica membranacea",
+      "source_url": "https://pt.wikipedia.org/wiki/Urtica_membranacea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62166451,
+      "text": "Urtica membranacea é uma espécie de planta com flor pertencente à família Urticaceae."
     }
   },
   "edible": {
@@ -70,7 +97,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -111,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/857732-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -119,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/857732-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000417113.webp",
@@ -132,6 +159,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

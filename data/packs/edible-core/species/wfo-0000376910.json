@@ -14,11 +14,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "southern balsampear"
+    "id": [
+      "Peria hutan"
     ],
     "pl": [
       "przepękla pospolita"
@@ -49,13 +49,16 @@
     ],
     "arz": [
       "معضوضه بلسميه"
+    ],
+    "en": [
+      "southern balsampear"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2672305",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2672305",
   "search_names": {
@@ -69,13 +72,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Momordica balsamina」",
+      "source": "Wikipedia (en): Momordica balsamina",
       "source_url": "https://en.wikipedia.org/wiki/Momordica_balsamina",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1330408344,
       "text": "Momordica balsamina, known by the common name balsam apple, is a species of tendril-bearing annual vine native to tropical regions of Africa, as well as introduced and invasive in parts of Asia, Australia, Central America, and North America. In 1810, Thomas Jefferson planted this vine in his flower borders at his Virginia home of Monticello, along with larkspur, poppies, and nutmeg."
+    },
+    "es": {
+      "source": "Wikipedia (es): Momordica balsamina",
+      "source_url": "https://es.wikipedia.org/wiki/Momordica_balsamina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581381,
+      "text": "Momordica balsamina es una planta anual trepadora nativa de las regiones tropicales de África, introducida e invasiva en Asia, Australia, América Central y México Tiene color amarillo pálido, con flores profundamente veteadas y redondas, algo verrugosas, y frutas de color naranja brillante. Cuando están maduros, los frutos estallan, revelando numerosas semillas cubiertas con una capa escarlata brillante, muy pegajosa. Fue introducida en Europa por 1568 y se utiliza con fines medicinales para tratar heridas. En 1810, Thomas Jefferson plantó esta vid en sus fronteras de flores en Monticello con espuela de caballero, amapolas, y la nuez moscada."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Momordica balsamina",
+      "source_url": "https://fr.wikipedia.org/wiki/Momordica_balsamina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235513370,
+      "text": "Momordica balsamina, le concombre balsamite ou courgette africaine, est une espèce de plantes à fleurs dicotylédones de la famille des Cucurbitaceae, originaire de l'Afrique tropicale et introduite dans les autres continents. Elle est devenue une espèce envahissante dans certaines régions. C'est une plante herbacée annuelle, monoïque, à port rampant ou grimpant. Les fruits sont des baies ovoïdes de 3 à 5 cm de long, de couleur orange vif ou rouge à maturité, contenant de nombreuses graines."
+    },
+    "id": {
+      "source": "Wikipedia (id): Peria hutan",
+      "source_url": "https://id.wikipedia.org/wiki/Peria_hutan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29866737,
+      "text": "Peria hutan  atau pare alas adalah spesies tumbuhan yang berasal dari genus Momordica."
     }
   },
   "edible": {
@@ -94,7 +124,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -158,7 +188,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/293397-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing annual",
@@ -166,7 +196,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/293397-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000376910.webp",
@@ -179,6 +209,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 225,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -11,7 +11,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -22,27 +22,20 @@
       "Carob Tree",
       "St. John's Bread"
     ],
-    "ru": [
-      "кэроб",
-      "рожковое дерево",
-      "цареградские рожки"
+    "fr": [
+      "Caroubier",
+      "caroubier"
     ],
-    "it": [
-      "carrubo"
+    "pt": [
+      "Alfarrobeira",
+      "alfarrobeira"
     ],
-    "ar": [
-      "الخرُّوب",
-      "الخرنوب",
-      "خروب"
+    "id": [
+      "Belalang (tumbuhan)",
+      "belalang"
     ],
     "zh": [
       "长角豆"
-    ],
-    "ast": [
-      "algarrobu"
-    ],
-    "sl": [
-      "rožičevec"
     ],
     "wa": [
       "caroubî"
@@ -52,9 +45,6 @@
     ],
     "eu": [
       "algarrobo"
-    ],
-    "fr": [
-      "caroubier"
     ],
     "arz": [
       "خروب"
@@ -92,11 +82,13 @@
     "sv": [
       "Johannesbröd"
     ],
+    "ar": [
+      "خروب",
+      "الخرُّوب",
+      "الخرنوب"
+    ],
     "nl": [
       "Johannesbroodboom"
-    ],
-    "pt": [
-      "alfarrobeira"
     ],
     "eo": [
       "karobarbo"
@@ -106,6 +98,11 @@
     ],
     "sk": [
       "rohovník obyčajný"
+    ],
+    "ru": [
+      "рожковое дерево",
+      "кэроб",
+      "цареградские рожки"
     ],
     "sr": [
       "рогач"
@@ -179,8 +176,8 @@
     "th": [
       "คารอบ"
     ],
-    "id": [
-      "belalang"
+    "ast": [
+      "algarrobu"
     ],
     "lv": [
       "jāņmaizītes koks"
@@ -218,6 +215,9 @@
     "lld": [
       "vaina"
     ],
+    "sl": [
+      "rožičevec"
+    ],
     "smn": [
       "juhánâsleibimuorâ"
     ],
@@ -232,13 +232,16 @@
     ],
     "rsk": [
       "Хлєбичок"
+    ],
+    "it": [
+      "carrubo"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q68763",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q68763",
   "search_names": {
@@ -253,36 +256,105 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キャロブ」",
+      "source": "Wikipedia (ja): キャロブ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%96",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111316007,
       "text": "キャロブ (carob) は、マメ科の植物であるイナゴマメ 、またはその果肉を乾燥させ粉末状にした食品。本項では主に食品としてのキャロブ（キャロブパウダー）について記述する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Carob」",
+      "source": "Wikipedia (en): Carob",
       "source_url": "https://en.wikipedia.org/wiki/Carob",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378603573,
       "text": "The carob is a flowering evergreen tree or shrub in the Caesalpinioideae subfamily of the legume family, Fabaceae. The carob tree is native to the Mediterranean region and the Middle East. It is widely cultivated for its edible fruit, which takes the form of seed pods, and as an ornamental tree in gardens and landscapes. Spain is its largest producer, followed by Italy and Morocco."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ceratonia siliqua",
+      "source_url": "https://es.wikipedia.org/wiki/Ceratonia_siliqua",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175237449,
+      "text": "El algarrobo europeo es una especie arbórea de la familia de las fabáceas originaria de la Cuenca del Mediterráneo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Caroubier",
+      "source_url": "https://fr.wikipedia.org/wiki/Caroubier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239258414,
+      "text": "Le Caroubier est une espèce de plantes à fleurs de la famille des Légumineuses. C'est un arbre fruitier méditerranéen trioïque et sempervirent."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Alfarrobeira",
+      "source_url": "https://pt.wikipedia.org/wiki/Alfarrobeira",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72478056,
+      "text": "A alfarrobeira, também conhecida como farrobeira no Algarve, pão-de-joão ou pão-de-são-joão, figueira-de-pitágoras e figueira-do-egipto, é uma árvore de folha perene, originária da região mediterrânica, que atinge cerca de 10 a 20 m de altura, e cujo fruto é a alfarroba."
+    },
+    "id": {
+      "source": "Wikipedia (id): Belalang (tumbuhan)",
+      "source_url": "https://id.wikipedia.org/wiki/Belalang_(tumbuhan)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29900052,
+      "text": "Belalang, yang umumnya dikenal sebagai pohon karub, roti Santo Yohanes, atau kacang lokus (locust) adalah sebuah spesies perdu atau pohon hijau abadi berbunga dari keluarga polong-polongan Fabaceae. Tumbuhan tersebut biasanya ditanam untuk diambil bijinya, dan sebagai pohon ornamental di taman."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Carob」の節「Cultivation」",
+        "source": "Wikipedia (en): Carob § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Carob#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378603573,
         "heading": "Cultivation",
         "text": "The vegetative propagation of carob is naturally restricted due to its low adventitious rooting potential. Therefore, grafting and air-layering may prove to be more effective methods of asexual propagation. Seeds are commonly used as the propagation medium. The sowing occurs in pot nurseries in early spring and the cooling- and drying-sensitive seedlings are then transplanted to the field in the next year after the last frost. Carob trees enter slowly into production phase. Where in areas with favorable growing conditions, the cropping starts 3–4 years after budding, with the nonbearing period requiring up to 8 years in regions with marginal soils. Full bearing of the trees occurs mostly at a tree-age of 20–25 years when the yield stabilizes. The orchards are traditionally planted in low densities of 25–45 trees per hectare (10 to 20/acre). Hermaphroditic or male trees, which produce fewer or no pods, respectively, are usually planted in lower densities in the orchards as pollenizers.\nIntercropping with other tree species is widely spread. Not much cultivation management is required. Only light pruning and occasional tilling to reduce weeds is necessary. Nitrogen-fertilizing of the plants has been shown to have positive impacts on yield performance. Although it is native to moderately dry climates, two or three summers' irrigation greatly aid the development, hasten the fruiting, and increase the yield of a carob tree.\n\n■ Harvest and post-harvest treatment\nThe most labour-intensive part of carob cultivation is harvesting, which is often done by knocking the fruit down with a long stick and gathering them together with the help of laid-out nets.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Ceratonia siliqua § Producción",
+        "source_url": "https://es.wikipedia.org/wiki/Ceratonia_siliqua#Producci%C3%B3n",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175237449,
+        "heading": "Producción",
+        "text": "Los principales países productores de algarrobas son los situados en la cuenca mediterránea, es decir, España, Italia, Portugal, Chipre, Marruecos, Turquía, Grecia, Argelia y Túnez.​",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Caroubier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Caroubier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239258414,
+        "heading": "Culture",
+        "text": "Le caroubier peut survivre à des sécheresses moyennes (bien moins longtemps que l'olivier) et à des sols pauvres, mais pour une bonne fructification, il a besoin de 500 à 550 millimètres de précipitations annuelles (ou d'irrigation) et de sols riches (ou de fertilisation). Il préfère les loams sableux bien drainés et tolère peu ou pas les sols argileux trop humides. Les systèmes racinaires profonds peuvent s'adapter à une grande variété de conditions de sol et sont assez tolérants au sel (jusqu'à 3 % dans le sol). Après avoir été irrigués avec de l'eau salée en été, les caroubiers pourraient éventuellement récupérer pendant les pluies d'hiver. Dans certaines expériences, les jeunes caroubiers étaient capables de fonctions physiologiques de base dans des conditions de sel élevées (40 mmol NaCl/l).\nLe caroubier supporte bien la sécheresse mais il résiste mal au froid (il ne supporte pas les températures inférieures à −5°).\nLe caroubier donne ses premières caroubes vers l'âge de 5 à 8 ans (en août/septembre) mais ce délai est ramené à 3 ans sur des arbres greffés.\nLe caroubier forme naturellement de nombreux rejets de souche et forme rapidement des taillis quand les vergers cultivés sont abandonnés ou après un incendie.\n\n■ Pollinisation et sexualité du caroubier\nLe caroubier est dioïque (rapport mâle/femelle 50/50 mais il existe des plants polygames et/ou hermaphrodites).\nLes arbres strictement mâles ne donnent que des fleurs mâles et ne produisent donc pas de fruits. Ils ont une croissance plus vigoureuse que les arbres femelles.\nLes arbres polygames hermaphrodites donnent à la fois des fleurs unisexuées (mâles ou femelles) et des fleurs hermaphrodites (mâles et femelles).",
+        "truncated": true
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Alfarrobeira § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Alfarrobeira#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72478056,
+        "heading": "Cultivo",
+        "text": "De acordo com a FAO, os cinco maiores países produtores de Alfarroba são (em toneladas, 2017):\n\n Portugal 41.909\n Itália 28.910\n Marrocos 21.983\n Turquia 15.016\n Grécia 12.528\n\nFonte: UN Food & Agriculture Organisation (FAO)",
+        "truncated": false
       }
     }
   },
@@ -303,7 +375,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -364,7 +436,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/485647-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -372,7 +444,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/485647-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000165151.webp",
@@ -385,6 +457,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

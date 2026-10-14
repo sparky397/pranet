@@ -14,9 +14,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "ml": [
+      "വിഴാൽ"
+    ],
     "zh": [
       "白花酸藤果",
       "咸酸蔃",
@@ -25,9 +28,6 @@
       "成酸蔃",
       "水林果",
       "酸藤果"
-    ],
-    "ml": [
-      "വിഴാൽ"
     ],
     "mr": [
       "वावडिंग"
@@ -58,18 +58,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3595673",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3595673",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Embelia ribes」",
+      "source": "Wikipedia (en): Embelia ribes",
       "source_url": "https://en.wikipedia.org/wiki/Embelia_ribes",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1335967744,
       "text": "Embelia ribes, commonly known as false black pepper, white-flowered embelia, viḍaṅga, vaividang, vai vidang, or vavding is a species of flowering plant in the family Primulaceae. It was originally described by Nicolaas Laurens Burman in his 1768 publication Flora Indica. It is widely distributed throughout India. In Cambodia, it is called Chu Preuk or Sangkong [ជូរព្រឹក/សង្កុង). In Ayurveda and Siddha, it is considered widely beneficial in a variety of diseases In particular embelin isolated from dried berries of Embelia ribes has a wide spectrum of biological activities."
+    },
+    "es": {
+      "source": "Wikipedia (es): Embelia ribes",
+      "source_url": "https://es.wikipedia.org/wiki/Embelia_ribes",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166594854,
+      "text": "Embelia ribes es una especie de planta de la familia Myrsinaceae. Se distribuye por la India. En la medicina ayurveda, está considerada como beneficiosa para una amplia relación de enfermedades. también es usada en homeopatía."
     }
   },
   "edible": {
@@ -84,7 +93,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -114,7 +123,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/588451-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing shrub",
@@ -122,7 +131,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/588451-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000666970.webp",
@@ -135,6 +144,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

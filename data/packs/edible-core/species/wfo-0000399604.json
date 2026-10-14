@@ -38,30 +38,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "イヌガラシ"
     ],
-    "en": [
-      "variableleaf yellowcress"
+    "zh": [
+      "印度蔊菜",
+      "蔊菜",
+      "旱菜",
+      "薄菜"
     ],
     "ko": [
       "개갓냉이"
     ],
-    "zh": [
-      "蔊菜",
-      "旱菜",
-      "薄菜",
-      "印度蔊菜"
+    "en": [
+      "variableleaf yellowcress"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5768150",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5768150",
   "search_names": {
@@ -71,13 +71,22 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「イヌガラシ」",
+      "source": "Wikipedia (ja): イヌガラシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%82%AC%E3%83%A9%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106349104,
       "text": "イヌガラシ は、アブラナ科イヌガラシ属の多年草。水田の畔、河川敷、水路脇、ため池の縁などのやや湿った場所に生える雑草である。別名、ナガミノイヌガラシ、ヘビクサ、ツミナ、アゼダイコン、アゼガラシ、ノガラシ。中国名は「蔊菜」。"
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rorippa indica",
+      "source_url": "https://fr.wikipedia.org/wiki/Rorippa_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235492549,
+      "text": "Rorippa indica, le Rorippe d'Inde, est une espèce de plantes à fleurs annuelles, de la famille des Brassicacées, originaire d'Asie et d'Afrique et naturalisée dans les Amériques. C'est en Asie un légume sauvage et une plante médicinale chinoise, utilisée pour traiter la toux, la diarrhée et la polyarthrite rhumatoïde."
     }
   },
   "edible": {
@@ -90,7 +99,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -151,7 +160,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/222144-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -159,7 +168,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/222144-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000399604.webp",
@@ -172,6 +181,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

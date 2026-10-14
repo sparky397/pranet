@@ -20,7 +20,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -28,13 +28,20 @@
     ],
     "en": [
       "Pomelo",
-      "shaddock",
-      "pomelo"
+      "pomelo",
+      "shaddock"
+    ],
+    "pt": [
+      "Pomelo"
+    ],
+    "id": [
+      "Jeruk bali",
+      "jeruk bali"
     ],
     "zh": [
+      "柚子",
       "柚",
       "化橘红",
-      "柚子",
       "柚花",
       "橘红珠",
       "柚核",
@@ -43,9 +50,6 @@
       "柚根",
       "树葫芦",
       "橘红"
-    ],
-    "sl": [
-      "pomelo"
     ],
     "jv": [
       "jeruk bali"
@@ -88,9 +92,6 @@
     ],
     "ar": [
       "ليمون هندي"
-    ],
-    "pt": [
-      "Pomelo"
     ],
     "eo": [
       "Pampelmuso"
@@ -146,9 +147,6 @@
     "de": [
       "Pampelmuse"
     ],
-    "id": [
-      "jeruk bali"
-    ],
     "ml": [
       "ബബ്ലൂസ് നാരകം"
     ],
@@ -181,6 +179,9 @@
     ],
     "war": [
       "Aslom"
+    ],
+    "sl": [
+      "pomelo"
     ],
     "cs": [
       "pomelo"
@@ -361,7 +362,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q80024",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q80024",
   "search_names": {
@@ -386,35 +387,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ザボン」",
+      "source": "Wikipedia (ja): ザボン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%9C%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110710178,
       "text": "ザボン は、柑橘類の一種である。ブンタン（文旦）の別名でも知られ、ほかにはボンタン、ウチムラサキ、ザンボア、ジャボンとも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pomelo」",
+      "source": "Wikipedia (en): Pomelo",
       "source_url": "https://en.wikipedia.org/wiki/Pomelo",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369191012,
       "text": "The pomelo, also known as a shaddock, is the largest citrus fruit. It is an ancestor of several cultivated citrus species, including the bitter orange and the grapefruit. It is a natural, non-hybrid citrus fruit, native to Southeast Asia. Similar in taste to a sweet grapefruit, the pomelo is commonly eaten and used for festive occasions throughout Southeast and East Asia. As with the grapefruit, phytochemicals in the pomelo have the potential for drug interactions."
+    },
+    "es": {
+      "source": "Wikipedia (es): Citrus maxima",
+      "source_url": "https://es.wikipedia.org/wiki/Citrus_maxima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174552587,
+      "text": "Citrus maxima, sin. C. grandis, la pamplemusa, pampelmusa, limonzón o pomelo chino, es un árbol perennifolio de la familia de las rutáceas. Es originario del sudeste asiático, donde crece de forma silvestre, y se ha difundido menos que otros cítricos; es cultivado por su fruto, un hesperidio de color amarillo pálido o rosado, sabor ligeramente ácido con un pequeño toque de amargor y gran tamaño."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Citrus maxima",
+      "source_url": "https://fr.wikipedia.org/wiki/Citrus_maxima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239287388,
+      "text": "Citrus maxima est une espèce d'arbres fruitiers, nommée en français Pamplemoussier, qui appartient à la famille des Rutaceae. Il est originaire d'Asie du Sud-Est où il est connu depuis plus de quatre mille ans et cultivé pour son fruit."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pomelo",
+      "source_url": "https://pt.wikipedia.org/wiki/Pomelo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66629468,
+      "text": "O pomelo, também chamada laranja-natal ou cimbo, é uma fruta cítrica, fruto de uma árvore da família Rutaceae com 5 a 8 m de altura, que vegeta e produz satisfatoriamente em regiões das mais variadas condições ecológicas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jeruk bali",
+      "source_url": "https://id.wikipedia.org/wiki/Jeruk_bali",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29984689,
+      "text": "Jeruk bali, jeruk besar, atau pomelo merupakan tanaman jeruk yang menghasilkan buah terbesar. Nama \"pomelo\" disarankan oleh Kementerian Pertanian karena jeruk ini tidak ada kaitannya dengan Provinsi Bali. Bobot buah jeruk bali bisa mencapai 1–2 kg. Daging buahnya berbulir dengan warna merah-oranye dan rasa yang cenderung terasa manis bercampur asam dan sedikit getir."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Pomelo」の節「Cultivation」",
+        "source": "Wikipedia (en): Pomelo § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Pomelo#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369191012,
         "heading": "Cultivation",
         "text": "The seeds of the pomelo are monoembryonic, producing seedlings with genes from both parents, so they do not breed true to type. However, they are usually fairly similar to the tree they grow from and therefore in Asia, pomelos are typically grown from seed. Seeds can be stored for 80 days at a temperature of 5 °C (41 °F) with moderate relative humidity. Pomelos can be propagated vegetatively by air-layering, by taking cuttings, by grafting, by shield budding, or by tissue culture.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Citrus maxima § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Citrus_maxima#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174552587,
+        "heading": "Cultivo",
+        "text": "La pampelmusa se cultiva en el sudeste asiático, Malasia y la Polinesia desde tiempos muy antiguos; a China se cree que se introdujo alrededor de finales del siglo I, y es uno de los frutales más extensamente cultivados en el sur del país, así como en Tailandia, Japón, la India, Bangladés, Vietnam e Indonesia. Se ha introducido con éxito en California, Israel y Sudamérica.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Citrus maxima § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Citrus_maxima#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239287388,
+        "heading": "Culture",
+        "text": "La culture du pamplemoussier est comparable à celle du citronnier. La zone de rusticité est 9b, il est plus rustique que le cédratier. Comme le citronnier, il peut être cultivé en pots de grande taille.\nL'arbre craint le vent, le poids des fruits courbe les branches et peut les casser. La mise à fruit d'un arbre greffé est de 4 ans.\nSi ce pamplemousse est fécondé avec le pollen d'une orange douce ou d'une mandarine, les fruits seront généralement sans pépins. Dans des conditions optimales, le pamplemousse donne des fleurs quatre fois par an et le fruit peut être cueilli après 8 à 12 mois en quatre récoltes.\n\nLe fruit demande de la chaleur pour arriver à maturité. Il est cultivé et consommé à grande échelle uniquement en Asie orientale. En climat méditerranéen chaud (on le cultive à Tokyo ou dans le sud de la péninsule ibérique), les fruits arrivent à maturité mais sont brûlés par l'ensoleillement fort, comme en Chine méridionale ; ils doivent donc être mis en sac.Le fruit se conserve bien, notamment emballé dans du papier et conservé dans des boîtes bien aérées. Une étude comparative chinoise (2019) sur le cultivar Pomelo de miel (Taoxi) montre que la récolte optimale se fait 208 jours après l’anthèse et qu'un stockage de 4 mois avant consommation dans un endroit frais et sombre « permet de conserver une belle apparence et une bonne qualité gustative ».",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Jeruk bali § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Jeruk_bali#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29984689,
+        "heading": "Budidaya",
+        "text": "Jeruk bali dapat dibudidayakan dengan biji, pencangkokan, maupun stek. Namun perbanyakan dengan biji tidak dianjurkan. Perbanyakan melalui biji akan menghasilkan tanaman yang berduri. Sedangkan, jika diperbanyak secara vegetatif akan menghasilkan tanaman yang tidak berduri.",
         "truncated": false
       }
     }
@@ -432,7 +502,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -478,7 +548,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30075266-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -486,7 +556,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30075266-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000608138.webp",
@@ -499,6 +569,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

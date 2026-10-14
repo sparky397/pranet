@@ -14,41 +14,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "レモングラス"
     ],
-    "en": [
-      "lemon grass"
-    ],
-    "zh": [
-      "檸檬茅",
-      "柠檬草",
-      "香茅",
-      "香茅(柠檬草)",
-      "柠檬茅",
-      "香茅草",
-      "香矛草",
-      "柠檬草（香茅）",
-      "香茅花",
-      "风茅"
-    ],
-    "pt": [
-      "capim-limão"
-    ],
-    "sl": [
-      "limonska trava"
+    "id": [
+      "Serai dapur",
+      "Serai"
     ],
     "pl": [
       "palczatka cytrynowa"
     ],
     "et": [
       "harilik sidrunhein"
-    ],
-    "id": [
-      "Serai"
     ],
     "bn": [
       "গন্ধবেণা"
@@ -58,6 +38,9 @@
     ],
     "nl": [
       "citroengras"
+    ],
+    "pt": [
+      "capim-limão"
     ],
     "fi": [
       "intiansitrusheinä"
@@ -73,6 +56,18 @@
     ],
     "cs": [
       "voňatka citronová"
+    ],
+    "zh": [
+      "柠檬草",
+      "檸檬茅",
+      "香茅",
+      "香茅(柠檬草)",
+      "柠檬茅",
+      "香茅草",
+      "香矛草",
+      "柠檬草（香茅）",
+      "香茅花",
+      "风茅"
     ],
     "vi": [
       "Sả chanh"
@@ -182,6 +177,9 @@
     "eu": [
       "Limoi-belar"
     ],
+    "sl": [
+      "limonska trava"
+    ],
     "bjn": [
       "Sarai"
     ],
@@ -199,13 +197,16 @@
     ],
     "ln": [
       "Sinda"
+    ],
+    "en": [
+      "lemon grass"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q33913",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q33913",
   "search_names": {
@@ -215,22 +216,84 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「レモングラス」",
+      "source": "Wikipedia (ja): レモングラス",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A2%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107218994,
       "text": "レモングラス はイネ科オガルカヤ属の多年草。別名はレモンソウ（檸檬草）、レモンガヤ（檸檬茅）、コウボウ（香茅）。インド原産。アジア料理およびカリブ料理でよく使用されるレモンのような香りがするハーブ。タイのスープ・トムヤムクンなどの料理の香り付けに用いられたり、ティーとして利用される。水蒸気蒸留法で得られる精油は、食品や飲料、香水に添加される。精油は近縁種と区別するために、本種をウエストインディアン・レモングラスと呼ぶこともある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cymbopogon citratus」",
+      "source": "Wikipedia (en): Cymbopogon citratus",
       "source_url": "https://en.wikipedia.org/wiki/Cymbopogon_citratus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365355224,
       "text": "Cymbopogon citratus, commonly known as West Indian lemon grass or simply lemon grass, is a tropical plant native to South Asia and Maritime Southeast Asia and introduced to many tropical regions."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cymbopogon citratus",
+      "source_url": "https://es.wikipedia.org/wiki/Cymbopogon_citratus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175738347,
+      "text": "La limonaria o zacate limón es una especie de hierba perteneciente a la familia de las Gramíneas (Poaceae)."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cymbopogon citratus",
+      "source_url": "https://fr.wikipedia.org/wiki/Cymbopogon_citratus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058282,
+      "text": "La Citronnelle ou Verveine des Indes, est une espèce de plantes herbacées tropicales de la famille des Poacées (graminées), cultivée pour ses tiges et feuilles aux qualités aromatiques. Elle contient du citronellol et entre dans la composition de l'huile de citronnelle de même que d'autres espèces du genre Cymbopogon, notamment Cymbopogon nardus."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cymbopogon citratus",
+      "source_url": "https://pt.wikipedia.org/wiki/Cymbopogon_citratus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71189555,
+      "text": "Erva-príncipe (português europeu) ou capim-cidreira (português brasileiro), também conhecido por capim-santo ou capim-limão, ou erva cidreira de capim, é uma planta herbácea da família Poaceae, nativa das regiões tropicais da Ásia, especialmente da Índia. Cresce numa moita de rebentos, propagando-se por estolhos, os quais apresentam folhas amplexicaules linear-lanceoladas. As suas inflorescências são constituídas por panículas amareladas. No Brasil é muito comum que esta planta seja chamada de \"erva-cidreira\", que é um nome popular também dado à espécie Melissa officinalis."
+    },
+    "id": {
+      "source": "Wikipedia (id): Serai dapur",
+      "source_url": "https://id.wikipedia.org/wiki/Serai_dapur",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29877958,
+      "text": "Serai dapur / daun sereh adalah tumbuhan anggota suku rumput-rumputan yang dimanfaatkan sebagai bumbu dapur untuk mengharumkan makanan. Serai dapur berbeda dengan serai wangi."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Cymbopogon citratus § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Cymbopogon_citratus#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175738347,
+        "heading": "Cultivo",
+        "text": "Requisitos para sembrar la limonaria\nLa limonaria requiere un clima cálido para su cultivo. Si la siembras en un lugar donde hay estaciones, debes tener presente que para que sobreviva debes guardarla en invierno al interior del hogar.\nEl suelo en el cual lo vas a cultivar debe ser preferiblemente arenoso, con algo de arcilla.​\nCultivo\nSe debe preparar el suelo 40 días antes de la plantación, ya que este debe estar en condiciones óptimas para el buen crecimiento de la planta, para lo cual se debe realizar las siguientes actividades:\n\nLavar la tierra (profundidad de 30cm.), para facilitar el crecimiento de las raíces.\nLimpieza del suelo de todas malezas, para que estas no afecten el crecimiento del nuevo cultivo.\nRegar periódicamente, para que el suelo cuente con condiciones óptimas para el crecimiento del nuevo cultivo.\nAsurcar el suelo.\nColocar una correcta cantidad de abono con productos tales como: estiércol bien fermentado, azufre.\nTambién se recomienda desherbar la maleza los primeros 15 centímetros de profundidad y de paso tomar los rastrojos y picarlos; así acelerarás su descomposición. Hay buen material sobre este tema, recuerda consultarlo abajo en la sección Véase también: preparación del suelo para cultivar limonaria.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Cymbopogon citratus § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Cymbopogon_citratus#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237058282,
+        "heading": "Culture",
+        "text": "Plante non rustique en climat tempéré, où il est nécessaire de la protéger du gel pendant la mauvaise saison. La citronnelle nécessite un arrosage relativement abondant. Un substrat humide à tendance sablonneuse, de préférence légèrement enrichi, lui garantira une croissance optimale. Lorsque le climat est assez chaud, on peut la cultiver en pleine terre ou en pot sans aucun problème.\nMultiplication par division de touffes au printemps. Récolte au bout de quelques mois. On prélève la base de la tige.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -248,7 +311,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -357,7 +420,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/396896-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -365,6 +428,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/396896-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

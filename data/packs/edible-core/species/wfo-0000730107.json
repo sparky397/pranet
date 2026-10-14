@@ -11,26 +11,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "トウシキミ"
     ],
-    "en": [
-      "staranise tree",
-      "star anise",
-      "staranise"
+    "fr": [
+      "Badianier de Chine",
+      "badianier de Chine"
+    ],
+    "id": [
+      "Bunga lawang",
+      "bunga lawang"
+    ],
+    "be": [
+      "Бадзян сапраўдны"
     ],
     "zh": [
       "八角",
       "八角茴香"
-    ],
-    "sl": [
-      "zvezdasti janež"
-    ],
-    "be": [
-      "Бадзян сапраўдны"
     ],
     "vi": [
       "Đại hồi"
@@ -50,9 +50,6 @@
     "et": [
       "harilik tähtaniisipuu"
     ],
-    "id": [
-      "bunga lawang"
-    ],
     "nl": [
       "steranijs"
     ],
@@ -67,9 +64,6 @@
     ],
     "pl": [
       "badian właściwy"
-    ],
-    "fr": [
-      "badianier de Chine"
     ],
     "bo": [
       "གོ་སྙོད་ཟུར་བརྒྱད།"
@@ -215,6 +209,9 @@
     "pa": [
       "ਸਟਾਰ ਸੌਂਫ"
     ],
+    "sl": [
+      "zvezdasti janež"
+    ],
     "ha": [
       "Star anise"
     ],
@@ -223,13 +220,18 @@
     ],
     "bjn": [
       "Kambang Sisir"
+    ],
+    "en": [
+      "staranise tree",
+      "star anise",
+      "staranise"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2878644",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2878644",
   "search_names": {
@@ -245,35 +247,95 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「トウシキミ」",
+      "source": "Wikipedia (ja): トウシキミ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%82%B7%E3%82%AD%E3%83%9F",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109019349,
       "text": "トウシキミ はマツブサ科のシキミ属に属する常緑性高木の1種であり、芳香をもつ。多数の花被片をもつ赤い花をつけ、その果実を乾燥したものは香辛料や生薬として広く利用されている。中国南東部からベトナム北東部原産とされ、また中国南部やインド南部、インドシナ半島などで広く栽培されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Illicium verum」",
+      "source": "Wikipedia (en): Illicium verum",
       "source_url": "https://en.wikipedia.org/wiki/Illicium_verum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378834086,
       "text": "Illicium verum is a medium-sized evergreen tree native to South China and northeast Vietnam. Its star-shaped pericarp fruits harvested just before ripening are a spice that closely resembles anise in flavor. Its primary production country is China, followed by Vietnam and other Southeast Asian countries. Star anise oil is highly fragrant, used in cooking, perfumery, soaps, toothpastes, mouthwashes, and skin creams. Until 2012, when it switched to using genetically modified E. coli, Roche Pharmaceuticals used up to 90% of the world's annual star anise crop to produce oseltamivir (Tamiflu) via shikimic acid."
+    },
+    "es": {
+      "source": "Wikipedia (es): Illicium verum",
+      "source_url": "https://es.wikipedia.org/wiki/Illicium_verum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175150741,
+      "text": "Illicium verum, llamado comúnmente anís estrellado, anís estrella, anís estrellado chino, badián, badiana o badiana de China, y sanqué en el español filipino, es una especia que se obtiene del pericarpio del fruto con forma de estrella. Su sabor se asemeja al anís de Pimpinella anisum."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Badianier de Chine",
+      "source_url": "https://fr.wikipedia.org/wiki/Badianier_de_Chine",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229432778,
+      "text": "Le badianier de Chine est une espèce de plantes à fleurs de la famille des Schisandraceae. C'est un arbre sempervirent originaire de Chine méridionale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Illicium verum",
+      "source_url": "https://pt.wikipedia.org/wiki/Illicium_verum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69427370,
+      "text": "Illicium verum popularmente como anis-estrelado, anis-da-china, anis-da-sibéria, badiana ou funcho-da-china é uma planta originária da China e do Vietnã. É considerado uma especiaria de uso medicinal e culinário. Possui um aroma idêntico ao do anis pois contém o mesmo óleo, embora seja mais forte."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bunga lawang",
+      "source_url": "https://id.wikipedia.org/wiki/Bunga_lawang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29293421,
+      "text": "Bunga lawang atau kembang pekak adalah rempah yang memiliki rasa yang mirip dengan adas manis. Rempah ini memiliki nama ilmiah Illicium verum. Bunga lawang merupakan bunga yang berwarna cokelat gelap dan terdiri atas delapan sisi dengan rasa manis."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「トウシキミ」の節「栽培」",
+        "source": "Wikipedia (ja): トウシキミ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%82%B7%E3%82%AD%E3%83%9F#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109019349,
         "heading": "栽培",
         "text": "トウシキミは古くから利用され、紀元前2,000年頃から栽培が行われてきたと考えられている。中国南部やインド南部、インドシナ半島で広く栽培されており、2009年現在では、中国が全世界の生産量の80パーセント (65,000トン) を占めていた。\n実生または挿し木から栽培される。播種する種子は、採取後3日以内または低温 (5度) 保存1年以内のものを用いる。植栽後、9–10年後から80年生頃まで収穫される。中国では1年に2回、9–10月と3–4月に収穫される（下図4a）。成木の場合、1シーズンで8–12キログラム (kg) の果実が収穫される (乾燥重量は4–5分の1)。果実は、精油量が最も多くなる熟す直前に収穫される。",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Badianier de Chine § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Badianier_de_Chine#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 229432778,
+        "heading": "Culture",
+        "text": "Le badianier est un arbre de climat doux. Il ne supporte pas les températures inférieures à -5 degrés et a besoin d'un sol riche et acide.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Illicium verum § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Illicium_verum#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175150741,
+        "heading": "Toxicidad",
+        "text": "La caracterización del extracto acuoso de I. verum ha descubierto la presencia de anetol,​ el cual podría ser el causante de la neurotoxicidad del anís estrellado por su actividad inhibitoria de la enzima acetilcolinesterasa.​ La presencia de este compuesto en soluciones superconcentradas puede favorecer la aparición de trastornos neurológicos, principalmente en infantes. \nExiste también otra planta de características similares denominada Illicium anisatum que no presenta propiedades medicinales pero si efectos adversos graves, y la contaminación y mezcla de ambas plantas provoca intoxicaciones sobre todo en infantes tratados con infusiones de esta planta.​\nA lo largo de 2001 se han identificado en España varios casos de urgencias neurológicas en lactantes. Estos datos se registran en el Instituto Nacional de Toxicología. La intoxicación se puede manifestar como irritabilidad, temblores, nistagmo vertical, mioclonias, movimientos anómalos y vómitos. Los casos se resolvieron tras interrumpir la administración de la infusión en un periodo de 48h.​\nNo se conoce antídoto, las convulsiones pueden tratarse con benzodiacepinas. Además, en el caso de lactantes menores de 3 meses es fundamental plantear en el diagnóstico diferencial los cuadros de sepsis neonatal, encefalopatía, hemorragias intracraneal, edema cerebral y crisis convulsivas.​",
         "truncated": false
       }
     }
@@ -288,7 +350,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -303,7 +365,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554553-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -311,7 +373,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554553-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000730107.webp",
@@ -324,6 +386,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 266,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

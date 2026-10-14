@@ -20,35 +20,53 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "火焰丸"
-    ],
     "ru": [
       "Маммиллярия мясо-красная"
     ],
     "sv": [
       "Köttröd vårtkaktus"
+    ],
+    "zh": [
+      "火焰丸"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q137942",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q137942",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Mammillaria carnea」",
+      "source": "Wikipedia (en): Mammillaria carnea",
       "source_url": "https://en.wikipedia.org/wiki/Mammillaria_carnea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1292627617,
       "text": "Mammillaria carnea is a species of cactus in the subfamily Cactoideae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Mammillaria carnea",
+      "source_url": "https://es.wikipedia.org/wiki/Mammillaria_carnea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 162627356,
+      "text": "Mammillaria carnea es una especie de planta suculenta perteneciente a la familia Cactaceae. Es endémico de México. Su hábitat natural son los áridos desiertos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Mammillaria carnea",
+      "source_url": "https://fr.wikipedia.org/wiki/Mammillaria_carnea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 161018824,
+      "text": "Mammillaria carnea est une espèce de cactus du genre Mammillaria endémique du Mexique dans les États de Guerrero, Puebla et d'Oaxaca."
     }
   },
   "edible": {
@@ -61,7 +79,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -73,7 +91,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/134392-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent subshrub",
@@ -81,7 +99,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/134392-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001288728.webp",
@@ -94,6 +112,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

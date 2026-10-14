@@ -15,7 +15,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -25,28 +25,11 @@
       "Mung bean",
       "mung bean"
     ],
-    "cy": [
-      "ffeuen fwng"
+    "fr": [
+      "Haricot mungo"
     ],
-    "zh": [
-      "綠豆",
-      "绿豆",
-      "绿豆皮",
-      "绿豆芽",
-      "蚕豆",
-      "绿豆粉",
-      "绿豆叶",
-      "绿豆花"
-    ],
-    "el": [
-      "Ροβίτσα"
-    ],
-    "vi": [
-      "đậu xanh",
-      "cây đậu xanh"
-    ],
-    "tr": [
-      "Maş fasulyesi"
+    "id": [
+      "Kacang hijau"
     ],
     "dv": [
       "ނޫމުގު"
@@ -62,9 +45,6 @@
     ],
     "pl": [
       "Fasola złota"
-    ],
-    "fr": [
-      "Haricot mungo"
     ],
     "ko": [
       "녹두"
@@ -90,14 +70,15 @@
     "ps": [
       "مۍ"
     ],
-    "id": [
-      "Kacang hijau"
-    ],
     "de": [
       "Mungbohne"
     ],
     "ml": [
       "ചെറുപയർ"
+    ],
+    "vi": [
+      "cây đậu xanh",
+      "đậu xanh"
     ],
     "sa": [
       "मुद्गः"
@@ -162,6 +143,16 @@
     "da": [
       "Mung-Bønne"
     ],
+    "zh": [
+      "绿豆",
+      "綠豆",
+      "绿豆皮",
+      "绿豆芽",
+      "蚕豆",
+      "绿豆粉",
+      "绿豆叶",
+      "绿豆花"
+    ],
     "gu": [
       "મગ"
     ],
@@ -179,6 +170,9 @@
     ],
     "yue": [
       "綠豆"
+    ],
+    "cy": [
+      "Ffeuen fwng"
     ],
     "hak": [
       "Liu̍k-theu"
@@ -215,6 +209,9 @@
     ],
     "mn": [
       "Ногоон шош"
+    ],
+    "el": [
+      "Ροβίτσα"
     ],
     "sw": [
       "Mchoroko"
@@ -254,13 +251,16 @@
     ],
     "krc": [
       "Маш"
+    ],
+    "tr": [
+      "Maş fasulyesi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q484447",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q484447",
   "search_names": {
@@ -275,36 +275,94 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「リョクトウ」",
+      "source": "Wikipedia (ja): リョクトウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A7%E3%82%AF%E3%83%88%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109051471,
       "text": "リョクトウ（緑豆）は、マメ亜科の一年生植物、ヤエナリ の種子のこと。食品および食品原料として利用される。別名は青小豆（あおあずき）、八重生（やえなり）、文豆（ぶんどう）。英名から「ムング豆」とも呼ばれる。アズキ とは同属。\nグリーンピースは別属別種のエンドウの種子。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Mung bean」",
+      "source": "Wikipedia (en): Mung bean",
       "source_url": "https://en.wikipedia.org/wiki/Mung_bean",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376337437,
       "text": "The mung bean or green gram is a plant species in the legume family. It is mainly cultivated in East, Southeast, and in South Asia and used as an ingredient in both savoury and sweet dishes."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vigna radiata",
+      "source_url": "https://es.wikipedia.org/wiki/Vigna_radiata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580846,
+      "text": "Vigna radiata, llamada popularmente judía mungo o soja verde, es una especie de la familia de las fabáceas. Se cultiva extensamente en el Sudeste Asiático, en Bangladés, China, India y Sri Lanka; así como en varios países de África; además de en regiones de clima tropical y subtropical."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Haricot mungo",
+      "source_url": "https://fr.wikipedia.org/wiki/Haricot_mungo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238716624,
+      "text": "Le Haricot mungo est une espèce de plantes à fleurs de la famille des Fabaceae. C'est une plante annuelle, originaire du sous-continent indien et cultivée comme plante potagère pour ses graines consommées comme légume à l'instar du Haricot commun. C'est un ingrédient courant de la cuisine asiatique, utilisé cuit ou cru, notamment sous la forme germée appelée « fèves germées » ou, abusivement, « pousses de soja »."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vigna radiata",
+      "source_url": "https://pt.wikipedia.org/wiki/Vigna_radiata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70093764,
+      "text": "Conhecida no Brasil como feijão-moyashi, feijão-mungu, feijão-mungo, vielum, feijão-mungu-verde ou feijão-da-china é uma planta leguminosa, muito utilizada na produção de brotos comestíveis, conhecidos como moyashi."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kacang hijau",
+      "source_url": "https://id.wikipedia.org/wiki/Kacang_hijau",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29839393,
+      "text": "Kacang hijau adalah sejenis palawija yang dikenal luas di daerah tropika. Tumbuhan yang termasuk suku polong-polongan (Fabaceae) ini memiliki banyak manfaat dalam kehidupan sehari-hari sebagai sumber bahan pangan berprotein nabati tinggi. Kacang hijau di Indonesia menempati urutan ketiga terpenting sebagai tanaman pangan legum, setelah kedelai dan kacang tanah."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Mung bean」の節「Cultivation」",
+        "source": "Wikipedia (en): Mung bean § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Mung_bean#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1376337437,
         "heading": "Cultivation",
         "text": "■ Varieties\nThe mung bean varieties now are mainly targeted in resistance to pests and diseases, particularly the bean weevil and mung bean yellow mosaic virus (MYMV). For now, the main varieties include Samrat, IPM2-3, SML 668 and Meha in India; Crystal, Jade-AU, Celera-AU，Satin II，Regur in Australia; Zhonglv No. 1, Zhonglv No. 2, Jilv No. 2, Jilv No. 7, Weilv No. 4, Jihong 9218, Jihong 8937, Bao 876-16, Bao 8824-17 in China. Also, with the help of the World Vegetable Center, the traits of mung bean have been considerably improved.\n'Summer Moong' is a short-duration mung bean pulse crop grown in northern India. Due to its short duration, it can fit well in-between of many cropping systems. It is mainly cultivated in East and Southeast Asia and the Indian subcontinent. It is considered to be the hardiest of all pulse crops and requires a hot climate for germination and growth.\n\n■ Climate and soil requirements\nMung bean is a warm-season and frost-intolerant plant. Mung bean is suitable for being planted in temperate, sub-tropical and tropical regions. The most suitable temperature for mung bean's germination and growth is 15–18 °C (59–64 °F). Mung bean has high adaptability to various soil types, while the best pH of the soil is between 6.2 and 7.2. Mung bean is a short-day plant and long days will delay its flowering and podding.\n\n■ Harvest\nThe yield potential of mung bean is around 2.5 to 3.0 t/ha, however, usually due to the resistance to environmental stress and improper management, the average productivity for mung bean is only 0.5 t/ha. Due to the indeterminate flowering habit of mung bean, when facing proper environmental conditions, there can be both flowers and pods in one mung bean plant, which makes it difficult to harvest it.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Vigna radiata § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Vigna_radiata#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171580846,
+        "heading": "Cultivo",
+        "text": "Se cultiva en altitudes de hasta 1850 m s. n. m. en climas de entre 20 °C a 30 °C de media, con precipitaciones anuales de 600 a 1800 mm. Se adapta a suelos pobres aunque se desarrolla mejor en sustratos fértiles y sueltos (arenosos), no tolera los salinos. Es bastante resistente a la sequía y las ubicaciones a la sombra.​",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Haricot mungo § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Haricot_mungo#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238716624,
+        "heading": "Culture",
+        "text": "Le haricot mungo est une plante tropicale (ou subtropicale) dont la culture nécessite des températures élevées (idéalement 30 à 35 °C). Ils peuvent pousser en intérieur dans de l'eau distillée.\nLe haricot mungo, utilisé dans l'alimentation asiatique sous forme de graines ou de germinations étiolées, représente un excellent matériel expérimental pour l'étude de la croissance cellulaire. En effet, comme les coléoptiles, à partir d'un certain stade, la croissance de son hypocotyle est principalement due à l'auxèse. Les cotylédons sont soulevés au-dessus du sol (germination épigée) grâce à la croissance d'un organe intermédiaire entre la racine et l'apex, l'hypocotyle.",
+        "truncated": false
       }
     }
   },
@@ -320,7 +378,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -410,7 +468,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/525492-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling annual or perennial",
@@ -418,7 +476,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/525492-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000183493.webp",
@@ -431,6 +489,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

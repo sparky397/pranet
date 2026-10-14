@@ -12,19 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Mediterranean stork's bill"
-    ],
-    "fr": [
-      "Érodium Fausse-Mauve",
-      "Bec-de-grue à feuilles de mauve"
-    ],
-    "sl": [
-      "srčastolistni čapljevec"
-    ],
     "de": [
       "Herzblatt-Reiherschnabel"
     ],
@@ -48,24 +38,61 @@
     ],
     "cy": [
       "Pig-y-crëyr dail hocys"
+    ],
+    "sl": [
+      "srčastolistni čapljevec"
+    ],
+    "en": [
+      "Mediterranean stork's bill"
+    ],
+    "fr": [
+      "Érodium Fausse-Mauve",
+      "Bec-de-grue à feuilles de mauve"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5395289",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5395289",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Erodium malacoides」",
+      "source": "Wikipedia (en): Erodium malacoides",
       "source_url": "https://en.wikipedia.org/wiki/Erodium_malacoides",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1328037630,
       "text": "Erodium malacoides is a species of flowering plant in the geranium family known by the common names mallow-leaved stork's bill, Mediterranean stork's bill, and soft stork's-bill. It is an annual or biennial herb which is native to the Mediterranean region in southern Europe, northern Africa, and southwest Asia. It can be found locally elsewhere is an introduced species."
+    },
+    "es": {
+      "source": "Wikipedia (es): Erodium malacoides",
+      "source_url": "https://es.wikipedia.org/wiki/Erodium_malacoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582061,
+      "text": "Erodium malacoides (L.) L'Hér. 1789 es una especie herbácea y perenne perteneciente a la familia de las geraniáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Erodium malacoides",
+      "source_url": "https://fr.wikipedia.org/wiki/Erodium_malacoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234936178,
+      "text": "Erodium malacoides, Bec-de-grue à feuille de Mauve, est une espèce de plantes herbacées méditerranéennes de la famille des Geraniaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Erodium malacoides",
+      "source_url": "https://pt.wikipedia.org/wiki/Erodium_malacoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71385566,
+      "text": "Erodium malacoides é uma planta com flor pertencente à família Geraniaceae. É nativa da Eurásia e norte da África mas é cultivada em quase todos os continentes na atualidade."
     }
   },
   "edible": {
@@ -77,7 +104,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -146,7 +173,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/372332-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -154,7 +181,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/372332-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000676957.webp",
@@ -167,6 +194,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 301,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

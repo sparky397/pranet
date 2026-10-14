@@ -26,47 +26,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "スイカズラ"
     ],
-    "cy": [
-      "gwyddfid Japan"
-    ],
-    "en": [
-      "Japanese honeysuckle"
-    ],
-    "es": [
-      "Madreselva"
-    ],
     "fr": [
       "Chèvrefeuille du Japon"
     ],
-    "hu": [
-      "Japán lonc"
-    ],
-    "nn": [
-      "Japankaprifol"
-    ],
-    "nb": [
-      "Japankaprifol"
-    ],
-    "sv": [
-      "Slingertry"
-    ],
-    "zh": [
-      "忍冬",
-      "金銀花",
-      "金银花",
-      "忍冬藤"
-    ],
-    "ast": [
-      "mariselva xaponesa"
-    ],
-    "sl": [
-      "japonsko kosteničevje"
+    "id": [
+      "Ranggis"
     ],
     "eo": [
       "Japana lonicero"
@@ -95,14 +65,26 @@
     "hsb": [
       "Japanski kozylist"
     ],
+    "sv": [
+      "slingertry"
+    ],
     "ar": [
       "عسلة يابانية"
+    ],
+    "zh": [
+      "金银花",
+      "忍冬",
+      "金銀花",
+      "忍冬藤"
     ],
     "ca": [
       "Xuclamel japonès"
     ],
     "fa": [
       "لنیکرا جاپنیکا"
+    ],
+    "cy": [
+      "Gwyddfid Japan"
     ],
     "yue": [
       "金銀花"
@@ -112,6 +94,9 @@
     ],
     "bn": [
       "মধুমতী"
+    ],
+    "hu": [
+      "japán lonc"
     ],
     "azb": [
       "ژاپون دوققوزدونو"
@@ -131,18 +116,33 @@
     "is": [
       "Tildurtoppur"
     ],
-    "id": [
-      "Ranggis"
+    "sl": [
+      "japonsko kosteničevje"
     ],
     "su": [
       "Sikluk"
+    ],
+    "en": [
+      "Japanese honeysuckle"
+    ],
+    "es": [
+      "Madreselva"
+    ],
+    "nn": [
+      "Japankaprifol"
+    ],
+    "nb": [
+      "Japankaprifol"
+    ],
+    "ast": [
+      "mariselva xaponesa"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161083",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161083",
   "search_names": {
@@ -159,32 +159,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「スイカズラ」",
+      "source": "Wikipedia (ja): スイカズラ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%AB%E3%82%BA%E3%83%A9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110947089,
       "text": "スイカズラ はスイカズラ科スイカズラ属の常緑つる性木本。別名、ニンドウ（忍冬）やキンギンカ（金銀花）。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lonicera japonica」",
+      "source": "Wikipedia (en): Lonicera japonica",
       "source_url": "https://en.wikipedia.org/wiki/Lonicera_japonica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370006502,
       "text": "Lonicera japonica, known as Japanese honeysuckle and golden-and-silver honeysuckle, is a species of honeysuckle native to East Asia, including many parts of China. It is often grown as an ornamental plant, but has become an invasive species in a number of countries. It is used in traditional Chinese medicine."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lonicera japonica",
+      "source_url": "https://es.wikipedia.org/wiki/Lonicera_japonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173613078,
+      "text": "La madreselva japonesa o Suikazura  en japonés es una especie botánica perteneciente a la familia de las Caprifoliáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Chèvrefeuille du Japon",
+      "source_url": "https://fr.wikipedia.org/wiki/Ch%C3%A8vrefeuille_du_Japon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227887339,
+      "text": "Le chèvrefeuille du Japon est une espèce de plantes à fleurs de la famille des Caprifoliacées. C'est une liane arbustive originaire de Chine, de Corée et du Japon. La variété 'Chinensis' dont les boutons floraux et le revers de la corolle sont pourpres, est vendue en jardinerie sous le nom de chèvrefeuille de Chine."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lonicera japonica",
+      "source_url": "https://pt.wikipedia.org/wiki/Lonicera_japonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62049736,
+      "text": "Lonicera japonica é uma espécie do gênero botânico Lonicera, da família das Caprifoliaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Ranggis",
+      "source_url": "https://id.wikipedia.org/wiki/Ranggis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30061266,
+      "text": "Ranggis, atau dikenal dengan nama Melati putri, atau Kamperfuli Jepang adalah spesies tumbuhan yang termasuk genus Lonicera. Tumbuhan ini asli Asia Timur. Tumbuhan ini sering ditanam sebagai tanaman hias, juga karena bunganya yang sangat harum mirip Melati. Kamperfuli Jepang juga dipakai dipengobatan tradisional Tiongkok."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Lonicera japonica」の節「Cultivation」",
+        "source": "Wikipedia (en): Lonicera japonica § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Lonicera_japonica#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1370006502,
         "heading": "Cultivation",
         "text": "Even though it is a highly invasive and destructive plant, this species is often sold by American nurseries as the cultivar 'Hall's Prolific' (Lonicera japonica var. halliana), and in the UK as the cultivar 'Halliana'. The cultivar is also known as Hall's Japanese honeysuckle. It is an effective groundcover and has strong-smelling flowers. It can be cultivated by seed, cuttings, or layering. In addition, it will spread itself via shoots if given enough space to grow. The variety L. japonica var. repens has gained the Royal Horticultural Society's Award of Garden Merit.",
@@ -193,11 +229,11 @@
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Lonicera japonica」の節「Toxicity」",
+        "source": "Wikipedia (en): Lonicera japonica § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Lonicera_japonica#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1370006502,
         "heading": "Toxicity",
         "text": "All parts of the plant other than the flower nectar have the potential to be toxic if consumed in a very large quantity for its saponin.",
@@ -216,7 +252,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -340,7 +376,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/148850-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "liana",
@@ -348,7 +384,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/148850-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000359579.webp",
@@ -361,6 +397,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 297,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

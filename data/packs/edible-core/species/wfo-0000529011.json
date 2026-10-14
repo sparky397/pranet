@@ -17,73 +17,31 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ウスベニタチアオイ"
     ],
-    "de": [
-      "Echter Eibisch",
-      "Gebräuchlicher Eibisch"
-    ],
-    "en": [
-      "common marshmallow",
-      "Marshmallow",
-      "marsh-mallow"
-    ],
-    "es": [
-      "Bismalva",
-      "Malvavisco"
-    ],
     "fr": [
       "Guimauve officinale"
     ],
-    "hr": [
-      "Bijeli sljez"
-    ],
-    "hu": [
-      "Fehérmályva",
-      "Orvosi zilíz"
-    ],
-    "it": [
-      "L’Altea comune"
-    ],
-    "nl": [
-      "Echte heemst",
-      "Heemst"
+    "id": [
+      "Panirak paya"
     ],
     "pl": [
       "Prawoślaz lekarski"
     ],
-    "sv": [
-      "Läkemalva"
-    ],
-    "uk": [
-      "Алтея лікарська"
-    ],
-    "cs": [
-      "proskurník lékařský"
-    ],
-    "fi": [
-      "rohtosalkoruusu"
-    ],
-    "zh": [
-      "药葵",
-      "药蜀葵",
-      "红绿草"
-    ],
-    "ast": [
-      "altea"
-    ],
-    "sl": [
-      "navadni slez"
-    ],
-    "lv": [
-      "ārstniecības alteja"
-    ],
     "bs": [
       "bijeli sljez"
+    ],
+    "hu": [
+      "orvosi zilíz",
+      "Fehérmályva"
+    ],
+    "de": [
+      "Echter Eibisch",
+      "Gebräuchlicher Eibisch"
     ],
     "sh": [
       "Bijeli sljez"
@@ -94,8 +52,15 @@
     "hsb": [
       "Lěkarska popla"
     ],
+    "nl": [
+      "Heemst",
+      "Echte heemst"
+    ],
     "ar": [
       "ختمية طبية"
+    ],
+    "sv": [
+      "Läkemalva"
     ],
     "eo": [
       "Oficina alteo"
@@ -115,14 +80,29 @@
     "ca": [
       "malví"
     ],
+    "fi": [
+      "rohtosalkoruusu"
+    ],
+    "uk": [
+      "алтея лікарська"
+    ],
+    "sl": [
+      "navadni slez"
+    ],
     "os": [
       "Галсыф"
+    ],
+    "cs": [
+      "proskurník lékařský"
     ],
     "bg": [
       "лечебна ружа"
     ],
     "az": [
       "Dərman bəlğəmotu"
+    ],
+    "hr": [
+      "Bijeli sljez"
     ],
     "lt": [
       "Vaistinė svilarožė"
@@ -132,6 +112,11 @@
     ],
     "sr": [
       "бели слез"
+    ],
+    "zh": [
+      "药葵",
+      "药蜀葵",
+      "红绿草"
     ],
     "eu": [
       "Malba zuri"
@@ -199,18 +184,33 @@
     "ta": [
       "சீமைத்துத்தி"
     ],
-    "id": [
-      "Panirak paya"
-    ],
     "mzn": [
       "ختمی"
+    ],
+    "lv": [
+      "Ārstniecības alteja"
+    ],
+    "en": [
+      "common marshmallow",
+      "Marshmallow",
+      "marsh-mallow"
+    ],
+    "es": [
+      "Bismalva",
+      "Malvavisco"
+    ],
+    "it": [
+      "L’Altea comune"
+    ],
+    "ast": [
+      "altea"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158496",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158496",
   "search_names": {
@@ -221,32 +221,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ウスベニタチアオイ」",
+      "source": "Wikipedia (ja): ウスベニタチアオイ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B9%E3%83%99%E3%83%8B%E3%82%BF%E3%83%81%E3%82%A2%E3%82%AA%E3%82%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106349997,
       "text": "ウスベニタチアオイ Althaea officinalis は、アオイ科の多年草であり、別名ビロードアオイ。ヨーロッパ、西アジアから北アフリカにかけてが原産で、薬用植物としてや観賞用に用いられる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Althaea officinalis」",
+      "source": "Wikipedia (en): Althaea officinalis",
       "source_url": "https://en.wikipedia.org/wiki/Althaea_officinalis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1335930474,
       "text": "Althaea officinalis, the marsh mallow or marshmallow, is a species of flowering plant indigenous to Europe, Western Asia and North Africa, which is used in herbalism and as an ornamental plant."
+    },
+    "es": {
+      "source": "Wikipedia (es): Althaea officinalis",
+      "source_url": "https://es.wikipedia.org/wiki/Althaea_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175369518,
+      "text": "El malvavisco, altea, bismalva o hierba cañamera es una planta herbácea eurasiática, cultivada desde la antigüedad por sus propiedades medicinales."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Guimauve officinale",
+      "source_url": "https://fr.wikipedia.org/wiki/Guimauve_officinale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237009606,
+      "text": "La Guimauve officinale, aussi appelée Guimauve sauvage ou Mauve blanche, est une plante herbacée vivace de la famille des Malvacées, commune en Europe. C’est une grande plante herbacée aux feuilles tomenteuses d’un vert grisâtre, blanchâtre, fleurissant en juillet, qui poussent surtout dans les milieux humides."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Althaea officinalis",
+      "source_url": "https://pt.wikipedia.org/wiki/Althaea_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71434315,
+      "text": "Althaea officinalis é uma espécie de planta com flor, pertencente à família das malváceas e ao tipo fisionómico dos nanofanerófitos, comumente conhecida como malvaísco."
+    },
+    "id": {
+      "source": "Wikipedia (id): Panirak paya",
+      "source_url": "https://id.wikipedia.org/wiki/Panirak_paya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30059968,
+      "text": "Althaea officinalis atau panirak paya adalah spesies tanaman berbunga asli Eropa, Asia Barat dan Afrika Utara, yang digunakan dalam obat tradisional dan sebagai tanaman hias. Penganan yang terbuat dari akar panirak paya sejak zaman Mesir kuno berevolusi menjadi makanan manisan kenyal saat ini, tetapi sebagian besar makanan manisan kenyal modern tidak lagi mengandung akar panirak paya."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ウスベニタチアオイ」の節「栽培」",
+        "source": "Wikipedia (ja): ウスベニタチアオイ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B9%E3%83%99%E3%83%8B%E3%82%BF%E3%83%81%E3%82%A2%E3%82%AA%E3%82%A4#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 106349997,
         "heading": "栽培",
         "text": "苗は4月～6月、9月～10月頃市場に出回る。\n良く日のあたる場所で管理し、栄養豊富な水持ちの良い土に植えるとよい。\n夏場は乾燥しやすいので、水切れが起こらないように注意が必要であるが、寒さに強いので冬はさほど手間がかからない。\n9月～10月にかけて種が取れる。\n株分けは4月～6月、9月～10月に行うことが多い。\n花期は一般的には7月～8月である。",
@@ -265,7 +301,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -346,7 +382,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558872-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -354,7 +390,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558872-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000529011.webp",
@@ -367,6 +403,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 186,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -24,18 +24,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "假蒟",
-      "蛤蒌",
-      "假蒟根",
-      "假菏",
-      "假蒟(毕拨菜)",
-      "假药根",
-      "假药子",
-      "荜拨菜"
+    "id": [
+      "Karuk"
     ],
     "vi": [
       "Lá lốt"
@@ -48,6 +41,16 @@
     ],
     "ms": [
       "Pokok Kaduk"
+    ],
+    "zh": [
+      "假蒟",
+      "蛤蒌",
+      "假蒟根",
+      "假菏",
+      "假蒟(毕拨菜)",
+      "假药根",
+      "假药子",
+      "荜拨菜"
     ],
     "fa": [
       "پیپر سارمنتسوم"
@@ -64,9 +67,6 @@
     "az": [
       "Lolot"
     ],
-    "id": [
-      "Karuk"
-    ],
     "su": [
       "Karuk"
     ],
@@ -81,18 +81,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2035606",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2035606",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Piper sarmentosum」",
+      "source": "Wikipedia (en): Piper sarmentosum",
       "source_url": "https://en.wikipedia.org/wiki/Piper_sarmentosum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368962478,
       "text": "Piper sarmentosum is a plant in the family Piperaceae used in many Southeast Asian cuisines. The leaves are often confused with betel, but they lack the intense taste of the betel leaves and are significantly smaller."
+    },
+    "es": {
+      "source": "Wikipedia (es): Piper sarmentosum",
+      "source_url": "https://es.wikipedia.org/wiki/Piper_sarmentosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 167642681,
+      "text": "El lolot es una planta florida de la familia Piperaceae, cultivada parra que su hoja se utilice en la cocina laosiana y vietnamita para envolver la condimentación al asar carnes a la parrilla."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Piper sarmentosum",
+      "source_url": "https://fr.wikipedia.org/wiki/Piper_sarmentosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234182507,
+      "text": "Piper sarmentosum est une espèce de plantes à fleurs de la famille des Pipéracées, utilisée dans de nombreuses cuisines de l'Asie du Sud-Est. Les feuilles sont souvent confondues avec celle du bétel, mais sont plus petites et moins prononcées en goût."
+    },
+    "id": {
+      "source": "Wikipedia (id): Karuk",
+      "source_url": "https://id.wikipedia.org/wiki/Karuk",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29964266,
+      "text": "Karuk atau merica lolot adalah tanaman dalam keluarga Piperaceae yang digunakan di banyak masakan Asia Tenggara. Daunnya sering tertukar dengan sirih, tetapi rasanya kurang kuat seperti daun sirih dan secara signifikan lebih kecil."
     }
   },
   "edible": {
@@ -103,7 +130,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -140,7 +167,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/683278-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling subshrub",
@@ -148,7 +175,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/683278-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001094336.webp",
@@ -161,6 +188,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 257,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

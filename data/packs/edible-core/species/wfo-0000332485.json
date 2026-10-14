@@ -10,23 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "tungoil tree",
-      "tung oil tree",
-      "tung tree"
-    ],
-    "zh": [
-      "油桐",
-      "油桐子",
-      "气桐子",
-      "桐油",
-      "桐子花",
-      "油桐叶",
-      "油桐根"
-    ],
     "nan": [
       "Iû-tâng"
     ],
@@ -54,6 +40,15 @@
     "vi": [
       "Trẩu trơn"
     ],
+    "zh": [
+      "油桐",
+      "油桐子",
+      "气桐子",
+      "桐油",
+      "桐子花",
+      "油桐叶",
+      "油桐根"
+    ],
     "ko": [
       "유동나무"
     ],
@@ -80,24 +75,71 @@
     ],
     "my": [
       "တန်းဆီပင်"
+    ],
+    "en": [
+      "tungoil tree",
+      "tung oil tree",
+      "tung tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1422363",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1422363",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Vernicia fordii」",
+      "source": "Wikipedia (en): Vernicia fordii",
       "source_url": "https://en.wikipedia.org/wiki/Vernicia_fordii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1315308885,
       "text": "Vernicia fordii, usually known as the tung tree and also as the tung-oil or tungoil tree, the kalo nut tree, and the China wood-oil tree, is a species of flowering plant in the spurge family Euphorbiaceae. It is native to southern China, Myanmar, and northern Vietnam."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vernicia fordii",
+      "source_url": "https://es.wikipedia.org/wiki/Vernicia_fordii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174531262,
+      "text": "El árbol de tung es un árbol caducifolio de la familia de las euforbiáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vernicia fordii",
+      "source_url": "https://fr.wikipedia.org/wiki/Vernicia_fordii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236067665,
+      "text": "Vernicia fordii, aussi connu sous les noms d’Abrasin ou de Bois de Chine, est une espèce de plantes à fleurs de la famille des Euphorbiaceae. C’est un arbre originaire du sud de la Chine, du Myanmar, et du nord du Viêt Nam. L’espèce est cultivée dans de nombreuses régions subtropicales du monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vernicia fordii",
+      "source_url": "https://pt.wikipedia.org/wiki/Vernicia_fordii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 56548358,
+      "text": "Vernicia fordii é uma espécie do gênero Vernicia da família Euphorbiaceae, nativa do sul da China, Burma e norte do Vietnã. Existem outros nomes comuns como árvore do óleo de tungue ou ainda simplesmente Tungue."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Vernicia fordii § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Vernicia_fordii#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236067665,
+        "heading": "Toxicité",
+        "text": "Les feuilles, les graines et l’huile de tong contiennent des terpènes toxiques : des diterpènes comme des esters de d’hydroxyphorbol, le mono-ester 13-O-acétyl-16-hydroxyphorbol.\nQuoique toxiques, ces composants sont peu absorbées par le corps humains et peuvent passer à travers le corps sans dommage, à condition d’en prendre en faible quantité.\nUne étude chinoise de mai 2021 de Hui Zhang et al, a vérifié les activités insecticides remarquables de différents extraits de farine de tung, sur les ravageurs agricoles et forestiers communs en Chine : un termite Odontotermes formosanus (en) responsable de dommages aux arbres et constructions en bois, et un papillon, la teigne des Choux, Plutella xylostella, un des ravageurs les plus nocifs pour les légumes crucifères.\nLa farine de tung est un sous-produit de l’extraction de l’huile des graines d’abrasin qui est couramment utilisée en agriculture comme fertilisant en raison de sa richesse en protéines et autres nutriments. Dans des extraits à l’acétate d'éthyle et à l’éther de pétrole de la farine de tung, les chercheurs ont identifié les constituants les plus actifs contre les ravageurs susmentionnés.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -111,7 +153,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -149,7 +191,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/358198-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -157,7 +199,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/358198-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000332485.webp",
@@ -170,6 +212,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

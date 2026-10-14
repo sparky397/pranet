@@ -14,14 +14,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "チュウテンカク"
     ],
-    "zh": [
-      "冲天阁"
+    "pt": [
+      "Candelabro (planta)",
+      "Candelabro"
     ],
     "af": [
       "Naboom"
@@ -32,51 +33,78 @@
     "fa": [
       "یوفوربیا اینگنس"
     ],
-    "pt": [
-      "Candelabro"
-    ],
     "ar": [
       "فربيون عظيم"
     ],
     "arz": [
       "فربيون عظيم"
+    ],
+    "zh": [
+      "冲天阁"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3272655",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3272655",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「チュウテンカク」",
+      "source": "Wikipedia (ja): チュウテンカク",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%82%A6%E3%83%86%E3%83%B3%E3%82%AB%E3%82%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109596655,
       "text": "Euphorbia ingens はトウダイグサ属の植物の一種。園芸名はチュウテンカク（沖天閣）。ツリーユーフォルビア とも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Euphorbia ingens」",
+      "source": "Wikipedia (en): Euphorbia ingens",
       "source_url": "https://en.wikipedia.org/wiki/Euphorbia_ingens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365703868,
       "text": "Euphorbia ingens is a species of flowering plant in the family Euphorbiaceae. It is native to dry areas of southern Africa. It is popularly known as the candelabra tree or naboom. Its milky latex can be extremely poisonous and is a dangerous irritant."
+    },
+    "es": {
+      "source": "Wikipedia (es): Euphorbia ingens",
+      "source_url": "https://es.wikipedia.org/wiki/Euphorbia_ingens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 168072868,
+      "text": "Euphorbia ingens es una especie fanerógama perteneciente a la familia de las euforbiáceas. Es endémica de las regiones tropicales del sur de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Euphorbia ingens",
+      "source_url": "https://fr.wikipedia.org/wiki/Euphorbia_ingens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239962922,
+      "text": "Euphorbia ingens, l’Euphorbe arborescente ou l’Euphorbe candelabre, est une espèce de plantes à fleurs de la famille des Euphorbiaceae. Son aire de répartition naturelle s'étend de l'Érythrée à l'Afrique du Sud. C'est un arbre succulent qui pousse principalement dans les régions tropicales sèches."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Candelabro (planta)",
+      "source_url": "https://pt.wikipedia.org/wiki/Candelabro_(planta)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64616419,
+      "text": "Euphorbia ingens é uma espécie de planta no gênero Euphorbia e a família Euphorbiaceae. É nativo para áreas secas do sul da África. É popularmente conhecida como Candelabro, Mandacaruzinho e Cerca-viva. Seu látex leitoso pode ser extremamente venenoso e um perigoso irritante. No sertão do Nordeste brasileiro é utilizado para a construção de cercas-vivas. Por ter evoluído de forma convergente ao grupo das cactáceas é comumente confundido com cactos."
     }
   },
   "sections": {
     "toxicity": {
       "ja": {
-        "source": "Wikipedia 日本語版「チュウテンカク」の節「毒性」",
+        "source": "Wikipedia (ja): チュウテンカク § 毒性",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%82%A6%E3%83%86%E3%83%B3%E3%82%AB%E3%82%AF#%E6%AF%92%E6%80%A7",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109596655,
         "heading": "毒性",
         "text": "多肉質な枝の内側には白い乳液が含まれるが、これには強い刺激性や補発癌性を持つインゲノール（ingenol）ジテルペンエステルが含まれる。この乳液が傷口や目に入ると危険である。ケニアでは本種の乳液を伝統医療に使用しようと試みた結果、死亡事故が起きたという報告が数件存在する。\nまた、本種から得られた蜜にも刺激性があり、口に炎症を起こすため食用とすることはできないとされる。しかしケニアの乾燥地域において、本種は重要な蜜源植物である。",
@@ -96,7 +124,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -124,7 +152,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/346904-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent tree",
@@ -132,7 +160,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/346904-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000962725.webp",
@@ -145,6 +173,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

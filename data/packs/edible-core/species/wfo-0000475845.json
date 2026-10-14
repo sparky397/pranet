@@ -14,17 +14,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "翅苹婆"
-    ],
     "ml": [
       "ആനത്തൊണ്ടി"
     ],
     "de": [
       "Buddhanuss"
+    ],
+    "zh": [
+      "翅苹婆"
     ],
     "bn": [
       "বুদ্ধনারকেল"
@@ -34,18 +34,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1000821",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1000821",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pterygota alata」",
+      "source": "Wikipedia (en): Pterygota alata",
       "source_url": "https://en.wikipedia.org/wiki/Pterygota_alata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1298217252,
       "text": "Pterygota alata is a species of large deciduous tree with winged seeds and large, simple leaves belonging to the family Malvaceae. It is commonly found in tropical and subtropical regions of South and Southeast Asia, particularly in India, Bangladesh, Myanmar, and Thailand."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pterygota alata",
+      "source_url": "https://fr.wikipedia.org/wiki/Pterygota_alata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 150948212,
+      "text": "Pterygota alata est une espèce d'arbre de la famille des Sterculiaceae, ou des Malvaceae selon la classification phylogénétique, sous-famille des Sterculoideae."
     }
   },
   "edible": {
@@ -60,7 +69,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -92,7 +101,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/941595-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -100,7 +109,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/941595-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000475845.webp",
@@ -113,6 +122,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 305,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

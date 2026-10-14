@@ -25,14 +25,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "bignay"
-    ],
-    "zh": [
-      "五月茶"
+    "id": [
+      "Buni (pohon)",
+      "Buni"
     ],
     "pam": [
       "Isip"
@@ -58,9 +56,6 @@
     "ceb": [
       "Bugnay"
     ],
-    "id": [
-      "Buni"
-    ],
     "mrj": [
       "Бигнай"
     ],
@@ -84,6 +79,9 @@
     ],
     "th": [
       "มะเม่าดง"
+    ],
+    "zh": [
+      "五月茶"
     ],
     "vi": [
       "Chòi mòi tía"
@@ -129,13 +127,16 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇမဝ်ႈ"
+    ],
+    "en": [
+      "bignay"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311477",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311477",
   "search_names": {
@@ -145,13 +146,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Antidesma bunius」",
+      "source": "Wikipedia (en): Antidesma bunius",
       "source_url": "https://en.wikipedia.org/wiki/Antidesma_bunius",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1301268572,
       "text": "Antidesma bunius is a species of fruit tree in the family Phyllanthaceae. It is native to South Asia, Southeast Asia, Melanesia, and northern Australia. It is commonly known as bignay, after its native name in the Philippines, where the fruits are commonly used for making bignay wine and jams. It is also known more ambiguously as Chinese laurel, Queensland cherry, salamander tree, wild cherry, and currant tree."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Antidesma bunius",
+      "source_url": "https://fr.wikipedia.org/wiki/Antidesma_bunius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 214877888,
+      "text": "Antidesma bunius est une espèce de plantes à fleurs de la famille des Phyllanthaceae. C'est un arbre fruitier originaire d'Asie du Sud-Est, des Philippines et du nord de l'Australie. Son nom commun, et celui de ses fruits, est bignay. Cette variété peut être aussi bien courte et arbustive que haute et droite en avoisinant une hauteur de 30 mètres. Elle possède de grandes feuilles persistantes coriaces, et de forme ovale jusqu'à 20 cm de long et 7 cm de large. Les feuilles sont reliées aux rameaux par de courts pétioles, créant ainsi une dense canopée."
+    },
+    "id": {
+      "source": "Wikipedia (id): Buni (pohon)",
+      "source_url": "https://id.wikipedia.org/wiki/Buni_(pohon)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29900402,
+      "text": "Buni  atau wuni adalah spesies pohon, tingginya mencapai 30 m, kayunya digunakan sebagai bahan bangunan, buahnya kecil-kecil tumbuh dalam gugusan, buah yang matang berwarna kehitam-hitaman dimakan mentah atau digunakan dalam masakan; pohon ini dapat menghasilkan buah yang dapat dimakan. Buah buni kecil-kecil berwarna merah, dan tersusun dalam satu tangkai panjang, menyerupai rantai (ranti)."
     }
   },
   "edible": {
@@ -168,7 +187,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -207,7 +226,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/338853-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -215,7 +234,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/338853-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000235333.webp",
@@ -228,6 +247,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

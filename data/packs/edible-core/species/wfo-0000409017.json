@@ -13,19 +13,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "California nutmeg",
-      "California Torreya",
-      "Stinking Cedar"
-    ],
     "de": [
       "Kalifornische Nusseibe"
     ],
-    "fr": [
-      "Muscadier de Californie"
+    "da": [
+      "Californisk Nøddetaks"
     ],
     "nl": [
       "Californische torreya"
@@ -35,9 +30,6 @@
     ],
     "sl": [
       "Kalifornijska toreja"
-    ],
-    "da": [
-      "Californisk Nøddetaks"
     ],
     "ar": [
       "تورية كاليفورنية"
@@ -56,24 +48,50 @@
     ],
     "cs": [
       "Toreja kalifornská"
+    ],
+    "en": [
+      "California nutmeg",
+      "California Torreya",
+      "Stinking Cedar"
+    ],
+    "fr": [
+      "Muscadier de Californie"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1440975",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1440975",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Torreya californica」",
+      "source": "Wikipedia (en): Torreya californica",
       "source_url": "https://en.wikipedia.org/wiki/Torreya_californica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1318292975,
       "text": "Torreya californica is a species of conifer endemic to California, occurring in the Pacific Coast Ranges and the foothills of the Sierra Nevada. It is commonly known as California torreya or California nutmeg tree. It is one of only two species of genus Torreya that are native to North America. A slow-growing subcanopy tree, it is listed as \"vulnerable\" in the IUCN Red List."
+    },
+    "es": {
+      "source": "Wikipedia (es): Torreya californica",
+      "source_url": "https://es.wikipedia.org/wiki/Torreya_californica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172748129,
+      "text": "Torreya californica, la torreya de California, es una especie arbórea de la familia de las Cephalotaxaceae. Se trata de un endemismo propio de California, apareciendo en la Cadena costera del Pacífico y en el piedemonte de Sierra Nevada."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Torreya californica",
+      "source_url": "https://fr.wikipedia.org/wiki/Torreya_californica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239074764,
+      "text": "Torreya californica, ou Muscadier de Californie, est une espèce de plantes de la famille des Taxaceae, appartenant au genre Torreya. C'est un arbre originaire de Californie. Le nom Torreya doit son origine au botaniste américain John Torrey."
     }
   },
   "edible": {
@@ -87,7 +105,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -97,7 +115,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/263993-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -105,7 +123,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/263993-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000409017.webp",
@@ -118,6 +136,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

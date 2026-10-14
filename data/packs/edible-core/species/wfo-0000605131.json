@@ -29,9 +29,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "id": [
+      "Ki teja"
+    ],
     "zh": [
       "大叶桂",
       "臭樟",
@@ -48,27 +51,33 @@
     ],
     "my": [
       "မှန်သင်းပင်"
-    ],
-    "id": [
-      "Ki teja"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q10933978",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q10933978",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cinnamomum iners」",
+      "source": "Wikipedia (en): Cinnamomum iners",
       "source_url": "https://en.wikipedia.org/wiki/Cinnamomum_iners",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1353035105,
       "text": "Cinnamomum iners is a tree species in the family Lauraceae described by Reinwardt and Blume. No subspecies are listed in the Catalogue of Life. It occurs naturally in Myanmar, Thailand, Laos, Cambodia, Vietnam, Malaysia, Indonesia, Brunei, Singapore, the Philippines and southern China."
+    },
+    "id": {
+      "source": "Wikipedia (id): Ki teja",
+      "source_url": "https://id.wikipedia.org/wiki/Ki_teja",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29706376,
+      "text": "Cinnamomum iners atau Ki teja adalah spesies pohon dalam famili Lauraceae yang dideskripsikan oleh Reinwardt dan Blume. Tidak ada subspesies yang terdaftar dalam Katalog Kehidupan. Ini terjadi secara alami di Myanmar, Thailand, Laos, Kamboja, Vietnam, Malaysia, Indonesia, Brunei, Singapura, Filipina dan Cina bagian selatan."
     }
   },
   "edible": {
@@ -81,7 +90,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -108,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/463467-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -116,7 +125,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/463467-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000605131.webp",
@@ -129,6 +138,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 336,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

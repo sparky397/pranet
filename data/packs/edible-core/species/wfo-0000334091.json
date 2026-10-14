@@ -8,26 +8,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "sweet birch",
-      "Black birch",
-      "Cherry birch",
-      "Round-leaf Birch",
-      "Mahogany birch",
-      "Spice birch",
-      "red birch"
-    ],
-    "cs": [
-      "bříza tuhá"
+    "fr": [
+      "Bouleau flexible",
+      "bouleau flexible"
     ],
     "ru": [
       "Берёза вишнёвая"
-    ],
-    "fr": [
-      "bouleau flexible"
     ],
     "nl": [
       "suikerberk"
@@ -59,6 +48,9 @@
     "zh": [
       "山樺"
     ],
+    "cs": [
+      "bříza tuhá"
+    ],
     "is": [
       "Sætbjörk"
     ],
@@ -76,24 +68,51 @@
     ],
     "ar": [
       "بتولا حلوة"
+    ],
+    "en": [
+      "sweet birch",
+      "Black birch",
+      "Cherry birch",
+      "Round-leaf Birch",
+      "Mahogany birch",
+      "Spice birch",
+      "red birch"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q227763",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q227763",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Betula lenta」",
+      "source": "Wikipedia (en): Betula lenta",
       "source_url": "https://en.wikipedia.org/wiki/Betula_lenta",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369227465,
       "text": "Betula lenta is a species of birch native to eastern North America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Betula lenta",
+      "source_url": "https://es.wikipedia.org/wiki/Betula_lenta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 155289951,
+      "text": "Betula lenta, el abedul dulce americano, abedul-cerezo americano o abedul de hojas de carpe, es una especie de abedul nativo de la zona oriental de América del Norte, desde el sur de Maine al sur oeste de Ontario y el sur de Míchigan, en el sur y las Montañas Apalaches al norte de Georgia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bouleau flexible",
+      "source_url": "https://fr.wikipedia.org/wiki/Bouleau_flexible",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 135210291,
+      "text": "Le bouleau flexible ou bouleau acajou ou bouleau merisier ou encore merisier rouge est un arbre décidu d'Amérique du Nord de la famille des Bétulacées."
     }
   },
   "edible": {
@@ -107,7 +126,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -139,7 +158,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/295125-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -147,7 +166,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/295125-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000334091.webp",
@@ -160,6 +179,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 277,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

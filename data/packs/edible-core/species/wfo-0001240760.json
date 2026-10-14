@@ -13,15 +13,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "zh": [
-      "披针叶单性林仙",
-      "胡椒莓"
-    ],
-    "en": [
-      "mountain pepper"
+      "胡椒莓",
+      "披针叶单性林仙"
     ],
     "war": [
       "Drimys aromatica"
@@ -37,13 +34,16 @@
     ],
     "da": [
       "Tasmansk bjergpeber"
+    ],
+    "en": [
+      "mountain pepper"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3006257",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3006257",
   "search_names": {
@@ -53,13 +53,46 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Tasmannia lanceolata」",
+      "source": "Wikipedia (en): Tasmannia lanceolata",
       "source_url": "https://en.wikipedia.org/wiki/Tasmannia_lanceolata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1304135886,
       "text": "Tasmannia lanceolata, commonly known as pepper tree, native pepper, mountain pepper or mountain pepperbush, is a species of flowering plant in the family Winteraceae, and is endemic to south-eastern Australia. It is a dioecious bushy shrub to small tree with lance-shaped or narrowly ellipic leaves, male and female flowers on separate plants, the flowers with 3 to 9 petals, and the fruit a deep maroon to glossy black berry."
+    },
+    "es": {
+      "source": "Wikipedia (es): Tasmannia lanceolata",
+      "source_url": "https://es.wikipedia.org/wiki/Tasmannia_lanceolata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171348043,
+      "text": "Tasmannia lanceolata es una especie de arbusto perteneciente a la familia Winteraceae nativa de Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Tasmannia lanceolata",
+      "source_url": "https://fr.wikipedia.org/wiki/Tasmannia_lanceolata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 219714988,
+      "text": "Tasmannia lanceolata, ou poivre de Tasmanie, est une espèce de plantes à fleurs de la famille des Winteraceae. C'est un arbuste à feuillage persistant originaire du sud-est de l'Australie."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Tasmannia lanceolata § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Tasmannia_lanceolata#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171348043,
+        "heading": "Cultivo",
+        "text": "Puede cultivarse como planta de jardín, sus bayas atraen a las aves,​ Currawongs están entre los que se alimentan de ellas.​ Puede propagarse por estacas o semillas, y puede crecer en un suelo ácido con buen drenaje y con algo de sombra, pero es sensible a la Phytophthora cinnamomi.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -71,7 +104,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -83,7 +116,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/555234-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -91,7 +124,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/555234-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001240760.webp",
@@ -104,6 +137,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -16,9 +16,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "es": [
+      "Anogeissus leiocarpus"
+    ],
+    "fr": [
+      "Bouleau d'Afrique"
+    ],
     "bm": [
       "Nkalama"
     ],
@@ -39,18 +45,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q111427920",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q111427920",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Terminalia leiocarpa」",
+      "source": "Wikipedia (en): Terminalia leiocarpa",
       "source_url": "https://en.wikipedia.org/wiki/Terminalia_leiocarpa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378794917,
       "text": "Terminalia leiocarpa is a species of tree in the family Combretaceae. It is a deciduous tree native of tropical Africa from Senegal and Guinea in the west to Eritrea in the east and as far south as the Democratic Republic of the Congo."
+    },
+    "es": {
+      "source": "Wikipedia (es): Anogeissus leiocarpus",
+      "source_url": "https://es.wikipedia.org/wiki/Anogeissus_leiocarpus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 170140732,
+      "text": "Anogeissus leiocarpus es una especie de árbol del género Terminalia. Es un árbol caducifolio originario de África tropical desde Senegal y Guinea en el oeste hasta Eritrea en el este y tan al sur como la República Democrática del Congo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bouleau d'Afrique",
+      "source_url": "https://fr.wikipedia.org/wiki/Bouleau_d'Afrique",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 217229494,
+      "text": "Le bouleau d'Afrique est une espèce de plantes à fleurs de la famille des Combretaceae. C'est un arbre des savanes d'Afrique tropicale occidentale."
     }
   },
   "edible": {
@@ -68,7 +92,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -96,7 +120,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/171202-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -104,7 +128,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/171202-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000408839.webp",
@@ -117,6 +141,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

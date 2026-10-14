@@ -17,14 +17,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "三药槟榔"
-    ],
     "th": [
       "หมากนางลิง"
+    ],
+    "zh": [
+      "三药槟榔"
     ],
     "fa": [
       "اریکا پالم وحشی"
@@ -37,7 +37,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2708529",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2708529",
   "search_names": {
@@ -47,13 +47,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Areca triandra」",
+      "source": "Wikipedia (en): Areca triandra",
       "source_url": "https://en.wikipedia.org/wiki/Areca_triandra",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314373383,
       "text": "Areca triandra, the wild areca palm, is a palm which is often used as ornamental plant. It is native to India, Bangladesh, Cambodia, Laos, Burma, Thailand, Vietnam, Malaysia, Indonesia, and the Philippines. It is also reportedly naturalized in Hawaii, Panama, Sri Lanka and southern China. As a wild plant, it commonly occurs in littoral forest in Southeast Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Areca triandra",
+      "source_url": "https://es.wikipedia.org/wiki/Areca_triandra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 149098865,
+      "text": "La palmera areca silvestre es una palmera originaria de la India y Malasia la cual es utilizada como planta ornamental."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Areca triandra",
+      "source_url": "https://fr.wikipedia.org/wiki/Areca_triandra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207914914,
+      "text": "Areca triandra est une espèce de palmier du genre Areca originaire d'Inde et de Malaisie. Il est souvent utilisé comme plante ornementale et diffusé dans de nombreuses régions tropicales."
     }
   },
   "edible": {
@@ -69,7 +87,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664230-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -107,7 +125,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664230-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000263352.webp",
@@ -120,6 +138,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

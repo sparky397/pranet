@@ -10,66 +10,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "カミガヤツリ"
     ],
-    "en": [
-      "Papyrus Sedge",
-      "Papyrus"
-    ],
-    "de": [
-      "Echter Papyrus"
-    ],
-    "cs": [
-      "šáchor papírodárný"
-    ],
-    "eo": [
-      "Papiruscipero"
-    ],
-    "es": [
-      "Papiro"
-    ],
-    "et": [
-      "Papüürus-lõikhein"
-    ],
-    "fi": [
-      "Papyruskaisla"
-    ],
-    "fr": [
-      "Papyrus",
-      "Jonc du Nil"
-    ],
-    "it": [
-      "Papiro egiziano"
-    ],
-    "lt": [
-      "Papirusinė viksvuolė"
-    ],
-    "nl": [
-      "Papyrusriet"
+    "lb": [
+      "Papyrusplanz"
     ],
     "pl": [
       "Cibora papirusowa"
-    ],
-    "ru": [
-      "Папирус",
-      "Сыть папирусная"
-    ],
-    "sv": [
-      "Papyrus"
-    ],
-    "zh": [
-      "纸莎草",
-      "紙莎草"
-    ],
-    "ast": [
-      "papiru"
-    ],
-    "lb": [
-      "Papyrusplanz"
     ],
     "arz": [
       "بردى"
@@ -79,6 +30,12 @@
     ],
     "ko": [
       "파피루스"
+    ],
+    "et": [
+      "Papüürus-lõikhein"
+    ],
+    "de": [
+      "Echter Papyrus"
     ],
     "vi": [
       "Cói giấy"
@@ -92,8 +49,18 @@
     "hsb": [
       "Papjerowc"
     ],
+    "sv": [
+      "Papyrus"
+    ],
+    "nl": [
+      "papyrusriet"
+    ],
     "yi": [
       "פאפירוס"
+    ],
+    "ru": [
+      "Папирус",
+      "Сыть папирусная"
     ],
     "th": [
       "กกอียิปต์"
@@ -101,20 +68,36 @@
     "sn": [
       "Nhokwe"
     ],
+    "fi": [
+      "papyruskaisla"
+    ],
+    "cs": [
+      "šáchor papírodárný"
+    ],
     "ka": [
       "პაპირი"
     ],
     "az": [
       "Papirus topalağı"
     ],
+    "lt": [
+      "Papirusinė viksvuolė"
+    ],
     "sr": [
       "Папирус"
+    ],
+    "zh": [
+      "紙莎草",
+      "纸莎草"
     ],
     "nb": [
       "Papyrus"
     ],
     "gl": [
       "Papiro"
+    ],
+    "eo": [
+      "Papiruscipero"
     ],
     "fa": [
       "نی مردابی"
@@ -181,13 +164,30 @@
     ],
     "fj": [
       "Papirusi"
+    ],
+    "en": [
+      "Papyrus Sedge",
+      "Papyrus"
+    ],
+    "es": [
+      "Papiro"
+    ],
+    "fr": [
+      "Papyrus",
+      "Jonc du Nil"
+    ],
+    "it": [
+      "Papiro egiziano"
+    ],
+    "ast": [
+      "papiru"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158808",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158808",
   "search_names": {
@@ -203,35 +203,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カミガヤツリ」",
+      "source": "Wikipedia (ja): カミガヤツリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9F%E3%82%AC%E3%83%A4%E3%83%84%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106353268,
       "text": "カミガヤツリ は、カヤツリグサ科カヤツリグサ属の多年生の草本。パピルス（papyrus）、パピルス草、カミイ（紙葦）ともいい、茎の繊維がパピルスの原材料となる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cyperus papyrus」",
+      "source": "Wikipedia (en): Cyperus papyrus",
       "source_url": "https://en.wikipedia.org/wiki/Cyperus_papyrus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365406091,
       "text": "Cyperus papyrus, better known by the common names papyrus sedge, papyrus, paper reed, Indian matting plant, or Nile grass, is a species of aquatic flowering plant belonging to the sedge family Cyperaceae. It is a tender herbaceous perennial, forming tall stands of reed-like swamp vegetation in shallow water."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cyperus papyrus",
+      "source_url": "https://es.wikipedia.org/wiki/Cyperus_papyrus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172386579,
+      "text": "El papiro es una especie de planta palustre, del género Cyperus, de la familia de las ciperáceas. Está constituido por un tallo de sección triangular cuyo extremo superior porta hojas dispuestas en estrella."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cyperus papyrus",
+      "source_url": "https://fr.wikipedia.org/wiki/Cyperus_papyrus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237673877,
+      "text": "Le papyrus, aussi appelé souchet à papier, souchet papyrus ou souchet du Nil, est une plante de la famille des Cyperaceaes répandue dans les zones humides de la majeure partie de l'Afrique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cyperus papyrus",
+      "source_url": "https://pt.wikipedia.org/wiki/Cyperus_papyrus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68397161,
+      "text": "O papiro é uma planta aquática da mesma família da tiririca. Ela é considerada sagrada e fartamente encontrada no delta do Nilo. Era utilizada principalmente na produção do papiro no Egito antigo. Segundo o Guinness Book of World Records, trata-se da erva daninha mais difundida pelo mundo."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cyperus papyrus",
+      "source_url": "https://id.wikipedia.org/wiki/Cyperus_papyrus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29069766,
+      "text": "Cyperus papyrus adalah sebuah spesies tumbuhan berbunga akuatik yang masuk famili Cyperaceae. Tumbuhan tersebut berasal dari Afrika. Papirus adalah sejenis tanaman air yang dikenal sebagai bahan untuk membuat kertas pada zaman kuno. Tanaman ini umumnya dijumpai di tepi dan lembah Sungai Nil. Kira-kira 3500 SM, bangsa Mesir Kuno sudah memanfaatkan papirus. Mereka pada saat itu membuat kertas dari kulit-kulit tipis atau kulit-kulit halus papirus, sebelum kertas ditemukan."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Cyperus papyrus」の節「Cultivation」",
+        "source": "Wikipedia (en): Cyperus papyrus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Cyperus_papyrus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1365406091,
         "heading": "Cultivation",
         "text": "The papyrus plant is relatively easy to grow from seed, though in Egypt, it is more common to split the rootstock, and grows quite fast once established. Extremely moist soil or roots sunken in the water is preferred and the plant can flower all year long. Vegetative propagation is the suggested process of creating new plants. It is done by splitting the rhizomes into small groups and planting normally. C. papyrus is considered to be hardy in USDA hardiness zones 9 and 10.\nIn the United States, it has become invasive in Florida and has escaped from cultivation in Louisiana, California, and Hawaii.\nThe species as a whole, and the dwarf cultivar C. papyrus 'Nanus' have gained the Royal Horticultural Society's Award of Garden Merit (confirmed 2017).",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Cyperus papyrus § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Cyperus_papyrus#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237673877,
+        "heading": "Culture",
+        "text": "Il n'est pas rare qu'il soit cultivé pour son attrait ornemental dans les jardins. Dans les pays tempérées on le place plutôt en serre ou en véranda, car il craint les très basses températures. Mais il est transplanté en extérieur à la belle saison dans les jardins publics, et peut alors être rentré en hiver, ou plus couramment utilisé simplement comme une plante annuelle au sein des parterres ou potées fleuries, n'atteignant, dans ce cas, pas de très grandes dimensions. Des cultivars de petite taille ont été sélectionnés.\nCyperus papyrus ne peut pas se bouturer contrairement à Cyperus alternifolius (Cyperus à feuilles alternes ou faux papyrus), qui est souvent commercialisé sous le nom abusif de « papyrus ». Cyperus alternifolius quant à lui peut être multiplié par bouturage : une tige plongée tête en bas dans l'eau produit des racines puis de nouvelles tiges vers le haut. Mais Cyperus papyrus peut être multiplié à partir d’un morceau de rhizome sectionné.",
         "truncated": false
       }
     }
@@ -250,7 +297,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -318,7 +365,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/330934-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or rhizomatous geophyte",
@@ -326,7 +373,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/330934-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000379135.webp",
@@ -339,6 +386,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

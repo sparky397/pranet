@@ -15,40 +15,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "センジュギク"
     ],
-    "cy": [
-      "gold talsyth"
-    ],
-    "en": [
-      "Aztec marigold"
-    ],
-    "nah": [
-      "cempōhualxōchitl"
-    ],
-    "zh": [
-      "萬壽菊",
-      "孔雀草",
-      "细叶万寿菊",
-      "万寿菊",
-      "万寿菊花"
-    ],
-    "es": [
-      "flor de muerto",
-      "cempasúchil"
-    ],
-    "cs": [
-      "aksamitník vzpřímený"
-    ],
     "fr": [
       "Rose d'Inde"
     ],
+    "id": [
+      "Tahi kotok"
+    ],
     "or": [
       "ଗେଣ୍ଡୁଫୁଲ"
+    ],
+    "zh": [
+      "万寿菊",
+      "萬壽菊",
+      "孔雀草",
+      "细叶万寿菊",
+      "万寿菊花"
+    ],
+    "nah": [
+      "Cempōhualxōchitl"
     ],
     "de": [
       "Aufrechte Studentenblume"
@@ -77,6 +67,9 @@
     "fa": [
       "جعفری گل درشت"
     ],
+    "cy": [
+      "Gold talsyth"
+    ],
     "hu": [
       "nagy büdöske"
     ],
@@ -100,6 +93,9 @@
     ],
     "el": [
       "Ταγέτης ο ορθοφυής"
+    ],
+    "cs": [
+      "aksamitník vzpřímený"
     ],
     "gom": [
       "ಶಿಂವ್ತಿ"
@@ -128,9 +124,6 @@
     "mk": [
       "исправена кадифка"
     ],
-    "id": [
-      "Tahi kotok"
-    ],
     "arz": [
       "مخمليه قائمه"
     ],
@@ -145,13 +138,20 @@
     ],
     "ckb": [
       "شەسپەڕ"
+    ],
+    "en": [
+      "Aztec marigold"
+    ],
+    "es": [
+      "flor de muerto",
+      "cempasúchil"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q759876",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q759876",
   "search_names": {
@@ -166,46 +166,93 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「センジュギク」",
+      "source": "Wikipedia (ja): センジュギク",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%82%B8%E3%83%A5%E3%82%AE%E3%82%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108224682,
       "text": "センジュギク は、キク科コウオウソウ属の一年草で、観賞用に栽培される草花である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Tagetes erecta」",
+      "source": "Wikipedia (en): Tagetes erecta",
       "source_url": "https://en.wikipedia.org/wiki/Tagetes_erecta",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1353045377,
       "text": "Tagetes erecta, the Aztec marigold, Mexican marigold, big marigold, cempaxochitl or cempasúchil, is a species of flowering plant in the genus Tagetes native to Mexico and Central America. Despite being native to the Americas, it is often called the African marigold. In Mexico, this plant is found in the wild in the states of México, Michoacán, Puebla, Veracruz and Guerrero."
+    },
+    "es": {
+      "source": "Wikipedia (es): Tagetes erecta",
+      "source_url": "https://es.wikipedia.org/wiki/Tagetes_erecta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175791219,
+      "text": "Tagetes erecta, llamada comúnmente cempasúchil, cempasúchitl, sempasúchil, zempasúchil, cempoalxóchitl, cempaxóchitl, cempoal o zempoal es una especie de la familia Asteraceae, nativa de México, donde se está presente en estado silvestre principalmente en los estados de Chiapas, Tabasco, México, Morelos, Puebla, San Luis Potosí, Sinaloa, Tlaxcala, Oaxaca, Jalisco, Michoacán, Hidalgo, Veracruz, Yucatán, Campeche y Quintana Roo; en estos últimos tres estados a la flor se la conoce como x’pujuk. También se encuentra en los países de América Central."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rose d'Inde",
+      "source_url": "https://fr.wikipedia.org/wiki/Rose_d'Inde",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239484356,
+      "text": "La rose d'Inde est une espèce de plantes à fleurs de la famille des Asteraceae. Elle est originaire du Mexique. Lorsqu'elle est évoquée lors de son utilisation dans les célébrations du Jour des morts, elle est parfois désignée dans les textes francophones sous nom mexicain cempasúchil."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tagetes erecta",
+      "source_url": "https://pt.wikipedia.org/wiki/Tagetes_erecta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71858865,
+      "text": "Tagetes erecta, comummente conhecida como rosa-de-oiro é uma planta herbácea, que tanto pode ser anual como perene, pertencente à família das asteráceas, originária do México e amplamente cultivada, nos mais variegados territórios, como espécie ornamental, por mercê das suas grandes e coloridas flores amareladas ou alaranjadas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tahi kotok",
+      "source_url": "https://id.wikipedia.org/wiki/Tahi_kotok",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29668791,
+      "text": "Tahi kotok, cocok botol, marigold meksiko, atau marigold afrika adalah terna tahunan berbunga yang termasuk ke dalam keluarga Asteraceae. Di Jawa, beberapa orang menyebut ini sebagai kenikir karena memiliki bentuk yang serupa, tetapi kenikir memiliki bau yang harum tidak seperti dengan tahi kotok. Bunganya berkelompok atau perbungaan soliter dengan warna beragam. Tumbuhan ini berasal dari Meksiko dan menyebar ke Amerika dan Karibia hingga didistribusikan ke negara-negara lain, juga dapat ditemukan di Indonesia, salah satunya di Gunung Prau."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「センジュギク」の節「栽培」",
+        "source": "Wikipedia (ja): センジュギク § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%82%B8%E3%83%A5%E3%82%AE%E3%82%AF#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 108224682,
         "heading": "栽培",
         "text": "タネがやすい在来種や線虫駆除用種は、3月下旬から4月にかけ、栽培地に直まきし、タネが見え隠れする程度に覆土する。発芽してきたら混み合ったところを間引き、株間が30cmくらいになるようにすればよく育つ。タネが高価な一代交配種は、浅鉢に丁寧に蒔き、2ミリくらい覆土して乾かないように管理し、本葉が出てきたら、花壇に30cm間隔で定植する。\n比較的強健な植物であるが、高温と多湿に弱いので、咲き終わった花殻や混み合った枝はこまめに除去し、梅雨明け後に根本から一節を残して切り戻してやると、また秋になって開花する。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Tagetes erecta」の節「Cultivation」",
+        "source": "Wikipedia (en): Tagetes erecta § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Tagetes_erecta#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1353045377,
         "heading": "Cultivation",
         "text": "It is widely cultivated and there are many cultivars used in gardening as an ornamental plant. The cultivar 'Inca Orange' has gained the Royal Horticultural Society's Award of Garden Merit.\nIn Mexico, it is used in the festivities of the Day of the Dead, to decorate altars and tombs; hence the name \"flower of the dead\". However, since antiquity it is also used for food and medicinal purposes.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Tagetes erecta § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Tagetes_erecta#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71858865,
+        "heading": "Cultivo",
+        "text": "Esta espécie, tipicamente mais propensa a medrar em zonas subtropicais, pode ser cultivada como anual sensível em zonas temperadas, conquanto se tenham os devidos cuidados para a resguardar, visto que não é muito resistente à geada, de modo que deve ser semeada em estufas ou lugar resguardado do frio na Primavera, transplantando-se ulteriormente para o exterior assim que tenham acabado as últimas geadas da estação.\nA rosa-de-oiro prefere solos bem drenado, moderadamente férteis, com boa exposição solar. Esta espécie é capaz de se desenvolver bem tanto em solos argilosos pesados como em solos arenosos.\nA floração começa cerca de três meses após o plantio e continua durante vários meses. A remoção das flores murchas antes da formação das sementes prolonga a época de floração.\nAs plantas são suscetíveis a ataques de lesmas, caracóis e botrytis.",
         "truncated": false
       }
     }
@@ -224,7 +271,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -368,7 +415,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/252092-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -376,7 +423,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/252092-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000082627.webp",
@@ -389,6 +436,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 378,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

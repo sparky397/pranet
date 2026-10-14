@@ -12,30 +12,31 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オオサンカクイ"
     ],
-    "en": [
-      "Giant Bur Rush",
-      "Greater club rush"
-    ],
-    "zh": [
-      "大藨草"
+    "id": [
+      "Mensiang",
+      "Rumput griting"
     ],
     "th": [
       "กกสามเหลี่ยมใหญ่"
     ],
-    "id": [
-      "Rumput griting"
+    "en": [
+      "Greater club rush",
+      "Giant Bur Rush"
     ],
     "jv": [
       "Wlingi"
     ],
     "su": [
       "Walingi"
+    ],
+    "zh": [
+      "大藨草"
     ],
     "bjn": [
       "Bundung"
@@ -51,18 +52,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q13012433",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q13012433",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オオサンカクイ」",
+      "source": "Wikipedia (ja): オオサンカクイ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%B5%E3%83%B3%E3%82%AB%E3%82%AF%E3%82%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110804323,
       "text": "オオサンカクイ Actinoscirpus grossus は、カヤツリグサ科に属する多年草の1種である。フトイのような長く節の無い茎の先端に多数のホタルイのような小穂をつけ、更に根出葉と包葉が発達する。この1種のみで単独にオオサンカクイ属を構成する。"
+    },
+    "es": {
+      "source": "Wikipedia (es): Actinoscirpus grossus",
+      "source_url": "https://es.wikipedia.org/wiki/Actinoscirpus_grossus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174603357,
+      "text": "Actinoscirpus es un género monotípico de plantas herbáceas perteneciente a la familia de las ciperáceas. Su única especie es Actinoscirpus grossus (L.f.) Goetgh. & D.A.Simpson. Se distribuye por Pakistán, India, S. China, Sudeste de Asia, Malasia Australia tropical."
+    },
+    "id": {
+      "source": "Wikipedia (id): Mensiang",
+      "source_url": "https://id.wikipedia.org/wiki/Mensiang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29493550,
+      "text": "Mensiang atau wlingi adalah sejenis rumput anggota suku teki-tekian (Cyperaceae) yang sering dimanfaatkan sebagai bahan anyam-anyaman. Rumput ini tumbuh di paya dan rawa-rawa. Nama-nama daerahnya, di antaranya, mansiang, mĕnsiang, mĕsiang (Sumbar); masiang (Bk.); basiang ; mansiro daun (Mink.); rĕduk (Plg.); bundung (Kalbar); walingi (Sd.); wlingi, wlingian, wlingén, lingi (Jw.); balingé (Md.); kaingas, kawasar, tinorong. Dalam bahasa Inggris dikenal sebagai Greater club-rush atau Giant bulrush."
     }
   },
   "edible": {
@@ -76,7 +95,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -117,7 +136,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/962435-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or tuberous geophyte",
@@ -125,7 +144,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/962435-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000337413.webp",
@@ -138,6 +157,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

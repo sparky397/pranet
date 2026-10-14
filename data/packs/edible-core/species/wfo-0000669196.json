@@ -27,44 +27,16 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オオアカバナ"
     ],
-    "en": [
-      "Great Willowherb",
-      "great hairy willowherb"
-    ],
-    "de": [
-      "Behaartes Weidenröschen",
-      "Zottiges Weidenröschen"
-    ],
     "fr": [
+      "Épilobe à grandes fleurs",
       "Épilobe Hérissé",
-      "epilobe hérissé",
-      "Épilobe à grandes fleurs"
-    ],
-    "nl": [
-      "Harig wilgenroosje"
-    ],
-    "cs": [
-      "vrbovka chlupatá"
-    ],
-    "fi": [
-      "karvahorsma"
-    ],
-    "zh": [
-      "柳叶菜",
-      "柳叶菜花",
-      "柳叶菜根"
-    ],
-    "ast": [
-      "yerba de San Antón"
-    ],
-    "sl": [
-      "dlakavi vrbovec"
+      "epilobe hérissé"
     ],
     "pl": [
       "Wierzbownica kosmata"
@@ -72,11 +44,21 @@
     "eu": [
       "Goilora"
     ],
+    "fi": [
+      "karvahorsma"
+    ],
     "hu": [
       "borzas füzike"
     ],
     "et": [
       "karvane pajulill"
+    ],
+    "de": [
+      "Zottiges Weidenröschen",
+      "Behaartes Weidenröschen"
+    ],
+    "cs": [
+      "vrbovka chlupatá"
     ],
     "az": [
       "Tükcüklü yağıotu"
@@ -87,8 +69,16 @@
     "hsb": [
       "Kosmičkata wjerbinka"
     ],
+    "nl": [
+      "Harig wilgenroosje"
+    ],
     "sv": [
       "Rosendunört"
+    ],
+    "zh": [
+      "柳叶菜",
+      "柳叶菜花",
+      "柳叶菜根"
     ],
     "ar": [
       "سنفية مشعرة"
@@ -110,6 +100,9 @@
     ],
     "sk": [
       "vŕbovka chlpatá"
+    ],
+    "ast": [
+      "Yerba de San Antón"
     ],
     "ga": [
       "lus na Tríonóide"
@@ -134,13 +127,20 @@
     ],
     "nb": [
       "stormjølke"
+    ],
+    "sl": [
+      "dlakavi vrbovec"
+    ],
+    "en": [
+      "Great Willowherb",
+      "great hairy willowherb"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161366",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161366",
   "search_names": {
@@ -150,22 +150,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オオアカバナ」",
+      "source": "Wikipedia (ja): オオアカバナ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%A2%E3%82%AB%E3%83%90%E3%83%8A",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106351081,
       "text": "オオアカバナ は、アカバナ科アカバナ属の多年草。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Epilobium hirsutum」",
+      "source": "Wikipedia (en): Epilobium hirsutum",
       "source_url": "https://en.wikipedia.org/wiki/Epilobium_hirsutum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375033254,
       "text": "Epilobium hirsutum is a flowering plant belonging to the willowherb genus Epilobium in the family Onagraceae. It is commonly known as the great willowherb, great hairy willowherb or hairy willowherb. Local dialectal names include codlins and cream, apple pie and cherry pie."
+    },
+    "es": {
+      "source": "Wikipedia (es): Epilobium hirsutum",
+      "source_url": "https://es.wikipedia.org/wiki/Epilobium_hirsutum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171671899,
+      "text": "La hierba de San Antonio o epilobio velludo es una planta herbácea perenne de la familia Onagraceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Épilobe à grandes fleurs",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89pilobe_%C3%A0_grandes_fleurs",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232606995,
+      "text": "L'épilobe à grandes fleurs, encore appelée épilobe hirsute, est une espèce de plantes à fleurs du genre Epilobium et de la famille des Onagraceae. De la souche longuement stolonifère partent chaque printemps, de nouvelles tiges dressées. L'épilobe hirsute appartient souvent à une formation végétale prairiale, constituée de grandes herbes, généralement des dicotylédones à larges feuilles, appelée mégaphorbiaie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Epilobium hirsutum",
+      "source_url": "https://pt.wikipedia.org/wiki/Epilobium_hirsutum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 54806704,
+      "text": "Epilobium hirsutum é uma espécie de planta com flor pertencente à família Onagraceae."
     }
   },
   "edible": {
@@ -180,7 +207,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -320,7 +347,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/611919-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -328,7 +355,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/611919-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000669196.webp",
@@ -341,6 +368,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 294,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

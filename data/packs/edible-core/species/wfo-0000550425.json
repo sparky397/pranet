@@ -19,7 +19,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -32,76 +32,24 @@
       "Breadfruit Tree",
       "Breadnut"
     ],
-    "ca": [
-      "Arbre del pa"
-    ],
-    "cs": [
-      "chlebovník obecný"
-    ],
-    "de": [
-      "Brotfruchtbaum"
-    ],
-    "eo": [
-      "Panarbo"
-    ],
-    "fi": [
-      "Leipäpuu",
-      "malaijienleipäpuu"
-    ],
     "fr": [
-      "Arbre à pain"
-    ],
-    "haw": [
-      "ʻulu",
-      "'ulu",
-      "‘Ulu"
-    ],
-    "he": [
-      "עץ הלחם"
-    ],
-    "mi": [
-      "Kuru"
-    ],
-    "nl": [
-      "Broodboom"
-    ],
-    "nb": [
-      "Brødfrukt",
-      "brødfrukttre"
+      "Arbre à pain",
+      "arbre à pain"
     ],
     "pt": [
+      "Árvore-do-pão",
       "fruta-pão",
       "rima"
     ],
-    "sv": [
-      "Brödfruktträd"
-    ],
-    "tr": [
-      "Ekmek ağacı"
-    ],
-    "ty": [
-      "ʻuru",
-      "Ùru"
-    ],
-    "zh": [
-      "麵包樹",
-      "面包树"
-    ],
-    "yue": [
-      "麵包樹"
-    ],
-    "es": [
-      "árbol del pan",
-      "fruta de pan"
-    ],
-    "ms": [
-      "sukun"
-    ],
-    "sl": [
-      "navadni kruhovec"
+    "id": [
+      "Sukun (pohon)",
+      "Sukun"
     ],
     "ru": [
       "хлебное дерево"
+    ],
+    "de": [
+      "Brotfruchtbaum"
     ],
     "ar": [
       "خبزية محزوزة"
@@ -118,6 +66,12 @@
     "bo": [
       "གོ་རེ་ཤིང་འབྲས།"
     ],
+    "ca": [
+      "arbre del pa"
+    ],
+    "cs": [
+      "chlebovník obecný"
+    ],
     "da": [
       "brødfrugt"
     ],
@@ -127,8 +81,23 @@
     "el": [
       "Αρτόκαρπος"
     ],
+    "eo": [
+      "panarbo"
+    ],
+    "fi": [
+      "malaijienleipäpuu",
+      "Leipäpuu"
+    ],
     "gl": [
       "Árbore do pan"
+    ],
+    "haw": [
+      "‘Ulu",
+      "ʻulu",
+      "'ulu"
+    ],
+    "he": [
+      "עץ הלחם"
     ],
     "hr": [
       "Kruhovac"
@@ -138,9 +107,6 @@
     ],
     "ht": [
       "Labapen"
-    ],
-    "id": [
-      "Sukun"
     ],
     "jv": [
       "Sukun"
@@ -157,8 +123,17 @@
     "mdf": [
       "Кшинь шуфта"
     ],
+    "mi": [
+      "Kuru"
+    ],
     "ml": [
       "ശീമപ്ലാവ്"
+    ],
+    "ms": [
+      "Sukun"
+    ],
+    "nl": [
+      "broodboom"
     ],
     "pam": [
       "Kamansi"
@@ -187,6 +162,9 @@
     "su": [
       "Sukun"
     ],
+    "sv": [
+      "brödfruktträd"
+    ],
     "ta": [
       "ஈரப்பலா"
     ],
@@ -202,11 +180,22 @@
     "to": [
       "Mei"
     ],
+    "tr": [
+      "Ekmek ağacı"
+    ],
+    "ty": [
+      "Ùru",
+      "ʻuru"
+    ],
     "uk": [
       "хлібне дерево"
     ],
     "vi": [
       "Xa kê"
+    ],
+    "zh": [
+      "麵包樹",
+      "面包树"
     ],
     "ko": [
       "빵나무"
@@ -225,6 +214,10 @@
     ],
     "fa": [
       "درخت نان"
+    ],
+    "nb": [
+      "brødfrukttre",
+      "Brødfrukt"
     ],
     "ceb": [
       "Dalungyan"
@@ -252,6 +245,9 @@
     ],
     "xmf": [
       "ქობალიშ ჯა"
+    ],
+    "yue": [
+      "麵包樹"
     ],
     "wuu": [
       "面包树"
@@ -316,6 +312,9 @@
     "mwl": [
       "Fruita Pan"
     ],
+    "sl": [
+      "navadni kruhovec"
+    ],
     "gor": [
       "Amo"
     ],
@@ -330,13 +329,17 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇလၢင်းၶမ်း"
+    ],
+    "es": [
+      "árbol del pan",
+      "fruta de pan"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q14677",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q14677",
   "search_names": {
@@ -347,36 +350,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「パンノキ」",
+      "source": "Wikipedia (ja): パンノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107799810,
       "text": "パンノキ はクワ科パンノキ属の常緑高木。属名はギリシア語のパン（artos）と果実（karpos）からなる。無核種はタネナシパンノキ 、有核種はタネパンノキ 、グアテマラではマサパン（マルチパン）と呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Breadfruit」",
+      "source": "Wikipedia (en): Breadfruit",
       "source_url": "https://en.wikipedia.org/wiki/Breadfruit",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376124937,
       "text": "Breadfruit is a species of flowering tree in the mulberry and jackfruit family Moraceae. Its name is derived from the texture of the moderately ripe fruit when cooked, similar to freshly baked bread and having a potato-like flavor."
+    },
+    "es": {
+      "source": "Wikipedia (es): Artocarpus altilis",
+      "source_url": "https://es.wikipedia.org/wiki/Artocarpus_altilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174296374,
+      "text": "Artocarpus altilis, comúnmente denominado buen pan, árbol del pan o frutipán, es una especie perteneciente al género Artocarpus, de la familia Moraceae nativa de la región Indo-Pacífica y distribuida desde la antigüedad por toda Oceanía. Se cultivan cientos de variedades distribuidas desde el sudeste asiático, hasta la Polinesia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Arbre à pain",
+      "source_url": "https://fr.wikipedia.org/wiki/Arbre_%C3%A0_pain",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058242,
+      "text": "L'arbre à pain est un arbre de la famille des Moracées, originaire d'Océanie, domestiqué dans cette région pour son fruit comestible et aujourd'hui largement répandu sous les tropiques. C’est une espèce proche du jacquier, Artocarpus heterophyllus."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Árvore-do-pão",
+      "source_url": "https://pt.wikipedia.org/wiki/%C3%81rvore-do-p%C3%A3o",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72165320,
+      "text": "A árvore-do-pão é uma espécie de árvore florida da família das amoreiras e jacas (Moraceae). Seu nome é derivado da textura da fruta moderadamente madura quando cozida, semelhante ao pão recém assado, e por seu sabor de batata. Pode superar os 20 metros de altura e suas folhas são grandes e brilhantes."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sukun (pohon)",
+      "source_url": "https://id.wikipedia.org/wiki/Sukun_(pohon)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29991247,
+      "text": "Sukun, su'un, amo, kulur, ketimbul atau timbul adalah nama sejenis pohon yang berbuah. Buah sukun tidak berbiji dan memiliki bagian yang empuk, yang mirip roti setelah dimasak atau digoreng. Karena itu, orang-orang Eropa mengenalnya sebagai \"buah roti\"."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「パンノキ」の節「栽培」",
+        "source": "Wikipedia (ja): パンノキ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%8E%E3%82%AD#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 107799810,
         "heading": "栽培",
         "text": "種子は蒔いても発芽しないか、発芽しても育たない。根萌芽では増えないため、挿し木で増やす必要があり、温暖多雨な気候条件が揃っていれば順調に生育していく。パンノキは、最も1本単位の収量が多い食用植物の1つである。挿し木から3年後で実をつけはじめ、やがて1シーズンで200個、合計0.5トンほどの果実が収穫できるようになる。栽培の手間がほとんどかからず、人間が行うことは果実の収穫と、ミバエがたかってドロドロの塊にならないように風で落ちた果実を片付ける程度である。\n南太平洋の収穫は平均して年に50～150個、通常は球形かやや細長く重さは0.25–6 kg。収量は降雨量に左右される。バルバドスで調査したところ合理的な収量は1ヘクタール単位16–32ショートトン（6.5–12.9 ショートトン/エーカー）という結果が示された。品種の選択を重ねた無核種と、種子まで食べられる有核種の栽培も続く。一般に#分根で増やす。\n\n■ 生育条件\nパンノキは赤道の低地に生育し標高は650メートル (2,130 ft) が最も適するものの1,550メートル (5,090 ft) に生える例もある。土壌の条件は中性からややアルカリ性 (pH6.1–7.4) 、土性は砂、砂質ローム土、ローム土または砂と粘土まじりのローム土が適する。また風化サンゴ coral sand でも生息し塩分を含む土壌に強い。熱帯気候にのみ適応し、気温16–38 °C (61–100 °F)、年間降水量200–250 cm (80–100 in) が必要。",
         "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Artocarpus altilis § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Artocarpus_altilis#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174296374,
+        "heading": "Cultivo",
+        "text": "El árbol del pan se cultiva por todo el Pacífico y del sureste asiático, además del Caribe y América central, donde en el siglo XVIII fue llevado por los europeos. La especie crece rápidamente en condiciones favorables, entre 0,5 y 1,5 m por año, dependiendo de la latitud donde se cultive la planta. El diámetro del tronco puede llegar a medir 1 m durante los primeros 10-12 años. El árbol crece de forma permanente si el clima lo acompaña, y siempre está renovando la hoja. La floración es estacional y la mayoría de las variedades lo hacen una o dos veces al año. La floración principal se produce durante los meses lluviosos y calurosos del verano y el árbol hará los frutos 3 o 4 meses después de la floración. Los frutos tardan de 15 a 19 semanas en alcanzar la madurez para el consumo humano. Las ramas pequeñas que han hecho el fruto pueden morir, pero siempre será sustituida por unas nuevas que desarrollan constantemente la vida del árbol. Los árboles que se han reproducido de la semilla (semilla fértil), pueden tardar entre 6 y 10 años en hacer la primera floración y hacer frutos, mientras que los ejemplares reproducidos por acción vegetativa (injertos, esquejes, o brotes de raíces) suelen florecer en 3 o 6 años.\nLa producción de los frutos del pan por ejemplar es muy considerable. Un solo árbol puede producir hasta 700 frutos del pan en un año, según la variedad, la edad, y el hábitat. Normalmente, un árbol  puede producir entre 150 y 200 frutos. A continuación se muestra la producción en tres variedades.\n\nEn cuanto a las raíces del árbol del pan, normalmente están muy próximas a la superficie del suelo, y se desarrollan de manera extensiva por el terreno. Esto no impide que el árbol del pan reaccione favorablemente al convivir junto con otras plantas.",
+        "truncated": true
       }
     }
   },
@@ -397,7 +447,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -476,7 +526,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/582598-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -484,7 +534,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/582598-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000550425.webp",
@@ -497,6 +547,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

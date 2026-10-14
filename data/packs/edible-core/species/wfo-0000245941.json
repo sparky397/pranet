@@ -22,25 +22,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヤエヤマアオキ"
     ],
-    "en": [
-      "Indian mulberry",
-      "cheese fruit",
-      "Rotten Cheesefruit"
+    "pt": [
+      "Noni"
     ],
-    "zh": [
-      "檄樹",
-      "黃木巴戟",
-      "海滨木巴戟",
-      "橘叶巴戟"
-    ],
-    "vi": [
-      "nhàu"
+    "id": [
+      "Mengkudu"
     ],
     "ps": [
       "سپين توت"
@@ -60,6 +52,15 @@
     "eo": [
       "Nonio"
     ],
+    "zh": [
+      "檄樹",
+      "黃木巴戟",
+      "海滨木巴戟",
+      "橘叶巴戟"
+    ],
+    "vi": [
+      "nhàu"
+    ],
     "ca": [
       "noni"
     ],
@@ -69,16 +70,10 @@
     "et": [
       "India nonipuu"
     ],
-    "id": [
-      "Mengkudu"
-    ],
     "ru": [
       "Моринда цитрусолистная"
     ],
     "nl": [
-      "Noni"
-    ],
-    "pt": [
       "Noni"
     ],
     "to": [
@@ -215,13 +210,18 @@
     ],
     "lv": [
       "citronlapu morinda"
+    ],
+    "en": [
+      "Indian mulberry",
+      "cheese fruit",
+      "Rotten Cheesefruit"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q234238",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q234238",
   "search_names": {
@@ -235,22 +235,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヤエヤマアオキ」",
+      "source": "Wikipedia (ja): ヤエヤマアオキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%A8%E3%83%A4%E3%83%9E%E3%82%A2%E3%82%AA%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110699488,
       "text": "ヤエヤマアオキ は、アカネ科ヤエヤマアオキ属の常緑小高木。学名のうち属名の Morinda は、ラテン語の「morus」（クワ）と、「indus」（インド）との2語からなるが、果実の形状に由来する。また種小名 citrifolia は「citrus」（シトロン）と「folius」（葉）とからなり、柑橘に似た葉を有する意味である。和名に「アオキ」とあるがアオキはガリア目ガリア科で遠縁である。ハワイやフランス領ポリネシアなどで言うノニ（noni）が、ノニジュース等を販売する業者が「健康食品」と称して宣伝していることもあり、良く知られる名称の1つになっている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Morinda citrifolia」",
+      "source": "Wikipedia (en): Morinda citrifolia",
       "source_url": "https://en.wikipedia.org/wiki/Morinda_citrifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355878359,
       "text": "Morinda citrifolia is a fruit-bearing tree in the coffee family, Rubiaceae. It is commonly known as noni or Indian mulberry, among many other names."
+    },
+    "es": {
+      "source": "Wikipedia (es): Morinda citrifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Morinda_citrifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171940771,
+      "text": "Morinda citrifolia, llamada comúnmente noni, guanábana cimarrona, fruta del diablo, fruta del paraíso o mora de la India, es una planta arbórea o arbustiva de la familia de las rubiáceas; originaria del sureste asiático y Australia. Se distribuye pantropicalmente."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Morinda citrifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Morinda_citrifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238732083,
+      "text": "Pour les homonymes, voir Noni  et la page d'homonymie Nono ."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Noni",
+      "source_url": "https://pt.wikipedia.org/wiki/Noni",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67379599,
+      "text": "Morinda citrifolia, normalmente conhecido por noni, nono Taiti, aal, é uma pequena árvore da família das rubiaceae. A morinda citrifolia é originária do sudeste asiático, tendo sido difundida pelo homem através da Ásia Meridional, ilhas do Oceano Pacífico, Polinésia Francesa, Porto Rico e mais recentemente a República Dominicana. O Taiti continua a ser o local de maior cultivo."
+    },
+    "id": {
+      "source": "Wikipedia (id): Mengkudu",
+      "source_url": "https://id.wikipedia.org/wiki/Mengkudu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28516663,
+      "text": "Mengkudu atau keumeudee (Aceh); pace, kemudu, kudu, bentis .(Jawa); cangkudu (Sunda); koddhu, pacè (Madura); tibah (Bali) adalah tanaman berbunga yang berasal daerah Asia Tenggara, tergolong dalam famili Rubiaceae. Nama lain untuk tanaman ini adalah noni, mengkudu (Betawi), nono (Tahiti), nonu (Tonga), ungcoikan (Myanmar), dan ach (Hindi)."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Morinda citrifolia § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Morinda_citrifolia#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171940771,
+        "heading": "Toxicidad",
+        "text": "En  2005,  se registró en un hospital europeo, a un paciente adulto con hepatitis aguda y que admitió que tomaba zumo de Morinda citrifolia desde hacía tres semanas. Se le indicó abandonar su ingestión y se le controló con exámenes de laboratorio, normalizándose en un mes.​\nEn el mismo año fue publicado un artículo sobre dos pacientes con hepatotoxicidad atribuida a la ingestión del mismo zumo.​ En respuesta, se informó que se habían hecho estudios y ensayos clínicos que habían demostrado que no producía toxicidad hepática.​\nPoco tiempo después, se publicó otro caso con hepatotoxicidad atribuida al referido zumo.​ En respuesta se sugirió que el daño  podía atribuirse al uso de interferón beta más que al zumo.​​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -267,7 +318,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -365,7 +416,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/756359-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -373,7 +424,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/756359-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000245941.webp",
@@ -386,6 +437,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 275,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

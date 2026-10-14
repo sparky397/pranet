@@ -12,44 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "poplysen falmaidd y Dwyrain"
-    ],
-    "en": [
-      "balsam poplar",
-      "Ontario Balsam Poplar"
-    ],
-    "de": [
-      "Balsam-Pappel"
-    ],
-    "hy": [
-      "Բարդի բալասանաբեր",
-      "բարդի խոշորոտերև"
-    ],
-    "nl": [
-      "ontariopopulier"
-    ],
-    "sv": [
-      "Balsampoppel"
-    ],
-    "tr": [
-      "Balsam kavağı"
-    ],
-    "uk": [
-      "Тополя бальзамічна"
-    ],
-    "cs": [
-      "topol balzámový"
-    ],
-    "fi": [
-      "palsamipoppeli"
-    ],
-    "zh": [
-      "香脂杨"
-    ],
     "pl": [
       "Topola balsamiczna"
     ],
@@ -58,6 +23,12 @@
     ],
     "ru": [
       "Тополь бальзамический"
+    ],
+    "fi": [
+      "palsamipoppeli"
+    ],
+    "de": [
+      "Balsam-Pappel"
     ],
     "dsb": [
       "Wónjaty topoł"
@@ -68,6 +39,15 @@
     "hsb": [
       "Wonjaty topoł"
     ],
+    "sv": [
+      "Balsampoppel"
+    ],
+    "tr": [
+      "Balsam kavağı"
+    ],
+    "nl": [
+      "Ontariopopulier"
+    ],
     "nb": [
       "balsampoppel"
     ],
@@ -77,8 +57,21 @@
     "bg": [
       "балсамова топола"
     ],
+    "hy": [
+      "բարդի խոշորոտերև",
+      "Բարդի բալասանաբեր"
+    ],
+    "cy": [
+      "Poplysen falmaidd y Dwyrain"
+    ],
     "ar": [
       "حور بلسمي"
+    ],
+    "zh": [
+      "香脂杨"
+    ],
+    "cs": [
+      "topol balzámový"
     ],
     "he": [
       "צפצפה בלסמית"
@@ -103,13 +96,20 @@
     ],
     "lb": [
       "Balsam-Pëppel"
+    ],
+    "en": [
+      "balsam poplar",
+      "Ontario Balsam Poplar"
+    ],
+    "uk": [
+      "Тополя бальзамічна"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q149471",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q149471",
   "search_names": {
@@ -124,13 +124,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Populus balsamifera」",
+      "source": "Wikipedia (en): Populus balsamifera",
       "source_url": "https://en.wikipedia.org/wiki/Populus_balsamifera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1334085706,
       "text": "Populus balsamifera, commonly called balsam poplar, bam, bamtree, eastern balsam-poplar, hackmatack, tacamahac poplar, tacamahaca, is a tree species in the balsam poplar species group in the poplar genus, Populus. The genus name Populus is from the Latin for poplar, and the specific epithet balsamifera from Latin for \"balsam-bearing\"."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Populus balsamifera",
+      "source_url": "https://fr.wikipedia.org/wiki/Populus_balsamifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234882838,
+      "text": "Populus balsamifera L., le peuplier baumier, est une espèce d'arbre de la famille des Salicaceae. Il est aussi appelé liard, peuplier noir, baumier du Canada et peuplier de Gilead. C'est une espèce présente dans toute l'Amérique du Nord. Son aire de répartition s'entend entre l'Alaska et Terre-Neuve-et-Labrador. Il se démarque pas l'odeur fortement camphrée de son feuillage."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Populus balsamifera",
+      "source_url": "https://pt.wikipedia.org/wiki/Populus_balsamifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205952,
+      "text": "Populus balsamifera (choupo-bálsamo) é uma espécie de árvore do gênero Populus, pertencente à família Salicaceae. É nativa do norte da América do Norte."
     }
   },
   "edible": {
@@ -144,7 +162,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -203,7 +221,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/776600-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -211,7 +229,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/776600-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000928157.webp",
@@ -224,6 +242,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 271,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

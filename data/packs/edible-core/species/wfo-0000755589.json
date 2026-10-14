@@ -13,15 +13,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "天韭",
-      "阿尔泰葱"
-    ],
     "ru": [
       "Лук алтайский"
+    ],
+    "zh": [
+      "阿尔泰葱",
+      "天韭"
     ],
     "bg": [
       "алтайски лук"
@@ -46,18 +46,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4268451",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4268451",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Allium altaicum」",
+      "source": "Wikipedia (en): Allium altaicum",
       "source_url": "https://en.wikipedia.org/wiki/Allium_altaicum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1185997119,
       "text": "Allium altaicum is a species of onion native to Asiatic Russia, Mongolia, Kazakhstan and northern China."
+    },
+    "es": {
+      "source": "Wikipedia (es): Allium altaicum",
+      "source_url": "https://es.wikipedia.org/wiki/Allium_altaicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 147974279,
+      "text": "Allium altaicum es una especie de planta bulbosa del género Allium, perteneciente a la familia de las amarilidáceas, del orden de las Asparagales. Se distribuye por Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Allium altaicum",
+      "source_url": "https://fr.wikipedia.org/wiki/Allium_altaicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232383360,
+      "text": "Allium altaicum est une espèce de plantes à fleurs du genre Allium et de la famille des Amaryllidacées. C'est une plante bulbeuse vivace originaire de Russie, de Mongolie, du Kazakhstan et du nord de la Chine."
+    },
+    "id": {
+      "source": "Wikipedia (id): Allium altaicum",
+      "source_url": "https://id.wikipedia.org/wiki/Allium_altaicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26156287,
+      "text": "Allium altaicum adalah spesies tumbuhan yang tergolong ke dalam famili Amaryllidaceae. Spesies ini juga merupakan bagian dari ordo Asparagales. Spesies Allium altaicum sendiri merupakan bagian dari genus bawang Allium. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh Pall.."
     }
   },
   "edible": {
@@ -70,7 +97,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -90,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/527567-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -98,7 +125,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/527567-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000755589.webp",
@@ -111,6 +138,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

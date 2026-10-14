@@ -23,21 +23,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "金狗毛蕨",
-      "金毛狗",
-      "金毛狗脊",
-      "狗脊",
-      "金毛狗（金毛狗脊）"
+    "id": [
+      "Penawar jambi"
     ],
     "nan": [
       "Káu-chit"
-    ],
-    "id": [
-      "Penawar jambi"
     ],
     "vi": [
       "Cẩu tích"
@@ -47,6 +40,13 @@
     ],
     "min": [
       "Paku simpai"
+    ],
+    "zh": [
+      "金狗毛蕨",
+      "金毛狗",
+      "金毛狗脊",
+      "狗脊",
+      "金毛狗（金毛狗脊）"
     ],
     "th": [
       "ว่านลูกไก่ทอง"
@@ -59,18 +59,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2672719",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2672719",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cibotium barometz」",
+      "source": "Wikipedia (en): Cibotium barometz",
       "source_url": "https://en.wikipedia.org/wiki/Cibotium_barometz",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369052475,
       "text": "Cibotium barometz, the barometz, golden chicken fern or woolly fern, is a species of tree fern native to parts of China and to the western part of the Malay Peninsula. The fern's woolly rhizome was thought to be the inspiration for the mythical \"Vegetable Lamb of Tartary\"."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cibotium barometz",
+      "source_url": "https://es.wikipedia.org/wiki/Cibotium_barometz",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172624643,
+      "text": "Cibotium barometz, Cibota, es una especie de helecho perteneciente a la familia Dicksoniaceae. C. barometz es nativa de China y de la parte oeste de la Península de Malaca."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cibotium barometz",
+      "source_url": "https://fr.wikipedia.org/wiki/Cibotium_barometz",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 204173738,
+      "text": "Cibotium barometz est une espèce de fougères arborescentes de la famille des Cibotiaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Penawar jambi",
+      "source_url": "https://id.wikipedia.org/wiki/Penawar_jambi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 25624759,
+      "text": "Penawar jambi adalah sejenis paku pohon yang telah lama dikenal sebagai tumbuhan obat. Ia dikenal pula sebagai paku gélang atau geylang atau paku simpai."
     }
   },
   "edible": {
@@ -84,7 +111,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -111,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1160435-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or subshrub",
@@ -119,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1160435-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000748037.webp",
@@ -132,6 +159,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 270,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

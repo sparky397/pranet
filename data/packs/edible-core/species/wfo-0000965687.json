@@ -15,7 +15,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -26,16 +26,12 @@
       "Assai palm",
       "açaí"
     ],
-    "zh": [
-      "菜椰",
-      "千叶菜椰",
-      "巴西苺"
-    ],
-    "ast": [
-      "asaí"
-    ],
     "pt": [
+      "Açaí",
       "açaizeiro"
+    ],
+    "id": [
+      "Palem açaí"
     ],
     "gn": [
       "Yasa'i"
@@ -103,6 +99,11 @@
     "fi": [
       "paranassaipalmu"
     ],
+    "zh": [
+      "巴西苺",
+      "菜椰",
+      "千叶菜椰"
+    ],
     "da": [
       "Acaipalme"
     ],
@@ -136,21 +137,21 @@
     "hr": [
       "Kolova palma"
     ],
-    "id": [
-      "Palem açaí"
-    ],
     "mni": [
       "ꯑꯀꯥꯢ ꯄꯥꯝ"
     ],
     "sl": [
       "Acai palma"
+    ],
+    "ast": [
+      "asaí"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q33943",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q33943",
   "search_names": {
@@ -166,32 +167,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アサイー」",
+      "source": "Wikipedia (ja): アサイー",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%82%A4%E3%83%BC",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108397774,
       "text": "アサイー は、ブラジルのアマゾンが原産のヤシ科の植物である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Açaí palm」",
+      "source": "Wikipedia (en): Açaí palm",
       "source_url": "https://en.wikipedia.org/wiki/A%C3%A7a%C3%AD_palm",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373584716,
       "text": "The açaí palm, Euterpe oleracea, is a species of palm tree (Arecaceae) cultivated for its fruit, hearts of palm, leaves, and trunk wood. Global demand for the fruit has expanded rapidly in the 21st century, and the tree is cultivated for that purpose primarily."
+    },
+    "es": {
+      "source": "Wikipedia (es): Euterpe oleracea",
+      "source_url": "https://es.wikipedia.org/wiki/Euterpe_oleracea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175241699,
+      "text": "La palmera de azaí, huasaí, palma murrapo, palma manaca, naidí, o açaí es una palmera nativa del norte de Sudamérica, apreciada por las propiedades nutritivas de su fruto."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Euterpe oleracea",
+      "source_url": "https://fr.wikipedia.org/wiki/Euterpe_oleracea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058028,
+      "text": "Euterpe oleracea est une espèce de palmiers de la famille des Arecaceae, originaire du Nord de l'Amérique du Sud. Il est appelé wassaï ou pinot en Guyane, mais c'est le vocable brésilien açaï qui tend à s’imposer sur les deux autres termes ailleurs en France."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Açaí",
+      "source_url": "https://pt.wikipedia.org/wiki/A%C3%A7a%C3%AD",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72382406,
+      "text": "O açaí é uma palmeira muito comum na região da Amazônia que produz um fruto bacáceo de cor roxa, muito utilizado na confecção de alimentos e bebidas. A palmeira do açaí é por vezes confundida, no estado do Pará, com a palmeira juçara, que embora seja outro tipo de palmeira, dá palmito de excelente qualidade."
+    },
+    "id": {
+      "source": "Wikipedia (id): Palem açaí",
+      "source_url": "https://id.wikipedia.org/wiki/Palem_a%C3%A7a%C3%AD",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29338363,
+      "text": "Palem açaí, Euterpe oleracea, adalah spesies pohon palem yang dibudidayakan untuk diambil buahnya, hati palem (sayuran), daun-daunan, dan batang kayunya. Permintaan global akan buah ini telah berkembang pesat pada abad ke-21."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Açaí palm」の節「Cultivation」",
+        "source": "Wikipedia (en): Açaí palm § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/A%C3%A7a%C3%AD_palm#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1373584716,
         "heading": "Cultivation",
         "text": "There are two harvests: one is normally between January and June, while the other is between August and December, producing larger volumes. In 2022, the state of Pará, which accounts for 90% of Brazil's total açaí economy, produced 8,158 tonnes (17,985,000 lb) of açaí berries, generating US$26 million in revenue. The 2022 production was 209 times greater than the volume produced in 2012.\n\n■ Child labor concern\nChildren as young as 13 years old are employed as laborers to harvest the fruit, using machetes to clear paths in the rainforest, and climbing trees up to 70 feet (21 m) tall without harnesses to collect berries in the canopy, a process leading to falls and severe injuries in some children.\n\n■ Cultivars\nFew named cultivars exist, and varieties differ mostly in the nature of the fruit:\n\nBranco (\"White\") is a rare variety local to the Amazon estuary in which the berries do not change color, but remain green when ripe. This is believed to be due to a recessive gene since only about 30% of 'Branco' palm seeds mature to express this trait.\nBRS-Pará was developed in 2004 by the Brazilian Agricultural Research Agency. The pulp yield ranges from 15% to 25%.\nBRS Pai d'Égua is the newest cultivar developed by the Brazilian Agricultural Research Agency.",
@@ -210,7 +247,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -228,7 +265,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/666941-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -236,7 +273,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/666941-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000965687.webp",
@@ -249,6 +286,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

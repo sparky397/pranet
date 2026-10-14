@@ -13,35 +13,23 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "fr": [
+      "Violette blanche"
+    ],
+    "pt": [
+      "Violeta-branca"
+    ],
     "de": [
       "Weißes Veilchen"
     ],
     "cs": [
       "violka bílá"
     ],
-    "en": [
-      "White Violet"
-    ],
-    "fi": [
-      "Hopeaorvokki"
-    ],
-    "fr": [
-      "Violette blanche"
-    ],
     "pl": [
       "Fiołek biały"
-    ],
-    "tr": [
-      "Ak menekşe"
-    ],
-    "sl": [
-      "bela vijolica"
-    ],
-    "pt": [
-      "Violeta-branca"
     ],
     "hu": [
       "fehér ibolya"
@@ -81,24 +69,63 @@
     ],
     "mk": [
       "бела темјанушка"
+    ],
+    "sl": [
+      "bela vijolica"
+    ],
+    "en": [
+      "White Violet"
+    ],
+    "fi": [
+      "Hopeaorvokki"
+    ],
+    "tr": [
+      "Ak menekşe"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159046",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159046",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Viola alba」",
+      "source": "Wikipedia (en): Viola alba",
       "source_url": "https://en.wikipedia.org/wiki/Viola_alba",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372721993,
       "text": "Viola alba, commonly known as white violet, is a species of violet in the family Violaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Viola alba",
+      "source_url": "https://es.wikipedia.org/wiki/Viola_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 143089419,
+      "text": "Violeta es una especie de la familia de las violáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Violette blanche",
+      "source_url": "https://fr.wikipedia.org/wiki/Violette_blanche",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 215853817,
+      "text": "La Violette blanche est une espèce de plantes à fleurs de la famille des Violaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Violeta-branca",
+      "source_url": "https://pt.wikipedia.org/wiki/Violeta-branca",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62334210,
+      "text": "A violeta-branca é uma planta vivaz da família das Violáceas."
     }
   },
   "edible": {
@@ -109,7 +136,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -139,7 +166,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/867579-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -147,7 +174,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/867579-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000426240.webp",
@@ -160,6 +187,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 290,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -18,20 +18,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "giant granadilla",
-      "Badea",
-      "passion flower"
-    ],
-    "sv": [
-      "Barbadin"
-    ],
-    "zh": [
-      "大果西番蓮",
-      "大果西番莲"
+    "id": [
+      "Erbis"
     ],
     "ht": [
       "Pye grenadin"
@@ -54,6 +45,10 @@
     "hsb": [
       "Kralowska ćerpjenka"
     ],
+    "zh": [
+      "大果西番蓮",
+      "大果西番莲"
+    ],
     "de": [
       "Riesengranadilla"
     ],
@@ -62,9 +57,6 @@
     ],
     "ar": [
       "زهرة الآلام المربعة"
-    ],
-    "id": [
-      "Erbis"
     ],
     "ml": [
       "ആകാശവെള്ളരി"
@@ -83,24 +75,59 @@
     ],
     "shn": [
       "ဢႃႇသဝတီႇ"
+    ],
+    "en": [
+      "giant granadilla",
+      "Badea",
+      "passion flower"
+    ],
+    "sv": [
+      "Barbadin"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159105",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159105",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Passiflora quadrangularis」",
+      "source": "Wikipedia (en): Passiflora quadrangularis",
       "source_url": "https://en.wikipedia.org/wiki/Passiflora_quadrangularis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306454203,
       "text": "Passiflora quadrangularis, the giant granadilla, barbadine (Trinidad), grenadine (Haiti), giant tumbo or badea, is a species of plant in the family Passifloraceae. It produces the largest fruit of any species within the genus Passiflora. It is a perennial climber native to the Neotropics."
+    },
+    "es": {
+      "source": "Wikipedia (es): Passiflora quadrangularis",
+      "source_url": "https://es.wikipedia.org/wiki/Passiflora_quadrangularis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171957920,
+      "text": "Passiflora quadrangularis, conocida también como badea, parcha, granadillo, tumbo gigante o quijón, es una especie de plantas pasifloráceas de la zona intertropical."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Passiflora quadrangularis",
+      "source_url": "https://fr.wikipedia.org/wiki/Passiflora_quadrangularis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058150,
+      "text": "La barbadine, grenadille géante, passiflore à tige quadrangulaire ou grand maracuja, est une espèce de plantes à fleurs de la famille des Passifloraceae. C'est également le nom des fruits qu'elle porte. Elle est de la même famille que la grenadille."
+    },
+    "id": {
+      "source": "Wikipedia (id): Erbis",
+      "source_url": "https://id.wikipedia.org/wiki/Erbis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26360906,
+      "text": "Erbis atau markisa jumbo adalah spesies tanaman dari keluarga Passifloraceae. Tanaman ini menghasilkan buah berukuran terbesar dibandingkan tanaman dari genus Passiflora lainnya. Tumbuhan merambat yang termasuk tanaman semak ini berasal dari wilayah neotropis."
     }
   },
   "edible": {
@@ -115,7 +142,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -176,7 +203,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/675390-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climber",
@@ -184,7 +211,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/675390-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000480101.webp",
@@ -197,6 +224,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

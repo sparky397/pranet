@@ -23,24 +23,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "black mangrove"
-    ],
-    "es": [
-      "Mangle Negro"
-    ],
-    "zh": [
-      "黑海榄雌",
-      "萌芽海榄雌"
+    "pt": [
+      "Sereíba"
     ],
     "de": [
       "Schwarze Mangrove"
-    ],
-    "pt": [
-      "Sereíba"
     ],
     "bg": [
       "брилянтна авицения"
@@ -51,15 +41,25 @@
     "cs": [
       "kolíkovník černý"
     ],
+    "zh": [
+      "黑海榄雌",
+      "萌芽海榄雌"
+    ],
     "fa": [
       "حرای سیاه"
+    ],
+    "en": [
+      "black mangrove"
+    ],
+    "es": [
+      "Mangle Negro"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q570551",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q570551",
   "search_names": {
@@ -69,13 +69,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Avicennia germinans」",
+      "source": "Wikipedia (en): Avicennia germinans",
       "source_url": "https://en.wikipedia.org/wiki/Avicennia_germinans",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374883534,
       "text": "Avicennia germinans, the black mangrove, is a shrub or small tree growing up to 12 meters in the acanthus family, Acanthaceae. Fossils of the species are known from the Bermont Formation of the Everglades."
+    },
+    "es": {
+      "source": "Wikipedia (es): Avicennia germinans",
+      "source_url": "https://es.wikipedia.org/wiki/Avicennia_germinans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582788,
+      "text": "Avicennia germinans, llamado popularmente mangle blanco, mangle prieto o mangle negro, es un árbol de la familia Acanthaceae. Desempeña un papel clave en el ecosistema del manglar como barrera contra las mareas y resguardo, crianza y protección de la vida silvestre. Crece en regiones tropicales y subtropicales de América, en ambas costas, del Atlántico y del Pacífico, y en la costa del Atlántico de África tropical, donde prospera en las orillas arenosas. Es común en áreas costeras de Texas y Florida y habita desde norte de Luisiana y Georgia en los Estados Unidos y por las costas hasta Sudamérica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Avicennia germinans",
+      "source_url": "https://fr.wikipedia.org/wiki/Avicennia_germinans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234557925,
+      "text": "Avicennia germinans, le Palétuvier noir ou Bois de mêche, est une espèce de plantes à fleurs de la famille des Verbénacées, ou des Acanthacées selon la classification phylogénétique. C'est un arbuste ou un petit arbre poussant dans la mangrove."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sereíba",
+      "source_url": "https://pt.wikipedia.org/wiki/Sere%C3%ADba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73175425,
+      "text": "Avicennia germinans (L.) L., também conhecido como Avicennia nitida Jacq. e Avicennia tomentosa Jacq., é uma árvore típica da vegetação de mangue. É conhecida popularmente como sereíba, siriúba, siriúva, siribeira, saraíba e mangue-branco. Possui pequeno diâmetro, madeira dura, flores pequenas em racemo e frutos moles e achatados em formato de drupa."
     }
   },
   "edible": {
@@ -90,7 +117,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -164,7 +191,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/861125-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -172,7 +199,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/861125-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000302902.webp",
@@ -185,6 +212,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 258,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

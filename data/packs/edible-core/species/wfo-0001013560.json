@@ -14,12 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "southern crab apple"
-    ],
     "ru": [
       "Яблоня узколистная"
     ],
@@ -40,24 +37,36 @@
     ],
     "cs": [
       "Jabloň úzkolistá"
+    ],
+    "en": [
+      "southern crab apple"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4535958",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4535958",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Malus angustifolia」",
+      "source": "Wikipedia (en): Malus angustifolia",
       "source_url": "https://en.wikipedia.org/wiki/Malus_angustifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360496518,
       "text": "Malus angustifolia, or southern crabapple, is a species of crabapple native to the eastern and south-central United States."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Malus angustifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Malus_angustifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235442739,
+      "text": "Malus angustifolia, le Pommetier austral, est une espèce de plantes à fleurs de la famille des Rosaceae. C'est un pommier sauvage originaire de l'est et du centre-sud des États-Unis."
     }
   },
   "edible": {
@@ -70,7 +79,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +108,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1087697-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -107,7 +116,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1087697-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001013560.webp",
@@ -120,6 +129,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 261,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

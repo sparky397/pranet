@@ -16,60 +16,34 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Großfrüchtige Moosbeere"
-    ],
-    "en": [
-      "cranberry",
-      "American Cranberry"
-    ],
-    "da": [
-      "Storfrugtet Tranebær"
-    ],
-    "dsb": [
-      "Wjelikopłodowa žorawina"
+    "fr": [
+      "Canneberge à gros fruits",
+      "canneberge à gros fruits",
+      "Airelle à gros fruits"
     ],
     "eo": [
       "Oksikoko amerika"
     ],
     "fi": [
-      "Amerikankarpalo"
+      "amerikankarpalo"
     ],
-    "fr": [
-      "Airelle à gros fruits",
-      "canneberge à gros fruits"
+    "hu": [
+      "amerikai tőzegáfonya"
+    ],
+    "de": [
+      "Großfrüchtige Moosbeere"
+    ],
+    "dsb": [
+      "Wjelikopłodowa žorawina"
     ],
     "hsb": [
       "Wulkopłodowa tymjenka"
     ],
-    "hu": [
-      "Amerikai tőzegáfonya"
-    ],
-    "mk": [
-      "Американска брусница"
-    ],
-    "nl": [
-      "amerikaanse cranberry",
-      "amerikaanse veenbes",
-      "grote cranberry",
-      "grote veenbes",
-      "veenbes",
-      "Cranberry"
-    ],
-    "nb": [
-      "Amerikansk tranebær"
-    ],
-    "sr": [
-      "Američka brusnica",
-      "америчка брусница"
-    ],
-    "zh": [
-      "大果越橘",
-      "蔓越橘",
-      "大果蔓越梅"
+    "da": [
+      "storfrugtet tranebær"
     ],
     "lv": [
       "Lielogu dzērvene"
@@ -77,11 +51,18 @@
     "ar": [
       "قمام كبير الثمر"
     ],
+    "nb": [
+      "Amerikansk tranebær"
+    ],
     "pl": [
       "żurawina wielkoowocowa"
     ],
     "fa": [
       "قره قات"
+    ],
+    "sr": [
+      "америчка брусница",
+      "Američka brusnica"
     ],
     "cy": [
       "Llygaeren America"
@@ -107,15 +88,35 @@
     "hr": [
       "Američka brusnica"
     ],
+    "zh": [
+      "大果蔓越梅",
+      "大果越橘",
+      "蔓越橘"
+    ],
     "arz": [
       "توت برى"
+    ],
+    "en": [
+      "cranberry",
+      "American Cranberry"
+    ],
+    "mk": [
+      "Американска брусница"
+    ],
+    "nl": [
+      "amerikaanse cranberry",
+      "amerikaanse veenbes",
+      "grote cranberry",
+      "grote veenbes",
+      "veenbes",
+      "Cranberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q149397",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q149397",
   "search_names": {
@@ -126,13 +127,46 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Vaccinium macrocarpon」",
+      "source": "Wikipedia (en): Vaccinium macrocarpon",
       "source_url": "https://en.wikipedia.org/wiki/Vaccinium_macrocarpon",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365217628,
       "text": "Vaccinium macrocarpon, also called large cranberry, American cranberry and bearberry, is a North American species of cranberry."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vaccinium macrocarpon",
+      "source_url": "https://es.wikipedia.org/wiki/Vaccinium_macrocarpon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 170710055,
+      "text": "El arándano rojo grande o \"cranberry\" es una planta de la familia Ericaceae, nativa de los humedales del nordeste de Estados Unidos y el sudeste de Canadá."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Canneberge à gros fruits",
+      "source_url": "https://fr.wikipedia.org/wiki/Canneberge_%C3%A0_gros_fruits",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240144621,
+      "text": "La canneberge à gros fruits est une plante à fleurs de la famille des Éricacées. C'est un arbuste tapissant qui pousse en milieu humide, dans l'est de l'Amérique du Nord. Comme plusieurs espèces du même genre, il produit des fruits rouges comestibles appelés canneberges ou airelles."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Canneberge à gros fruits § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Canneberge_%C3%A0_gros_fruits#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240144621,
+        "heading": "Culture",
+        "text": "La culture de la canneberge est assez complexe. Elle nécessite d'importantes quantités d'eau pour protéger les bourgeons contre le gel au printemps et à l'automne, ainsi que les plants pendant l'hiver. En effet, la création d'une couche de glace autour des plants permet de les maintenir à 0 °C et donc de les protéger du grand froid et des vents asséchants. Au printemps, 4 cm de sable sont déposés sur la glace si bien que lorsque la glace fond, le sable tombe sur les plants, détruisant les insectes.\nLa canneberge est cultivée dans des bassins sablonneux appelés cannebergières ou atocatières (au Québec). Elle donne ses premiers fruits à partir de la quatrième année.\nHistoriquement, les cannebergières étaient implantées dans les marais et les tourbières. Actuellement[Quand ?] les canneberges sont cultivées dans des bassins sablonneux peu profonds, construits sur les terres hautes. La couche de terre superficielle est arasée pour former des digues autour des bassins. Du sable est apporté sur une couche de 10 à 20 cm. La surface est nivelée au laser avec une légère bosse au centre pour faciliter le drainage. En plus de maintenir l’eau, les digues soutiennent également le matériel de culture afin d'éviter de rouler sur les plants. Le matériel d’irrigation sert à l’arrosage en été et à la protection contre le gel en automne et au printemps.\nPour cultiver la canneberge, plusieurs éléments clés sont essentiels à la croissance. Ces conditions nécessaires se retrouvent dans les tourbières. La plante exige un pH acide de 4 à 5 et une grande quantité d’eau à en raison de la morphologie de ses racines. En octobre, la plantation devient flamboyante et les bassins sont inondés pour faire flotter le fruit, ce qui facilite la récolte.",
+        "truncated": true
+      }
     }
   },
   "edible": {
@@ -145,7 +179,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -193,7 +227,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/261912-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -201,7 +235,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/261912-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000422267.webp",
@@ -214,6 +248,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 264,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

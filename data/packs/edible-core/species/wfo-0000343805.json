@@ -137,28 +137,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ダンドク"
     ],
-    "en": [
-      "Indian shot"
-    ],
-    "zh": [
-      "美人蕉",
-      "白蓮蕉花",
-      "白花曇花",
-      "紫葉美人蕉",
-      "紅花美人蕉",
-      "紫叶美人蕉",
-      "美人蕉花",
-      "姜芋",
-      "美人蕉根",
-      "蕉芋",
-      "芭蕉芋",
-      "花叶竹芋"
+    "pt": [
+      "Cana-da-índia"
     ],
     "pl": [
       "paciorecznik indyjski"
@@ -189,6 +175,20 @@
     ],
     "sv": [
       "Röd arrowrot"
+    ],
+    "zh": [
+      "美人蕉",
+      "白蓮蕉花",
+      "白花曇花",
+      "紫葉美人蕉",
+      "紅花美人蕉",
+      "紫叶美人蕉",
+      "美人蕉花",
+      "姜芋",
+      "美人蕉根",
+      "蕉芋",
+      "芭蕉芋",
+      "花叶竹芋"
     ],
     "pam": [
       "Kanas"
@@ -264,13 +264,16 @@
     ],
     "gor": [
       "Bunga Tatudi"
+    ],
+    "en": [
+      "Indian shot"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q163559",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q163559",
   "search_names": {
@@ -281,36 +284,74 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ダンドク」",
+      "source": "Wikipedia (ja): ダンドク",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%89%E3%82%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106366748,
       "text": "ダンドク は、熱帯から温帯に生育するカンナ科の多年草。カリブ諸島、熱帯アメリカ原産であるが、園芸目的で世界各地に移出している。園芸種のカンナの原種のひとつ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Canna indica」",
+      "source": "Wikipedia (en): Canna indica",
       "source_url": "https://en.wikipedia.org/wiki/Canna_indica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375255749,
       "text": "Canna indica, commonly known as Indian shot, African arrowroot, edible canna, purple arrowroot, Sierra Leone arrowroot, is a plant species in the family Cannaceae. It is native to the Americas and naturalized elsewhere. The edible rhizomes are a source of starch."
+    },
+    "es": {
+      "source": "Wikipedia (es): Canna indica",
+      "source_url": "https://es.wikipedia.org/wiki/Canna_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174109757,
+      "text": "Canna indica, también llamada caña del Perú, caña de indias, caña de cuentas, baranda de México, flor del cangrejo, achira, capacho, platanito rojo o yerba del rosario, es una planta herbácea perenne de hasta 3 m de altura perteneciente a la familia de las cannáceas. Es originaria de América del Sur, encontrándose en Colombia, Venezuela, Ecuador, Perú, Brasil, Uruguay y Argentina, así como en las Indias Occidentales y América Central."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Canna indica",
+      "source_url": "https://fr.wikipedia.org/wiki/Canna_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235860617,
+      "text": "Canna indica, le Canna ou appelé également Conflore à La Réunion, Ambaradeda à Madagascar, Toloman ou Balisier rouge, est une espèce de plantes à fleurs herbacées de la famille des Cannaceae. On l'appelle parfois Canna des Indes, mais ce nom est aussi utilisé pour plusieurs autres espèces de fleurs de l'ordre des Zingibérales[réf. nécessaire]."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cana-da-índia",
+      "source_url": "https://pt.wikipedia.org/wiki/Cana-da-%C3%ADndia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71639411,
+      "text": "Cana-da-índia, também conhecida como achira, cana-índica, cana-do-brejo, biri, bananeirinha-da-Índia e/ou bananeirinha-de-jardim, é uma espécie de planta da família Cannaceae, nativa da América do Sul, América Central, Caribe e do México, e cultivada durante milhares de anos pelos povos indígenas das Américas."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Canna indica」の節「Cultivation」",
+        "source": "Wikipedia (en): Canna indica § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Canna_indica#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375255749,
         "heading": "Cultivation",
         "text": "Canna indica (achira) has been cultivated by indigenous peoples of the Americas in tropical America for thousands of years. The place of the first domestication may have been the northern Andes, as may be true of other similar root crops such as Calathea allouia and M. arundinacea. The Cauca River valley of Colombia was a center of early domestication. Archaeological evidence has been found of the cultivation of achira in 3000 BCE by people of the Las Vegas culture of coastal Ecuador. As the Las Vegas region is arid and semiarid, achira was not likely a native plant, but imported from more humid climates. Achira was also being cultivated by 2000 BCE by the people of the Casma/Sechin culture in the extremely arid region of coastal Peru, also an area in which achira was probably not native.\n\n■ Field and climate requirements\nTo cultivate Canna indica, the substrate should be rich, humiferous, and light. The optimal substrate consists of a deep, rich and well-drained soil in a sunny place with a pH between 5.5 and 7.5. The rhizomes should be planted at 10 cm deep, after the last frost. Although it can tolerate dry periods, occasional irrigation will be beneficial for the yield. C. indica is a plant that can withstand low temperatures (down to -10 °C in regions with a mild climate). Nevertheless, the foliage can already be affected at 0 °C.\n\n■ Propagation\nCanna indica is usually propagated by putting either the rhizome tips or the whole rhizomes in the ground. Because the rhizomes are quickly perishable, storing them properly between the harvest and the next planting time is essential. The large rhizomes can be divided in spring before the new shoots appear. Additionally, Canna indica can also be propagated by seeds.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Canna indica § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Canna_indica#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 235860617,
+        "heading": "Culture",
+        "text": "Le canna est une plante tropicale de croissance rapide. En zone tempérée, on la plante à la mi-mai (après les derniers gels) au soleil et au chaud et surtout à l'abri du vent. Le canna apprécie une terre riche et légère. On plante les rhizomes de 5 à 10 cm de profondeur tous les 30 à 50 cm selon leur hauteur. Donner régulièrement de l'engrais en période de croissance[réf. nécessaire].\nLa plante fleurit de juillet jusqu'aux premiers gels[réf. nécessaire].\nCanna indica est peu rustique, elle est sensible au gel. Dans les zones où les températures hivernales descendent à moins de −10 °C, il faut extraire les rhizomes de terre pour les conserver hors gel (5 à 10 °C) dans de la tourbe ou du sable légèrement humide pour qu'ils ne sèchent pas puis les replanter au printemps après les derniers gels[réf. nécessaire].\nLa multiplication du Canna est très simple soit par division des rhizomes tous les 4 à 5 ans soit par semis. Les graines doivent être placées dans l'eau trois jours avant le semis pour les ramollir. Une graine semée en fin d'hiver peut donner une belle plante qui fleurira seulement six mois après le semis[réf. nécessaire].",
+        "truncated": false
       }
     }
   },
@@ -324,7 +365,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -461,7 +502,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/319130-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -469,7 +510,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/319130-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000343805.webp",
@@ -482,6 +523,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

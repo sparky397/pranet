@@ -39,12 +39,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "bushy lippia"
-    ],
     "fa": [
       "لیپیا آلبا"
     ],
@@ -53,24 +50,69 @@
     ],
     "ta": [
       "லிப்பா ஆல்பா"
+    ],
+    "en": [
+      "bushy lippia"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q10954705",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q10954705",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Lippia alba」",
+      "source": "Wikipedia (en): Lippia alba",
       "source_url": "https://en.wikipedia.org/wiki/Lippia_alba",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1340628234,
       "text": "Lippia alba is a species of flowering plant in the verbena family, Verbenaceae, that is native to southern Texas in the United States, Mexico, the Caribbean, Central America, and South America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lippia alba",
+      "source_url": "https://es.wikipedia.org/wiki/Lippia_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 164451587,
+      "text": "Lippia alba es una especie perteneciente a la familia de las verbenáceas, nativa del sur de Texas en los Estados Unidos, México, el Caribe, América central, y América del Sur."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lippia alba",
+      "source_url": "https://fr.wikipedia.org/wiki/Lippia_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239877173,
+      "text": "Lippia alba est une espèce de plantes à fleurs de la famille des Verbenaceae. Elle est originaire du sud des États-Unis au nord de l'Amérique du Sud en passant par le Mexique, les Caraïbes, et l'Amérique Centrale. L'espèce a été introduite en Australie et en Inde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lippia alba",
+      "source_url": "https://pt.wikipedia.org/wiki/Lippia_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73127702,
+      "text": "Lippia alba é uma espécie de planta com flor da família Verbenaceae, nativa do sul do Texas, nos Estados Unidos, México, Caribe, América Central e América do Sul. A espécie também está presente na Austrália e na Índia, onde foi provavelmente introduzida pelo homem."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Lippia alba § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Lippia_alba#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239877173,
+        "heading": "Culture",
+        "text": "L'espèce s'adapte à presque tous les types de sols, mais préfère les sols bien drainés. Éviter les sols trop humides ou pierreux.\nL'exposition plein soleil est essentielle pour la production d'huiles essentielles.\nLa multiplication par bouturage de tiges est très facile, les branches s'enracinent souvent d'elles-mêmes au contact du sol.\nLa première récolte est possible 3 mois après la plantation. Il est recommandé de renouveler les plants tous les 2 ans pour maintenir une bonne production de feuilles.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -84,7 +126,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -150,7 +192,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/141020-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -158,7 +200,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/141020-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000228665.webp",
@@ -171,6 +213,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

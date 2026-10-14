@@ -16,12 +16,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Mt. Atlas mastic tree"
-    ],
     "de": [
       "Atlantische Pistazie"
     ],
@@ -72,13 +69,16 @@
     ],
     "mk": [
       "атлантски ф’стак"
+    ],
+    "en": [
+      "Mt. Atlas mastic tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1788810",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1788810",
   "search_names": {
@@ -88,23 +88,41 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pistacia atlantica」",
+      "source": "Wikipedia (en): Pistacia atlantica",
       "source_url": "https://en.wikipedia.org/wiki/Pistacia_atlantica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1379060988,
       "text": "Pistacia atlantica is a species of pistachio tree known by the English common names Mt. Atlas mastic tree, Mount Atlas pistachio, Atlantic pistachio, wild pistachio, turpentine tree and Atlantic terebinth.\nP. atlantica has three subspecies or varieties which have been described as atlantica, cabulica, and mutica. According to molecular phylogenetic studies, P. atlantica subsp. kurdica is actually a separate species, Pistacia eurycarpa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pistacia atlantica",
+      "source_url": "https://es.wikipedia.org/wiki/Pistacia_atlantica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 159038088,
+      "text": "El almácigo de Canarias o lengua de oveja es un árbol del género pistacia, de la familia de las anacardiáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pistacia atlantica",
+      "source_url": "https://fr.wikipedia.org/wiki/Pistacia_atlantica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240000773,
+      "text": "Pistacia atlantica, également connu sous le nom de Pistachier atlantique ou Pistachier de l'Atlas, est un arbre à feuillage caduc de la famille des Anacardiacées."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Pistacia atlantica」の節「Cultivation」",
+        "source": "Wikipedia (en): Pistacia atlantica § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Pistacia_atlantica#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1379060988,
         "heading": "Cultivation",
         "text": "Pistacia atlantica is planted as an ornamental shadebearing and drought-tolerant landscape tree in gardens and parks. In California it is imported to use as rootstock for cultivated pistachio trees (Pistacia vera). Both introductions have led to its escape and current status as an occasional invasive species in California.",
@@ -126,7 +144,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -161,7 +179,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/70236-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -169,7 +187,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/70236-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000394548.webp",
@@ -182,6 +200,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 266,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

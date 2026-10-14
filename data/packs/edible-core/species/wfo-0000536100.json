@@ -12,40 +12,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウトウキ"
     ],
-    "de": [
-      "Echte Engelwurz",
-      "Engelwurz",
-      "Arznei-Engelwurz"
-    ],
-    "en": [
-      "Norwegian angelica",
-      "garden angelica"
-    ],
-    "nl": [
-      "Grote engelwortel"
-    ],
-    "cs": [
-      "andělika lékařská"
-    ],
     "fr": [
-      "angélique vraie",
-      "Angélique officinale"
-    ],
-    "fi": [
-      "väinönputki"
-    ],
-    "zh": [
-      "欧白芷",
-      "挪威当归"
-    ],
-    "sl": [
-      "zdravilni gozdni koren"
+      "Angélique officinale",
+      "angélique vraie"
     ],
     "pam": [
       "Garden angelica"
@@ -56,8 +31,16 @@
     "hu": [
       "orvosi angyalgyökér"
     ],
+    "de": [
+      "Arznei-Engelwurz",
+      "Echte Engelwurz",
+      "Engelwurz"
+    ],
     "sh": [
       "Anđelika"
+    ],
+    "nl": [
+      "grote engelwortel"
     ],
     "sv": [
       "kvanne"
@@ -86,11 +69,20 @@
     "ca": [
       "herba de l’Esperit Sant"
     ],
+    "fi": [
+      "väinönputki"
+    ],
     "uk": [
       "Дягель лікарський"
     ],
     "nn": [
       "kvann"
+    ],
+    "sl": [
+      "zdravilni gozdni koren"
+    ],
+    "cs": [
+      "andělika lékařská"
     ],
     "fa": [
       "سنبل خطایی"
@@ -158,6 +150,10 @@
     "diq": [
       "Helerg"
     ],
+    "zh": [
+      "欧白芷",
+      "挪威当归"
+    ],
     "ar": [
       "عشبة الملاك المخزنية"
     ],
@@ -187,13 +183,17 @@
     ],
     "ko": [
       "안젤리카 (식물)"
+    ],
+    "en": [
+      "Norwegian angelica",
+      "garden angelica"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q207745",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q207745",
   "search_names": {
@@ -209,22 +209,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウトウキ」",
+      "source": "Wikipedia (ja): セイヨウトウキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%88%E3%82%A6%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106365352,
       "text": "セイヨウトウキ は、セリ科の二年草。別名、ガーデンアンゼリカ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Angelica archangelica」",
+      "source": "Wikipedia (en): Angelica archangelica",
       "source_url": "https://en.wikipedia.org/wiki/Angelica_archangelica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306190612,
       "text": "Angelica archangelica, commonly known as angelica, garden angelica, wild celery, and Norwegian angelica, is a biennial plant from the family Apiaceae, a subspecies of which is cultivated for its sweetly scented edible stems and roots. Like several other species in Apiaceae, its appearance is similar to several poisonous species, and should not be consumed unless it has been identified with absolute certainty. Synonyms include Archangelica officinalis Hoffm. and Angelica officinalis Moench."
+    },
+    "es": {
+      "source": "Wikipedia (es): Angelica archangelica",
+      "source_url": "https://es.wikipedia.org/wiki/Angelica_archangelica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172737679,
+      "text": "La angélica, es una planta denominada así por ser creencia popular que es un regalo del arcángel Gabriel debido a sus propiedades medicinales. Se denomina también como \"hierba del Espíritu Santo\"."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Angélique officinale",
+      "source_url": "https://fr.wikipedia.org/wiki/Ang%C3%A9lique_officinale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240271195,
+      "text": "L’angélique officinale, l’angélique vraie ou l’archangélique est une espèce de plantes à fleurs de la famille des Apiacées, utilisée comme plante condimentaire et médicinale pour ses pétioles, tiges et graines très aromatiques, et pour sa racine en phytothérapie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Angelica archangelica",
+      "source_url": "https://pt.wikipedia.org/wiki/Angelica_archangelica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69130042,
+      "text": "Angelica archangelica, popularmente conhecida por angélica, é uma planta com propriedades medicinais pertencente à família das Apiaceae (Umbelíferas)."
+    },
+    "id": {
+      "source": "Wikipedia (id): Angelica archangelica",
+      "source_url": "https://id.wikipedia.org/wiki/Angelica_archangelica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29344692,
+      "text": "Angelica archangelica adalah tanaman biennal atau yang berbunga dan menyelesaikan siklus hidupnya dalam dua tahun. Pada tahun pertama, daun akan tumbuh subur dan dilanjutkan pertumbuhan bunga di tahun ke dua. Tanaman dapat mati setelah bijinya matang. untuk memperbanyak tanaman ini, dapat dilakukan dengan menanam biji yang telah matang atau memotong akar sebelum tanamannya mati."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Angélique officinale § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Ang%C3%A9lique_officinale#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240271195,
+        "heading": "Culture",
+        "text": "L'angélique apprécie un sol frais, voire humide, légèrement acide.\nSa zone de rusticité se situe entre 4 et 8.\nElle se multiplie par semis, de juillet à septembre.\nLa récolte se fait la seconde année pour les pétioles et tiges coupés avant la floraison, et la troisième année pour les graines, lesquelles perdent rapidement leur pouvoir germinatif et doivent être semées peu de temps après leur récolte.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -239,7 +290,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -277,7 +328,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/837560-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -285,7 +336,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/837560-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000536100.webp",
@@ -298,6 +349,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 323,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

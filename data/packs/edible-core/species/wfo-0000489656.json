@@ -25,52 +25,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ミチヤナギ"
     ],
-    "cy": [
-      "y canclwm"
-    ],
-    "en": [
-      "prostrate knotweed",
-      "knotgrass",
-      "Yard Knotweed"
-    ],
-    "zh": [
-      "扁蓄",
-      "萹蓄",
-      "篇蓄",
-      "匾蓄",
-      "扁蕾",
-      "萹蓿",
-      "莴蓄",
-      "茼蓄"
-    ],
-    "nl": [
-      "Gewoon varkensgras"
-    ],
-    "cs": [
-      "truskavec ptačí"
-    ],
     "fr": [
-      "renouée des oiseaux"
-    ],
-    "de": [
-      "Vogel-Knöterich",
-      "Vogelknöterich"
-    ],
-    "fi": [
-      "kotipihatatar",
-      "pihatatar"
-    ],
-    "ast": [
-      "bonizu"
-    ],
-    "sl": [
-      "ptičja dresen"
+      "Renouée des oiseaux"
     ],
     "pl": [
       "rdest ptasi"
@@ -84,8 +46,15 @@
     "mdf": [
       "Нар"
     ],
+    "de": [
+      "Vogelknöterich",
+      "Vogel-Knöterich"
+    ],
     "ba": [
       "Күгүлән"
+    ],
+    "nl": [
+      "gewoon varkensgras"
     ],
     "sv": [
       "Trampört"
@@ -111,8 +80,15 @@
     "ca": [
       "passacamins"
     ],
+    "fi": [
+      "pihatatar",
+      "kotipihatatar"
+    ],
     "uk": [
       "спориш звичайний"
+    ],
+    "cs": [
+      "truskavec ptačí"
     ],
     "os": [
       "Лæджирттæг"
@@ -138,6 +114,16 @@
     "da": [
       "Vej-Pileurt"
     ],
+    "zh": [
+      "萹蓄",
+      "扁蓄",
+      "篇蓄",
+      "匾蓄",
+      "扁蕾",
+      "萹蓿",
+      "莴蓄",
+      "茼蓄"
+    ],
     "eu": [
       "Odolur"
     ],
@@ -161,6 +147,9 @@
     ],
     "fa": [
       "پلیگنوم اویکالار"
+    ],
+    "cy": [
+      "Y canclwm"
     ],
     "br": [
       "Milskoulm"
@@ -219,6 +208,9 @@
     "tr": [
       "Çoban Değneği"
     ],
+    "sl": [
+      "ptičja dresen"
+    ],
     "sd": [
       "سکمرد"
     ],
@@ -227,13 +219,21 @@
     ],
     "mwl": [
       "sempre-noiva"
+    ],
+    "en": [
+      "prostrate knotweed",
+      "knotgrass",
+      "Yard Knotweed"
+    ],
+    "ast": [
+      "bonizu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q242573",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q242573",
   "search_names": {
@@ -243,22 +243,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ミチヤナギ」",
+      "source": "Wikipedia (ja): ミチヤナギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%81%E3%83%A4%E3%83%8A%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106385291,
       "text": "ミチヤナギ は、タデ科の一年草。別名ニワヤナギ（庭柳）。北半球の温帯から亜熱帯に広く分布する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Polygonum aviculare」",
+      "source": "Wikipedia (en): Polygonum aviculare",
       "source_url": "https://en.wikipedia.org/wiki/Polygonum_aviculare",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370476327,
       "text": "Polygonum aviculare or common knotgrass is a plant related to buckwheat and dock. It is also called prostrate knotweed, birdweed, pigweed and lowgrass. It is an annual found in fields and wasteland, with white flowers from June to October. It is widespread across many countries in temperate regions, apparently native to Eurasia, naturalized in temperate parts of the Southern Hemisphere."
+    },
+    "es": {
+      "source": "Wikipedia (es): Polygonum aviculare",
+      "source_url": "https://es.wikipedia.org/wiki/Polygonum_aviculare",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581239,
+      "text": "La centinodia, Polygonum aviculare, es una especie de planta fanerógama de la familia de las poligonáceas. Es una planta anual que crece en todo tipo de suelos, aunque prefiere húmedos, que germina hacia finales de invierno o principios de primavera."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Renouée des oiseaux",
+      "source_url": "https://fr.wikipedia.org/wiki/Renou%C3%A9e_des_oiseaux",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233228919,
+      "text": "La Renouée des oiseaux est une espèce de plantes à fleurs herbacées annuelles de la famille des Polygonaceae. Elle développe de nombreuses tiges qui très souvent forment un tapis sur le sol. Son aire d’origine couvre l’hémisphère Nord tempéré."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Polygonum aviculare",
+      "source_url": "https://pt.wikipedia.org/wiki/Polygonum_aviculare",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69145768,
+      "text": "Polygonum aviculare é uma espécie de planta com flor pertencente à família Polygonaceae."
     }
   },
   "edible": {
@@ -273,7 +300,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -476,7 +503,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/695422-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -484,7 +511,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/695422-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000489656.webp",
@@ -497,6 +524,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

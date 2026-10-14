@@ -12,26 +12,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "モワ"
     ],
-    "en": [
-      "mahua"
-    ],
-    "zh": [
-      "长叶紫荆木",
-      "长叶马府油",
-      "长叶马府油树",
-      "长叶马杜鹃"
-    ],
-    "ta": [
-      "இலுப்பை",
-      "நாடடிலுப்பை",
-      "குலிகம்",
-      "மதூகம்"
+    "id": [
+      "Mahua"
     ],
     "hi": [
       "महुआ"
@@ -53,6 +41,12 @@
     ],
     "ne": [
       "मौवा"
+    ],
+    "ta": [
+      "இலுப்பை",
+      "நாடடிலுப்பை",
+      "குலிகம்",
+      "மதூகம்"
     ],
     "or": [
       "ମହୁଲ"
@@ -78,21 +72,27 @@
     "pnb": [
       "مہوآ"
     ],
+    "zh": [
+      "长叶马杜鹃",
+      "长叶紫荆木",
+      "长叶马府油",
+      "长叶马府油树"
+    ],
     "fa": [
       "درخت روغن"
     ],
     "si": [
       "මී ගස"
     ],
-    "id": [
-      "Mahua"
+    "en": [
+      "mahua"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2720146",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2720146",
   "search_names": {
@@ -104,22 +104,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「モワ」",
+      "source": "Wikipedia (ja): モワ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108598169,
       "text": "モワ はアカテツ科マドフカ属の高木である。インドを始めとしたアジアに分布し 、様々な土壌において生育し、岩場にも見られる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Madhuca longifolia」",
+      "source": "Wikipedia (en): Madhuca longifolia",
       "source_url": "https://en.wikipedia.org/wiki/Madhuca_longifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378445208,
       "text": "Madhuca longifolia is a tropical tree native to the Indian subcontinent and Myanmar, occurring in India, Bangladesh, Nepal, Sri Lanka and Myanmar. It is commonly known as madhūka, mahura, madkam, mahuwa, Butter Tree, mahura, mahwa, mahua, mohulo, Iluppai, Mee or Ippa-chettu. It is a fast-growing tree that grows to approximately 20 meters in height, possesses evergreen or semi-evergreen foliage, and belongs to the family Sapotaceae. It is adaptable to arid environments, being a prominent tree in tropical mixed deciduous forests in India in the states of Maharashtra, Odisha, Chhattisgarh, Jharkhand, Uttar Pradesh, Bihar, Andhra Pradesh, Madhya Pradesh, Kerala, Gujarat, West Bengal and Tamil Nadu."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Madhuca longifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Madhuca_longifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239190500,
+      "text": "Madhuca longifolia L. est une espèce de plantes à fleurs de la famille des Sapotaceae. C'est un arbre à croissance rapide d'environ 20 mètres de haut, à feuilles persistantes ou semi-persistantes, originaire d'Inde et adapté aux milieux arides."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Madhuca longifolia",
+      "source_url": "https://pt.wikipedia.org/wiki/Madhuca_longifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69908901,
+      "text": "Madhuca longifolia é uma árvore tropical indiana amplamente encontrada nas planícies e florestas do centro, sul e norte da Índia, além de Nepal, Myanmar e Sri Lanka. É comumente conhecida como madhūka, mahura, madkam, mahuwa, mohulo, iluppai, mee ou ippa-chettu. Trata-se de uma árvore de crescimento rápido que alcança cerca de 20 metros de altura, com folhagem perene ou semidecídua, pertencente à família Sapotaceae. Adapta-se bem a ambientes áridos e é uma espécie proeminente nas florestas decíduas mistas tropicais da Índia, presente em estados como Maarastra, Orissa, Chatisgar, Jarcanda, Utar Pradexe, Biar, Andra Pradexe, Madia Pradexe, Querala, Guzerate, Bengala Ocidental e Tâmil Nadu."
+    },
+    "id": {
+      "source": "Wikipedia (id): Mahua",
+      "source_url": "https://id.wikipedia.org/wiki/Mahua",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28868779,
+      "text": "Mahua adalah pohon tropis yang berasal dari India dan banyak dijumpai di dataran serta hutan-hutan di India tengah, selatan, utara, juga di Bangladesh, Nepal, Myanmar, dan Sri Lanka. Pohon ini dikenal dengan berbagai nama lokal, seperti madhūka, mahura, madkam, dan ippa-chettu. Merupakan pohon berpertumbuhan cepat, biasanya mencapai ketinggian sekitar 20 meter, dengan daun berbentuk cemara atau semi-cemara, dan termasuk dalam keluarga Sapotaceae. Pohon ini tahan terhadap kondisi kering dan sering menjadi spesies dominan di hutan gugur tropis campuran di berbagai negara bagian India, seperti Maharashtra, Odisha, Chhattisgarh, Jharkhand, Uttar Pradesh, Bihar, Andhra Pradesh, Madhya Pradesh, Kerala, Gujarat, Benggala Barat, dan Tamil Nadu."
     }
   },
   "edible": {
@@ -135,7 +162,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -149,7 +176,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/787505-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -157,7 +184,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/787505-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000232785.webp",
@@ -170,6 +197,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 140,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

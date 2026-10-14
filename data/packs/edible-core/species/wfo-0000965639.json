@@ -10,9 +10,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "arz": [
+      "يوتيرب كاتينجا"
+    ],
     "pt": [
       "Açaí-chumbo",
       "Açaí-da-caatinga"
@@ -20,27 +23,60 @@
     "zh": [
       "卡丁加菜椰",
       "纤叶椰"
-    ],
-    "arz": [
-      "يوتيرب كاتينجا"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q146919",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q146919",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Euterpe catinga」",
+      "source": "Wikipedia (en): Euterpe catinga",
       "source_url": "https://en.wikipedia.org/wiki/Euterpe_catinga",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1189611268,
       "text": "Euterpe catinga is a palm species in the genus Euterpe. It is found in forests of a dry, sandy soil and very peculiar vegetation, known as catinga forests or Campinarana in northern South America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Euterpe catinga",
+      "source_url": "https://es.wikipedia.org/wiki/Euterpe_catinga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174762605,
+      "text": "El asaí rojo, asaí paso o asaí de sabana es una palmera que crece en los suelos arenosos de las catingas y sabanas de la cuenca amazónica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Euterpe catinga",
+      "source_url": "https://fr.wikipedia.org/wiki/Euterpe_catinga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207978437,
+      "text": "Euterpe catinga est une espèce de plante de la famille des Arecaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Euterpe catinga",
+      "source_url": "https://pt.wikipedia.org/wiki/Euterpe_catinga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 61857345,
+      "text": "Euterpe catinga é uma espécie botânica de palmeira, nativa da América do Sul."
+    },
+    "id": {
+      "source": "Wikipedia (id): Euterpe catinga",
+      "source_url": "https://id.wikipedia.org/wiki/Euterpe_catinga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29241855,
+      "text": "Euterpe catinga adalah spesies palem dalam genus Euterpe. Spesies ini ditemukan di hutan dengan tanah berpasir yang kering dan vegetasi yang sangat khas, yang dikenal sebagai hutan catinga atau Campinarana di utara Amerika Selatan."
     }
   },
   "edible": {
@@ -53,7 +89,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -68,7 +104,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/317294-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -76,7 +112,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/317294-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000965639.webp",
@@ -89,6 +125,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

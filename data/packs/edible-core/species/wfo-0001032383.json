@@ -53,24 +53,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "codwarth coch"
-    ],
-    "en": [
-      "hairy nightshade"
-    ],
-    "cs": [
-      "lilek žlutý"
-    ],
-    "fi": [
-      "myskikoiso"
-    ],
-    "zh": [
-      "红果龙葵"
-    ],
     "nl": [
       "donsnachtschade"
     ],
@@ -83,21 +68,36 @@
     "ja": [
       "アカミノイヌホオズキ"
     ],
+    "cy": [
+      "Codwarth coch"
+    ],
     "he": [
       "סולנום שעיר"
+    ],
+    "cs": [
+      "lilek žlutý"
     ],
     "be": [
       "Паслён касматы"
     ],
+    "fi": [
+      "myskikoiso"
+    ],
+    "zh": [
+      "红果龙葵"
+    ],
     "is": [
       "Kvöldskuggi"
+    ],
+    "en": [
+      "hairy nightshade"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q761924",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q761924",
   "search_names": {
@@ -107,13 +107,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Solanum villosum」",
+      "source": "Wikipedia (en): Solanum villosum",
       "source_url": "https://en.wikipedia.org/wiki/Solanum_villosum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1351474743,
       "text": "Solanum villosum, also known as the hairy nightshade, red nightshade, or woolly nightshade, is a species of sprawling annual weed. It is found in Europe, western Asia, northern Africa and is also naturalized in Australia and North America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Solanum villosum",
+      "source_url": "https://es.wikipedia.org/wiki/Solanum_villosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174574056,
+      "text": "Solanum villosum es una maleza anual en expansión en Europa, el norte de África, América del Norte, y también se ha naturalizado en Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Solanum villosum",
+      "source_url": "https://fr.wikipedia.org/wiki/Solanum_villosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207757988,
+      "text": "Solanum villosum, la Morelle velue, morelle poilue ou morelle orangée est une espèce végétale de la famille des Solanaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Solanum villosum",
+      "source_url": "https://pt.wikipedia.org/wiki/Solanum_villosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 55242470,
+      "text": "Solanum villosum é uma espécie de planta com flor pertencente à família Solanaceae."
     }
   },
   "edible": {
@@ -128,7 +155,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -250,7 +277,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/285344-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or subshrub",
@@ -258,7 +285,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/285344-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001032383.webp",
@@ -271,6 +298,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

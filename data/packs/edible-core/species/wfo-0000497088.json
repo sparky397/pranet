@@ -28,7 +28,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -37,17 +37,12 @@
     "en": [
       "Sesame"
     ],
-    "zh": [
-      "胡麻",
-      "芝麻",
-      "黑芝麻",
-      "麻油",
-      "芝麻（脂麻、胡麻)",
-      "脂麻"
+    "fr": [
+      "Sésame",
+      "sésame"
     ],
-    "fi": [
-      "öljyseesami",
-      "seesami"
+    "id": [
+      "Wijen"
     ],
     "nl": [
       "sesam"
@@ -109,8 +104,9 @@
     "fa": [
       "کنجد"
     ],
-    "fr": [
-      "sésame"
+    "fi": [
+      "seesami",
+      "öljyseesami"
     ],
     "gl": [
       "Sésamo"
@@ -135,9 +131,6 @@
     ],
     "hu": [
       "szezámfű"
-    ],
-    "id": [
-      "Wijen"
     ],
     "io": [
       "Sezamo"
@@ -219,6 +212,14 @@
     ],
     "vi": [
       "Vừng"
+    ],
+    "zh": [
+      "芝麻",
+      "胡麻",
+      "黑芝麻",
+      "麻油",
+      "芝麻（脂麻、胡麻)",
+      "脂麻"
     ],
     "tl": [
       "Linga"
@@ -411,7 +412,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2763698",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2763698",
   "search_names": {
@@ -426,35 +427,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ゴマ」",
+      "source": "Wikipedia (ja): ゴマ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%9E",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110777685,
       "text": "ゴマ は、ゴマ科ゴマ属の一年草。アフリカ大陸に野生種のゴマ科植物が多く自生しているが、考古学の発掘調査から、紀元前3500年頃のインドが栽培ゴマの発祥地であるとされている。主に種子が食材や食用油などの油製品の材料とされ、古代から今日まで世界中で利用される植物である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sesame」",
+      "source": "Wikipedia (en): Sesame",
       "source_url": "https://en.wikipedia.org/wiki/Sesame",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378216100,
       "text": "Sesame is a plant in the genus Sesamum, also called benne. Numerous wild relatives occur in Africa and a smaller number in India. It is widely naturalized in tropical regions around the world and is cultivated for its edible seeds, which grow in pods. World production in 2024 was 6.7 million tonnes, with India, Myanmar, and Sudan as the largest producers."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sesamum indicum",
+      "source_url": "https://es.wikipedia.org/wiki/Sesamum_indicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171583075,
+      "text": "El Sesamum indicum es una planta del género Sesamum cuyas semillas, conocidas popularmente como anjolí, ajonjolí o sésamo, son comestibles. La planta es cultivada por sus semillas ricas en óleos, que se emplean en gastronomía, como en el pan para hamburguesas. También es usado para hacer dulces como la halva."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sésame",
+      "source_url": "https://fr.wikipedia.org/wiki/S%C3%A9same",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236884725,
+      "text": "Le sésame est une espèce de plantes à fleurs de la famille des Pédaliacées. C'est une plante annuelle largement cultivée pour ses graines. Elle aurait été domestiquée dans le sous-continent indien et il est même probable que ce soit la première plante oléagineuse à avoir été cultivée."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sesamum indicum",
+      "source_url": "https://pt.wikipedia.org/wiki/Sesamum_indicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73178179,
+      "text": "O gergelim ou sésamo é uma planta anual herbácea, gamopétala, originária do Oriente, pertencente à família das pedaliáceas, com propriedades medicinais, de flores alvas, róseas ou vermelhas, hermafroditas, malcheirosas, dispostas nas axilas das folhas, e cujo fruto é cápsula oblonga, pubescente, com sementes oleaginosas, pequenas, amarelas, alvas ou pretas, arredondadas e levemente comprimidas"
+    },
+    "id": {
+      "source": "Wikipedia (id): Wijen",
+      "source_url": "https://id.wikipedia.org/wiki/Wijen",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28518207,
+      "text": "Wijen adalah semak semusim yang termasuk dalam famili Pedaliaceae. Tanaman ini dibudidayakan sebagai sumber minyak nabati, yang dikenal sebagai minyak wijen, yang diperoleh dari ekstraksi bijinya. Afrika tropik diduga merupakan daerah asalnya, yang lalu tersebar ke timur hingga ke India dan Tiongkok. Di Afrika Barat ditemukan pula kerabatnya, S. ratiatum Schumach. dan S. alabum Thom., yang di sana dimanfaatkan daunnya sebagai lalap. S. ratiatum juga mengandung minyak, tetapi mengandung rasa pahit karena tercampur dengan saponin yang juga beracun. Istilah lain yang digunakan untuk menyebut \"wijen\" yaitu bijan atau lenga."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Sesame」の節「Agriculture」",
+        "source": "Wikipedia (en): Sesame § Agriculture",
         "source_url": "https://en.wikipedia.org/wiki/Sesame#Agriculture",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378216100,
         "heading": "Agriculture",
         "text": "■ Cultivation\nSesame varieties have adapted to many soil types. The high-yielding crops do best on fertile, well-drained, soils with a neutral pH. However, these have a low tolerance for soils with high salt and water-logged conditions. Commercial sesame crops require 90 to 120 frost-free days. Warm conditions above 23 °C (73 °F) favor growth and yields. While sesame crops can grow in poor soils, the best yields come from properly fertilized farms.\nFlowering depends on photoperiod and cultivar. The photoperiod also affects the seed's oil content: increased photoperiod increases oil content. The oil content of the seed is inversely proportional to its protein content. Sesame is drought-tolerant, in part due to its extensive root system. However, it requires adequate moisture for germination and early growth. While the crop survives drought and the presence of excess water, the yields are significantly lower in either condition. Moisture levels before planting and flowering affect yield the most. Most commercial cultivars of sesame are intolerant of waterlogging. Rainfall late in the season prolongs growth and increases loss to dehiscence, when the seedpod shatters, scattering the seed. Wind can also cause shattering at harvest.\n\n■ Processing\nSesame seeds are protected by a capsule that bursts when the seeds are ripe. The time of this bursting, or \"dehiscence\", tends to vary, so farmers cut plants by hand and place them together in an upright position to continue ripening until all the capsules have opened. The 1943 discovery of an indehiscent mutant (analogous to nonshattering in cereals) led breeders to try to create a high-yield variety that does not drop its seeds. Despite some progress, dehiscence continues to limit production.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Sésame § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/S%C3%A9same#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236884725,
+        "heading": "Culture",
+        "text": "Le sésame est une culture peu exigeante.\nLes sols limoneux acides ou de pH neutre sont ceux qui conviennent le mieux à la culture du sésame. Les sols alcalins et sableux lui sont impropres.\nLe sésame pousse bien dans les zones à longues saisons chaudes, de l'équateur à 40° Nord ou Sud dans les deux hémisphères, dans des conditions similaires à celles de la culture du coton. En Afrique de l’Ouest, sa culture dans les zones sèches du Sahel a connu un engouement auprès des agriculteurs, comme au Burkina Faso où sa production a cru de 448 % entre 2005 et 2013.\n\nLe sésame a été largement adopté comme culture précoce, car il avait la capacité de pousser dans des zones où d'autres cultures ne le pouvaient pas, en particulier dans des conditions plus chaudes et sèches. C’est une plante qui tolère très bien la sécheresse, en partie grâce à son grand système racinaire. Cependant, il a besoin d’une quantité adéquate d’humidité pour sa germination et sa croissance pendant les premiers jours. Même si la plante peut survivre à la sécheresse ou au contraire à l’excès d’eau, les rendements sont significativement plus bas dans ces deux conditions. Le niveau d’humidité avant la plantation et avant la floraison a une incidence notable sur les rendements.\nLa plupart des variétés commerciales de sésame sont intolérantes à l’excès d’eau. Des pluies tard dans la saison prolongent aussi la croissance et augmentent ainsi les pertes au moment de la récolte. Le vent peut aussi éparpiller la récolte.\nLe début de la floraison dépend de la photopériode et de la variété de sésame. La photopériode influence aussi le contenu en huile présent dans la graine de sésame ; une augmentation de la photopériode augmente le contenu en huile.",
         "truncated": true
       }
     }
@@ -593,7 +641,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/675971-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -601,7 +649,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/675971-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000497088.webp",
@@ -614,6 +662,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

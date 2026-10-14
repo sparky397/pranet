@@ -22,20 +22,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "cockroach berry"
-    ],
-    "zh": [
-      "刺茄",
-      "牛茄子",
-      "喀西茄",
-      "牛茄子*(剌茄）"
+    "pt": [
+      "Juá-vermelho"
     ],
     "rw": [
       "Igitoborwa"
+    ],
+    "zh": [
+      "牛茄子",
+      "刺茄",
+      "喀西茄",
+      "牛茄子*(剌茄）"
     ],
     "sv": [
       "Guldbärsskatta"
@@ -45,24 +45,60 @@
     ],
     "pwn": [
       "ljasaras"
+    ],
+    "en": [
+      "cockroach berry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4022813",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4022813",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Solanum capsicoides」",
+      "source": "Wikipedia (en): Solanum capsicoides",
       "source_url": "https://en.wikipedia.org/wiki/Solanum_capsicoides",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370290246,
       "text": "Solanum capsicoides, the cockroach berry, is a species of flowering plant in the family Solanaceae. It is native to eastern Brazil but naturalized in other tropical regions, where it sometimes becomes an invasive weed."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Solanum capsicoides",
+      "source_url": "https://fr.wikipedia.org/wiki/Solanum_capsicoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 221962486,
+      "text": "Solanum capsicoides est une espèce de plantes à fleurs de la famille des Solanaceae. Elle est dénommée pomme d'amour, cockroach berry, berengena de gallina. Elle est originaire de l'est du Brésil mais s'est naturalisée dans d'autres régions tropicales, où elle devient parfois envahissante."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Juá-vermelho",
+      "source_url": "https://pt.wikipedia.org/wiki/Ju%C3%A1-vermelho",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72841572,
+      "text": "Solanum capsicoides, o Juá-vermelho ou Melancia-da-praia, conhecido como polohauai'i na Polinésia, é uma planta da família Solanaceae. É nativa do leste do Brasil, mas naturalizada em outras regiões tropicais, onde às vezes se torna uma erva invasora."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Solanum capsicoides § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Solanum_capsicoides#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 221962486,
+        "heading": "Toxicité",
+        "text": "Toutes les parties de la plante sont toxiques, les fruits verts surtout. Elles contiennent des glucoalcaloides. Les symptômes sont des troubles digestifs, des nausées, des vomissements des douleurs abdominales et des diarrhées.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -78,7 +114,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -140,7 +176,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/330645-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or subshrub",
@@ -148,7 +184,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/330645-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001026851.webp",
@@ -161,6 +197,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 370,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

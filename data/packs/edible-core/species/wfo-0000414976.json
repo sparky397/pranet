@@ -20,28 +20,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ツルナ"
     ],
-    "zh": [
-      "番杏",
-      "毛菠菜"
-    ],
-    "cs": [
-      "čtyřboč rozložitá"
-    ],
-    "fi": [
-      "vihanneslamopinaatti",
-      "lamopinaatti"
+    "id": [
+      "Kabak (terna)"
     ],
     "bar": [
       "Neuseeländischer Spinat"
     ],
     "ca": [
       "espinac de Nova Zelanda"
+    ],
+    "fi": [
+      "lamopinaatti",
+      "vihanneslamopinaatti"
     ],
     "ko": [
       "번행초"
@@ -52,11 +48,18 @@
     "ru": [
       "Шпинат новозеландский"
     ],
+    "zh": [
+      "番杏",
+      "毛菠菜"
+    ],
     "de": [
       "Neuseeländer Spinat"
     ],
     "sv": [
       "Nyzeeländsk spenat"
+    ],
+    "cs": [
+      "čtyřboč rozložitá"
     ],
     "eo": [
       "ordinara tetragonio"
@@ -87,16 +90,13 @@
     ],
     "hu": [
       "új-zélandi-spenót"
-    ],
-    "id": [
-      "Kabak (terna)"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q278283",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q278283",
   "search_names": {
@@ -106,46 +106,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ツルナ」",
+      "source": "Wikipedia (ja): ツルナ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%83%8A",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109581738,
       "text": "ツルナ はハマミズナ科ツルナ属のつる性多年草。別名ハマヂシャ。多肉で海岸の砂地に生え、若い茎を摘んで食用にもされる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Tetragonia tetragonioides」",
+      "source": "Wikipedia (en): Tetragonia tetragonioides",
       "source_url": "https://en.wikipedia.org/wiki/Tetragonia_tetragonioides",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375069176,
       "text": "Tetragonia tetragonioides, commonly called New Zealand spinach, warrigal greens or by its Māori name of Kōkihi, is a flowering plant in the fig-marigold family (Aizoaceae). It is often cultivated as a leafy vegetable."
+    },
+    "es": {
+      "source": "Wikipedia (es): Tetragonia tetragonoides",
+      "source_url": "https://es.wikipedia.org/wiki/Tetragonia_tetragonoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 151276827,
+      "text": "Tetragonia tetragonioides, también conocida como espinaca de Nueva Zelanda, es una especie de fanerógama perteneciente a la familia de las aizoáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Tetragonia tetragonioides",
+      "source_url": "https://fr.wikipedia.org/wiki/Tetragonia_tetragonioides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234320486,
+      "text": "La Tétragone cornue est une espèce de plantes herbacées de la famille des Aizoaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tetragonia tetragonoides",
+      "source_url": "https://pt.wikipedia.org/wiki/Tetragonia_tetragonoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62177481,
+      "text": "Tetragonia tetragonoides é uma espécie de planta com flor pertencente à família Aizoaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kabak (terna)",
+      "source_url": "https://id.wikipedia.org/wiki/Kabak_(terna)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29691768,
+      "text": "Tetragonia tetragonioides, biasa disebut bayam Selandia Baru, atau kabak adalah tumbuhan berbunga yang berasal dari keluarga tin-gemitir. Ini sering dibudidayakan sebagai sayuran berdaun di Selandia Baru."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ツルナ」の節「栽培」",
+        "source": "Wikipedia (ja): ツルナ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%83%8A#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109581738,
         "heading": "栽培",
         "text": "葉を食用とするために栽培することがある。栽培は容易で、海岸などで野生しているものから種子を採取し、庭やプランターに蒔いて水やりすると、10日ほどで発芽する。基肥は堆肥、腐葉土などを1 - 2握り程度与え、土に混ぜる程度でよいとされる。\n野生化した地方もあり、自生とされるものも一部は栽培から野生化した可能性がある。現代では食用としての栽培ではなく、グラウンドカバーとしても栽培される。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Tetragonia tetragonioides」の節「Cultivation」",
+        "source": "Wikipedia (en): Tetragonia tetragonioides § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Tetragonia_tetragonioides#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375069176,
         "heading": "Cultivation",
         "text": "It is grown for the edible leaves, and can be used as food or an ornamental plant for ground cover. It can be an annual or perennial. As some of its names signify, it has similar flavour and texture properties to spinach, and is cooked like spinach. Like spinach, it contains oxalates; its medium to low levels of oxalates need to be removed by blanching the leaves in hot water for one minute, then rinsing in cold water before cooking. It thrives in hot weather, and is considered an heirloom vegetable. Few insects consume it, and even slugs and snails do not seem to feed on it.\nThe thick, irregularly-shaped seeds should be planted just after the last spring frost. Before planting, the seeds should be soaked for 12 hours in cold water, or 3 hours in warm water. Seeds should be planted 5–10 mm (0.2–0.4 in) deep, and spaced 15–30 cm (5.9–11.8 in) apart. The seedlings will emerge in 10–20 days, and it will continue to produce greens through the summer. Mature plant will self-seed. Seeds will overwinter up to USDA zone 5.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Tetragonia tetragonoides § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Tetragonia_tetragonoides#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 151276827,
+        "heading": "Cultivo",
+        "text": "Se cultiva principalmente por sus hojas comestibles aunque también puede ser utilizada como planta ornamental para cubrir el suelo. Aunque pertenecen a géneros diferentes, su sabor y textura son similares a los de las espinacas por lo que también se cocinan de forma parecida. Por sus niveles de oxalatos hay que blanquear las hojas antes de utilizarlas. \nEn el Norte y el Sur de América se considera una planta invasora; su cultivo también está muy extendido en la franja oriental de Asia.  Prospera en climas cálidos y pocos insectos la atacan, ni siquiera las babosas o los caracoles.\nSus curiosas semillas deben plantarse en primavera, cuando haya pasado el riesgo de heladas. Antes de plantar las semillas deben dejarse en remojo unas 12 horas en agua fría o 3 horas en agua tibia. Deben sembrarse a 5-10 mm de profundidad y espaciadas entre 15 y 30 cm. Germinarán tras 10-20 días y crecerán continuamente durante todo el verano.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Tetragonia tetragonioides § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Tetragonia_tetragonioides#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 234320486,
+        "heading": "Culture",
+        "text": "La tétragone se sème après les derniers gels. Les graines étant très hermétiques, il convient de les tremper dans l'eau chaude la veille du semis.\nPrévoir un semis d'au moins 60 x 60 cm car la plante est assez volumineuse. \nOn peut espérer récolter environ 3 kg de feuilles au m2 par saison.",
         "truncated": false
       }
     }
@@ -163,7 +221,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -262,7 +320,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/364795-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -270,7 +328,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/364795-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000414976.webp",
@@ -283,6 +341,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

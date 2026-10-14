@@ -16,20 +16,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "organpipe cactus",
-      "Organ Pipe Cactus"
-    ],
-    "es": [
-      "Pitayo Dulce"
-    ],
-    "zh": [
-      "大王阁",
-      "管風琴仙人掌果"
-    ],
     "lb": [
       "Uergelpäifekaktus"
     ],
@@ -51,26 +40,55 @@
     "he": [
       "אורגן פייפ קקטוס"
     ],
+    "zh": [
+      "管風琴仙人掌果",
+      "大王阁"
+    ],
     "ja": [
       "オルガンパイプサボテン"
+    ],
+    "en": [
+      "organpipe cactus",
+      "Organ Pipe Cactus"
+    ],
+    "es": [
+      "Pitayo Dulce"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1975128",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1975128",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Stenocereus thurberi」",
+      "source": "Wikipedia (en): Stenocereus thurberi",
       "source_url": "https://en.wikipedia.org/wiki/Stenocereus_thurberi",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1361901103,
       "text": "Stenocereus thurberi, the organ pipe cactus, is a species of cactus native to Mexico and the United States. The species is found in rocky desert. Two subspecies are recognized based on their distribution and height. The Organ Pipe Cactus National Monument is named for the species. Cacti are minimally adapted to particular thermal niches, and are tremendously vulnerable to seasonal precipitation."
+    },
+    "es": {
+      "source": "Wikipedia (es): Stenocereus thurberi",
+      "source_url": "https://es.wikipedia.org/wiki/Stenocereus_thurberi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174317917,
+      "text": "Pitayo dulce (Stenocereus thurberi) es una especie de planta fanerógama de la familia Cactaceae. Es endémica de Norteamérica. Crece de 1 a 8 m en varias ramas columnares en forma de árbol y con flores de color rosado. Los frutos son comestibles de color rojo. Se distribuye desde Arizona a la península de Baja California y Noreste de México. Actualmente está protegida del Comercio Internacional por la convención CITES."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Stenocereus thurberi",
+      "source_url": "https://fr.wikipedia.org/wiki/Stenocereus_thurberi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 202285437,
+      "text": "Stenocereus thurberi, également appelé cactus orgue, est une espèce de cactus originaire du désert de Sonora."
     }
   },
   "edible": {
@@ -82,7 +100,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -94,7 +112,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/244652-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent shrub or tree",
@@ -102,7 +120,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/244652-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001287223.webp",
@@ -115,6 +133,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

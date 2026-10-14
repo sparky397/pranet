@@ -10,45 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Bracken",
-      "bracken fern"
-    ],
-    "de": [
-      "Adlerfarn"
-    ],
-    "nl": [
-      "Adelaarsvaren"
-    ],
-    "ko": [
-      "고사리",
-      "고사리과"
-    ],
-    "cs": [
-      "hasivka orličí"
-    ],
-    "fr": [
-      "fougère-aigle"
-    ],
-    "fi": [
-      "taigasananjalka",
-      "lännensananjalka"
-    ],
-    "ja": [
-      "ワラビ"
-    ],
-    "zh": [
-      "欧洲蕨"
-    ],
-    "ast": [
-      "felechu"
-    ],
-    "sl": [
-      "orlova praprot"
-    ],
     "pl": [
       "orlica pospolita"
     ],
@@ -57,6 +21,12 @@
     ],
     "gl": [
       "Fento común"
+    ],
+    "de": [
+      "Adlerfarn"
+    ],
+    "ja": [
+      "ワラビ"
     ],
     "sv": [
       "örnbräken"
@@ -70,6 +40,10 @@
     "ca": [
       "falguera"
     ],
+    "fi": [
+      "lännensananjalka",
+      "taigasananjalka"
+    ],
     "uk": [
       "орляк звичайний"
     ],
@@ -78,6 +52,9 @@
     ],
     "nn": [
       "einstape"
+    ],
+    "cs": [
+      "hasivka orličí"
     ],
     "mzn": [
       "کرف"
@@ -96,6 +73,12 @@
     ],
     "sr": [
       "Бујад"
+    ],
+    "zh": [
+      "欧洲蕨"
+    ],
+    "sl": [
+      "orlova praprot"
     ],
     "nb": [
       "einstape"
@@ -117,6 +100,10 @@
     ],
     "hu": [
       "saspáfrány"
+    ],
+    "ko": [
+      "고사리과",
+      "고사리"
     ],
     "et": [
       "kilpjalg"
@@ -159,13 +146,26 @@
     ],
     "shn": [
       "ၵုတ်ႇမိူဝ်ႇ"
+    ],
+    "en": [
+      "Bracken",
+      "bracken fern"
+    ],
+    "nl": [
+      "Adelaarsvaren"
+    ],
+    "fr": [
+      "fougère-aigle"
+    ],
+    "ast": [
+      "felechu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q213548",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q213548",
   "search_names": {
@@ -184,27 +184,65 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pteridium aquilinum」",
+      "source": "Wikipedia (en): Pteridium aquilinum",
       "source_url": "https://en.wikipedia.org/wiki/Pteridium_aquilinum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376153257,
       "text": "Pteridium aquilinum, commonly called bracken, brake, pasture brake, common bracken, and also known as eagle fern, is a species of fern occurring in temperate and subtropical regions in both hemispheres. Originally native to Eurasia and North America, the extreme lightness of its spores has led to it achieving a cosmopolitan distribution. It is a herbaceous perennial plant with large, triangular fronds that grow from an underground rhizome."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pteridium aquilinum",
+      "source_url": "https://es.wikipedia.org/wiki/Pteridium_aquilinum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174388146,
+      "text": "Pteridium aquilinum, helecho águila o amambáy es una especie de helecho perteneciente a la familia Dennstaedtiaceae. Esta especie es uno de los organismos vegetales de más amplia distribución pudiéndose encontrar en todos los continentes, salvo la Antártida. Tuvo importancia entre los guaraníes como remedio."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pteridium aquilinum",
+      "source_url": "https://fr.wikipedia.org/wiki/Pteridium_aquilinum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239999071,
+      "text": "La Fougère-aigle ou Grande Fougère est une espèce de plantes de la famille des Dennstaedtiaceae. Elle est très commune, voire envahissante, et cosmopolite. On la retrouve jusqu'à 2 000 m d'altitude. Cette plante toxique a longtemps été utilisée à des fins alimentaires et médicinales et reste utilisée, notamment en horticulture."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pteridium aquilinum",
+      "source_url": "https://pt.wikipedia.org/wiki/Pteridium_aquilinum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70155991,
+      "text": "Pteridium aquilinum (L.) Kuhn in Kersten (1879), conhecido pelos nomes comuns de samambaia, feto-comum, feteira, feiteira ou feito, é uma espécie de pteridófito pertencente à família Dennstaedtiaceae. A espécie integra um complexo específico até recentemente considerado como um a única espécie, o que faz dela um dos organismos vegetais de mais ampla distribuição, ocorrendo em todos os continentes, exceto na Antárctida. Dada a sua importância como infestante em pastagens e florestas, e o seu uso como alimento, é também o pteridófito com maior importância económica. O taxon que actualmente permanece como P. aquilinum ocorre em todas as regiões temperadas e subtropicais do Hemisfério Norte e em vastas áreas temperadas e subtropicais do Hemisfério Sul."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Pteridium aquilinum」の節「Toxicity」",
+        "source": "Wikipedia (en): Pteridium aquilinum § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Pteridium_aquilinum#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1376153257,
         "heading": "Toxicity",
         "text": "The plant contains the carcinogenic compound ptaquiloside. Ptaquiloside is known to cause haemorrhagic diseases in ruminants, tumours and haematological problems in non-ruminants, and is correlated with oesophageal and gastric cancer in humans. Chronic bracken consumption is also associated with upper digestive tract (UDT) squamous cell carcinomas in cattle (ruminants)—with the most aggressive and serious tumors located in the caudal (lower) UDT.\nHigh stomach cancer rates are found in Japan and North Wales, where the young stems are used as a vegetable, but it is unknown whether bracken plays any part or if the cancer can be attributed to another cause. Consumption of ptaquiloside-contaminated milk is thought to contribute to human gastric cancer in the Andean states of Venezuela. The spores have also been implicated as carcinogens. Consumption of contaminated water and meat may be dangerous as well.\nHowever, ptaquiloside is water-soluble, and is reduced by soaking bracken in cool water. Korean and Japanese cooks have traditionally soaked the shoots in water and ash to detoxify the plant before eating. Ptaquiloside also degenerates at room temperature, which explains why the rat studies were done with the toxin stored at −20 °C (−4 °F). At boiling temperature, the carcinogen denatures almost completely. Salt and baking soda also help with volatilizing the chemical.\nIt has been suggested that selenium supplementation can prevent as well as reverse the immunotoxic effects induced by ptaquiloside from Pteridium aquilinum.",
         "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Pteridium aquilinum § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Pteridium_aquilinum#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239999071,
+        "heading": "Toxicité",
+        "text": "Toutes les parties de la fougère aigle sont considérées comme toxiques en raison de leur teneur en aquilide A et en dérivés de cyanure ; les crosses dégagent d'ailleurs une odeur d'amande amère à la cuisson. D'après une étude faite au Japon, les crosses crues de fougère aigle pourraient contenir des substances cancérigènes, un hétéroside cyanogénétique (c'est-à-dire susceptible de produire du cyanure) ainsi qu'une enzyme (thiaminase) qui détruit la vitamine B1 dans l'organisme. Les frondes arrivées à maturité, qu'elles soient fraîches, cuites ou séchées, sont également toxiques.\nLes spores seraient la partie la plus cancérigène, et peuvent causer des problèmes chez le bétail. Les humains qui travaillent à l'extérieur là où il y a une abondance de fougères aigle risquent également d'être affectés par les spores en particulier lors de la dissémination des spores de juillet à octobre.\nLes animaux qui abusent de cette fougère (rongeurs, jeunes bovins en stabulation libre avec fougère utilisée comme litière) sont atteints d'une maladie mortelle nommée « ptéridisme » ou hématurie chronique. La forme aigüe rencontrée chez les animaux plus jeunes, est un cancer dû à l’aquilide A (ou ptaquiloside selon les auteurs). La maladie apparaît assez rapidement, soit 40 à 100 jours après le début de la consommation de quelques kilogrammes par jour de ce végétal et principalement chez les génisses. Cette molécule est aussi considérée comme mutagène. Il a été trouvé certaines substances dont le Ptaquiloside dans l'eau potable ce qui peut expliquer l'augmentation des cancers gastro-œsophagiens chez l'humain dans les zones riches en fougère aigle. Et le bétail s'en nourrissant, leur lait contient ces substances.",
+        "truncated": true
       }
     }
   },
@@ -222,7 +260,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -304,7 +342,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/17210060-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -312,7 +350,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/17210060-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001107402.webp",
@@ -325,6 +363,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

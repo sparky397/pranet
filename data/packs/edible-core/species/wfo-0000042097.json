@@ -57,53 +57,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウノコギリソウ"
     ],
-    "en": [
-      "Yarrow",
-      "common yarrow",
-      "Milfoil"
-    ],
-    "cy": [
-      "milddail"
-    ],
-    "es": [
-      "Milenrama"
-    ],
     "fr": [
-      "Achillée Millefeuille",
+      "Achillée millefeuille",
       "Herbe-à-Dinde",
       "Mille-Feuille",
       "achillée mille-feuilles"
     ],
+    "pt": [
+      "Milefólio"
+    ],
+    "id": [
+      "Daun seribu"
+    ],
     "zh": [
+      "蓍",
       "洋蓍草",
       "絲葉蓍",
-      "蓍",
       "蓍草",
       "蓍实"
-    ],
-    "nl": [
-      "Duizendblad"
-    ],
-    "cs": [
-      "řebříček obecný"
-    ],
-    "de": [
-      "Gemeine Schafgarbe"
-    ],
-    "fi": [
-      "siankärsämö"
-    ],
-    "ast": [
-      "cenoyina"
-    ],
-    "sl": [
-      "navadni rman"
     ],
     "pl": [
       "krwawnik pospolity"
@@ -135,8 +112,8 @@
     "sv": [
       "röllika"
     ],
-    "pt": [
-      "Milefólio"
+    "nl": [
+      "duizendblad"
     ],
     "is": [
       "Vallhumall"
@@ -152,6 +129,9 @@
     ],
     "stq": [
       "Duusendtakke"
+    ],
+    "fi": [
+      "siankärsämö"
     ],
     "uk": [
       "Деревій звичайний"
@@ -192,6 +172,9 @@
     "gl": [
       "Milfollas"
     ],
+    "de": [
+      "Gemeine Schafgarbe"
+    ],
     "sh": [
       "Hajdučka trava"
     ],
@@ -210,8 +193,17 @@
     "ca": [
       "milfulles"
     ],
+    "cy": [
+      "Milddail"
+    ],
+    "sl": [
+      "navadni rman"
+    ],
     "sgs": [
       "Kraužuolė"
+    ],
+    "cs": [
+      "řebříček obecný"
     ],
     "fa": [
       "بومادران"
@@ -242,9 +234,6 @@
     ],
     "tg": [
       "Бӯймодарон"
-    ],
-    "id": [
-      "Daun seribu"
     ],
     "be": [
       "Крываўнік лекавы"
@@ -320,13 +309,24 @@
     ],
     "th": [
       "ยาร์โรว์"
+    ],
+    "en": [
+      "Yarrow",
+      "common yarrow",
+      "Milfoil"
+    ],
+    "es": [
+      "Milenrama"
+    ],
+    "ast": [
+      "cenoyina"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q25408",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q25408",
   "search_names": {
@@ -337,32 +337,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウノコギリソウ」",
+      "source": "Wikipedia (ja): セイヨウノコギリソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107381605,
       "text": "セイヨウノコギリソウ は、ヨーロッパ原産のキク科ノコギリソウ属に分類される多年草の1種。英名はヤロウ (yarrow)。牧草学ではヤローとよび、ヒツジに好まれるとされる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Achillea millefolium」",
+      "source": "Wikipedia (en): Achillea millefolium",
       "source_url": "https://en.wikipedia.org/wiki/Achillea_millefolium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377049458,
       "text": "Achillea millefolium, commonly known as yarrow or common yarrow, is a flowering plant in the family Asteraceae. Growing to 1 metre tall, it is characterized by small whitish flowers, a tall stem of fernlike leaves, and a pungent odor."
+    },
+    "es": {
+      "source": "Wikipedia (es): Achillea millefolium",
+      "source_url": "https://es.wikipedia.org/wiki/Achillea_millefolium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174296139,
+      "text": "La milenrama, también conocida como perejil bravío o flor de la pluma, es una especie herbácea perteneciente a la familia de las compuestas (Asteraceae). Se caracteriza por unas pequeñas flores blancas las cuales se han utilizado durante siglos por sus propiedades medicinales. Aunque de origen euroasiático, hoy en día se encuentra en todos los continentes, ya que es una planta que se propaga muy fácilmente y se ha naturalizado en muchos sitios."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Achillée millefeuille",
+      "source_url": "https://fr.wikipedia.org/wiki/Achill%C3%A9e_millefeuille",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239019767,
+      "text": "L'Achillée millefeuille ou la Millefeuille est une espèce de plantes herbacées vivaces de la famille des Astéracées, cosmopolite dans l'hémisphère Nord. C'est une plante comestible dont on peut utiliser les feuilles et l'une des plantes le plus couramment utilisées en médecine traditionnelle depuis plus de 3 000 ans."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Milefólio",
+      "source_url": "https://pt.wikipedia.org/wiki/Milef%C3%B3lio",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69652941,
+      "text": "O milefólio, milenrama, erva-dos-carpinteiros, feiteirinha ou mil-folhas é uma espécie botânica pertencente à família Asteraceae. Sua folha é fragmentada em partes chamadas de folíolos e foliólulos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Daun seribu",
+      "source_url": "https://id.wikipedia.org/wiki/Daun_seribu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29411937,
+      "text": "Daun seribu atau Achillea millefolium adalah salah satu tanaman yang sering digunakan untuk bahan obat beberapa penyakit. Tumbuhan ini sering digunakan untuk obat nyeri saat haid dan sakit perut. Kandungan kimia dari tanaman ini adalah flovonoid, minyak atsiri dan polivenol. Untuk mengobati sakit perut dan nyeri haid, yang digunakan adalah daunnya, yaiu dengan cara merebus daun dan meminum air rebusannya. Daun seribu atau juga disebut yarrow sering digunakan sebagai pengobat luka. Gerard mengatakan bahwa daun seribu adalah tanaman yang sama dengan Achilles gunakan untuk mengobati luka pendarahan dari prajuritnya, maka nama genus tanaman ini adalah Achillea."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Achillea millefolium」の節「Cultivation」",
+        "source": "Wikipedia (en): Achillea millefolium § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Achillea_millefolium#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377049458,
         "heading": "Cultivation",
         "text": "Achillea millefolium is cultivated as an ornamental plant by many plant nurseries. It is planted in gardens and natural landscaping settings of diverse climates and styles. They include native plant, drought-tolerant, and wildlife gardens. The plant is a frequent component of butterfly gardens. The plant prefers well-drained soil in full sun, but can be grown in less ideal conditions. Field trials in Kansas found yarrow produced an average yield of 110,000 plants per hectare (43,000/acre), with a total dry weight of 11,800 kg/ha (10,500 pounds per acre).\n\n■ Propagation\nFor propagation, seeds require light for germination, so optimal germination occurs when planted no deeper than 6 mm (1⁄4 in). Seeds also require a germination temperature of 18–24 °C (64–75 °F). It has a relatively short life in some situations, but may be prolonged by division in the spring every other year, and planting 30 to 46 cm (12–18 in) apart. It can become invasive.\n\n■ Cultivars\n\nThe species use in traditional gardens has generally been superseded by cultivars with specific 'improved' qualities. Some are used as drought-tolerant lawns, with periodic mowing. The many different ornamental cultivars include: 'Paprika', 'Cerise Queen', 'Red Beauty', 'Red Velvet', 'Saucy Seduction', 'Strawberry Seduction' (red), 'Island Pink' (pink), 'Calistoga' (white), and 'Sonoma Coast' (white). The following are recipients of the Royal Horticultural Society's Award of Garden Merit:\n\n'Credo'\n'Lachsschönheit' (Galaxy Series)\n'Martina'\n'Lansdorferglut'\nThe many hybrids of this species designated Achillea × taygetea are useful garden subjects, including: 'Appleblossom', 'Fanal', 'Hoffnung', and 'Moonshine'.",
@@ -371,14 +407,25 @@
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Achillea millefolium」の節「Toxicity」",
+        "source": "Wikipedia (en): Achillea millefolium § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Achillea_millefolium#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377049458,
         "heading": "Toxicity",
         "text": "Yarrow can cause allergic skin rashes.\nAccording to the American Society for the Prevention of Cruelty to Animals, yarrow is toxic to dogs, cats, and horses, causing increased urination, vomiting, diarrhea and dermatitis. When consumed by cows, an unfavorable flavor is given to their milk.\nAdditionally, due to its superficial similarity to the highly toxic hemlock, the confusion of the two species can be deadly.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Achillea millefolium § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Achillea_millefolium#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174296139,
+        "heading": "Toxicidad",
+        "text": "Las partes aéreas de Achillea millefolium contienen sustancias cuya ingestión puede provocar efectos adversos sobre la salud, por la presencia de monoterpenos bicíclicos en el aceite esencial de la planta fresca, la planta seca, las flores y las hojas.​",
         "truncated": false
       }
     }
@@ -398,7 +445,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -549,7 +596,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/2294-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -557,7 +604,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/2294-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000042097.webp",
@@ -570,6 +617,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 268,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -24,36 +24,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウニワトコ",
       "ニワトコ"
-    ],
-    "en": [
-      "Elder",
-      "black elderberry"
-    ],
-    "de": [
-      "Schwarzer Holunder"
-    ],
-    "nl": [
-      "Gewone vlier"
-    ],
-    "cs": [
-      "bez černý"
-    ],
-    "fr": [
-      "sureau noir"
-    ],
-    "oc": [
-      "sampechier",
-      "sambuc",
-      "Saüc negre"
-    ],
-    "fi": [
-      "mustaselja"
     ],
     "zh": [
       "西洋接骨木",
@@ -61,12 +37,6 @@
       "接骨木叶",
       "接骨木花",
       "接骨木根"
-    ],
-    "ast": [
-      "xabú"
-    ],
-    "sl": [
-      "črni bezeg"
     ],
     "eu": [
       "Intsusa beltz"
@@ -80,6 +50,11 @@
     "bs": [
       "Zova"
     ],
+    "oc": [
+      "Saüc negre",
+      "sampechier",
+      "sambuc"
+    ],
     "hu": [
       "fekete bodza"
     ],
@@ -88,6 +63,9 @@
     ],
     "ba": [
       "Мәрәүәр ағасы"
+    ],
+    "nl": [
+      "gewone vlier"
     ],
     "ar": [
       "خمان أسود"
@@ -107,6 +85,9 @@
     "pfl": [
       "Holunder"
     ],
+    "fi": [
+      "mustaselja"
+    ],
     "uk": [
       "бузина чорна"
     ],
@@ -124,6 +105,9 @@
     ],
     "gl": [
       "Bieiteiro"
+    ],
+    "de": [
+      "Schwarzer Holunder"
     ],
     "kbd": [
       "Бэрэжьей"
@@ -148,6 +132,12 @@
     ],
     "cy": [
       "Ysgawen"
+    ],
+    "sl": [
+      "črni bezeg"
+    ],
+    "cs": [
+      "bez černý"
     ],
     "fa": [
       "آقطی سیاه"
@@ -262,13 +252,23 @@
     ],
     "mzn": [
       "انگیر کولی"
+    ],
+    "en": [
+      "Elder",
+      "black elderberry"
+    ],
+    "fr": [
+      "sureau noir"
+    ],
+    "ast": [
+      "xabú"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q22701",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q22701",
   "search_names": {
@@ -291,48 +291,108 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウニワトコ」",
+      "source": "Wikipedia (ja): セイヨウニワトコ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%8B%E3%83%AF%E3%83%88%E3%82%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110969699,
       "text": "セイヨウニワトコ は、ガマズミ科ニワトコ属の被子植物である。種小名の nigra とは｢黒い｣という意味であり、実は熟すと黒くなることから由来する。エルダーフラワーとも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sambucus nigra」",
+      "source": "Wikipedia (en): Sambucus nigra",
       "source_url": "https://en.wikipedia.org/wiki/Sambucus_nigra",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377030922,
       "text": "Sambucus nigra is a temperate species of tree or shrub in the family Viburnaceae native to the Azores, Europe, and the Middle East. Common names include elder, elderberry, black elder, European elder,  European elderberry, and European black elderberry. It grows in a variety of conditions including both wet and dry fertile soils, primarily in sunny locations. The plant is widely grown as an ornamental shrub or small tree."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sambucus nigra",
+      "source_url": "https://es.wikipedia.org/wiki/Sambucus_nigra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175397807,
+      "text": "El saúco negro, saúco común o, simplemente, saúco es una especie del género Sambucus, perteneciente a la familia Adoxaceae. Se le conoce también, erróneamente, como sahuco."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sambucus nigra",
+      "source_url": "https://fr.wikipedia.org/wiki/Sambucus_nigra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239630122,
+      "text": "Le Sureau noir (Sambucus nigra L., 1753), ou grand sureau, est une espèce d'arbrisseaux ou d'arbustes caducifoliés fruitier à croissance rapide. Il est présent en Europe, en Asie de l'Ouest et en Afrique du Nord. Il est utilisé en cuisine pour ses fruits et ses fleurs, toujours consommés cuits. Les fleurs de sureau sont couramment utilisées pour la préparation de la limonade au sureau, du sirop de sureau mais elle se cuisent aussi en beignets.\nLes fruits entrent habituellement dans la préparation de gâteaux et sont consommées en jus, en gelée et sous la forme de confiture de sureau.\nLes baies crues, qui contiennent un alcaloïde, détruit lors de la cuisson, sont en revanche laxatives et peuvent provoquer des nausées et des vomissements si elles sont consommées en grande quantité."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sambucus nigra",
+      "source_url": "https://pt.wikipedia.org/wiki/Sambucus_nigra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71215324,
+      "text": "Sambucus nigra L., comummente conhecida como sabugueiro, é uma espécie arbustiva pertencente ao género Sambucus da família das Adoxáceas, com distribuição natural na Europa e Norte de África, mas actualmente naturalizada em diversas zonas temperadas e subtropicais, incluindo algumas regiões do Brasil como Rio Grande do Sul."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Sambucus nigra」の節「Cultivation」",
+        "source": "Wikipedia (en): Sambucus nigra § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Sambucus_nigra#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1379252794,
         "heading": "Cultivation",
         "text": "S. nigra is grown as an ornamental shrub or small tree, especially in informal hedges, wildlife gardens and mixed borders. The species is also cultivated commercially for flowers and fruit. It is vigorous and adaptable, growing in sun or partial shade although it performs poorly in deep shade or dry conditions. It tolerates both wet and dry soils from sand to clay, but grows best on well-drained, organic-rich, slightly acidic soils, about pH 6.0–6.5. Plants for commercial plantations are usually propagated from own-rooted hardwood cuttings taken from one-year-old shoots. Propagation from seed is less common because seedlings are variable and the seeds have dormancy requirements. Weed control is important during establishment, as black elder competes poorly with other plants.\nSome selections and cultivars have variegated or coloured leaves and other distinctive qualities, and are grown as ornamental plants. S. nigra f. porphyrophylla has dark maroon or black leaves, and pale pink flowers. Leaf colour in purple- or golden-leaved cultivars is usually strongest in full sun.\nGarden plants need little pruning, but established plants can be hard pruned in late winter or early spring to restrict size or encourage fresh ornamental foliage. In commercial orchards, dormant pruning is usually begun from the second year, removing dead, damaged or diseased wood and stems older than three years, as productivity declines on four-year-old branches. Annual coppicing to ground level is generally not recommended since most commercial cultivars do not fruit on first-year canes.\nThe following cultivars have gained the Royal Horticultural Society's Award of Garden Merit:  \n\nS. nigra f. laciniata (cut-leaved elder)\nS. nigra f. porphyrophylla 'Eva' ('Black Lace')\nS. nigra f.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Sambucus nigra § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Sambucus_nigra#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175397807,
+        "heading": "Cultivo",
+        "text": "Tanto por semillas como por esquejes. Por semilla es algo difícil debido a complejas condiciones de letargo, abarcando a la cubierta de la semilla como al embrión.\nProbablemente sea muy bueno tratarlas con una \"estratificación cálida\" de  meses a temperaturas de 25 a 30 °C; y luego 3 a 5 meses de estratificación fría a 4-6 °C.\nEstas condiciones se dan naturalmente plantando las semillas a finales del verano, debiendo presentarse la germinación en la primavera siguiente.\nLas estacas de madera suave se enraízan con facilidad bajo vidrio, si se cogen en primavera o en otoño, siendo este el método más usado.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Sambucus nigra § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Sambucus_nigra#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71215324,
+        "heading": "Cultivo",
+        "text": "As variedades ornamentais de Sabugueiro são cultivadas em jardins por serem flores vistosas, frutas e folhas rendadas.\nEspécies nativas de sabugueiro são frequentemente plantadas por pessoas que desejem apoiar a borboleta nativa e espécies de aves.",
+        "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Sambucus nigra」の節「Toxicity」",
+        "source": "Wikipedia (en): Sambucus nigra § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Sambucus_nigra#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1379252794,
         "heading": "Toxicity",
         "text": "Components of the elderberry plant, including its fruit, contain diverse phytochemicals, such as alkaloids, lectins, and cyanogenic glycosides, which may be toxic if consumed raw.  The seeds and all green parts of the plant contain cyanogenic glycosides. Consumption of berries, leaves, bark or stems, if not properly prepared, may cause nausea, vomiting, and severe diarrhea. Elderberry plant constituents or products should not be consumed during pregnancy or by people with allergies or gastrointestinal diseases. Elderberry products may cause adverse effects when used with prescription drugs.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Sambucus nigra § Toxicidade",
+        "source_url": "https://pt.wikipedia.org/wiki/Sambucus_nigra#Toxicidade",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71215324,
+        "heading": "Toxicidade",
+        "text": "As folhas, galhos, ramos, sementes e raízes contêm um glicosídeo de cianeto de indução (glicosídeo que dá origem a cianeto quando processado pelo metabolismo). Ingerir qualquer destas peças em quantidade suficiente podem causar uma acumulação tóxica de cianeto no corpo.\nDevido à possibilidade de intoxicação por cianeto, as crianças devem ser desencorajados a fazer apitos, estilingues ou outros brinquedos de sabugueiro de madeira. Além disso, \"chás de ervas\" feito com folhas de sabugueiro (que contêm glicosídeos cianogénicos) devem ser tratados com muita cautela. No entanto, frutos maduros (polpa e pele) são seguros para comer.",
         "truncated": false
       }
     }
@@ -349,7 +409,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -434,7 +494,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30122169-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -442,7 +502,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30122169-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000439308.webp",
@@ -455,6 +515,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

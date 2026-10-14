@@ -11,9 +11,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "fa": [
+      "اقاقیا اکومیناتا"
+    ],
     "zh": [
       "尖叶相思树"
     ],
@@ -30,16 +33,13 @@
     "ru": [
       "Акация заостренная",
       "Akatsiia zaostrennaia"
-    ],
-    "fa": [
-      "اقاقیا اکومیناتا"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2707377",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2707377",
   "search_names": {
@@ -55,13 +55,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Acacia acuminata」",
+      "source": "Wikipedia (en): Acacia acuminata",
       "source_url": "https://en.wikipedia.org/wiki/Acacia_acuminata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1358074560,
       "text": "Acacia acuminata, commonly known as raspberry jam, jam, jam wattle, jamwood, jam tree, or raspberry wattle, is a species of flowering plant in the family Fabaceae and is endemic to the south-west of Western Australia. It is a tree with linear to narrowly elliptic phyllodes, spikes of golden-yellow flowers and papery to leathery pods."
+    },
+    "es": {
+      "source": "Wikipedia (es): Acacia acuminata",
+      "source_url": "https://es.wikipedia.org/wiki/Acacia_acuminata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171193267,
+      "text": "Acacia acuminata es un arbusto o árbol pequeño perteneciente a la familia de las leguminosas (Fabaceae) y endémico de Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Acacia acuminata",
+      "source_url": "https://fr.wikipedia.org/wiki/Acacia_acuminata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224659842,
+      "text": "Acacia acuminata est une espèce de plantes à fleurs de la famille des Fabacées. C'est un arbuste ou un petit arbre originaire d'Australie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Acacia acuminata",
+      "source_url": "https://pt.wikipedia.org/wiki/Acacia_acuminata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63177708,
+      "text": "Acacia acuminata é uma espécie de leguminosa do gênero Acacia, pertencente à família Fabaceae."
     }
   },
   "edible": {
@@ -76,7 +103,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -86,7 +113,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/469642-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -94,7 +121,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/469642-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000185281.webp",
@@ -107,6 +134,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 296,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

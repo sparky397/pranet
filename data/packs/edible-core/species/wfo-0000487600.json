@@ -35,21 +35,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "臺灣胡椒",
-      "大胡椒",
-      "台灣胡椒",
-      "台湾胡椒"
-    ],
-    "pt": [
-      "caapeba",
-      "pariparoba"
-    ],
     "vi": [
       "Lân hoa gié"
+    ],
+    "zh": [
+      "台湾胡椒",
+      "臺灣胡椒",
+      "大胡椒",
+      "台灣胡椒"
     ],
     "ml": [
       "അട്ടനാറി"
@@ -62,24 +58,55 @@
     ],
     "yue": [
       "大圓葉胡椒"
+    ],
+    "pt": [
+      "caapeba",
+      "pariparoba"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3015026",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3015026",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Piper umbellatum」",
+      "source": "Wikipedia (en): Piper umbellatum",
       "source_url": "https://en.wikipedia.org/wiki/Piper_umbellatum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377210294,
       "text": "Piper umbellatum, commonly known as cow-foot leaf, is a species of pepper plant native to the Americas, including Mexico, Central America, the Caribbean, and tropical regions of South America. It has been widely naturalized in other tropical regions of the world."
+    },
+    "es": {
+      "source": "Wikipedia (es): Piper umbellatum",
+      "source_url": "https://es.wikipedia.org/wiki/Piper_umbellatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 168087784,
+      "text": "Piper umbellatum es una planta herbácea perteneciente a la familia de las piperáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Piper umbellatum",
+      "source_url": "https://fr.wikipedia.org/wiki/Piper_umbellatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239881948,
+      "text": "Piper umbellatum est une espèce de plantes à fleurs de la famille des Piperaceae"
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Piper umbellatum",
+      "source_url": "https://pt.wikipedia.org/wiki/Piper_umbellatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73051069,
+      "text": "Piper umbellatum é uma espécie de Piper nativa das Américas. É conhecida no Brasil por muitos nomes populares como pariparoba, capeba, caapeba, caapeba-do-nordeste, guaxima, caafeba, caa-pena, caá-peuá, caena, capeba, catajé, jaguarandi, malvarisco, oguaxima. É amplamente distribuída no México, América Central, América do Sul e várias ilhas do Caribe; foi introduzida na África e no sudeste asiático, onde atualmente é naturalizada."
     }
   },
   "edible": {
@@ -92,7 +119,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -172,7 +199,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316339-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -180,7 +207,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316339-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000487600.webp",
@@ -193,6 +220,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

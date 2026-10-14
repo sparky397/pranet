@@ -13,7 +13,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -23,27 +23,11 @@
       "Abacá",
       "abaca"
     ],
-    "fi": [
-      "manilahamppu",
-      "Manilla"
-    ],
     "fr": [
       "Abaca"
     ],
-    "pt": [
-      "Abacá"
-    ],
-    "tr": [
-      "Abaka",
-      "Manila keneviri"
-    ],
-    "zh": [
-      "馬尼拉麻蕉",
-      "蕉麻"
-    ],
-    "sl": [
-      "vlaknati konopljevec",
-      "vlaknati bananovec"
+    "id": [
+      "Pisang abaka"
     ],
     "pam": [
       "Abaka"
@@ -63,9 +47,6 @@
     "de": [
       "Abacá"
     ],
-    "id": [
-      "Pisang abaka"
-    ],
     "ml": [
       "അബാക്കാ"
     ],
@@ -78,14 +59,25 @@
     "nl": [
       "Abaca"
     ],
+    "pt": [
+      "Abacá"
+    ],
     "ru": [
       "абака"
     ],
     "kn": [
       "ಮರಬಾಳೆ"
     ],
+    "tr": [
+      "Abaka",
+      "Manila keneviri"
+    ],
     "ca": [
       "abacà"
+    ],
+    "fi": [
+      "Manilla",
+      "manilahamppu"
     ],
     "uk": [
       "Абака"
@@ -104,6 +96,10 @@
     ],
     "da": [
       "Tekstil-Banan"
+    ],
+    "zh": [
+      "馬尼拉麻蕉",
+      "蕉麻"
     ],
     "tt": [
       "Җепселле банан"
@@ -155,13 +151,17 @@
     ],
     "arz": [
       "موز نسيجى"
+    ],
+    "sl": [
+      "vlaknati bananovec",
+      "vlaknati konopljevec"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161097",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161097",
   "search_names": {
@@ -175,36 +175,94 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「マニラアサ」",
+      "source": "Wikipedia (ja): マニラアサ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%A9%E3%82%A2%E3%82%B5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106821948,
       "text": "マニラアサ は、バショウ科バショウ属の多年草。丈夫な繊維が取れるため、繊維作物として経済的に重要である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Abacá」",
+      "source": "Wikipedia (en): Abacá",
       "source_url": "https://en.wikipedia.org/wiki/Abac%C3%A1",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357507186,
       "text": "Abacá, also known as Manila hemp, is a species of banana, Musa textilis, endemic to the Philippines. The plant grows to 13–22 feet (4.0–6.7 m) and has great economic importance, being harvested for its fiber extracted from the leaf-stems."
+    },
+    "es": {
+      "source": "Wikipedia (es): Musa textilis",
+      "source_url": "https://es.wikipedia.org/wiki/Musa_textilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175136638,
+      "text": "El abacá es una planta herbácea de gran porte, de la familia de las musáceas, nativa de las Filipinas. Su altura puede alcanzar los 5 metros y crece en lugares cálidos y lluviosos. Es bastante parecida al plátano, que pertenece al mismo género, pero se diferencia de este en que sus frutos no son comestibles y en tener un follaje más erguido y angosto. Además, es su fibra la que le confiere una especial valía económica, por su utilidad para la industria textil."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Abaca",
+      "source_url": "https://fr.wikipedia.org/wiki/Abaca",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235589271,
+      "text": "L'abaca, Musa textilis, est une espèce de plantes à fleurs de la famille des Musaceae. C'est un bananier originaire des Philippines."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Musa textilis",
+      "source_url": "https://pt.wikipedia.org/wiki/Musa_textilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67675339,
+      "text": "O Musa textilis ou ainda abacá, alvacá, cânhamo-de-manila é a fibra e a planta da família Musaceae É nativo das Filipinas e norte da Indonésia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pisang abaka",
+      "source_url": "https://id.wikipedia.org/wiki/Pisang_abaka",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29489334,
+      "text": "Pisang abaka adalah salah satu spesies pisang yang dibudidayakan di Indonesia, Filipina dan Ekuador melalui perkebunan. Suku Sangihe memanfaatkan serat dari pisang abaka untuk membuat kain tenun yang disebut koffo dan menjualnya secara barter di Kota Manado dan Kota Ternate. Sedangkan nelayan di Kepulauan Talaud telah tercatat telah memanfaatkan serat dari pisang abaka sebagai bahan pembuatan tali pengikat soma sejak tahun 1912."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Abacá」の節「Cultivation」",
+        "source": "Wikipedia (en): Abacá § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Abac%C3%A1#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1357507186,
         "heading": "Cultivation",
         "text": "The plant is normally grown in well-drained loamy soil, using rhizomes planted at the start of the rainy season. In addition, new plants can be started by seeds. Growers harvest abacá fields every three to eight months after an initial growth period of 12–25 months. Harvesting is done by removing the leaf-stems after flowering but before the fruit appears. The plant loses productivity between 15 and 40 years. The slopes of volcanoes provide a preferred growing environment. Harvesting generally includes several operations involving the leaf sheaths:\n\ntuxying (separation of primary and secondary sheath)\nstripping (getting the fibers)\ndrying (usually following the tradition of sun-drying).\nWhen the processing is complete, the bundles of fiber are pale and lustrous with a length of 6–12 feet (1.8–3.7 m).\nIn Costa Rica, more modern harvest and drying techniques are being developed to accommodate the very high yields obtained there.\nAccording to the Philippine Fiber Industry Development Authority, the Philippines provided 87.4% of the world's abacá in 2014, earning the Philippines US$111.33 million. The demand is still greater than the supply. The remainder came from Ecuador (12.5%) and Costa Rica (0.1%). The Bicol region in the Philippines produced 27,885 metric tons of abacá in 2014, the largest of any Philippine region.\nThe Philippine Rural Development Program (PRDP) and the Department of Agriculture reported that in 2009–2013, Bicol Region had a 39% share of Philippine abacá production of which an overwhelming 92% came from Catanduanes Island. Eastern Visayas, the second largest producer had 24% and the Davao Region, the third largest producer had 11% of the total production.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Abaca § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Abaca#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 235589271,
+        "heading": "Culture",
+        "text": "La culture de l’abaca commence aux Philippines à partir de 1830. L’occupation des Philippines par les États-Unis en 1904 marqua un tournant dans la production. Les Américains établissent des plantations dans l’île de Mindanao, dans la région de Davao et lancent des programmes de recherche en vue d’améliorer le rendement et la qualité des fibres. Quelques années plus tard, les Japonais, pourvus d’importants capitaux s’installent aussi à Davao.\nJusque dans les années 1920, il n’existait pas ou peu de cultures commerciales en dehors des Philippines.\nSelon des estimations de la FAO, la production mondiale annuelle moyenne de fibres d’abaca en 2001–2005 était d’environ 99 000 t. Les principaux producteurs étaient les Philippines avec une moyenne annuelle d’environ 69 000 t et l’Équateur avec environ 28 000 t.\nEn 2020, les deux plus gros producteurs d’abaca sont les Philippines et l’Équateur, suivis de loin par le Costa Rica et l’Indonésie.\n\nL’abaca a besoin des conditions chaudes et humides des tropiques pour bien pousser. Il est cultivé avec succès à des latitudes comprises entre 5°S et 15°N, avec une température moyenne de 27 °C, et une humidité relative d’environ 80 %.\nQuand le premier pseudo-tronc pousse à partir de semis, de nombreux drageons commencent également à pousser à la base de la plante. Les plantes provenant de drageons d'un an peuvent fleurir 10–12 mois après leur transplantation, et celles provenant de cormes (organe de réserve souterrain) après 16 à 18 mois.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Pisang abaka § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Pisang_abaka#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29489334,
+        "heading": "Budidaya",
+        "text": "Pisang abaka menjadi salah satu tanaman yang dibudidayakan di Indonesia, Filipina dan Ekuador untuk produksi serat abaka. Filipina dan Ekuador menjadi negara produsen utama untuk serat abaka. Produksi tahunan serat abaka di Filipina sekitar 80 ribu ton. Sedangkan produksi tahunan serat abaka di Ekuador sekitar 20 ribu ton. Produksi serat abaka di Filipina dan Indonesia umumnya berkurang ketika perkebunan pisang abaka rusak akibat topan atau penyakit layu oleh virus tumbuhan yaitu Fusarium oxysporum f.sp. cubense.",
+        "truncated": false
       }
     }
   },
@@ -218,7 +276,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -240,7 +298,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/797617-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "herbaceous tree",
@@ -248,7 +306,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/797617-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000475111.webp",
@@ -261,6 +319,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

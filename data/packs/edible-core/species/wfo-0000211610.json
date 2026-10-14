@@ -20,7 +20,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -29,10 +29,15 @@
     "en": [
       "Rooibos"
     ],
-    "zh": [
-      "松雀花",
-      "路易波士茶",
-      "博士茶"
+    "fr": [
+      "Rooibos",
+      "rooibos"
+    ],
+    "pt": [
+      "Rooibos"
+    ],
+    "id": [
+      "Rooibos"
     ],
     "lb": [
       "Rooibos"
@@ -42,9 +47,6 @@
     ],
     "ko": [
       "루이보스"
-    ],
-    "fr": [
-      "rooibos"
     ],
     "es": [
       "rooibos"
@@ -67,9 +69,6 @@
     "de": [
       "Rooibos"
     ],
-    "id": [
-      "Rooibos"
-    ],
     "br": [
       "Te ruz"
     ],
@@ -78,9 +77,6 @@
     ],
     "sv": [
       "rooibos"
-    ],
-    "pt": [
-      "Rooibos"
     ],
     "ru": [
       "Ройбос"
@@ -105,6 +101,11 @@
     ],
     "da": [
       "Rooibos"
+    ],
+    "zh": [
+      "博士茶",
+      "松雀花",
+      "路易波士茶"
     ],
     "kk": [
       "Ройбұш"
@@ -168,7 +169,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q272181",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q272181",
   "search_names": {
@@ -181,35 +182,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ルイボス」",
+      "source": "Wikipedia (ja): ルイボス",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%83%9C%E3%82%B9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110552318,
       "text": "ルイボス はマメ亜科のアスパラトゥス属の一種である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Rooibos」",
+      "source": "Wikipedia (en): Rooibos",
       "source_url": "https://en.wikipedia.org/wiki/Rooibos",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371970483,
       "text": "Rooibos, or Aspalathus linearis, is a broom-like member of the plant family Fabaceae that grows in South Africa's Fynbos biome. The leaves are used to make a caffeine-free herbal infusion that has been consumed in Southern Africa for generations. Internationally since the early 2000s, rooibos became more commonly consumed, possibly due to its earthy flavour and aroma similar to those of yerba mate or tobacco."
+    },
+    "es": {
+      "source": "Wikipedia (es): Aspalathus linearis",
+      "source_url": "https://es.wikipedia.org/wiki/Aspalathus_linearis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172407446,
+      "text": "El rooibos es una planta de origen sudafricano cuyo nombre en afrikáans significa arbusto rojo y se pronuncia «roibos». Es muy popular debido al uso que se hace de sus hojas en preparaciones como infusiones, al que también se le conoce como té rooibos pero que no debe confundirse con el té rojo pu-erh, ya que realmente no proviene de la planta del té."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rooibos",
+      "source_url": "https://fr.wikipedia.org/wiki/Rooibos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238232291,
+      "text": "Le rooibos, Aspalathus linearis, est une espèce de plantes à fleurs de la famille des Fabacées. C'est un buisson qui est aussi parfois appelé buisson rouge."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Rooibos",
+      "source_url": "https://pt.wikipedia.org/wiki/Rooibos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73134682,
+      "text": "Rooibos é um arbusto da família das leguminosas. A planta é usada para fazer uma infusão (chá) chamada de chá-de-rooibos em Portugal. O consumo da infusão de rooibos está bastante difundido na África do Sul há muitas gerações e tem conquistado espaço em muitos países nas últimas duas décadas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Rooibos",
+      "source_url": "https://id.wikipedia.org/wiki/Rooibos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29675972,
+      "text": "Rooibos, adalah anggota dari keluarga Fabaceae dan digunakan sebagai minuman yang bukan terbuat dari teh yang disebut tisane. Biasanya disebut teh merah Afrika Selatan, produk ini tidak hanya populer di Afrika Selatan tetapi juga di banyak negara lain di dunia."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Rooibos」の節「Cultivation」",
+        "source": "Wikipedia (en): Rooibos § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Rooibos#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1371970483,
         "heading": "Cultivation",
         "text": "Rooibos is farmed exclusively in a 60,000 ha (150,000 acres) area in the Cederberg region of South Africa, some 155 mi (249 km) north of Cape Town. The rooibos industry is a major employer during the summer months of harvesting. Workers cut the bushes, which are initially green, then lay them in the sun to dry, a process turning the rooibos leaves into a dark red color. After it has been processed and sterilized, rooibos is ready for local markets or export.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Aspalathus linearis § Producción",
+        "source_url": "https://es.wikipedia.org/wiki/Aspalathus_linearis#Producci%C3%B3n",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 172407446,
+        "heading": "Producción",
+        "text": "La planta del rooibos (familia de las legumbres) se cultiva solamente en la región de Cederberg incluida en la provincia Occidental del Cabo.​​ Incluye a una gran familia que alcanza a más de 200 variedades.​ Las hojas del árbol se dejan oxidar al sol y se refiere popularmente a este proceso como una fermentación (no se trata técnicamente de una fermentación, se denomina así para hacer una equivalencia con la producción del té). Este proceso oxidativo es el que le proporciona a la planta el sabor y el color 'rojo' característico. Existe igualmente una producción \"no fermentada\" (es decir no oxidada) que se denomina rooibos verde (pretendiendo hacer una denominación similar con el té verde). Esta variedad se comercializa a un precio mayor que la variedad \"fermentada\" y posee un color amarillento característico; posee una gran cantidad de polifenoles antioxidantes.\nEl comienzo del consumo de rooibos se remonta al siglo XVII.​",
         "truncated": false
       }
     }
@@ -226,7 +274,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -236,7 +284,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/475647-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -244,7 +292,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/475647-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000211610.webp",
@@ -257,6 +305,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

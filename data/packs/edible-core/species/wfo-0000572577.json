@@ -30,7 +30,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -40,25 +40,12 @@
       "Paper mulberry",
       "paper mulberry"
     ],
-    "zh": [
-      "構樹",
-      "构树",
-      "谷皮藤",
-      "构树‘（楮、構)",
-      "藤构",
-      "构",
-      "楮实",
-      "褚茎",
-      "楮树白皮",
-      "楮树根",
-      "楮皮间白汁",
-      "褚叶"
+    "pt": [
+      "Amoreira-do-papel"
     ],
     "id": [
-      "Daluang"
-    ],
-    "sl": [
-      "navadna papirjevka"
+      "Daluang",
+      "daluang"
     ],
     "az": [
       "Kağızıağac"
@@ -89,6 +76,20 @@
     ],
     "vi": [
       "Dướng"
+    ],
+    "zh": [
+      "構樹",
+      "构树",
+      "谷皮藤",
+      "构树‘（楮、構)",
+      "藤构",
+      "构",
+      "楮实",
+      "褚茎",
+      "楮树白皮",
+      "楮树根",
+      "楮皮间白汁",
+      "褚叶"
     ],
     "hu": [
       "kínai papíreperfa"
@@ -159,6 +160,9 @@
     "be": [
       "брусанецыя папяровая"
     ],
+    "sl": [
+      "navadna papirjevka"
+    ],
     "cs": [
       "papírovník čínský"
     ],
@@ -173,27 +177,78 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q389185",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q389185",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カジノキ」",
+      "source": "Wikipedia (ja): カジノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B8%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108680055,
       "text": "カジノキ は、クワ科コウゾ属の落葉高木。単にカジ（梶）またはコウ（構）ともよばれる。枝の繊維は和紙の原料として用いられる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Paper mulberry」",
+      "source": "Wikipedia (en): Paper mulberry",
       "source_url": "https://en.wikipedia.org/wiki/Paper_mulberry",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376091853,
       "text": "The paper mulberry is a species of flowering tree in the family Moraceae. It is native to East and Southeast Asia, including mainland China, Hong Kong, India, Japan, Korea, Myanmar and Taiwan. It is widely cultivated elsewhere as an introduced species in New Zealand, parts of Europe, the United States, and Africa. The tree is valued for its versatile uses. Its inner bark is traditionally processed into barkcloth and is also an important raw material in papermaking."
+    },
+    "es": {
+      "source": "Wikipedia (es): Broussonetia papyrifera",
+      "source_url": "https://es.wikipedia.org/wiki/Broussonetia_papyrifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174973851,
+      "text": "La morera del papel o mora turca, es una especie de la familia Moraceae, nativa de Asia oriental y cultivada en el Extremo Oriente desde hace siglos para su utilización en la fabricación de papel."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Broussonetia papyrifera",
+      "source_url": "https://fr.wikipedia.org/wiki/Broussonetia_papyrifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240074758,
+      "text": "Le Mûrier à papier, Mûrier d'Espagne, Broussonétia à papier ou encore en Nouvelle-Calédonie, Arbre à tapa, est une espèce de plantes à fleurs de la famille des Moraceae. C'est un arbre dioïque à feuillage caduc originaire d'Asie orientale et du Sud-Est asiatique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Amoreira-do-papel",
+      "source_url": "https://pt.wikipedia.org/wiki/Amoreira-do-papel",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63817234,
+      "text": "A amoreira-do-papel é uma planta dicotiledónea da família das Moraceae, que contém as figueiras e as amoreiras. É nativa da Ásia, onde é usada como fonte de fibras, alimento e medicamentos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Daluang",
+      "source_url": "https://id.wikipedia.org/wiki/Daluang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29810077,
+      "text": "Daluang atau jeluang adalah sebutan untuk tumbuhan Broussonetia papyrifera maupun produknya, yang berupa lembaran dari pepagan yang dipakai sebagai bahan untuk berbagai keperluan. Pepagan daluang yang diawetkan dipakai di Jawa, di Kalimantan, serta di Polinesia sebagai semacam kulit: untuk bahan pakaian, pelapis, serta bahan tas. Penggunaan untuk busana juga ditemukan di Polinesia. Kertas yang dibuat dari kulit kayu ini digunakan sebagai pengganti media tulis dan gambar di Jawa dan beberapa pulau lain. Banyak naskah kuna Nusantara menggunakan daluang sebagai media penulisannya di saat kertas modern belum diperkenalkan. Kertas daluang yang diperkeras dipakai dalam wayang beber sebagai media untuk menggambar."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Broussonetia papyrifera § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Broussonetia_papyrifera#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240074758,
+        "heading": "Culture",
+        "text": "La multiplication du mûrier à papier se fait par graines ou boutures (de -8 à 12 cm prélevées en fin d’été). Il se sème au printemps et sous verre dans les latitudes européennes. Une fois bien enraciné, il peut résister à environ −12 °C.\nDe croissance assez rapide, il est tolérant à la sécheresse une fois installé (fréquent en Provence). Il supporte bien les terres calcaires, mais pas les excès d'humidité. Ses racines émettent des rejets même à longue distance, ce qui le rend envahissant.\nLe mûrier à papier est souvent employé pour ombrager les terrasses dans le Midi.\nEn Asie, quand il est recherché pour sa fibre, il est cultivé aussi bien en terrain plat, ce qui permet une récolte facile, qu'à flanc de colline, où les terrains sont moins prisés pour les autres cultures. Il s'accommode aussi bien des terres sèches que des terrains humides. Sa culture est assez facile mais celle du Brousonnetia kazinoki étant plus simple, les deux espèces sont souvent plantées en mélange dans les champs. Les arbustes cultivés donnent de meilleures fibres que les arbustes sauvages ; celles-ci sont épaisses, longues et résistantes. La récolte des tiges peut avoir lieu chaque année. Les arbustes fournissent des écorces utilisées depuis toujours en Asie orientale et dans l'arc pacifique. Elles sont principalement employées dans la fabrication du papier, mais aussi en médecine traditionnelle comme le sont les feuilles et les fruits de l'arbuste.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -211,7 +266,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -309,7 +364,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/850861-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -317,7 +372,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/850861-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000572577.webp",
@@ -330,6 +385,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -13,21 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "pt": [
-      "sacha inchi",
-      "amendoim-inca"
-    ],
-    "ja": [
-      "サッチャインチ",
-      "サチャインチ"
-    ],
-    "zh": [
-      "星油藤",
-      "印加果"
-    ],
     "ca": [
       "Sacha inchi"
     ],
@@ -36,6 +24,10 @@
     ],
     "my": [
       "ကြယ်ပဲ"
+    ],
+    "ja": [
+      "サッチャインチ",
+      "サチャインチ"
     ],
     "th": [
       "ถั่วดาวอินคา"
@@ -48,13 +40,21 @@
     ],
     "arz": [
       "بلوكينيتيا وليلى"
+    ],
+    "zh": [
+      "印加果",
+      "星油藤"
+    ],
+    "pt": [
+      "sacha inchi",
+      "amendoim-inca"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q958569",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q958569",
   "search_names": {
@@ -68,23 +68,41 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Plukenetia volubilis」",
+      "source": "Wikipedia (en): Plukenetia volubilis",
       "source_url": "https://en.wikipedia.org/wiki/Plukenetia_volubilis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368811987,
       "text": "Plukenetia volubilis, commonly known as sacha inchi, sacha peanut, mountain peanut, Inca nut or Inca-peanut, is a perennial plant in the family Euphorbiaceae, having small trichomes on its leaves."
+    },
+    "es": {
+      "source": "Wikipedia (es): Plukenetia volubilis",
+      "source_url": "https://es.wikipedia.org/wiki/Plukenetia_volubilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581214,
+      "text": "El inchi,[cita requerida] sacha inchi, sacha maní, maní del Inca o maní jíbaro, es una planta semileñosa y perenne, de la familia de las euforbiáceas, originaria de gran parte de la América del Sur tropical, así mismo se encuentra en el Caribe."
+    },
+    "id": {
+      "source": "Wikipedia (id): Plukenetia volubilis",
+      "source_url": "https://id.wikipedia.org/wiki/Plukenetia_volubilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28100422,
+      "text": "Plukenetia volubilis, yang umum dikenal sebagai sacha inchi, kacang sacha, kacang gunung, atau kacang Inka, adalah tanaman menahun dari famili Euphorbiaceae yang memiliki trikoma kecil pada daunnya."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Plukenetia volubilis」の節「Toxicity」",
+        "source": "Wikipedia (en): Plukenetia volubilis § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Plukenetia_volubilis#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1368811987,
         "heading": "Toxicity",
         "text": "When raw, P. volubilis seeds and leaves contain appreciable amounts of alkaloids, saponins, and lectins which may be toxic if consumed before cooking, but are degraded by roasting.",
@@ -102,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -119,7 +137,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/354970-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing shrub",
@@ -127,7 +145,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/354970-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000279052.webp",
@@ -140,6 +158,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

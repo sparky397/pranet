@@ -13,30 +13,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "fi": [
-      "Sirotraakkipuu"
-    ],
-    "zh": [
-      "百合竹"
-    ],
-    "ar": [
-      "أيدع منعكس"
-    ],
-    "fa": [
-      "درخت گلبانگ هند",
-      "دراسینا مارگیناتا"
-    ],
     "fr": [
-      "Bois de chandelle"
-    ],
-    "lt": [
-      "Pleomelė"
-    ],
-    "ml": [
-      "ഡ്രസീന റിഫ്ലെക്സ"
+      "Bois de chandelle",
+      "bois de chandelle"
     ],
     "pl": [
       "Dracena odwrócona"
@@ -44,32 +26,93 @@
     "ru": [
       "Драцена отогнутая"
     ],
+    "lt": [
+      "Pleomelė"
+    ],
     "sv": [
       "Guldbandsdracena"
+    ],
+    "fa": [
+      "دراسینا مارگیناتا",
+      "درخت گلبانگ هند"
+    ],
+    "ar": [
+      "أيدع منعكس"
+    ],
+    "zh": [
+      "百合竹"
+    ],
+    "ml": [
+      "ഡ്രസീന റിഫ്ലെക്സ"
     ],
     "arz": [
       "ايدع منعكس"
     ],
     "he": [
       "דרקונית מופשלת"
+    ],
+    "fi": [
+      "Sirotraakkipuu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q135016",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q135016",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Dracaena reflexa」",
+      "source": "Wikipedia (en): Dracaena reflexa",
       "source_url": "https://en.wikipedia.org/wiki/Dracaena_reflexa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1337303459,
       "text": "Dracaena reflexa is a tree native to Mozambique, Madagascar, Mauritius, and other nearby islands of the Indian Ocean. It is widely grown as an ornamental plant and houseplant, valued for its richly coloured, evergreen leaves, and thick, irregular stems."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dracaena reflexa",
+      "source_url": "https://es.wikipedia.org/wiki/Dracaena_reflexa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 150874136,
+      "text": "Dracaena reflexa Lam. es una especie de árbol perteneciente a la familia de las asparagáceas, anteriormente incluida en las ruscáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bois de chandelle",
+      "source_url": "https://fr.wikipedia.org/wiki/Bois_de_chandelle",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236237751,
+      "text": "Le bois de chandelle est une espèce de plantes à fleurs de la famille des Liliaceae selon la classification classique ou des Asparagaceae selon la classification phylogénétique."
+    },
+    "id": {
+      "source": "Wikipedia (id): Dracaena reflexa",
+      "source_url": "https://id.wikipedia.org/wiki/Dracaena_reflexa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30024073,
+      "text": "Dracaena reflexa adalah tanaman hias sejenis tumbuhan suji yang berasal dari Samudera Hindia."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Bois de chandelle § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Bois_de_chandelle#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236237751,
+        "heading": "Culture",
+        "text": "C'est une plante ornementale très appréciée. Elle peut se cultiver en intérieur ou en pleine terre dans les zones à climat méditerranéen et climat tropical, mais elle ne supporte pas longtemps une température inférieure à 10 °C ni le soleil direct. Originaire de régions chaudes du globe, la plante apprécie un environnement chaud et lumineux. L'arrosage doit se faire 2 fois par semaine maximum en été et 1 fois par semaine en hiver.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -84,7 +127,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -106,7 +149,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/534338-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -114,7 +157,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/534338-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000765906.webp",
@@ -127,6 +170,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 225,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -30,19 +30,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "马里帕直叶椰子",
-      "亚达里棕",
-      "马里帕棕榈"
-    ],
     "pt": [
       "Inajá"
     ],
     "gn": [
       "Inaja"
+    ],
+    "zh": [
+      "马里帕棕榈",
+      "马里帕直叶椰子",
+      "亚达里棕"
     ],
     "mwl": [
       "Iñaja"
@@ -55,7 +55,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2708422",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2708422",
   "search_names": {
@@ -82,13 +82,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Attalea maripa」",
+      "source": "Wikipedia (en): Attalea maripa",
       "source_url": "https://en.wikipedia.org/wiki/Attalea_maripa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314362277,
       "text": "Attalea maripa, commonly called maripa palm is a palm native to tropical South America and Trinidad and Tobago. It grows up 35 m (115 ft) tall and can have leaves or fronds 10–12 m (33–39 ft) long, bearing up to 636 leaflets. This plant has a yellow edible fruit which is oblong ovoid and cream. An edible oil can be extracted from the pulp of the fruit and from the kernel of the seed."
+    },
+    "es": {
+      "source": "Wikipedia (es): Attalea maripa",
+      "source_url": "https://es.wikipedia.org/wiki/Attalea_maripa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172660066,
+      "text": "Attalea maripa, palma maripa, es una especie de planta fanerógama de la familia Arecaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Attalea maripa",
+      "source_url": "https://fr.wikipedia.org/wiki/Attalea_maripa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238407388,
+      "text": "Attalea maripa est une espèce de plantes à fleurs de la familles des Arecaceae d'origine sud-américaine."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Inajá",
+      "source_url": "https://pt.wikipedia.org/wiki/Inaj%C3%A1",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71583470,
+      "text": "Inajá, também conhecida como anaiá, anajá, aritá, inajazeiro, maripá e najá, é uma palmeira nativa da região norte do Brasil, sendo Roraima e Amapá os estados de maior concentração. Alcança até 20 metros de altura e possui estipe anelado, com palmito nobre, folhas dispostas em cinco direções e inflorescências interfoliares. Os frutos do inajá tem uma polpa suculenta e comestível e possuem uma amêndoa, de onde se pode extrair um óleo amarelo, que pode chegar até 4.000 litros por hectare."
     }
   },
   "edible": {
@@ -102,7 +129,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -123,7 +150,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664452-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -131,7 +158,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664452-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000296358.webp",
@@ -144,6 +171,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -13,41 +13,54 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Dwarf Elder",
-      "danewort, dwarf elder",
-      "dwarf elderberry"
+    "eu": [
+      "Andura",
+      "Zihaurri"
+    ],
+    "pl": [
+      "Bez hebd"
+    ],
+    "ru": [
+      "бузина травянистая"
+    ],
+    "ro": [
+      "boz"
+    ],
+    "ca": [
+      "évol"
+    ],
+    "hu": [
+      "földi bodza"
+    ],
+    "fi": [
+      "ruohoselja"
+    ],
+    "uk": [
+      "бузина трав'яна",
+      "Бузина трав'яниста"
+    ],
+    "co": [
+      "Sambuchellu"
+    ],
+    "gl": [
+      "engo"
     ],
     "de": [
       "Zwerg-Holunder",
       "Attich"
     ],
-    "az": [
-      "Otşəkilli gəndalaş",
-      "Otşəkilli gəndəlaş"
+    "os": [
+      "Уанцъылы"
     ],
     "bg": [
-      "Бъзак"
+      "бъзак"
     ],
-    "ca": [
-      "Évol"
-    ],
-    "co": [
-      "Sambuchellu"
-    ],
-    "da": [
-      "Sommer-Hyld"
-    ],
-    "eu": [
-      "Andura",
-      "Zihaurri"
-    ],
-    "fr": [
-      "Sureau hièble",
-      "yèble"
+    "az": [
+      "Otşəkilli gəndəlaş",
+      "Otşəkilli gəndalaş"
     ],
     "hr": [
       "Abdovina"
@@ -55,55 +68,17 @@
     "hsb": [
       "Małka bozanka"
     ],
-    "hu": [
-      "földi bodza"
-    ],
     "nl": [
-      "kruidvlier"
-    ],
-    "pl": [
-      "bez hebd"
-    ],
-    "ro": [
-      "Boz"
-    ],
-    "sv": [
-      "Sommarfläder"
-    ],
-    "tr": [
-      "Bodur mürver"
-    ],
-    "uk": [
-      "Бузина трав'яниста",
-      "бузина трав'яна"
-    ],
-    "cs": [
-      "bez chebdí"
-    ],
-    "fi": [
-      "ruohoselja"
-    ],
-    "zh": [
-      "矮接骨木"
-    ],
-    "ast": [
-      "llaberón"
-    ],
-    "sl": [
-      "smrdljivi bezeg",
-      "habat"
-    ],
-    "ru": [
-      "бузина травянистая"
-    ],
-    "gl": [
-      "engo"
-    ],
-    "os": [
-      "Уанцъылы"
+      "Kruidvlier"
     ],
     "ar": [
       "خمان قزم"
+    ],
+    "da": [
+      "Sommer-Hyld"
+    ],
+    "sv": [
+      "Sommarfläder"
     ],
     "sk": [
       "baza chabzdová"
@@ -126,6 +101,9 @@
     "cy": [
       "Ysgawen Fair"
     ],
+    "cs": [
+      "bez chebdí"
+    ],
     "is": [
       "Evrópudvergyllir"
     ],
@@ -141,36 +119,85 @@
     "br": [
       "Skav-bihan"
     ],
+    "zh": [
+      "矮接骨木"
+    ],
     "yue": [
       "矮接骨木"
+    ],
+    "sl": [
+      "smrdljivi bezeg",
+      "habat"
+    ],
+    "en": [
+      "Dwarf Elder",
+      "danewort, dwarf elder",
+      "dwarf elderberry"
+    ],
+    "fr": [
+      "Sureau hièble",
+      "yèble"
+    ],
+    "tr": [
+      "Bodur mürver"
+    ],
+    "ast": [
+      "llaberón"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158515",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158515",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sambucus ebulus」",
+      "source": "Wikipedia (en): Sambucus ebulus",
       "source_url": "https://en.wikipedia.org/wiki/Sambucus_ebulus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372966966,
       "text": "Sambucus ebulus, also known as danewort, dane weed, danesblood, dwarf elder or European dwarf elder, walewort, dwarf elderberry, elderwort and blood hilder, is a herbaceous species of elder, native to southern and central Europe and southwest Asia. The species is a well-established archaeophyte in much of the UK, and is also reportedly naturalized in parts of North America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sambucus ebulus",
+      "source_url": "https://es.wikipedia.org/wiki/Sambucus_ebulus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173550346,
+      "text": "Sambucus ebulus, el saúco menor o yezgo, es una especie herbácea de las adoxáceas, nativa del sur y centro de Europa, y del sudoeste de Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sambucus ebulus",
+      "source_url": "https://fr.wikipedia.org/wiki/Sambucus_ebulus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238195351,
+      "text": "Sambucus ebulus, l'Hièble, est une espèce de plantes à fleurs dicotylédones, de la famille des Adoxaceae selon la classification phylogénétique APGIII. C'est une plante herbacée à port dressé, ne dépassant pas 2 m de haut et qui disparaît en hiver. Elle est toxique pour les humains qui peuvent la confondre avec d'autres sureaux."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sambucus ebulus",
+      "source_url": "https://pt.wikipedia.org/wiki/Sambucus_ebulus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73153613,
+      "text": "Sambucus ebulus L., comummente conhecido como sabugueiro-anão ou ébulo, é uma espécie herbácea pertencente à família das Caprifoliáceas, nativa do centro e sul da Europa e do sudoeste da Ásia."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Sambucus ebulus」の節「Toxicity」",
+        "source": "Wikipedia (en): Sambucus ebulus § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Sambucus_ebulus#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1372966966,
         "heading": "Toxicity",
         "text": "All parts of the plant are toxic, especially the seeds. Much like the fruits of other elder species, this toxicity can be neutralized via cooking.",
@@ -191,7 +218,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -249,7 +276,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/149315-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -257,7 +284,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/149315-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000439387.webp",
@@ -270,6 +297,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

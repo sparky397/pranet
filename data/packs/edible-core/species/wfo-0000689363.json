@@ -21,9 +21,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "id": [
+      "Uyah-uyahan"
+    ],
     "ar": [
       "تين جبلي"
     ],
@@ -35,27 +38,33 @@
     ],
     "hr": [
       "Smokva hrastovača"
-    ],
-    "id": [
-      "Uyah-uyahan"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5446619",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5446619",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ficus montana」",
+      "source": "Wikipedia (en): Ficus montana",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_montana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373433249,
       "text": "Ficus montana is a species of subtropical climbing fig. It is a subshrub or shrub native to Bangladesh, western Indochina and western Malesia. Leaves are 3 to 5 inches long. The leaves are shaped like oak leaves which gives its common name. It is grown as a houseplant, in offices and in shopping malls. It is slow growing. It is often confused with the tiny F. pumila quercifolia, which is a vining species that creeps on the surface of soil. The Latin specific epithet montana refers to mountains or coming from mountains."
+    },
+    "id": {
+      "source": "Wikipedia (id): Uyah-uyahan",
+      "source_url": "https://id.wikipedia.org/wiki/Uyah-uyahan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29728968,
+      "text": "Uyah-uyahan atau amis mata adalah spesies tanaman ara pegunungan subtropis. Daunnya panjangnya 3 sampai 5 inci. Daunnya berbentuk seperti daun oak yang menjadi nama umumnya. Ini ditanam sebagai tanaman hias, di perkantoran dan di pusat perbelanjaan. Pertumbuhannya lambat. Sering kali tertukar dengan F. pumila quercifolia kecil, yaitu spesies merambat yang merambat di permukaan tanah. Julukan khusus Latin montana mengacu pada pegunungan atau berasal dari pegunungan."
     }
   },
   "edible": {
@@ -69,7 +78,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -89,7 +98,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853240-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -97,7 +106,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853240-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000689363.webp",
@@ -110,6 +119,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 274,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -18,9 +18,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "id": [
+      "Ancak"
+    ],
     "zh": [
       "心叶榕"
     ],
@@ -36,9 +39,6 @@
     "ban": [
       "Ancak"
     ],
-    "id": [
-      "Ancak"
-    ],
     "su": [
       "Ancak"
     ]
@@ -47,18 +47,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3071424",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3071424",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ficus rumphii」",
+      "source": "Wikipedia (en): Ficus rumphii",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_rumphii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373496501,
       "text": "Ficus rumphii is a banyan fig species in the family Moraceae. The species can be found in India, Nepal, Bangladesh, southern China (Yunnan), Indo-China, and Peninsular Malaysia, Java, the Lesser Sunda Islands, Sulawesi, and Maluku in Malesia. In Vietnam it may be called lâm vồ or đa mít."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ficus rumphii",
+      "source_url": "https://fr.wikipedia.org/wiki/Ficus_rumphii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 214827374,
+      "text": "Ficus rumphii est une espèce d'arbres de la famille des Moraceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Ancak",
+      "source_url": "https://id.wikipedia.org/wiki/Ancak",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29691004,
+      "text": "Ancak, dikenal pula dengan sebutan beringin Jawa atau kresek adalah tanaman dari genus Ficus dari keluarga Ara, Moraceae."
     }
   },
   "edible": {
@@ -72,7 +90,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853626-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -107,7 +125,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853626-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000690150.webp",
@@ -120,6 +138,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 278,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

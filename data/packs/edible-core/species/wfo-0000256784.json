@@ -16,14 +16,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "尼邦多刺椰",
-      "尼邦钩子棕",
-      "尼蒙树"
-    ],
     "id": [
       "Nibung"
     ],
@@ -42,6 +37,11 @@
     "ja": [
       "ニボンヤシ"
     ],
+    "zh": [
+      "尼蒙树",
+      "尼邦多刺椰",
+      "尼邦钩子棕"
+    ],
     "nia": [
       "Hoya"
     ],
@@ -53,18 +53,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q7092129",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q7092129",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Oncosperma tigillarium」",
+      "source": "Wikipedia (en): Oncosperma tigillarium",
       "source_url": "https://en.wikipedia.org/wiki/Oncosperma_tigillarium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1336600724,
       "text": "Oncosperma tigillarium, commonly known as Nibong palm is an Asian species of palm tree in the family Arecaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Oncosperma tigillarium",
+      "source_url": "https://es.wikipedia.org/wiki/Oncosperma_tigillarium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 162358930,
+      "text": "Oncosperma tigillarium es una especie de plantas perteneciente a la familia de las palmeras (Arecaceae)."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Oncosperma tigillarium",
+      "source_url": "https://fr.wikipedia.org/wiki/Oncosperma_tigillarium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 220430334,
+      "text": "Oncosperma tigillarium est une espèce asiatique de palmier de la famille des Arecaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Nibung",
+      "source_url": "https://id.wikipedia.org/wiki/Nibung",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28717810,
+      "text": "Nibung adalah sejenis palma yang tumbuh di rawa-rawa Asia Tenggara, mulai dari Indocina hingga Kalimantan. Nibung memiliki nama-nama yang berbeda dari setiap daerah, seperti: andudu (Bali), palun (Ambon), walut (Buru), dan ramisa (Makassar)."
     }
   },
   "edible": {
@@ -79,7 +106,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -97,7 +124,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668557-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -105,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668557-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000256784.webp",
@@ -118,6 +145,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 268,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

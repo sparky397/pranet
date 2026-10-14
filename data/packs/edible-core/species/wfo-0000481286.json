@@ -10,19 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Colorado Pinyon",
-      "Pinyon Pine",
-      "Two-needle Pinyon Pine",
-      "twoneedle pinyon"
-    ],
-    "zh": [
-      "科罗拉多果松",
-      "納瓦霍麨始松"
-    ],
     "udm": [
       "Колорадоысь пужым"
     ],
@@ -52,13 +42,23 @@
     ],
     "arz": [
       "صنوبر ماكول"
+    ],
+    "zh": [
+      "納瓦霍麨始松",
+      "科罗拉多果松"
+    ],
+    "en": [
+      "Colorado Pinyon",
+      "Pinyon Pine",
+      "Two-needle Pinyon Pine",
+      "twoneedle pinyon"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q133096",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q133096",
   "search_names": {
@@ -69,13 +69,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pinus edulis」",
+      "source": "Wikipedia (en): Pinus edulis",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_edulis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355894705,
       "text": "Pinus edulis, the pinyon pine, Colorado pinyon, or simply pinyon, is a species of pinyon pine from the southwestern United States noted for its large, edible seeds. Although all of the species in its section of the pine genus are called pinyon pines this is the species most associated with the name."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus edulis",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_edulis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173845875,
+      "text": "Pinus edulis es un árbol que pertenece a la familia de las pináceas, del género Pinus es nativo del suroeste de Estados Unidos y el norte de México. Se clasifica a veces como Pinus cembroides variedad edulis."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pinus edulis",
+      "source_url": "https://fr.wikipedia.org/wiki/Pinus_edulis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 212814077,
+      "text": "Pinus edulis est une espèce de plantes de la famille des Pinacées. C'est un arbre appartenant au genre Pinus et au groupe de pins à pignons dont l'ancêtre était membre de la Flore Madro-Tertiaire [réf. souhaitée] et est originaire des États-Unis."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus edulis",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_edulis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205858,
+      "text": "Pinus edulis, conhecido pelo nome comum pinhão-do-colorado, é uma espécie de pinheiro originária do Novo Mundo. Faz parte do grupo de espécies de pinheiros com área de distribuição no Canadá e Estados Unidos da América."
     }
   },
   "edible": {
@@ -90,7 +117,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -107,7 +134,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/196975-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -115,7 +142,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/196975-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000481286.webp",
@@ -128,6 +155,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

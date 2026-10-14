@@ -22,17 +22,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Cherokee rose",
-      "Camelia rose",
-      "Mardan rose"
-    ],
-    "sv": [
-      "Cherokeeros"
-    ],
     "zh": [
       "金樱子",
       "金櫻子",
@@ -50,6 +42,9 @@
     "az": [
       "Hamar itburnu"
     ],
+    "sv": [
+      "Cherokeeros"
+    ],
     "fa": [
       "رز چروکی"
     ],
@@ -64,34 +59,57 @@
     ],
     "ar": [
       "ورد ناعم"
+    ],
+    "en": [
+      "Cherokee rose",
+      "Camelia rose",
+      "Mardan rose"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1070309",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1070309",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rosa laevigata」",
+      "source": "Wikipedia (en): Rosa laevigata",
       "source_url": "https://en.wikipedia.org/wiki/Rosa_laevigata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1335445992,
       "text": "Rosa laevigata, or the Cherokee rose, is a white, fragrant rose native to southern China, Taiwan and Vietnam. It is an invasive species in countries including Australia, Japan and the United States."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rosa laevigata",
+      "source_url": "https://es.wikipedia.org/wiki/Rosa_laevigata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172027125,
+      "text": "El rosal de los cheroqui es una especie del género Rosa originario del sur de China y Taiwán, de Laos y Vietnam. Es planta invasora en los Estados Unidos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rosa laevigata",
+      "source_url": "https://fr.wikipedia.org/wiki/Rosa_laevigata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238300887,
+      "text": "Le rosier des Cherokees est une espèce de plantes à fleurs de la famille des Rosaceae. C'est un rosier originaire du sud de la Chine, de Taïwan, du Laos et du Viêt Nam."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Rosa laevigata」の節「Cultivation」",
+        "source": "Wikipedia (en): Rosa laevigata § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Rosa_laevigata#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1335445992,
         "heading": "Cultivation",
         "text": "The species was introduced to the southeastern United States in about 1780, where it soon became naturalized, and was then given its English common name.",
@@ -108,7 +126,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -143,7 +161,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/733047-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -151,7 +169,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/733047-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001014407.webp",
@@ -164,6 +182,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

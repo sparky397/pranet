@@ -12,20 +12,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ウラジロアカメガシワ"
     ],
-    "zh": [
-      "白匏子",
-      "白楸",
-      "山桐子",
-      "白背桐"
-    ],
     "id": [
       "Balik angin"
+    ],
+    "zh": [
+      "白楸",
+      "白匏子",
+      "山桐子",
+      "白背桐"
     ],
     "su": [
       "Calik angin"
@@ -41,27 +41,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15247339",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15247339",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ウラジロアカメガシワ」",
+      "source": "Wikipedia (ja): ウラジロアカメガシワ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A9%E3%82%B8%E3%83%AD%E3%82%A2%E3%82%AB%E3%83%A1%E3%82%AC%E3%82%B7%E3%83%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106350303,
       "text": "ウラジロアカメガシワ Mallotus paniculatus (Lam.) Muell. はトウダイグサ科の樹木。アカメガシワに似て、葉裏が白い。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Mallotus paniculatus」",
+      "source": "Wikipedia (en): Mallotus paniculatus",
       "source_url": "https://en.wikipedia.org/wiki/Mallotus_paniculatus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1339824271,
       "text": "Mallotus paniculatus is a small, subtropical and tropical forest tree species in the family Euphorbiaceae, found in Asia; the current placement was by Johannes Müller Argoviensis in 1865."
+    },
+    "id": {
+      "source": "Wikipedia (id): Balik angin",
+      "source_url": "https://id.wikipedia.org/wiki/Balik_angin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29517982,
+      "text": "Balik angin adalah sejenis pohon penyusun hutan sekunder, anggota suku Euphorbiaceae. Pohon kecil ini tidak banyak dimanfaatkan, kecuali bahwa pepagannya dapat diserpih dan digunakan sebagai bahan tali kasar dan kayunya dipakai sebagai bahan bakar. Nama-nama lainnya, di antaranya, calik angin (Sd.); walik angin, tutup, tutup awu, tutup jåwå, tutup kancil, tutup sapi (Jw.); balik angèn (Md.)."
     }
   },
   "edible": {
@@ -79,7 +88,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -111,7 +120,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/351641-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -119,7 +128,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/351641-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000234677.webp",
@@ -132,6 +141,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

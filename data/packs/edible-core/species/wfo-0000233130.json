@@ -13,15 +13,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "カラタネオガタマ"
     ],
-    "en": [
-      "Banana magnolia",
-      "Port wine magnolia"
+    "id": [
+      "Cempaka mulia"
     ],
     "vi": [
       "Michelia figo"
@@ -53,15 +52,16 @@
     "arz": [
       "ماجنوليا فيجو"
     ],
-    "id": [
-      "Cempaka mulia"
+    "en": [
+      "Banana magnolia",
+      "Port wine magnolia"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311864",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311864",
   "search_names": {
@@ -71,22 +71,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カラタネオガタマ」",
+      "source": "Wikipedia (ja): カラタネオガタマ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%BF%E3%83%8D%E3%82%AA%E3%82%AC%E3%82%BF%E3%83%9E",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106357391,
       "text": "カラタネオガタマ は、モクレン科モクレン属に属する常緑樹の1種である。別名トウオガタマ（唐招霊）。オガタマノキ属に分類されることが多かったが 、2022年現在ではふつうモクレン属に分類される。花にはバナナに似た強い香りがある（図1）。中国東南部原産であるが、日本などでも庭や神社に植栽されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Magnolia figo」",
+      "source": "Wikipedia (en): Magnolia figo",
       "source_url": "https://en.wikipedia.org/wiki/Magnolia_figo",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369811982,
       "text": "Magnolia figo is a species of flowering plant in the family Magnoliaceae. This evergreen tree is sometimes referred to by the common names banana shrub, and port wine magnolia. It grows to 3–4 metres tall."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Magnolia figo",
+      "source_url": "https://fr.wikipedia.org/wiki/Magnolia_figo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229541983,
+      "text": "Magnolia figo est une espèce de plantes à fleurs de la famille des Magnoliaceae. C'est un arbuste originaire de Chine."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cempaka mulia",
+      "source_url": "https://id.wikipedia.org/wiki/Cempaka_mulia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29601370,
+      "text": "Magnolia figo atau Cempaka Mulia adalah tumbuhan hijau abadi dari genus Magnolia. Tumbuhan ini dikenal dengan bunganya yang berwarna putih dan sering digambarkan memiliki aroma seperti pisang. Tumbuhan ini berasal dari Tiongkok dan dapat tumbuh hingga ketinggian 3-4 meter."
     }
   },
   "edible": {
@@ -100,7 +118,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -110,7 +128,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554702-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -118,7 +136,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554702-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000233130.webp",
@@ -131,6 +149,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 297,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

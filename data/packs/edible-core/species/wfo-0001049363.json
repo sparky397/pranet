@@ -21,18 +21,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "槟榔青",
-      "茨菇草"
+    "id": [
+      "Kedondong hutan"
     ],
     "pl": [
       "Śliwiec pierzasty"
     ],
-    "id": [
-      "Kedondong hutan"
+    "zh": [
+      "槟榔青",
+      "茨菇草"
     ],
     "th": [
       "มะกอกไทย"
@@ -78,18 +78,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q9395416",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q9395416",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Spondias pinnata」",
+      "source": "Wikipedia (en): Spondias pinnata",
       "source_url": "https://en.wikipedia.org/wiki/Spondias_pinnata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368824749,
       "text": "Spondias pinnata, one of several plants called \"hog plum\", is a species of tree with edible sour fruits. It is native to the Philippines and Indonesia, but has been widely naturalized in South Asia, Mainland Southeast Asia, Southern China, and the Solomon Islands. It belongs to the family Anacardiaceae. This species, among several others, has sometimes been called the \"wild mango\" in other languages and was once placed in the genus Mangifera. It is found in lowlands and hill forests up to 1,200 m (3,900 ft)."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kedondong hutan",
+      "source_url": "https://id.wikipedia.org/wiki/Kedondong_hutan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29996178,
+      "text": "Kedondong hutan adalah spesies tumbuhan yang masih berkerabat dengan kedondong, termasuk ke dalam genus Spondias dalam suku Anacardiaceae."
     }
   },
   "edible": {
@@ -104,7 +113,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -138,7 +147,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/71489-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -146,7 +155,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/71489-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001049363.webp",
@@ -159,6 +168,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

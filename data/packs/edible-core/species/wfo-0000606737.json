@@ -12,17 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "veldt-grape"
-    ],
-    "zh": [
-      "方茎青紫葛",
-      "仙素莲",
-      "四棱翡翠阁"
-    ],
     "ml": [
       "ചങ്ങലംപരണ്ട"
     ],
@@ -47,6 +39,11 @@
     "hi": [
       "हड़जोड़"
     ],
+    "zh": [
+      "四棱翡翠阁",
+      "方茎青紫葛",
+      "仙素莲"
+    ],
     "kn": [
       "ಮಂಗರವಳ್ಳಿ"
     ],
@@ -70,13 +67,16 @@
     ],
     "id": [
       "Sipatah-patah"
+    ],
+    "en": [
+      "veldt-grape"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2157164",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2157164",
   "search_names": {
@@ -87,13 +87,22 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cissus quadrangularis」",
+      "source": "Wikipedia (en): Cissus quadrangularis",
       "source_url": "https://en.wikipedia.org/wiki/Cissus_quadrangularis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1336509406,
       "text": "Cissus quadrangularis is a perennial plant of the grape family. It is commonly known as veldt grape, winged treebine or adamant creeper. The species is native to tropical Asia, the Arabian Peninsula and much of Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cissus quadrangularis",
+      "source_url": "https://es.wikipedia.org/wiki/Cissus_quadrangularis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175793474,
+      "text": "Cissus quadrangularis es una planta perenne, de la familia de las vitáceas."
     }
   },
   "edible": {
@@ -111,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -181,7 +190,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/67898-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing succulent",
@@ -189,7 +198,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/67898-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000606737.webp",
@@ -202,6 +211,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

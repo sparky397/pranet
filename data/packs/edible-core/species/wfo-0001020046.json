@@ -23,22 +23,16 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "カプシクム・キネンセ",
       "シネンセ種"
     ],
-    "en": [
-      "aji"
-    ],
-    "zh": [
-      "中华辣椒",
-      "黄灯笼辣椒"
-    ],
-    "ast": [
-      "chile"
+    "id": [
+      "Cabai ceremai",
+      "Cabai naga kuning"
     ],
     "nah": [
       "Chīltomatl"
@@ -60,6 +54,10 @@
     ],
     "ar": [
       "فليفلة صينية"
+    ],
+    "zh": [
+      "黄灯笼辣椒",
+      "中华辣椒"
     ],
     "cs": [
       "paprika čínská"
@@ -94,6 +92,9 @@
     "ko": [
       "중국고추"
     ],
+    "ast": [
+      "Chile"
+    ],
     "ml": [
       "കാപ്സിക്കം ചിനെൻസ്"
     ],
@@ -102,9 +103,6 @@
     ],
     "arz": [
       "فليفله صينيه"
-    ],
-    "id": [
-      "Cabai naga kuning"
     ],
     "si": [
       "කොච්චි"
@@ -117,13 +115,16 @@
     ],
     "shn": [
       "မၢၵ်ႇၽိတ်ႉၸၢင်ႉႁွင်ႉ"
+    ],
+    "en": [
+      "aji"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311071",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311071",
   "search_names": {
@@ -133,22 +134,64 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カプシクム・キネンセ」",
+      "source": "Wikipedia (ja): カプシクム・キネンセ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%97%E3%82%B7%E3%82%AF%E3%83%A0%E3%83%BB%E3%82%AD%E3%83%8D%E3%83%B3%E3%82%BB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107249940,
       "text": "カプシクム・キネンセ は、小型の低木となるトウガラシ属の1種である。ハバネロなどの唐辛子の品種はこの種に属する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Capsicum chinense」",
+      "source": "Wikipedia (en): Capsicum chinense",
       "source_url": "https://en.wikipedia.org/wiki/Capsicum_chinense",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370535889,
       "text": "Capsicum chinense, commonly known as a \"habanero-type pepper\", is a species of chili pepper native to the Americas. C. chinense varieties are well known for their unique flavors and, in many cases, exceptional heat. The hottest peppers in the world are members of this species, with a Scoville heat unit score of 2.69 million measured in the C. chinense cultivar Pepper X in 2023."
+    },
+    "es": {
+      "source": "Wikipedia (es): Capsicum chinense",
+      "source_url": "https://es.wikipedia.org/wiki/Capsicum_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175596868,
+      "text": "Capsicum chinense es una de las cinco especies domesticadas de chiles o ajíes. Variedades importantes de Capsicum chinense incluyen el chile habanero, el ají panca, el ají mochero y el ají limo. Las variedades de ají panca, ají mochero y ají limo se cultivan en Perú."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Capsicum chinense",
+      "source_url": "https://pt.wikipedia.org/wiki/Capsicum_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68614251,
+      "text": "Capsicum chinense é uma espécie de pimenta ou malagueta, pertencente ao género Capsicum e que inclui as seguintes variedades:Adjuma \nAjí limo ou Naucho \nAjí dulce \nDatil \nFatalii \nHabanero \nMadame Jeanette \nNaga Morich \nNaga Jolokia \nScotch Bonnet \nPimenta-escorpião"
+    },
+    "id": {
+      "source": "Wikipedia (id): Cabai ceremai",
+      "source_url": "https://id.wikipedia.org/wiki/Cabai_ceremai",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29425588,
+      "text": "Cabai ceremai merupakan jenis cabai yang sangat pedas, dimana tingkat kepedasannya melebihi kepedasan cabai rawit. Tingkat kepedasan cabai ini mencapai 100.000-500.000 skala Scoville. Cabai ini sangat populer dalam masakan Belanda-Indonesia, Belanda-Suriname, dan Belanda-Meksiko."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "id": {
+        "source": "Wikipedia (id): Cabai ceremai § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Cabai_ceremai#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29425588,
+        "heading": "Budidaya",
+        "text": "Cabai ceremai berasal dari Benua Amerika, dimana cabai ini mulai masuk ke Indonesia di era Hindia Belanda. Cabai ini tersebar di Jawa, Kalimantan, Sulawesi, Bali, dan Bangka. Warnanya beragam dari hijau, kuning, dan jingga.\nCabai ceremai tumbuh di cuaca yang panas. Sama seperti cabai yang lain, cabai ceremai tumbuh baik di area yang disinari matahari dikala pagi dan di tanah dengan kadar pH sekitar 5–6 (sedikit asam). Cabai ceremai disirami air hanya jika cuaca dalam keadaan kering. Tanah dan akar yang terlalu basah akan menghasilkan buah cabai yang terasa pahit.\nCabai ceremai ini adalah tumbuhan berbunga abadi. Maknanya adalah dengan penanganan dan kondisi pertumbuhan yang benar, tumbuhannya akan terus menghasilkan bunga (dan juga buah) dalam waktu yang lama. Semak-semak cabai ceremai adalah kandidat yang bagus untuk taman yang menggunakan kontainer. Di negara beriklim sedang, cabai ceremai ini bisa diperlakukan sebagai tumbuhan tahunan, jika cabai ini mati pada musim dingin, maka bisa diganti tumbuhan baru pada musim semi berikutnya. Di negara beriklim tropis dan subtropis, cabai ceremai, seperti cabai yang lain, akan berbuah sepanjang tahun. Selama kondisinya baik, tumbuhannya akan memproduksi buah secara terus-menerus.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -161,7 +204,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -192,7 +235,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/814752-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -200,7 +243,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/814752-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001020046.webp",
@@ -213,6 +256,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 303,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

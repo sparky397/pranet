@@ -31,103 +31,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "クワ",
-      "kuwa",
-      "マグワ"
-    ],
-    "en": [
-      "White Mulberry",
-      "Weeping mulberry",
-      "silkworm mulberry",
-      "Russian mulberry"
-    ],
-    "bg": [
-      "Бяла черница"
-    ],
-    "de": [
-      "Weiße Maulbeere",
-      "weißer Maulbeerbaum"
-    ],
-    "es": [
-      "Morera blanca",
-      "mora",
-      "moral blanco",
-      "morera blanco"
-    ],
-    "fi": [
-      "Valkomulperi"
+      "マグワ",
+      "kuwa"
     ],
     "fr": [
-      "Mûrier blanc"
-    ],
-    "gl": [
-      "Moreira branca"
-    ],
-    "it": [
-      "Gelso bianco"
-    ],
-    "lv": [
-      "Baltais zīdkoks"
-    ],
-    "nl": [
-      "Witte moerbei"
-    ],
-    "nb": [
-      "[[:w:no:Hvitmorbær",
-      "Hvitmorbær"
-    ],
-    "pt": [
-      "Amoreira branca",
-      "amoreira-branca"
-    ],
-    "tr": [
-      "Ak dut"
-    ],
-    "vi": [
-      "Dâu trắng"
-    ],
-    "cs": [
-      "morušovník bílý"
-    ],
-    "af": [
-      "gewone moerbei",
-      "witmoerbei"
-    ],
-    "sv": [
-      "vitt mullbär"
-    ],
-    "zh": [
-      "sang",
-      "桑",
-      "桑白皮",
-      "桑枝",
-      "桑椹",
-      "桑叶",
-      "桑（白桑）",
-      "燊",
-      "桑树",
-      "桑堪子",
-      "桑椹酒",
-      "桑瘿",
-      "桑叶露",
-      "桑叶汁",
-      "桑柴灰",
-      "桑根",
-      "桑沥",
-      "桑皮汁",
-      "桑霜",
-      "白桑"
-    ],
-    "ru": [
-      "šelkovica belaja",
-      "шелковица белая"
-    ],
-    "sl": [
-      "bela murva"
+      "Mûrier blanc",
+      "mûrier blanc"
     ],
     "dv": [
       "ތޫތު"
@@ -147,8 +61,15 @@
     "hu": [
       "fehér eperfa"
     ],
+    "de": [
+      "Weiße Maulbeere",
+      "weißer Maulbeerbaum"
+    ],
     "rw": [
       "Iboberi"
+    ],
+    "vi": [
+      "Dâu trắng"
     ],
     "sh": [
       "Bijeli dud"
@@ -156,11 +77,24 @@
     "hsb": [
       "Běła marušnja"
     ],
+    "nl": [
+      "witte moerbei"
+    ],
     "ar": [
       "توت أبيض"
     ],
+    "sv": [
+      "vitt mullbär"
+    ],
     "hi": [
       "शहतूत"
+    ],
+    "ru": [
+      "шелковица белая",
+      "šelkovica belaja"
+    ],
+    "tr": [
+      "Ak dut"
     ],
     "ro": [
       "dud alb"
@@ -168,8 +102,17 @@
     "ca": [
       "morera blanca"
     ],
+    "fi": [
+      "valkomulperi"
+    ],
     "uk": [
       "шовковиця біла"
+    ],
+    "sl": [
+      "bela murva"
+    ],
+    "bg": [
+      "бяла черница"
     ],
     "km": [
       "មន ស"
@@ -195,6 +138,38 @@
     "sr": [
       "бели дуд"
     ],
+    "zh": [
+      "白桑",
+      "sang",
+      "桑",
+      "桑白皮",
+      "桑枝",
+      "桑椹",
+      "桑叶",
+      "桑（白桑）",
+      "燊",
+      "桑树",
+      "桑堪子",
+      "桑椹酒",
+      "桑瘿",
+      "桑叶露",
+      "桑叶汁",
+      "桑柴灰",
+      "桑根",
+      "桑沥",
+      "桑皮汁",
+      "桑霜"
+    ],
+    "nb": [
+      "Hvitmorbær",
+      "[[:w:no:Hvitmorbær"
+    ],
+    "cs": [
+      "morušovník bílý"
+    ],
+    "gl": [
+      "Moreira branca"
+    ],
     "nap": [
       "Ciévësë gghiangh"
     ],
@@ -206,6 +181,10 @@
     ],
     "hy": [
       "թթենի սպիտակ"
+    ],
+    "af": [
+      "witmoerbei",
+      "gewone moerbei"
     ],
     "eu": [
       "marugatze zuri"
@@ -234,6 +213,9 @@
     "as": [
       "নুনী"
     ],
+    "lv": [
+      "Baltais zīdkoks"
+    ],
     "uz": [
       "Oq tut"
     ],
@@ -260,59 +242,136 @@
     ],
     "shn": [
       "တူၼ်ႈမႆႉမွၼ်းဢွၼ်ႇ"
+    ],
+    "en": [
+      "White Mulberry",
+      "Weeping mulberry",
+      "silkworm mulberry",
+      "Russian mulberry"
+    ],
+    "es": [
+      "Morera blanca",
+      "mora",
+      "moral blanco",
+      "morera blanco"
+    ],
+    "it": [
+      "Gelso bianco"
+    ],
+    "pt": [
+      "Amoreira branca",
+      "amoreira-branca"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157307",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157307",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「クワ」",
+      "source": "Wikipedia (ja): クワ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110204208,
       "text": "クワ（桑）は、クワ科クワ属の総称。ヤマグワ、シマグワなど品種が多い。カイコの餌として古来重要な作物であり、また果樹としても利用される。土留色はこの植物の実の色を指すこともある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Morus alba」",
+      "source": "Wikipedia (en): Morus alba",
       "source_url": "https://en.wikipedia.org/wiki/Morus_alba",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377602535,
       "text": "Morus alba, known as white mulberry, common mulberry and silkworm mulberry, is a fast-growing, small to medium-sized mulberry tree which grows to 10–20 m (33–66 ft) tall. It is native to China and is widely cultivated and naturalized elsewhere. The species is widely cultivated to feed the silkworms employed in the commercial production of silk. It is also notable for the rapid release of its pollen, which is launched at greater than half the speed of sound."
+    },
+    "es": {
+      "source": "Wikipedia (es): Morus alba",
+      "source_url": "https://es.wikipedia.org/wiki/Morus_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 170033227,
+      "text": "Morus alba, comúnmente morera blanca, es una especie de árbol del género Morus, familia de las moráceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Mûrier blanc",
+      "source_url": "https://fr.wikipedia.org/wiki/M%C3%BBrier_blanc",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230952533,
+      "text": "Le Mûrier blanc, Mûrier commun, est une espèce de Mûriers, des arbres fruitiers de la famille des Moracées. Originaire de Chine, le Mûrier blanc fut largement cultivé pour ses feuilles, aliment exclusif du ver à soie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Morus alba",
+      "source_url": "https://pt.wikipedia.org/wiki/Morus_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64612176,
+      "text": "A morus alba, comummente conhecida como amora-branca, é uma espécie de planta com flor pertencente à família Moraceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Morus alba",
+      "source_url": "https://id.wikipedia.org/wiki/Morus_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28644750,
+      "text": "Morus alba atau yang dikenal sebagai murbei putih atau murbei ulat sutra merupakan pohon berukuran kecil hingga sedang dengan pertumbuhan yang cepat, mampu mencapai tinggi antara 10 hingga 20 meter. Tanaman ini berasal dari Tiongkok, namun kini telah banyak dibudidayakan dan tumbuh secara alami di berbagai wilayah lain. Murbei putih umumnya ditanam sebagai pakan utama bagi ulat sutra dalam industri produksi sutra. Selain itu, pohon ini dikenal karena kemampuan uniknya melepaskan serbuk sari dengan sangat cepat bahkan lebih dari setengah kecepatan suara. Buahnya juga dapat dikonsumsi setelah matang."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Morus alba」の節「Cultivation」",
+        "source": "Wikipedia (en): Morus alba § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Morus_alba#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377602535,
         "heading": "Cultivation",
         "text": "Mulberry cultivation is generally found in both tropical and temperate regions, although the temperature of 24-28 °C is ideal for cultivating mulberry. Mulberry thrives from 28 °N and 55 °N latitude under varying climatic conditions ranging from temperate and tropical situated north of the equator. It grows well in areas where annual rainfall varies between 600 and 2,500 millimetres (24 and 98 in) with a minimum of nine to 13 hours of sunshine per day. Mulberry can be grown up to 4,000 m (13,000 ft) above sea level. Mulberry blooms well in warm, rich, fertile, well-drained, loamy to clayey soils, porous with strong moisture-holding ability. The optimal soil pH range is 6.2–6.8. Because mulberry is a hardy crop, the soil moisture can be used to a greater extent by these plants. However, the analysis of India's soils stated that the status of sodium (Na), potassium (K), and phosphorus (P) should be set. When some deviation occurs then the insects or fungi will attack mulberry plants.\n\nMulberry is well-suited for cultivation due to its vigorous nature and natural disease resistance, with many of its parts, including bark and leaves, containing antimicriobial and antifungal compounds. While it can be grown from seed, propagation is usually done through stem cutting or grafting. Depending on what the mulberry trees are used for, production of fodder, timber, leaves for silkworms or fruit, several cultivation systems are possible, such as hedges, trees or pollarded trees.\nM. alba and its hybrids with M. rubra and M. macroura have been bred and selected for fruit production. These selections are some of the most widely cultivated mulberries globally. As such, different varieties are adapted to different conditions and tend to perform poorly outside of their preferred climate.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Mûrier blanc § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/M%C3%BBrier_blanc#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 230952533,
+        "heading": "Culture",
+        "text": "Il pousse vite dans ses premières années puis a une croissance plutôt lente.\nLe mûrier aime le soleil mais est rustique jusqu'en zone USDA 4. Il supporte la sécheresse et le vent mais pas les expositions maritimes.\nIl supporte la taille.\nÀ la différence des Mûriers rouges et noirs, le mûrier blanc se multiplie bien par bouturage sur bois tendre.\nSes racines à la fois pivotantes et traçantes sont fragiles et il apprécie peu la transplantation.\nUne expérimentation de la chambre d'agriculture de l'Ariègeconsiste à le mener comme une plante prairiale, en très courte rotation (2 pâturages par an), concrétisant des hypothèses émises par de nombreux agriculteurs et agronomes.\n\nCependant, la mûre blanche est aussi largement cultivée dans de nombreuses régions du monde. Par exemple en Amérique du Nord : les États-Unis, Canada, en Amérique latine : Mexique, en Amérique du Sud : Argentine, en Océanie : Australie, en Europe : Kirghizistan, Turquie, en Asie : Iran, Japon, Corée, en Afrique ainsi que de nombreux autres pays.\n\nTempérature\nLe mûrier blanc peut s’adapter à une variété de changements de températures. D’une part, il peut pousser dans un climat subtropical qui est humide ou encore à de basses températures. D’autre part, la pluviométrie idéale pour sa croissance est de 1 à 1,5 m, alors qu’elle peut endurer une grande variation des précipitations annuelles. Le climat idéal pour cet arbre est eury-méditerranéennes, méditerranéo-atlantiques, c’est-à-dire que la température moyenne est T≈13 °C. De plus, la continentalité de celui-ci est subocéanique avec une amplitude thermique de AT≈19 °C.\nMorus alba est un arbre qui apprécie le soleil et résiste jusqu’à une zone de rustique USDA 4 (zone de rusticité 4b : -31,7 à -28,9 °C).",
         "truncated": true
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Morus alba」の節「Toxicity」",
+        "source": "Wikipedia (en): Morus alba § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Morus_alba#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377602535,
         "heading": "Toxicity",
         "text": "Tests on laboratory rats have not found mulberry extract to present significant toxicity.\nAccording to a coroner's report, Lori McClintock, wife of US politician Tom McClintock, died in December 2021 from dehydration due to gastroenteritis caused by \"adverse effects of white mulberry leaf ingestion\"; the leaf is used as a dietary supplement or herbal remedy for weight loss and diabetes. However, many experts questioned this conclusion, citing numerous safety studies.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Morus alba § Racun",
+        "source_url": "https://id.wikipedia.org/wiki/Morus_alba#Racun",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 28644750,
+        "heading": "Racun",
+        "text": "Uji coba pada tikus laboratorium menunjukkan bahwa ekstrak murbei tidak menimbulkan toksisitas yang berarti. Namun, sebuah laporan koroner mencatat bahwa Lori McClintock, istri politisi Amerika Serikat Tom McClintock, meninggal pada Desember 2021 akibat dehidrasi yang disebabkan oleh gastroenteritis, yang dikaitkan dengan “efek merugikan dari konsumsi daun murbei putih.” Daun murbei putih sendiri sering digunakan sebagai suplemen atau obat herbal untuk membantu menurunkan berat badan dan mengontrol diabetes. Meski demikian, banyak pakar meragukan temuan tersebut, dengan mengacu pada berbagai penelitian yang menunjukkan tingkat keamanan tanaman ini.",
         "truncated": false
       }
     }
@@ -332,7 +391,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -470,7 +529,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30051955-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -478,7 +537,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30051955-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000447905.webp",
@@ -491,6 +550,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

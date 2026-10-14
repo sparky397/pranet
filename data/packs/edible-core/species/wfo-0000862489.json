@@ -47,24 +47,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アカキナノキ"
     ],
-    "en": [
-      "quinine"
-    ],
-    "zh": [
-      "毛鸡纳树",
-      "红鸡纳树",
-      "鸡纳树",
-      "鸡纳树（红色金鸡纳）",
-      "金鸡勒"
-    ],
     "fr": [
       "Quinquina rouge"
+    ],
+    "pt": [
+      "Cinchona-vermelha"
     ],
     "ca": [
       "quina"
@@ -74,6 +67,13 @@
     ],
     "eu": [
       "Kinkina"
+    ],
+    "zh": [
+      "鸡纳树",
+      "毛鸡纳树",
+      "红鸡纳树",
+      "鸡纳树（红色金鸡纳）",
+      "金鸡勒"
     ],
     "hu": [
       "vörös kínafa"
@@ -86,33 +86,72 @@
     ],
     "cs": [
       "chinovník pýřitý"
+    ],
+    "en": [
+      "quinine"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164574",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164574",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アカキナノキ」",
+      "source": "Wikipedia (ja): アカキナノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%82%AD%E3%83%8A%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110689681,
       "text": "アカキナノキ はアカネ科に属する木本の一種。マラリアの特効薬であるキニーネを生産する。世界の侵略的外来種ワースト100に選定されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cinchona pubescens」",
+      "source": "Wikipedia (en): Cinchona pubescens",
       "source_url": "https://en.wikipedia.org/wiki/Cinchona_pubescens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369965711,
       "text": "Cinchona pubescens, also known as red cinchona and quina or kina, is native to Central and South America. It is known as a medicinal plant for its bark's high quinine content- and has similar uses to C. officinalis in the production of quinine, most famously used for treatment of malaria."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cinchona pubescens",
+      "source_url": "https://es.wikipedia.org/wiki/Cinchona_pubescens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174907568,
+      "text": "El quino, kina, quinina roja o cascarilla es un árbol de la familia de las rubiáceas, originario de Ecuador, Colombia, Venezuela, Perú y Bolivia. Está incluido en la lista 100 de las especies exóticas invasoras más dañinas del mundo de la Unión Internacional para la Conservación de la Naturaleza."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Quinquina rouge",
+      "source_url": "https://fr.wikipedia.org/wiki/Quinquina_rouge",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238731092,
+      "text": "Le quinquina rouge (Cinchona pubescens) est un petit arbre sempervirent de la famille des Rubiacées, originaire de la Cordillère des Andes et d'Amérique centrale et dont l'écorce est riche en quinine."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cinchona-vermelha",
+      "source_url": "https://pt.wikipedia.org/wiki/Cinchona-vermelha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73121682,
+      "text": "Cinchona-vermelha é uma planta da família das rubiáceas (Rubiaceae), nativa da América Central e do Sul. É conhecida como planta medicinal pelo alto teor de quinina de sua casca - e tem usos semelhantes à quinquina na produção de quinina, mais famosa usada no tratamento da malária. Consta em vigésima quinta posição na lista 100 das espécies exóticas invasoras mais daninhas do mundo."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cinchona pubescens",
+      "source_url": "https://id.wikipedia.org/wiki/Cinchona_pubescens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29595160,
+      "text": "Cinchona pubescens Vahl adalah spesies pohon dari famili Rubiaceae yang dikenal sebagai salah satu penghasil obat malaria. Pohon ini memiliki daun berhadapan dengan permukaan bawah berambut halus, bunga kecil berwarna putih hingga merah muda, serta buah berupa kapsul. Berasal dari Pegunungan Andes di Amerika Selatan, spesies ini telah dibudidayakan secara luas di daerah tropis, termasuk Indonesia, karena kandungan kuinin pada kulit batangnya yang digunakan sebagai bahan baku obat antimalaria. Selain memiliki nilai ekonomi yang tinggi, C. pubescens juga banyak dijumpai di kawasan pegunungan beriklim sejuk."
     }
   },
   "edible": {
@@ -128,7 +167,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -156,7 +195,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/746872-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -164,7 +203,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/746872-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000862489.webp",
@@ -177,6 +216,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

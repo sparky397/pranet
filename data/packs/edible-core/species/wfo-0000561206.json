@@ -31,34 +31,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ホウキギ"
     ],
-    "de": [
-      "Besen-Radmelde"
-    ],
-    "en": [
-      "burningbush",
-      "Mexican-Fireweed"
-    ],
-    "nl": [
-      "Studentenkruid"
-    ],
-    "ca": [
-      "mirambell",
-      "bellveure"
+    "ru": [
+      "Бассия веничная"
     ],
     "zh": [
       "地肤"
-    ],
-    "sl": [
-      "navadni metlovec"
-    ],
-    "ru": [
-      "Бассия веничная"
     ],
     "pl": [
       "Mietelnik żakula"
@@ -66,11 +49,17 @@
     "fi": [
       "kesäsuolukka"
     ],
+    "de": [
+      "Besen-Radmelde"
+    ],
     "ko": [
       "댑싸리"
     ],
     "es": [
       "Kochia scoparia"
+    ],
+    "nl": [
+      "studentenkruid"
     ],
     "sv": [
       "Kvastmålla"
@@ -110,13 +99,24 @@
     ],
     "nb": [
       "kostmelde"
+    ],
+    "sl": [
+      "navadni metlovec"
+    ],
+    "en": [
+      "burningbush",
+      "Mexican-Fireweed"
+    ],
+    "ca": [
+      "mirambell",
+      "bellveure"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q829752",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q829752",
   "search_names": {
@@ -126,32 +126,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ホウキギ」",
+      "source": "Wikipedia (ja): ホウキギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%A6%E3%82%AD%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109894708,
       "text": "ホウキギ は、ヒユ科バッシア属の一年草。別名、ホウキグサ（箒草）。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Bassia scoparia」",
+      "source": "Wikipedia (en): Bassia scoparia",
       "source_url": "https://en.wikipedia.org/wiki/Bassia_scoparia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355656845,
       "text": "Bassia scoparia is a large annual herb in the family Amaranthaceae native to Eurasia. It has been introduced to many parts of North America, where it is found in grassland, prairie, and desert shrub ecosystems. Its common names include summer cypress, mock-cypress, kochia, belvedere, World's Fair plant, burningbush, Mexican firebrush, and Mexican fireweed, with the latter three names referring to the herb's red autumn foliage."
+    },
+    "es": {
+      "source": "Wikipedia (es): Bassia scoparia",
+      "source_url": "https://es.wikipedia.org/wiki/Bassia_scoparia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174467660,
+      "text": "Bassia scoparia es una especie de planta herbácea anual perteneciente a la familia Amaranthaceae, nativa de Eurasia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bassia scoparia",
+      "source_url": "https://fr.wikipedia.org/wiki/Bassia_scoparia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229934096,
+      "text": "Bassia scoparia est une espèce de plantes dicotylédones de la famille des Amaranthaceae, originaire d'Eurasie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Bassia scoparia",
+      "source_url": "https://pt.wikipedia.org/wiki/Bassia_scoparia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71599710,
+      "text": "Bassia scoparia, comummente conhecida como belverde, é uma espécie de planta com flor pertencente à família Quenopodiáceas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bassia scoparia",
+      "source_url": "https://id.wikipedia.org/wiki/Bassia_scoparia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29994108,
+      "text": "Bassia scoparia adalah tumbuhan herba menahun besar dalam famili Amaranthaceae yang berasal dari Eurasia. Tumbuhan ini telah diperkenalkan ke banyak bagian Amerika Utara, di mana ia ditemukan di ekosistem lahan rumput, prairi, dan perdu gurun. Nama umumnya antara lain summer cypress, mock-cypress, kochia, belvedere, World's Fair plant, burningbush, Mexican firebrush, dan Mexican fireweed, dengan tiga nama terakhir merujuk pada dedaunan musim gugur berwarna merah."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ホウキギ」の節「栽培」",
+        "source": "Wikipedia (ja): ホウキギ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%A6%E3%82%AD%E3%82%AE#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109894708,
         "heading": "栽培",
         "text": "種子は極めて小さくて軽いため、前年に植えた周辺から生えた苗を移植する方法も採られている。日本での栽培地は、秋田県・山形県が主な産地である。ツツミノガ類が主な害虫である。",
@@ -172,7 +208,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -321,7 +357,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/164422-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -329,7 +365,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/164422-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000561206.webp",
@@ -342,6 +378,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

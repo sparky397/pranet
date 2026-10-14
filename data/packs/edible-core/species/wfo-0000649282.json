@@ -20,15 +20,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ベンガルガキ"
     ],
-    "zh": [
-      "法国柿",
-      "高棉黑柿"
+    "id": [
+      "Culiket"
     ],
     "ml": [
       "പനച്ചി"
@@ -42,9 +41,6 @@
     "bn": [
       "দেশি গাব"
     ],
-    "id": [
-      "Culiket"
-    ],
     "ta": [
       "தும்பிலி மரம்"
     ],
@@ -57,6 +53,10 @@
     "arz": [
       "خرمال مالابارى"
     ],
+    "zh": [
+      "高棉黑柿",
+      "法国柿"
+    ],
     "mr": [
       "टेंभुरणी"
     ]
@@ -65,27 +65,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3595461",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3595461",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ベンガルガキ」",
+      "source": "Wikipedia (ja): ベンガルガキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%82%AC%E3%83%AB%E3%82%AC%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107844496,
       "text": "ベンガルガキ (あるいはインドガキ、ナンヨウガキ）は、インド、スリランカ、バングラデシュ、東南アジアを原産地とするカキノキ科の被子植物である。常緑高木である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Diospyros malabarica」",
+      "source": "Wikipedia (en): Diospyros malabarica",
       "source_url": "https://en.wikipedia.org/wiki/Diospyros_malabarica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1363378540,
       "text": "Diospyros malabarica, the gaub tree, Malabar ebony, black-and-white ebony or pale moon ebony, is a species of flowering tree in the family Ebenaceae that is native to the Indian subcontinent and South East Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Diospyros malabarica",
+      "source_url": "https://es.wikipedia.org/wiki/Diospyros_malabarica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173939939,
+      "text": "Diospyros malabarica es una especie de árbol perteneciente a la familia Ebenaceae que es nativo del subcontinente indio y el sudeste de Asia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Culiket",
+      "source_url": "https://id.wikipedia.org/wiki/Culiket",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28701179,
+      "text": "Eboni Malabar atau Pala Bulan adalah sejenis pohon anggota suku eboni-ebonian atau Ebenaceae. Nama lainnya adalah culiket (Sunda), klécå/klégå/kledung (Jawa), kumun/komoi (Melayu), makusi, toyokuku, dan gaub."
     }
   },
   "edible": {
@@ -98,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -124,7 +142,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/322658-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -132,7 +150,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/322658-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000649282.webp",
@@ -145,6 +163,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 266,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

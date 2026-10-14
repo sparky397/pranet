@@ -33,42 +33,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "キショウブ"
     ],
-    "en": [
-      "Yellow Iris",
-      "yellow flag"
+    "pt": [
+      "Lírio-amarelo-dos-pântanos"
     ],
-    "de": [
-      "Wasser-Schwertlilie",
-      "Gelbe Schwertlilie",
-      "Sumpf-Schwertlilie"
-    ],
-    "nl": [
-      "Gele lis"
-    ],
-    "cs": [
-      "kosatec žlutý"
-    ],
-    "fi": [
-      "keltakurjenmiekka"
+    "id": [
+      "Brojo kuning"
     ],
     "zh": [
       "黄菖蒲"
-    ],
-    "ast": [
-      "lliriu mariellu",
-      "Limniris pseudacorus"
-    ],
-    "sl": [
-      "vodna perunika"
-    ],
-    "mk": [
-      "блатна перуника"
     ],
     "pl": [
       "Kosaciec żółty"
@@ -85,6 +63,11 @@
     "et": [
       "kollane võhumõõk"
     ],
+    "de": [
+      "Sumpf-Schwertlilie",
+      "Wasser-Schwertlilie",
+      "Gelbe Schwertlilie"
+    ],
     "br": [
       "Elestr"
     ],
@@ -93,6 +76,9 @@
     ],
     "hsb": [
       "Wódna škleńčica"
+    ],
+    "nl": [
+      "gele lis"
     ],
     "sv": [
       "svärdslilja"
@@ -109,8 +95,14 @@
     "ca": [
       "lliri groc"
     ],
+    "fi": [
+      "keltakurjenmiekka"
+    ],
     "uk": [
       "півники болотні"
+    ],
+    "cs": [
+      "kosatec žlutý"
     ],
     "lt": [
       "Geltonasis vilkdalgis"
@@ -151,6 +143,10 @@
     "eu": [
       "Lirio hori"
     ],
+    "ast": [
+      "Limniris pseudacorus",
+      "lliriu mariellu"
+    ],
     "azb": [
       "ساری سوسن"
     ],
@@ -181,21 +177,28 @@
     "smn": [
       "fiskiskuorgâmiekki"
     ],
+    "sl": [
+      "vodna perunika"
+    ],
     "lv": [
       "Purva skalbe"
     ],
-    "id": [
-      "Brojo kuning"
+    "mk": [
+      "блатна перуника"
     ],
     "ko": [
       "노랑꽃창포"
+    ],
+    "en": [
+      "Yellow Iris",
+      "yellow flag"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q21173",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q21173",
   "search_names": {
@@ -205,32 +208,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キショウブ」",
+      "source": "Wikipedia (ja): キショウブ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%96",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109834608,
       "text": "キショウブ は、アヤメ科アヤメ属の多年草。帰化植物。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Iris pseudacorus」",
+      "source": "Wikipedia (en): Iris pseudacorus",
       "source_url": "https://en.wikipedia.org/wiki/Iris_pseudacorus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373941843,
       "text": "Iris pseudacorus, the yellow flag, yellow iris, or water flag, is a species of flowering plant in the family Iridaceae. It is native to Europe, western Asia and northwest Africa. Its specific epithet pseudacorus means \"false acorus\", referring to the similarity of its leaves to those of Acorus calamus, as they have a prominently veined mid-rib and sword-like shape. However, the two plants are not closely related."
+    },
+    "es": {
+      "source": "Wikipedia (es): Iris pseudacorus",
+      "source_url": "https://es.wikipedia.org/wiki/Iris_pseudacorus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172781030,
+      "text": "El lirio amarillo, es una especie perenne de la familia Iridaceae. Es originaria de Eurasia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Iris pseudacorus",
+      "source_url": "https://fr.wikipedia.org/wiki/Iris_pseudacorus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236652149,
+      "text": "Iris pseudacorus, l'iris des marais, iris faux acore ou iris jaune, est une espèce de plantes à fleurs de la famille des Iridacées. C'est une plante herbacée vivace, de marais ou bord de l'eau, trouvée en Europe, en Afrique du Nord et au Proche-Orient."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lírio-amarelo-dos-pântanos",
+      "source_url": "https://pt.wikipedia.org/wiki/L%C3%ADrio-amarelo-dos-p%C3%A2ntanos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72361080,
+      "text": "O lírio-amarelo-dos-pântanos é uma planta com flor da família das iridáceas. É nativa da Europa, Médio Oriente e norte de África. Está presente no norte e no litoral do Portugal Continental."
+    },
+    "id": {
+      "source": "Wikipedia (id): Brojo kuning",
+      "source_url": "https://id.wikipedia.org/wiki/Brojo_kuning",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29730550,
+      "text": "Iris pseudacorus, brojo mas, brojo kuning, atau brojo kencana adalah spesies tumbuhan berbunga dalam famili Iridaceae. Ia berasal dari Eropa, Asia barat dan Afrika barat laut. Julukan spesifiknya pseudacorus berarti \"acorus palsu\", mengacu pada kemiripan daunnya dengan daun jeringau, karena daunnya memiliki urat tengah yang menonjol dan bentuk seperti pedang. Namun kedua tumbuhan tersebut tidak berkerabat dekat."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Iris pseudacorus」の節「Cultivation」",
+        "source": "Wikipedia (en): Iris pseudacorus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Iris_pseudacorus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1373941843,
         "heading": "Cultivation",
         "text": "It is widely planted in temperate regions as an ornamental plant, with several cultivars selected for bog garden planting. The following cultivars have gained the Royal Horticultural Society's Award of Garden Merit: \n\n'Roy Davidson'\n'Variegata' (it has leaves that are edged with deep white stripes)\nOther cultivars known include Alba (with pale cream flowers) and Golden Fleece (with dark yellow flowers).",
@@ -250,7 +289,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -357,7 +396,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/438992-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte or helophyte",
@@ -365,7 +404,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/438992-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000783754.webp",
@@ -378,6 +417,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

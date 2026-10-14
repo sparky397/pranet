@@ -31,43 +31,23 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Berle",
-      "Wassersellerie",
-      "Schmalblättriger Merk"
-    ],
-    "en": [
-      "cutleaf waterparsnip",
-      "Lesser Water-parsnip",
-      "lesser water-parsnip, water celery"
-    ],
     "fr": [
       "Berle dressée",
       "petite berle"
-    ],
-    "nl": [
-      "Kleine watereppe"
-    ],
-    "cs": [
-      "potočník vzpřímený"
-    ],
-    "et": [
-      "oja-haneputk"
-    ],
-    "zh": [
-      "天山泽芹"
-    ],
-    "sl": [
-      "ozkolistni koščec"
     ],
     "pl": [
       "Potocznik wąskolistny"
     ],
     "ru": [
       "берула прямая"
+    ],
+    "de": [
+      "Schmalblättriger Merk",
+      "Berle",
+      "Wassersellerie"
     ],
     "nn": [
       "Vasskjeks"
@@ -84,8 +64,20 @@
     "sv": [
       "Bäckmärke"
     ],
+    "nl": [
+      "kleine watereppe"
+    ],
     "be": [
       "Сіела"
+    ],
+    "zh": [
+      "天山泽芹"
+    ],
+    "cs": [
+      "potočník vzpřímený"
+    ],
+    "et": [
+      "oja-haneputk"
     ],
     "cy": [
       "Panasen-y-dŵr gulddail"
@@ -107,24 +99,59 @@
     ],
     "mk": [
       "бобур"
+    ],
+    "sl": [
+      "ozkolistni koščec"
+    ],
+    "en": [
+      "cutleaf waterparsnip",
+      "Lesser Water-parsnip",
+      "lesser water-parsnip, water celery"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q195416",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q195416",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Berula erecta」",
+      "source": "Wikipedia (en): Berula erecta",
       "source_url": "https://en.wikipedia.org/wiki/Berula_erecta",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1313925843,
       "text": "Berula erecta, known as lesser water-parsnip, cutleaf waterparsnip, or narrow-leaved water-parsnip, is a member of the carrot family. Growing to around 1 m (3 ft) tall, it is found in or by water. It is widespread across much of Europe, Asia, Australia, and North America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Berula erecta",
+      "source_url": "https://es.wikipedia.org/wiki/Berula_erecta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174879339,
+      "text": "La arsafraga es una especie de planta herbácea perteneciente a la familia Apiaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Berle dressée",
+      "source_url": "https://fr.wikipedia.org/wiki/Berle_dress%C3%A9e",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237351621,
+      "text": "La berle dressée parfois aussi nommée petite berle ou cresson sauvage, est une espèce de plantes à fleurs de la famille des Apiaceae. C'est une plante herbacée vivace trouvée en Eurasie, en Amérique du Nord et en Australie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Berula erecta",
+      "source_url": "https://pt.wikipedia.org/wiki/Berula_erecta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62142365,
+      "text": "Berula erecta é uma espécie de planta com flor pertencente à família Apiaceae."
     }
   },
   "edible": {
@@ -138,7 +165,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -205,7 +232,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/31836-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or helophyte",
@@ -213,7 +240,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/31836-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000564539.webp",
@@ -226,6 +253,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 234,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

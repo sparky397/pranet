@@ -36,33 +36,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "カポック"
     ],
-    "en": [
-      "Kapok",
-      "kapoktree"
+    "pt": [
+      "Mafumeira"
     ],
-    "fi": [
-      "Amazoninkapokkipuu"
-    ],
-    "it": [
-      "Albero del kapok"
-    ],
-    "sl": [
-      "kapokovec"
-    ],
-    "tr": [
-      "İpek pamuk ağacı",
-      "Kapok"
-    ],
-    "zh": [
-      "美丽异木棉",
-      "吉贝",
-      "爪哇木棉"
+    "id": [
+      "Kapuk",
+      "Kapuk randu"
     ],
     "jv": [
       "Kapuk"
@@ -97,9 +82,6 @@
     "de": [
       "Kapokbaum"
     ],
-    "id": [
-      "Kapuk randu"
-    ],
     "ml": [
       "പഞ്ഞിമരം"
     ],
@@ -118,9 +100,6 @@
     "ht": [
       "Mapou"
     ],
-    "pt": [
-      "Mafumeira"
-    ],
     "eo": [
       "Kapok-arbo"
     ],
@@ -136,8 +115,14 @@
     "ca": [
       "capoquer"
     ],
+    "fi": [
+      "amazoninkapokkipuu"
+    ],
     "uk": [
       "Бавовняне дерево"
+    ],
+    "sl": [
+      "kapokovec"
     ],
     "cs": [
       "Kapok"
@@ -153,6 +138,11 @@
     ],
     "tl": [
       "Bulak"
+    ],
+    "zh": [
+      "吉贝",
+      "美丽异木棉",
+      "爪哇木棉"
     ],
     "oc": [
       "Kapok"
@@ -177,6 +167,10 @@
     ],
     "el": [
       "Καπόκ"
+    ],
+    "tr": [
+      "Kapok",
+      "İpek pamuk ağacı"
     ],
     "bn": [
       "সাদা শিমুল"
@@ -243,13 +237,20 @@
     ],
     "shn": [
       "တူၼ်ႈၼုၼ်ႈ"
+    ],
+    "en": [
+      "Kapok",
+      "kapoktree"
+    ],
+    "it": [
+      "Albero del kapok"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q138617",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q138617",
   "search_names": {
@@ -266,22 +267,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カポック」",
+      "source": "Wikipedia (ja): カポック",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9D%E3%83%83%E3%82%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109893659,
       "text": "カポック は、アオイ科セイバ属の落葉高木。パンヤ (panha) とも。標準和名はパンヤノキ、別名インドキワタ。カポックもパンヤも、本来は繊維のことである。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ceiba pentandra」",
+      "source": "Wikipedia (en): Ceiba pentandra",
       "source_url": "https://en.wikipedia.org/wiki/Ceiba_pentandra",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375128088,
       "text": "Ceiba pentandra is a tropical tree of the order Malvales and the family Malvaceae, native to Mexico, Central America, the Caribbean, and the northern half of South America; some authors also consider it native in western and central Africa. It is widely introduced in other tropical regions including South and Southeast Asia, where it is cultivated."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ceiba pentandra",
+      "source_url": "https://es.wikipedia.org/wiki/Ceiba_pentandra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174296114,
+      "text": "Ceiba pentandra, llamado comúnmente ceiba, ceibo, pochote, huimba, o yaxché, es un árbol de la familia Malvaceae. En algunas zonas al árbol y la fibra que se obtiene de las semillas se les llama en inglés como kapok, nombre derivado del malayo que originalmente se aplicaba a Bombax ceiba, nativo de Asia tropical. Es originario de la región de Mesoamérica y se distribuye mundialmente por la zona intertropical. Se cultiva en plantaciones para la obtención de fibra y aceite, así como también se utiliza de forma ornamental, en la reforestación y la carpintería."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ceiba pentandra",
+      "source_url": "https://fr.wikipedia.org/wiki/Ceiba_pentandra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236869186,
+      "text": "Ceiba pentandra, appelé Fromager, Fwomajyé, mapou wouj aux Antilles françaises, Kapokier ou Arbre à kapok, Bois coton, est une espèce de plantes à fleurs de la famille des Malvaceae. C'est un arbre géant."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Mafumeira",
+      "source_url": "https://pt.wikipedia.org/wiki/Mafumeira",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72392027,
+      "text": "A mafumeira é uma planta tropical da ordem Malvales e da família Malvaceae, nativa do México, da América Central, das Caraíbas, do norte da América do Sul e da África Ocidental. É a árvore oficial de Porto Rico."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kapuk",
+      "source_url": "https://id.wikipedia.org/wiki/Kapuk",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28548069,
+      "text": "Kapuk atau randu adalah pohon tropis yang tergolong ordo Malvales dan famili Malvaceae. Tanaman ini berasal dari Amerika Selatan bagian utara, Amerika Tengah dan Karibia. Untuk varitas C. pentandra var. guineensis berasal dari sebelah barat Afrika. Ceiba, genis tanaman ini juga merupakan simbol suci dalam mitologi bangsa Maya."
     }
   },
   "edible": {
@@ -300,7 +337,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -410,7 +447,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1166232-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -418,7 +455,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1166232-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000592594.webp",
@@ -431,6 +468,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 225,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

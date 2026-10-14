@@ -22,18 +22,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Spanish cherry",
-      "Red Condoo",
-      "Mamajen"
-    ],
-    "zh": [
-      "香榄"
-    ],
     "id": [
+      "Tanjung (pohon)",
       "Tanjung"
     ],
     "bn": [
@@ -99,6 +92,9 @@
     "as": [
       "বকুল"
     ],
+    "zh": [
+      "香榄"
+    ],
     "fi": [
       "intianbaulapuu"
     ],
@@ -128,13 +124,18 @@
     ],
     "shn": [
       "တူၼ်ႈၶႅတ်ႉလႃး"
+    ],
+    "en": [
+      "Spanish cherry",
+      "Red Condoo",
+      "Mamajen"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2088434",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2088434",
   "search_names": {
@@ -145,13 +146,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Mimusops elengi」",
+      "source": "Wikipedia (en): Mimusops elengi",
       "source_url": "https://en.wikipedia.org/wiki/Mimusops_elengi",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314782766,
       "text": "Mimusops elengi is a medium-sized evergreen tree found in tropical forests in South Asia, Southeast Asia and northern Australia. English common names include Spanish cherry, medlar, and bullet wood. Its timber is valuable and its fruit is edible. As the trees give thick shade and flowers emit fragrance, it is a prized collection for gardens. It is used as an ornamental tree in many places. The flowers may also be used in natural perfume."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Mimusops elengi",
+      "source_url": "https://fr.wikipedia.org/wiki/Mimusops_elengi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 209193934,
+      "text": "Mimusops elengi est une espèce de plantes à fleurs de la famille des Sapotaceae. C'est un arbre originaire de l'Asie, du sud de l'Inde au Viet-nam. Il a été importé dans de nombreux pays chauds notamment en Afrique et au nord de l'Australie. On le trouve à La Réunion et à l'île Maurice."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tanjung (pohon)",
+      "source_url": "https://id.wikipedia.org/wiki/Tanjung_(pohon)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29331705,
+      "text": "Tanjung adalah sejenis pohon yang berasal dari India, Sri Lanka dan Burma. Telah masuk ke Nusantara semenjak berabad-abad yang silam, pohon ini juga dikenal dengan nama-nama seperti tanjong, tanju (Bim.), tanjung (Bal.), keupula canggè (Aceh), dan kahekis, karikis, kariskis, rekes. Pohon tanjung berbunga harum semerbak dan bertajuk rindang, biasa ditanam di taman-taman dan sisi jalan."
     }
   },
   "edible": {
@@ -168,7 +187,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -210,7 +229,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/787918-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -218,7 +237,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/787918-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000244577.webp",
@@ -231,6 +250,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 364,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

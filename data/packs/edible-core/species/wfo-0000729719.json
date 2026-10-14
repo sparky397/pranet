@@ -17,7 +17,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -25,66 +25,23 @@
     ],
     "en": [
       "Yerba mate",
+      "yerba mate",
       "mate",
       "Yerba Maté",
       "holly",
       "Paraguay tea"
     ],
-    "cs": [
-      "cesmína paraguayská"
+    "pt": [
+      "Erva-mate",
+      "erva-mate",
+      "congonha",
+      "mate"
     ],
-    "de": [
-      "Mate-Baum",
-      "Mate-Strauch"
-    ],
-    "eo": [
-      "Paragvaja ilekso"
-    ],
-    "es": [
-      "Yerba Mate",
-      "Yerba"
-    ],
-    "fi": [
-      "Matee"
-    ],
-    "fr": [
-      "Thé des Jésuites",
-      "Thé du Brésil",
-      "Thé du Paraguay",
-      "Yerba Maté"
-    ],
-    "gn": [
-      "Ka'a"
-    ],
-    "nl": [
-      "Matéplant"
+    "id": [
+      "Yerba mate"
     ],
     "pl": [
       "ostrokrzew paragwajski"
-    ],
-    "pt": [
-      "congonha",
-      "erva-mate",
-      "mate"
-    ],
-    "ru": [
-      "Падуб парагвайский"
-    ],
-    "sv": [
-      "Mate"
-    ],
-    "tr": [
-      "Yerba Mate"
-    ],
-    "zh": [
-      "巴拉圭冬青",
-      "巴拉圭茶"
-    ],
-    "ast": [
-      "mate"
-    ],
-    "sl": [
-      "mate"
     ],
     "qu": [
       "Mati wayusa"
@@ -98,6 +55,10 @@
     "ceb": [
       "Yerba mate"
     ],
+    "de": [
+      "Mate-Strauch",
+      "Mate-Baum"
+    ],
     "br": [
       "Yerba mate"
     ],
@@ -107,11 +68,32 @@
     "ar": [
       "بهشية براغوانية"
     ],
+    "sv": [
+      "mate"
+    ],
+    "gn": [
+      "Ka'a"
+    ],
+    "ru": [
+      "Падуб парагвайский"
+    ],
+    "tr": [
+      "Yerba mate"
+    ],
     "ca": [
       "mate"
     ],
+    "fi": [
+      "matee"
+    ],
     "uk": [
       "Парагвайський падуб"
+    ],
+    "sl": [
+      "mate"
+    ],
+    "cs": [
+      "cesmína paraguayská"
     ],
     "fa": [
       "ماته"
@@ -134,11 +116,18 @@
     "kk": [
       "Мате"
     ],
+    "zh": [
+      "巴拉圭冬青",
+      "巴拉圭茶"
+    ],
     "sk": [
       "Cezmína paraguajská"
     ],
     "th": [
       "มาเต"
+    ],
+    "eo": [
+      "Paragvaja ilekso"
     ],
     "gl": [
       "herba mate"
@@ -156,9 +145,6 @@
       "Paraguaykristtorn"
     ],
     "cy": [
-      "Yerba mate"
-    ],
-    "id": [
       "Yerba mate"
     ],
     "ms": [
@@ -184,13 +170,29 @@
     ],
     "mr": [
       "येर्बा माते"
+    ],
+    "es": [
+      "Yerba Mate",
+      "Yerba"
+    ],
+    "fr": [
+      "Thé des Jésuites",
+      "Thé du Brésil",
+      "Thé du Paraguay",
+      "Yerba Maté"
+    ],
+    "nl": [
+      "Matéplant"
+    ],
+    "ast": [
+      "mate"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q117068",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q117068",
   "search_names": {
@@ -203,36 +205,94 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「イェルバ・マテ」",
+      "source": "Wikipedia (ja): イェルバ・マテ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A7%E3%83%AB%E3%83%90%E3%83%BB%E3%83%9E%E3%83%86",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106348546,
       "text": "イェルバ・マテ は、ブラジル、パラグアイ、アルゼンチンにまたがるイグアスの滝周辺を原産とするモチノキ科の常緑喬木。この植物の葉や小枝がマテ茶の原料である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Yerba mate」",
+      "source": "Wikipedia (en): Yerba mate",
       "source_url": "https://en.wikipedia.org/wiki/Yerba_mate",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372185723,
       "text": "Yerba mate or yerba maté, Ilex paraguariensis, is a plant species of the holly genus native to South America. The leaves of the plant can be steeped in hot water to make a beverage known as mate. Brewed cold, it is used to make tereré. Both the plant and the beverage contain caffeine."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ilex paraguariensis",
+      "source_url": "https://es.wikipedia.org/wiki/Ilex_paraguariensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175788508,
+      "text": "La yerba mate, yerba de los jesuitas o yerba del Paraguay (Ilex paraguariensis), es una especie arbórea neotropical originaria de América del Sur. Se encuentra presente en la región de la Mata Atlántica de Paraguay, Argentina, y Brasil, así como también en las sierras boscosas de Uruguay en donde crece en estado doméstico gracias a organizaciones y empresas que insertaron la planta ya que no es nativa de la zona, sobre todo formando parte del sotobosque o del estrato mediano de los montes."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ilex paraguariensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Ilex_paraguariensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225467958,
+      "text": "La yerba mate, parfois appelée « thé du Paraguay » ou « thé des jésuites », en guarani ka’a, est une espèce sud-américaine du genre Ilex comme le houx commun, et de la famille des Aquifoliaceae. Ses feuilles, torréfiées, pulvérisées et infusées dans l'eau chaude, permettent de produire le maté, une boisson stimulante riche en caféine, aux effets semblables à ceux du café ou du thé. Si cette boisson est préparée avec de l'eau froide, additionnée de plantes médicinales, elle est appelée tereré."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Erva-mate",
+      "source_url": "https://pt.wikipedia.org/wiki/Erva-mate",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72899201,
+      "text": "A erva-mate, também chamada mate ou congonha, é uma árvore da família das aquifoliáceas, originária da região subtropical da América do Sul. É consumida como chá mate, chimarrão ou tereré no Brasil, no Paraguai, na Argentina, no Uruguai, na Bolívia e no Chile."
+    },
+    "id": {
+      "source": "Wikipedia (id): Yerba mate",
+      "source_url": "https://id.wikipedia.org/wiki/Yerba_mate",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28105632,
+      "text": "Yerba mate adalah spesies dari genus Ilex, dengan nama botani Ilex paraguariensis A. St.-Hil. dinamai oleh ahli botani Prancis Auguste François César Prouvençal de Saint-Hilaire."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Yerba mate」の節「Cultivation」",
+        "source": "Wikipedia (en): Yerba mate § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Yerba_mate#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1372185723,
         "heading": "Cultivation",
         "text": "The yerba mate plant is grown and processed in its native regions of South America, specifically in Paraguay, some parts of northern Argentina (Misiones), Uruguay, and southern Brazil (Rio Grande do Sul, Santa Catarina, Paraná, and Mato Grosso do Sul). Cultivators are known as yerbateros (Spanish) or ervateiros (Brazilian Portuguese).\nSeeds used to germinate new plants are harvested after they have turned dark purple, typically from January to April. After harvest, they are submerged in water in order to eliminate floating non-viable seeds and detritus like twigs, leaves, etc. New plants are started between March and May. For plants established in pots, transplanting takes place April through September. Plants with bare roots are transplanted only during the months of June and July.\nMany of the natural enemies of yerba mate are difficult to control in plantation settings. Insect pests include Gyropsylla spegazziniana, a true bug that lays eggs in the branches; Hedyphates betulinus, a type of beetle that weakens the tree and makes it more susceptible to mold and mildew; Perigonia lusca, a moth whose larvae eat the leaves; and several species of mites. P. lusca may be controlled with a nuclear polyhedrosis virus used as a biopesticide. This was first applied in 1992.\nWhen I. paraguariensis is harvested, the branches are often dried by a wood fire, imparting a smoky flavor. The strength of the flavor, caffeine levels, and other nutrients can vary depending on whether it is a male or female plant. Female plants tend to be milder in flavor and lower in caffeine. They are also relatively scarce in the areas where yerba mate is planted and cultivated.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Ilex paraguariensis § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Ilex_paraguariensis#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175788508,
+        "heading": "Cultivo",
+        "text": "La yerba requiere temperaturas tropicales y una elevada humedad en el ambiente, así como frecuentes precipitaciones, en el orden de los 2000 mm anuales, especialmente durante la floración. La temperatura óptima se ubica en torno a los 20 °C de media, aunque soporta bien las heladas suaves. Es muy tolerante a la sombra. \nPrefiere sitios bajos, con buen drenaje y posibilidad de radicar en profundidad. El suelo debe ser ligeramente ácido, arenoso o arcilloso, de textura fina o media. Tiene altos requerimientos de ácido fosfórico y potasio.\n\n■ Plantación\n\nTradicionalmente, la yerba se cultivaba de manera simplemente extractiva, aprovechando los ejemplares silvestres del sotobosque, esta práctica ya no se utiliza, en la actualidad hay cultivos de manera ordenada. Los intentos iniciales de domesticar su cultivo se toparon con dificultades en la germinación, lo que llevó a los sacerdotes de las reducciones jesuíticas, los primeros que emprendieron el intento, a fomentar el replante en zona selvática y la poda como medios de incrementar la producción. En buena parte de Brasil las pequeñas explotaciones funcionan aún de ese modo.\nPara el cultivo organizado, las semillas se cosechan entre febrero y abril; deben plantarse de inmediato o almacenarse con sumo cuidado, para evitar que el endurecimiento de las mismas las haga inviables. A bajas temperaturas pueden almacenarse hasta un año, aunque su capacidad de germinar se reduce abruptamente. En muchas semillas externamente maduras el embrión es aún rudimentario, lo que provoca larguísimos períodos de germinación en algunos casos. Sin embargo, la reproducción sexual sigue siendo la forma más frecuente de cultivo.",
+        "truncated": true
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Erva-mate § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Erva-mate#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72899201,
+        "heading": "Cultivo",
+        "text": "Atualmente, existem viveiros que produzem mudas de variedades selecionadas, cujo plantio é feito com técnicas especiais em grandes hortos. Para facilitar a colheita anual dos ramos, a árvore é severamente podada para manter-se com não mais de três metros de altura. Dessa forma, evitam-se plantas altas que dificultem a colheita das folhas jovens, consideradas nobres na infusão do chá-mate. Outra prática bastante popular no planalto curitibano, habitat original da erva-mate, é conciliar o plantio da araucária com o da erva-mate. Técnicas como essa são comuns para um controle ambiental mais rígido e para evitar o desgaste do solo.",
+        "truncated": false
       }
     }
   },
@@ -248,7 +308,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -266,7 +326,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/315555-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -274,7 +334,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/315555-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000729719.webp",
@@ -287,6 +347,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 277,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

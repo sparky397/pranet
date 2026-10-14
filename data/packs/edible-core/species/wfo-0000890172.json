@@ -19,27 +19,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヨシ"
     ],
-    "de": [
-      "Gewöhnliches Schilf",
-      "Schilf",
-      "Schilfrohr"
-    ],
-    "en": [
-      "Common Reed"
-    ],
     "fr": [
+      "Roseau commun",
       "Phragmite commun",
       "Roseau"
     ],
     "zh": [
-      "蘆葦",
       "芦苇",
+      "蘆葦",
       "沙芦苇",
       "芦根",
       "毛叶石楠",
@@ -51,15 +44,6 @@
       "芦花",
       "芦草"
     ],
-    "nl": [
-      "Riet"
-    ],
-    "cs": [
-      "rákos obecný"
-    ],
-    "ko": [
-      "갈대"
-    ],
     "pam": [
       "Timbu"
     ],
@@ -68,6 +52,9 @@
     ],
     "qu": [
       "Suqus"
+    ],
+    "ko": [
+      "갈대"
     ],
     "be": [
       "Трыснёг звычайны"
@@ -81,11 +68,19 @@
     "et": [
       "harilik pilliroog"
     ],
+    "de": [
+      "Schilfrohr",
+      "Gewöhnliches Schilf",
+      "Schilf"
+    ],
     "el": [
       "Καλάμι"
     ],
     "hsb": [
       "Wšědna sćina"
+    ],
+    "nl": [
+      "riet"
     ],
     "sv": [
       "bladvass"
@@ -113,6 +108,9 @@
     ],
     "sgs": [
       "Mindrė"
+    ],
+    "cs": [
+      "rákos obecný"
     ],
     "fa": [
       "نی"
@@ -245,13 +243,16 @@
     ],
     "sl": [
       "navadni trst"
+    ],
+    "en": [
+      "Common Reed"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q28557",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q28557",
   "search_names": {
@@ -266,22 +267,64 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヨシ」",
+      "source": "Wikipedia (ja): ヨシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111093135,
       "text": "ヨシ は、イネ科ヨシ属の多年草。河川および湖沼の水際に背の高い群落を形成する。別名、アシ、キタヨシ。日本ではセイタカヨシ およびツルヨシ を別種とする扱いが主流である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Phragmites australis」",
+      "source": "Wikipedia (en): Phragmites australis",
       "source_url": "https://en.wikipedia.org/wiki/Phragmites_australis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378516105,
       "text": "Phragmites australis, the common reed, is a species of flowering plant in the grass family Poaceae. It is a wetland grass that can grow up to 2–6 metres (7–20 ft) tall and has a cosmopolitan distribution worldwide."
+    },
+    "es": {
+      "source": "Wikipedia (es): Phragmites australis",
+      "source_url": "https://es.wikipedia.org/wiki/Phragmites_australis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174580290,
+      "text": "El carrizo es una especie de caña del género Phragmites de la familia Poaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Roseau commun",
+      "source_url": "https://fr.wikipedia.org/wiki/Roseau_commun",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238964761,
+      "text": "Le Roseau commun, Roseau à balais ou Sagne est une espèce cosmopolite de plantes herbacées vivaces de la famille des Poaceae, sous-famille des Arundinoideae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Phragmites australis",
+      "source_url": "https://pt.wikipedia.org/wiki/Phragmites_australis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71093107,
+      "text": "Phragmites australis é uma espécie de planta com flor pertencente à família Poaceae."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Roseau commun § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Roseau_commun#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238964761,
+        "heading": "Toxicité",
+        "text": "La sous-espèce P. a. subsp. australis sécréterait de l'acide gallique, dégradé en acide mésogallique sous l'effet des ultraviolets naturels (photodécomposition), ce qui constituerait une explication allélopathique à sa tendance envahissante. Toutefois, on a récemment remis en question la sécrétion d'une telle substance par cette sous-espèce.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -299,7 +342,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -549,7 +592,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30337627-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "helophyte or rhizomatous hydrogeophyte",
@@ -557,7 +600,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30337627-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000890172.webp",
@@ -570,6 +613,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 305,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

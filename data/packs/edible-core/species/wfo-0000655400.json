@@ -13,21 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "small daylily",
-      "dwarf yellow day lily"
-    ],
-    "zh": [
-      "小黄花菜",
-      "萱草嫩苗",
-      "小黄花菜（小萱草）",
-      "黄花菜",
-      "萱草根",
-      "红萱"
-    ],
     "az": [
       "Kiçik günotu"
     ],
@@ -37,18 +25,30 @@
     "ar": [
       "زنبق النهار الأصغر"
     ],
+    "zh": [
+      "小黄花菜",
+      "萱草嫩苗",
+      "小黄花菜（小萱草）",
+      "黄花菜",
+      "萱草根",
+      "红萱"
+    ],
     "ja": [
       "ホソバキスゲ"
     ],
     "cs": [
       "denivka menší"
+    ],
+    "en": [
+      "small daylily",
+      "dwarf yellow day lily"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5221108",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5221108",
   "search_names": {
@@ -59,13 +59,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Hemerocallis minor」",
+      "source": "Wikipedia (en): Hemerocallis minor",
       "source_url": "https://en.wikipedia.org/wiki/Hemerocallis_minor",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1155748720,
       "text": "Hemerocallis minor, is also known as dwarf daylily, grassleaf lily and small daylily. It is native to northern Asia. The plant grows up through 0.5 m high. Its wide yellow flowers are scentless. It is a hermaphroditic species, pollinated by insects such as honey bees."
+    },
+    "es": {
+      "source": "Wikipedia (es): Hemerocallis minor",
+      "source_url": "https://es.wikipedia.org/wiki/Hemerocallis_minor",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 142911765,
+      "text": "Hemerocallis minor es una de las especies comúnmente denominadas lirios de día. Se trata de una especie herbácea, perenne y rizomatosa perteneciente a la familia Xanthorrhoeaceae. Esta planta es nativa del norte de China, Mongolia, este de Siberia y Corea. Se caracteriza por su pequeño tamaño y sus flores de color amarillo, perfumadas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Hemerocallis minor",
+      "source_url": "https://fr.wikipedia.org/wiki/Hemerocallis_minor",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239699542,
+      "text": "Hemerocallis minor, le Lis du jour nain, Lis à feuilles larges ou Petit hémérocalle[réf. nécessaire], est une espèce de plantes à fleurs du genre Hemerocallis et de la famille des Asphodelaceae. Il est originaire du nord-est de l'Asie. La plante atteint une hauteur de 0,5 m. Ses larges fleurs jaunes sont sans odeur. C'est une plante hermaphrodite, pollinisée par des insectes tels que les abeilles à miel."
+    },
+    "id": {
+      "source": "Wikipedia (id): Hemerocallis minor",
+      "source_url": "https://id.wikipedia.org/wiki/Hemerocallis_minor",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29231188,
+      "text": "Hemerocallis minor, juga dikenal sebagai dwarf daylily, grassleaf lily dan small daylily. Tumbuhan ini merupakan tanaman asli Asia bagian utara. Tanaman ini tumbuh hingga ketinggian 0,5 m. Bunganya yang berwarna kuning lebar tidak beraroma. Spesies ini bersifat hermafrodit dan diserbuki oleh serangga seperti lebah madu."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Hemerocallis minor § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Hemerocallis_minor#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 142911765,
+        "heading": "Cultivo",
+        "text": "Se lo utiliza en jardinería y paisajismo ya que provee color y contraste en los macizos de plantas perennes cuando se la cultiva en grupos. En parques grandes, es efectiva también para solucionar la erosión cultivándola en las pendientes. Asimismo, aun cuando las plantas no se hallen en floración, las hojas proveen un elegante follaje, color y textura en los macizos de perennes.\nEs una planta de fácil cultivo en cualquier suelo bien drenado y en un lugar a pleno sol. Es tolerante a suelos pobres, a los veranos excesivamente cálidos y a la falta de humedad. \nPara mantener el vigor de las plantas y asegurar que florezcan profusamente, es necesario dividir las matas muy grandes, excesivamente pobladas, y remover los escapos cuando las flores han terminado la floración.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -78,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -103,7 +145,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/536354-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or tuberous geophyte",
@@ -111,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/536354-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000655400.webp",
@@ -124,6 +166,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

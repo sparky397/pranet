@@ -8,21 +8,16 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "リュウキュウバショウ",
       "リュウキュウイトバショウ"
     ],
-    "en": [
-      "banana"
-    ],
-    "zh": [
-      "拔蕉",
-      "千只眼",
-      "野蕉",
-      "山芭蕉子"
+    "id": [
+      "Pisang batu",
+      "pisang batu"
     ],
     "vi": [
       "Chuối hột"
@@ -45,6 +40,12 @@
     "ms": [
       "Pisang batu"
     ],
+    "zh": [
+      "野蕉",
+      "拔蕉",
+      "千只眼",
+      "山芭蕉子"
+    ],
     "ru": [
       "Банан Бальбиса"
     ],
@@ -56,9 +57,6 @@
     ],
     "su": [
       "Cau manggala"
-    ],
-    "id": [
-      "pisang batu"
     ],
     "ar": [
       "موز بالبيسي"
@@ -80,13 +78,16 @@
     ],
     "yue": [
       "大果野蕉"
+    ],
+    "en": [
+      "banana"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q94643",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q94643",
   "search_names": {
@@ -96,22 +97,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「リュウキュウバショウ」",
+      "source": "Wikipedia (ja): リュウキュウバショウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%AD%E3%83%A5%E3%82%A6%E3%83%90%E3%82%B7%E3%83%A7%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109287081,
       "text": "リュウキュウバショウ は、南アジア東部、東南アジア北部、および中国南部原産のバショウ科バショウ属の植物。マレーヤマバショウ と共に、現代の栽培品種のバナナの祖先種である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Musa balbisiana」",
+      "source": "Wikipedia (en): Musa balbisiana",
       "source_url": "https://en.wikipedia.org/wiki/Musa_balbisiana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377165737,
       "text": "Musa balbisiana, also known simply as plantain, is a wild-type species of banana. It is one of the ancestors of modern cultivated bananas, along with Musa acuminata."
+    },
+    "es": {
+      "source": "Wikipedia (es): Musa balbisiana",
+      "source_url": "https://es.wikipedia.org/wiki/Musa_balbisiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175072288,
+      "text": "El plátano rosado, también denominado plátano macho en México, banana macha o simplemente plátano, es una planta tropical de la familia de las musáceas, uno de los progenitores de la banana o plátano comercial, Musa × paradisiaca. Hoy la inmensa mayoría de los ejemplares plantados para obtener fruto proceden de alguna variedad cultivar obtenida por hibridación de M. acuminata y M. balbisiana, pero esta última se cultiva aún. En las islas Ryukyu del Japón se utiliza por la fibra textil obtenida de sus hojas, con el nombre de ito-basho."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Musa balbisiana",
+      "source_url": "https://fr.wikipedia.org/wiki/Musa_balbisiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 217286171,
+      "text": "Musa balbisiana est une espèce de bananiers de la famille des Musaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pisang batu",
+      "source_url": "https://id.wikipedia.org/wiki/Pisang_batu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29489346,
+      "text": "Pisang batu adalah spesies pisang yang masih memiliki biji. Persilangannya dengan Musa acuminata bisa dimakan."
     }
   },
   "edible": {
@@ -126,7 +154,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -162,7 +190,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/797536-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "herbaceous tree",
@@ -170,7 +198,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/797536-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000473990.webp",
@@ -183,6 +211,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

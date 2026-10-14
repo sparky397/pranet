@@ -35,44 +35,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ドクムギ"
-    ],
-    "cy": [
-      "efrau"
-    ],
-    "en": [
-      "Darnel ryegrass",
-      "darnel"
-    ],
-    "nl": [
-      "Dolik"
-    ],
-    "cs": [
-      "jílek mámivý"
-    ],
-    "fr": [
-      "ivraie enivrante"
-    ],
-    "de": [
-      "Taumellolch",
-      "Taumel-Lolch"
-    ],
-    "fi": [
-      "myrkkyraiheinä"
-    ],
-    "mk": [
-      "пијанка"
-    ],
-    "zh": [
-      "毒麦",
-      "长芒毒麦"
-    ],
-    "ast": [
-      "rabigallu"
     ],
     "pt": [
       "Joio"
@@ -85,6 +52,13 @@
     ],
     "ca": [
       "zitzània"
+    ],
+    "fi": [
+      "myrkkyraiheinä"
+    ],
+    "de": [
+      "Taumel-Lolch",
+      "Taumellolch"
     ],
     "fa": [
       "چچم"
@@ -110,6 +84,10 @@
     "gl": [
       "Xoio"
     ],
+    "zh": [
+      "毒麦",
+      "长芒毒麦"
+    ],
     "sv": [
       "Dårrepe"
     ],
@@ -122,17 +100,26 @@
     "da": [
       "Giftig rajgræs"
     ],
+    "cy": [
+      "Efrau"
+    ],
     "eu": [
       "Iraka"
     ],
     "he": [
       "זון משכר"
     ],
+    "cs": [
+      "jílek mámivý"
+    ],
     "hr": [
       "Pijani ljulj"
     ],
     "hy": [
       "Հարբեցնող որոմ"
+    ],
+    "mk": [
+      "пијанка"
     ],
     "et": [
       "uimastav raihein"
@@ -160,13 +147,26 @@
     ],
     "grc": [
       "αἶρα"
+    ],
+    "en": [
+      "Darnel ryegrass",
+      "darnel"
+    ],
+    "nl": [
+      "Dolik"
+    ],
+    "fr": [
+      "ivraie enivrante"
+    ],
+    "ast": [
+      "rabigallu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q162088",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q162088",
   "search_names": {
@@ -179,22 +179,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ドクムギ」",
+      "source": "Wikipedia (ja): ドクムギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%AF%E3%83%A0%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107273749,
       "text": "ドクムギ は、イネ科の道端や荒れ地でたまに見られる雑草の一つ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lolium temulentum」",
+      "source": "Wikipedia (en): Lolium temulentum",
       "source_url": "https://en.wikipedia.org/wiki/Lolium_temulentum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375268642,
       "text": "Lolium temulentum, commonly known as darnel, poison darnel, darnel ryegrass or cockle, is an annual flowering plant in the grass family Poaceae. The plant stem can grow up to one meter tall, with inflorescence in the ears and purple grain. It has a cosmopolitan distribution."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lolium temulentum",
+      "source_url": "https://es.wikipedia.org/wiki/Lolium_temulentum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173480605,
+      "text": "Lolium temulentum, conocido comúnmente como cizaña, espantapájaros o, en desuso, lolio es una planta anual perteneciente a la familia de las Gramíneas y al género Lolium."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lolium temulentum",
+      "source_url": "https://fr.wikipedia.org/wiki/Lolium_temulentum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227571171,
+      "text": "Lolium temulentum est une espèce de plantes monocotylédones de la famille des Poaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lolium temulentum",
+      "source_url": "https://pt.wikipedia.org/wiki/Lolium_temulentum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72052326,
+      "text": "Lolium temulentum é uma espécie de planta com flor pertencente à família Poaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Lolium temulentum",
+      "source_url": "https://id.wikipedia.org/wiki/Lolium_temulentum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28104568,
+      "text": "Lolium temulentum, atau \"lalang\", adalah tumbuhan rumput tahunan yang tergolong ke dalam familia Poaceae, genus Lolium. Batang tumbuhan ini dapat mencapai ketinggian satu meter, dengan infloresens pada telinga dan biji berwarna ungu tua. Penyebarannya adalah di seluruh dunia (kosmopolitan)."
     }
   },
   "edible": {
@@ -209,7 +245,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -400,7 +436,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/407516-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -408,7 +444,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/407516-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000878503.webp",
@@ -421,6 +457,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 242,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

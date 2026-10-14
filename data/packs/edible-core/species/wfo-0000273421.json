@@ -10,17 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "bayrumtree"
-    ],
-    "zh": [
-      "总序多香果",
-      "众香",
-      "香葉多香果"
-    ],
     "to": [
       "Sinamoni"
     ],
@@ -48,26 +40,61 @@
     "arz": [
       "شجرة القرنفل"
     ],
+    "zh": [
+      "香葉多香果",
+      "总序多香果",
+      "众香"
+    ],
     "sd": [
       "قرڦل جو وڻ"
+    ],
+    "en": [
+      "bayrumtree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q812057",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q812057",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pimenta racemosa」",
+      "source": "Wikipedia (en): Pimenta racemosa",
       "source_url": "https://en.wikipedia.org/wiki/Pimenta_racemosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377617337,
       "text": "Pimenta racemosa is a species of plant in the myrtle family (Myrtaceae) that is native to the Caribbean region and Venezuela. Common names include West Indian bay tree, bay rum tree, and ciliment."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pimenta racemosa",
+      "source_url": "https://es.wikipedia.org/wiki/Pimenta_racemosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175479670,
+      "text": "La malagueta o el \"bay-rum\" —\"bois d'Inde\", \"bois senteur\", \"piment couronné\", guayabita, pimienta dulce entre otros nombres, en las Antillas francófonas— es un árbol de la familia Myrtaceae oriundo de las Antillas y la Guayana, de cuyas hojas se obtienen unos aceites esenciales, muy aromáticos, que se conocen también como bay-rum."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pimenta racemosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Pimenta_racemosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235667285,
+      "text": "Pimenta racemosa est une espèce de plantes à fleurs de la famille des Myrtaceae. C'est un arbre sempervirent originaire des Antilles."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pimenta racemosa",
+      "source_url": "https://pt.wikipedia.org/wiki/Pimenta_racemosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73050173,
+      "text": "Pimenta racemosa é uma espécie arbórea de plantas com flor da família Myrtaceae, oriunda das Antilhas e Guiana, de cujas folhas são obtidos as bagas e os óleos essenciais, fortemente aromáticos, comercializados comercializados sob o nome de pimenta-racemosa, pimenta-coroada ou bay-rum."
     }
   },
   "edible": {
@@ -82,7 +109,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -109,7 +136,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/196820-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -117,7 +144,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/196820-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000273421.webp",
@@ -130,6 +157,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 217,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

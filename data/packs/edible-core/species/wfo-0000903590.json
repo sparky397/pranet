@@ -46,24 +46,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "kangaroo grass",
-      "Red grass"
-    ],
-    "af": [
-      "Rooigras"
-    ],
-    "zh": [
-      "阿拉伯黄背草",
-      "黄背草",
-      "菅茅根",
-      "黄背草苗",
-      "黄背草根",
-      "黄背草果"
-    ],
     "ko": [
       "솔새"
     ],
@@ -73,8 +58,19 @@
     "ar": [
       "ثمد ثلاثي الأسدية"
     ],
+    "zh": [
+      "黄背草",
+      "阿拉伯黄背草",
+      "菅茅根",
+      "黄背草苗",
+      "黄背草根",
+      "黄背草果"
+    ],
     "sv": [
       "Kängurugräs"
+    ],
+    "af": [
+      "Rooigras"
     ],
     "fi": [
       "savannitöyhtöheinä"
@@ -87,13 +83,17 @@
     ],
     "ja": [
       "メガルカヤ"
+    ],
+    "en": [
+      "kangaroo grass",
+      "Red grass"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1038150",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1038150",
   "search_names": {
@@ -105,13 +105,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Themeda triandra」",
+      "source": "Wikipedia (en): Themeda triandra",
       "source_url": "https://en.wikipedia.org/wiki/Themeda_triandra",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365334841,
       "text": "Themeda triandra is a species of C4 perennial tussock-forming grass widespread in Africa, Australia, Asia and the Pacific. In Australia it is commonly known as kangaroo grass and in East Africa and South Africa it is known as red grass and red oat grass or as rooigras in Afrikaans. Kangaroo grass was formerly thought to be one of two species, and was named Themeda australis."
+    },
+    "es": {
+      "source": "Wikipedia (es): Themeda triandra",
+      "source_url": "https://es.wikipedia.org/wiki/Themeda_triandra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 162052963,
+      "text": "Themeda triandra es una especie de hierba perennifolia perteneciente a la familia de las poáceas. Se encuentra en África, Australia, Asia y en islas del Océano Pacífico."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Themeda triandra",
+      "source_url": "https://fr.wikipedia.org/wiki/Themeda_triandra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 177707054,
+      "text": "Themeda triandra est une espèce de plantes monocotylédones de la famille des Poaceae (graminées) largement répandue en Australie, en Afrique, en Asie et autour de l'Océan Pacifique. elle est connue en Australie sous le nom de kangaroo grass, en Afrique du Sud de red grass (anglais) ou de rooigras (afrikaans)."
+    },
+    "id": {
+      "source": "Wikipedia (id): Themeda triandra",
+      "source_url": "https://id.wikipedia.org/wiki/Themeda_triandra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28226683,
+      "text": "Themeda triandra adalah sebuah rumput perennial yang menyebar di Afrika, Australia, Asia dan Pasifik. Di Australia, tumbuhan tersebut umumnya dikenal sebagai rumput kangguru. Di Afrika Selatan dan timur, tumbuhan tersebut dikenal sebagai rumput merah dan rumput oat merah, rooigras dalam bahasa Afrikaans, dan tagalinga dalam bahasa Ternate."
     }
   },
   "edible": {
@@ -128,7 +155,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -228,7 +255,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/424213-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -236,7 +263,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/424213-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000903590.webp",
@@ -249,6 +276,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

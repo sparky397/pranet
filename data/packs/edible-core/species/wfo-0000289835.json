@@ -14,15 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Brant's oak"
-    ],
-    "tr": [
-      "İran palamut meşesi"
-    ],
     "ar": [
       "سنديان برانتي"
     ],
@@ -37,13 +31,19 @@
     ],
     "zh": [
       "波斯櫟"
+    ],
+    "en": [
+      "Brant's oak"
+    ],
+    "tr": [
+      "İran palamut meşesi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q12217036",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q12217036",
   "search_names": {
@@ -54,13 +54,22 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Quercus brantii」",
+      "source": "Wikipedia (en): Quercus brantii",
       "source_url": "https://en.wikipedia.org/wiki/Quercus_brantii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373222416,
       "text": "Quercus brantii, Brant's oak, is a species of oak native to Western Asia, mainly in Iran, Iraq, Syria, and Turkey."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Quercus brantii",
+      "source_url": "https://fr.wikipedia.org/wiki/Quercus_brantii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 196899159,
+      "text": "Le quercus brantii ou chêne de Brandt est un chêne originaire d'Asie occidentale que l'on retrouve en Iran, en Irak, en Syrie et en Turquie. Cette espèce couvre environ 50% de la steppe boisée des monts Zagros."
     }
   },
   "edible": {
@@ -72,7 +81,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -86,7 +95,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/295874-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -94,7 +103,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/295874-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000289835.webp",
@@ -107,6 +116,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

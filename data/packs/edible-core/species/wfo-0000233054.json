@@ -10,20 +10,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Champak"
+    "id": [
+      "Cempaka wangi"
     ],
     "de": [
       "Champaka"
     ],
     "hi": [
       "चम्पक"
-    ],
-    "id": [
-      "Cempaka wangi"
     ],
     "km": [
       "ចម្ប៉ាក្រហម"
@@ -123,13 +120,16 @@
     ],
     "shn": [
       "မွၵ်ႇၸၢမ်ၵႃး"
+    ],
+    "en": [
+      "Champak"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q167027",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q167027",
   "search_names": {
@@ -144,26 +144,64 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Magnolia champaca」",
+      "source": "Wikipedia (en): Magnolia champaca",
       "source_url": "https://en.wikipedia.org/wiki/Magnolia_champaca",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377658034,
       "text": "Magnolia champaca, known in English as champak, is a large evergreen tree in the family Magnoliaceae. It was previously classified as Michelia champaca. It is known for its fragrant flowers, and its timber used in woodworking."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Magnolia champaca",
+      "source_url": "https://fr.wikipedia.org/wiki/Magnolia_champaca",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227129944,
+      "text": "Magnolia champaca est une espèce de plantes à fleurs de la famille des Magnoliaceae. C'est un arbre originaire de l'écozone indomalaise."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Magnolia champaca",
+      "source_url": "https://pt.wikipedia.org/wiki/Magnolia_champaca",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69262350,
+      "text": "Magnolia champaca é uma árvore de folhas perenes, nativa do Sudeste Asiático e Ásia Meridional. É muito conhecida por sua forte fragrância e tem flores amarelas ou brancas. É uma árvore, no entanto, cultivada principalmente para extração de sua madeira, e também usada para arborização urbana. Suas sementes cobertas com arilo são muito atrativas a pássaros. Também é conhecida pelo seu sinônimo Michelia champaca."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cempaka wangi",
+      "source_url": "https://id.wikipedia.org/wiki/Cempaka_wangi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29601374,
+      "text": "Cempaka wangi atau cempaka kuning adalah pohon hijau abadi besar yang bunga putih atau kuningnya dikenal luas sebagai sumber wewangian. Tumbuhan asal anak benua India dan Asia Tenggara ini juga berguna kayunya dan berfungsi pula sebagai penghias taman. Bijinya terbungkus oleh salut biji yang disukai burung. Cempaka wangi adalah flora identitas untuk Provinsi Aceh; di sana dikenal sebagai Bungöng Jeumpa Gadéng. Di Jawa Timur tanaman ini dikenal sebagai Lecari."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Magnolia champaca」の節「Cultivation」",
+        "source": "Wikipedia (en): Magnolia champaca § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Magnolia_champaca#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377658034,
         "heading": "Cultivation",
         "text": "Magnolia champaca is cultivated by specialty plant nurseries as an ornamental plant, for its form as an ornamental tree, as a dense screening hedge, and for its fragrant flowers. It is planted in the ground in tropical and in subtropical climate gardens, such as in coastal Southern and Central California. It is planted in containers in cooler temperate climates. It requires full sun and regular watering.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Magnolia champaca § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Magnolia_champaca#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 69262350,
+        "heading": "Cultivo",
+        "text": "M. champaca é cultivada e usada como uma árvore ornamental em jardins de clima temperado, como na costa californiana.",
         "truncated": false
       }
     }
@@ -181,7 +219,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -211,7 +249,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554657-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -219,7 +257,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554657-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000233054.webp",
@@ -232,6 +270,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 360,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

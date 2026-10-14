@@ -16,7 +16,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -26,56 +26,20 @@
       "Pineapple",
       "pineapple"
     ],
-    "ak": [
-      "Abrob3"
-    ],
-    "cs": [
-      "anansovník chocholatý",
-      "ananasovník chocholatý"
-    ],
-    "ee": [
-      "abable"
-    ],
-    "el": [
-      "Ανανάς"
-    ],
-    "es": [
-      "Piña"
-    ],
-    "et": [
-      "Harilik ananass",
-      "ananass"
-    ],
-    "fi": [
-      "hedelmäananas"
-    ],
-    "hu": [
-      "Ananász",
-      "termesztett ananász"
-    ],
     "pt": [
+      "Ananás",
+      "ananás",
       "abacaxi-branco",
       "Abacaxi",
       "aberas",
       "ananá",
-      "ananás",
       "ananaseiro",
       "nanás",
       "nanaseiro"
     ],
-    "zh": [
-      "凤梨",
-      "光亮凤梨",
-      "菠萝皮",
-      "菠萝",
-      "菠萝根叶",
-      "菠蘿"
-    ],
-    "ast": [
-      "ananás"
-    ],
-    "sl": [
-      "čopasti ananas"
+    "id": [
+      "Nanas",
+      "nanas"
     ],
     "am": [
       "ኣናናስ"
@@ -110,6 +74,10 @@
     "chy": [
       "Šéstotó'emeno"
     ],
+    "cs": [
+      "ananasovník chocholatý",
+      "anansovník chocholatý"
+    ],
     "da": [
       "almindelig ananas"
     ],
@@ -143,8 +111,9 @@
     "ht": [
       "zannanna"
     ],
-    "id": [
-      "nanas"
+    "hu": [
+      "termesztett ananász",
+      "Ananász"
     ],
     "io": [
       "ananaso"
@@ -194,6 +163,9 @@
     "sk": [
       "ananás pestovaný"
     ],
+    "sl": [
+      "čopasti ananas"
+    ],
     "sm": [
       "pineapu"
     ],
@@ -236,11 +208,22 @@
     "yi": [
       "אנאנאס"
     ],
+    "zh": [
+      "菠蘿",
+      "凤梨",
+      "光亮凤梨",
+      "菠萝皮",
+      "菠萝",
+      "菠萝根叶"
+    ],
     "yue": [
       "菠蘿"
     ],
     "ml": [
       "കൈതച്ചക്ക"
+    ],
+    "ee": [
+      "abable"
     ],
     "lo": [
       "ໝາກນັດ"
@@ -275,6 +258,10 @@
     "kg": [
       "nanasi"
     ],
+    "et": [
+      "ananass",
+      "Harilik ananass"
+    ],
     "cdo": [
       "Uòng-lì"
     ],
@@ -283,6 +270,9 @@
     ],
     "pnb": [
       "انناس"
+    ],
+    "el": [
+      "ανανάς"
     ],
     "ty": [
       "painapo"
@@ -295,6 +285,9 @@
     ],
     "nb": [
       "vanlig ananas"
+    ],
+    "ast": [
+      "ananás"
     ],
     "min": [
       "naneh"
@@ -451,13 +444,22 @@
     ],
     "shn": [
       "မၢၵ်ႇၵဵင်"
+    ],
+    "ak": [
+      "Abrob3"
+    ],
+    "es": [
+      "Piña"
+    ],
+    "fi": [
+      "hedelmäananas"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1493",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1493",
   "search_names": {
@@ -467,47 +469,105 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「パイナップル」",
+      "source": "Wikipedia (ja): パイナップル",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A4%E3%83%8A%E3%83%83%E3%83%97%E3%83%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110775416,
       "text": "パイナップル は、熱帯アメリカ原産のパイナップル科の多年草、またはその肥大した実である。単にパインと略して呼ばれることもある他、漢名は菠蘿（はら、ポーロ）、または鳳梨（ほうり、オンライ、フォンリー）である。台湾では鳳梨、中国では菠蘿と表記する。また、植物名としてアナナスと呼ぶこともあり、果実や可食部のみパイナップルと呼称し区別することもある。植物学名のAnanasは、外見が亀の甲羅のように見えるところから名付けられた。「パイナップル」(pineapple)という名前は、本来は松 (pine) の果実 (apple) 、すなわち「松かさ」（松ぼっくり）を指した。これが18世紀ごろに、似た外見をもつ本種の果実に転用され今に至る。生産量は増加傾向にあり､コスタリカ、フィリピン、ブラジル産が多い。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pineapple」",
+      "source": "Wikipedia (en): Pineapple",
       "source_url": "https://en.wikipedia.org/wiki/Pineapple",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372920452,
       "text": "The pineapple is a tropical plant with an edible fruit; it is the most economically significant plant in the family Bromeliaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ananas comosus",
+      "source_url": "https://es.wikipedia.org/wiki/Ananas_comosus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175285536,
+      "text": "La piña, también llamada ananá, o matzatli, es una fruta tropical de la familia de las bromeliáceas, originaria de las regiones tropicales de tierras bajas de América del Sur, específicamente del sur de Brasil, Paraguay y el norte de Argentina."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ananas",
+      "source_url": "https://fr.wikipedia.org/wiki/Ananas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058081,
+      "text": "L'ananas est une espèce de plantes xérophytes, originaire d'Amérique du Sud, plus spécifiquement du Paraguay, du nord-est de l'Argentine et sud du Brésil. Il est connu principalement pour son fruit comestible, qui est en réalité un fruit multiple."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ananás",
+      "source_url": "https://pt.wikipedia.org/wiki/Anan%C3%A1s",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73160193,
+      "text": "Ananás (português europeu) ou abacaxi (português brasileiro) é uma infrutescência tropical produzida pela planta de mesmo nome, caracterizada como uma planta monocotiledônea da família das bromeliáceas da subfamília Bromelioideae. É um símbolo das regiões tropicais e subtropicais. Os abacaxizeiros cultivados pertencem à espécie Ananas comosus, que compreende muitas variedades frutíferas. Há também várias espécies selvagens, pertencentes ao mesmo gênero. O fruto, quando maduro, tem folhas que se soltam facilmente ao puxar, o sabor bastante ácido e, muitas vezes, adocicado."
+    },
+    "id": {
+      "source": "Wikipedia (id): Nanas",
+      "source_url": "https://id.wikipedia.org/wiki/Nanas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30059169,
+      "text": "Nanas, adalah tumbuhan tropis dengan buah yang dapat dimakan dan tumbuhan yang paling penting secara ekonomi dalam famili Bromeliaceae. Nanas adalah tumbuhan asli Amerika Selatan, dan telah dibudidayakan disana selama berabad-abad. Pengenalan nanas ke Eropa pada abad ke-17 menjadikannya sebagai ikon budaya kemewahan yang signifikan. Sejak tahun 1820-an, nanas telah ditanam secara komersial di rumah kaca dan banyak perkebunan tropis. Selain itu, nanas merupakan buah tropis terpenting ketiga dalam produksi dunia. Pada abad ke-20, Hawaii adalah penghasil nanas yang dominan, terutama untuk Amerika Serikat (AS); tetapi, pada tahun 2016, Kosta Rika, Brasil, dan Filipina menyumbang hampir sepertiga dari produksi nanas dunia."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「パイナップル」の節「栽培」",
+        "source": "Wikipedia (ja): パイナップル § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A4%E3%83%8A%E3%83%83%E3%83%97%E3%83%AB#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110775416,
         "heading": "栽培",
         "text": "パイナップルは多年草であり、実を収穫後、根茎から再び芽を出し、これが成長すると先端部に結実する。収穫ごとに実が小さくなっていくため、株を3年以上用いることは少ない。パイナップルの食用部分は伸長した花序の軸の周りに排列した小果実の付け根の部分が軸もろとも融合肥大し、多量の汁を含むようになったもので、真の果実は表面へ螺旋状に並んだ、硬化して食べられない疣状の部分から果肉の表層までの部分である。多くの市販品を生産している農園では遺伝的に同一個体のクローンである同一品種ばかりを植える為、自家不和合性によって受精がほとんど起こらず、果実内に種子ができていない。しかし、市販品でも時々他の農地の他品種の花粉がハチなどによって運ばれるなどの原因で受精が起きていることもあり、皮として剥いた部分と食用になる果肉の境界部分に褐色の胡麻粒のような種子が小数見られることがある。これを土に蒔けば発芽するが、開花して果実をつけるに至るまで何年もかかる。\nCAM型光合成を行うパイナップル科の他の植物と同様に、パイナップルもあまり土壌には依存しておらず、熱帯のやせた酸性土壌や乾燥した環境でよく育ち、降った雨水を葉の付け根に集めて葉面から吸収する。そのため、葉面散布肥料が効果的である。\n\n■ 病気\nパイナップルの病気一覧",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Pineapple」の節「Cultivation」",
+        "source": "Wikipedia (en): Pineapple § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Pineapple#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1372920452,
         "heading": "Cultivation",
         "text": "In commercial farming, flowering can be induced artificially, and the early harvesting of the main fruit can encourage the development of a second crop of smaller fruits. Once removed during cleaning, the top of the pineapple can be planted in soil and a new plant will grow. Slips and suckers are planted commercially.\n\n■ Storage and transport\nSome buyers prefer green fruit, others ripened or off-green. A plant growth regulator, Ethephon, is typically sprayed onto the fruit one week before harvest, developing ethylene, which turns the fruit golden yellow. After cleaning and slicing, a pineapple is typically canned in sugar syrup with added preservative. A pineapple never becomes any riper than it was when harvested since it is a non-climacteric fruit.\n\n■ Ethical and environmental concerns\nLike most modern fruit production, pineapple plantations are highly industrialized operations. In Costa Rica particularly, the pineapple industry uses large amounts of insecticides to protect the crop, which have caused health problems in many workers. These workers often receive little compensation, and are mostly poor migrants, often Nicaraguan. Workers' wages also decrease every time prices are lowered overseas. In 2016, the government declared that it would be trying to improve the situation, with the help of various other groups.\nHistorically, tropical fruit agriculture, such as for pineapples, has been concentrated in so-called \"banana republics\".\n\n■ Illegal drug trade\nExport pineapples from Costa Rica to Europe are often used as a cover for narcotrafficking, and containers are impounded routinely in both locations.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Ananas comosus § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Ananas_comosus#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175285536,
+        "heading": "Cultivo",
+        "text": "La piña puede plantarse en cualquier momento del año en suelos húmedos, aunque la mejor época es el otoño. Es rara la reproducción a partir de semilla. Más frecuentemente se utilizan la parte basal del mismo, aunque también pueden usarse las yemas del tallo distal o la corona de brácteas de la fruta. Naturalmente, los brotes basales se desarrollan, fructifican y dan a su vez origen a nuevos tallos. Los distintos tipos de retoños se conocen como corona (el meristemo apical), gallo (las yemas pedunculares) y clavos (vástagos de la yema peduncular).\nLos vástagos se plantan en línea, dejando 40-45 cm entre plantas y algo más entre hileras, o más si se aplicará pulverización mecánica con herbicidas, con una densidad total de 37 500 a 50 000 plantas por hectárea. Las plantaciones de fruta con destino industrial son más apretadas, de hasta 80 000 plantas. Se desmaleza dos veces al año; la alternativa es el rociado con herbicidas, en especial ametrina, diuron e incluso uracilos como el caso del bromacil. Se fertiliza tri o bianualmente con nitrógeno, potasio y fósforo, de 5 a 6 g por planta, a los que se añade a veces magnesio. En zonas de heladas, la planta debe cubrirse durante la temporada de frío.\nLa cosecha principal se efectúa normalmente desde principios de verano hasta comienzos de otoño. Es un fruto no climatérico, es decir, que hay que cosecharlo ya maduro, pues una vez cortado, la maduración se detiene por completo y empieza a deteriorarse.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Ananas § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Ananas#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237058081,
+        "heading": "Culture",
+        "text": "Les plus vieilles traces archéologiques connues de culture de l'ananas se trouvent dans le Sud du Brésil et datent d'il y a près de 3 500 ans.\nL'ananas est une plante tropicale. Sensible au gel, elle requiert un sol bien drainé, riche et acide. Un pH de l'ordre de 4,5 à 5,5 est important pour une bonne croissance : les maladies originaires du sol sont ainsi réduites. L'ananas n'apprécie pas du tout l'eau stagnante, d'où l'importance du drainage.\nL’ananas tolère une faible fertilité du sol, mais on obtient une meilleure production sur sol fertile riche en matières organiques et en potassium. De hauts niveaux d’aluminium et de manganèse soluble dans le sol sont tolérés.\nL'obtention d'un fruit d'ananas nécessite entre quatorze et vingt mois depuis la plantation jusqu'à la récolte : six à huit mois pour la phase végétative, et cinq à six mois du forçage à la récolte. Le même plant fructifie généralement deux, voire trois fois : une première fois après vingt mois, et une seconde fois quinze mois après.\nQuand un petit fruit est désiré pour le marché des fruits frais, la culture peut être forcée plus tôt que lorsqu'un gros fruit est requis, comme pour la mise en conserve. Plus grande sera la plante au moment du forçage, plus gros sera le fruit.",
+        "truncated": false
       }
     }
   },
@@ -522,7 +582,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -598,7 +658,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/12322-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -606,7 +666,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/12322-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000339432.webp",
@@ -619,6 +679,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 266,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

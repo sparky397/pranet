@@ -15,45 +15,25 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ダッタンソバ"
     ],
-    "de": [
-      "Tataren-Buchweizen",
-      "Tatarischer Buchweizen"
-    ],
-    "en": [
-      "Tartary buckwheat",
-      "green buckwheat"
-    ],
-    "fi": [
-      "Rikkatatar",
-      "rikkatattari"
-    ],
     "fr": [
-      "Sarrasin de Tartarie"
+      "Sarrasin de Tartarie",
+      "sarrasin de Tartarie"
     ],
-    "nl": [
-      "Franse boekweit"
-    ],
-    "zh": [
-      "印度蕎麥",
-      "苦荞麦",
-      "苦荞",
-      "苦养麦",
-      "苦荞头"
+    "br": [
+      "Gwinizh-du Tartaria"
     ],
     "cs": [
       "pohanka tatarská"
     ],
-    "sl": [
-      "nora ajda"
-    ],
-    "br": [
-      "Gwinizh-du Tartaria"
+    "fi": [
+      "rikkatattari",
+      "Rikkatatar"
     ],
     "pl": [
       "Gryka tatarka"
@@ -61,11 +41,24 @@
     "sk": [
       "Pohánka tatárska"
     ],
+    "sl": [
+      "nora ajda"
+    ],
     "sv": [
       "Sibiriskt bovete"
     ],
     "wa": [
       "Boûkete di Tatareye"
+    ],
+    "zh": [
+      "苦荞麦",
+      "印度蕎麥",
+      "苦荞",
+      "苦养麦",
+      "苦荞头"
+    ],
+    "nl": [
+      "Franse boekweit"
     ],
     "hy": [
       "հնդկացորեն թաթարական"
@@ -105,13 +98,21 @@
     ],
     "fa": [
       "گندم تلخ"
+    ],
+    "de": [
+      "Tataren-Buchweizen",
+      "Tatarischer Buchweizen"
+    ],
+    "en": [
+      "Tartary buckwheat",
+      "green buckwheat"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q12358",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q12358",
   "search_names": {
@@ -127,22 +128,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ダッタンソバ」",
+      "source": "Wikipedia (ja): ダッタンソバ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%83%E3%82%BF%E3%83%B3%E3%82%BD%E3%83%90",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109851501,
       "text": "ダッタンソバ は、タデ科ソバ属の一年草。製粉・製麺して、蕎麦のように食用とされる。独特な強い苦みがあるため苦蕎麦（にがそば）とも呼ばれる。「ダッタン」は漢字で「韃靼」と書き、モンゴルに住む遊牧民族の古い呼び名のひとつであるタタール人のことである。ダッタンソバの食品名は、彼らが好んだことにちなんで名づけられたとされる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Fagopyrum tataricum」",
+      "source": "Wikipedia (en): Fagopyrum tataricum",
       "source_url": "https://en.wikipedia.org/wiki/Fagopyrum_tataricum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1342296929,
       "text": "Fagopyrum tataricum, also known as Tartary buckwheat, green buckwheat, ku qiao, Tatar buckwheat, or bitter buckwheat, is a domesticated food plant in the genus Fagopyrum in the family Polygonaceae. With another species in the same genus, common buckwheat, it is often counted as a cereal, but the buckwheats are not closely related to true cereals."
+    },
+    "es": {
+      "source": "Wikipedia (es): Fagopyrum tataricum",
+      "source_url": "https://es.wikipedia.org/wiki/Fagopyrum_tataricum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582170,
+      "text": "Fagopyrum tataricum es una especie de planta perteneciente a la familia Polygonaceae. Con otra especie del mismo género, el alforfón común, a menudo se considera como un cereal, pero a diferencia de los verdaderos cereales, no son gramíneas. Es decir que no se relacionan con el trigo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sarrasin de Tartarie",
+      "source_url": "https://fr.wikipedia.org/wiki/Sarrasin_de_Tartarie",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 205563689,
+      "text": "Le sarrasin de Tartarie ou « blé » noir fourrager est une plante de la famille des Polygonaceae."
     }
   },
   "edible": {
@@ -155,7 +174,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -239,7 +258,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/694553-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -247,7 +266,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/694553-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000685494.webp",
@@ -260,6 +279,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

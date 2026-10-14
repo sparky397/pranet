@@ -18,42 +18,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ホルトソウ"
     ],
-    "de": [
-      "Spring-Wolfsmilch",
-      "Kreuzblättrige Wolfsmilch"
-    ],
-    "en": [
-      "moleplant",
-      "caper spurge"
-    ],
-    "cs": [
-      "pryšec skočcový"
-    ],
-    "zh": [
-      "千金子",
-      "续随子",
-      "续随子茎中白汁",
-      "续随子叶",
-      "續隨子"
-    ],
-    "ast": [
-      "tártagu"
-    ],
-    "nl": [
-      "Kruisbladige wolfsmelk"
-    ],
     "fr": [
-      "euphorbe épurge",
-      "Épurge"
-    ],
-    "sl": [
-      "križnolistni mleček"
+      "Épurge",
+      "euphorbe épurge"
     ],
     "gn": [
       "Mba'ysyvo"
@@ -67,11 +40,25 @@
     "hu": [
       "hasindító kutyatej"
     ],
+    "de": [
+      "Kreuzblättrige Wolfsmilch",
+      "Spring-Wolfsmilch"
+    ],
     "az": [
       "Güllücə südləyəni"
     ],
     "hsb": [
       "Křižna mlóčeń"
+    ],
+    "nl": [
+      "Kruisbladige wolfsmelk"
+    ],
+    "zh": [
+      "續隨子",
+      "千金子",
+      "续随子",
+      "续随子茎中白汁",
+      "续随子叶"
     ],
     "eu": [
       "Tartiku"
@@ -94,8 +81,14 @@
     "cy": [
       "Llaethlys caprys"
     ],
+    "ast": [
+      "Tártagu"
+    ],
     "sr": [
       "Царевац"
+    ],
+    "cs": [
+      "pryšec skočcový"
     ],
     "hr": [
       "Unakrsnolisna mlječika"
@@ -112,15 +105,22 @@
     "mwl": [
       "yerba de la rata"
     ],
+    "sl": [
+      "križnolistni mleček"
+    ],
     "mk": [
       "граореста млечка"
+    ],
+    "en": [
+      "moleplant",
+      "caper spurge"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164223",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164223",
   "search_names": {
@@ -132,22 +132,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ホルトソウ」",
+      "source": "Wikipedia (ja): ホルトソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%88%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109615445,
       "text": "ホルトソウ は、トウダイグサ属の植物の一種。原産域は南ヨーロッパや北西アフリカから南西アジアや中国西部にかけて広がっているが、本来の生息地以外の多くの地域にも拡大し、定着している。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Euphorbia lathyris」",
+      "source": "Wikipedia (en): Euphorbia lathyris",
       "source_url": "https://en.wikipedia.org/wiki/Euphorbia_lathyris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371144188,
       "text": "Euphorbia lathyris, the caper spurge or paper spurge, is a species of spurge native to Asia in western China, Kyrgyzstan and Pakistan and introduced elsewhere."
+    },
+    "es": {
+      "source": "Wikipedia (es): Euphorbia lathyris",
+      "source_url": "https://es.wikipedia.org/wiki/Euphorbia_lathyris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173141168,
+      "text": "El tártago es una planta de cuyas semillas se extrae un aceite que puede ser utilizado en numerosísimas aplicaciones industriales. Los tres mayores productores son India, China y Brasil."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Épurge",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89purge",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 218372660,
+      "text": "L'épurge, euphorbe des jardins ou euphorbe épurge, est une espèce de plantes à fleurs de la famille des Euphorbiaceae. C'est une plante herbacée bisannuelle assez commune en Europe, parfois cultivée dans les jardins."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Euphorbia lathyris",
+      "source_url": "https://pt.wikipedia.org/wiki/Euphorbia_lathyris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62769249,
+      "text": "Euphorbia lathyris é uma espécie de planta com flor pertencente à família Euphorbiaceae."
     }
   },
   "edible": {
@@ -162,7 +189,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -239,7 +266,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/347072-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial",
@@ -247,7 +274,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/347072-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000962968.webp",
@@ -260,6 +287,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 276,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

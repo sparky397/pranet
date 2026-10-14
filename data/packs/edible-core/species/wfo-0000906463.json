@@ -10,27 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "gwenith barfog"
-    ],
-    "en": [
-      "rivet wheat"
-    ],
-    "nl": [
-      "Engelse tarwe"
-    ],
-    "cs": [
-      "pšenice naduřelá"
-    ],
-    "fi": [
-      "kartiovehnä"
-    ],
-    "zh": [
-      "圆锥小麦"
-    ],
     "sv": [
       "Emmervete"
     ],
@@ -43,27 +25,45 @@
     "da": [
       "Engelsk Hvede"
     ],
+    "zh": [
+      "圆锥小麦"
+    ],
     "ru": [
       "Пшеница тучная"
     ],
     "bg": [
       "английска пшеница"
     ],
+    "cy": [
+      "Gwenith barfog"
+    ],
+    "cs": [
+      "pšenice naduřelá"
+    ],
     "hr": [
       "Bijela pšenica"
+    ],
+    "fi": [
+      "kartiovehnä"
     ],
     "nb": [
       "durumhvete"
     ],
     "ja": [
       "デュラム小麦"
+    ],
+    "en": [
+      "rivet wheat"
+    ],
+    "nl": [
+      "Engelse tarwe"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1939841",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1939841",
   "search_names": {
@@ -73,13 +73,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Triticum turgidum」",
+      "source": "Wikipedia (en): Triticum turgidum",
       "source_url": "https://en.wikipedia.org/wiki/Triticum_turgidum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376407140,
       "text": "Triticum turgidum is a species of wheat. It is an annual and grows primarily in temperate areas and is native to countries around the eastern Mediterranean, down to Iran and east to Xinjiang, China."
+    },
+    "es": {
+      "source": "Wikipedia (es): Triticum turgidum",
+      "source_url": "https://es.wikipedia.org/wiki/Triticum_turgidum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580818,
+      "text": "El trigo túrgido se considera que es un antiguo pariente de los trigos duros modernos. La identificación del trigo túrgido ha sido confusa y se le ha clasificado como Triticum turgidum polonicum o como Triticum turgidum turanicum. En Estados Unidos es conocido comercialmente con la marca \"Kamut\". Más recientemente, los taxonomistas especializados en trigo de los EE. UU. y Rusia han identificado el trigo turgidum como Triticum turgidum durum, tetraploide similar a un cultivar egipcio Egiptianka."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Triticum turgidum",
+      "source_url": "https://fr.wikipedia.org/wiki/Triticum_turgidum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208170959,
+      "text": "Triticum turgidum est une espèce de plantes monocotylédones de famille des Poaceae, sous-famille des Pooideae, dont on connaît plusieurs sous-espèces cultivées, notamment le blé dur. Ce sont des blés tétraploïdes de génome AABB."
     }
   },
   "edible": {
@@ -91,7 +109,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -184,7 +202,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316216-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -192,7 +210,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316216-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000906463.webp",
@@ -205,6 +223,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 281,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

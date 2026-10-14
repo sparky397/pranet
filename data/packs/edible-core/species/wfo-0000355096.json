@@ -13,32 +13,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "butternut"
-    ],
-    "cs": [
-      "ořešák popelavý"
-    ],
-    "fi": [
-      "amerikanjalopähkinä"
-    ],
-    "zh": [
-      "壮核桃"
-    ],
-    "sl": [
-      "sivi oreh"
+    "fr": [
+      "Noyer cendré"
     ],
     "hu": [
       "szürke dió"
     ],
+    "cs": [
+      "ořešák popelavý"
+    ],
     "de": [
       "Butternuss"
-    ],
-    "fr": [
-      "Noyer cendré"
     ],
     "pl": [
       "Orzech szary"
@@ -58,6 +46,9 @@
     "ga": [
       "imchnó"
     ],
+    "fi": [
+      "amerikanjalopähkinä"
+    ],
     "sv": [
       "Grå valnöt"
     ],
@@ -69,6 +60,9 @@
     ],
     "he": [
       "אגוז חמאה"
+    ],
+    "zh": [
+      "壮核桃"
     ],
     "be": [
       "Арэх шэры"
@@ -88,15 +82,21 @@
     "ja": [
       "バターナット"
     ],
+    "sl": [
+      "sivi oreh"
+    ],
     "sr": [
       "Сиви орах"
+    ],
+    "en": [
+      "butternut"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q630288",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q630288",
   "search_names": {
@@ -111,13 +111,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Juglans cinerea」",
+      "source": "Wikipedia (en): Juglans cinerea",
       "source_url": "https://en.wikipedia.org/wiki/Juglans_cinerea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369593532,
       "text": "Juglans cinerea, commonly known as butternut or white walnut, is a species of walnut native to the eastern United States and southeast Canada."
+    },
+    "es": {
+      "source": "Wikipedia (es): Juglans cinerea",
+      "source_url": "https://es.wikipedia.org/wiki/Juglans_cinerea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171584512,
+      "text": "El nogal blanco americano es una especie de nogal originaria del este de América del Norte, desde el sur de Quebec hacia el oeste hasta Minnesota, hacia el sur hasta el norte de Alabama y al sudoeste hasta el norte de Arkansas. Está ausente de la mayor parte del Sur de los Estados Unidos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Noyer cendré",
+      "source_url": "https://fr.wikipedia.org/wiki/Noyer_cendr%C3%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237432535,
+      "text": "Le noyer cendré, connu également sous le nom de noyer blanc ou de noyer à beurre, est une espèce de noyer de la famille des Juglandaceae. Elle est originaire de l'est d'Amérique du Nord. Elle s'étend ainsi depuis le sud du Québec jusqu'au nord de l'Alabama et du Minnesota à l'Arkansas aux États-Unis."
     }
   },
   "edible": {
@@ -132,7 +150,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -182,7 +200,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/442334-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -190,7 +208,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/442334-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000355096.webp",
@@ -203,6 +221,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

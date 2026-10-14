@@ -12,21 +12,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "花曙大戟"
-    ],
     "fi": [
       "nappityräkki"
+    ],
+    "zh": [
+      "花曙大戟"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5851947",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5851947",
   "search_names": {
@@ -36,13 +36,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Euphorbia umbellata」",
+      "source": "Wikipedia (en): Euphorbia umbellata",
       "source_url": "https://en.wikipedia.org/wiki/Euphorbia_umbellata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365680788,
       "text": "Euphorbia umbellata, the African milkbush, is a species in the spurge family from Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Euphorbia umbellata",
+      "source_url": "https://es.wikipedia.org/wiki/Euphorbia_umbellata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174261163,
+      "text": "Euphorbia umbellata es una especie de planta fanerógama de la familia Euphorbiaceae. Es endémica de África oriental en Mozambique. La variedad con hojas coloradas de rojo y verde llamada \"Rubra\" es común y popular entre los jardineros y coleccionistas."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Euphorbia umbellata",
+      "source_url": "https://pt.wikipedia.org/wiki/Euphorbia_umbellata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62903760,
+      "text": "Euphorbia umbellata, também conhecida como Synadenium grantii, popularmente conhecida no Brasil como janaúba é uma espécie de planta da família das Euphorbiaceae. cujo epiteto é uma homenagem ao explorador James Augustus Grant. Foi originalmente descrito por Daniel Oliver em 1875.\nSinônimo; Oliv."
     }
   },
   "edible": {
@@ -56,7 +74,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -75,7 +93,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77089481-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -83,7 +101,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77089481-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000806876.webp",
@@ -96,6 +114,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

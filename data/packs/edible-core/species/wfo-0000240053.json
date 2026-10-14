@@ -12,7 +12,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -22,55 +22,15 @@
       "Lemon balm",
       "Balm"
     ],
-    "de": [
-      "Zitronen-Melisse",
-      "Zitronenmelisse"
-    ],
-    "bg": [
-      "Маточина",
-      "обикновена маточина"
-    ],
-    "bs": [
-      "Matičnjak"
-    ],
-    "cs": [
-      "meduňka lékařská"
-    ],
-    "eu": [
-      "Garraiska"
-    ],
-    "nl": [
-      "Citroenmelisse"
-    ],
-    "ru": [
-      "Мелисса лекарственная"
-    ],
-    "sh": [
-      "Matičnjak"
-    ],
-    "tr": [
-      "Oğul otu"
-    ],
-    "tzm": [
-      "Ifar zizwi"
-    ],
-    "zh": [
-      "香蜂草",
-      "香蜂花",
-      "山檨叶泡花树",
-      "欧蜜蜂花"
-    ],
     "fr": [
-      "mélisse"
+      "Mélisse officinale",
+      "Mélisse"
     ],
-    "fi": [
-      "sitruunamelissa"
+    "pt": [
+      "Erva-cidreira"
     ],
-    "ast": [
-      "abeyera"
-    ],
-    "sl": [
-      "navadna melisa"
+    "id": [
+      "Daun madu limau"
     ],
     "pl": [
       "melisa lekarska"
@@ -93,8 +53,15 @@
     "et": [
       "Sidrunmeliss"
     ],
+    "de": [
+      "Zitronenmelisse",
+      "Zitronen-Melisse"
+    ],
     "el": [
       "Μελισσόχορτο"
+    ],
+    "sh": [
+      "Matičnjak"
     ],
     "ba": [
       "Мелисса"
@@ -108,11 +75,14 @@
     "ar": [
       "ترنجان مخزني"
     ],
-    "pt": [
-      "Erva-cidreira"
+    "nl": [
+      "citroenmelisse"
     ],
     "eo": [
       "Citronmeliso"
+    ],
+    "ru": [
+      "Мелисса лекарственная"
     ],
     "nrm": [
       "Piment"
@@ -126,14 +96,27 @@
     "mk": [
       "маточина"
     ],
+    "fi": [
+      "sitruunamelissa"
+    ],
     "uk": [
       "Меліса лікарська"
+    ],
+    "sl": [
+      "navadna melisa"
     ],
     "nn": [
       "Sitronmelisse"
     ],
     "mhr": [
       "Мӱкшпеледыш"
+    ],
+    "cs": [
+      "meduňka lékařská"
+    ],
+    "bg": [
+      "обикновена маточина",
+      "Маточина"
     ],
     "fa": [
       "بادرنجبویه"
@@ -159,6 +142,12 @@
     "da": [
       "citronmelisse"
     ],
+    "zh": [
+      "香蜂花",
+      "香蜂草",
+      "山檨叶泡花树",
+      "欧蜜蜂花"
+    ],
     "kk": [
       "Дәрілік мелисса"
     ],
@@ -167,6 +156,9 @@
     ],
     "sr": [
       "матичњак"
+    ],
+    "eu": [
+      "Garraiska"
     ],
     "nb": [
       "Sitronmelisse"
@@ -188,6 +180,9 @@
     ],
     "af": [
       "Suurlemoenbalsem"
+    ],
+    "bs": [
+      "Matičnjak"
     ],
     "sk": [
       "medovka lekárska"
@@ -228,9 +223,6 @@
     "os": [
       "Хосгæнæн рувасы битъына"
     ],
-    "id": [
-      "Daun madu limau"
-    ],
     "vec": [
       "mełisa"
     ],
@@ -245,13 +237,22 @@
     ],
     "tg": [
       "Ниёзбӯй (райҳони кӯҳӣ)"
+    ],
+    "tr": [
+      "Oğul otu"
+    ],
+    "tzm": [
+      "Ifar zizwi"
+    ],
+    "ast": [
+      "abeyera"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q148396",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q148396",
   "search_names": {
@@ -269,46 +270,93 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「レモンバーム」",
+      "source": "Wikipedia (ja): レモンバーム",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A2%E3%83%B3%E3%83%90%E3%83%BC%E3%83%A0",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109947063,
       "text": "レモンバーム は、シソ科コウスイハッカ属に分類される多年草の一種である。分類学における和名としてはコウスイハッカ（香水薄荷）の名が用いられることが多く、ほかにセイヨウヤマハッカ（西洋山薄荷）、メリッサ、メリッサソウなどともよばれる。茎は直立して分枝し、高さ30–100センチメートル、葉は対生し、粗い鋸歯がある。花期は夏、葉腋に白い唇形花をつける（図1）。南ヨーロッパから中央アジア原産であるが、北米、南米、オセアニアなどにも帰化している。古くから蜜源植物として利用されていた。レモンのような芳香があり、ハーブとして飲食物の香り付けに用いられ、また生薬やアロマテラピーにも利用されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lemon balm」",
+      "source": "Wikipedia (en): Lemon balm",
       "source_url": "https://en.wikipedia.org/wiki/Lemon_balm",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375912388,
       "text": "Lemon balm is a perennial herbaceous plant in the mint family. It has lemon-scented leaves, white or pale pink flowers, and contains essential oils and compounds, such as geranial and neral."
+    },
+    "es": {
+      "source": "Wikipedia (es): Melissa officinalis",
+      "source_url": "https://es.wikipedia.org/wiki/Melissa_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175159420,
+      "text": "La Melissa, sándalo, limoncillo, menta melisa, hoja de limón o toronjil es una hierba perenne de la familia de las lamiáceas, nativa del sur de Europa y de la región mediterránea. Apreciada por su fuerte aroma a limón, se utiliza en infusión como tranquilizante natural, y su aceite esencial se aprovecha en perfumería."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Mélisse officinale",
+      "source_url": "https://fr.wikipedia.org/wiki/M%C3%A9lisse_officinale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239166648,
+      "text": "La Mélisse officinale est une espèce de plantes à fleurs de la famille des Lamiacées. C'est une plante herbacée vivace originaire du bassin méditerranéen. Son nom vient du grec μελισσόφυλλον, melissophullon, qui signifie « feuille à abeilles » ou « herbe aux abeilles »."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Erva-cidreira",
+      "source_url": "https://pt.wikipedia.org/wiki/Erva-cidreira",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70290732,
+      "text": "A erva-cidreira, também conhecida popularmente como erva-cidreira verdadeira, ou apenas por melissa, é uma planta perene herbácea da família da menta /hortelã e do boldo (Lamiaceae), nativa da Europa meridional. O seu sabor e aroma característicos, frutado, de limão, principalmente nas folhas, deriva do seu óleo essencial do grupo dos terpenos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Daun madu limau",
+      "source_url": "https://id.wikipedia.org/wiki/Daun_madu_limau",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29729436,
+      "text": "Daun madu limau adalah tanaman herba abadi dalam keluarga bijanggut dan berasal dari Eropa tengah-selatan, Cekungan Mediterania, Iran, dan Asia Tengah, tetapi sekarang dinaturalisasi di tempat lain."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「レモンバーム」の節「栽培」",
+        "source": "Wikipedia (ja): レモンバーム § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A2%E3%83%B3%E3%83%90%E3%83%BC%E3%83%A0#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109947063,
         "heading": "栽培",
         "text": "耐寒性が高く、日陰でも栽培できるなど、丈夫で育てやすい。繁殖力が非常に強く、古くは人間より長生きすると考えられていた。地植えまたは鉢植えにし、夏に明るい日陰になるような場所で、やや湿り気がある肥沃な土壌を好む。強い直射日光では葉焼けを起こすことがある。水や肥料が不足すると葉が硬く香りが落ちるため、乾燥しないように水を与え、肥料が切れないようにする。春か秋に種子や実生、挿し木、株分けで増やす。播種の場合、発芽適温は20–25°Cであり、発芽にはやや時間がかかる。挿し木には、節間が詰まった部分の茎を長さ 10 cmほど切り、葉をそれぞれ1/3-1/4ほど残して切り取ったものを使う。元肥として緩効性化成肥料を施す。病気はほとんどないが、ヨコバイによる深刻な害が起こることがあり、また高温乾燥期にハダニが発生しやすい。春の成長初期に枝の先端の芽を摘む摘芯を行うと、枝数がふえて葉の収穫量が多くなる。花が咲き出すと葉が小さく堅くなり香りも弱まるため、葉を目的とする際には、収穫を兼ねて茎の高さを半分ほどに切り戻す。これによって新しい芽が伸びて葉の収穫時期を延長することができる。\n生葉は、冬の休眠期以外は、必要なときにそのつど摘んで利用する。香りが失われやすいので、生葉を保存する場合は冷凍保存する。乾燥保存用の葉は、精油含有量が最大となる開花直前期に地上部を刈り取って収穫し、涼しく風通しがよい場所に束ねて吊るして乾燥し、葉を集めて密閉容器に入れて冷蔵保存する。\nレモンバームにはいくつかの栽培品種が存在し、葉が黄色い‘AllGold’（ゴールデンレモンバーム、図4b）、葉に斑が入る‘Aurea’や‘Variegata’、耐寒性が高い‘Quedlinburger Niederliegende’、精油含量が多い‘Citronella’などがある。\nミツバチが好む蜜源植物であり、果樹の付近にレモンバームを植えることで果樹の受粉が促進される。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Lemon balm」の節「Cultivation」",
+        "source": "Wikipedia (en): Lemon balm § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Lemon_balm#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375912388,
         "heading": "Cultivation",
         "text": "Lemon balm seeds requires light and a minimum temperature of 20 °C (68 °F) to germinate. The plant grows in clumps and spreads vegetatively (a new plant growing from a fragment of its parent), as well as by seed. In mild temperate zones, the plant stems die off at the start of winter, but shoot up again in spring. Lemon balm grows vigorously.\nAs of 1992, Hungary, Egypt, and Italy are the major producing countries of lemon balm. The leaves are harvested by hand in June and August in the northern hemisphere, on a day when the weather is dry, to prevent the crop from turning black if damp.\nThe cultivars of M. officinalis include:\n\nM. officinalis 'Citronella'\nM. officinalis 'Lemonella'\nM. officinalis 'Quedlinburger'\nM. officinalis 'Lime'\nM. officinalis 'Mandarina'\nM. officinalis 'Variegata'\nM. officinalis 'Aurea'\nM. officinalis 'Quedlinburger Niederliegende', a variety reportedly bred for higher essential oil content.\n\n■ Essential oil production\n\nIreland is a major producer of lemon balm essential oil, which has a pale yellow colour and a lemon scent. The essential oil is commonly co-distilled with lemon oil, citronella oil or other essential oils. Yields are low; 0.014% for fresh leaves and 0.112% for dried leaves.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Mélisse officinale § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/M%C3%A9lisse_officinale#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239166648,
+        "heading": "Culture",
+        "text": "La Mélisse officinale, ou Mélisse citronnelle, est cultivée dans les jardins depuis des temps très anciens.\nC'est une plante vivace facile qui pousse très bien au soleil comme à l'ombre et aime les sols plutôt frais. Elle a sa place dans les jardins de curés et dans les jardins médiévaux. Il en existe plusieurs cultivars, par exemple :\n\n 'Aurea' , feuillage doré en début de saison puis taché de doré et devenant vert à la fin\n 'Citronella' , parfum de citronnelle\n 'Lemonella' , parfum plus citronné\n 'Lime' , parfum de limette\n 'Quedlinburger Niederliegende' , à plus forte teneur en huiles essentielles\n 'Variegata' , feuilles tachées de jaune en début et fin de saison, entièrement verte entre deux\n'Altissima', haute et ramifiée, avec une odeur et un goût d'orange\nLa mélisse est cultivée pour les industries alimentaires et l'herboristerie.\nSa zone de rusticité se situe entre 3 et 7.",
         "truncated": false
       }
     }
@@ -325,7 +373,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -432,7 +480,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/450084-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -440,7 +488,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/450084-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000240053.webp",
@@ -453,6 +501,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 266,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

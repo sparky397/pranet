@@ -11,11 +11,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "庚大利"
+    "id": [
+      "Gandaria"
     ],
     "ru": [
       "Марианская слива"
@@ -38,9 +38,6 @@
     "th": [
       "มะปราง"
     ],
-    "id": [
-      "Gandaria"
-    ],
     "jv": [
       "Gandaria"
     ],
@@ -52,6 +49,9 @@
     ],
     "mnw": [
       "မရာၚ်"
+    ],
+    "zh": [
+      "庚大利"
     ],
     "mad": [
       "Pao gânḍâri"
@@ -67,18 +67,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1493371",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1493371",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Bouea macrophylla」",
+      "source": "Wikipedia (en): Bouea macrophylla",
       "source_url": "https://en.wikipedia.org/wiki/Bouea_macrophylla",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365862903,
       "text": "Bouea macrophylla, commonly known as gandaria, Burmese plum, Marian plum, plum mango, mango plum or maprang in English, is a species of flowering plant native to Southeast Asia. The tree belongs to the family Anacardiaceae which also includes mango and cashew."
+    },
+    "es": {
+      "source": "Wikipedia (es): Bouea macrophylla",
+      "source_url": "https://es.wikipedia.org/wiki/Bouea_macrophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 132226556,
+      "text": "Bouea macrophylla es un árbol frutal de la familia Anacardiaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bouea macrophylla",
+      "source_url": "https://fr.wikipedia.org/wiki/Bouea_macrophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223472040,
+      "text": "Bouea macrophylla est une espèce de plantes à fleurs originaire d'Asie du Sud-Est. L'arbre appartient à la famille des Anacardiacées qui comprend également le Manguier et l'Anacardier."
+    },
+    "id": {
+      "source": "Wikipedia (id): Gandaria",
+      "source_url": "https://id.wikipedia.org/wiki/Gandaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30048126,
+      "text": "Gandaria / Ramania atau nama lokal lainnya jatake atau kundang adalah tanaman yang berasal dari kepulauan Indonesia dan Malaysia. Tanaman ini tumbuh di daerah tropis, dan banyak dibudidayakan di Kalimantan Selatan Sumatra dan Thailand."
     }
   },
   "edible": {
@@ -91,7 +118,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -105,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69262-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -113,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69262-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000569871.webp",
@@ -126,6 +153,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -8,7 +8,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -20,27 +20,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15354877",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15354877",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ポエ (植物)」",
+      "source": "Wikipedia (ja): ポエ (植物)",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%A8_(%E6%A4%8D%E7%89%A9)",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111230971,
       "text": "ポエ は、ストロンボシア科（広義のオラクス科を構成する科の一つ）ストロンボシア属の高木の一種である。アフリカのギニア・コンゴ林全体に見られる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Strombosia pustulata」",
+      "source": "Wikipedia (en): Strombosia pustulata",
       "source_url": "https://en.wikipedia.org/wiki/Strombosia_pustulata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1315335210,
       "text": "Strombosia pustulata is a species of tree in the family Olacaceae. It is native to the rainforests of tropical West and Central Africa. Common names for this tree include itako in Nigeria, afina in Ghana, poé in Abé spoken in Côte d'Ivoire and mba esogo in Equatorial Guinea."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Strombosia pustulata",
+      "source_url": "https://fr.wikipedia.org/wiki/Strombosia_pustulata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 181439261,
+      "text": "Strombosia pustulata est un arbre à feuilles persistantes du genre Strombosia et de la famille des Olacaceae, que l’on trouve en Afrique tropicale de l’Ouest, de la Sierra Leone au Gabon."
     }
   },
   "edible": {
@@ -56,7 +65,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -78,7 +87,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/608489-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -86,7 +95,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/608489-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000505595.webp",
@@ -99,6 +108,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

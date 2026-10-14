@@ -35,16 +35,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "governor's plum"
-    ],
-    "zh": [
-      "刺篱木",
-      "鮹鱼"
-    ],
     "bn": [
       "বৈঁচি"
     ],
@@ -56,6 +49,10 @@
     ],
     "th": [
       "ตะขบป่า"
+    ],
+    "zh": [
+      "刺篱木",
+      "鮹鱼"
     ],
     "fa": [
       "رامونچی"
@@ -89,37 +86,69 @@
     ],
     "shn": [
       "မၢၵ်ႇၵႅၼ်"
+    ],
+    "en": [
+      "governor's plum"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q621082",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q621082",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Flacourtia indica」",
+      "source": "Wikipedia (en): Flacourtia indica",
       "source_url": "https://en.wikipedia.org/wiki/Flacourtia_indica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1366500196,
       "text": "Flacourtia indica, is a species of flowering plant native to much of Africa and tropical and temperate parts of Asia. It has various uses, including folk medicine, fuel, animal food and human food."
+    },
+    "es": {
+      "source": "Wikipedia (es): Flacourtia indica",
+      "source_url": "https://es.wikipedia.org/wiki/Flacourtia_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166465495,
+      "text": "Flacourtia indica, también conocida como ramontchi, es una especie de arbusto o árbol que se encuentra en muchos lugares templados de África y Asia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Flacourtia indica",
+      "source_url": "https://id.wikipedia.org/wiki/Flacourtia_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29818672,
+      "text": "Flacourtia indica adalah spesies tumbuhan beserta buahnya yang termasuk ke dalam genus Flacourtia. Tumbuhan ini masih berkerabat dengan Rukem dan Kerukup."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Flacourtia indica」の節「Cultivation」",
+        "source": "Wikipedia (en): Flacourtia indica § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Flacourtia_indica#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1366500196,
         "heading": "Cultivation",
         "text": "The plant is known as an occasionally invasive introduced species in some areas. It has been cultivated in Florida in the United States, and today, it occurs as a weed in some parts of the state.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Flacourtia indica § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Flacourtia_indica#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 166465495,
+        "heading": "Cultivo",
+        "text": "La planta es conocida como una especie invasora introducida en algunas áreas. Se ha cultivado en Florida en los Estados Unidos y hoy se presenta como una mala hierba en algunas partes del estado.​",
         "truncated": false
       }
     }
@@ -140,7 +169,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -204,7 +233,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/365348-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -212,7 +241,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/365348-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000925655.webp",
@@ -225,6 +254,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 332,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

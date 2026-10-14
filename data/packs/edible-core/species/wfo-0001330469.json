@@ -24,9 +24,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "id": [
+      "Sengon sabrang"
+    ],
     "zh": [
       "南洋楹"
     ],
@@ -35,16 +38,13 @@
     ],
     "yue": [
       "南洋楹"
-    ],
-    "id": [
-      "Sengon sabrang"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q91269946",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q91269946",
   "search_names": {
@@ -54,13 +54,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Falcataria falcata」",
+      "source": "Wikipedia (en): Falcataria falcata",
       "source_url": "https://en.wikipedia.org/wiki/Falcataria_falcata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370286932,
       "text": "Falcataria falcata, commonly known as the Moluccan albizia, is a species of fast-growing tree in the family Fabaceae. It is native to the Maluku Islands, New Guinea, the Bismarck Archipelago, and the Solomon Islands. It is cultivated for timber throughout South Asian and Southeast Asian countries. This tree is considered to be invasive in Hawaii, American Samoa and several other island nations in the Pacific and Indian Oceans. It reaches about 30 m (100 ft) tall in nature, and has a massive trunk and an open crown. It is most famous for its remarkable rate of growth. It has been recorded growing 16 m (52 ft) in three years, 33 m (108 ft) in nine years and 45 m (148 ft) in seventeen years."
+    },
+    "es": {
+      "source": "Wikipedia (es): Falcataria falcata",
+      "source_url": "https://es.wikipedia.org/wiki/Falcataria_falcata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582161,
+      "text": "La albizia de las Molucas es una especie de árbol de rápido crecimiento de la familia Fabaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Falcataria falcata",
+      "source_url": "https://fr.wikipedia.org/wiki/Falcataria_falcata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239715744,
+      "text": "Falcataria falcata est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un arbre cultivé en dans plusieurs pays d'Asie pour différents usages mais devenu envahissant."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sengon sabrang",
+      "source_url": "https://id.wikipedia.org/wiki/Sengon_sabrang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29922286,
+      "text": "Sengon sabrang, sengon laut, atau jeungjing adalah spesies pohon yang tumbuh cepat dalam famili Fabaceae. Ia berasal dari Kepulauan Maluku, New Guinea, Kepulauan Bismarck, dan Kepulauan Solomon. Ini dibudidayakan untuk diambil kayunya di seluruh negara Asia Selatan dan Asia Tenggara. Pohon ini dianggap invasif di Hawaii, Samoa Amerika dan beberapa negara kepulauan lainnya di Samudera Pasifik dan Hindia. Mencapai sekitar 30 m (100 ft) sifatnya tinggi, dan memiliki batang besar serta mahkota terbuka."
     }
   },
   "edible": {
@@ -78,7 +105,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -127,7 +154,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60471823-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -135,7 +162,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60471823-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001330469.webp",
@@ -148,6 +175,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

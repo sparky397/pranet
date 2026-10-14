@@ -12,13 +12,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヒメウコギ",
       "hime-ukogi",
       "ukogi"
+    ],
+    "zh": [
+      "异株五加"
+    ],
+    "da": [
+      "Almindelig Tornaralie"
+    ],
+    "ko": [
+      "오가나무"
     ],
     "en": [
       "Fiveleaf Aralia",
@@ -30,22 +39,13 @@
     ],
     "sv": [
       "japansk stickaralia"
-    ],
-    "zh": [
-      "异株五加"
-    ],
-    "da": [
-      "Almindelig Tornaralie"
-    ],
-    "ko": [
-      "오가나무"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q11066056",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q11066056",
   "search_names": {
@@ -55,22 +55,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヒメウコギ」",
+      "source": "Wikipedia (ja): ヒメウコギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%A6%E3%82%B3%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 96170853,
       "text": "ヒメウコギ は、ウコギ科ウコギ属の落葉低木。別名、ウコギ、オコギ、ムコギともよばれる。山野に生え、若葉は山菜、根は薬用に使われる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Eleutherococcus sieboldianus」",
+      "source": "Wikipedia (en): Eleutherococcus sieboldianus",
       "source_url": "https://en.wikipedia.org/wiki/Eleutherococcus_sieboldianus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1366039982,
       "text": "Eleutherococcus sieboldianus, the five-fingered aralia or fiveleaf aralia, is a species of flowering plant in the family Araliaceae. It is native to Anhui province in China, and has been introduced to Korea, Japan and the United States. A variegated form is available which only reaches 8 ft (2.4 m)."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eleutherococcus sieboldianus",
+      "source_url": "https://fr.wikipedia.org/wiki/Eleutherococcus_sieboldianus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226284527,
+      "text": "Eleutherococcus sieboldianus est une espèce de plantes à fleurs de la famille des Araliaceae. C'est un buisson d'environ 1 m de haut. Il supporte des climats froids et les situations ombragées."
     }
   },
   "edible": {
@@ -83,7 +92,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -113,7 +122,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/90437-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -121,7 +130,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/90437-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000948129.webp",
@@ -134,6 +143,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

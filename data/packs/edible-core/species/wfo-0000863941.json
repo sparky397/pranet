@@ -12,30 +12,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "フォニオ"
     ],
-    "en": [
-      "fonio",
-      "Fonio; Acha"
-    ],
-    "bm": [
-      "Fini"
-    ],
-    "ff": [
-      "Seremmbe; Funye",
-      "Fonnye"
-    ],
     "fr": [
-      "Fonio"
-    ],
-    "it": [
+      "Fonio blanc",
       "Fonio"
     ],
     "pt": [
+      "Fonio"
+    ],
+    "id": [
       "Fonio"
     ],
     "eu": [
@@ -53,9 +43,6 @@
     "sw": [
       "Mfonio"
     ],
-    "id": [
-      "Fonio"
-    ],
     "de": [
       "Foniohirse"
     ],
@@ -64,6 +51,10 @@
     ],
     "cs": [
       "rosička útlá"
+    ],
+    "ff": [
+      "Fonnye",
+      "Seremmbe; Funye"
     ],
     "nl": [
       "Fonio"
@@ -80,6 +71,9 @@
     "dag": [
       "Kabiga"
     ],
+    "bm": [
+      "Fini"
+    ],
     "sg": [
       "Hâriyä"
     ],
@@ -91,43 +85,86 @@
     ],
     "min": [
       "Fonio"
+    ],
+    "en": [
+      "fonio",
+      "Fonio; Acha"
+    ],
+    "it": [
+      "Fonio"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1340738",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1340738",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「フォニオ」",
+      "source": "Wikipedia (ja): フォニオ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%8B%E3%82%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108396892,
       "text": "フォニオ は、イネ科メヒシバ属に属する一年生植物で、食用として栽培されている雑穀である。年間約58万トンが栽培されている（2013年、FAO統計による）。穀物としては西アフリカの一部地域で栽培、流通しているのみであるが、世界の食料安全保障を向上させうる作物として注目されている。別名白フォニオ。粥、クスクス、パン、ビールなどに加工される。ナイジェリアでは「アチャ」と呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Digitaria exilis」",
+      "source": "Wikipedia (en): Digitaria exilis",
       "source_url": "https://en.wikipedia.org/wiki/Digitaria_exilis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377412763,
       "text": "Digitaria exilis is a species of grass that is referred to as findi or fundi in areas of Africa such as The Gambia, with the English common names white fonio, fonio millet, hungry rice, and acha rice."
+    },
+    "es": {
+      "source": "Wikipedia (es): Digitaria exilis",
+      "source_url": "https://es.wikipedia.org/wiki/Digitaria_exilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172636369,
+      "text": "El mijo fonio o acha es una especie de fanerógama de pequeños granos del género Digitaria. Se cultiva en algunas zonas de África e India, y es usado en varias gastronomías del África occidental."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Fonio blanc",
+      "source_url": "https://fr.wikipedia.org/wiki/Fonio_blanc",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239530747,
+      "text": "Le fonio blanc est une plante annuelle herbacée de la famille des Poaceae (Graminées) cultivée pour ses graines."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Fonio",
+      "source_url": "https://pt.wikipedia.org/wiki/Fonio",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 49352539,
+      "text": "Fonio é uma variante do painço. É o termo usado para os grãos cultivados do género Digitaria. É muito comum em algumas partes de África e na Índia. Os grãos são bastante pequenos e existem diferentes variedades."
+    },
+    "id": {
+      "source": "Wikipedia (id): Fonio",
+      "source_url": "https://id.wikipedia.org/wiki/Fonio",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26360792,
+      "text": "Fonio merupakan serealia yang dibudidayakan di Afrika Barat, terutama di sekitar daerah aliran Sungai Niger dan Volta. Karena berbulir kecil, fonio juga dimasukkan ke dalam kelompok milet."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Digitaria exilis」の節「Cultivation」",
+        "source": "Wikipedia (en): Digitaria exilis § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Digitaria_exilis#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377412763,
         "heading": "Cultivation",
         "text": "Fonio is one of the ancient African crops, possibly the oldest West African crop as its cultivation seems to have started about 7,000 years ago. The first references to fonio as food are reported from the mid-14th century. D. exilis was originally derived from the wild species D. longiflora.\nSignificant cultivation is in West Africa from Chad to Cape Verde, south Mali, in western Burkina Faso, eastern Senegal, northern Guinea, north Benin, parts of north central Nigeria such as northern Plateau State, Southern Kaduna, parts of Niger State, Abuja (FCT), Zuru area of Kebbi State, some parts of Nasarawa State and Kogi State, as well as parts of Bauchi State. It is also found in south Niger, where the plant supplies the staple food for several million people. In some regions of Mali, Burkina Faso, Guinea and Nigeria, fonio is the most important or one of the main cereals. White fonio has its main growing region in the highland plateaus of Nigeria, where it is popularly called acha. The second fonio species, iburu or black fonio, is limited to the Jos-Bauchi Plateau in Nigeria and the northern regions of Togo and Benin.\nFonio is grown in parts of the Dominican Republic, where it has already brought in 1500 from West Africa, first only grown as a weed, but it is now cultivated again. The European Commission with the EU Regulation L 323/1 of December 19, 2018, approved the commercialization in Europe of fonio as Novel Food, upon the scientific dossier managed and submitted by Italian company Obà Food.\n\nSource:\n\n■ Yield\nMore than 550,000 ha of fonio are grown each year in West Africa and the production runs at 587,000 tons. Yields are relatively stable, the yield average is currently 1 ton per hectare (ha).",
@@ -150,7 +187,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -176,7 +213,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/398802-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -184,7 +221,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/398802-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000863941.webp",
@@ -197,6 +234,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 324,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

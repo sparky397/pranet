@@ -44,7 +44,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -54,16 +54,12 @@
       "Ajwain",
       "Ajowan caraway"
     ],
-    "cy": [
-      "ajowan"
-    ],
-    "zh": [
-      "阿育魏实",
-      "阿米糙果芹",
-      "细叶糙果芹"
-    ],
     "fr": [
+      "Ajowan",
       "Carum ajowan"
+    ],
+    "id": [
+      "Jemuju"
     ],
     "ru": [
       "Ажгон"
@@ -149,6 +145,9 @@
     "kn": [
       "ಅಜವಾನ"
     ],
+    "cy": [
+      "Ajowan"
+    ],
     "am": [
       "ነጭ ኣዝሙድ"
     ],
@@ -169,6 +168,11 @@
     ],
     "my": [
       "စမုန်ဖြူ"
+    ],
+    "zh": [
+      "细叶糙果芹",
+      "阿育魏实",
+      "阿米糙果芹"
     ],
     "as": [
       "যনি"
@@ -191,9 +195,6 @@
     "uz": [
       "Ajwain"
     ],
-    "id": [
-      "Jemuju"
-    ],
     "hi": [
       "अजवाईन"
     ],
@@ -208,7 +209,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q413254",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q413254",
   "search_names": {
@@ -218,22 +219,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アジョワン」",
+      "source": "Wikipedia (ja): アジョワン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%83%A7%E3%83%AF%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109904500,
       "text": "アジョワン（Ajwain、ajowan）またはTrachyspermum ammiは、セリ科の一年生草本である。葉と種子のような果実の両方が人間によって摂取される。英語の俗称「bishop's weed（司祭の草）」は他の植物も指す。「種子」（すなわち果実）はラベージの「種子」としばしば混同される。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ajwain」",
+      "source": "Wikipedia (en): Ajwain",
       "source_url": "https://en.wikipedia.org/wiki/Ajwain",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372081970,
       "text": "Ajwain or ajowan —also known as ajowan caraway, \nthymol seeds, bishop's weed, or carom—is an annual herb in the family Apiaceae. Both the leaves and the seed‑like fruit of the plant are consumed by humans. The name \"bishop's weed\" also is a common name for other plants. The \"seed\" is often confused with lovage seed."
+    },
+    "es": {
+      "source": "Wikipedia (es): Trachyspermum ammi",
+      "source_url": "https://es.wikipedia.org/wiki/Trachyspermum_ammi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171583249,
+      "text": "Trachyspermum ammi es una especie de planta medicinal perteneciente a la familia de las apiáceas. Es originaria de la India, Pakistán y Oriente Próximo, cuyas semillas son utilizado como especia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ajowan",
+      "source_url": "https://fr.wikipedia.org/wiki/Ajowan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225376162,
+      "text": "L'Ajowan est la graine d'une plante originaire du sud de l'Inde proche du carvi, du cumin et de l'aneth. Son goût rappelle celui du thym."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Trachyspermum ammi",
+      "source_url": "https://pt.wikipedia.org/wiki/Trachyspermum_ammi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68622899,
+      "text": "Trachyspermum ammi [L.] Sprague, uma planta da família Apiaceae, de que também faz parte a salsa e outras ervas culinárias."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jemuju",
+      "source_url": "https://id.wikipedia.org/wiki/Jemuju",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28525642,
+      "text": "Jemuju, lemuju, mungsi, juga dikenal sebagai ajwain, omam, atau musi—adalah herba semusim dalam keluarga Apiaceae. Baik daun maupun buahnya yang mirip biji tanaman ini dikonsumsi oleh manusia."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Ajowan § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Ajowan#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 225376162,
+        "heading": "Culture",
+        "text": "L'ajowan est cultivée en Inde, en Iran, au Pakistan, en Afghanistan et en Égypte. Les graines mûres une fois récoltées sont séchées et battues.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -248,7 +300,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -288,7 +340,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/849765-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -296,7 +348,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/849765-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000411397.webp",
@@ -309,6 +361,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

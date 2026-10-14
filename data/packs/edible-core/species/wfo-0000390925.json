@@ -22,7 +22,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -32,37 +32,22 @@
       "Anise",
       "anise burnet saxifrage"
     ],
-    "nl": [
-      "Anijs"
-    ],
     "fr": [
-      "Anis",
-      "Anis vert"
+      "Anis vert",
+      "Anis"
     ],
-    "es": [
-      "anís"
+    "id": [
+      "Adas manis",
+      "adas manis"
     ],
-    "cs": [
-      "bedrník anýz"
-    ],
-    "fi": [
-      "anisruoho"
+    "lb": [
+      "Anäis"
     ],
     "zh": [
       "茴芹",
       "羊洪膻",
       "茴芹*(突蕨茴芹、茴香、洋茴香）",
       "洋茴香"
-    ],
-    "ast": [
-      "anís"
-    ],
-    "sl": [
-      "koromač",
-      "sladki janež"
-    ],
-    "lb": [
-      "Anäis"
     ],
     "jv": [
       "Adas legi"
@@ -103,6 +88,9 @@
     "sv": [
       "anis"
     ],
+    "nl": [
+      "anijs"
+    ],
     "ar": [
       "يانسون"
     ],
@@ -123,6 +111,9 @@
     ],
     "tr": [
       "anason"
+    ],
+    "fi": [
+      "anisruoho"
     ],
     "uk": [
       "Аніс"
@@ -163,9 +154,6 @@
     "gl": [
       "Anís"
     ],
-    "id": [
-      "adas manis"
-    ],
     "de": [
       "Anis"
     ],
@@ -204,6 +192,13 @@
     ],
     "cy": [
       "Anis"
+    ],
+    "sl": [
+      "koromač",
+      "sladki janež"
+    ],
+    "cs": [
+      "bedrník anýz"
     ],
     "fa": [
       "انیسون"
@@ -246,6 +241,9 @@
     ],
     "af": [
       "Anys"
+    ],
+    "ast": [
+      "Anís"
     ],
     "oc": [
       "Anís"
@@ -312,13 +310,16 @@
     ],
     "acm": [
       "ينسون"
+    ],
+    "es": [
+      "anís"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q28692",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q28692",
   "search_names": {
@@ -334,46 +335,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アニス」",
+      "source": "Wikipedia (ja): アニス",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%82%B9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111256307,
       "text": "アニス は、セリ科の一年草。古くから香料や薬草として利用されてきた。原産地はアナトリア半島、ギリシア、エジプトといった地中海東部地域である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Anise」",
+      "source": "Wikipedia (en): Anise",
       "source_url": "https://en.wikipedia.org/wiki/Anise",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378831685,
       "text": "Anise, also called aniseed or rarely anix, is a flowering plant in the family Apiaceae native to the Eastern Mediterranean and Southwest Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pimpinella anisum",
+      "source_url": "https://es.wikipedia.org/wiki/Pimpinella_anisum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172314818,
+      "text": "Pimpinella anisum, conocida como anís, anís verde, matalahúva o matalahúga, es una hierba de la familia de las apiáceas, también llamada anís o raramente anix. Es una planta con flores de la familia apiaceae originaria de la región mediterránea oriental y del suroeste de Asia.Puede alcanzar 60-80 cm de altura si las condiciones del terreno lo permiten."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Anis vert",
+      "source_url": "https://fr.wikipedia.org/wiki/Anis_vert",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229248552,
+      "text": "L’anis est une espèce de plantes à fleurs de la famille des Apiacées. C'est une plante herbacée cultivée comme plante condimentaire pour ses feuilles et ses graines aromatiques. La plante est parfois appelée anis vert."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pimpinella anisum",
+      "source_url": "https://pt.wikipedia.org/wiki/Pimpinella_anisum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67678794,
+      "text": "Pimpinella anisum, popularmente anis ou erva-doce é uma planta da família das Apiaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Adas manis",
+      "source_url": "https://id.wikipedia.org/wiki/Adas_manis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28167591,
+      "text": "Adas manis atau anis merupakan sejenis tumbuhan berbunga dari famili Apiaceae yang berasal dari kawasan Laut Tengah bagian timur dan Asia barat daya. Tumbuhan ini merupakan tumbuhan semusim berupa terna yang tingginya dapat mencapai satu meter. Daun pada bagian dasar tumbuhan ini berbentuk sederhana, panjangnya 2–5 cm, dan bercuping dangkal, sementara daun pada bagian batang yang lebih tinggi berbentuk menyirip seperti bulu dan terbagi-bagi menjadi banyak anak daun. Bunganya berwarna putih, berdiameter 3 mm, dan bergerombol banyak dalam payungan bunga. Buahnya merupakan skizokarp kering berbentuk lonjong dengan panjang 3–5 mm."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「アニス」の節「栽培」",
+        "source": "Wikipedia (ja): アニス § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%82%B9#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111256307,
         "heading": "栽培",
         "text": "地中海沿岸、中部ヨーロッパ、小アジア、インド、メキシコなどの地域で栽培がおこなわれている。栽培適温は20度前後で、春まきで育て、3月まきで100日前後、4 - 5月まきで70日ほどで開花する。6月ごろにまくと、開花はするが果実不良になりやすい。播種は直播し、間引きしながら育て、株間を20 cm程度にする。苗をつくって移植することも可能で、育苗箱に種をまいて本葉が2枚出たときに育苗ポットに鉢上げし、本葉が4枚揃った苗を定植する。ただし、他のセリ科植物と同様に移植には弱いほうなので、大苗にならないようにする。開花が始まったころには支柱を立てて、倒伏防止とする。果実の収穫時期は、果実が淡褐色になってから行う。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Anise」の節「Cultivation」",
+        "source": "Wikipedia (en): Anise § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Anise#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378831685,
         "heading": "Cultivation",
         "text": "Anise was first cultivated in the Middle East, and was brought to Europe for its medicinal value. It has been cultivated in Egypt for approximately 4,000 years.\nAnise plants grow best in light, fertile, well-drained soil. The seeds should be planted as soon as the ground warms up in spring. Because the plants have a taproot, they do not transplant well after being established so they should either be started in their final location or be transplanted while the seedlings are still small.\n\n■ Production\nWestern cuisines have long used anise to flavor dishes, drinks, and candies. The word is used for both the species of herb and its licorice-like flavor. The most powerful flavor component of the essential oil of anise, anethole, is found in both anise and an unrelated spice indigenous to South China called star anise (Illicium verum) widely used in South Asian, Southeast Asian and East Asian dishes. Star anise is considerably less expensive to produce and has gradually displaced P. anisum in Western markets. While formerly produced in larger quantities, by 1999 world production of the essential oil of anise was 8 tons, compared to 400 tons of star anise.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Pimpinella anisum § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Pimpinella_anisum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 172314818,
+        "heading": "Cultivo",
+        "text": "La Pimpinella anisum se cultivó por primera vez en Egipto y Oriente Medio y se llevó a Europa por su valor medicinal.​ Se cultiva en Egipto desde hace aproximadamente 4.000 años.​\nLas plantas de esta especie crecen mejor en suelos ligeros, fértiles y bien drenados. Las semillas deben plantarse en cuanto el suelo se calienta en primavera. Como las plantas tienen una raíz pivotante, no se trasplantan bien una vez establecidas, por lo que deben iniciarse en su ubicación definitiva o trasplantarse cuando las plántulas son aún pequeñas.​",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Anis vert § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Anis_vert#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 229248552,
+        "heading": "Culture",
+        "text": "La plante préfère les sols légers et sains, et les expositions chaudes et ensoleillées.\nLes semis se font au printemps, en avril-mai. Il faut éclaircir après la levée.\nLa récolte des feuilles peut débuter quelques mois après le semis. Les graines se récoltent à l’automne à la maturité (septembre).",
         "truncated": false
       }
     }
@@ -390,7 +449,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -447,7 +506,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/846658-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -455,7 +514,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/846658-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000390925.webp",
@@ -468,6 +527,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 352,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

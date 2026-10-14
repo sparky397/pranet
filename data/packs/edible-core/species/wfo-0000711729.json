@@ -10,42 +10,51 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "bm": [
-      "Kùnjɛ",
-      "Kunjɛ"
-    ],
-    "ff": [
-      "Ngelooki"
-    ],
     "ar": [
       "غويارة سنغالية"
+    ],
+    "bm": [
+      "Kunjɛ",
+      "Kùnjɛ"
     ],
     "arz": [
       "غوياره سنغاليه"
     ],
     "kai": [
       "Masàsèɗ"
+    ],
+    "ff": [
+      "Ngelooki"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q151006",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q151006",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Guiera」",
+      "source": "Wikipedia (en): Guiera",
       "source_url": "https://en.wikipedia.org/wiki/Guiera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1329391691,
       "text": "Guiera is a flowering plant genus in the family Combretaceae. Guiera senegalensis is the only known species in the genus, found in Tropical Africa in dry areas from Senegal to Sudan. The plant produces the tannin 3,4,5-Tri-O-galloylquinic acid and several alkaloids of the harmane family."
+    },
+    "es": {
+      "source": "Wikipedia (es): Guiera senegalensis",
+      "source_url": "https://es.wikipedia.org/wiki/Guiera_senegalensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 144252211,
+      "text": "Guiera senegalensis es la única especie del género monotípico Guiera de plantas con flores en la familia de las Combretaceae. Originaria de África subsahariana."
     }
   },
   "edible": {
@@ -65,7 +74,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -89,7 +98,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/20011770-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -97,7 +106,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/20011770-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000711729.webp",
@@ -110,6 +119,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

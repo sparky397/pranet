@@ -25,34 +25,33 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヒメムカシヨモギ"
     ],
-    "zh": [
-      "小篷草",
-      "小飞蓬",
-      "小蓬草*(小飞蓬）",
-      "野塘蒿",
-      "小蓬草"
-    ],
-    "ast": [
-      "picachón",
+    "es": [
       "Conyza canadensis"
     ],
-    "nl": [
-      "Canadese fijnstraal"
+    "fr": [
+      "Conyza canadensis"
     ],
-    "sl": [
-      "kanadska suholetnica"
+    "pt": [
+      "Conyza canadensis"
     ],
     "ru": [
       "Мелколепестничек канадский"
     ],
+    "nl": [
+      "Canadese fijnstraal"
+    ],
     "ab": [
       "Абгаҵыхәа"
+    ],
+    "ast": [
+      "Conyza canadensis",
+      "picachón"
     ],
     "mi": [
       "porerarua"
@@ -68,6 +67,13 @@
     ],
     "fi": [
       "kanadankoiransilmä"
+    ],
+    "zh": [
+      "小蓬草",
+      "小篷草",
+      "小飞蓬",
+      "小蓬草*(小飞蓬）",
+      "野塘蒿"
     ],
     "da": [
       "Canadisk bakkestjerne"
@@ -128,13 +134,16 @@
     ],
     "sk": [
       "turica kanadská"
+    ],
+    "sl": [
+      "kanadska suholetnica"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q21874197",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q21874197",
   "search_names": {
@@ -148,22 +157,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヒメムカシヨモギ」",
+      "source": "Wikipedia (ja): ヒメムカシヨモギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%A0%E3%82%AB%E3%82%B7%E3%83%A8%E3%83%A2%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108286337,
       "text": "ヒメムカシヨモギ は、キク科イズハハコ属の2年草。道端や荒れ地などに生える雑草。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Erigeron canadensis」",
+      "source": "Wikipedia (en): Erigeron canadensis",
       "source_url": "https://en.wikipedia.org/wiki/Erigeron_canadensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374950365,
       "text": "Erigeron canadensis is an annual plant native throughout most of North America and Central America. It is also widely naturalized in Eurasia and Australia. Common names include horseweed, Canadian horseweed, Canadian fleabane, coltstail, marestail, and butterweed. It was the first weed to have developed glyphosate resistance, reported in 2001 from Delaware."
+    },
+    "es": {
+      "source": "Wikipedia (es): Conyza canadensis",
+      "source_url": "https://es.wikipedia.org/wiki/Conyza_canadensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174572986,
+      "text": "El erígero del Canadá o hierba carnicera, Conyza canadensis, es una especie de planta con flor, herbácea de la familia Asteraceae, nativa de Norteamérica, aunque hoy se ha extendido por los cinco continentes."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Conyza canadensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Conyza_canadensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229967399,
+      "text": "La Vergerette du Canada, Vergerolle du Canada ou encore Érigéron du Canada est une espèce de plante herbacée annuelle rudérale de la famille des Asteraceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Conyza canadensis",
+      "source_url": "https://pt.wikipedia.org/wiki/Conyza_canadensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64352224,
+      "text": "Conyza canadensis é uma espécie de planta com flor pertencente à família Asteraceae."
     }
   },
   "edible": {
@@ -178,7 +214,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -394,7 +430,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/203653-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -402,7 +438,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/203653-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000015917.webp",
@@ -415,6 +451,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -19,7 +19,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -27,205 +27,53 @@
     ],
     "en": [
       "Maize",
+      "maize",
       "corn",
       "Indian Corn",
-      "maize",
       "Teosinte"
     ],
-    "cy": [
-      "India-corn",
-      "indrawn"
-    ],
-    "ak": [
-      "Aburoo",
-      "aburo"
-    ],
-    "ast": [
-      "maíz",
-      "boroña"
-    ],
-    "bar": [
-      "Gugarutz",
-      "Mais",
-      "Tyrk",
-      "Gugaruz"
-    ],
-    "bg": [
-      "Царевица",
-      "захарна царевица"
-    ],
-    "bm": [
-      "Kaba"
-    ],
-    "ca": [
-      "Blat de moro",
-      "Dacsa",
-      "Panís"
-    ],
-    "cs": [
-      "kukuřice",
-      "kukuřice setá"
-    ],
-    "da": [
-      "Majs"
-    ],
-    "de": [
-      "Kukuruz",
-      "Mais"
-    ],
-    "ee": [
-      "Bli"
-    ],
-    "el": [
-      "Καλαμπόκι"
-    ],
-    "eo": [
-      "Maizo"
-    ],
-    "es": [
-      "Coronta o Panocha",
-      "Elote o Choclo",
-      "Maiz",
-      "Olote",
-      "maíz"
-    ],
-    "et": [
-      "Mais"
-    ],
-    "fa": [
-      "ذرت"
-    ],
-    "fi": [
-      "Maissi",
-      "viljamaissi"
-    ],
-    "fr": [
-      "Maïs"
-    ],
-    "frr": [
-      "Meis"
-    ],
-    "he": [
-      "תירס"
-    ],
-    "hi": [
-      "मक्का"
-    ],
-    "hu": [
-      "Kukorica"
-    ],
-    "id": [
-      "jagung"
-    ],
-    "io": [
-      "Maizo"
-    ],
-    "is": [
-      "Maís"
-    ],
-    "it": [
-      "Mais"
-    ],
-    "jbo": [
-      "zumri"
-    ],
-    "jv": [
-      "Jagung"
-    ],
-    "lv": [
-      "Parastā kukurūza",
-      "kukurūza"
-    ],
-    "ms": [
-      "Jagung"
-    ],
-    "nl": [
-      "Maïs",
-      "mais"
-    ],
-    "nb": [
-      "Mais"
-    ],
-    "pa": [
-      "ਮੱਕੀ"
-    ],
-    "pl": [
-      "Kukurydza",
-      "kukurydza zwyczajna"
-    ],
     "pt": [
+      "Milho",
+      "milho",
       "abati",
       "auati",
-      "avati",
-      "Milho"
+      "avati"
     ],
-    "ru": [
-      "Кукуруза",
-      "кукуруза сахарная"
+    "id": [
+      "Jagung",
+      "jagung"
     ],
-    "sk": [
-      "Kukurica siata"
+    "fr": [
+      "maïs"
     ],
-    "sl": [
-      "koruza"
-    ],
-    "sr": [
-      "Кукуруз"
-    ],
-    "sv": [
-      "Majs"
-    ],
-    "ta": [
-      "சோளம்"
-    ],
-    "th": [
-      "ข้าวโพด"
-    ],
-    "tr": [
-      "Mısır"
-    ],
-    "ug": [
-      "ظات حعشلعق قوناق",
-      "كۆممىقوناق"
-    ],
-    "vec": [
-      "Formenton",
-      "Granturco",
-      "Sorgo Turco"
-    ],
-    "wa": [
-      "Dinrêye",
-      "Poes d' Trouk"
-    ],
-    "zh": [
-      "玉米",
-      "玉蜀黍",
-      "玉米须",
-      "玉蜀黍叶",
-      "糯玉米",
-      "玉米油",
-      "玉米花",
-      "玉米轴",
-      "玉蜀黍苞片",
-      "玉蜀黍根"
-    ],
-    "ar": [
-      "الذُرة الشاميَّة",
-      "الذُرة الصفراء",
-      "الذُرة المصريَّة",
-      "الذُرة الإسبانيَّة",
-      "عَيْش الريف",
-      "حِنْطَة الجِرْذَان",
-      "ذرة شامية"
+    "de": [
+      "Mais",
+      "Kukuruz"
     ],
     "vep": [
       "Kukuruz"
+    ],
+    "es": [
+      "maíz",
+      "Coronta o Panocha",
+      "Elote o Choclo",
+      "Maiz",
+      "Olote"
     ],
     "af": [
       "mielie"
     ],
     "am": [
       "በቆሎ"
+    ],
+    "ar": [
+      "ذرة شامية",
+      "الذُرة الشاميَّة",
+      "الذُرة الصفراء",
+      "الذُرة المصريَّة",
+      "الذُرة الإسبانيَّة",
+      "عَيْش الريف",
+      "حِنْطَة الجِرْذَان"
     ],
     "arz": [
       "دره"
@@ -239,8 +87,21 @@
     "az": [
       "Qarğıdalı"
     ],
+    "bar": [
+      "Gugaruz",
+      "Gugarutz",
+      "Mais",
+      "Tyrk"
+    ],
     "be": [
       "Кукуруза"
+    ],
+    "bg": [
+      "захарна царевица",
+      "Царевица"
+    ],
+    "bm": [
+      "Kaba"
     ],
     "bn": [
       "ভুট্টা"
@@ -254,6 +115,11 @@
     "bs": [
       "Kukuruz"
     ],
+    "ca": [
+      "dacsa",
+      "Blat de moro",
+      "Panís"
+    ],
     "ce": [
       "ХьаьжкIа"
     ],
@@ -266,17 +132,44 @@
     "ckb": [
       "گەنمەشامی"
     ],
+    "cs": [
+      "kukuřice setá",
+      "kukuřice"
+    ],
+    "cy": [
+      "indrawn",
+      "India-corn"
+    ],
+    "da": [
+      "majs"
+    ],
     "dsb": [
       "Majs"
+    ],
+    "el": [
+      "καλαμπόκι"
     ],
     "eml": [
       "Furmintòun"
     ],
+    "eo": [
+      "maizo"
+    ],
+    "et": [
+      "mais"
+    ],
     "eu": [
       "arto"
     ],
+    "fa": [
+      "ذرت"
+    ],
     "ff": [
       "Masarji"
+    ],
+    "fi": [
+      "maissi",
+      "viljamaissi"
     ],
     "fy": [
       "Stynske weet"
@@ -302,6 +195,12 @@
     "ha": [
       "masara"
     ],
+    "he": [
+      "תירס"
+    ],
+    "hi": [
+      "मक्का"
+    ],
     "hr": [
       "kukuruz"
     ],
@@ -310,6 +209,21 @@
     ],
     "ht": [
       "Mayi"
+    ],
+    "hu": [
+      "kukorica"
+    ],
+    "io": [
+      "Maizo"
+    ],
+    "is": [
+      "Maís"
+    ],
+    "jbo": [
+      "zumri"
+    ],
+    "jv": [
+      "Jagung"
     ],
     "ka": [
       "სიმინდი"
@@ -341,6 +255,10 @@
     "lt": [
       "Paprastasis kukurūzas"
     ],
+    "lv": [
+      "kukurūza",
+      "Parastā kukurūza"
+    ],
     "mg": [
       "Katsaka"
     ],
@@ -353,6 +271,9 @@
     "mr": [
       "मका"
     ],
+    "ms": [
+      "jagung"
+    ],
     "nah": [
       "Cintli"
     ],
@@ -364,6 +285,10 @@
     ],
     "new": [
       "कःनि"
+    ],
+    "nl": [
+      "mais",
+      "Maïs"
     ],
     "nn": [
       "mais"
@@ -380,6 +305,10 @@
     "pam": [
       "Mais"
     ],
+    "pl": [
+      "kukurydza zwyczajna",
+      "Kukurydza"
+    ],
     "pnb": [
       "مکی"
     ],
@@ -394,6 +323,10 @@
     ],
     "ro": [
       "porumb"
+    ],
+    "ru": [
+      "кукуруза сахарная",
+      "Кукуруза"
     ],
     "rw": [
       "Ikigori"
@@ -410,6 +343,12 @@
     "sh": [
       "Kukuruz"
     ],
+    "sk": [
+      "kukurica siata"
+    ],
+    "sl": [
+      "koruza"
+    ],
     "sn": [
       "Chibage"
     ],
@@ -419,11 +358,20 @@
     "sq": [
       "misri"
     ],
+    "sr": [
+      "кукуруз"
+    ],
     "su": [
       "Jagong"
     ],
+    "sv": [
+      "majs"
+    ],
     "sw": [
       "Mhindi"
+    ],
+    "ta": [
+      "சோளம்"
     ],
     "te": [
       "మొక్కజొన్న"
@@ -431,11 +379,17 @@
     "tg": [
       "Сӯта"
     ],
+    "th": [
+      "ข้าวโพด"
+    ],
     "tl": [
       "Mais"
     ],
     "to": [
       "Koane"
+    ],
+    "tr": [
+      "Mısır"
     ],
     "tt": [
       "Кукуруз"
@@ -455,17 +409,36 @@
     "war": [
       "Maís"
     ],
+    "wa": [
+      "Poes d' Trouk",
+      "Dinrêye"
+    ],
     "yi": [
       "קוקורוזע"
     ],
     "yo": [
       "Àgbàdo"
     ],
+    "zh": [
+      "玉米",
+      "玉蜀黍",
+      "玉米须",
+      "玉蜀黍叶",
+      "糯玉米",
+      "玉米油",
+      "玉米花",
+      "玉米轴",
+      "玉蜀黍苞片",
+      "玉蜀黍根"
+    ],
     "hy": [
       "եգիպտացորեն"
     ],
     "yue": [
       "粟米"
+    ],
+    "frr": [
+      "Meis"
     ],
     "uz": [
       "Makkajoʻxori"
@@ -487,6 +460,12 @@
     ],
     "my": [
       "ပြောင်းဖူး"
+    ],
+    "nb": [
+      "mais"
+    ],
+    "pa": [
+      "ਮੱਕੀ"
     ],
     "pdc": [
       "Welschkann"
@@ -520,6 +499,10 @@
     ],
     "fo": [
       "Mais"
+    ],
+    "ak": [
+      "aburo",
+      "Aburoo"
     ],
     "cdo": [
       "Iù-diĕng-bău"
@@ -587,11 +570,18 @@
     "za": [
       "Haeuxyangz"
     ],
+    "ug": [
+      "كۆممىقوناق",
+      "ظات حعشلعق قوناق"
+    ],
     "kg": [
       "Disângu"
     ],
     "xmf": [
       "ლაიტი"
+    ],
+    "ee": [
+      "bli"
     ],
     "ky": [
       "Жүгөрү"
@@ -799,13 +789,25 @@
     ],
     "knc": [
       "Maize"
+    ],
+    "ast": [
+      "maíz",
+      "boroña"
+    ],
+    "it": [
+      "Mais"
+    ],
+    "vec": [
+      "Formenton",
+      "Granturco",
+      "Sorgo Turco"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q11575",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q11575",
   "search_names": {
@@ -820,46 +822,115 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「トウモロコシ」",
+      "source": "Wikipedia (ja): トウモロコシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111071702,
       "text": "トウモロコシ は、イネ科の一年生植物。穀物として人間の食料や家畜の飼料となるほか、デンプン（コーンスターチ）、油（コーン油）、異性化糖（コーンシロップ）、バイオエタノールの原料としても重要で、年間世界生産量は2009年に8億1700万トンに達する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Maize」",
+      "source": "Wikipedia (en): Maize",
       "source_url": "https://en.wikipedia.org/wiki/Maize",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377441710,
       "text": "Maize, also known as corn, is a tall stout grass that produces cereal grain. The leafy stalk of the plant gives rise to male inflorescences or tassels which produce pollen, and female inflorescences called ears. The ears yield grain, known as kernels or seeds. In modern commercial varieties, these are usually yellow or white; other varieties can be of many colors. Maize was domesticated by indigenous peoples in southern Mexico about 9,000 years ago from wild teosinte. Native Americans planted it alongside beans and squashes in the Three Sisters polyculture."
+    },
+    "es": {
+      "source": "Wikipedia (es): Zea mays",
+      "source_url": "https://es.wikipedia.org/wiki/Zea_mays",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174449902,
+      "text": "El maíz es una especie de planta gramínea originaria de Mesoamérica. Su infrutescencia femenina se llama mazorca, elote o choclo y en ella crecen granos comestibles. Su cultivo se inició hace doce mil años aproximadamente en el Eje Neovolcánico de México, y se propagó por el resto del continente mucho antes de la llegada de los europeos, quienes, a su vez, lo llevaron a Europa en el siglo XVI. Actualmente es el cereal con el mayor volumen de producción a nivel mundial seguido por el trigo y el arroz.Según Ramírez, (2018) señala que en Mexico y Tlaxcala son centros de origen de estos cereales, el maíz es el principal cultivo por su cultura, mas del 90% de las variedades que se siembran y se consumen en territorio tlaxcalteca son denominadas criollas o nativas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Zea mays",
+      "source_url": "https://fr.wikipedia.org/wiki/Zea_mays",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223572670,
+      "text": "Zea mays est une espèce de plantes monocotylédones, de la famille des Poacées. Elle comporte plusieurs sous-espèces, dont le maïs et des Téosintes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Milho",
+      "source_url": "https://pt.wikipedia.org/wiki/Milho",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73102630,
+      "text": "O milho, também conhecido como milho-maís, maís, ou abati, é um cereal cultivado em grande parte do mundo e extensivamente utilizado como alimento humano ou para ração animal devido às suas qualidades nutricionais. Todas as evidências científicas levam a crer que seja uma planta de origem mexicana, já que a sua domesticação começou de 7 500 a 12 000 anos atrás na área central do México. Tem um alto potencial produtivo e é bastante responsivo à tecnologia. O seu cultivo geralmente é mecanizado, se beneficiando muito de técnicas modernas de plantio e colheita. A produção mundial foi 817 milhões de toneladas em 2009 — mais que arroz ou que trigo. O milho é cultivado em diversas regiões do mundo. O maior produtor mundial são os Estados Unidos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jagung",
+      "source_url": "https://id.wikipedia.org/wiki/Jagung",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30067012,
+      "text": "Jagung adalah salah satu tanaman pangan penghasil karbohidrat yang terpenting di dunia, selain gandum dan padi. Bagi penduduk Amerika Tengah dan Selatan, bulir jagung adalah pangan pokok, sebagaimana bagi sebagian penduduk Afrika dan beberapa daerah di Indonesia. Pada masa kini, jagung juga sudah menjadi komponen penting pakan ternak. Penggunaan lainnya adalah sebagai sumber minyak pangan dan bahan dasar tepung maizena. Berbagai produk turunan hasil jagung menjadi bahan baku berbagai produk industri farmasi, kosmetika, dan kimia."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「トウモロコシ」の節「栽培」",
+        "source": "Wikipedia (ja): トウモロコシ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111071702,
         "heading": "栽培",
         "text": "栽培期間は一般的に4月中旬から8月で、春に種をまき、晩春から夏の間に生長して、7 - 8月の夏のあいだに収穫をする。高温・多日照を好む性質で、栽培適温は22 - 30度、発芽適温は25 - 30度とされ、生育には高温を必要とし低温だと発芽しにくい。正常な受精のための適温は、12度以上、35度以下とされる。連作は可能である。多くの実がなるようにするためには、雌花に多くの花粉が受粉できるようにするのが重要で、畝に2列以上で作るようにする。栽培土壌は弱酸性で有機質に富み、耕土が深く水はけが良い圃場がよい。根は病害虫に強く、野菜畑の輪作作物として適している。根の力は強いが、切れてしまうと根は再生しないため、移植には向いていない。吸肥力は野菜の中でも最も強い方で、一般的な肥沃度の畑でよく育つが、食味がよい品種は草勢が強くないので、追肥を必要とする。\nトウモロコシは風媒花で、受粉と受精がスムーズに行えるように、同じ品種を1つの場所にまとめて栽培する。飼料用などの他の品種が近くにあると、交雑して品種本来の特性が出せないため、同じ場所では1シーズンに1品種を作付けしたり、別品種を植えるときは出穂（開花期）がずれるように播き時期をずらすか、距離を離して栽培する。\n種まきは4月中旬ごろに行い、根が深く張るために元肥を多くすき込んだ畑を深くまで耕してから、幅90 cm以上の畝をつくる。畝にはマルチングを行って保温と土壌乾燥を防ぎ、1か所あたり種を3 - 4粒ずつ、条間50 cmの2列で30 cm間隔でまき、2 - 3 cmと厚めに覆土する。しっかり水やりすると発芽するので、2回に分けて間引きし、草丈10 - 15cmぐらいになるまでに最終的には1か所1本にする。間引きで丁寧に抜き取った苗であれば、他の場所に植えて育てることもできる。苗をつくる場合は、育苗ポットなどに種をまき、発芽後の本葉が3 - 4枚になったら定植する。\nトウモロコシは肥料の吸収力が強く、初夏の生長期には肥料を必要とするので、草丈30 - 40 cmくらいのときに追肥を行う。また、倒伏防止のため、追肥と一緒に株元は軽く土寄せをする。雄花がついたときと、雌花がついたときには、それぞれ再度追肥を行う。7月ごろから1本の茎には雌花が数個つくが、充実した実をとるために芽かき（摘果）を行って、上から1つ、もしくは2つだけ雌花を残す。摘果した雌花は、ベビーコーン（ヤングコーン）として食べることができる。出穂以降の果実肥大期は水分の必要期のため、水切れが起こらないように管理をする。雌花が受粉してひげが茶色に色づいたころ（受粉後20 - 25日ぐらい）が収穫適期である。鮮度が落ちが早いため当日食べる分を早朝に収穫し、果実を触って実が膨らんで充実しているのを確かめてから、根元からもぎ取って収穫する。\nトウモロコシの種や発芽直後の幼芽は鳥類の好物になり、直まきの場合に食べられてしまう被害を受けることがある。鳥害から守るために、育苗後に定植するか、直まきした上に不織布などをベタ掛けして防ぐ。発芽がそろい、緑色の葉が出たら、遅れないようにベタ掛け資材を取り外す。\n\n雄穂除去 - 品種改良で交配をコントロールしたり、強風で倒れないように行われる。\nトウモロコシの病気一覧\nスイートコーンの品種一覧、遺伝子組み換えトウモロコシ\nスリーシスターズ農法 - アメリカ先住民が行っていた相性の良いトウモロコシ・かぼちゃ・豆を混作する農法\nプッシュ・プル法 - 害虫を誘因するおとり作物と忌避作物を組み合わせる農法",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Maize」の節「Cultivation」",
+        "source": "Wikipedia (en): Maize § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Maize#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377441710,
         "heading": "Cultivation",
         "text": "■ Pre-Columbian development\n\nMaize requires human intervention for its propagation. The kernels of its naturally-propagating teosinte ancestor fall off the cob on their own, while those of domesticated maize do not. All maize arose from a single domestication in southern Mexico about 9,000 years ago. The oldest surviving maize types are those of the Mexican highlands. Maize spread from this region to the lowlands and over the Americas along two major paths. The centre of domestication was most likely the Balsas River valley of south-central Mexico. Maize reached highland Ecuador at least 8000 years ago. It reached lower Central America by 7,600 years ago, and the valleys of the Colombian Andes between 7,000 and 6,000 years ago.\nThe earliest maize plants grew a single, small ear per plant. The Olmec and Maya cultivated maize in numerous varieties throughout Mesoamerica; they cooked, ground and processed it through nixtamalization. By 3000 years ago, maize was central to Olmec culture, including their calendar, language, and myths.\nThe Mapuche people of south-central Chile cultivated maize along with quinoa and potatoes in pre-Hispanic times. Before the expansion of the Inca Empire, maize was traded and transported as far south as 40° S in Melinquina, Lácar Department, Argentina, probably brought across the Andes from Chile.\n\n■ Columbian exchange\n\nAfter the arrival of Europeans in 1492, Spanish settlers consumed maize, and explorers and traders carried it back to Europe. Spanish settlers much preferred wheat bread to maize. Maize flour could not be substituted for wheat for communion bread, since in Christian belief at that time only wheat could undergo transubstantiation and be transformed into the body of Christ.",
+        "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Zea mays § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Zea_mays#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175694312,
+        "heading": "Cultivo",
+        "text": "Actualmente el maíz es sembrado en todos los países de América Latina. Este constituye, con el frijol, calabaza y chile, un alimento fundamental en toda América. La productividad del maíz centro y suramericano es, sin embargo, bastante inferior a la de los Estados Unidos, lo cual está fundamentado en las características ecológicas y sobre todo, climáticas, que diferencian las dos zonas de producción.\nEl maíz es un cereal de muy rápido crecimiento, pero que necesita una provisión abundante de insolación, mucho mayor en el Corn Belt, donde las noches del verano son muy cortas, que en las zonas equinocciales latinoamericanas. También en los países europeos se cultiva una gran cantidad de maíz con fines alimenticios para el ganado estabulado. Su consumo humano nunca llegó a generalizarse: el refrán a falta de pan, buenas son tortas hace referencia a la situación existente en España durante la Guerra Civil, cuando algunos países latinoamericanos (México, en especial) enviaron grandes cantidades de maíz a la zona republicana para suplir la falta de harina de trigo.\nEl cultivo se divide en: etapa I de siembra-emergencia, etapa II emergencia-Panoja, etapa III Panoja-Espiga, y etapa IV Espiga-Maduración. La emergencia de la plántula es la aparición de la plántula encima de la superficie del suelo. La siguiente etapa es la emergencia de dos hojas completas; después es la etapa en que se observa la panoja sin ayuda del agricultor. Por último es la etapa en que se observan los estigmas de ocho a diez días después de la etapa III. A los cinco días aproximadamente se observa la emergencia del coleóptilo, después de 12 días se observa la emergencia de la segunda hoja.",
+        "truncated": true
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Milho § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Milho#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 73102630,
+        "heading": "Cultivo",
+        "text": "O milho tem alto potencial produtivo e é bastante responsivo à tecnologia. O nível tecnológico da cultura está entre o médio e o alto. O cultivo é idealmente mecanizado e se beneficia bastante da técnica de plantio direto. A utilização de discos de plantio é adequada para a sua peneira.\n\nO plantio de milho é feito tanto na chamada \"safrinha\" quanto na safra principal (ou seja, a safra de verão). Na Região Sudeste do Brasil, o mês de plantio mais indicado geralmente é setembro, mas o plantio pode ser feito até em novembro. Dependendo do mês de plantio, o espaçamento entre as linhas e a quantidade de sementes por metro deve variar. O ciclo do plantio varia entre 115 e 135 dias.\nA adubação deve ser feita conforme a análise do solo. O controle de pragas e ervas daninhas só deve ser feito se necessário. Nem sempre há necessidade de irrigação intensiva: pelo menos nas regiões tradicionalmente produtoras, a precipitação é suficiente para as necessidades hídricas da planta. Lavouras bem-sucedidas apresentam valor médio de germinação na faixa de 95 por cento. A produtividade média varia entre 250 e 350 sacas por alqueire. Nas regiões de produtividade recorde do Brasil, há produtores que chegam a alcançar 520 sacas por alqueire.\n\n■ Colheita\nAntes da Segunda Guerra Mundial, a maior parte do milho era colhida à mão. Isso frequentemente envolvia grandes números de trabalhadores, e eventos sociais associados. Um ou dois pequenos tratores eram utilizados, mas as colheitadeiras mecânicas não foram utilizadas até o fim da guerra. Na mão ou através da colheitadeira, a espiga inteira é coletada e a separação dos grãos e do sabugo é uma operação separada. Anteriormente, isso era feito em uma máquina especial. Hoje, as colheitadeiras modernas têm unidades de separação de grãos anexas.",
+        "truncated": true
+      },
+      "id": {
+        "source": "Wikipedia (id): Jagung § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Jagung#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 30067012,
+        "heading": "Budidaya",
+        "text": "■ Syarat tumbuh\nMeskipun dikenal sejumlah ras jagung yang mampu beradaptasi dengan suhu rendah dan kawasan tinggi, jagung adalah tanaman dataran rendah dengan suhu hangat dan penyuka cahaya matahari penuh. Perkecambahan jagung terhenti pada suhu di bawah 10 °C.\nKebutuhan air jagung adalah rata-rata, namun kekurangan air pada masa awal tumbuh, masa pembungaan, dan pengisian biji akan berakibat pada penurunan hasil yang dramatis.\nJagung dapat tumbuh pada berbagai tipe tanah, asalkan ketersediaan air dan hara tercukupi dan akar mampu tumbuh dengan baik. Perakaran jagung tidak dalam, sehingga lapis olah tidak boleh terlalu keras. Kebutuhan hara jagung tinggi, terutama terhadap nitrogen dan fosfor. Jagung menyukai tanah dengan kemasaman netral (pH 5 - 6,5). Penanaman jagung di tanah masam, seperti gambut dan podsolik merah kuning (PMK), memerlukan pengapuran, pengatusan (drainase) yang baik, serta kultivar yang toleran.\nPengolahan lahan untuk persiapan penanaman jagung biasanya mencakup pembajakan, perataan, pembuatan parit atusan, serta pengapuran (pada tanah masam). Sebelum ditanam, lahan perlu diirigasi terlebih dahulu.\nJenis Jenis Benih Jagung di Indonesia\nJagung merupakan salah satu jenis tanaman pangan yang sering ditanam oleh petani. Tanaman jagung termasuk golongan Spermatophyta, kelas Monocotyledone, ordo Graminae, dan familia Graminaceae serta genus Zea. Nama latin Zea Mays. Sekarang ini Jagung telah menjadi komoditas perdagangan dunia, semua negara berlomba-lomba meningkatkan produksinya guna memenuhi permintaan industrinya. Salah satu caranya yaitu dengan memakai benih jagung unggul guna mendapatkan hasil panen yang banyak. Berdasarkan pengamatan, jagung dapat dibagi menjadi 3 jenis yaitu:\n\nJagung Komposit.",
         "truncated": true
       }
     }
@@ -881,7 +952,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -1110,7 +1181,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/426810-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -1118,7 +1189,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/426810-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000907754.webp",
@@ -1131,6 +1202,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -14,13 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "马来波罗蜜",
-      "馬來波羅蜜"
-    ],
     "id": [
       "Benda (pohon)"
     ],
@@ -29,6 +25,10 @@
     ],
     "min": [
       "Tarok"
+    ],
+    "zh": [
+      "馬來波羅蜜",
+      "马来波罗蜜"
     ],
     "ms": [
       "terap nasi"
@@ -41,18 +41,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3769382",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3769382",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Artocarpus elasticus」",
+      "source": "Wikipedia (en): Artocarpus elasticus",
       "source_url": "https://en.wikipedia.org/wiki/Artocarpus_elasticus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372513852,
       "text": "Artocarpus elasticus of the Mulberry Family (Moraceae) and commonly called terap nasi or terap, is a rainforest tree of maritime and mainland Southeast Asia, growing up to 45 metres (150 ft) in height with a diameter at breast height of about 1 metre (3 ft). The juvenile trees are noteworthy for producing a rosette of enormous deeply lobed leaves similar in shape to those of the white oak, but up to 2 metres (6 ft) long by about 1.2 metres (4 ft) in width. The stipules are up to eight inches long, among the largest known. These leaves emerge from leaf buds as long as 18 centimetres (7 in). The trees are dioecious. It produces a fruit like a small breadfruit. The male capitulae produce clouds of pollen, and pollenisation is apparently by wind."
+    },
+    "id": {
+      "source": "Wikipedia (id): Benda (pohon)",
+      "source_url": "https://id.wikipedia.org/wiki/Benda_(pohon)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28615383,
+      "text": "Benda, terap atau tekalong adalah sejenis pohon buah yang masih satu genus dengan nangka (Artocarpus). Buahnya mirip dengan buah timbul atau kulur, dengan tonjolan-tonjolan serupa duri lunak panjang dan pendek, agak melengket. Nama ilmiahnya adalah Artocarpus elasticus."
     }
   },
   "edible": {
@@ -66,7 +75,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -83,7 +92,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/850378-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -91,7 +100,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/850378-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000550472.webp",
@@ -104,6 +113,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

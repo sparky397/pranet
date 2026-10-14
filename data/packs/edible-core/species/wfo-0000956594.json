@@ -18,17 +18,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "en": [
       "Grumichama",
       "grumichama"
     ],
-    "zh": [
-      "巴西櫻桃",
-      "巴西番樱桃",
-      "巴西樱桃"
+    "fr": [
+      "Cerisier du Brésil"
     ],
     "pt": [
       "Grumixameira"
@@ -38,9 +36,6 @@
     ],
     "udm": [
       "Грумичама"
-    ],
-    "fr": [
-      "Cerisier du Brésil"
     ],
     "ru": [
       "Грумичама"
@@ -60,6 +55,11 @@
     "koi": [
       "Грумичама"
     ],
+    "zh": [
+      "巴西櫻桃",
+      "巴西番樱桃",
+      "巴西樱桃"
+    ],
     "fa": [
       "گیلاس برزیلی"
     ],
@@ -77,18 +77,54 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311085",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311085",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Grumichama」",
+      "source": "Wikipedia (en): Grumichama",
       "source_url": "https://en.wikipedia.org/wiki/Grumichama",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1321076761,
       "text": "Eugenia brasiliensis, with common names Brazil cherry and grumichama, is a medium-sized tree endemic (native) to southern Brazil which bears small fruits that are purple to black in color, and have a sweet cherry to plum-like flavor."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eugenia brasiliensis",
+      "source_url": "https://es.wikipedia.org/wiki/Eugenia_brasiliensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174075533,
+      "text": "Eugenia brasiliensis, conocida popularmente como grumichama, grumixama o cereza de Brasil, es una especie de árbol perennifolio perteneciente a la familia de las mirtáceas. Es nativa de los ecosistemas forestales de la costa atlántica de Brasil. Debido al agradable sabor agridulce de sus frutos y a su valor ornamental, la planta ha sido introducida y cultivada en diversas regiones tropicales y subtropicales del mundo, incluyendo áreas de Hawái, Florida y Paraguay."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cerisier du Brésil",
+      "source_url": "https://fr.wikipedia.org/wiki/Cerisier_du_Br%C3%A9sil",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239674015,
+      "text": "Le cerisier du Brésil ou jambosier du Brésil est une espèce de plantes à fleurs de la famille des Myrtacées. C'est un arbre fruitier tropical endémique du sud du Brésil."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Grumixameira",
+      "source_url": "https://pt.wikipedia.org/wiki/Grumixameira",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72980213,
+      "text": "A grumixama é uma árvore brasileira da floresta pluvial da Mata Atlântica. Seus frutos - pequenas bagas esféricas roxas-escuras, com polpa aquosa levemente ácida e de uma ou duas sementes -, além do consumo humano, atraem a avifauna. Sua madeira também é usada em marcenaria e carpintaria."
+    },
+    "id": {
+      "source": "Wikipedia (id): Eugenia brasiliensis",
+      "source_url": "https://id.wikipedia.org/wiki/Eugenia_brasiliensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26054528,
+      "text": "Eugenia brasiliensis adalah spesies tumbuhan yang tergolong ke dalam famili Myrtaceae. Spesies ini juga merupakan bagian dari ordo Myrtales. Spesies Eugenia brasiliensis sendiri merupakan bagian dari genus Eugenia. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh Lam.."
     }
   },
   "edible": {
@@ -102,7 +138,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -119,7 +155,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/593822-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -127,7 +163,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/593822-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000956594.webp",
@@ -140,6 +176,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

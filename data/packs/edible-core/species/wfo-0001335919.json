@@ -14,7 +14,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "pl": [
@@ -43,7 +43,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q117070158",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q117070158",
   "search_names": {
@@ -56,13 +56,46 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Elwendia persica」",
+      "source": "Wikipedia (en): Elwendia persica",
       "source_url": "https://en.wikipedia.org/wiki/Elwendia_persica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376829369,
       "text": "Elwendia persica is a plant species in the family Apiaceae. It is related to cumin and sometimes called black cumin, or black caraway, and has a smoky, earthy taste. It is often confused with Nigella sativa, by which it is often substituted in cooking."
+    },
+    "es": {
+      "source": "Wikipedia (es): Elwendia persica",
+      "source_url": "https://es.wikipedia.org/wiki/Elwendia_persica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171170203,
+      "text": "La alcaravea negra, comino negro o semilla negra es una especie de planta perteneciente a la familia Apiaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Elwendia persica",
+      "source_url": "https://fr.wikipedia.org/wiki/Elwendia_persica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235770873,
+      "text": "Elwendia persica est une espèce de plantes à fleurs de la famille des Apiacées. Ses fruits sont utilisés comme épice sous le nom de cumin noir, bien que ce terme s'applique aussi aux graines de la nigelle."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Elwendia persica § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Elwendia_persica#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171170203,
+        "heading": "Cultivo",
+        "text": "La planta crece en forma silvestre en una amplia región desde el sudeste de Europa oriental hasta Asia meridional. Alcanza unos 60 centímetros de altura y 25 centímetros de ancho, con flores hermafroditas, polinizadas por insectos.\nLa planta da frutos delgados, alargados y acostillados que se cosechan una vez que la planta está muy seca. No se pueden arrancar más de 5 a 8 g de cada planta, lo que contribuye a su alto precio.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -74,7 +107,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -91,7 +124,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77128917-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tuberous geophyte",
@@ -99,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77128917-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001335919.webp",
@@ -112,6 +145,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

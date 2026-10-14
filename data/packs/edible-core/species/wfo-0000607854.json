@@ -10,24 +10,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "缺须西瓜"
-    ],
     "fa": [
       "سیترولوس اسیرهوسوس"
     ],
     "ko": [
       "나미브수박"
+    ],
+    "zh": [
+      "缺须西瓜"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5122876",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5122876",
   "search_names": {
@@ -37,23 +37,41 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Citrullus ecirrhosus」",
+      "source": "Wikipedia (en): Citrullus ecirrhosus",
       "source_url": "https://en.wikipedia.org/wiki/Citrullus_ecirrhosus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357610393,
       "text": "Citrullus ecirrhosus, commonly known as Namib tsamma, is a species of perennial desert vine in the gourd family, Cucurbitaceae, and a relative of the widely consumed watermelon. It can be found in both Namibia and the Cape Provinces of South Africa, in particular the Namib Desert. It is the sister species to the bitter melon, Citrullus amarus with which it shares hard, white and bitter flesh."
+    },
+    "es": {
+      "source": "Wikipedia (es): Citrullus ecirrhosus",
+      "source_url": "https://es.wikipedia.org/wiki/Citrullus_ecirrhosus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 135212190,
+      "text": "Citrullus ecirrhosus, llamada en inglés \"Namib tsamma\", es una especie de liana del desierto, perteneciente a la familia Cucurbitaceae. Se encuentra en Namibia y Sudáfrica, en particular en el Desierto de Namibia."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Citrullus ecirrhosus",
+      "source_url": "https://pt.wikipedia.org/wiki/Citrullus_ecirrhosus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 59166275,
+      "text": "O Citrullus ecirrhosus é uma espécie de melão selvagem da família Cucurbitaceae encontrada nos desertos de Kalahari e Namibe, na África austral."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Citrullus ecirrhosus」の節「Cultivation」",
+        "source": "Wikipedia (en): Citrullus ecirrhosus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Citrullus_ecirrhosus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1357610393,
         "heading": "Cultivation",
         "text": "Experiments done by Simmons, Jarret, Cantrell, and Amnon in 2019 introduced the hybridisation of Citrullus ecirrhosus and Citrullus lanatus developed a cultivated watermelon capable of resistance to pests such as whiteflies (Bemisia tabaci). The hybrid developed whitefly resistance while still retaining traits of watermelon (Citrullus lanatus). While the hybrid did not offer total resistance, it was better protected than regular grown watermelons.",
@@ -74,7 +92,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -85,7 +103,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/291933-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -93,7 +111,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/291933-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000607854.webp",
@@ -106,6 +124,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

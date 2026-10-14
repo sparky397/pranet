@@ -22,7 +22,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "af": [
@@ -45,7 +45,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3071413",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3071413",
   "search_names": {
@@ -56,13 +56,22 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ficus ingens」",
+      "source": "Wikipedia (en): Ficus ingens",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_ingens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373289450,
       "text": "Ficus ingens, the red-leaved fig, is a fig species with an extensive range in the subtropical to dry tropical regions of Africa and southern Arabia. Despite its specific name, which means \"huge\", or \"vast\", it is usually a shrub or tree of modest proportions. It is a fig of variable habit depending on the local climate and substrate, typically a stunted subshrub on elevated rocky ridges, or potentially a large tree on warmer plains and lowlands. In 1829 the missionary Robert Moffat found a rare giant specimen, into which seventeen thatch huts of a native tribe were placed, so as to be out of reach of lions."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ficus ingens",
+      "source_url": "https://fr.wikipedia.org/wiki/Ficus_ingens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 214102631,
+      "text": "Ficus ingens est une espèce de plantes à fleurs du genre Ficus et de la famille des moracées. C'est un arbre présent en Éthiopie."
     }
   },
   "edible": {
@@ -81,7 +90,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -130,7 +139,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853021-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -138,7 +147,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853021-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000688813.webp",
@@ -151,6 +160,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 375,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -15,32 +15,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "de": [
       "Kupfer-Felsenbirne",
       "Kanadische Felsenbirne"
-    ],
-    "nl": [
-      "Amerikaans krentenboompje"
-    ],
-    "cs": [
-      "muchovník Lamarckův"
-    ],
-    "fr": [
-      "amélanchier damérique"
-    ],
-    "en": [
-      "juneberry"
-    ],
-    "fi": [
-      "rusotuomipihlaja"
-    ],
-    "zh": [
-      "拉马克唐棣",
-      "大花唐棣",
-      "拉馬克唐棣"
     ],
     "lt": [
       "Lamarko medlieva"
@@ -54,6 +34,9 @@
     "hsb": [
       "Koporowy muchownik"
     ],
+    "nl": [
+      "Amerikaans krentenboompje"
+    ],
     "sv": [
       "Prakthäggmispel"
     ],
@@ -62,6 +45,9 @@
     ],
     "cy": [
       "Criafolen Mehefin"
+    ],
+    "cs": [
+      "muchovník Lamarckův"
     ],
     "ru": [
       "Ирга Ламарка"
@@ -75,15 +61,29 @@
     "et": [
       "Lamarcki toompihlakas"
     ],
+    "fi": [
+      "rusotuomipihlaja"
+    ],
+    "zh": [
+      "拉馬克唐棣",
+      "拉马克唐棣",
+      "大花唐棣"
+    ],
     "nb": [
       "kanadablåhegg"
+    ],
+    "fr": [
+      "amélanchier damérique"
+    ],
+    "en": [
+      "juneberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161702",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161702",
   "search_names": {
@@ -96,23 +96,41 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Amelanchier × lamarckii」",
+      "source": "Wikipedia (en): Amelanchier × lamarckii",
       "source_url": "https://en.wikipedia.org/wiki/Amelanchier_%C3%97_lamarckii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1311407181,
       "text": "Amelanchier × lamarckii, also called juneberry, serviceberry or shadbush, is a large deciduous flowering shrub or small tree in the family Rosaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Amelanchier lamarckii",
+      "source_url": "https://es.wikipedia.org/wiki/Amelanchier_lamarckii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 170957779,
+      "text": "Amelanchier lamarckii, también conocida como guillomo, es una gran especie caducifolia de arbusto o pequeño árbol perteneciente a la familia Rosaceae. Está ampliamente naturalizado en Europa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Amelanchier lamarckii",
+      "source_url": "https://fr.wikipedia.org/wiki/Amelanchier_lamarckii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 209293407,
+      "text": "Amelanchier lamarckii est une espèce de plantes à fleurs de la famille des Rosaceae."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Amelanchier × lamarckii」の節「Cultivation」",
+        "source": "Wikipedia (en): Amelanchier × lamarckii § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Amelanchier_%C3%97_lamarckii#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1311407181,
         "heading": "Cultivation",
         "text": "The species is widely cultivated as an ornamental plant. It has gained the Royal Horticultural Society's Award of Garden Merit.",
@@ -129,7 +147,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -154,7 +172,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/721221-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -162,7 +180,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/721221-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001011843.webp",
@@ -175,6 +193,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -12,9 +12,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "pt": [
+      "Cambuci (fruta)"
+    ],
     "eo": [
       "Kambucio"
     ],
@@ -26,18 +29,60 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5028502",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5028502",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Campomanesia phaea」",
+      "source": "Wikipedia (en): Campomanesia phaea",
       "source_url": "https://en.wikipedia.org/wiki/Campomanesia_phaea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1364175307,
       "text": "Campomanesia phaea is a species of plant in the family Myrtaceae. The plant is endemic to the Atlantic Forest ecoregion in southeastern Brazil. It is found in the states of Paraná, Rio de Janeiro, São Paulo."
+    },
+    "es": {
+      "source": "Wikipedia (es): Campomanesia phaea",
+      "source_url": "https://es.wikipedia.org/wiki/Campomanesia_phaea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157145916,
+      "text": "El cambucí es un árbol de la familia de las mirtáceas nativo de la Mata Atlántica, amenazada de extinción. Antiguamente abundante en la ciudad de São Paulo, da su nombre a varios de sus barrios tradicionales."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Campomanesia phaea",
+      "source_url": "https://fr.wikipedia.org/wiki/Campomanesia_phaea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230513084,
+      "text": "Campomanesia phaea ou cambuci en portugais du Brésil est une espèce de plantes fruitière de la famille des Myrtaceae, endémique de la foret atlantique du sud-est brésilien: Etats de Paranà, Rio de Janeiro -Serra do Mar-, São Paulo et Minas Gerais. L'arbre est nommé Cambucizeiro."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cambuci (fruta)",
+      "source_url": "https://pt.wikipedia.org/wiki/Cambuci_(fruta)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72724134,
+      "text": "Cambuci ou cambucizeiro é uma árvore frutífera nativa da Mata Atlântica. A espécie esteve em risco de extinção por ser fortemente explorada em função de sua madeira de excelente qualidade para a fabricação de ferramentas e utensílios básicos e pelo desmatamento provocado pelo crescimento das cidades. Mais recentemente, descobriram-se novas aplicações econômicas para o cambuci, empregando-o para produzir geleias, sorvetes, sucos, licores, mousses e bolos, além de ser utilizado em sucos e macerado em bebidas alcoólicas. Por consequência, a espécie conheceu uma melhora em seu estado de conservação. Antigamente abundante na cidade de São Paulo, deu nome a um de seus bairros tradicionais."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Campomanesia phaea § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Campomanesia_phaea#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 230513084,
+        "heading": "Culture",
+        "text": "Selon une étude menée à Paraibuna il existait en 2020 16 producteurs avec un verger total 108 specimens, la production moyenne par arbre est 46,5 kg. 41 % des fruits étaient transformés en jus, 27 % utilisés en alimentation animale, liqueur, gelée et sirop. La culture se développe lentement.\nLa reproduction par graine exige un pH acide, le milieu de culture in vitro a été décrit en 2021. La rusticité n'est pas connue, le cambuci est suspecté moins rustique que la goyave.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -49,7 +94,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -60,7 +105,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/913775-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -68,7 +113,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/913775-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000793640.webp",
@@ -81,6 +126,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 381,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

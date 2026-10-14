@@ -8,12 +8,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cs": [
-      "reveň bulharská"
-    ],
     "ar": [
       "راوند زائف"
     ],
@@ -26,6 +23,9 @@
     "pl": [
       "Rabarbar ogrodowy"
     ],
+    "cs": [
+      "reveň bulharská"
+    ],
     "zh": [
       "大黄"
     ],
@@ -37,18 +37,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q7218332",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q7218332",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rheum rhaponticum」",
+      "source": "Wikipedia (en): Rheum rhaponticum",
       "source_url": "https://en.wikipedia.org/wiki/Rheum_rhaponticum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360246556,
       "text": "Rheum rhaponticum, the false rhubarb, rhapontic rhubarb or rhapontic, is a plant species in the genus Rheum found in the wild. It is the only Rheum species found only in Europe, and is now restricted to the Rila mountain range in south-western Bulgaria. It was introduced to other countries in Europe. It is considered to be one of the parents of the modern culinary rhubarb."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rheum rhaponticum",
+      "source_url": "https://es.wikipedia.org/wiki/Rheum_rhaponticum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580949,
+      "text": "El rapóntico o ruipóntico exótico(Rheum rhaponticum) es una especie de planta fanerógama de la familia Polygonaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rheum rhaponticum",
+      "source_url": "https://fr.wikipedia.org/wiki/Rheum_rhaponticum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216208203,
+      "text": "Rheum rhaponticum, le Rhapontic ou la Rhubarbe sauvage, est une espèce de plantes dicotylédones de la famille des Polygonaceae, sous-famille des Polygonoideae, originaire de Bulgarie."
     }
   },
   "edible": {
@@ -61,7 +79,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -76,7 +94,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/696786-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -84,7 +102,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/696786-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000404466.webp",
@@ -97,6 +115,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 317,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -15,18 +15,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "多花滇南蛇藤",
-      "灯油藤",
-      "灯油藤子",
-      "圆锥南蛇藤",
-      "圆锥花南蛇藤根",
-      "红果藤（灯油藤）",
-      "红果藤"
-    ],
     "ml": [
       "കിളിതീനിപ്പഞ്ഞി"
     ],
@@ -38,6 +29,15 @@
     ],
     "th": [
       "กระทงลาย"
+    ],
+    "zh": [
+      "灯油藤",
+      "多花滇南蛇藤",
+      "灯油藤子",
+      "圆锥南蛇藤",
+      "圆锥花南蛇藤根",
+      "红果藤（灯油藤）",
+      "红果藤"
     ],
     "kn": [
       "ಕಂಗೊಂದಿ ಬಳ್ಳಿ"
@@ -53,18 +53,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1027724",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1027724",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Celastrus paniculatus」",
+      "source": "Wikipedia (en): Celastrus paniculatus",
       "source_url": "https://en.wikipedia.org/wiki/Celastrus_paniculatus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1359796309,
       "text": "Celastrus paniculatus is a woody liana commonly known as black oil plant, climbing staff tree, and intellect tree. This climbing shrub grows throughout India at elevations up to 1,800 m (5,900 ft)."
+    },
+    "es": {
+      "source": "Wikipedia (es): Celastrus paniculatus",
+      "source_url": "https://es.wikipedia.org/wiki/Celastrus_paniculatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174480074,
+      "text": "Celastrus paniculatus es una liana leñosa conocida comúnmente como planta del aceite negro,, y planta del intelecto. La planta crece en toda la India en las elevaciones de hasta 1800 m. El aceite de las semillas se utiliza en la medicina tradicional hindú unani y ayurvédica."
     }
   },
   "edible": {
@@ -78,7 +87,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -111,7 +120,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/160439-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "liana",
@@ -119,7 +128,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/160439-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000592859.webp",
@@ -132,6 +141,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 285,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

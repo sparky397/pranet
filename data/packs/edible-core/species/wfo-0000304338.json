@@ -13,7 +13,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "en": [
@@ -21,63 +21,31 @@
       "winter savory",
       "perennial savory"
     ],
-    "cy": [
-      "safri fach"
-    ],
-    "bg": [
-      "Чубрица",
-      "балканска чубрица"
-    ],
-    "da": [
-      "Vinter-Sar"
-    ],
-    "de": [
-      "Berg-Bohnenkraut",
-      "Winter-Bohnenkraut"
-    ],
-    "eo": [
-      "Monta satureo"
-    ],
-    "es": [
-      "Ajedrea",
-      "Hisopillo"
-    ],
-    "fi": [
-      "Talvikynteli"
-    ],
-    "fr": [
-      "Sarriette vivace"
-    ],
-    "nl": [
-      "doorlevend bonenkruid",
-      "Winter bonenkruid"
-    ],
-    "ru": [
-      "Чабер горный"
-    ],
-    "sv": [
-      "Vinterkyndel"
-    ],
-    "ca": [
-      "Sajolida",
-      "sajolida silvestre"
-    ],
-    "oc": [
-      "pebre-d'ase",
-      "isòp"
-    ],
-    "zh": [
-      "冬塔花",
-      "欧香料"
-    ],
-    "sl": [
-      "kraški šetraj"
+    "pt": [
+      "Segurelha-das-montanhas"
     ],
     "pl": [
       "Cząber górski"
     ],
+    "ru": [
+      "Чабер горный"
+    ],
+    "fi": [
+      "talvikynteli"
+    ],
+    "de": [
+      "Winter-Bohnenkraut",
+      "Berg-Bohnenkraut"
+    ],
+    "sl": [
+      "kraški šetraj"
+    ],
     "cs": [
       "saturejka horská"
+    ],
+    "bg": [
+      "балканска чубрица",
+      "Чубрица"
     ],
     "sh": [
       "Rtanjski čaj"
@@ -91,20 +59,30 @@
     "hsb": [
       "Hórska poprica"
     ],
+    "sv": [
+      "Vinterkyndel"
+    ],
+    "da": [
+      "Vinter-Sar"
+    ],
     "ar": [
       "ندغ جبلي"
     ],
     "sr": [
       "Ртањски чај"
     ],
-    "pt": [
-      "Segurelha-das-montanhas"
-    ],
     "hu": [
       "hegyi pereszlény"
     ],
+    "ca": [
+      "sajolida silvestre",
+      "Sajolida"
+    ],
     "nb": [
       "Vintersar"
+    ],
+    "cy": [
+      "Safri fach"
     ],
     "uk": [
       "Чабер гірський"
@@ -132,24 +110,88 @@
     ],
     "os": [
       "Хæххон джеджджын"
+    ],
+    "eo": [
+      "Monta satureo"
+    ],
+    "es": [
+      "Ajedrea",
+      "Hisopillo"
+    ],
+    "fr": [
+      "Sarriette vivace"
+    ],
+    "nl": [
+      "doorlevend bonenkruid",
+      "Winter bonenkruid"
+    ],
+    "oc": [
+      "pebre-d'ase",
+      "isòp"
+    ],
+    "zh": [
+      "冬塔花",
+      "欧香料"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q160186",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q160186",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Winter savory」",
+      "source": "Wikipedia (en): Winter savory",
       "source_url": "https://en.wikipedia.org/wiki/Winter_savory",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376076118,
       "text": "Satureja montana, is a perennial, semi-evergreen herb in the family Lamiaceae, native to warm temperate regions of southern Europe, the Mediterranean, and Africa. It has dark green leaves and summer flowers ranging from pale lavender, pink to white. The closely related summer savory is an annual plant."
+    },
+    "es": {
+      "source": "Wikipedia (es): Satureja montana",
+      "source_url": "https://es.wikipedia.org/wiki/Satureja_montana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581116,
+      "text": "Satureja montana es una especie de planta fanerógama en la familia Lamiaceae, nativa de regiones templadas y cálidas del sur de Europa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Satureja montana",
+      "source_url": "https://fr.wikipedia.org/wiki/Satureja_montana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227639579,
+      "text": "Satureja montana, la sarriette des montagnes, sariette d'hiver ou sarriette vivace, est une espèce de plantes à fleurs de la famille des Lamiaceae. C'est un sous-arbrisseau trouvée en Europe et en Asie occidentale. C'est aussi une plante condimentaire aromatique et médicinale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Segurelha-das-montanhas",
+      "source_url": "https://pt.wikipedia.org/wiki/Segurelha-das-montanhas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66711804,
+      "text": "A segurelha-das-montanhas, segurelha-de-inverno ou satureja-das-Montanhas, é uma planta aromática semipersistente da família Lamiaceae, com cachos de flores brancas rosadas e folhas lanceoladas. Nativa da Europa Meridional, gosta de locais soalheiros. Muito utilizada em culinária e em Fitoterapia. Estimula a digestão, diminui flatulência e cólicas, trata infecções pulmunares e bronquites e o seu óleo essencial é fortemente antibacteriano. Não deve ser ingerida durante a gravidez."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Satureja montana § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Satureja_montana#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 227639579,
+        "heading": "Culture",
+        "text": "Sa zone de rusticité se situe entre 6 et 8.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -163,7 +205,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -188,7 +230,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/457736-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -196,7 +238,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/457736-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000304338.webp",
@@ -209,6 +251,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

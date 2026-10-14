@@ -11,14 +11,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "man to man"
-    ],
-    "zh": [
-      "草胡椒"
+    "id": [
+      "Tumpang air"
     ],
     "jv": [
       "Sladanan"
@@ -31,6 +28,9 @@
     ],
     "th": [
       "กระสัง"
+    ],
+    "zh": [
+      "草胡椒"
     ],
     "sv": [
       "Ogräspeperomia"
@@ -64,24 +64,54 @@
     ],
     "gor": [
       "Tumpang air"
+    ],
+    "en": [
+      "man to man"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3337038",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3337038",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Peperomia pellucida」",
+      "source": "Wikipedia (en): Peperomia pellucida",
       "source_url": "https://en.wikipedia.org/wiki/Peperomia_pellucida",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372116150,
       "text": "Peperomia pellucida is an annual, shallow-rooted herb, usually growing to a height of about 15 to 45 cm, It is characterized by succulent stems, shiny, heart-shaped, fleshy leaves and tiny, dot-like seeds attached to several fruiting spikes. It has a mustard-like odor when crushed."
+    },
+    "es": {
+      "source": "Wikipedia (es): Peperomia pellucida",
+      "source_url": "https://es.wikipedia.org/wiki/Peperomia_pellucida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 151112961,
+      "text": "Peperomia pellucida es una especie de hierba anual de raíces poco profundas, por lo general alcanza unos 15 a 45 cm de alto. Se caracteriza por sus tallos suculentos, hojas brillantes, con forma de corazón y carnosas, pequeñas semillas que asemejan granitos adosados a varias espigas de fructificación. Al ser machacada despide un aroma similar al de la mostaza. La familia Piperaceae comprende una docena de géneros y unas 3000 especies. El género Peperomia abarca casi la mitad de las Piperaceae mientras que el género Piper comprende al resto."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Peperomia pellucida",
+      "source_url": "https://fr.wikipedia.org/wiki/Peperomia_pellucida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058502,
+      "text": "Peperomia pellucida est une espèce de plantes de la famille des Pipéracées."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tumpang air",
+      "source_url": "https://id.wikipedia.org/wiki/Tumpang_air",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29382667,
+      "text": "Tumpang air, tumpang angin, sirih cina atau suruhan adalah terna kecil semusim dan berakar dangkal yang mudah ditemukan tumbuh liar di tepi saluran air atau pematang dan taman. Ukurannya 15 sampai 45 cm. Batangnya sukulen (berair), cerah, berdaging, demikian pula daunnya yang agak tebal tapi lunak."
     }
   },
   "edible": {
@@ -96,7 +126,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -195,7 +225,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/679378-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or lithophyte",
@@ -203,7 +233,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/679378-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000477971.webp",
@@ -216,6 +246,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

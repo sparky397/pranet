@@ -13,16 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Bentham's cornel"
-    ],
-    "zh": [
-      "头状四照花",
-      "鸡嗉子果"
-    ],
     "de": [
       "Benthams Hartriegel"
     ],
@@ -35,6 +28,10 @@
     "ru": [
       "Клубничное дерево"
     ],
+    "zh": [
+      "头状四照花",
+      "鸡嗉子果"
+    ],
     "eu": [
       "Himalaiako zuhandor"
     ],
@@ -46,13 +43,16 @@
     ],
     "xmf": [
       "ციმუაშ ჯა"
+    ],
+    "en": [
+      "Bentham's cornel"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q168335",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q168335",
   "search_names": {
@@ -64,13 +64,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cornus capitata」",
+      "source": "Wikipedia (en): Cornus capitata",
       "source_url": "https://en.wikipedia.org/wiki/Cornus_capitata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373856120,
       "text": "Cornus capitata is an Asian species of dogwood known by the common names Bentham's cornel, evergreen dogwood, Himalayan flowering dogwood, and Himalayan strawberry-tree."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cornus capitata",
+      "source_url": "https://es.wikipedia.org/wiki/Cornus_capitata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 147212807,
+      "text": "Cornus capitata, el cornejo del Himalaya o sanguiñuelo de hoja perenne, es una especie de plantas perteneciente a la familia de las cornáceas, originaria de los bosques de menor altura del Himalaya en China, India y naciones de los alrededores y se ha naturalizado en algunas partes de Australia y Nueva Zelanda. Crece en otros lugares como planta ornamental. Es un árbol siempreverde que crece hasta 12 metros en altura y anchura. Las hojas son verde grisáceas y claras, y vellosas en el envés, y con varios centímetros de largo. Florece durante el verano con capullos blancos. La infructescencia es un pequeño agregado de varios frutos individuales unidos en un cuerpo rojo de dos o tres centímetros de ancho. Es comestible, pero a veces amargo. Hay diversas variedades e híbridos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cornus capitata",
+      "source_url": "https://fr.wikipedia.org/wiki/Cornus_capitata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238020414,
+      "text": "Le Cornouiller de l'Himalaya est un arbuste d'ornement à feuilles persistantes originaire d'Asie. Il est parfois appelé arbre porteur de fraises à cause de l'aspect et de la forme de ses fruits comestibles."
     }
   },
   "edible": {
@@ -85,7 +103,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -108,7 +126,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/271525-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -116,7 +134,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/271525-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000924614.webp",
@@ -129,6 +147,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 292,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

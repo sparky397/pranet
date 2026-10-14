@@ -17,35 +17,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Herabgebogener Amarant"
-    ],
-    "en": [
-      "largefruit amaranth"
-    ],
-    "nl": [
-      "Liggende majer"
-    ],
-    "cs": [
-      "laskavec skloněný"
-    ],
-    "fi": [
-      "rikkarevonhäntä"
-    ],
-    "fr": [
-      "Amarante couchée"
-    ],
-    "sl": [
-      "polegli ščir"
-    ],
     "ca": [
       "blet corbat"
     ],
     "hsb": [
       "Zhibnjeny šćěrjenc"
+    ],
+    "nl": [
+      "Liggende majer"
     ],
     "ja": [
       "ハイビユ"
@@ -56,32 +38,77 @@
     "cy": [
       "Blodyn amor parhaol"
     ],
+    "cs": [
+      "laskavec skloněný"
+    ],
+    "fi": [
+      "rikkarevonhäntä"
+    ],
     "arz": [
       "امارانثوس ديفلكسوس"
+    ],
+    "sl": [
+      "polegli ščir"
     ],
     "af": [
       "Gewone misbredie"
     ],
     "fa": [
       "تاج‌خروس واژگون"
+    ],
+    "de": [
+      "Herabgebogener Amarant"
+    ],
+    "en": [
+      "largefruit amaranth"
+    ],
+    "fr": [
+      "Amarante couchée"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q163252",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q163252",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Amaranthus deflexus」",
+      "source": "Wikipedia (en): Amaranthus deflexus",
       "source_url": "https://en.wikipedia.org/wiki/Amaranthus_deflexus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1316469723,
       "text": "Amaranthus deflexus is also known by the common names low amaranth, Argentina amaranth, perennial pigweed, and large-fruit amaranth. It is native to South America, and has been introduced to many other parts of the world. It is a short-lived perennial or annual plant. The plant can grow up to 1.5 ft in height."
+    },
+    "es": {
+      "source": "Wikipedia (es): Amaranthus deflexus",
+      "source_url": "https://es.wikipedia.org/wiki/Amaranthus_deflexus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174944127,
+      "text": "Amaranthus deflexus L. es una especie herbácea perteneciente a la familia de las amarantáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Amaranthus deflexus",
+      "source_url": "https://fr.wikipedia.org/wiki/Amaranthus_deflexus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229730987,
+      "text": "L’Amarante couchée est une espèce de plante vivace de la famille des Amaranthaceae, originaire d’Amérique du Sud, introduite et naturalisée dans les régions tropicales à tempérées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Amaranthus deflexus",
+      "source_url": "https://pt.wikipedia.org/wiki/Amaranthus_deflexus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64611908,
+      "text": "Amaranthus deflexus é uma espécie de planta com flor pertencente à família Amaranthaceae."
     }
   },
   "edible": {
@@ -94,7 +121,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -193,7 +220,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/327382-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -201,7 +228,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/327382-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000530173.webp",
@@ -214,6 +241,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 223,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

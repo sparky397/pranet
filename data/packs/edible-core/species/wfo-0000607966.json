@@ -12,24 +12,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ギショウトウ",
       "イーチャンパペダ"
     ],
-    "en": [
-      "Ichang Lemon or Ichang papeda"
+    "sv": [
+      "ichangpapeda"
     ],
     "zh": [
       "宜昌橙",
       "橘红",
       "宜昌橙（野柑子）",
       "红河橙"
-    ],
-    "sv": [
-      "ichangpapeda"
     ],
     "ko": [
       "의창지"
@@ -42,13 +39,16 @@
     ],
     "yue": [
       "宜昌橙"
+    ],
+    "en": [
+      "Ichang Lemon or Ichang papeda"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15395690",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15395690",
   "search_names": {
@@ -59,22 +59,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ギショウトウ」",
+      "source": "Wikipedia (ja): ギショウトウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%88%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108691205,
       "text": "ギショウトウ は、ミカン属の一種で、レモンのような香りの葉と花が特徴的である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Citrus cavaleriei」",
+      "source": "Wikipedia (en): Citrus cavaleriei",
       "source_url": "https://en.wikipedia.org/wiki/Citrus_cavaleriei",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1313663319,
       "text": "Citrus cavaleriei, the Ichang papeda, is a slow-growing species of papeda that has characteristic lemon-scented foliage and flowers."
+    },
+    "es": {
+      "source": "Wikipedia (es): Citrus cavaleriei",
+      "source_url": "https://es.wikipedia.org/wiki/Citrus_cavaleriei",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 167995537,
+      "text": "Citrus cavaleriei, comúnmente conocido como papeda de Ichang, es un arbusto o árbol perteneciente al género Citrus, dentro de la familia de las rutáceas. Es endémico del centro de China y probablemente su nombre proviene de la ciudad de Yichang (宜昌), en la provincia china de Hubei."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Citrus ichangensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Citrus_ichangensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235527601,
+      "text": "Citrus ichangensis, l'Ichang papeda, est un groupe diversifié d'agrumes chinois sauvages à croissance lente classé par Swingle dans un sous-genre Papeda et par Tanaka dans le sous-genre Metacitrus."
+    },
+    "id": {
+      "source": "Wikipedia (id): Citrus cavaleriei",
+      "source_url": "https://id.wikipedia.org/wiki/Citrus_cavaleriei",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28923414,
+      "text": "Citrus cavaleriei atau Ichang papeda, adalah spesies jeruk \"papeda\" yang tumbuh lambat dan memiliki ciri khas dedaunan dan bunga beraroma lemon."
     }
   },
   "edible": {
@@ -87,7 +114,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +126,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/771870-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -107,7 +134,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/771870-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000607966.webp",
@@ -120,6 +147,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

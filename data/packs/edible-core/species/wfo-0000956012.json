@@ -8,43 +8,85 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "forest redgum"
+    "az": [
+      "Çətirvari evkalipt"
     ],
     "zh": [
       "细叶桉",
       "细叶桉果",
       "细叶桉叶"
     ],
-    "az": [
-      "Çətirvari evkalipt"
-    ],
     "yue": [
       "細葉桉"
     ],
     "ar": [
       "أوكالبتوس مستدير القرون"
+    ],
+    "en": [
+      "forest redgum"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3006305",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3006305",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Eucalyptus tereticornis」",
+      "source": "Wikipedia (en): Eucalyptus tereticornis",
       "source_url": "https://en.wikipedia.org/wiki/Eucalyptus_tereticornis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1321881360,
       "text": "Eucalyptus tereticornis, commonly known as forest red gum, blue gum or red irongum, is a species of tree that is native to eastern Australia and southern New Guinea. It has smooth bark, lance-shaped to curved adult leaves, flower buds in groups of seven, nine or eleven, white flowers and hemispherical fruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eucalyptus tereticornis",
+      "source_url": "https://es.wikipedia.org/wiki/Eucalyptus_tereticornis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174771496,
+      "text": "Eucalyptus tereticornis, el eucalipto rojo, es un importante árbol del género Eucalyptus. Es una especie plantada en muchas partes del mundo. Es nativa de Australia donde está ampliamente expandida."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eucalyptus tereticornis",
+      "source_url": "https://fr.wikipedia.org/wiki/Eucalyptus_tereticornis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 219055936,
+      "text": "Eucalyptus tereticornis est une espèce de plantes à fleurs du genre Eucalyptus et de la famille des Myrtaceae. C'est un arbre originaire de la Papouasie-Nouvelle-Guinée à l'Est de l'Australie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eucalyptus tereticornis",
+      "source_url": "https://pt.wikipedia.org/wiki/Eucalyptus_tereticornis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73013825,
+      "text": "Eucalyptus tereticornis é uma espécie de árvore nativa do leste da Austrália e do sul da Nova Guiné. Possui casca lisa, folhas adultas lanceoladas a curvadas, gomos florais em grupos de sete, nove ou onze, flores brancas e frutos hemisféricos."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Eucalyptus tereticornis § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Eucalyptus_tereticornis#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174771496,
+        "heading": "Cultivo",
+        "text": "Germina rápidamente tanto de semillas frescas como de almacenadas en condiciones de frío seco.  Y también pronto adquiere resistencia a la sequía.  Es un excelente bonsái, y rebrota bien de la base y del ápice epicórmico.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -62,7 +104,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -106,7 +148,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/593412-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -114,7 +156,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/593412-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000956012.webp",
@@ -127,6 +169,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 253,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

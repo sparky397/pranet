@@ -10,7 +10,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -21,81 +21,19 @@
       "caper",
       "caper bush"
     ],
-    "cs": [
-      "kapara trnitá"
-    ],
-    "da": [
-      "Kapersplanten",
-      "Kapers"
-    ],
-    "de": [
-      "Echter Kapernstrauch"
-    ],
-    "el": [
-      "Κάππαρη",
-      "Κάππαρις η ακανθώδης"
-    ],
-    "es": [
-      "alcaparro"
-    ],
-    "et": [
-      "Torkav kappar",
-      "Kappar"
-    ],
-    "fi": [
-      "kapris",
-      "pyörökapris"
-    ],
     "fr": [
-      "câprier Commun",
-      "Câprier"
+      "Câprier",
+      "câprier Commun"
     ],
-    "it": [
-      "Cappero"
+    "pt": [
+      "Alcaparra"
     ],
-    "nl": [
-      "Kappertje"
-    ],
-    "nb": [
-      "Kapers"
+    "id": [
+      "Kaper"
     ],
     "pl": [
-      "kapar ciernisty",
-      "kapary cierniste"
-    ],
-    "ru": [
-      "Каперсы",
-      "каперсы колючие"
-    ],
-    "sv": [
-      "Kapris"
-    ],
-    "tr": [
-      "Gebre otu",
-      "Kapari"
-    ],
-    "uk": [
-      "Каперси",
-      "каперці трав'яні"
-    ],
-    "mk": [
-      "лубеничарка"
-    ],
-    "zh": [
-      "山柑",
-      "老鼠瓜",
-      "刺山柑",
-      "刺山柑根皮"
-    ],
-    "ast": [
-      "alcaparra"
-    ],
-    "sl": [
-      "navadni kaprovec"
-    ],
-    "gl": [
-      "alcaparra",
-      "alcaparreira"
+      "Kapary cierniste",
+      "kapar ciernisty"
     ],
     "be": [
       "Каперсы"
@@ -106,8 +44,19 @@
     "hu": [
       "tövises kapri"
     ],
+    "gl": [
+      "Alcaparra",
+      "alcaparreira"
+    ],
+    "de": [
+      "Echter Kapernstrauch"
+    ],
     "sq": [
       "Kapra"
+    ],
+    "el": [
+      "Κάππαρις η ακανθώδης",
+      "Κάππαρη"
     ],
     "scn": [
       "Chiàppara"
@@ -118,20 +67,42 @@
     "hsb": [
       "Wšědny kaporowc"
     ],
+    "nl": [
+      "Kappertje"
+    ],
     "ar": [
       "قبار"
-    ],
-    "pt": [
-      "Alcaparra"
     ],
     "eo": [
       "Kaporo"
     ],
+    "ru": [
+      "каперсы колючие",
+      "Каперсы"
+    ],
     "hy": [
       "կապար"
     ],
+    "tr": [
+      "Gebre otu",
+      "Kapari"
+    ],
     "ca": [
       "taperera"
+    ],
+    "fi": [
+      "kapris",
+      "pyörökapris"
+    ],
+    "uk": [
+      "каперці трав'яні",
+      "Каперси"
+    ],
+    "sl": [
+      "navadni kaprovec"
+    ],
+    "cs": [
+      "kapara trnitá"
     ],
     "bg": [
       "бодлив каперс"
@@ -151,11 +122,21 @@
     "lt": [
       "Dygluotasis kaparis"
     ],
+    "da": [
+      "Kapers",
+      "Kapersplanten"
+    ],
     "sr": [
       "Капар"
     ],
     "ku": [
       "Kember"
+    ],
+    "zh": [
+      "刺山柑",
+      "山柑",
+      "老鼠瓜",
+      "刺山柑根皮"
     ],
     "ga": [
       "capras"
@@ -163,11 +144,18 @@
     "ml": [
       "ചെറുകരീരം"
     ],
+    "nb": [
+      "Kapers"
+    ],
     "sh": [
       "Kapar"
     ],
     "kk": [
       "Кеуел"
+    ],
+    "et": [
+      "Kappar",
+      "Torkav kappar"
     ],
     "ms": [
       "Kaper"
@@ -187,6 +175,9 @@
     "azb": [
       "تیکان‌لی کور"
     ],
+    "mk": [
+      "лубеничарка"
+    ],
     "ht": [
       "Kapris"
     ],
@@ -198,9 +189,6 @@
     ],
     "af": [
       "Kapper"
-    ],
-    "id": [
-      "Kaper"
     ],
     "wuu": [
       "刺山柑"
@@ -237,13 +225,25 @@
     ],
     "he": [
       "צלף"
+    ],
+    "es": [
+      "alcaparro"
+    ],
+    "it": [
+      "Cappero"
+    ],
+    "sv": [
+      "Kapris"
+    ],
+    "ast": [
+      "alcaparra"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q156251",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q156251",
   "search_names": {
@@ -259,32 +259,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ケッパー」",
+      "source": "Wikipedia (ja): ケッパー",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%83%E3%83%91%E3%83%BC",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106360629,
       "text": "ケッパー は、フウチョウボク科（かつてはフウチョウソウ科に分類された）の半蔓性の低木、またはこの植物のつぼみをピクルスにした食品。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Caper」",
+      "source": "Wikipedia (en): Caper",
       "source_url": "https://en.wikipedia.org/wiki/Caper",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378670969,
       "text": "Capparis spinosa, the caper bush, also called Flinders rose, is a perennial plant that bears rounded, fleshy leaves and large white to pinkish-white flowers."
+    },
+    "es": {
+      "source": "Wikipedia (es): Capparis spinosa",
+      "source_url": "https://es.wikipedia.org/wiki/Capparis_spinosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173952599,
+      "text": "La alcaparra es una planta arbustiva originaria de la región mediterránea. Conocida por sus capullos comestibles, las alcaparras normalmente se consumen encurtidas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Câprier",
+      "source_url": "https://fr.wikipedia.org/wiki/C%C3%A2prier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233779858,
+      "text": "Le câprier commun ou câprier épineux, est une espèce d'arbrisseau méditerranéen de la famille des Capparaceae.\nExtrêmement robuste, le câprier pousse sans difficulté dans des sols pauvres et caillouteux. On peut même voir de jeunes câpriers pousser entre les pierres des vieux murs. Ses grandes fleurs, très odorantes, ont une durée de vie très brève."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Alcaparra",
+      "source_url": "https://pt.wikipedia.org/wiki/Alcaparra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71983666,
+      "text": "A alcaparra é um arbusto da família das Caparidáceas, originário da região mediterrânica. Seus frutos, bagas ovais e carnudas, são considerados afrodisíacos. O termo vem do árabe alcabbar, introduzido na Península Ibérica entre os séculos XV e XVI."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kaper",
+      "source_url": "https://id.wikipedia.org/wiki/Kaper",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29840425,
+      "text": "Kaper adalah tanaman abadi yang memiliki bentuk bulat, daun berdaging, dan bunga besar berwarna putih hingga putih kemerahan."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Caper」の節「Agriculture」",
+        "source": "Wikipedia (en): Caper § Agriculture",
         "source_url": "https://en.wikipedia.org/wiki/Caper#Agriculture",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378670969,
         "heading": "Agriculture",
         "text": "Capers can be grown easily from fresh seeds gathered from ripe fruit and planted into a well-drained seed-raising mix. Seedlings appear in two to four weeks. Old, stored seeds enter a state of dormancy and require cold stratification to germinate. The viable embryos germinate within three to four days after partial removal of the lignified seed coats. The seed coats and the mucilage surrounding the seeds may be ecological adaptations to avoid water loss and conserve seed viability during the dry season.\n\n■ Orchard establishment\nMean annual temperatures in areas under cultivation are over 14 °C (57 °F). A rainy spring and a hot, dry summer are considered advantageous. This drought-tolerant perennial plant is used for landscaping and reducing erosion along highways, steep rocky slopes, dunes or fragile semiarid ecosystems.\n\n■ Harvest\nCaper buds are usually picked in the morning. Because the youngest, smallest buds fetch the highest prices, daily picking is typical.\nCapers may be harvested from wild plants, in which case it is necessary to know that the plant is not one of the few poisonous Capparis species that look similar. The plant normally has curved thorns that may scratch the people who harvest the buds, although a few spineless varieties have been developed.",
@@ -305,7 +341,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -382,7 +418,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/146789-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -390,7 +426,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/146789-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000029724.webp",
@@ -403,6 +439,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 309,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

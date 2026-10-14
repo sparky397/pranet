@@ -12,20 +12,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "カレープラント"
-    ],
-    "it": [
-      "Elicriso"
-    ],
-    "zh": [
-      "意大利蜡菊"
-    ],
-    "sl": [
-      "laški smilj"
     ],
     "co": [
       "Maredda"
@@ -56,13 +47,22 @@
     ],
     "cs": [
       "Smil italský"
+    ],
+    "sl": [
+      "laški smilj"
+    ],
+    "it": [
+      "Elicriso"
+    ],
+    "zh": [
+      "意大利蜡菊"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1587861",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1587861",
   "search_names": {
@@ -81,35 +81,75 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カレープラント」",
+      "source": "Wikipedia (ja): カレープラント",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108674841,
       "text": "カレープラント はキク科ムギワラギク属（ヘリクリサム属）に属する多年草の一種である。別名、ハーブ・オブ・グレース、エバーラスティングともよばれる。南ヨーロッパ原産のハーブとして知られ、カレーのような芳香がある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Helichrysum italicum」",
+      "source": "Wikipedia (en): Helichrysum italicum",
       "source_url": "https://en.wikipedia.org/wiki/Helichrysum_italicum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373568782,
       "text": "Helichrysum italicum is a species of flowering plant in the family Asteraceae. It is sometimes called the curry plant because of the strong fragrance of its leaves; other common names include Italian strawflower and immortelle. It grows on dry, rocky or sandy ground around the Mediterranean. The stems are woody at the base and can reach 60 centimetres (24 in) or more in height. The clusters of yellow flowers are produced in summer, retain their colour after picking, and are used in dried flower arrangements."
+    },
+    "es": {
+      "source": "Wikipedia (es): Helichrysum italicum",
+      "source_url": "https://es.wikipedia.org/wiki/Helichrysum_italicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 163369248,
+      "text": "Helichrysum italicum (conocida como siempreviva, inmortal, es una especie de planta fanerógama perteneciente a la familia de las asteráceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Helichrysum italicum",
+      "source_url": "https://fr.wikipedia.org/wiki/Helichrysum_italicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 217071495,
+      "text": "L'Immortelle d'Italie, souvent nommée plante au curry, plante cari, fleur de Saint-Jean ou hélichryse italienne dans le langage courant en aromathérapie, est une espèce de plantes à fleurs de la famille des Asteraceae et du genre Helichrysum. Elle est présente tout autour de la Méditerranée. Elle prend la forme d'un petit buisson de 40 à 60 cm en hauteur, fleurissant jaune d'or de mai à août. Elle est réputée pour sa forte fragrance, et on l'utilise couramment pour en extraire de l'huile essentielle, à partir de souches cultivées. Dans plusieurs pays, c'est une espèce protégée."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Helichrysum italicum",
+      "source_url": "https://pt.wikipedia.org/wiki/Helichrysum_italicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62387770,
+      "text": "Helichrysum italicum é uma espécie de planta com flor pertencente à família Asteraceae."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Helichrysum italicum」の節「Cultivation」",
+        "source": "Wikipedia (en): Helichrysum italicum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Helichrysum_italicum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1373568782,
         "heading": "Cultivation",
         "text": "Helichrysum italicum is a tender perennial (USDA Zones 7–10). It is propagated by rooting semi-hardwood cuttings in summer and overwintering in frost-free conditions.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Helichrysum italicum § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Helichrysum_italicum#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 163369248,
+        "heading": "Toxicidad",
+        "text": "En dosis altas, su ingestión puede suponer un riesgo para la salud, ya que las partes aéreas contienen el monoterpeno 1,8-cineol (eucaliptol).\nEstá contraindicado su uso en embarazo.​",
         "truncated": false
       }
     }
@@ -124,7 +164,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -152,7 +192,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/212898-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -160,7 +200,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/212898-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000077691.webp",
@@ -173,6 +213,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 221,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

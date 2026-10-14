@@ -20,19 +20,34 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ハマアズキ"
     ],
+    "th": [
+      "ถั่วผีทะเล"
+    ],
+    "zh": [
+      "滨豇豆",
+      "濱豇豆"
+    ],
+    "ar": [
+      "لوبياء بحرية"
+    ],
+    "ml": [
+      "വിഗ്ന മാരിന"
+    ],
+    "arz": [
+      "لوبياء بحريه"
+    ],
+    "id": [
+      "Kacang laut"
+    ],
     "en": [
       "notched cowpea",
       "Beach pea"
-    ],
-    "zh": [
-      "濱豇豆",
-      "滨豇豆"
     ],
     "haw": [
       "Lemuomakili",
@@ -49,48 +64,51 @@
       "Puhilihili",
       "Pulihilihi",
       "Wahine omao"
-    ],
-    "th": [
-      "ถั่วผีทะเล"
-    ],
-    "ar": [
-      "لوبياء بحرية"
-    ],
-    "ml": [
-      "വിഗ്ന മാരിന"
-    ],
-    "arz": [
-      "لوبياء بحريه"
-    ],
-    "id": [
-      "Kacang laut"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4355038",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4355038",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ハマアズキ」",
+      "source": "Wikipedia (ja): ハマアズキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%A2%E3%82%BA%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 99958372,
       "text": "ハマアズキ はマメ科ササゲ属の匍匐性またはつる性多年性草本。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vigna marina」",
+      "source": "Wikipedia (en): Vigna marina",
       "source_url": "https://en.wikipedia.org/wiki/Vigna_marina",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1297747823,
       "text": "Vigna marina is a prostrate, creeping vine and a perennial plant. Also known as the beach pea, nanea, and notched cowpea, it is a species of legume in the family Fabaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vigna marina",
+      "source_url": "https://fr.wikipedia.org/wiki/Vigna_marina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236136983,
+      "text": "Vigna marina est une espèce de plantes à fleurs de la famille des Fabaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Vigna marina",
+      "source_url": "https://id.wikipedia.org/wiki/Vigna_marina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29892903,
+      "text": "Vigna marina adalah tanaman rambat yang merambat dan merambat serta tanaman abadi. Juga dikenal sebagai kacang pantai, nanea, dan kacang laut, itu adalah spesies kacang-kacangan dalam keluarga Fabaceae."
     }
   },
   "edible": {
@@ -106,7 +124,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -192,7 +210,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/525428-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling annual or perennial",
@@ -200,7 +218,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/525428-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000184221.webp",
@@ -213,6 +231,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

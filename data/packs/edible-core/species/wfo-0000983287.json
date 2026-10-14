@@ -47,118 +47,99 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ワレモコウ"
     ],
-    "de": [
-      "Großer Wiesenknopf"
-    ],
-    "en": [
-      "Great Burnet",
-      "official burnet"
-    ],
-    "ar": [
-      "مرقئة مخزنية",
-      "مرقئة طبية"
-    ],
-    "az": [
-      "Dərman sincanotu"
-    ],
-    "ba": [
-      "Ҡырҡҡолас"
-    ],
-    "bg": [
-      "лечебна динка"
-    ],
-    "cs": [
-      "krvavec toten"
-    ],
-    "cy": [
-      "Bwrned Mawr"
-    ],
-    "da": [
-      "Læge-Kvæsurt"
-    ],
-    "es": [
-      "Pimpinela mayor"
-    ],
-    "et": [
-      "Ürt-punanupp"
-    ],
-    "fa": [
-      "توت روباهی طبی",
-      "سنگویسربا آفیسینالیس"
-    ],
-    "fr": [
-      "Sanguisorbe officinale",
-      "sanguisorbe"
-    ],
-    "hsb": [
-      "Wulki wohenčk"
-    ],
-    "hu": [
-      "Őszi vérfű"
-    ],
-    "hy": [
-      "Արյունախմիկ դեղագործական",
-      "արյունխմիկ դեղագործական"
-    ],
-    "is": [
-      "Blóðkollur"
+    "pl": [
+      "Krwiściąg lekarski"
     ],
     "ko": [
       "오이풀"
     ],
-    "lt": [
-      "Vaistinė kraujalakė"
+    "hu": [
+      "őszi vérfű"
     ],
     "lv": [
       "Ārstniecības brūnvālīte"
     ],
-    "myv": [
-      "Верь лоткавтыця тикше"
+    "et": [
+      "ürt-punanupp"
+    ],
+    "de": [
+      "Großer Wiesenknopf"
+    ],
+    "ba": [
+      "Ҡырҡҡолас"
+    ],
+    "hsb": [
+      "Wulki wohenčk"
     ],
     "nl": [
-      "Grote pimpernel"
-    ],
-    "os": [
-      "Сырхкъоппагæрдæг"
-    ],
-    "pl": [
-      "Krwiściąg lekarski"
-    ],
-    "ru": [
-      "Кровохлёбка лекарственная"
-    ],
-    "sah": [
-      "Ымыйах"
-    ],
-    "sk": [
-      "Krvavec lekársky"
-    ],
-    "sl": [
-      "Zdravilna strašica",
-      "zdravilna strašnica"
+      "grote pimpernel"
     ],
     "sv": [
       "Blodtopp"
     ],
+    "is": [
+      "Blóðkollur"
+    ],
+    "ru": [
+      "Кровохлёбка лекарственная"
+    ],
+    "fi": [
+      "punaluppio"
+    ],
     "uk": [
       "Родовик лікарський"
     ],
-    "za": [
-      "Maxlienzan"
+    "myv": [
+      "Верь лоткавтыця тикше"
+    ],
+    "sah": [
+      "Ымыйах"
+    ],
+    "cs": [
+      "krvavec toten"
+    ],
+    "az": [
+      "Dərman sincanotu"
+    ],
+    "lt": [
+      "Vaistinė kraujalakė"
+    ],
+    "da": [
+      "Læge-Kvæsurt"
     ],
     "zh": [
       "地榆",
       "虫莲",
       "地榆叶"
     ],
-    "fi": [
-      "punaluppio"
+    "ar": [
+      "مرقئة طبية",
+      "مرقئة مخزنية"
+    ],
+    "os": [
+      "Сырхкъоппагæрдæг"
+    ],
+    "fa": [
+      "سنگویسربا آفیسینالیس",
+      "توت روباهی طبی"
+    ],
+    "cy": [
+      "Bwrned mawr"
+    ],
+    "bg": [
+      "лечебна динка"
+    ],
+    "za": [
+      "Maxlienzan"
+    ],
+    "sk": [
+      "krvavec lekársky"
     ],
     "eu": [
       "Gaitun sendagarri"
@@ -168,6 +149,10 @@
     ],
     "yue": [
       "地榆"
+    ],
+    "sl": [
+      "zdravilna strašnica",
+      "Zdravilna strašica"
     ],
     "ga": [
       "lus an uille mór"
@@ -199,15 +184,30 @@
     "nb": [
       "blodtopp"
     ],
+    "hy": [
+      "արյունխմիկ դեղագործական",
+      "Արյունախմիկ դեղագործական"
+    ],
     "hr": [
       "Ljekovita krvara"
+    ],
+    "en": [
+      "Great Burnet",
+      "official burnet"
+    ],
+    "es": [
+      "Pimpinela mayor"
+    ],
+    "fr": [
+      "Sanguisorbe officinale",
+      "sanguisorbe"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157347",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157347",
   "search_names": {
@@ -219,22 +219,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ワレモコウ」",
+      "source": "Wikipedia (ja): ワレモコウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%AC%E3%83%A2%E3%82%B3%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111226993,
       "text": "ワレモコウ（吾亦紅、吾木香、我毛香）は、バラ科・ワレモコウ属の多年草。日当たりのよい草原などに生える高さ1メートルほどの草で、秋に枝分かれした先に穂をつけたような赤褐色や暗紅紫色の花をつける。若葉は食用に、根は生薬になる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sanguisorba officinalis」",
+      "source": "Wikipedia (en): Sanguisorba officinalis",
       "source_url": "https://en.wikipedia.org/wiki/Sanguisorba_officinalis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370281927,
       "text": "Sanguisorba officinalis, commonly known as great burnet, is a plant in the family Rosaceae, subfamily Rosoideae. It is native throughout the cooler regions of the Northern Hemisphere in Europe, northern Asia, and northern North America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sanguisorba officinalis",
+      "source_url": "https://es.wikipedia.org/wiki/Sanguisorba_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175260657,
+      "text": "Sanguisorba officinalis es una especie de planta perenne perteneciente a la familia de las rosáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sanguisorba officinalis",
+      "source_url": "https://fr.wikipedia.org/wiki/Sanguisorba_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234266406,
+      "text": "Sanguisorba officinalis, la grande pimprenelle ou sanguisorbe officinale, est une espèce de plantes à fleurs de la famille des Rosacées."
     }
   },
   "edible": {
@@ -248,7 +266,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -333,7 +351,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/741402-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -341,7 +359,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/741402-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000983287.webp",
@@ -354,6 +372,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 265,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

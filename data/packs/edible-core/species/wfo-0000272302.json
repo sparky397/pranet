@@ -10,21 +10,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "コミカンソウ"
     ],
-    "en": [
-      "chamber bitter",
-      "Chamberbitter"
-    ],
-    "zh": [
-      "葉下珠",
-      "珠仔草",
-      "叶下珠",
-      "珍珠草"
+    "id": [
+      "Meniran"
     ],
     "jv": [
       "Meniran"
@@ -38,8 +31,11 @@
     "su": [
       "meniran"
     ],
-    "id": [
-      "Meniran"
+    "zh": [
+      "叶下珠",
+      "葉下珠",
+      "珠仔草",
+      "珍珠草"
     ],
     "cdo": [
       "Nuŏk-â-ciŏ"
@@ -73,33 +69,46 @@
     ],
     "arz": [
       "فيلانثوس بولى"
+    ],
+    "en": [
+      "chamber bitter",
+      "Chamberbitter"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1131974",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1131974",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「コミカンソウ」",
+      "source": "Wikipedia (ja): コミカンソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%82%AB%E3%83%B3%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109595875,
       "text": "コミカンソウ はコミカンソウ科コミカンソウ属の一年草。別名キツネノチャブクロ（狐の茶袋）。従来の分類ではトウダイグサ科に入れていた。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Phyllanthus urinaria」",
+      "source": "Wikipedia (en): Phyllanthus urinaria",
       "source_url": "https://en.wikipedia.org/wiki/Phyllanthus_urinaria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370329385,
       "text": "Phyllanthus urinaria is a species of annual flowering plant in the family Phyllanthaceae. It is native to Asia and has an introduced presence in tropical and subtropical areas worldwide. It has common names such as chamber bitter, gripeweed, shatterstone, stonebreaker, and leafflower."
+    },
+    "id": {
+      "source": "Wikipedia (id): Meniran",
+      "source_url": "https://id.wikipedia.org/wiki/Meniran",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29853971,
+      "text": "Meniran adalah salah satu jenis tanaman yang memiliki bentuk batang bulat tegak lurus, tinggi tanaman bisa mencapai satu meter lebih dalam kondisi tanah subur. Daun dari tanaman meniran bertulang menyirip genap, setiap satu tangkai memiliki daun majemuk dengan ukuran yang kecil dan berbentuk lonjong. Bunga tumbuhan ini terdapat pada setiap ketiak daun serta menghadap ke bagian bawah."
     }
   },
   "edible": {
@@ -113,7 +122,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -230,7 +239,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/354815-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or subshrub",
@@ -238,7 +247,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/354815-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000272302.webp",
@@ -251,6 +260,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

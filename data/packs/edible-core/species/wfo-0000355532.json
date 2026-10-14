@@ -28,62 +28,28 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウネズ"
     ],
-    "de": [
-      "Gewöhnlicher Wacholder",
-      "Wacholder",
-      "Gemeiner Wacholder"
-    ],
-    "en": [
-      "Common Juniper",
-      "Juniper",
-      "Ground Juniper",
-      "mountain juniper"
-    ],
-    "pl": [
-      "Jałowiec pospolity"
-    ],
-    "fr": [
-      "Genévrier commun",
-      "Genévrier"
-    ],
-    "es": [
-      "Enebro",
-      "enebro común"
-    ],
-    "nl": [
-      "Jeneverbes"
-    ],
-    "cs": [
-      "jalovec obecný"
-    ],
-    "fi": [
-      "kotikataja",
-      "kataja"
-    ],
-    "ojb": [
-      "gaagaagiwaandag"
-    ],
     "zh": [
-      "欧洲刺柏",
-      "刺柏"
-    ],
-    "sl": [
-      "navadni brin"
-    ],
-    "io": [
-      "Ordinara junipero"
+      "刺柏",
+      "欧洲刺柏"
     ],
     "eu": [
       "Ipar-ipuru"
     ],
+    "pl": [
+      "jałowiec pospolity"
+    ],
     "bs": [
       "Smreka"
+    ],
+    "es": [
+      "enebro común",
+      "Enebro"
     ],
     "hu": [
       "közönséges boróka"
@@ -99,6 +65,9 @@
     ],
     "sv": [
       "enbuske"
+    ],
+    "nl": [
+      "jeneverbes"
     ],
     "ar": [
       "عرعر شائع"
@@ -120,6 +89,10 @@
     ],
     "se": [
       "reatká"
+    ],
+    "fi": [
+      "kataja",
+      "kotikataja"
     ],
     "uk": [
       "ялівець звичайний"
@@ -157,6 +130,11 @@
     "gl": [
       "Xenebreiro"
     ],
+    "de": [
+      "Gemeiner Wacholder",
+      "Gewöhnlicher Wacholder",
+      "Wacholder"
+    ],
     "koi": [
       "Верӧс"
     ],
@@ -172,14 +150,24 @@
     "ca": [
       "ginebre comú"
     ],
+    "sl": [
+      "navadni brin"
+    ],
     "sgs": [
       "Ieglis"
+    ],
+    "cs": [
+      "jalovec obecný"
     ],
     "bg": [
       "обикновена хвойна"
     ],
     "lt": [
       "Paprastasis kadagys"
+    ],
+    "fr": [
+      "Genévrier commun",
+      "Genévrier"
     ],
     "tt": [
       "артыш"
@@ -265,6 +253,9 @@
     "smn": [
       "riätká"
     ],
+    "io": [
+      "Ordinara junipero"
+    ],
     "sjd": [
       "кэскас"
     ],
@@ -300,13 +291,22 @@
     ],
     "th": [
       "จูนิเปอร์ธรรมดา"
+    ],
+    "en": [
+      "Common Juniper",
+      "Juniper",
+      "Ground Juniper",
+      "mountain juniper"
+    ],
+    "ojb": [
+      "gaagaagiwaandag"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q26325",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q26325",
   "search_names": {
@@ -316,35 +316,93 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウネズ」",
+      "source": "Wikipedia (ja): セイヨウネズ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%8D%E3%82%BA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108092052,
       "text": "セイヨウネズ は、ヒノキ科ビャクシン属の針葉樹である。全ての樹木の中で最も広い分布域を持つものの1つであり北半球の寒い地域全域に分布する。北極から北緯30度程度までの北アメリカ、ヨーロッパ、アジアに自生する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Juniperus communis」",
+      "source": "Wikipedia (en): Juniperus communis",
       "source_url": "https://en.wikipedia.org/wiki/Juniperus_communis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376692488,
       "text": "Juniperus communis, the common juniper, is a species of small tree or shrub in the cypress family Cupressaceae. An evergreen conifer, it has the largest geographical range of any woody plant, with a Holarctic distribution throughout the cool temperate Northern Hemisphere."
+    },
+    "es": {
+      "source": "Wikipedia (es): Juniperus communis",
+      "source_url": "https://es.wikipedia.org/wiki/Juniperus_communis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175797379,
+      "text": "El enebro común es una especie de planta leñosa de la familia Cupressaceae. Tiene una amplia distribución: se extiende desde las frías regiones del hemisferio norte hasta las zonas montañosas a 30° de latitud N en Norteamérica, Europa y Asia. También puede verse escrito jinebro. Además, produce gálbulos conocidos como enebrinas de aspecto redondo y con un color azul, que varía desde muy intenso (negro) hasta un azul marino oscuro. Los gálbulos crecen en racimo y no son bayas o frutos. Tampoco deben ser confundidos con los arándanos puesto que se trata de vegetales radicalmente distintos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Juniperus communis",
+      "source_url": "https://fr.wikipedia.org/wiki/Juniperus_communis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233176965,
+      "text": "Le Genévrier commun ou Genièvre est une espèce d'arbuste de la famille des Cupressacées, à cônes bleu violacé ressemblant à des baies, et aux feuilles épineuses. Il est parfois appelé Peteron ou Petrot."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Juniperus communis",
+      "source_url": "https://pt.wikipedia.org/wiki/Juniperus_communis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71376132,
+      "text": "Juniperus communis é um arbusto perene da família das cupressáceas que, geralmente, não atinge mais de 1 metro de altura, embora se encontrem espécimes que cheguem dos 2 aos 7 m, em forma arbustiva, ou mais, em forma arbórea."
+    },
+    "id": {
+      "source": "Wikipedia (id): Juniperus communis",
+      "source_url": "https://id.wikipedia.org/wiki/Juniperus_communis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29496565,
+      "text": "Juniperus communis dikenal sebagai arar umum merupakan spesies konifer dalam famili Cupressaceae yang tumbuh sebagai pohon kecil atau semak. Tanaman runjung ini memiliki sebaran paling luas di antara semua tumbuhan berkayu, menempati wilayah Holarktik di berbagai daerah beriklim dingin di Belahan Bumi Utara."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Juniperus communis」の節「Cultivation」",
+        "source": "Wikipedia (en): Juniperus communis § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Juniperus_communis#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1376692488,
         "heading": "Cultivation",
         "text": "Juniperus communis is cultivated in the horticulture trade and used as an evergreen ornamental shrub in gardens. The following cultivars gained the Royal Horticultural Society's Award of Garden Merit in 1993:\n\nJuniperus communis 'Compressa'\nJuniperus communis 'Green Carpet' (prostrate shrub)\nJuniperus communis 'Hibernica' (Irish juniper)\nJuniperus communis 'Repanda' (prostrate shrub)\nOther cultivars in use include:\n\nJuniperus communis 'Fontän'\nJuniperus communis 'Hornibrookii'\nJuniperus communis 'Kantarell'\nJuniperus communis 'Repanda' \nJuniperus communis 'Vemboö'",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Juniperus communis § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Juniperus_communis#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 233176965,
+        "heading": "Culture",
+        "text": "Les musées du genièvre d'Hasselt (nl), de Schiedam (nl) et d'Eeklo (nl) à Hasselt, Schiedam et Eeklo sont consacrés au genévrier en général, au genévrier commun en particulier ainsi qu'à leurs cônes et à l'utilisation qu'il est possible d'en faire en particulier dans l'eau de vie.\nLe genièvre est célébré le 9 frimaire ou jour du genièvre du calendrier républicain, chaque 29 ou 30 novembre du calendrier grégorien selon les années.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Juniperus communis § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Juniperus_communis#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71376132,
+        "heading": "Cultivo",
+        "text": "Juniperus communis é cultivado no comércio de horticultura e utilizado como arbusto ornamental perene em jardins. As seguintes cultivares receberam o prémio Garden Merit da Royal Horticultural Society em 1993:\n\nJuniperus communis 'Compressa'\nJuniperus communis 'Tapete Verde' (arbusto prostrado)\nJuniperus communis 'Hibernica' (zimbro irlandês)\nJuniperus communis 'Repanda' (arbusto prostrado)\nOutras cultivares em uso incluem:\n\nJuniperus communis 'Fontän'\nJuniperus communis 'Tapete Verde'\nJuniperus communis 'Hornibrookii'\nJuniperus communis 'Kantarell'\nJuniperus communis 'Repanda'\nJuniperus communis 'Vemboö'",
         "truncated": false
       }
     }
@@ -360,7 +418,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -501,7 +559,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30088655-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or tree",
@@ -509,7 +567,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30088655-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000355532.webp",
@@ -522,6 +580,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

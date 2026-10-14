@@ -10,23 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Levant cotton"
-    ],
-    "zh": [
-      "草棉",
-      "棉花根",
-      "棉籽",
-      "草棉（棉）",
-      "棉花油",
-      "棉花壳",
-      "棉花",
-      "棉花子",
-      "棉花花"
-    ],
     "da": [
       "Almindelig Bomuld"
     ],
@@ -41,6 +27,17 @@
     ],
     "ml": [
       "നൂൽപ്പരുത്തി"
+    ],
+    "zh": [
+      "草棉",
+      "棉花根",
+      "棉籽",
+      "草棉（棉）",
+      "棉花油",
+      "棉花壳",
+      "棉花",
+      "棉花子",
+      "棉花花"
     ],
     "ta": [
       "பாரம் (மலர்)"
@@ -83,24 +80,45 @@
     ],
     "smn": [
       "indiapumbul"
+    ],
+    "en": [
+      "Levant cotton"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q177615",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q177615",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Gossypium herbaceum」",
+      "source": "Wikipedia (en): Gossypium herbaceum",
       "source_url": "https://en.wikipedia.org/wiki/Gossypium_herbaceum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370400434,
       "text": "Gossypium herbaceum, commonly known as Levant cotton, is a species of cotton native to semi-arid regions of Southern Africa, as well as from Syria to Afghanistan, where it still grows perennially in the wild as a shrub."
+    },
+    "es": {
+      "source": "Wikipedia (es): Gossypium herbaceum",
+      "source_url": "https://es.wikipedia.org/wiki/Gossypium_herbaceum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175378183,
+      "text": "El algodón de levante es una especie de plantas con flores perteneciente a la familia Malvaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Gossypium herbaceum",
+      "source_url": "https://fr.wikipedia.org/wiki/Gossypium_herbaceum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 205760504,
+      "text": "Gossypium herbaceum, le Cotonnier herbacé, est une espèce de cotonnier « véritable » de la famille des Malvaceae. Elle affectionne les régions chaudes et ensoleillées. Le cotonnier herbacé est natif de l'Afrique, la sous espèce Gossypium herbaceum ssp. africanum étant présente dans tout le sud du continent; l'espèce-sœur phylogénétiquement très proche Gossypium arboreum, le cotonnier en arbre, est originaire d'Asie, vallée de l'Indus au Pakistan et nord-ouest de l'Inde."
     }
   },
   "edible": {
@@ -117,7 +135,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -188,7 +206,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/559730-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -196,7 +214,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/559730-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000707926.webp",
@@ -209,6 +227,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

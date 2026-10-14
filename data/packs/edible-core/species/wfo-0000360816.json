@@ -20,7 +20,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -30,33 +30,20 @@
       "Lovage",
       "garden lovage"
     ],
-    "cy": [
-      "llwfach"
+    "fr": [
+      "Livèche"
     ],
-    "nl": [
-      "Lavas"
-    ],
-    "cs": [
-      "libeček lékařský"
-    ],
-    "fi": [
-      "liperi"
+    "pt": [
+      "Levístico"
     ],
     "zh": [
       "欧当归"
-    ],
-    "sl": [
-      "navadni luštrek",
-      "luštrek"
     ],
     "pl": [
       "lubczyk ogrodowy"
     ],
     "he": [
       "לאושטיאן"
-    ],
-    "fr": [
-      "Livèche"
     ],
     "hu": [
       "orvosi lestyán"
@@ -67,14 +54,14 @@
     "de": [
       "Liebstöckel"
     ],
+    "nl": [
+      "Lavas"
+    ],
     "ar": [
       "كاشم رومي"
     ],
     "sv": [
       "libbsticka"
-    ],
-    "pt": [
-      "Levístico"
     ],
     "is": [
       "Skessujurt"
@@ -91,8 +78,18 @@
     "ca": [
       "api bord"
     ],
+    "fi": [
+      "liperi"
+    ],
     "uk": [
       "Любисток лікарський"
+    ],
+    "sl": [
+      "navadni luštrek",
+      "luštrek"
+    ],
+    "cs": [
+      "libeček lékařský"
     ],
     "fa": [
       "انجدان رومی"
@@ -132,6 +129,9 @@
     ],
     "sk": [
       "ligurček lekársky"
+    ],
+    "cy": [
+      "Llwfach"
     ],
     "af": [
       "Lavas"
@@ -174,7 +174,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q27615",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q27615",
   "search_names": {
@@ -191,22 +191,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ラベージ」",
+      "source": "Wikipedia (ja): ラベージ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%99%E3%83%BC%E3%82%B8",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106455043,
       "text": "ラベージ はハーブとして使われるセリ科、セリ亜科の多年生植物で、この種のみでLevisticum属を構成する。長くヨーロッパで栽培されてきた種で、その葉はハーブとして用いられ、種はスパイスとなり、根も食用になる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lovage」",
+      "source": "Wikipedia (en): Lovage",
       "source_url": "https://en.wikipedia.org/wiki/Lovage",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365919161,
       "text": "Lovage is a perennial plant, the sole species in the genus Levisticum in the family Apiaceae, subfamily Apioideae. It is native to Afghanistan and Iran."
+    },
+    "es": {
+      "source": "Wikipedia (es): Levisticum officinale",
+      "source_url": "https://es.wikipedia.org/wiki/Levisticum_officinale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173892220,
+      "text": "El apio de monte o levístico es una planta de la familia de las apiáceas. Probablemente originaria del Asia central, es utilizada como especia para condimentar platos, sobre todo en el sur y centro de Europa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Livèche",
+      "source_url": "https://fr.wikipedia.org/wiki/Liv%C3%A8che",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230456358,
+      "text": "La livèche est une espèce de plantes à fleurs de la famille des Apiaceae. C'est une plante herbacée vivace cultivée comme plante potagère et généralement consommée comme condiment. Sa forme sauvage, appelée ache des montagnes, pousse dans les Alpes, les Pyrénées, l'Europe centrale et le Caucase en dessous de 1 800 m d'altitude."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Levístico",
+      "source_url": "https://pt.wikipedia.org/wiki/Lev%C3%ADstico",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62004270,
+      "text": "Levístico é uma planta cujas folhas, sementes e raízes são utilizados para dar sabor aos alimentos, especialmente da cozinha do sul da Europa. É uma planta perene que mede de 1,8 a 2,5 metros e que lembra vagamente o salsão ou aipo na aparência e no sabor."
+    },
+    "id": {
+      "source": "Wikipedia (id): Levisticum officinale",
+      "source_url": "https://id.wikipedia.org/wiki/Levisticum_officinale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30025399,
+      "text": "Lavas atau angdan, Levisticum officinale, adalah tanaman tahunan yang tinggi, satu-satunya spesies dalam genus Levisticum dalam keluarga Apiaceae, subfamili Apioideae. Telah lama dibudidayakan di Eropa, daunnya digunakan sebagai ramuan, akarnya sebagai sayuran, dan bijinya sebagai bumbu, terutama pada masakan Eropa Selatan. Rasa dan baunya mengingatkan pada seledri dan peterseli, hanya saja lebih pekat dan pedas dari keduanya. Bijinya bisa digunakan dengan cara yang sama seperti biji adas."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Livèche § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Liv%C3%A8che#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 230456358,
+        "heading": "Culture",
+        "text": "La multiplication se fait par éclat de souche, ou par semis en août ; les plants sont mis en terre au printemps suivant ; on peut également semer en place de mars à juin. Récolte un an après le semis. Prélever les feuilles selon les besoins. Les feuilles peuvent se conserver après séchage à l'ombre, après les avoir réduites en poudre, dans des boîtes hermétiques.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -219,7 +270,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -286,7 +337,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/844187-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -294,7 +345,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/844187-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000360816.webp",
@@ -307,6 +358,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

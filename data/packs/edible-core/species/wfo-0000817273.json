@@ -11,30 +11,27 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オリーブ"
     ],
-    "en": [
-      "olive tree",
-      "olive"
+    "pt": [
+      "Oliveira"
     ],
-    "af": [
-      "Olienhout"
+    "id": [
+      "Zaitun",
+      "zaitun"
     ],
     "zh": [
+      "油橄榄",
       "木犀榄",
       "木樨榄",
       "牛白藤根",
       "洋橄揽",
       "齐墩果",
-      "欧洲橄榄",
-      "油橄榄"
-    ],
-    "sl": [
-      "divja oljka"
+      "欧洲橄榄"
     ],
     "jv": [
       "Zaitun"
@@ -86,9 +83,6 @@
     ],
     "sv": [
       "Olivträd"
-    ],
-    "pt": [
-      "Oliveira"
     ],
     "eo": [
       "Olivarbo"
@@ -174,9 +168,6 @@
     "de": [
       "Olivenbaum"
     ],
-    "id": [
-      "zaitun"
-    ],
     "ml": [
       "ഒലിവ്"
     ],
@@ -206,6 +197,9 @@
     ],
     "cy": [
       "olewydden"
+    ],
+    "sl": [
+      "divja oljka"
     ],
     "cs": [
       "olivovník evropský"
@@ -401,13 +395,20 @@
     ],
     "zgh": [
       "ⵜⴰⵣⵉⵜⵓⵏⵜ"
+    ],
+    "en": [
+      "olive tree",
+      "olive"
+    ],
+    "af": [
+      "Olienhout"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q37083",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q37083",
   "search_names": {
@@ -420,22 +421,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オリーブ」",
+      "source": "Wikipedia (ja): オリーブ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111315942,
       "text": "オリーブ は、モクセイ科オリーブ属の常緑高木。実が食用油（オリーブ・オイル）の原料や食用になるため、広く栽培されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Olea europaea」",
+      "source": "Wikipedia (en): Olea europaea",
       "source_url": "https://en.wikipedia.org/wiki/Olea_europaea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376609949,
       "text": "Olea europaea is the tree species that includes the cultivated olive, and five other subspecies. Some of the subspecies are polyploid."
+    },
+    "es": {
+      "source": "Wikipedia (es): Olea europaea",
+      "source_url": "https://es.wikipedia.org/wiki/Olea_europaea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175428049,
+      "text": "Olea europaea, llamado comúnmente olivo y olivera, así como también oliva y aceituno, es un árbol pequeño perennifolio que puede alcanzar hasta 15 m de altura, con tronco grueso de aspecto retorcido. Su corteza es de color gris o plateado y tiene hojas opuestas, lanceoladas. Las flores son hermafroditas, en panículas axilares multifloras, con corola blanca. El fruto, la aceituna u oliva, es una drupa de 1 a 3,5 cm de largo. Su periodo de floración sucede entre mayo y julio en el hemisferio norte, y entre noviembre y enero en el hemisferio sur, mientras que su periodo de fructificación ocurre entre septiembre y diciembre en el hemisferio norte, y entre marzo y junio en el hemisferio sur. De este fruto se obtiene un aceite muy apreciado en gastronomía, el aceite de oliva."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Olea europaea",
+      "source_url": "https://fr.wikipedia.org/wiki/Olea_europaea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239968418,
+      "text": "Olea europaea est une espèce de plantes à fleurs de la famille des Oleaceae. C’est un arbre ou un arbuste répandu à travers l'Afrique, l'Asie et l'Europe méditerranéenne et dont une variété a été domestiquée et cultivée pour devenir l'olivier. Au cours de l'histoire de la botanique, de nombreuses sous-espèces ont été décrites."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Oliveira",
+      "source_url": "https://pt.wikipedia.org/wiki/Oliveira",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72156123,
+      "text": "A oliveira é uma árvore da família das oleáceas. A oliveira produz azeitonas, que são usadas para fazer azeite. Tem pouca altura e tronco retorcido, sendo nativas da parte oriental do mar Mediterrâneo, bem como do norte do atual Irã no extremo sul do mar Cáspio. A árvore e seus frutos dão seu nome à família de plantas que também incluem espécies como o lilás e o jasmim. Seu nome provém do latim oliva, que por sua vez vem do grego λαία (eléa), em última análise a partir de grego micênico e-ra-wa (elaiva) ou óleo. De seus frutos, as azeitonas, os humanos no final do período neolítico aprenderam a extrair o azeite. Este óleo era empregado como unguento, combustível ou na alimentação, e por todas estas utilidades, tornou-se uma árvore venerada por diversos povos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Zaitun",
+      "source_url": "https://id.wikipedia.org/wiki/Zaitun",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29343390,
+      "text": "Zaitun atau oliva adalah pohon kecil tahunan dan hijau abadi, yang buah mudanya dapat dimakan mentah ataupun sesudah diawetkan sebagai penyegar. Buahnya yang tua diperas dan minyaknya diekstrak menjadi minyak zaitun yang dapat dipergunakan untuk berbagai macam keperluan. Zaitun adalah anggota famili Oleaceae."
     }
   },
   "edible": {
@@ -453,7 +490,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -542,7 +579,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/610675-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -550,7 +587,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/610675-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000817273.webp",
@@ -563,6 +600,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

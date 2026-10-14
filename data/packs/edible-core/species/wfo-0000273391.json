@@ -29,7 +29,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -37,47 +37,18 @@
     ],
     "en": [
       "Allspice",
+      "allspice",
       "Jamaican pepper"
     ],
-    "de": [
-      "Allgewürz",
-      "Nelkenpfeffer",
-      "Piment",
-      "Pimentpflanze"
-    ],
-    "es": [
-      "Malagueta",
-      "pimienta de Jamaica"
-    ],
-    "fi": [
-      "Maustepippuri"
-    ],
     "fr": [
+      "Piment de la Jamaïque",
       "Grand piment",
       "malaguette",
       "myrte-piment",
-      "tout-épice",
-      "Piment de la Jamaïque"
+      "tout-épice"
     ],
-    "it": [
-      "Pepe della Giamaica"
-    ],
-    "sv": [
-      "Kryddpeppar"
-    ],
-    "to": [
-      "Sipaisi"
-    ],
-    "tr": [
-      "Yenibahar",
-      "yeni bahar"
-    ],
-    "zh": [
-      "多香果",
-      "众香树"
-    ],
-    "sl": [
-      "pimentovec"
+    "id": [
+      "Merica Jamaika"
     ],
     "pl": [
       "korzennik lekarski"
@@ -97,11 +68,23 @@
     "hu": [
       "szegfűbors"
     ],
+    "to": [
+      "Sipaisi"
+    ],
+    "de": [
+      "Pimentpflanze",
+      "Allgewürz",
+      "Nelkenpfeffer",
+      "Piment"
+    ],
     "ml": [
       "സർവ സുഗന്ധി"
     ],
     "hsb": [
       "Wšědny piment"
+    ],
+    "sv": [
+      "kryddpeppar"
     ],
     "nl": [
       "piment"
@@ -124,8 +107,14 @@
     "ca": [
       "pebrer de Jamaica"
     ],
+    "fi": [
+      "maustepippuri"
+    ],
     "uk": [
       "Духмяний перець"
+    ],
+    "sl": [
+      "pimentovec"
     ],
     "cs": [
       "pimentovník pravý"
@@ -145,6 +134,10 @@
     "da": [
       "allehånde"
     ],
+    "zh": [
+      "多香果",
+      "众香树"
+    ],
     "nb": [
       "allehånde"
     ],
@@ -156,6 +149,10 @@
     ],
     "fa": [
       "فلفل فرنگی"
+    ],
+    "tr": [
+      "yeni bahar",
+      "Yenibahar"
     ],
     "af": [
       "Wonderpeper"
@@ -181,18 +178,22 @@
     "eo": [
       "dioika pimento"
     ],
-    "id": [
-      "Merica Jamaika"
-    ],
     "ta": [
       "ஆல்ஸ்பைஸ்"
+    ],
+    "es": [
+      "Malagueta",
+      "pimienta de Jamaica"
+    ],
+    "it": [
+      "Pepe della Giamaica"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158468",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158468",
   "search_names": {
@@ -204,22 +205,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オールスパイス」",
+      "source": "Wikipedia (ja): オールスパイス",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109257880,
       "text": "オールスパイス は、フトモモ科の植物で、果実または葉が香辛料として用いられる。名前の由来は、シナモン・クローブ・ナツメグの3つの香りを併せ持つといわれることから（「スパイス各種を混ぜ合わせたもの」ではない）。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Allspice」",
+      "source": "Wikipedia (en): Allspice",
       "source_url": "https://en.wikipedia.org/wiki/Allspice",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377607681,
       "text": "Allspice, also known as Jamaica pepper, myrtle pepper, pimenta, or pimento, is the dried unripe berry of Pimenta dioica, a midcanopy tree native to the Greater Antilles, southern Mexico, and Central America, now cultivated in many warm parts of the world."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pimenta dioica",
+      "source_url": "https://es.wikipedia.org/wiki/Pimenta_dioica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581180,
+      "text": "La pimienta de Tabasco, también llamada pimienta de Chiapas, pimienta de Jamaica, pimienta gorda, pimienta guayabita, pimienta dulce, pimienta de olor, pimienta inglesa, es una especia procedente del árbol de nombre Pimenta dioica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Piment de la Jamaïque",
+      "source_url": "https://fr.wikipedia.org/wiki/Piment_de_la_Jama%C3%AFque",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230063148,
+      "text": "Le piment de la Jamaïque ou poivre de la Jamaïque est une espèce de plantes à fleurs de la famille des Myrtaceae. C'est un arbre des régions tropicales d'Amérique, dont les fruits sont à l'origine d'une épice appelée tout-épice ou quatre-épices. Le nom quatre-épices est ambigu car souvent aussi utilisé pour désigner un mélange de 4 épices qui a un goût identique au tout-épice."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pimenta dioica",
+      "source_url": "https://pt.wikipedia.org/wiki/Pimenta_dioica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68830824,
+      "text": "Pimenta dioica, comummente conhecida como pimenta-da-jamaica ou pimenta-de-coroa, é uma espécie de árvore da família das mirtáceas, que chega a medir 10 metros. Os seus frutos secos são utilizados como condimento, combinando facilmente com outras especiarias e conferido um odor semelhante a um misto de canela, pimenta negra e noz moscada."
+    },
+    "id": {
+      "source": "Wikipedia (id): Merica Jamaika",
+      "source_url": "https://id.wikipedia.org/wiki/Merica_Jamaika",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29691139,
+      "text": "Merica Jamaika, atau juga dienal sebagai lada murad, pimenta, atau pimento, adalah beri mentah kering dari Pimenta dioica, pohon kanopi iklim tengah yang berasal dari Antillen Besar, Meksiko selatan, dan Amerika Tengah, sekarang dibudidayakan di banyak belahan dunia beriklim hangat. Merica jamaika dalam Bahasa Inggris adalah \"allspices\", penyebutan ini diciptakan sejak tahun 1621 oleh orang Inggris, yang menghargainya sebagai bumbu yang memadukan rasa kayu manis, pala, dan cengkeh."
     }
   },
   "edible": {
@@ -234,7 +271,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -268,7 +305,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/196799-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -276,7 +313,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/196799-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000273391.webp",
@@ -289,6 +326,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

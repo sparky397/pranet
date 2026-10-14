@@ -19,28 +19,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヘンナ"
     ],
-    "en": [
-      "henna"
+    "fr": [
+      "Henné",
+      "henné"
     ],
-    "zh": [
-      "散沫花",
-      "指甲花叶",
-      "散沫花（指甲花）",
-      "指甲花"
+    "pt": [
+      "Hena",
+      "Henna"
     ],
-    "sl": [
-      "hena"
-    ],
-    "ta": [
-      "அழவனம்",
-      "மருதோன்றி",
-      "மருதாணி"
+    "id": [
+      "Pacar kuku"
     ],
     "pl": [
       "Henna"
@@ -48,20 +42,19 @@
     "he": [
       "כופר לבן"
     ],
-    "fr": [
-      "henné"
-    ],
     "ko": [
       "헤나"
     ],
     "es": [
       "alheña"
     ],
+    "ta": [
+      "மருதோன்றி",
+      "அழவனம்",
+      "மருதாணி"
+    ],
     "hu": [
       "henna"
-    ],
-    "id": [
-      "Pacar kuku"
     ],
     "de": [
       "Hennastrauch"
@@ -95,9 +88,6 @@
     ],
     "hi": [
       "हिना"
-    ],
-    "pt": [
-      "Henna"
     ],
     "eo": [
       "Henao"
@@ -143,6 +133,15 @@
     ],
     "kk": [
       "Қына"
+    ],
+    "zh": [
+      "散沫花",
+      "指甲花叶",
+      "散沫花（指甲花）",
+      "指甲花"
+    ],
+    "sl": [
+      "hena"
     ],
     "el": [
       "albenia"
@@ -233,13 +232,16 @@
     ],
     "ary": [
       "حنّا"
+    ],
+    "en": [
+      "henna"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q182448",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q182448",
   "search_names": {
@@ -260,47 +262,96 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヘンナ」",
+      "source": "Wikipedia (ja): ヘンナ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%8A",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108609494,
       "text": "ヘンナ（ヘナ）は、ミソハギ科の植物の名。和名は、指甲花（シコウカ）・ツマクレナイノキ・エジプトイボタノキ。学名は、Lawsonia inermis。主に、マニキュアやヘナタトゥーなどの染料として古代から使用されてきたハーブである。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lawsonia inermis」",
+      "source": "Wikipedia (en): Lawsonia inermis",
       "source_url": "https://en.wikipedia.org/wiki/Lawsonia_inermis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365740417,
       "text": "Lawsonia inermis, also known as hina, the henna tree, the mignonette tree, and the Egyptian privet, is a flowering plant and one of the only two species of the genus Lawsonia, with the other being Lawsonia odorata. It is used as a traditional medicinal plant. The species is named after the Scottish physician Isaac Lawson, a good friend of Linnaeus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lawsonia inermis",
+      "source_url": "https://es.wikipedia.org/wiki/Lawsonia_inermis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 151613998,
+      "text": "Lawsonia inermis L. es una planta de la familia Lythraceae. Su nombre común es alheña o arjeña. En inglés se llama henna, término que no estaba reconocido en español por la Real Academia, aunque se usaba como barbarismo. También se decía jena. Ambos términos están reconocidos hoy por la Real Academia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Henné",
+      "source_url": "https://fr.wikipedia.org/wiki/Henn%C3%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236491078,
+      "text": "Le henné, également connu sous les noms de mehndi, mendhi, mehendi, ḥenna, lḥenni ou anella, est une espèce de plantes à fleurs de la famille des Lythracées. C'est un arbuste épineux pouvant atteindre plusieurs mètres de haut. Ses feuilles sont principalement utilisées comme colorant ou tatouage mais la tradition lui octroie également d'autres vertus, notamment des propriétés médicinales."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Hena",
+      "source_url": "https://pt.wikipedia.org/wiki/Hena",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64258853,
+      "text": "Hena designa tanto uma planta da família das litráceas, como o corante dela extraído."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pacar kuku",
+      "source_url": "https://id.wikipedia.org/wiki/Pacar_kuku",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29922928,
+      "text": "Pacar Kuku adalah tanaman yang berasal dari Afrika Timur Laut dan Asia Barat Daya. Termasuk suku Lythaceae."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ヘンナ」の節「栽培」",
+        "source": "Wikipedia (ja): ヘンナ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%8A#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 108609494,
         "heading": "栽培",
         "text": "ヘナの木は北アフリカ、アジア、オーストラリア北部などの半乾燥帯と熱帯に自生する。35℃から45℃の間で育ったヘナが最も染まりが良いとされる。降雨のある間、ヘナは早く生長し、新枝を出すが、長引く乾燥や涼しい天候においては葉が徐々に黄色になり、落ちてしまう。11℃以下の環境では生長ができず、5℃となると死んでしまう。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Lawsonia inermis」の節「Cultivation」",
+        "source": "Wikipedia (en): Lawsonia inermis § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Lawsonia_inermis#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1365740417,
         "heading": "Cultivation",
         "text": "It produces the most dye when grown in temperatures between 35 and 45 °C (95 and 113 °F). During the onset of precipitation intervals, the plant grows rapidly, putting out new shoots. Growth subsequently slows. The leaves gradually yellow and fall during prolonged dry or cool intervals. It does not thrive where minimum temperatures are below 11 °C (52 °F). Temperatures below 5 °C (41 °F) will kill the henna plant.",
         "truncated": false
+      }
+    },
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Henné § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Henn%C3%A9#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236491078,
+        "heading": "Toxicité",
+        "text": "■ Henné naturel\nLe henné ingéré contient des composés cytotoxiques in vitro et se montre toxique pour les enfants, mais il n'est pas réputé toxique pour l'adulte en bonne santé, en usage externe et sur une peau saine.\nToutefois, il peut se montrer hémotoxique (toxique pour le sang) chez le jeune enfant. On s'en est rendu compte dans les régions où du henné est traditionnellement appliqué par des Bédouins sur la peau du garçon premier-né après la naissance. En 10 ans, l’hôpital d'Al-Jahra[Où ?] a reçu 15 très jeunes garçons souffrant d'une hémolyse aiguë quelques jours après l'application de henné sur le corps. Les analyses de laboratoire ont dans tous ces cas révélé une anémie, une hyperbilirubinémie et une réticulocytose indirecte. Les nouveau-nés montraient un déficit en G6PD et l'hémolyse (destruction des globules rouges) induite par l'application de henné se traduisait par une hyperbilirubinémie et réticulocytose plus grave que dans les cas habituels d'hémolyse. L'absorption percutanée de henné est probablement plus importante sur la peau du bébé, et des essais cliniques ont confirmé que le henné cause un déficit en globules rouges et en G6PD, peut être en raison d'un effet de stress oxydant de la lawsone contenue dans la poudre de henné. Un programme d'éducation de santé local a été mis en place pour empêcher l'utilisation de henné dans la petite enfance.\nL'administration de lawsone à des rats de laboratoire induit également une réponse hémolytique, associée à des dommages oxydatifs aux érythrocytes, mais curieusement, des érythrocytes isolés exposés in vitro à la lawsone ne présentent pas ces dommages oxydatifs, ce qui suggère qu'in vivo, la lawsone ne devient toxique pour le sang qu'après avoir subi une métabolisation ou « bioactivation » extra-érythrocytaire.",
+        "truncated": true
       }
     }
   },
@@ -320,7 +371,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -410,7 +461,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/553638-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -418,7 +469,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/553638-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000366658.webp",
@@ -431,6 +482,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

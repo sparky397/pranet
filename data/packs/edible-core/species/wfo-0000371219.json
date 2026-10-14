@@ -11,16 +11,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "bachang",
-      "Horse Mango"
-    ],
-    "zh": [
-      "异味杧果",
-      "馬芒果"
+    "id": [
+      "Bacang",
+      "bacang"
     ],
     "de": [
       "Stinkende Mango"
@@ -30,9 +26,6 @@
     ],
     "bjn": [
       "Hambawang"
-    ],
-    "id": [
-      "bacang"
     ],
     "ms": [
       "Bacang"
@@ -55,6 +48,10 @@
     "jv": [
       "Pakèl"
     ],
+    "zh": [
+      "馬芒果",
+      "异味杧果"
+    ],
     "fa": [
       "انبه فوتیدا"
     ],
@@ -75,13 +72,17 @@
     ],
     "iba": [
       "Kemantan"
+    ],
+    "en": [
+      "bachang",
+      "Horse Mango"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1446784",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1446784",
   "search_names": {
@@ -91,13 +92,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Mangifera foetida」",
+      "source": "Wikipedia (en): Mangifera foetida",
       "source_url": "https://en.wikipedia.org/wiki/Mangifera_foetida",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1367176118,
       "text": "Mangifera foetida is a species of flowering plant in the family Anacardiaceae. It is found in wet-land rainforest regions of Borneo, Cambodia, Indonesia, Malaysia, Myanmar, Thailand, and Vietnam."
+    },
+    "es": {
+      "source": "Wikipedia (es): Mangifera foetida",
+      "source_url": "https://es.wikipedia.org/wiki/Mangifera_foetida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 160507269,
+      "text": "Mangifera foetida es una especie de mango perteneciente a la familia de las anacardiáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Mangifera foetida",
+      "source_url": "https://fr.wikipedia.org/wiki/Mangifera_foetida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223669674,
+      "text": "Mangifera foetida, le Bachang ou Manguier fétide, est une espèce de plantes à fleurs de la famille des Anacardiaceae, originaire des régions de forêt humide de l’Indonésie, de la Malaisie, du Myanmar, de Singapour, de la Thaïlande et du Vietnam."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bacang",
+      "source_url": "https://id.wikipedia.org/wiki/Bacang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29796070,
+      "text": "Bacang adalah sejenis pohon buah yang masih sekerabat dengan mangga. Orang sering menyebut buahnya sebagai bacang, ambacang/embacang, atau mangga bacang. Di berbagai tempat juga dikenal dengan aneka nama seperti limus (Sd.), pakèl (Jw.), asam hambawang (Banjar), macang atau machang, maa chang, ma chae, atau ma mut (Thailand), serta la mot (Myanmar). Dalam bahasa Inggris disebut bachang atau horse mango."
     }
   },
   "edible": {
@@ -111,7 +139,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -127,7 +155,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69898-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -135,7 +163,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69898-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000371219.webp",
@@ -148,6 +176,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 388,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

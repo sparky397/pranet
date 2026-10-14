@@ -20,32 +20,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "グラスピー"
-    ],
-    "cy": [
-      "ytbysen India"
-    ],
-    "en": [
-      "white pea"
-    ],
-    "cs": [
-      "hrachor setý"
-    ],
-    "fi": [
-      "peltonätkelmä"
-    ],
-    "zh": [
-      "家山黧豆"
-    ],
-    "ast": [
-      "pedruelu"
-    ],
-    "sl": [
-      "navadni grahor"
     ],
     "hi": [
       "लतरी"
@@ -58,6 +37,9 @@
     ],
     "ca": [
       "guixera"
+    ],
+    "fi": [
+      "peltonätkelmä"
     ],
     "hu": [
       "szegletes lednek"
@@ -83,6 +65,9 @@
     "bn": [
       "খেসারি ডাল"
     ],
+    "zh": [
+      "家山黧豆"
+    ],
     "ne": [
       "खेसरी"
     ],
@@ -94,6 +79,9 @@
     ],
     "fa": [
       "لاتیروس ساتیوس"
+    ],
+    "cy": [
+      "Ytbysen India"
     ],
     "he": [
       "טופח"
@@ -119,6 +107,9 @@
     "csb": [
       "Séwny groszk"
     ],
+    "cs": [
+      "hrachor setý"
+    ],
     "ml": [
       "ലാതിറസ് സറ്റൈവസ്"
     ],
@@ -137,18 +128,27 @@
     "mai": [
       "खेसारी"
     ],
+    "sl": [
+      "navadni grahor"
+    ],
     "mwl": [
       "muolas"
     ],
     "lt": [
       "Sėjamasis pelėžirnis"
+    ],
+    "en": [
+      "white pea"
+    ],
+    "ast": [
+      "pedruelu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q162093",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q162093",
   "search_names": {
@@ -166,36 +166,87 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「グラスピー」",
+      "source": "Wikipedia (ja): グラスピー",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%94%E3%83%BC",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107257904,
       "text": "グラスピー は、マメ科レンリソウ属に属する植物。ガラスマメとも呼ばれ、また学名からラチルスピー、ラチルスマメとも呼ばれる。地中海沿岸から西アジア、インドにいたるまで広い範囲で栽培される食用植物で、豆を食用とするが、この種子には有毒成分が含まれ、多量に常食した場合下半身麻痺を引き起こす可能性がある。しかし、乾燥に強くやせ地でも生育し湿潤にも強く収量も多いため、他の作物が不作の時にも生育しやすく、そのためコムギ畑など他の作物と混栽されることが多い。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lathyrus sativus」",
+      "source": "Wikipedia (en): Lathyrus sativus",
       "source_url": "https://en.wikipedia.org/wiki/Lathyrus_sativus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374177169,
       "text": "Lathyrus sativus, also known as grass pea, peagrass, cicerchia, blue sweet pea, chickling pea, chickling vetch, Indian pea, white pea and white vetch, is a legume commonly grown for human consumption and livestock feed in Asia and East Africa. It is a particularly important crop in areas that are prone to drought and famine, and is thought of as an 'insurance crop' as it produces reliable yields when all other crops fail. The seeds contain a neurotoxin that causes lathyrism, a neurodegenerative disease, if eaten as a primary protein source for a prolonged period."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lathyrus sativus",
+      "source_url": "https://es.wikipedia.org/wiki/Lathyrus_sativus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175360576,
+      "text": "La almorta, chícharo, pedruelo, guija, pito, tito o muela es una especie perteneciente a la familia de las leguminosas (fabáceas), conocida en el ámbito mediterráneo y también en Asia y África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lathyrus sativus",
+      "source_url": "https://fr.wikipedia.org/wiki/Lathyrus_sativus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237563875,
+      "text": "Lathyrus sativus, la Gesse ou Gesse commune, Pois carré ou Lentille d'Espagne, est une espèce de plantes à fleurs de la famille des Fabaceae. C'est une plante annuelle spontanée dans le Bassin méditerranéen, connue pour ses graines également appelées gesses ou pois carrés."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lathyrus sativus",
+      "source_url": "https://pt.wikipedia.org/wiki/Lathyrus_sativus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68588822,
+      "text": "A Lathyrus sativus, comummente conhecida como chícharo-comum ou simplesmente chícharo, é uma planta leguminosa, pertence à família das Fabáceas, inserindo-se, ainda no tipo fisionómico dos terófitos."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Lathyrus sativus」の節「Cultivation」",
+        "source": "Wikipedia (en): Lathyrus sativus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Lathyrus_sativus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374177169,
         "heading": "Cultivation",
         "text": "Although the exact origins of L. sativus are debated, it was most likely domesticated in the Balkan region in about 6000 BCE.\nLathyrus sativus grows best where the average temperature is 10–25 °C and average rainfall is 400–650 mm (16–26 in) per year. Like other legumes, it improves the nitrogen content of soil. The crop can survive drought or flooding, but grows best in moist soils. It tolerates a range of soil types from light sandy through loamy to heavy clay, and acid, neutral, or alkaline soils. It does not tolerate shade.\nSlow Food inducted Serra de'Conti Cicerchia, a cicerchia grown in Serra de’ Conti Municipality, Ancona Province, Marche region of Italy into the Ark of Taste.",
         "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Lathyrus sativus § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Lathyrus_sativus#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237563875,
+        "heading": "Culture",
+        "text": "Lathyrus sativus pousse mieux à des températures moyennes situées entre 10 et 25 °C avec une pluviométrie moyenne de 400–650 mm par an. Comme légumineuse, Lathyrus sativus fixe l'azote atmosphérique ce qui enrichit le sol.\nSa culture peut survivre à la sécheresse ou à des inondations, mais elle pousse mieux dans les sols humides ; elle est peu sensible aux maladies et aux ravageurs.\nLathyrus sativus tolère une gamme de types de sols acides, neutres ou alcalins allant du sable limoneux à l'argile compacte. Elle ne tolère pas l'ombre.\nLa masse de 1 000 pois est d’environ 170 g ; la densité moyenne de semis est habituellement de 50 kg/ha pour une culture pure. On sème les graines à la volée ou en sillons après les avoir éventuellement fait tremper dans l’eau pendant une nuit. Des densités de 200 000–250 000 plantes/ha sont courantes.\n\n■ Culture intermédiaire\nLa gesse peut être utilisée dans la rotation culturale comme culture dérobée, engrais vert ou couvert vivant ; sa destruction est aisée. Elle est cultivée par exemple avant la culture du riz ou en alternance avec une culture de riz et plus généralement avant toute culture céréalière, oléagineuse et betteravière.\nL'azote fixé par Lathyrus sativus entraîne des rendements satisfaisants pour la culture elle-même et contribue à ceux de la culture suivante. Sa culture s'intègre bien dans un système agricole durable.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Lathyrus sativus § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Lathyrus_sativus#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237563875,
+        "heading": "Toxicité",
+        "text": "La gesse contient un neurotoxique, l'acide oxalyldiaminopropionique (ODAP), un acide aminé qui provoque une paralysie douloureuse et irréversible des jambes accompagnée de tremblements, d'incontinence, le lathyrisme, en cas de forte consommation (plus de 30 % de l'alimentation). Les  symptômes apparaissent environ 3 mois après le début de la forte consommation, le diagnostic est délicat, l’apparition pouvant être lente et évoquer la sclérose en plaques. Le lathyrisme est une pathologie étroitement liée à la pauvreté dans les zones rurales ; de fait la consommation de gesse était généralement réservée aux populations pauvres. Les autorités sanitaires espagnoles ont interdit la récolte et la consommation de gesses en 1944, elle est à nouveau autorisée depuis 2011 comme aliment traditionnel consommé épisodiquement et sous réserve que les gesses ne contiennent pas plus de 0,15 % de βODAP. Le niveau de βODAP est réduit par le trempage et la cuisson dans l'eau bouillante, Désiré Bois écrit que la cuisson complète de la farine de gesse peut empêcher le lathyrisme.[citation nécessaire]\nDepuis les années 2000, diverses recherches sont conduites pour améliorer la gesse et en réduire le niveau de βODAP, et pour comprendre le mécanisme d'adaptation à la sécheresse de la gesse. Une publication parue dans Russian Journal of Genetics 48, numéro 2 (2012) laisse penser que des mutants homogènes sont sur le point d'être sélectionnés, les ressources du génie génétique devraient permettre d'aboutir rapidement, les facteurs affectant le contenu en  β-ODAP ont été décrits en 2011 par des universitaires chinois, le principal est le stress hydrique.",
+        "truncated": true
       }
     }
   },
@@ -212,7 +263,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -300,7 +351,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/501990-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing annual",
@@ -308,7 +359,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/501990-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000212703.webp",
@@ -321,6 +372,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 241,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -24,9 +24,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "pt": [
+      "Louro-amarelo",
+      "Freijó"
+    ],
+    "qu": [
+      "Ahus k'aspi"
+    ],
+    "to": [
+      "Kotia"
+    ],
+    "nl": [
+      "knoflookboom"
+    ],
     "en": [
       "Spanish elm",
       "Manjack"
@@ -39,36 +52,51 @@
     ],
     "zh": [
       "算叶破布木"
-    ],
-    "pt": [
-      "Freijó"
-    ],
-    "qu": [
-      "Ahus k'aspi"
-    ],
-    "to": [
-      "Kotia"
-    ],
-    "nl": [
-      "knoflookboom"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3303753",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3303753",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cordia alliodora」",
+      "source": "Wikipedia (en): Cordia alliodora",
       "source_url": "https://en.wikipedia.org/wiki/Cordia_alliodora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1328517567,
       "text": "Cordia alliodora is a species of flowering tree in the family Cordiaceae, that is native to the American tropics. It is commonly known as Spanish elm, Ecuador laurel, cypre or salmwood. It can reach 35 m in height."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cordia alliodora",
+      "source_url": "https://es.wikipedia.org/wiki/Cordia_alliodora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172020255,
+      "text": "Cordia alliodora es una especie de planta con flor de la familia de las Boraginaceae"
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cordia alliodora",
+      "source_url": "https://fr.wikipedia.org/wiki/Cordia_alliodora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 213684368,
+      "text": "Cordia alliodora est une espèce de plantes à fleurs de la famille des Boraginaceae. C'est un arbre pouvant atteindre une hauteur de 35 mètres en Amérique Centrale et dépasser 50 mètres en Guyane, appartenant à la famille des Boraginacées et d'origine néotropicale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Louro-amarelo",
+      "source_url": "https://pt.wikipedia.org/wiki/Louro-amarelo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205770,
+      "text": "O louro-amarelo é uma árvore neotropical.\nAbrange duas variedades: Cordia alliodora var. glabra A. DC. 1845 e Cordia alliodora var. tomentosa A. DC. 1845."
     }
   },
   "edible": {
@@ -84,7 +112,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -138,7 +166,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/113943-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -146,7 +174,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/113943-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000620227.webp",
@@ -159,6 +187,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

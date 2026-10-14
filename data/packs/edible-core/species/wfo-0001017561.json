@@ -10,28 +10,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "チシマイチゴ"
-    ],
-    "cy": [
-      "llwyn mwyar yr Arctig"
-    ],
-    "en": [
-      "arctic blackberry",
-      "arctic raspberry"
-    ],
-    "ko": [
-      "함경딸기"
-    ],
-    "fi": [
-      "mesimarja"
-    ],
-    "zh": [
-      "大叶蛇泡簕",
-      "北悬钩子"
     ],
     "pam": [
       "Arctic raspberry"
@@ -44,6 +27,9 @@
     ],
     "se": [
       "váđot"
+    ],
+    "fi": [
+      "mesimarja"
     ],
     "de": [
       "Allackerbeere"
@@ -63,17 +49,27 @@
     "nb": [
       "åkerbær"
     ],
+    "zh": [
+      "北悬钩子",
+      "大叶蛇泡簕"
+    ],
     "et": [
       "soomurakas"
     ],
     "ka": [
       "არქტიკული მაყვალი"
     ],
+    "cy": [
+      "Llwyn mwyar yr Arctig"
+    ],
     "cs": [
       "ostružiník arktický"
     ],
     "fa": [
       "تمشک قطبی"
+    ],
+    "ko": [
+      "함경딸기"
     ],
     "vep": [
       "Hebočaine"
@@ -92,33 +88,64 @@
     ],
     "smn": [
       "mietâmyerji"
+    ],
+    "en": [
+      "arctic blackberry",
+      "arctic raspberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q210330",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q210330",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「チシマイチゴ」",
+      "source": "Wikipedia (ja): チシマイチゴ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%B7%E3%83%9E%E3%82%A4%E3%83%81%E3%82%B4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106366826,
       "text": "チシマイチゴはバラ科キイチゴ属の1種およびその果実。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Rubus arcticus」",
+      "source": "Wikipedia (en): Rubus arcticus",
       "source_url": "https://en.wikipedia.org/wiki/Rubus_arcticus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1337176238,
       "text": "Rubus arcticus, the Arctic bramble or Arctic raspberry, Nagoonberry, or nectarberry is a species of slow-growing bramble belonging to the rose family, found in Arctic and alpine regions in the Northern Hemisphere. It has been used to create hybrid cultivated raspberries, the so-called nectar raspberries."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rubus arcticus",
+      "source_url": "https://es.wikipedia.org/wiki/Rubus_arcticus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580984,
+      "text": "El té noruego es una especie de plantas del género Rubus."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rubus arcticus",
+      "source_url": "https://fr.wikipedia.org/wiki/Rubus_arcticus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 219240234,
+      "text": "Rubus arcticus, la Ronce arctique, Framboise arctique ou Framboisier nain, est une espèce de plantes à fleurs de la famille des Rosacées."
+    },
+    "id": {
+      "source": "Wikipedia (id): Rubus arcticus",
+      "source_url": "https://id.wikipedia.org/wiki/Rubus_arcticus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29080022,
+      "text": "Rubus arcticus adalah spesies kesusur berpertumbuhan lambat dari famili mawar yang hidup di wilayah Arktik dan Pegunungan Alpin di Belahan Bumi Utara. Tanaman ini digunakan untuk menghasilkan lembutung hibrida yang dikenal sebagai nectar raspberries. Selain itu, Rubus arcticus menjadi tanaman simbolik provinsi Norrbotten di Swedia bagian utara."
     }
   },
   "edible": {
@@ -132,7 +159,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -186,7 +213,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30013297-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -194,7 +221,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30013297-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001017561.webp",
@@ -207,6 +234,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 255,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

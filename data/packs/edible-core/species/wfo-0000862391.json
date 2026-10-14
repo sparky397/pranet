@@ -19,23 +19,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "male bamboo"
-    ],
-    "zh": [
-      "印度實竹",
-      "牡竹",
-      "绿笋片",
-      "印度实竹"
-    ],
     "pt": [
       "Bambu-maciço"
     ],
     "ml": [
       "കല്ലൻമുള"
+    ],
+    "zh": [
+      "印度实竹",
+      "印度實竹",
+      "牡竹",
+      "绿笋片"
     ],
     "ms": [
       "Buluh sumbiling"
@@ -54,13 +51,16 @@
     ],
     "my": [
       "မျှင်ဝါး"
+    ],
+    "en": [
+      "male bamboo"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q9644921",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q9644921",
   "search_names": {
@@ -72,13 +72,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Dendrocalamus strictus」",
+      "source": "Wikipedia (en): Dendrocalamus strictus",
       "source_url": "https://en.wikipedia.org/wiki/Dendrocalamus_strictus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1343227479,
       "text": "Dendrocalamus strictus is a tropical bamboo species belonging to the Dendrocalamus genus. The culms (stems) are often solid. Common names include male bamboo, solid bamboo, and Calcutta bamboo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dendrocalamus strictus",
+      "source_url": "https://fr.wikipedia.org/wiki/Dendrocalamus_strictus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207968953,
+      "text": "Dendrocalamus strictus, le bambou mâle ou bambou de Calcutta, est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Bambusoideae, originaire du sous-continent indien."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Bambu-maciço",
+      "source_url": "https://pt.wikipedia.org/wiki/Bambu-maci%C3%A7o",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72643602,
+      "text": "O bambu-maciço é uma planta da família das gramíneas. Possui colmos maciços ou com cavidade reduzida, flexíveis e elásticos, folhas lanceoladas, espiguetas em panículas e fruto carióptico, pardo e hirsuto. Espécie originária da Índia e da Birmânia, é considerado um bambo mediano, com altura entre 8 e 20 metros e diâmetro de 2,5 a 8 centímetros. Por ser muito resistente é utilizada na construção de pontes, e suas sementes e raízes são comestíveis. Também é utilizada como fonte de madeira e como matéria prima na indústria de papel."
     }
   },
   "edible": {
@@ -93,7 +111,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -133,7 +151,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/397912-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bamboo",
@@ -141,7 +159,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/397912-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000862391.webp",
@@ -154,6 +172,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

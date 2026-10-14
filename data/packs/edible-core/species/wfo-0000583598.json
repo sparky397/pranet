@@ -15,18 +15,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "マニラエレミ",
       "エレミ"
-    ],
-    "fr": [
-      "élémi de Manille"
-    ],
-    "en": [
-      "elemi tree"
     ],
     "fa": [
       "لامی"
@@ -36,13 +30,19 @@
     ],
     "arz": [
       "كاناريوم لوزونيكوم"
+    ],
+    "fr": [
+      "élémi de Manille"
+    ],
+    "en": [
+      "elemi tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q148430",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q148430",
   "search_names": {
@@ -56,22 +56,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「マニラエレミ」",
+      "source": "Wikipedia (ja): マニラエレミ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%A9%E3%82%A8%E3%83%AC%E3%83%9F",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106376321,
       "text": "マニラエレミは、フィリピンに自生する樹木であり、またその樹木から採れる樹脂のことでもある。単にエレミ (elemi) とも呼ぶが、この呼称ではカナリアノキ などの別種を指す場合もある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Canarium luzonicum」",
+      "source": "Wikipedia (en): Canarium luzonicum",
       "source_url": "https://en.wikipedia.org/wiki/Canarium_luzonicum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372331873,
       "text": "Canarium luzonicum, commonly known as elemi, is a tree native to the Philippines. The oleoresin harvested from it is also known as elemi resin."
+    },
+    "es": {
+      "source": "Wikipedia (es): Canarium luzonicum",
+      "source_url": "https://es.wikipedia.org/wiki/Canarium_luzonicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175282416,
+      "text": "El elemí es un árbol nativo de las islas Filipinas y fuente de la producción de resinas preciosas."
     }
   },
   "edible": {
@@ -84,7 +93,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -96,7 +105,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/127401-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -104,7 +113,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/127401-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000583598.webp",
@@ -117,6 +126,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 333,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -12,45 +12,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Honduras mahogany",
-      "Big Leaf Mahogany",
-      "Big-leaf Mahogany",
-      "Bigleaf Mahogany",
-      "Brazilian Mahogany",
-      "Large-leaved Mahogany"
-    ],
-    "de": [
-      "Amerikanischer Mahagoni"
+    "th": [
+      "มะฮอกกานีใบใหญ่"
     ],
     "eo": [
       "Grandfolia svitenio"
     ],
-    "es": [
-      "Caoba de hoja grande",
-      "Caoba",
-      "Mara",
-      "Mogno"
-    ],
-    "fi": [
-      "Amerikanaitomahonki"
+    "zh": [
+      "大叶桃花心木",
+      "大葉桃花心木"
     ],
     "pt": [
-      "Mogno-do-Brasil",
-      "Mogno"
-    ],
-    "fr": [
-      "Mahogani Grands Feuilles"
-    ],
-    "zh": [
-      "大葉桃花心木",
-      "大叶桃花心木"
-    ],
-    "th": [
-      "มะฮอกกานีใบใหญ่"
+      "Mogno",
+      "Mogno-do-Brasil"
     ],
     "vi": [
       "Nhạc ngựa (cây gỗ)"
@@ -60,6 +37,9 @@
     ],
     "ml": [
       "മഹാഗണി"
+    ],
+    "fi": [
+      "amerikanaitomahonki"
     ],
     "pnb": [
       "ہونڈوراس مہاگنی"
@@ -81,13 +61,33 @@
     ],
     "sl": [
       "Celinski mahagoni"
+    ],
+    "en": [
+      "Honduras mahogany",
+      "Big Leaf Mahogany",
+      "Big-leaf Mahogany",
+      "Bigleaf Mahogany",
+      "Brazilian Mahogany",
+      "Large-leaved Mahogany"
+    ],
+    "de": [
+      "Amerikanischer Mahagoni"
+    ],
+    "es": [
+      "Caoba de hoja grande",
+      "Caoba",
+      "Mara",
+      "Mogno"
+    ],
+    "fr": [
+      "Mahogani Grands Feuilles"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q12955947",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q12955947",
   "search_names": {
@@ -97,13 +97,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Swietenia macrophylla」",
+      "source": "Wikipedia (en): Swietenia macrophylla",
       "source_url": "https://en.wikipedia.org/wiki/Swietenia_macrophylla",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375925931,
       "text": "Swietenia macrophylla, commonly known as mahogany, Honduran mahogany, Honduras mahogany, or big-leaf mahogany is a species of plant in the Meliaceae family. It is one of three species in genus Swietenia that yield genuine mahogany timber, the others being Swietenia mahagoni and Swietenia humilis. It is native to South America, Mexico and Central America, but naturalized in the Philippines, Singapore, Malaysia and Hawaii, and cultivated in plantations and wind-breaks elsewhere."
+    },
+    "es": {
+      "source": "Wikipedia (es): Swietenia macrophylla",
+      "source_url": "https://es.wikipedia.org/wiki/Swietenia_macrophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175399579,
+      "text": "Swietenia macrophylla también llamado caoba de Honduras o caoba de hoja grande, 'aguano' y 'zopilote', es una especie de árboles originaria de la zona intertropical americana perteneciente a la familia de las Meliaceae. Es cultivado como planta ornamental y por su madera que es muy cotizada y utilizada en ebanistería."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Swietenia macrophylla",
+      "source_url": "https://fr.wikipedia.org/wiki/Swietenia_macrophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232468538,
+      "text": "Swietenia macrophylla est une des espèces des plantes à fleurs de la famille des Meliaceae. C'est un arbre aussi appelé acajou du Honduras ou acajou du Brésil, ou encore mahogany grandes feuilles,"
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Swietenia macrophylla",
+      "source_url": "https://pt.wikipedia.org/wiki/Swietenia_macrophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205987,
+      "text": "Swietenia macrophylla King, 1886, conhecida pelos nomes comuns de aguano ou mogno-brasileiro, é uma espécie de árvores pertencente à família Meliaceae, sendo uma das três espécies que produzem as madeiras comercializadas sob o nome de mogno. A espécie tem distribuição natural na região intertropical da América do Sul e América Central, desde o México à Amazónia, mas está naturalizada em Singapura e Hawaii, e é cultivada em plantações distribuídas pelas regiões tropicais de todos os continentes, com destaque para o sul da Ásia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Swietenia macrophylla",
+      "source_url": "https://id.wikipedia.org/wiki/Swietenia_macrophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29884846,
+      "text": "Swietenia macrophylla, yang lebih dikenal sebagai Mahoni, Mahoni Honduras, Mahoni daun besar, atau Mahoni Hindia Barat, adalah sebuah spesies tumbuhan dalam keluarga Meliaceae. Spesies tersebut adalah salah satu dari tiga spesies yang masuk Swietenia, yang lainnya adalah Swietenia mahagoni dan Swietenia humilis. Spesies tersebut berasal dari Amerika Selatan, Meksiko dan Amerika Tengah tetapi dinaturalisasi di Filipina, Singapura dan Hawaii."
     }
   },
   "edible": {
@@ -119,7 +155,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -176,7 +212,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/246905-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -184,7 +220,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/246905-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000505131.webp",
@@ -197,6 +233,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 370,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

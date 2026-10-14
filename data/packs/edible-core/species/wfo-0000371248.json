@@ -28,41 +28,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "マンゴー"
     ],
-    "en": [
-      "mangoso",
-      "Mango"
-    ],
-    "zh": [
-      "檬果",
-      "杧果",
-      "芒果",
-      "杧果（芒果）",
-      "印度芒果",
-      "杧果核",
-      "杧果叶",
-      "忙果树皮",
-      "芒果树"
-    ],
-    "ast": [
-      "mangal"
-    ],
-    "vi": [
-      "xoài"
-    ],
-    "sat": [
-      "ᱩᱞ"
-    ],
-    "sl": [
-      "indijski mangovec"
-    ],
-    "spv": [
-      "ଆମ୍"
+    "fr": [
+      "Manguier"
     ],
     "fi": [
       "mango"
@@ -169,6 +142,9 @@
     "uk": [
       "манго"
     ],
+    "sl": [
+      "indijski mangovec"
+    ],
     "or": [
       "ଆମ୍ବ"
     ],
@@ -189,6 +165,17 @@
     ],
     "ace": [
       "Mamplam"
+    ],
+    "zh": [
+      "芒果树",
+      "檬果",
+      "杧果",
+      "芒果",
+      "杧果（芒果）",
+      "印度芒果",
+      "杧果核",
+      "杧果叶",
+      "忙果树皮"
     ],
     "nah": [
       "Mangocuahuitl"
@@ -253,6 +240,9 @@
     "bho": [
       "मैंगीफेरा इंडिका"
     ],
+    "ast": [
+      "Mangal"
+    ],
     "su": [
       "Manggah"
     ],
@@ -261,6 +251,9 @@
     ],
     "gor": [
       "Oyile"
+    ],
+    "sat": [
+      "ᱩᱞ"
     ],
     "wo": [
       "Màngo"
@@ -324,13 +317,23 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇမူင်ႈ"
+    ],
+    "en": [
+      "mangoso",
+      "Mango"
+    ],
+    "vi": [
+      "xoài"
+    ],
+    "spv": [
+      "ଆମ୍"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3919027",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3919027",
   "search_names": {
@@ -342,36 +345,76 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「マンゴー」",
+      "source": "Wikipedia (ja): マンゴー",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%B4%E3%83%BC",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109843369,
       "text": "マンゴー は、ウルシ科マンゴー属の果樹、またその果実。別名で、菴羅（あんら）、菴摩羅（あんまら）ともいう。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Mangifera indica」",
+      "source": "Wikipedia (en): Mangifera indica",
       "source_url": "https://en.wikipedia.org/wiki/Mangifera_indica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377720715,
       "text": "Mangifera indica, commonly known as the mango after its fruit, is an evergreen species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height and width of 30 m (100 ft). There are two distinct genetic populations in modern mangoes – the \"Indian type\" and the \"Southeast Asian type\"."
+    },
+    "es": {
+      "source": "Wikipedia (es): Mangifera indica",
+      "source_url": "https://es.wikipedia.org/wiki/Mangifera_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172171776,
+      "text": "Mangifera indica, comúnmente mango o melocotón de los trópicos[cita requerida], es una especie arbórea frutal perteneciente a la familia Anacardiaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Manguier",
+      "source_url": "https://fr.wikipedia.org/wiki/Manguier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239123986,
+      "text": "Le Manguier est un arbre de la famille des Anacardiaceae, originaire d'Asie méridionale, largement cultivé dans les pays tropicaux pour son fruit, la mangue."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Mangifera indica",
+      "source_url": "https://pt.wikipedia.org/wiki/Mangifera_indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72716937,
+      "text": "Mangifera indica é uma espécie de planta da família Anacardiaceae, que produz o fruto conhecido como manga. Pode ser encontrada na forma nativa nas florestas do sul e sudeste da Ásia, tendo sido introduzida em várias regiões do Mundo. A espécie foi levada para Ásia em torno de 400-500 aC a partir da Índia; seguindo, no século XV para as Filipinas, sendo levada à África e ao Brasil pelos colonizadores portugueses no século XVI."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Mangifera indica」の節「Toxicity」",
+        "source": "Wikipedia (en): Mangifera indica § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Mangifera_indica#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1379064180,
         "heading": "Toxicity",
         "text": "Urushiols in the fruit peel can trigger contact dermatitis in sensitised individuals. This reaction is more likely to occur in people who have been exposed to other plants from the family Anacardiaceae, such as poison oak and poison ivy, which are widespread in the United States.\nThe wood is known to produce phenolic substances that can cause contact dermatitis.",
         "truncated": false
+      }
+    },
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Manguier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Manguier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239123986,
+        "heading": "Culture",
+        "text": "Le Manguier est souvent propagé par semis en raison de sa forte tendance à la polyembryonie qui facilite le clonage.\nLes Manguiers de semis atteignent leur pleine production vers l'âge de 10 ans (contre 3 à 4 ans pour les arbres greffés) et peuvent produire de façon rentable (en moyenne une centaine par an) durant une bonne vingtaine d'années mais l'arbre peut vivre plus de 100 ans.\n\n■ Les grands systèmes de culture\nLe Manguier est cultivé comme arbre isolé ou en vergers homogènes plus denses. En raison de son fort développement, il est rare que les densités de plantation soient supérieures à 200 pieds/ha. Seules les localisations subtropicales extrêmes[Quoi ?] autorisent 400 plants/ha.\n\n■ L'itinéraire technique et l'élaboration du rendement\n\n■ La propagation des Manguiers\nLes variétés mono-embryonnées ne peuvent être reproduites fidèlement que par greffage. Les variétés poly-embryonnées peuvent être reproduites par semis, mais une dérive du type est toujours possible. Le plant greffé est plus vigoureux et entre en production deux à trois ans plus tôt. Aussi ce mode de multiplication est recommandé.\nIl n'existe que très peu de porte-greffes sélectionnés, généralement ils sont choisis parmi les variétés locales poly-embryonnées pour obtenir des plants homogènes, si possible peu vigoureux (Sabre en Afrique du Sud, Tête de chat en Côte d'Ivoire, Maison Rouge à La Réunion). La graine est mise en germoir puis repiquée dans un sac plastique contenant un mélange terreux riche et drainant. Le plant est greffé en fente de côté ou à l'anglaise. Sous les tropiques, les plants sont prêts en un an. La station CIRAD-FLHOR de Vieux-Habitants en Guadeloupe dispose, en zone saine, d'un important germplasme.",
+        "truncated": true
       }
     }
   },
@@ -391,7 +434,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -502,7 +545,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69913-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -510,7 +553,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69913-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000371248.webp",
@@ -523,6 +566,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 335,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

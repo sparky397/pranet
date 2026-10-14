@@ -8,15 +8,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "bluegreen saltbush"
-    ],
     "zh": [
-      "臺灣濱藜",
-      "大洋洲滨藜"
+      "大洋洲滨藜",
+      "臺灣濱藜"
     ],
     "ar": [
       "رغل دائري"
@@ -29,24 +26,60 @@
     ],
     "mk": [
       "монетна лобода"
+    ],
+    "en": [
+      "bluegreen saltbush"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2708577",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2708577",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Atriplex nummularia」",
+      "source": "Wikipedia (en): Atriplex nummularia",
       "source_url": "https://en.wikipedia.org/wiki/Atriplex_nummularia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1336521178,
       "text": "Atriplex nummularia is a species of saltbush from the family Amaranthaceae and is a large woody shrub known commonly as oldman saltbush. A. nummularia is native to Australia and occurs in each of the mainland states, thriving in arid and semi-arid inland regions."
+    },
+    "es": {
+      "source": "Wikipedia (es): Atriplex nummularia",
+      "source_url": "https://es.wikipedia.org/wiki/Atriplex_nummularia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174388692,
+      "text": "Atriplex nummularia, tiple, es una especie botánica arbustiva forrajera de probada adaptabilidad a aridez y a semiaridez y con buena apetecibilidad y aceptación por el ganado caprino. Originaria de la zona mediterránea árida y semiárida de Australia, con lluvias anuales de 250-600 mm/año."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Atriplex nummularia",
+      "source_url": "https://fr.wikipedia.org/wiki/Atriplex_nummularia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 190999707,
+      "text": "L'arroche nummulaire est une espèce végétale arbustive fourragère de la famille des Amaranthaceae."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Atriplex nummularia § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Atriplex_nummularia#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 190999707,
+        "heading": "Culture",
+        "text": "Les plantes sont multipiées par bouturage ou semis.\nLes graines peuvent être récoltées sur les plantes âgées de deux ans au moins et conservées durant trois ans dans des récipients hermétiques. Il y a environ trois graines viables par gramme. Elles ne doivent pas être plantées à plus de cinq millimètres de profondeur. La température optimale de germination est comprise entre 15 et 20 °C. Le taux de germination est amélioré en frottant les graines sous l'eau courante pendant plusieurs minutes ou en les faisant tremper dans l'eau pendant au moins une heure, afin d'éliminer le sel qu'elles contiennent.\nLes boutures sont réalisées à partir de rameaux de 25 cm de long et d'au moins 6 mm de diamètre. On laisse un œil ou une feuille à l'extrémité du rameau, qui est traité avec une dose d'acide 3-indolebutanoïque (IBA) de 3 g/kg de rameau. Celui-ci est planté dans une terre sablonneuse et arrosé régulièrement. Le nouveau système racinaire apparaît au bout de six semaines. Le repiquage est possible, après dix semaines, dans un mélange 2/5 terre, 2/5 compost et 1/5 sable.\nLes plançons nécessitent un arrosage. Cultivées en pépinières, les plantes sont repiquées en pots, dans lesquels elles demeurent jusqu'à avoir atteint une hauteur suffisante (10 à 15 cm) pour être transplantées sur le terrain, à l'automne ou au début de l'hiver, au début de la saison des pluies. On les plante dans des pâturages clos, en terrain bien drainé et ensoleillé, auxquels les animaux n'ont pas accès. Les sillons sont espacés de deux mètres, et les plançons placés à 1 à 2 m les uns des autres. On obtient des densités de 2 500 à 5 000 plants à l'hectare. La plante est prête à être utilisée comme fourrage la seconde ou la troisième année après la plantation en sol, lorsque sa hauteur atteint 1,5 m.",
+        "truncated": true
+      }
     }
   },
   "edible": {
@@ -60,7 +93,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -96,7 +129,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306691-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -104,7 +137,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306691-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000556344.webp",
@@ -117,6 +150,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 358,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

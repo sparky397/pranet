@@ -13,9 +13,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "cs": [
+      "cykas Thouarsův"
+    ],
+    "zh": [
+      "光果苏铁"
+    ],
+    "arz": [
+      "سيكاس ثوارسى"
+    ],
     "af": [
       "Fahu",
       "Mosambieksikadee",
@@ -39,43 +48,61 @@
     ],
     "uk": [
       "Цикас Туара"
-    ],
-    "zh": [
-      "光果苏铁"
-    ],
-    "cs": [
-      "cykas Thouarsův"
-    ],
-    "arz": [
-      "سيكاس ثوارسى"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1063758",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1063758",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cycas thouarsii」",
+      "source": "Wikipedia (en): Cycas thouarsii",
       "source_url": "https://en.wikipedia.org/wiki/Cycas_thouarsii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1356417461,
       "text": "Cycas thouarsii, the Madagascar cycad, is an evergreen arborescent cycad in the genus Cycas. It is named after the French botanist Louis-Marie Aubert du Petit-Thouars (1758—1831)."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cycas thouarsii",
+      "source_url": "https://es.wikipedia.org/wiki/Cycas_thouarsii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175607335,
+      "text": "Cycas thouarsii es una especie de cícadas del género Cycas. Se desarrolla en lugares húmedos y bien drenados y con sombra parcial de Madagascar, en las Comoras, en las islas Seychelles y en las costa este de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cycas thouarsii",
+      "source_url": "https://fr.wikipedia.org/wiki/Cycas_thouarsii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237449286,
+      "text": "Cycas thouarsii est une espèce de plantes de la famille des Cycadaceae. Elle est nommée en l'honneur du botaniste français Louis Marie Aubert Du Petit-Thouars (1758-1831). Ce cycas est non seulement l'une des plus grandes espèces de Cycadales, mais il est également probablement le plus ancien, existant sans doute depuis 140 millions d'années."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cycas thouarsii",
+      "source_url": "https://pt.wikipedia.org/wiki/Cycas_thouarsii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 61201249,
+      "text": "Cycas thouarsii é uma espécie de cicadófita do género Cycas da família Cycadaceae, nativa do Quénia, Tanzânia, Moçambique, Comores, Madagáscar e Seicheles. Esta espécie tem importância ornamental."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Cycas thouarsii」の節「Cultivation」",
+        "source": "Wikipedia (en): Cycas thouarsii § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Cycas_thouarsii#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1356417461,
         "heading": "Cultivation",
         "text": "As a relatively fast-growing cycad, Cycas thouarsii is occasionally grown in horticulture as a specimen plant. It requires moist but well-drained soil, and will tolerate shade, partial shade, and sun (with sufficient humidity). It is hardy to only a very light frost but can tolerate brief exposure to temperatures down to −3.9 °C (25 °F - USDA hardiness zone 9b) but this results in leaf scorching.",
@@ -93,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -112,7 +139,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/297044-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -120,7 +147,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/297044-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000631682.webp",
@@ -133,6 +160,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

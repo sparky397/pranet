@@ -28,39 +28,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "キンエノコロ"
     ],
     "de": [
-      "Fuchsrote Borstenhirse",
-      "Rote Borstenhirse"
-    ],
-    "en": [
-      "yellow foxtail"
-    ],
-    "zh": [
-      "金色狗尾草"
-    ],
-    "nl": [
-      "Geelrode naaldaar"
-    ],
-    "cs": [
-      "bér sivý"
-    ],
-    "fr": [
-      "sétaire glauque"
-    ],
-    "et": [
-      "vesihaljas kukeleib"
-    ],
-    "fi": [
-      "sinipantaheinä"
-    ],
-    "ast": [
-      "cigua"
+      "Rote Borstenhirse",
+      "Fuchsrote Borstenhirse"
     ],
     "hsb": [
       "Čerwjeny włosanc"
@@ -68,11 +44,26 @@
     "ar": [
       "ذيل الثعلب القزم"
     ],
+    "nl": [
+      "geelrode naaldaar"
+    ],
     "sv": [
       "Grå kavelhirs"
     ],
     "cy": [
       "Cibogwellt melyn"
+    ],
+    "cs": [
+      "bér sivý"
+    ],
+    "ast": [
+      "Cigua"
+    ],
+    "et": [
+      "vesihaljas kukeleib"
+    ],
+    "fi": [
+      "sinipantaheinä"
     ],
     "dag": [
       "Fuukaɣli"
@@ -83,18 +74,27 @@
     "arz": [
       "ذيل الثعلب القزم"
     ],
+    "zh": [
+      "金色狗尾草"
+    ],
     "ml": [
       "കമ്പിളിപ്പുല്ല്"
     ],
     "sl": [
       "sivozeleni muhvič"
+    ],
+    "en": [
+      "yellow foxtail"
+    ],
+    "fr": [
+      "sétaire glauque"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161354",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161354",
   "search_names": {
@@ -105,22 +105,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キンエノコロ」",
+      "source": "Wikipedia (ja): キンエノコロ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%A8%E3%83%8E%E3%82%B3%E3%83%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106358919,
       "text": "キンエノコロは、イネ科エノコログサ属の一種で、一年生植物の雑草である。穂の形がエノコログサとよく似ているが、穂にびっしり生える毛が、黄緑色のエノコログサと異なり、黄色である。その黄色が光を受けるさまを金色と見たのが名の由来である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Setaria pumila」",
+      "source": "Wikipedia (en): Setaria pumila",
       "source_url": "https://en.wikipedia.org/wiki/Setaria_pumila",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373981877,
       "text": "Setaria pumila is a species of grass known by many common names, including yellow foxtail, yellow bristle-grass, pigeon grass, and cattail grass. It is native to Europe, but it is known throughout the world as a common weed. It grows in lawns, sidewalks, roadsides, cultivated fields, and many other places. This annual grass grows 20 centimetres to well over 1 metre in height, its mostly hairless stems ranging from green to purple-tinged in color. The leaf blades are sparsely to barely covered in hair, twisting, and up to 30 centimetres long. The inflorescence is a stiff, cylindrical bundle of spikelets 2 to 15 centimetres long with short, blunt bristles. The panicle may appear yellow or yellow-tinged."
+    },
+    "es": {
+      "source": "Wikipedia (es): Setaria pumila",
+      "source_url": "https://es.wikipedia.org/wiki/Setaria_pumila",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 149893543,
+      "text": "Setaria pumila es una especie de hierba conocida por muchos nombres comunes, incluidos cola de zorra amarilla, hierba de cerdas amarillas, hierba de paloma y hierba de totora. Es originaria de Europa, pero es conocida en todo el mundo como una mala hierba común. Crece en prados, aceras, bordes de carreteras, campos cultivados y muchos otros lugares."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Setaria helvola",
+      "source_url": "https://fr.wikipedia.org/wiki/Setaria_helvola",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 203222984,
+      "text": "Setaria helvola, la sétaire glauque ou sétaire naine, est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Panicoideae, originaire des régions tropicales et tempérées chaudes de l'Ancien Monde.\nCe sont des plantes herbacées annuelle, cespiteuses, aux tiges (chaumes) géniculées pouvant atteindre 130 cm de long, et aux inflorescences en panicules spiciformes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Setaria pumila",
+      "source_url": "https://pt.wikipedia.org/wiki/Setaria_pumila",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 40549371,
+      "text": "Setaria pumila é uma espécie de planta com flor pertencente à família Poaceae."
     }
   },
   "edible": {
@@ -135,7 +162,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -379,7 +406,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/421764-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -387,7 +414,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/421764-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000899491.webp",
@@ -400,6 +427,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

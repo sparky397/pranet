@@ -16,28 +16,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "チリヤシ",
       "チリサケヤシ"
     ],
-    "en": [
-      "Chile cocopalm"
-    ],
-    "es": [
-      "Palma Chilena",
-      "Palma de Coguitos",
-      "Palma de Miel",
-      "Palmera Chilena"
-    ],
-    "zh": [
-      "智利椰子",
-      "智利酒棕榈"
+    "fr": [
+      "Cocotier du Chili"
     ],
     "pt": [
       "Palmeira-do-chile"
+    ],
+    "id": [
+      "Palem anggur Chili"
     ],
     "szl": [
       "Jubyjo"
@@ -66,6 +59,10 @@
     "nb": [
       "Chilensk vinpalme"
     ],
+    "zh": [
+      "智利酒棕榈",
+      "智利椰子"
+    ],
     "gl": [
       "Palmeira de Chile"
     ],
@@ -87,9 +84,6 @@
     "sq": [
       "Kokosi i Kilit"
     ],
-    "id": [
-      "Palem anggur Chili"
-    ],
     "fa": [
       "نخل نارگیلی شیلی"
     ],
@@ -104,13 +98,22 @@
     ],
     "arn": [
       "Lilla"
+    ],
+    "en": [
+      "Chile cocopalm"
+    ],
+    "es": [
+      "Palma Chilena",
+      "Palma de Coguitos",
+      "Palma de Miel",
+      "Palmera Chilena"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q290967",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q290967",
   "search_names": {
@@ -125,22 +128,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「チリヤシ」",
+      "source": "Wikipedia (ja): チリヤシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA%E3%83%A4%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109874172,
       "text": "チリヤシ、チリーヤシ、ジュベアヤシ は、ヤシ科に属する植物の一種である。チリヤシ属（ちりやしぞく）あるいはジュベアヤシ属 の唯一の種。南アメリカ南西部の南緯32-35度（チリ中央部）の固有種で、コキンボ州南部、バルパライソ州、首都州、オイギンス州、マウレ州北部に自生する。自然分布域において、若木は成木の近くの日当たりの良く植生のある場所を好む。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Jubaea」",
+      "source": "Wikipedia (en): Jubaea",
       "source_url": "https://en.wikipedia.org/wiki/Jubaea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369932434,
       "text": "Jubaea is a genus of palms with one species, Jubaea chilensis, commonly known in English as the Chilean wine palm or Chile cocopalm, and palma chilena in Spanish. It is native to southwestern South America and is endemic to a small area of central Chile between 32°S and 35°S in southern Coquimbo, Valparaíso, Santiago, O'Higgins, and northern Maule regions."
+    },
+    "es": {
+      "source": "Wikipedia (es): Jubaea chilensis",
+      "source_url": "https://es.wikipedia.org/wiki/Jubaea_chilensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173859035,
+      "text": "Jubaea chilensis, llamada comúnmente palma chilena, es la única especie viviente del género monotípico Jubaea, que se incluye dentro de la familia Arecaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cocotier du Chili",
+      "source_url": "https://fr.wikipedia.org/wiki/Cocotier_du_Chili",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240072286,
+      "text": "Le cocotier du Chili, palmier du Chili ou jubéa, Jubaea chilensis, est une espèce de plantes monocotylédones de la famille des palmiers (Arecaceae). C'est la seule espèce actuellement acceptée au sein du genre Jubaea. Jubaea chilensis est un palmier à feuilles pennées proche d’une lignée de genres distribués exclusivement dans l’hémisphère sud. L’origine de ce groupe se situe en Afrique (Jubaeopsis) pour se poursuivre à l’est vers Madagascar (Voanioala), la Mélanésie (Cocos), le Chili (Jubaea), la Bolivie (Parajubaea), et enfin pour s'achever au Sud du Brésil. Son nom lui est donné en l’honneur du roi savant Juba II, qui règne sur la Maurétanie et qui s’intéresse à la botanique. L’épithète spécifique, chilensis, se réfère au nom du pays d'origine de l’espèce, le Chili."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Palmeira-do-chile",
+      "source_url": "https://pt.wikipedia.org/wiki/Palmeira-do-chile",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70153004,
+      "text": "Palmeira-do-chile ou palma-chilena, é o nome comum da espécie Jubaea chilensis (Molina) Baill., uma planta da família das Arecaceae que constitui a única espécie do género monotípico Jubaea.\nÉ nativa da região central do Chile, onde é endémica numa pequena área entre as coordenadas 32°S e 35°S nas regiões do sul do Coquimbo, Valparaíso, Santiago, O'Higgins e norte de Maule. A palmeira-do-chile é a mais corpulenta das palmeiras, podendo atingir 25 m de altura, com a estipa a chegar por vezes aos 5 metros de circunferência junto ao solo. É de crescimento muito lento, não florindo antes dos 60 anos de idade. Crê-se que é a palmeira de folhas pinadas mais resistente ao frio, sobrevivendo à exposição prolongada a temperaturas entre −12 °C e −15 °C.\nDurante muito tempo pensou-se que a extinta palmeira da Ilha da Páscoa pertencia a este género, sendo actualmente considerada distinta deste e colocada no seu próprio género, Paschalococos. No entanto, estudos genéticos que demonstram que as sementes da palmeira Jubaea na costa chilena tem as mesmas características das palmeiras encontradas na Ilha de Páscoa. (Fonte: Grau, Juan \"Jubaea, The Palm of Chile qnd Easter Island?\", Rapa Nui Jornal: Jornal of the Easter Island Foundation: Vol. 10 : Isso. 2, Article 3."
+    },
+    "id": {
+      "source": "Wikipedia (id): Palem anggur Chili",
+      "source_url": "https://id.wikipedia.org/wiki/Palem_anggur_Chili",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29677037,
+      "text": "Palem anggur Chili adalah tanaman jenis palem-paleman (falmae) asli Chili, disrtribusi tumbuhan ini tersebar didaerah amerika selatan, banyak dibudidayakan di negara-negara yang beriklim hangat. Palem anggur Chili dapat tumbuh hingga ketinggian 30 meter, dengan diameter batang pohon mencapai 1 meter atau lebih."
     }
   },
   "edible": {
@@ -152,7 +191,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -162,7 +201,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/131713-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -170,7 +209,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/131713-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000220212.webp",
@@ -183,6 +222,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

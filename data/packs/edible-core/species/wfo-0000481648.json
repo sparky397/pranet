@@ -23,65 +23,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヨーロッパアカマツ"
     ],
-    "en": [
-      "Scots Pine"
-    ],
     "fr": [
       "Pin sylvestre"
-    ],
-    "de": [
-      "Waldkiefer",
-      "Föhre",
-      "Wald-Kiefer",
-      "Gewöhnliche Kiefer",
-      "Rot-Kiefer"
-    ],
-    "pl": [
-      "sosna zwyczajna"
-    ],
-    "es": [
-      "pino silvestre"
-    ],
-    "fi": [
-      "metsämänty",
-      "mänty"
-    ],
-    "et": [
-      "harilik mänd"
-    ],
-    "cs": [
-      "borovice lesní"
-    ],
-    "nl": [
-      "Grove den"
-    ],
-    "sk": [
-      "Borovica lesná",
-      "borovica sosnová"
-    ],
-    "zh": [
-      "欧洲赤松"
-    ],
-    "ast": [
-      "pinu roxu"
-    ],
-    "sl": [
-      "rdeči bor"
-    ],
-    "io": [
-      "reda pino"
     ],
     "eu": [
       "Pinu gorri"
     ],
+    "pl": [
+      "sosna zwyczajna"
+    ],
     "hu": [
       "erdeifenyő"
+    ],
+    "et": [
+      "harilik mänd"
     ],
     "el": [
       "Δασική πεύκη"
@@ -91,6 +52,9 @@
     ],
     "sv": [
       "tall"
+    ],
+    "nl": [
+      "grove den"
     ],
     "ar": [
       "صنوبر بري"
@@ -113,11 +77,18 @@
     "se": [
       "beahci"
     ],
+    "fi": [
+      "mänty",
+      "metsämänty"
+    ],
     "uk": [
       "сосна звичайна"
     ],
     "nn": [
       "furu"
+    ],
+    "io": [
+      "Reda pino"
     ],
     "az": [
       "Adi şam"
@@ -143,17 +114,34 @@
     "gl": [
       "Piñeiro rubio"
     ],
+    "de": [
+      "Waldkiefer",
+      "Föhre",
+      "Wald-Kiefer",
+      "Gewöhnliche Kiefer",
+      "Rot-Kiefer"
+    ],
     "koi": [
       "Миян пожум"
     ],
     "hsb": [
       "Pěskowa chójna"
     ],
+    "sk": [
+      "borovica sosnová",
+      "Borovica lesná"
+    ],
     "cv": [
       "Хырă"
     ],
     "ca": [
       "pi roig"
+    ],
+    "sl": [
+      "rdeči bor"
+    ],
+    "cs": [
+      "borovice lesní"
     ],
     "sgs": [
       "Pošės"
@@ -169,6 +157,9 @@
     ],
     "lt": [
       "Paprastoji pušis"
+    ],
+    "zh": [
+      "欧洲赤松"
     ],
     "sr": [
       "бели бор"
@@ -271,13 +262,22 @@
     ],
     "th": [
       "สนสกอต"
+    ],
+    "en": [
+      "Scots Pine"
+    ],
+    "es": [
+      "pino silvestre"
+    ],
+    "ast": [
+      "pinu roxu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q133128",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q133128",
   "search_names": {
@@ -289,22 +289,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヨーロッパアカマツ」",
+      "source": "Wikipedia (ja): ヨーロッパアカマツ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%82%A2%E3%82%AB%E3%83%9E%E3%83%84",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111315347,
       "text": "ヨーロッパアカマツ は、マツ科マツ属の針葉樹で、ユーラシア大陸に広く分布する二葉松の1種である。和名ではセイヨウアカマツ、オウシュウアカマツともよばれる。形態は日本のアカマツによく似ている。木材としてはレッドパイン、ノルウェーパイン、スコッチパイン、リガパインなどと呼称される。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pinus sylvestris」",
+      "source": "Wikipedia (en): Pinus sylvestris",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_sylvestris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375584274,
       "text": "Pinus sylvestris is a species of conifer, a pine, in the family Pinaceae. It is native to Eurasia. It is known as the Scots pine in English, alternatively as the Scotch pine in the United States, and occasionally the Baltic pine or European red pine. It can readily be identified by its combination of fairly short, blue-green leaves and orange-red bark."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus sylvestris",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_sylvestris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174829224,
+      "text": "El pino silvestre, también conocido como pino de Valsaín, pino serrano, pino albar, pino del Norte, pino rojo o pino bermejo, es una especie arbórea que pertenece a la familia Pinaceae, género Pinus. Esta conífera, que puede alcanzar los 30 m de altura, crece ampliamente por toda Eurasia. Las referencias al color rojo o bermejo se debe a su corteza, de un rojo subido en la parte alta del tronco, y pardorrojiza en la parte inferior."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pin sylvestre",
+      "source_url": "https://fr.wikipedia.org/wiki/Pin_sylvestre",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237940473,
+      "text": "Le Pin sylvestre est une espèce d'arbres de la famille des Pinaceae originaire d'Europe moyenne et septentrionale, d'Asie du Nord jusqu'en Sibérie orientale, ainsi que des montagnes du nord du Moyen-Orient. C'est une espèce à grande amplitude écologique et climatique, notamment l'une des plus importantes de la forêt boréale d'Eurasie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus sylvestris",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_sylvestris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73050773,
+      "text": "Pinus sylvestris, conhecido popularmente como pinheiro-de-casquinha, é uma espécie de pinheiro originária do Velho Mundo, mais precisamente da região da Eurásia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pinus sylvestris",
+      "source_url": "https://id.wikipedia.org/wiki/Pinus_sylvestris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29729655,
+      "text": "Pinus sylvestris, pinus skotlandia, pinus baltik, atau pinus merah eropa adalah spesies pohon dalam keluarga pinus Pinaceae yang berasal dari Eurasia. Tanaman ini mudah dikenali dari kombinasi daunnya yang pendek, berwarna biru kehijauan, dan kulit batang berwarna oranye-merah."
     }
   },
   "edible": {
@@ -320,7 +356,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -389,7 +425,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/263353-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -397,7 +433,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/263353-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000481648.webp",
@@ -410,6 +446,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 308,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -15,22 +15,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ベルノキ"
     ],
-    "en": [
-      "Indian bael",
-      "bel fruit",
-      "bael fruit of India"
-    ],
-    "zh": [
-      "木橘",
-      "箭杆七",
-      "硬皮橘",
-      "印度枳"
+    "id": [
+      "Maja"
     ],
     "jv": [
       "Maja"
@@ -55,9 +47,6 @@
     ],
     "de": [
       "Bengalische Quitte"
-    ],
-    "id": [
-      "Maja"
     ],
     "ml": [
       "കൂവളം"
@@ -127,6 +116,12 @@
     ],
     "cs": [
       "oslizák líbezný"
+    ],
+    "zh": [
+      "木橘",
+      "箭杆七",
+      "硬皮橘",
+      "印度枳"
     ],
     "as": [
       "বেল"
@@ -202,13 +197,18 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇပိၼ်း"
+    ],
+    "en": [
+      "Indian bael",
+      "bel fruit",
+      "bael fruit of India"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q234126",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q234126",
   "search_names": {
@@ -226,35 +226,84 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ベルノキ」",
+      "source": "Wikipedia (ja): ベルノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109575204,
       "text": "ベルノキ とは、ミカン科ミカン亜科の落葉高木の一種である。原産地はインドおよびバングラデシュである。食用となるが何らかの調理・加工をして食べる方法が目立ち 、薬用植物としては特に下痢によく効くものとして知られている。また特徴である3出の葉や果実などに関して、ヒンドゥー教ではシヴァ神や時にラクシュミー神などと結びついた逸話がいくつも存在し聖なる木として知られ、サンスクリットによる文献にもビルヴァ などの名で度々現れる。原産地においてはベルノキにちなんだことわざもいくつか存在する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Aegle marmelos」",
+      "source": "Wikipedia (en): Aegle marmelos",
       "source_url": "https://en.wikipedia.org/wiki/Aegle_marmelos",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372677019,
       "text": "Aegle marmelos, commonly known as bael, also Bengal quince, golden apple, Japanese bitter orange, stone apple or wood apple, is a species of tree native to the Indian subcontinent and Southeast Asia. It is present in India, Pakistan, Bangladesh, Sri Lanka, and Nepal as a naturalized species. The tree is considered to be sacred by Hindus and Buddhists. Bael is the only member of the monotypic genus Aegle."
+    },
+    "es": {
+      "source": "Wikipedia (es): Aegle marmelos",
+      "source_url": "https://es.wikipedia.org/wiki/Aegle_marmelos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174598864,
+      "text": "Aegle marmelos es una especie de árbol perteneciente a la familia de las rutáceas. Es originario de Asia. El fruto es denominado Bilva, Sriphal o fruto del Shivadruma in Sancrito, Bel o Bael en Hindú, o Membrillo de Bengala o Marmelo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Aegle marmelos",
+      "source_url": "https://fr.wikipedia.org/wiki/Aegle_marmelos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238534991,
+      "text": "Aegle marmelos, le Cognassier du Bengale, appelé entre autres Maja ou Bael dans ses régions d'origine, est une espèce d'arbres de la famille des Rutaceae. C'est l'unique espèce du genre Aegle. C'est un arbre aromatique et épineux de taille moyenne et c'est arbre fruitier."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Aegle marmelos",
+      "source_url": "https://pt.wikipedia.org/wiki/Aegle_marmelos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70529840,
+      "text": "Aegle marmelos é uma árvore da família das Rutaceas, nativa de Bangladesh e Índia. Posteriormente foi introduzida no Sudeste da Ásia. A árvore é considerada sagrada pelos Hindus."
+    },
+    "id": {
+      "source": "Wikipedia (id): Maja",
+      "source_url": "https://id.wikipedia.org/wiki/Maja",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29984735,
+      "text": "Maja adalah tumbuhan berbentuk pohon yang tahan lingkungan keras tetapi mudah luruh daunnya dan berasal dari daerah Asia tropika dan subtropika. Tanaman ini biasanya dibudidayakan di pekarangan tanpa perawatan dan dipanen buahnya. Maja masih berkerabat dekat dengan kawista. Di Bali dan Lombok dikenal sebagai bila dan di India dikenal sebagai bael. Di Pulau Jawa, maja sering kali dikacaukan dengan berenuk, meskipun keduanya adalah jenis yang berbeda."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Aegle marmelos」の節「Toxicity」",
+        "source": "Wikipedia (en): Aegle marmelos § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Aegle_marmelos#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1372677019,
         "heading": "Toxicity",
         "text": "Aegeline is a known constituent of the bael leaf and consumed as a dietary supplement with the intent to produce weight loss. In 2013, the U.S. Food and Drug Administration (FDA), Centers for Disease Control and Prevention (CDC), the Department of Defense Armed Forces Health Surveillance Center, and Hawaii state and local health officials identified an outbreak of 97 persons with acute non-viral hepatitis that first emerged in Hawaii. Seventy-two of these persons had reported using the dietary supplement OxyElite Pro, containing aegeline, which was manufactured by the Dallas-based company USPlabs. FDA had previously taken action against an earlier formulation of OxyElite Pro because it contained dimethylamylamine, a stimulant that FDA had determined to be an adulterant when included in dietary supplements, and could cause high blood pressure and lead to heart attacks, seizures, psychiatric disorders, and death. USPlabs subsequently reformulated this product without informing the FDA or submitting the required safety data for a new dietary ingredient.\nDoctors at the Liver Center at The Queen's Medical Center investigating the first cases in Hawaii reported that between May and September 2013, eight previously healthy individuals presented themselves at their center suffering from a drug-induced liver injury. All of these patients had been using the reformulated OxyElite Pro, which they had purchased from different sources, and which had different lot numbers and expiration dates, at doses within the manufacturer's recommendation. Three of these patients developed fulminant liver failure, two underwent urgent liver transplantation, and one died. The number of such cases ultimately rose to 44 in Hawaii.",
+        "truncated": true
+      }
+    },
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Aegle marmelos § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Aegle_marmelos#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238534991,
+        "heading": "Culture",
+        "text": "Il exige une saison sèche prolongée pour fructifier. Par exemple il ne porte pas de fruit au sud de la Malaisie.\nIl supporte tous types de sol depuis les sols saturés d'eaux jusqu'aux sol secs, de pH 5 à 8, sols riches et profonds aussi bien que pauvres et rocheux ou argileux. En Inde, on dit qu'il pousse là ou aucun autre arbre ne peut vivre.\nCes exigences en températures sont très larges. Au Punjab, il pousse jusqu'à 1 200 m d'altitude où les températures atteignent jusqu'à 50 °C à l'ombre en été et peuvent descendre jusqu'à −8 °C en hiver.\nLe mode de propagation le plus courant est le semis en pépinières et la transplantation en verger bien que les arbres ainsi obtenus aient des fruits très variables en tailles et formes, quantité et qualité de la pulpe et saveurs variables de désagréable à très bonne. Le marcottage aérien ou le bouturage de racine est parfois pratiqué pour les cultivars de bonne qualité.\nBien que des essais très concluants de greffage aient été tentés, celui-ci reste peu pratiqué. Le pourcentage de réussite est de 80-95 % avec des pousses de 1 mois sur des porte-greffes de 2 ans au mois de juin. Des greffages expérimentaux ont été couronnés de succès sur Afraegle gabonensis, Swinglea glutinosa, Aeglopsis chevalieri.\nEn verger, les espacements pratiqués sont de 6-9 m. Les arbres de semis fructifient au bout de 6-7 ans, la propagation végétative donne des fruits au bout de 5 ans. L'arbre est en pleine production au bout de 15 ans.\nEn Inde, les fleurs éclosent d'avril à juillet suivies des jeunes feuilles et les fruits sont mûrs 10 à 11 mois après, de mars à juin de l'année suivante.",
         "truncated": true
       }
     }
@@ -274,7 +323,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -302,7 +351,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/770819-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -310,7 +359,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/770819-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000521533.webp",
@@ -323,6 +372,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -10,15 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Ilama"
-    ],
-    "zh": [
-      "异叶番荔枝"
-    ],
     "de": [
       "Ilama"
     ],
@@ -57,37 +51,63 @@
     ],
     "el": [
       "Αννώνη η ποικιλόφυλλος"
+    ],
+    "zh": [
+      "异叶番荔枝"
+    ],
+    "en": [
+      "Ilama"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1576933",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1576933",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Annona macroprophyllata」",
+      "source": "Wikipedia (en): Annona macroprophyllata",
       "source_url": "https://en.wikipedia.org/wiki/Annona_macroprophyllata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1346247979,
       "text": "Annona macroprophyllata is a species of plant in the family Annonaceae. It is native to El Salvador, Guatemala, Honduras, and central and southern Mexico. John Donnell Smith, the American botanist who first formally described the species, named it after its large leaves."
+    },
+    "es": {
+      "source": "Wikipedia (es): Annona macroprophyllata",
+      "source_url": "https://es.wikipedia.org/wiki/Annona_macroprophyllata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174641131,
+      "text": "Annona macroprophyllata, llamado comúnmente ilama o anona en El Salvador, es una especie frutal perteneciente a la familia Annonaceae distribuida por América Central. Su fruto se considera uno de los más ricos de la familia, ya que su sabor es comparable con el del mango. La ilama es la fruta anonácea más fina que se puede cultivar en las tierras bajas de los trópicos. La ilama puede denominarse la chirimoya de las tierras bajas."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Annona macroprophyllata」の節「Cultivation」",
+        "source": "Wikipedia (en): Annona macroprophyllata § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Annona_macroprophyllata#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1346247979,
         "heading": "Cultivation",
         "text": "Fruit harvest of the ilama tree occurs in late June in Mexico, and only lasts about two weeks. In Guatemala, the harvest season extends from late July to September, and from July to December where the ilama is cultivated in Florida.\nAccording to tradition, the fruits are not to be picked until cracking occurs, but they can be picked a little earlier and held up to three days for softening to take place. If the ilama is picked too early, it will never ripen. The yield of the ilama is typically low. During the normal fruiting period, some trees will have no fruits; others only three to 10, while exceptional trees may bear as many as 85 to 100 fruits per season.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Annona macroprophyllata § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Annona_macroprophyllata#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174641131,
+        "heading": "Cultivo",
+        "text": "El árbol se adapta a diferentes tipos de suelos.\nEn El Salvador se cultiva a una altitud de hasta 1.524 m s. n. m. y hasta 1.800 en Guatemala.\nParece crecer mejor cuando hay una larga estación seca, seguida de abundantes lluvias.\nEn las zonas donde la lluvia es escasa, los árboles deben ser regados.\nLa cosecha se inicia a finales de junio en México, durante el periodo normal de fructificación, algunos árboles no producen frutos, y otros producen de 3 a 10.\n\nPropagación\nLas semillas permanecen latentes durante varias semanas o incluso meses, y posteriormente la tasa de germinación es baja. Los árboles empiezan a producir entre los 3 y 5 años de edad.",
         "truncated": false
       }
     }
@@ -100,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -118,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/14297-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -126,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/14297-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000537829.webp",
@@ -139,6 +159,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

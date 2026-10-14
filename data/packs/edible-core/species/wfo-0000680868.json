@@ -21,59 +21,88 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Cotton Ball Cactus",
-      "Peruvian Old Man",
-      "Snowball Cactus",
-      "Snowball Old Man"
+    "fa": [
+      "کاکتوس سفیدبرفی"
+    ],
+    "arz": [
+      "اسبوستوا لاناتا"
     ],
     "zh": [
       "老乐柱",
       "白乐翁",
       "老乐"
     ],
+    "en": [
+      "Cotton Ball Cactus",
+      "Peruvian Old Man",
+      "Snowball Cactus",
+      "Snowball Old Man"
+    ],
     "nl": [
       "wollige pruikcactus"
-    ],
-    "fa": [
-      "کاکتوس سفیدبرفی"
-    ],
-    "arz": [
-      "اسبوستوا لاناتا"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1368378",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1368378",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Espostoa lanata」",
+      "source": "Wikipedia (en): Espostoa lanata",
       "source_url": "https://en.wikipedia.org/wiki/Espostoa_lanata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1327487408,
       "text": "Espostoa lanata is a species of cactus of the genus Espostoa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Espostoa lanata",
+      "source_url": "https://es.wikipedia.org/wiki/Espostoa_lanata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174418758,
+      "text": "Espostoa lanata es una especie de planta suculenta perteneciente al género Espostoa, dentro de la familia Cactaceae. Se distribuye desde el sur de Ecuador hasta el norte de Perú."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Espostoa lanata",
+      "source_url": "https://fr.wikipedia.org/wiki/Espostoa_lanata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 212200237,
+      "text": "Espostoa lanata est une espèce de plantes à fleurs du genre Espostoa de la famille des Cactaceae."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Espostoa lanata」の節「Cultivation」",
+        "source": "Wikipedia (en): Espostoa lanata § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Espostoa_lanata#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1327487408,
         "heading": "Cultivation",
         "text": "Source : \nEspostoa lanata is easy to grow. It needs fertile and well-drained soil. In summer, water the plants well but allow them to dry before watering again. Use monthly a fertilizer for cacti.\nIn winter, keep it dry and the temperature may be as low as −12 °C, but it is better to keep it without frost.\nThe exposure must be sunny in summer and at least luminous in winter.\nIn favorable conditions (sun, water, large place), it can grow 20 cm every year.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Espostoa lanata § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Espostoa_lanata#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 212200237,
+        "heading": "Culture",
+        "text": "Espostoa lanata est facile à cultiver. Il demande un sol fertile et bien drainé. En été, il faut l'arroser largement, puis attendre que la plante sèche avant d'arroser de nouveau. Il faut utiliser une fois par mois un engrais pour cactus.\nIl est nécessaire de le garder au sec en hiver européen et la température peut descendre jusqu'à -12 °C, mais il est préférable de le garder hors gel. L'exposition doit être ensoleillée en été et au moins claire en hiver.\nDans des conditions favorables (ensoleillement, arrosage, suffisamment de place), il peut croître de 20 cm par an.",
         "truncated": false
       }
     }
@@ -87,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -98,7 +127,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/97828-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent shrub",
@@ -106,7 +135,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/97828-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000680868.webp",
@@ -119,6 +148,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

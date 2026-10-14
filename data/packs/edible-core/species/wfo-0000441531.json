@@ -12,16 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "casa banana"
-    ],
-    "zh": [
-      "香蕉瓜",
-      "麝香瓜"
-    ],
     "mrj": [
       "Кассабанана"
     ],
@@ -43,39 +36,64 @@
     "ko": [
       "시카나"
     ],
+    "zh": [
+      "麝香瓜",
+      "香蕉瓜"
+    ],
     "arz": [
       "سيكانا اوديوريفيرا"
     ],
     "gn": [
       "Kurugua"
+    ],
+    "en": [
+      "casa banana"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311081",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311081",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sicana odorifera」",
+      "source": "Wikipedia (en): Sicana odorifera",
       "source_url": "https://en.wikipedia.org/wiki/Sicana_odorifera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354564086,
       "text": "Sicana odorifera is a fast-growing, tropical herbaceous perennial vine in the gourd family, native to tropical South America and prized for its large, cylindrical fruits that can reach two feet in length. English names include cassabanana or casbanan, sikana, puttigel and musk cucumber."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sicana odorifera",
+      "source_url": "https://es.wikipedia.org/wiki/Sicana_odorifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 161401957,
+      "text": "Sicana odorifera (Naud), conocida como curuguá o curuguay o cassabanana. En Brasil, es llamado cruá o melão caboclo, calabaza melona, cajú, cajuba, o cajúa (Venezuela), pabi (Bolivia), pepino angolo, cohombro o melocotón en suroccidente (Guatemala), jirón (Ecuador), Girón (Colombia-Santander) melocotón de costa, calabaza de olor. Planta trepadora herbácea, típica enredadera cucurbitácea perenne, de hasta 15 metros de altura. Es de tallo anguloso, surcado, pubescente en las partes jóvenes; tiene zarcillos; hojas orbiculares de 12 a 24 cm de largo y del mismo ancho, onduladas, nervadas, dentadas, glabras y con las lobulaciones profundas; flores campanuladas, solitarias, axilares, corola carnosa amarillo naranja."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sicana odorifera",
+      "source_url": "https://fr.wikipedia.org/wiki/Sicana_odorifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240031877,
+      "text": "Sicana odorifera est une espèce de plante à fleurs de la famille des Cucurbitaceae. C'est une plante herbacée grimpante originaire d'Amérique du Sud. C'est l'unique espèce du genre Sicana. Elle est cultivée dans la plupart des pays d'Amérique tropicale à des fins alimentaires ou ornementales."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Sicana odorifera」の節「Cultivation」",
+        "source": "Wikipedia (en): Sicana odorifera § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Sicana_odorifera#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1354564086,
         "heading": "Cultivation",
         "text": "It is propagated by seeds. It is grown widely in the warm parts of Latin America, as well as by the Cajun people of the Southern United States. It needs good drainage to grow well, and does well on an acidic mix of sand (or perlite) and rich compost.",
@@ -93,7 +111,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -115,7 +133,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/293902-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climber",
@@ -123,7 +141,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/293902-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000441531.webp",
@@ -136,6 +154,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 235,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

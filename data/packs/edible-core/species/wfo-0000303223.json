@@ -14,11 +14,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Mangrove"
+    "id": [
+      "Api-api ludat"
     ],
     "vi": [
       "mắm đen"
@@ -53,29 +53,56 @@
     "ar": [
       "قرام"
     ],
-    "id": [
-      "Api-api ludat"
-    ],
     "fa": [
       "حرای هندی"
+    ],
+    "en": [
+      "Mangrove"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q150558",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q150558",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Avicennia officinalis」",
+      "source": "Wikipedia (en): Avicennia officinalis",
       "source_url": "https://en.wikipedia.org/wiki/Avicennia_officinalis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1331782867,
       "text": "Avicennia officinalis is a species of mangrove also known as Indian mangrove. The genus Avicennia is named after the famous Persian scientist Ibn Sina."
+    },
+    "es": {
+      "source": "Wikipedia (es): Avicennia officinalis",
+      "source_url": "https://es.wikipedia.org/wiki/Avicennia_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174787078,
+      "text": "Avicennia officinalis es una especie de manglar perteneciente a la familia Acanthaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Avicennia officinalis",
+      "source_url": "https://pt.wikipedia.org/wiki/Avicennia_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71068509,
+      "text": "A Avicennia officinalis L., conhecida popularmente por mangue indiano ou mangue cinza, é uma espécie vegetal de mangue do tipo angiosperma, ou seja, que possuem sementes protegidas por frutos, e do gênero Avicennia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Api-api ludat",
+      "source_url": "https://id.wikipedia.org/wiki/Api-api_ludat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28515031,
+      "text": "Avicennia officinalis adalah spesies api-api yang juga dikenal sebagai api-api ludat atau api-api daun lebar."
     }
   },
   "edible": {
@@ -90,7 +117,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -120,7 +147,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/861138-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -128,7 +155,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/861138-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000303223.webp",
@@ -141,6 +168,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 312,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

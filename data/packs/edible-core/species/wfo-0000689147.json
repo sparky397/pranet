@@ -35,12 +35,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Lagos rubbertree"
-    ],
     "fi": [
       "keltaviikuna"
     ],
@@ -49,24 +46,45 @@
     ],
     "af": [
       "Reuseblaarvy"
+    ],
+    "en": [
+      "Lagos rubbertree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3071419",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3071419",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ficus lutea」",
+      "source": "Wikipedia (en): Ficus lutea",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_lutea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373306143,
       "text": "Ficus lutea is a medium to large sized deciduous tree in the family Moraceae. It is commonly known as the giant-leaved fig or Lagos rubbertree. These trees occur across Tropical Africa to KwaZulu-Natal in South Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ficus lutea",
+      "source_url": "https://es.wikipedia.org/wiki/Ficus_lutea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 169721839,
+      "text": "Ficus lutea es un árbol caducifolio de tamaño mediano a grande de la familia Moraceae. Se le conoce comúnmente como higuera de hojas gigantes, higuera gigante o árbol del caucho de Lagos. Estos árboles se encuentran desde el Cabo Oriental de Sudáfrica hasta el África tropical."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ficus lutea",
+      "source_url": "https://fr.wikipedia.org/wiki/Ficus_lutea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 203948153,
+      "text": "Ficus lutea est une espèce végétale de la famille des Moraceae. Il s'agit d'un arbre, originaire d'Afrique."
     }
   },
   "edible": {
@@ -82,7 +100,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -133,7 +151,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853155-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -141,7 +159,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853155-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000689147.webp",
@@ -154,6 +172,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

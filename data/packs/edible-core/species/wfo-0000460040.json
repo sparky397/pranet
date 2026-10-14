@@ -15,7 +15,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "en": [
@@ -53,7 +53,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q387180",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q387180",
   "search_names": {
@@ -64,13 +64,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Gesho」",
+      "source": "Wikipedia (en): Gesho",
       "source_url": "https://en.wikipedia.org/wiki/Gesho",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375669200,
       "text": "Rhamnus prinoides, the shiny-leaf buckthorn, is an African shrub or small tree in the family Rhamnaceae. Commonly referred to as gesho, it was first scientifically described by French botanist Charles Louis L'Héritier de Brutelle in 1789."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rhamnus prinoides",
+      "source_url": "https://es.wikipedia.org/wiki/Rhamnus_prinoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 145407330,
+      "text": "Rhamnus prinoides, el espino cerval de hoja brillante, es un arbusto africano o un pequeño árbol de la familia Rhamnaceae, nativo desde Etiopía a Sudáfrica, principalmente a gran altura. Crece junto a corrientes de agua o márgenes de bosques. Los frutos son comestibles y son unas pequeñas bayas rojas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rhamnus prinoides",
+      "source_url": "https://fr.wikipedia.org/wiki/Rhamnus_prinoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226550282,
+      "text": "Rhamnus prinoides est une espèce de plantes à fleurs dicotylédones de la famille des Rhamnaceae, sous-famille des Rhamnoideae, originaire d'Afrique et d'Arabie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Rhamnus prinoides",
+      "source_url": "https://pt.wikipedia.org/wiki/Rhamnus_prinoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72355119,
+      "text": "Rhamnus prinioides, também chamado gesho, é um arbusto africano da família das Rhamnaceae. Foi primeiramente descrito pelo botânico francês Charles Louis L'Héritier de Brutelle em 1789."
     }
   },
   "edible": {
@@ -87,7 +114,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -117,7 +144,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/718580-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -125,7 +152,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/718580-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000460040.webp",
@@ -138,6 +165,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

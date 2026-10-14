@@ -12,30 +12,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "マモン (植物)",
       "マモン"
     ],
-    "en": [
-      "Spanish lime"
-    ],
-    "zh": [
-      "蜜莓"
-    ],
-    "ht": [
-      "pye kenèp"
+    "fr": [
+      "Quenettier"
     ],
     "pt": [
       "Mamoncillo"
     ],
+    "ht": [
+      "pye kenèp"
+    ],
     "udm": [
       "Мамончилло"
-    ],
-    "fr": [
-      "Quenettier"
     ],
     "ru": [
       "Мамончилло"
@@ -58,6 +52,9 @@
     "nl": [
       "Knippa"
     ],
+    "zh": [
+      "蜜莓"
+    ],
     "hu": [
       "mézbogyó"
     ],
@@ -75,13 +72,16 @@
     ],
     "hr": [
       "Medena boba"
+    ],
+    "en": [
+      "Spanish lime"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q279728",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q279728",
   "search_names": {
@@ -92,35 +92,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「マモン (植物)」",
+      "source": "Wikipedia (ja): マモン (植物)",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A2%E3%83%B3_(%E6%A4%8D%E7%89%A9)",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107250120,
       "text": "マモン は、ムクロジ科の植物。球状の実を付ける果樹である。中南米、カリブ海の熱帯地方に自生あるいは移植されており、アフリカ、太平洋の一部にも広がっている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Melicoccus bijugatus」",
+      "source": "Wikipedia (en): Melicoccus bijugatus",
       "source_url": "https://en.wikipedia.org/wiki/Melicoccus_bijugatus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376053438,
       "text": "Melicoccus bijugatus is a fruit-bearing tree in the soapberry family Sapindaceae, native or naturalized across the New World tropics including South and Central America, and parts of the Caribbean. Its stone-bearing fruits, commonly called quenepa, kenèp or guinep, are edible. Other names for the fruits include limoncillo, Bajan ackee, chenet, Spanish lime, mamoncillo, and quenette."
+    },
+    "es": {
+      "source": "Wikipedia (es): Melicoccus bijugatus",
+      "source_url": "https://es.wikipedia.org/wiki/Melicoccus_bijugatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174813940,
+      "text": "Melicoccus bijugatus, de nombre común limoncillo, mamón, mamoncillo, guapoó, coquito de San Juan, guaya o quenepa, es un árbol frutal de la familia de las sapindáceas, nativo de la zona intertropical de América. Es apreciado por sus frutos (drupa) comestibles."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Quenettier",
+      "source_url": "https://fr.wikipedia.org/wiki/Quenettier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239063996,
+      "text": "Le quenettier est un arbre fruitier originaire du Mexique et de la Colombie. Il appartient à la famille des Sapindacées. Il est indigène ou naturalisé dans un vaste domaine intertropical américain comprenant l'Amérique centrale, la Colombie, le Venezuela, le Suriname et les Antilles. Il est caractérisé par son fruit, qui est proche du litchi, du longane et du ramboutan. Ce fruit est de forme ronde ou un peu allongée, comme un petit citron vert. Il possède une peau verte, lisse et rigide. Sa pulpe, légèrement astringente, est juteuse, sucrée, acidulée et de couleur jaune orangé. Le noyau, de grande taille, contient une amande comestible une fois grillée. Il est très populaire à Cuba, en Guadeloupe, en Martinique, en Haïti et en République dominicaine. Mamoncillo est le nom espagnol le plus employé de ce fruit. Il existe toutefois d’autres dénominations utilisées en fonction de sa localisation. Ce sont probablement des noms d’origine précolombienne, tel que mauco ou muco en Colombie et au Venezuela ; on a encore kenepa, guenepa, genip, guinep dans les Antilles britanniques ; ackee pour la Barbade; anoncillo à Cuba; limoncillo en République dominicaine; canopi au Brésil ; huaya ou guaya dans le sud du Mexique; quenepe en Haïti ; quenette dans les Antilles françaises et bien d'autres dénominations dans les Caraïbes et l'Amérique du Sud."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Mamoncillo",
+      "source_url": "https://pt.wikipedia.org/wiki/Mamoncillo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 58950464,
+      "text": "O mamoncillo é o fruto de uma árvore da espécie Melicoccus bijugatus."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「マモン (植物)」の節「栽培」",
+        "source": "Wikipedia (ja): マモン (植物) § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A2%E3%83%B3_(%E6%A4%8D%E7%89%A9)#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 107250120,
         "heading": "栽培",
         "text": "熱帯原産の植物であるため、高温を好み、氷点下では葉が損傷する。\nもっとも、南アメリカでは高度1000mの高地にも分布し、氷点下付近の気温も耐えるなど低い気温も許容し、渇水にも適応し降水量の乏しい地域でも生育する。\n街路樹としても一般的に用いられている。\nプエルトリコではケネパと呼ばれており、特にポンセでは生産量が大きいことから、フィエスタ・ナシオナル・デ・ラ・ケネパ（Fiesta Nacional de la Quenepa）の名称で年に一度祝祭が行われるようになった。なおポンセは、ケネパの市（Ciudad de las Quenepas）という別称も有している。",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Quenettier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Quenettier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239063996,
+        "heading": "Culture",
+        "text": "■ Méthode de culture\nLe quenettier est généralement cultivé à partir de semences, l'arbre ne reçoit pas de soins particuliers, sauf pour l'arrosage et la fertilisation lors de la première plantation. En Floride, les fruits mûrissent de juin à septembre. Dans les Caraïbes, la saison s'étend de juillet à octobre. Pour la cueillette des fruits une échelle est souvent nécessaire car l'arbre est généralement de grande taille. Une fois mûre la croûte du fruit devient cassante, mais ne change pas de couleur. En raison de sa peau coriace, le fruit reste frais pendant une longue période.\n\n■ Ennemis (maladies et ravageurs)\nL'arbre est un hôte de la mouche noire Citrus, Aleurocanthus woglumi. Plusieurs parasites (Prospaltella spp., Eretmocerus serius et Amitus hesperidium) permettent de contrôler ce ravageur. En Floride, le champignon Armillariella (Clitocybe) tabescens provoque la pourriture des racines.",
         "truncated": false
       }
     }
@@ -137,7 +175,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -170,7 +208,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/783682-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -178,7 +216,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/783682-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000452919.webp",
@@ -191,6 +229,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 331,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

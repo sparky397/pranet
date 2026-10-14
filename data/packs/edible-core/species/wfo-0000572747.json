@@ -21,22 +21,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オヒルギ"
-    ],
-    "en": [
-      "Oriental Mangrove",
-      "Kankra"
-    ],
-    "zh": [
-      "紅茄苳",
-      "木榄",
-      "红树叶",
-      "红树皮",
-      "红树果"
     ],
     "id": [
       "Putut"
@@ -53,6 +42,13 @@
     "to": [
       "Tongo"
     ],
+    "zh": [
+      "木榄",
+      "紅茄苳",
+      "红树叶",
+      "红树皮",
+      "红树果"
+    ],
     "ml": [
       "സുന്ദരിക്കണ്ടൽ"
     ],
@@ -64,13 +60,17 @@
     ],
     "lv": [
       "Kailsakņu bruguiera"
+    ],
+    "en": [
+      "Oriental Mangrove",
+      "Kankra"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15386544",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15386544",
   "search_names": {
@@ -80,22 +80,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オヒルギ」",
+      "source": "Wikipedia (ja): オヒルギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%92%E3%83%AB%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107056436,
       "text": "オヒルギ はヒルギ科オヒルギ属のマングローブ樹種のひとつ。別名アカバナヒルギ（赤花蛭木、赤花漂木）。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Bruguiera gymnorhiza」",
+      "source": "Wikipedia (en): Bruguiera gymnorhiza",
       "source_url": "https://en.wikipedia.org/wiki/Bruguiera_gymnorhiza",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368385686,
       "text": "Bruguiera gymnorhiza, the large-leafed orange mangrove or oriental mangrove, is a mangrove tree that grows usually to 7–20 metres (23–66 ft) high, but sometimes up to 35m, that belongs to the family Rhizophoraceae. It is found on the seaward side of mangrove swamps, often in the company of Rhizophora. It grows from the Western Pacific across Indian Ocean coasts to Cape Province, South Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Bruguiera gymnorhiza",
+      "source_url": "https://es.wikipedia.org/wiki/Bruguiera_gymnorhiza",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582440,
+      "text": "El bacao de Filipinas es una especie de planta en la familia Rhizophoraceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bruguiera gymnorhiza",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruguiera_gymnorhiza",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 217894510,
+      "text": "Bruguiera gymnorhiza est une espèce de plantes à fleurs de la famille des Rhizophoraceae. C'est un palétuvier de la famille des Rhizophoraceae, présent dans la plupart des mangroves des rivages des océans Indien et Pacifique."
+    },
+    "id": {
+      "source": "Wikipedia (id): Putut",
+      "source_url": "https://id.wikipedia.org/wiki/Putut",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 27767249,
+      "text": "Putut, tumu, atau kendeka adalah sejenis perdu atau pohon kecil penghuni hutan bakau, anggota suku Rhizophoraceae. Pohon yang sering ditemukan di bagian dalam zona intertidal ini menyebar luas di pantai-pantai Samudra Hindia semenjak Afrika Timur, Madagaskar, India, Asia Tenggara, dan Nusantara, serta menyeberang hingga Australia tropis dan Pasifik Barat."
     }
   },
   "edible": {
@@ -113,7 +140,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -175,7 +202,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/719532-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -183,7 +210,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/719532-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000572747.webp",
@@ -196,6 +223,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

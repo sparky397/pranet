@@ -12,14 +12,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Sumatran Pine",
-      "Merkus's Pine",
-      "Mindoro Pine",
-      "Merkus pine"
+    "id": [
+      "Tusam",
+      "tusam"
     ],
     "eo": [
       "Merkus-pino"
@@ -32,9 +30,6 @@
     ],
     "fi": [
       "indonesianmänty"
-    ],
-    "id": [
-      "tusam"
     ],
     "vi": [
       "Thông Sumatra"
@@ -68,24 +63,66 @@
     ],
     "min": [
       "Tusam sumatera"
+    ],
+    "en": [
+      "Sumatran Pine",
+      "Merkus's Pine",
+      "Mindoro Pine",
+      "Merkus pine"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q209326",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q209326",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pinus merkusii」",
+      "source": "Wikipedia (en): Pinus merkusii",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_merkusii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375584981,
       "text": "Pinus merkusii, the Merkus pine or Sumatran pine, is a species of conifer in the family Pinaceae, a pine native to parts of southeast Asia, and the only member of its genus that occurs naturally south of the equator."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus merkusii",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_merkusii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172748516,
+      "text": "El pino Merkus o pino de Sumatra, es una especie de pino nativo de la región de Malesia, al sureste de Asia, creciendo principalmente en Indonesia en las montañas del norte de Sumatra, y con dos poblaciones aisladas en Sumatra central en el Monte Kerinci y el Monte Talang, y en las Filipinas en Mindoro y en el oeste de Luzon."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pinus merkusii",
+      "source_url": "https://fr.wikipedia.org/wiki/Pinus_merkusii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238004941,
+      "text": "Pinus merkusii, communément appelé Pin de Sumatra, est une espèce de pins qui se rencontre en Asie du Sud-Est. On le trouve principalement dans les montagnes du Nord de Sumatra, sur les montagnes Kerinci et Talang dans le centre de Sumatra, et aux Philippines."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus merkusii",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_merkusii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71111003,
+      "text": "Pinus merkusii, também conhecido como pinheiro-de-samatra ou pinheiro-de-sumatra, é uma espécie de pinheiro originária do Velho Mundo, mais precisamente da região da Ásia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tusam",
+      "source_url": "https://id.wikipedia.org/wiki/Tusam",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29712915,
+      "text": "Pinus merkusii, yang dikenal juga dengan nama umum tusam atau pinus sumatra, adalah spesies pinus asli kawasan Malesia di Asia Tenggara. Spesies ini merupakan satu-satunya anggota genus Pinus yang memiliki sebaran alami hingga ke selatan garis khatulistiwa."
     }
   },
   "edible": {
@@ -99,7 +136,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -110,7 +147,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/263108-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -118,7 +155,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/263108-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000482024.webp",
@@ -131,6 +168,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 256,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

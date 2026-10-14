@@ -11,19 +11,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ビリンビ",
       "ナガバノゴレンシ"
     ],
-    "en": [
-      "bilimbi"
+    "fr": [
+      "Bilimbi"
     ],
-    "zh": [
-      "木胡瓜",
-      "三敛"
+    "pt": [
+      "Bilimbi"
+    ],
+    "id": [
+      "Belimbing sayur"
     ],
     "dv": [
       "ބިލިމަގު"
@@ -36,9 +38,6 @@
     ],
     "udm": [
       "Билимби"
-    ],
-    "fr": [
-      "Bilimbi"
     ],
     "bjn": [
       "Balimbing tunjuk"
@@ -61,9 +60,6 @@
     "de": [
       "Gurkenbaum"
     ],
-    "id": [
-      "Belimbing sayur"
-    ],
     "bn": [
       "বিলিম্বি"
     ],
@@ -78,9 +74,6 @@
     ],
     "nl": [
       "Blimbing"
-    ],
-    "pt": [
-      "Bilimbi"
     ],
     "su": [
       "Calingcing"
@@ -105,6 +98,10 @@
     ],
     "tl": [
       "kamias"
+    ],
+    "zh": [
+      "三敛",
+      "木胡瓜"
     ],
     "bcl": [
       "Iba"
@@ -156,13 +153,16 @@
     ],
     "gor": [
       "Lembetu'e"
+    ],
+    "en": [
+      "bilimbi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q237465",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q237465",
   "search_names": {
@@ -176,22 +176,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ビリンビ」",
+      "source": "Wikipedia (ja): ビリンビ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AA%E3%83%B3%E3%83%93",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110300750,
       "text": "ビリンビ はカタバミ科ゴレンシ属の常緑低木〜高木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Averrhoa bilimbi」",
+      "source": "Wikipedia (en): Averrhoa bilimbi",
       "source_url": "https://en.wikipedia.org/wiki/Averrhoa_bilimbi",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375456625,
       "text": "Averrhoa bilimbi is a fruit-bearing tree in the family Oxalidaceae. It is native to the Maluku Islands and Sulawesi in Indonesia, and has become naturalised and is common throughout Southeast Asia. It is cultivated in parts of tropical South Asia and the Americas. It bears edible but extremely sour fruit. It is a close relative of the carambola tree."
+    },
+    "es": {
+      "source": "Wikipedia (es): Averrhoa bilimbi",
+      "source_url": "https://es.wikipedia.org/wiki/Averrhoa_bilimbi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174786188,
+      "text": "Averrhoa bilimbi es un árbol que produce frutos del género Averrhoa, familia Oxalidaceae. Se encuentra relacionado con el árbol carambola."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bilimbi",
+      "source_url": "https://fr.wikipedia.org/wiki/Bilimbi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058021,
+      "text": "Le bilimbi est un arbre fruitier de la famille des Oxalidacées, aussi appelé arbre à cornichons pour ses fruits comestibles, semblables à des cornichons translucides."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Bilimbi",
+      "source_url": "https://pt.wikipedia.org/wiki/Bilimbi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72822016,
+      "text": "O bilimbi, c onhecido também como biribiri, bilimbim, bilimbino, biro-biro, piripiri, piri-piri, caramboleira-amarela, limão-de-caiena, limão caiano, groselheira, azedinha,limão-japonês, e limãozinho é uma planta tropical da família Oxalidaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Belimbing sayur",
+      "source_url": "https://id.wikipedia.org/wiki/Belimbing_sayur",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29798655,
+      "text": "Belimbing sayur, atau binang merupakan sejenis pohon kecil yang diperkirakan berasal dari Kepulauan Maluku, dan dikembangbiakkan serta tumbuh bebas di Indonesia, Filipina, India, Sri Lanka, Myanmar, dan Malaysia. Tumbuhan ini biasa ditanam di pekarangan untuk diambil buahnya yang memiliki bentuk lonjong dengan warna hijau muda mengilap dengan rasa asam yang sering digunakan sebagai bumbu masakan, sambal, dan campuran ramuan jamu."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "pt": {
+        "source": "Wikipedia (pt): Bilimbi § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Bilimbi#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72822016,
+        "heading": "Cultivo",
+        "text": "O cultivo é feito através de sementes ou enxertias, preferencialmente em regiões de clima tropical e subtropical, com melhor desenvolvimento em locais com temperatura média de 25 graus Celsius e pluviosidade acima de mil milímetros.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -206,7 +257,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -237,7 +288,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/371869-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -245,7 +296,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/371869-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000557404.webp",
@@ -258,6 +309,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

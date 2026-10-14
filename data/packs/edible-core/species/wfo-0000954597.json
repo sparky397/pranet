@@ -8,23 +8,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セキザイユーカリ"
-    ],
-    "en": [
-      "river redgum"
-    ],
-    "zh": [
-      "赤桉",
-      "短喙赤桉",
-      "渐尖赤桉",
-      "洋草果"
-    ],
-    "ast": [
-      "ocalitu bermeyu"
     ],
     "eo": [
       "Rivera eŭkalipto"
@@ -59,6 +47,12 @@
     "de": [
       "Roter Eukalyptus"
     ],
+    "zh": [
+      "赤桉",
+      "短喙赤桉",
+      "渐尖赤桉",
+      "洋草果"
+    ],
     "af": [
       "Rooibloekom"
     ],
@@ -85,13 +79,19 @@
     ],
     "arz": [
       "اوكالبتوس كمالدولى"
+    ],
+    "en": [
+      "river redgum"
+    ],
+    "ast": [
+      "ocalitu bermeyu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q162822",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q162822",
   "search_names": {
@@ -110,22 +110,75 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セキザイユーカリ」",
+      "source": "Wikipedia (ja): セキザイユーカリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AD%E3%82%B6%E3%82%A4%E3%83%A6%E3%83%BC%E3%82%AB%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109581606,
       "text": "セキザイユーカリ、カマダルユーカリ、リバーレッドガム あるいはユーカリ・カマルドレンシス は、フトモモ科ユーカリ属（ユーカリノキ属）の高木の一種である。オーストラリア本土のほぼ全域に見られ、ユーカリ属の中では最も分布域が広いとされる。蕾の蓋部分 の変異が激しく、くちばし状や半円状などの形状が見られる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Eucalyptus camaldulensis」",
+      "source": "Wikipedia (en): Eucalyptus camaldulensis",
       "source_url": "https://en.wikipedia.org/wiki/Eucalyptus_camaldulensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371702071,
       "text": "Eucalyptus camaldulensis, commonly known as river red gum, is a flowering plant in the family Myrtaceae, and is endemic to Australia. It is a tree with smooth white or cream-coloured bark, lance-shaped or curved adult leaves, flower buds in groups of seven or nine, white flowers and hemispherical fruit with the valves extending beyond the rim. A familiar and iconic tree, it is seen along many watercourses across inland Australia, providing shade in the extreme temperatures of central Australia and elsewhere."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eucalyptus camaldulensis",
+      "source_url": "https://es.wikipedia.org/wiki/Eucalyptus_camaldulensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173741365,
+      "text": "El eucalipto rojo es un árbol del género Eucalyptus. Es una especie plantada en muchas partes del mundo. Es nativa de Australia donde está ampliamente expandida, en especial cerca de cursos de agua."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eucalyptus camaldulensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Eucalyptus_camaldulensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234129337,
+      "text": "Eucalyptus camaldulensis, le Gommier de Camaldoli ou Gommier des rivières ou Gommier rouge, River red gum en anglais, est une espèce de plantes à fleurs du genre Eucalyptus et de la famille des Myrtaceae. C'est un arbre que l'on trouve dans de nombreuses parties du monde mais qui est originaire d'Australie où il est largement répandu au bord des rivières de l'intérieur du pays. Il tire son nom latin du jardin de Camaldoli, dans la Villa Ricciardi (it) près de Naples, lieu où il a été décrit pour la première fois."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eucalyptus camaldulensis",
+      "source_url": "https://pt.wikipedia.org/wiki/Eucalyptus_camaldulensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67653265,
+      "text": "Eucalyptus camaldulensis é uma árvore originária da Austrália, Clima subtropical e temperado e em Altitudes que vão de 30m até 600m acima do nível do mar. Índice pluviométrico anual é de 250 a 625 mm com um período seco de 4 a 8 meses. A temperatura máxima nos meses quente é de 35 °C e a minima nos meses frio de 11 °C, não é resistente a geadas. Tolerante a vários tipos de solos, mas necessita para desenvolvimento ideal acesso ao lençol freático."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Eucalyptus camaldulensis § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Eucalyptus_camaldulensis#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 173741365,
+        "heading": "Cultivo",
+        "text": "E. camaldulensis germina rápidamente tanto de semillas frescas como de almacenadas en condiciones de frío seco.  Y también pronto adquiere resistencia a la sequía.  Es un excelente bonsái, y rebrota bien de la base y del ápice epicórmico.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Eucalyptus camaldulensis § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Eucalyptus_camaldulensis#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 234129337,
+        "heading": "Culture",
+        "text": "Les graines fraîches ou conservées au froid et au sec de \"E. camaldulensis\" germent facilement. La jeune plante devient très rapidement résistante à la sècheresse même dans les tubes de culture. Elle peut faire un excellent bonsaï et pourra repartir facilement aussi bien du pied que par ses bourgeons dormants si les conditions changent.\nC'est un des eucalyptus les plus cultivés au monde (5 000 km2 de plantation en 1980), aussi bien dans des régions tropicales que des régions tempérées douces (climat méditerranéen ou subtropical). On le trouve dans les pays suivants : Argentine, Brésil, Burkina Faso, Cameroun, Égypte, Espagne, Italie, Kenya, Maroc, Nigeria, Pakistan, Sénégal, Sierra Leone, Sri Lanka, Soudan, Tanzanie, Uruguay, États-Unis (Arizona et Californie) et Zimbabwe.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -142,7 +195,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -219,7 +272,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/592777-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -227,7 +280,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/592777-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000954597.webp",
@@ -240,6 +293,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

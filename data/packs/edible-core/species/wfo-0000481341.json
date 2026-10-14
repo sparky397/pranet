@@ -10,7 +10,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "en": [
@@ -19,17 +19,14 @@
       "Big-cone Pine",
       "Coulter Pine"
     ],
-    "zh": [
-      "大果松"
+    "fr": [
+      "Pin à gros cônes"
     ],
     "koi": [
       "Култер пожум"
     ],
     "ru": [
       "сосна Культера"
-    ],
-    "fr": [
-      "Pin à gros cônes"
     ],
     "de": [
       "Coulter-Kiefer"
@@ -55,6 +52,9 @@
     "hu": [
       "óriástobozú fenyő"
     ],
+    "zh": [
+      "大果松"
+    ],
     "nl": [
       "Grootkegelden"
     ],
@@ -75,18 +75,54 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1137001",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1137001",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Coulter pine」",
+      "source": "Wikipedia (en): Coulter pine",
       "source_url": "https://en.wikipedia.org/wiki/Coulter_pine",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377656502,
       "text": "Coulter pine, or big-cone pine, is a species of conifer in the family Pinaceae. Coulter pine is a medium-sized coniferous tree that lives up to 100 years. It is a native of the coastal mountains of Southern California in the United States and northern Baja California in Mexico, occurring in mediterranean climates, where winter rains are infrequent and summers are dry with occasional thunderstorms. Isolated groves are found as far north as Clearlake, California, on the flanks of Mt. Konocti and in Black Diamond Mines Regional Preserve. Although geographically isolated, these Coulter pine populations were very similar in all of three studies of morphological characteristics. Oleoresins were also similar."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus coulteri",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_coulteri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175632504,
+      "text": "Pinus coulteri, el pino de Coulter, es una especie arbórea de la familia de las Pináceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pin à gros cônes",
+      "source_url": "https://fr.wikipedia.org/wiki/Pin_%C3%A0_gros_c%C3%B4nes",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 217927724,
+      "text": "Le pin à gros cônes dit aussi pin de Coulter, pin faiseur de veuves, pin des veuves est un arbre appartenant à la famille des Pinacées et au genre Pinus. Il est originaire du sud de la Californie (États-Unis), et du nord de la Basse-Californie (Mexique). Il est nommé ainsi en hommage à Thomas Coulter, un botaniste et physicien irlandais (1793-1843). C'est l'espèce de pin qui possède les cônes les plus lourds."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus coulteri",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_coulteri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205821,
+      "text": "Pinus coulteri é uma espécie de pinheiro originária do Novo Mundo. Faz parte do grupo de espécies de pinheiros com área de distribuição no Canadá e Estados Unidos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pinus Coulter",
+      "source_url": "https://id.wikipedia.org/wiki/Pinus_Coulter",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29317262,
+      "text": "Pinus coulteri, atau dikenal sebagai big-cone pine, adalah pohon konifer dalam genus Pinus dari famili Pinaceae. Pinus coulteri merupakan konifer hijau yang dapat hidup hingga 100 tahun. Pohon ini berasal dari pegunungan pesisir California Selatan di Amerika Serikat dan Baja California utara di Meksiko, tumbuh di iklim mediterania dengan musim dingin yang jarang hujan dan musim panas yang kering, sesekali disertai badai petir. Beberapa kelompok pohon Coulter pine yang terisolasi dapat ditemukan sejauh utara di Clearlake, California, di lereng Gunung Konocti, dan di Black Diamond Mines Regional Preserve. Meskipun secara geografis terpisah, populasi pohon ini menunjukkan kesamaan morfologi dan oleoresin dalam tiga studi yang berbeda."
     }
   },
   "edible": {
@@ -100,7 +136,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -115,7 +151,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/196961-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -123,7 +159,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/196961-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000481341.webp",
@@ -136,6 +172,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

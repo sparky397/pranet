@@ -19,49 +19,40 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "pt": [
+      "Montia perfoliata"
+    ],
+    "id": [
+      "Krokot musim dingin"
+    ],
     "de": [
-      "Tellerkraut",
-      "Gewöhnliches Tellerkraut"
-    ],
-    "en": [
-      "miner's lettuce",
-      "Indian lettuce",
-      "Spring Beauty",
-      "Winter Purslane"
-    ],
-    "tr": [
-      "Kış semiz otu"
-    ],
-    "nl": [
-      "Winterpostelein"
-    ],
-    "cs": [
-      "batolka prorostlá"
+      "Gewöhnliches Tellerkraut",
+      "Tellerkraut"
     ],
     "fr": [
-      "claytonie perfoliée",
-      "Claytone de Cuba"
-    ],
-    "fi": [
-      "salaattikleitonia"
+      "Claytone de Cuba",
+      "claytonie perfoliée"
     ],
     "hr": [
       "Bunarka"
     ],
+    "nl": [
+      "Winterpostelein"
+    ],
     "sv": [
       "Vinterportlak"
-    ],
-    "pt": [
-      "Montia perfoliata"
     ],
     "cy": [
       "Porpin y gwanwyn"
     ],
     "fa": [
       "خرفه زمستانی"
+    ],
+    "cs": [
+      "batolka prorostlá"
     ],
     "sk": [
       "portulaka zimná"
@@ -72,26 +63,71 @@
     "is": [
       "Diskgrýta"
     ],
-    "id": [
-      "Krokot musim dingin"
+    "fi": [
+      "salaattikleitonia"
+    ],
+    "en": [
+      "miner's lettuce",
+      "Indian lettuce",
+      "Spring Beauty",
+      "Winter Purslane"
+    ],
+    "tr": [
+      "Kış semiz otu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1376670",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1376670",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Claytonia perfoliata」",
+      "source": "Wikipedia (en): Claytonia perfoliata",
       "source_url": "https://en.wikipedia.org/wiki/Claytonia_perfoliata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1379235690,
       "text": "Claytonia perfoliata, commonly known as miner's lettuce or winter purslane, is a flowering plant in the family Montiaceae. It is an edible, fleshy, herbaceous, annual plant native to the western mountain and coastal regions of North America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Claytonia perfoliata",
+      "source_url": "https://es.wikipedia.org/wiki/Claytonia_perfoliata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175376536,
+      "text": "La verdolaga de Cuba es una especie de planta anual carnosa nativa de las regiones montañosas y costeras del oeste de América del Norte desde el sur de Alaska y la zona central de la Columbia Británica hasta América Central, es muy común en California en el valle de Sacramento y la zona norte del valle de San Joaquín."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Claytonia perfoliata",
+      "source_url": "https://fr.wikipedia.org/wiki/Claytonia_perfoliata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240048337,
+      "text": "La claytonie perfoliée, claytone de Cuba, ou encore le pourpier d'hiver (Claytonia perfoliata) est une espèce de plantes annuelles du genre Claytonia relevant de la famille des Portulacacées selon la classification de Cronquist ou de la famille des Montiacées, suivant la classification APG III."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Montia perfoliata",
+      "source_url": "https://pt.wikipedia.org/wiki/Montia_perfoliata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 60069784,
+      "text": "Montia perfoliata é uma espécie de planta com flor pertencente à família Portulacaeae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Krokot musim dingin",
+      "source_url": "https://id.wikipedia.org/wiki/Krokot_musim_dingin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30025288,
+      "text": "Claytonia perfoliata, umumnya dikenal sebagai selada penambang, selada India, atau krokot musim dingin, merupakan tanaman berbunga dalam keluarga Montiaceae. Ini adalah tanaman tahunan yang dapat dimakan, berdaging, herba, asli pegunungan barat dan wilayah pesisir Amerika Utara."
     }
   },
   "edible": {
@@ -103,7 +139,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -163,7 +199,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60021-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -171,7 +207,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60021-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000609088.webp",
@@ -184,6 +220,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

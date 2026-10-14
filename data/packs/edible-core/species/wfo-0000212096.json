@@ -11,21 +11,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "イソフジ"
     ],
-    "en": [
-      "yellow necklacepod"
-    ],
-    "zh": [
-      "毛苦參",
-      "绒毛槐"
-    ],
     "th": [
       "สารพัดพิษ"
+    ],
+    "zh": [
+      "绒毛槐",
+      "毛苦參"
     ],
     "to": [
       "Lata"
@@ -41,33 +38,54 @@
     ],
     "id": [
       "Tarum laut"
+    ],
+    "en": [
+      "yellow necklacepod"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3206158",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3206158",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「イソフジ」",
+      "source": "Wikipedia (ja): イソフジ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BD%E3%83%95%E3%82%B8",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106832121,
       "text": "イソフジ は、マメ科クララ属の常緑低木。方言名：ハブュキギー、ハママミ、イカヌタマグ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sophora tomentosa」",
+      "source": "Wikipedia (en): Sophora tomentosa",
       "source_url": "https://en.wikipedia.org/wiki/Sophora_tomentosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1312175778,
       "text": "Sophora tomentosa, commonly known as necklacepod, yellow necklacepod, and occasionally referred to as silver bush, is a pantropical shrub or small tree in the Fabaceae family. It typically grows 4 to 10 feet tall and is often found in coastal conditions and near wetlands. The name Necklacepod is derived from the characteristic string of seed pods that develop after its yellow flowers germinate into seeds."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sophora tomentosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Sophora_tomentosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238643661,
+      "text": "Sophora tomentosa est une espèce de plantes à fleurs de la famille des Fabaceae. Son aire de répartition naturelle couvre les régions tropicales et subtropicales. Il s'agit d'un arbuste ou d'un arbre qui pousse principalement dans le biome tropical à sécheresse saisonnière. Elle est utilisée comme aliment pour les animaux, comme poison et comme remède, et trouve également des applications environnementales et alimentaires."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sophora tomentosa",
+      "source_url": "https://id.wikipedia.org/wiki/Sophora_tomentosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29691866,
+      "text": "Sophora tomentosa, juga dikenal sebagai tarum laut, adalah semak pantropis atau pohon kecil dalam keluarga Fabaceae. Biasanya tingginya berkisar antara 4 hingga 10 kaki dan sering terjadi pada kondisi pesisir dan dekat lahan basah."
     }
   },
   "edible": {
@@ -83,7 +101,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -184,7 +202,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/518954-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -192,7 +210,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/518954-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000212096.webp",
@@ -205,6 +223,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -13,21 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "small camas",
-      "quamash",
-      "camas"
-    ],
-    "zh": [
-      "夸马克美莲",
-      "卡马百合",
-      "克美莲",
-      "小糠米百合",
-      "北美百合"
-    ],
     "pl": [
       "Kamasja Leichtlina"
     ],
@@ -40,6 +28,13 @@
     "ru": [
       "Камассия квамаш"
     ],
+    "zh": [
+      "北美百合",
+      "夸马克美莲",
+      "卡马百合",
+      "克美莲",
+      "小糠米百合"
+    ],
     "ja": [
       "カマッシア"
     ],
@@ -48,13 +43,18 @@
     ],
     "mk": [
       "обичен камас"
+    ],
+    "en": [
+      "small camas",
+      "quamash",
+      "camas"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4992158",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4992158",
   "search_names": {
@@ -66,26 +66,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Camassia quamash」",
+      "source": "Wikipedia (en): Camassia quamash",
       "source_url": "https://en.wikipedia.org/wiki/Camassia_quamash",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365941022,
       "text": "Camassia quamash, commonly known as camas, kwetlal, small camas, common camas, common camash or quamash, is a perennial herb. It is native to western North America in large areas of southern Canada and the northwestern United States."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Camassia quamash",
+      "source_url": "https://fr.wikipedia.org/wiki/Camassia_quamash",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234534579,
+      "text": "Camassia quamash est une espèce de plantes de la famille des Asparagaceae, appelée aussi camas commune, petite camas ou jacinthe des Indiens. C'est une plante vivace herbacée originaire de l'ouest de l'Amérique du Nord. C'est une plante comestible qui est également cultivée comme plante ornementale. À l'état sauvage, un grand nombre de camas peuvent colorer une prairie entière en bleu-violet."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Camassia quamash",
+      "source_url": "https://pt.wikipedia.org/wiki/Camassia_quamash",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72095799,
+      "text": "Camassia quamash, (Pursh) é uma espécie do género botânico Camassia pertencente à família Agavaceae. É uma herbácea perene monocotiledónea, nativa do oeste da América do Norte."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Camassia quamash」の節「Cultivation」",
+        "source": "Wikipedia (en): Camassia quamash § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Camassia_quamash#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378999194,
         "heading": "Cultivation",
         "text": "This bulb flower naturalizes well in gardens. The bulb grows best in well-drained soil high in humus. It will grow in lightly shaded forest areas and on rocky outcrops as well as in open meadows or prairies. Additionally, it is found growing alongside streams and rivers. The plants may be divided in autumn after the leaves have withered. Additionally, the plant spreads by seed rather than by runners.\nIn the Pacific Northwest, Lekwungen peoples and others have cultivated kwetlal bulbs since precolonial times. Kwetlal has been promoted as a good replacement for invasive species for environmental and cultural restoration.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Camassia quamash § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Camassia_quamash#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 234534579,
+        "heading": "Culture",
+        "text": "Ce bulbe se naturalise bien dans les jardins notamment en sol bien drainé et riche en humus. Il pousse bien sous un léger ombrage forestier, en zone rocheuse ainsi qu'en pré ou prairie ouverte et près des rivières, mais il supporte mal la sécheresse même si sa floraison se termine en juin avant les fortes chaleurs.\nOn doit le planter en automne à 10 cm de profondeur en espaçant les bulbes de 20 cm et pailler en hiver dans les régions aux hivers rudes. La vivace revient chaque année de plus en plus vigoureuse avec des inflorescences de plus en plus abondantes.\nLes plantes peuvent être divisées en automne tous les 3 ans, après que les feuilles ont fané. En outre, la plante se propage bien par semis. Il faut prévoir 4 à 5 ans avant la première floraison.\nLes pucerons et les limaces peuvent attaquer le Camassia mais ne créent presque pas de dégâts, la plante étant très résistante.\nSes bulbes ont l'avantage de ne pas être dévorés par les rongeurs et peuvent donc rester en place.",
         "truncated": false
       }
     }
@@ -100,7 +129,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -119,7 +148,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30019006-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -127,7 +156,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30019006-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000762884.webp",
@@ -140,6 +169,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -10,39 +10,23 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "French lavender"
-    ],
-    "de": [
-      "Schopf-Lavendel"
-    ],
-    "es": [
-      "Cantueso"
-    ],
-    "fi": [
-      "Tupsulaventeli"
-    ],
-    "pt": [
-      "Rosmaninho"
-    ],
-    "tr": [
-      "Karabaş otu"
-    ],
-    "zh": [
-      "法国薰衣草",
-      "法国熏衣草"
-    ],
     "ru": [
       "Лаванда стэхадская"
     ],
     "he": [
       "אזוביון דגול"
     ],
+    "tr": [
+      "Karabaş otu"
+    ],
     "co": [
       "Piumbonu"
+    ],
+    "de": [
+      "Schopf-Lavendel"
     ],
     "fa": [
       "اسطوخودوس"
@@ -83,21 +67,37 @@
     "sk": [
       "levanduľa hlávkovitá"
     ],
+    "fi": [
+      "tupsulaventeli"
+    ],
     "arz": [
       "ضرم مكور"
+    ],
+    "zh": [
+      "法国薰衣草",
+      "法国熏衣草"
     ],
     "ur": [
       "اسطو خودوس فرانسیسی"
     ],
     "ja": [
       "フレンチラベンダー"
+    ],
+    "en": [
+      "French lavender"
+    ],
+    "es": [
+      "Cantueso"
+    ],
+    "pt": [
+      "Rosmaninho"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1342976",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1342976",
   "search_names": {
@@ -111,26 +111,64 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Lavandula stoechas」",
+      "source": "Wikipedia (en): Lavandula stoechas",
       "source_url": "https://en.wikipedia.org/wiki/Lavandula_stoechas",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371302177,
       "text": "Lavandula stoechas, the Spanish lavender or topped lavender (U.S.) or French lavender (U.K.), is a species of lavender native to the Mediterranean Basin."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lavandula stoechas",
+      "source_url": "https://es.wikipedia.org/wiki/Lavandula_stoechas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175400485,
+      "text": "Lavandula stoechas, llamado comúnmente cantueso o tomillo borriquero, es un arbusto ramoso, muy aromático, de hasta un metro de altura de la familia de las lamiáceas. Es una especie nativa de la cuenca mediterránea y Macaronesia y está naturalizada en Australasia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lavandula stoechas",
+      "source_url": "https://fr.wikipedia.org/wiki/Lavandula_stoechas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227192990,
+      "text": "Lavandula stoechas, la Lavande papillon, Lavande stéchade, Lavande à toupet, Lavande maritime, Lavande espagnole ou Lavande des îles d'Hyères, est une espèce de plantes à fleurs de la famille des Lamiaceae. C'est une lavande très florifère."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lavandula stoechas",
+      "source_url": "https://pt.wikipedia.org/wiki/Lavandula_stoechas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69023389,
+      "text": "Lavandula stoechas, de nome comum alfazema, também chamada rosmaninho, é uma planta típica da região mediterrânica."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Lavandula stoechas」の節「Cultivation」",
+        "source": "Wikipedia (en): Lavandula stoechas § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Lavandula_stoechas#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1371302177,
         "heading": "Cultivation",
         "text": "This species is more tender than common lavender (Lavandula angustifolia), being less frost-resistant, but harsher and more resinous in its oils. Like other lavenders, it is associated with hot, dry, sunny conditions in alkaline soils.  However, it tolerates a range of situations, though it may be short-lived. Hardy down to −10 °C (14 °F) (USDA zones 8–10).\nThe following cultivars have won the Royal Horticultural Society's Award of Garden Merit:-\n\n'Ballerina'\n'Pretty Polly' \n'Willow Vale'",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Lavandula stoechas § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Lavandula_stoechas#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 227192990,
+        "heading": "Culture",
+        "text": "Utilisation : pots ou massifs.\nEntretien : taille après floraison.\nSol : drainant, acide.\nFloraison : violet-bleu, d'avril à juin.\nRusticité : -3 à −7 °C.\nArrosage et fertilisation : arroser le moins possible, même si l'été est chaud ; craint l'humidité ; l'engrais est inutile.",
         "truncated": false
       }
     }
@@ -146,7 +184,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -178,7 +216,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/449089-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -186,7 +224,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/449089-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000224244.webp",
@@ -199,6 +237,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

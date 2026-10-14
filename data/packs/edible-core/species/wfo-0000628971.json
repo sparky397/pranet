@@ -14,7 +14,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "am": [
@@ -34,18 +34,42 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3006736",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3006736",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cucumis prophetarum」",
+      "source": "Wikipedia (en): Cucumis prophetarum",
       "source_url": "https://en.wikipedia.org/wiki/Cucumis_prophetarum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306378419,
       "text": "Cucumis prophetarum is a dioecious and prostrate or climbing perennial vine in the family Cucurbitaceae. The specific epithet (prophetarum) comes from Latin propheta, meaning \"prophet\"."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cucumis prophetarum",
+      "source_url": "https://fr.wikipedia.org/wiki/Cucumis_prophetarum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208487521,
+      "text": "Cucumis prophetarum est une espèce de plantes à fleurs de la famille des Cucurbitaceae."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Cucumis prophetarum § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Cucumis_prophetarum#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 208487521,
+        "heading": "Toxicité",
+        "text": "A l'état naturel, ce fruit contient des cucurbitacines (isocucurbitacine - dihydrocucurbitacine) qui le rend très amer. Ces composés sont toxiques pour les mammifères. Ils sont susceptibles de provoquer des vomissements, coliques et fortes diarrhées.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -61,7 +85,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -107,7 +131,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/292278-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling annual",
@@ -115,7 +139,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/292278-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000628971.webp",
@@ -128,6 +152,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

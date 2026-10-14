@@ -37,40 +37,67 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "West Indian woodnettle"
-    ],
-    "zh": [
-      "腺花桑葉麻",
-      "火焰桑葉麻",
-      "火焰桑叶麻"
-    ],
     "id": [
       "Daun gatal"
     ],
+    "zh": [
+      "火焰桑叶麻",
+      "腺花桑葉麻",
+      "火焰桑葉麻"
+    ],
     "sg": [
       "Kâsa"
+    ],
+    "en": [
+      "West Indian woodnettle"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3013169",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3013169",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Laportea aestuans」",
+      "source": "Wikipedia (en): Laportea aestuans",
       "source_url": "https://en.wikipedia.org/wiki/Laportea_aestuans",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1297896204,
       "text": "Laportea aestuans, the West Indian woodnettle, is an annual herb of the Urticaceae or nettle family."
+    },
+    "es": {
+      "source": "Wikipedia (es): Laportea aestuans",
+      "source_url": "https://es.wikipedia.org/wiki/Laportea_aestuans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174032256,
+      "text": "La ortiga brava o ishanga blanca es una planta herbácea anual, de la familia Urticaceae, que se encuentra desde California, México, Florida y las Antillas, hasta Colombia, Bolivia, Perú y Brasil; y también en Zimbabue, Tanzania y Madagascar."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Laportea aestuans",
+      "source_url": "https://fr.wikipedia.org/wiki/Laportea_aestuans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 211143830,
+      "text": "Laportea aestuans est une espèce de plantes à fleurs de la famille des Urticaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Daun gatal",
+      "source_url": "https://id.wikipedia.org/wiki/Daun_gatal",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29516865,
+      "text": "Daun gatal adalah adalah adalah tumbuhan tahunan suku Urticaceae atau jelatang-jelatangan. Kemungkinan berasal dari daerah tropis Afrika, tetapi sekarang tersebar luas sebagai spesies yang diperkenalkan di seluruh belahan bumi barat dan daerah tropis serta subtropis belahan bumi, termasuk Amerika Serikat, Amerika Tengah, Hindia Barat, India; Sumatra and Jawa, Indonesia."
     }
   },
   "edible": {
@@ -87,7 +114,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -180,7 +207,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/135476-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -188,7 +215,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/135476-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000445388.webp",
@@ -201,6 +228,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

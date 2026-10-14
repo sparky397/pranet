@@ -15,21 +15,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "黑羹树",
-      "印尼黑果"
+    "id": [
+      "Kepayang"
     ],
     "bjn": [
       "Kalawak"
     ],
     "de": [
       "Keluak"
-    ],
-    "id": [
-      "Kepayang"
     ],
     "jv": [
       "Kluwek"
@@ -58,6 +54,10 @@
     "arz": [
       "ذره بانجيوم"
     ],
+    "zh": [
+      "印尼黑果",
+      "黑羹树"
+    ],
     "min": [
       "Simauang"
     ],
@@ -69,7 +69,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q974608",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q974608",
   "search_names": {
@@ -80,23 +80,59 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pangium」",
+      "source": "Wikipedia (en): Pangium",
       "source_url": "https://en.wikipedia.org/wiki/Pangium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1358864538,
       "text": "Pangium is a genus in the family Achariaceae containing the sole species Pangium edule, a tall tree native to the mangrove swamps of Southeast Asia. It produces a large poisonous fruit which can be made edible by fermentation. It is dioecious, with male and female flowers produced on separate individuals."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pangium",
+      "source_url": "https://es.wikipedia.org/wiki/Pangium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 164758183,
+      "text": "Pangium es un género de plantas de plantas fanerógamas con tres especies de arbustos perteneciente a la familia de las achariáceas.\nSu fruto y semillas son venenosos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pangium edule",
+      "source_url": "https://fr.wikipedia.org/wiki/Pangium_edule",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240087603,
+      "text": "Pangium edule ou Pangi est une espèce de plantes à fleurs de la famille des Achariaceae. C'est un arbre issu de la mangrove indonésienne, malaisienne et papoue). Il produit un fruit toxique qui peut devenir comestible par fermentation. Ses graines, elles aussi toxiques pour l'homme, font partie du régime alimentaire du babiroussa."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pangium",
+      "source_url": "https://pt.wikipedia.org/wiki/Pangium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65812137,
+      "text": "Pangium é um género botânico pertencente à família Achariaceae, apresentando apenas três espécies."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kepayang",
+      "source_url": "https://id.wikipedia.org/wiki/Kepayang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28779478,
+      "text": "Kepayang, pangi, atau kaloa adalah tumbuhan pohon yang tumbuh liar atau ditanam di pekarangan, yang menghasilkan bahan bumbu masak yang dikenal sebagai keluak. Penggunaan keluak cukup luas dalam masakan Nusantara dan memberi warna cokelat kehitaman, seperti rawon, brongkos, gabus picung, daging bumbu keluak, serta sup konro."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Pangium」の節「Cultivation」",
+        "source": "Wikipedia (en): Pangium § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Pangium#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1358864538,
         "heading": "Cultivation",
         "text": "The tree requires many years to mature, and the seeds are therefore most frequently harvested from wild trees, as it is not economically feasible to cultivate. Although poisonous to humans, the seeds of the tree form part of the natural diet of the babirusa (Babyroussa babyrussa).",
@@ -118,7 +154,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -143,7 +179,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/111972-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -151,7 +187,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/111972-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001246546.webp",
@@ -164,6 +200,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 278,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

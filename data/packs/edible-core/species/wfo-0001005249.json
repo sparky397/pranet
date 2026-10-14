@@ -28,16 +28,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "beach plum"
-    ],
-    "zh": [
-      "海滨李",
-      "海濱李"
-    ],
     "ru": [
       "Слива морская"
     ],
@@ -50,39 +43,64 @@
     "fa": [
       "پرونوس دریایی"
     ],
+    "zh": [
+      "海濱李",
+      "海滨李"
+    ],
     "cs": [
       "švestkovišeň pomořská"
     ],
     "arz": [
       "خوخ بحرى"
+    ],
+    "en": [
+      "beach plum"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2081045",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2081045",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Prunus maritima」",
+      "source": "Wikipedia (en): Prunus maritima",
       "source_url": "https://en.wikipedia.org/wiki/Prunus_maritima",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372329635,
       "text": "Prunus maritima, the beach plum, is a species of plum native to the East Coast of the United States. It is grown commercially for its fruit and resists certain pests."
+    },
+    "es": {
+      "source": "Wikipedia (es): Prunus maritima",
+      "source_url": "https://es.wikipedia.org/wiki/Prunus_maritima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166604573,
+      "text": "Prunus maritima es una especie de arbusto perteneciente a la familia de las rosáceas, nativa de la costa del Océano Atlántico en Norteamérica, desde Maine hasta Maryland. Aunque algunas veces se prolonga hasta Nuevo Brunswick, no se tiene constancia de colecciones en dicha localidad y no aparece en los más autorizados trabajos de la Flora de Canadá."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Prunus maritima",
+      "source_url": "https://fr.wikipedia.org/wiki/Prunus_maritima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 210104603,
+      "text": "Prunus maritima est une espèce de plantes à fleurs de la famille des Rosaceae."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Prunus maritima」の節「Toxicity」",
+        "source": "Wikipedia (en): Prunus maritima § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Prunus_maritima#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1372329635,
         "heading": "Toxicity",
         "text": "The seed pits of the fruits are toxic due to their hydrocyanic acid content.",
@@ -100,7 +118,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -120,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30034170-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -128,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30034170-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001005249.webp",
@@ -141,6 +159,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 358,
     "height": 268,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

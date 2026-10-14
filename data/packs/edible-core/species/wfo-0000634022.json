@@ -26,7 +26,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -37,38 +37,9 @@
       "マツバウド",
       "セイヨウウド"
     ],
-    "de": [
-      "Gemüse-Spargel",
-      "Gemüsespargel"
-    ],
-    "en": [
-      "garden asparagus",
-      "wild asparagus"
-    ],
-    "zh": [
-      "蘆筍",
-      "石刁柏",
-      "石刁柏（芦笋）",
-      "小百部",
-      "石刁柏子",
-      "芦笋"
-    ],
-    "nl": [
-      "liggende asperge",
-      "asperge"
-    ],
-    "cs": [
-      "chřest lékařský"
-    ],
     "fr": [
+      "Asperge",
       "asperge"
-    ],
-    "fi": [
-      "ruokaparsa",
-      "parsa"
-    ],
-    "sl": [
-      "navadni beluš"
     ],
     "bo": [
       "འདམ་མྱུག"
@@ -202,8 +173,19 @@
     "ca": [
       "espàrrec"
     ],
+    "cs": [
+      "chřest lékařský"
+    ],
     "da": [
       "Almindelig Asparges"
+    ],
+    "de": [
+      "Gemüsespargel",
+      "Gemüse-Spargel"
+    ],
+    "fi": [
+      "parsa",
+      "ruokaparsa"
     ],
     "hsb": [
       "Prawy hromak"
@@ -219,6 +201,10 @@
     ],
     "ku": [
       "Kilig"
+    ],
+    "nl": [
+      "asperge",
+      "liggende asperge"
     ],
     "pl": [
       "Szparag lekarski"
@@ -237,6 +223,14 @@
     ],
     "sv": [
       "sparris"
+    ],
+    "zh": [
+      "芦笋",
+      "蘆筍",
+      "石刁柏",
+      "石刁柏（芦笋）",
+      "小百部",
+      "石刁柏子"
     ],
     "vi": [
       "Măng tây"
@@ -270,6 +264,9 @@
     ],
     "yi": [
       "ספארזשע"
+    ],
+    "sl": [
+      "navadni beluš"
     ],
     "bs": [
       "Šparoga"
@@ -369,13 +366,17 @@
     ],
     "ckb": [
       "مارچێوە"
+    ],
+    "en": [
+      "garden asparagus",
+      "wild asparagus"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q28367",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q28367",
   "search_names": {
@@ -392,35 +393,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アスパラガス」",
+      "source": "Wikipedia (ja): アスパラガス",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%91%E3%83%A9%E3%82%AC%E3%82%B9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109920482,
       "text": "アスパラガス は、キジカクシ科（クサスギカズラ科）クサスギカズラ属（キジカクシ属）に属する多年生草本の単子葉植物で、野菜として食用にされる。和名はオランダキジカクシ。クサスギカズラ属の別種を指してアスパラガスと呼ぶこともある。特に園芸方面ではオオミドリボウキを指すことが多い。ユーラシア大陸やアフリカ大陸と周辺の島々に約120種が自生している。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Asparagus」",
+      "source": "Wikipedia (en): Asparagus",
       "source_url": "https://en.wikipedia.org/wiki/Asparagus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375403431,
       "text": "Asparagus or garden asparagus is a perennial flowering plant species in the genus Asparagus native to Eurasia. Widely cultivated as a vegetable crop, its young shoots are used as a spring vegetable. In 2024, world production of asparagus was 8.9 million tonnes, led by China with 87% of the total."
+    },
+    "es": {
+      "source": "Wikipedia (es): Asparagus officinalis",
+      "source_url": "https://es.wikipedia.org/wiki/Asparagus_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175094558,
+      "text": "La esparraguera o espárrago común es una especie de la familia Asparagaceae. Es una planta herbácea perenne de follaje muy ramificado y aspecto plumoso. Su cultivo dura bastante tiempo en el suelo, del orden de ocho a diez años. La planta de espárrago está formada por tallos aéreos ramificados y una parte subterránea constituida por raíces y yemas, que es lo que se denomina comúnmente “garra”. De los brotes jóvenes se obtienen las verduras conocidas como espárragos. Las hojas están reducidas a escamas, con ramificaciones filiformes verdes en su base. Estas ramificaciones alcanzan los 25 mm de largo. La floración se produce a partir de junio. Las flores son pequeñas, campanuladas, pedunculadas y se distribuyen en parejas o son solitarias. Las flores masculinas y femeninas se encuentran en plantas diferentes."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Asperge",
+      "source_url": "https://fr.wikipedia.org/wiki/Asperge",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240254366,
+      "text": "L'Asperge est une plante monocotylédone de la famille des Asparagacées, originaire de l'est du bassin méditerranéen."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Asparagus officinalis",
+      "source_url": "https://pt.wikipedia.org/wiki/Asparagus_officinalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71858654,
+      "text": "Asparagus officinalis é um vegetal da classe Liliopsida, ordem Asparagales, família Asparagaceae, género Asparagus. Os rebentos novos desse vegetal são bastante apreciados, particularmente na cozinha inglesa, alemã e francesa. Tem um sabor delicado, poucas calorias e é particularmente rico em ácido fólico, além de ter propriedades diuréticas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Asparagus",
+      "source_url": "https://id.wikipedia.org/wiki/Asparagus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28524525,
+      "text": "Asparagus dalam pengertian umum adalah suatu jenis sayuran dari satu spesies tumbuhan genus Asparagus. Asparagus merupakan jenis tanaman perenial dwirumah."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Asparagus」の節「Cultivation」",
+        "source": "Wikipedia (en): Asparagus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Asparagus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375403431,
         "heading": "Cultivation",
         "text": "Since asparagus often originates in maritime habitats, it thrives in soils that are too saline for normal weeds to grow. Thus, a little salt was traditionally used to suppress weeds in beds intended for asparagus; this has the disadvantage that the soil cannot be used for anything else. Some regions and gardening zones are better-suited for growing asparagus than others, such as the west coast of North America and other more maritime, \"Mediterranean\" environments. The fertility of the soil is a large factor. \"Crowns\" are planted in winter, and the first shoots appear in spring; the first pickings or \"thinnings\" are known as sprue asparagus. Sprue has thin stems.\nA breed of \"early-season asparagus\" that can be harvested two months earlier than usual was announced by a UK grower in early 2011. This variety does not need to lie dormant and blooms at 7 °C (45 °F), rather than the usual 9 °C (48 °F).\nPurple asparagus differs from its green and white counterparts in having high sugar and low fibre levels. Purple asparagus was originally developed in Italy, near the city of Albenga and commercialized under the variety name 'Violetto d' Albenga'. Purple asparagus can also turn green while being cooked due to its sensitivity to heat.\n\n■ Companion planting\nAsparagus is said to be a useful companion plant for tomatoes, as the tomato plant repels the asparagus beetle. Asparagus may repel some harmful root nematodes that affect tomato plants.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Asparagus officinalis § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Asparagus_officinalis#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175094558,
+        "heading": "Cultivo",
+        "text": "Dado que los espárragos suelen ser originarios de hábitats marítimos, prosperan en suelos demasiado salinos para que crezcan las malas hierbas normales. Por ello, tradicionalmente se utilizaba un poco de sal para suprimir las malas hierbas en los arriates destinados a los espárragos; esto tiene la desventaja de que el suelo no se puede utilizar para otra cosa. Algunas regiones y zonas de jardinería son más adecuadas para el cultivo del espárrago que otras, como la costa oeste de Norteamérica y otros entornos más marítimos, como el clima mediterráneo. La fertilidad del suelo es un factor importante. Las \"coronas\" se plantan en invierno, y los primeros brotes aparecen en primavera; las primeras cosechas o \"raleos\" se conocen como espárragos de cola. El espárrago tiene tallos finos.​\nUna raza de \"espárragos de temporada temprana\" que puede cosecharse dos meses antes de lo habitual fue anunciada por un productor del Reino Unido a principios de 2011.​ Esta variedad no necesita permanecer en reposo y florece a 7 grados Celsius (44,6 °F), en lugar de a los 9 grados Celsius (48,2 °F) habituales.\nEl espárrago morado se distingue del verde y del blanco por su alto contenido en azúcar y su bajo contenido en fibra. El espárrago morado se desarrolló originalmente en Italia, cerca de la ciudad de Albenga y se comercializó con el nombre de variedad 'Violetto d' Albenga'.​ Los espárragos morados también pueden volverse verdes mientras se cocinan debido a su sensibilidad al calor.​",
         "truncated": false
       }
     }
@@ -437,7 +485,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -589,7 +637,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/531229-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -597,7 +645,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/531229-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000634022.webp",
@@ -610,6 +658,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

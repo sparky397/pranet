@@ -14,17 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "es": [
-      "Ispingo Moena"
-    ],
-    "en": [
-      "Cogwood",
-      "Demerara Greenheart",
-      "Greenheart"
-    ],
     "de": [
       "Grünherzholz"
     ],
@@ -39,24 +31,50 @@
     ],
     "nb": [
       "greenheart"
+    ],
+    "es": [
+      "Ispingo Moena"
+    ],
+    "en": [
+      "Cogwood",
+      "Demerara Greenheart",
+      "Greenheart"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q906454",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q906454",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Chlorocardium rodiei」",
+      "source": "Wikipedia (en): Chlorocardium rodiei",
       "source_url": "https://en.wikipedia.org/wiki/Chlorocardium_rodiei",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372013421,
       "text": "Chlorocardium rodiei (greenheart) is a species of flowering plant in the family Lauraceae. It is one of three species in the genus Chlorocardium. It is native to Guyana and Suriname, both in South America. Other common names include cogwood, demerara greenheart, greenhart, ispingo moena, sipiri, bebeeru and bibiru."
+    },
+    "es": {
+      "source": "Wikipedia (es): Chlorocardium rodiei",
+      "source_url": "https://es.wikipedia.org/wiki/Chlorocardium_rodiei",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 155085505,
+      "text": "Chlorocardium rodiei es una planta miembro de la familia Lauraceae. Es una de las dos especies del género Chlorocardium, antiguamente se la había clasificado en el género Nectandra u Ocotea, como Nectandra rodiei o Ocotea rodiei. Otros nombres locales son sipiri, bebeeru y bibiru. Es nativa de la zona norte de Sud América, principalmente Guyana y Surinam."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Chlorocardium rodiei",
+      "source_url": "https://fr.wikipedia.org/wiki/Chlorocardium_rodiei",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216094340,
+      "text": "Chlorocardium rodiei est l'une des deux espèces de plantes à fleurs du genre Chlorocardium, dans la famille des Lauraceae. C'est un arbre à feuilles persistantes, pouvant atteindre 15 à 30 m de hauteur avec un tronc d'un diamètre de 30 à 60 cm. Il est natif d'Amérique du Sud."
     }
   },
   "edible": {
@@ -69,7 +87,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -81,7 +99,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/274528-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -89,7 +107,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/274528-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000603136.webp",
@@ -102,6 +120,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

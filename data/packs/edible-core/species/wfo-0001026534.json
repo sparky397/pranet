@@ -17,7 +17,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -27,17 +27,11 @@
       "Tamarillo",
       "Tree Tomato"
     ],
-    "es": [
-      "Lima Tomate",
-      "Tomate Extranjero",
-      "Tomate de Árbol"
+    "fr": [
+      "Tamarillo"
     ],
-    "zh": [
-      "树番茄",
-      "树西红柿"
-    ],
-    "af": [
-      "boomtamatie"
+    "id": [
+      "Terung belanda"
     ],
     "jv": [
       "térong walanda"
@@ -54,9 +48,6 @@
     "udm": [
       "Тамарилло"
     ],
-    "fr": [
-      "Tamarillo"
-    ],
     "lbe": [
       "Тамарилло"
     ],
@@ -65,9 +56,6 @@
     ],
     "de": [
       "Tamarillo"
-    ],
-    "id": [
-      "Terung belanda"
     ],
     "ml": [
       "മരത്തക്കാളി"
@@ -113,6 +101,10 @@
     ],
     "kv": [
       "Тамарилло"
+    ],
+    "zh": [
+      "树西红柿",
+      "树番茄"
     ],
     "th": [
       "มะเขือเทศต้น"
@@ -167,13 +159,21 @@
     ],
     "bbc": [
       "Tiung"
+    ],
+    "es": [
+      "Lima Tomate",
+      "Tomate Extranjero",
+      "Tomate de Árbol"
+    ],
+    "af": [
+      "boomtamatie"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q379747",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q379747",
   "search_names": {
@@ -184,36 +184,105 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「タマリロ」",
+      "source": "Wikipedia (ja): タマリロ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110374365,
       "text": "タマリロ は、ナス科ナス属の植物。また、その果実のこと。常緑小木で、果実は食用として利用される。トマトに近縁で、ツリートマト、木立ちトマトの別名を持つ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Tamarillo」",
+      "source": "Wikipedia (en): Tamarillo",
       "source_url": "https://en.wikipedia.org/wiki/Tamarillo",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1379241762,
       "text": "The tamarillo is a tree or shrub in the flowering plant family Solanaceae. It bears an egg-shaped edible fruit. It is common globally, especially in its native South America, and has been introduced in New Zealand, Nepal, Rwanda, Burundi, the Democratic Republic of the Congo, Australia, Indonesia, Madeira and Bhutan."
+    },
+    "es": {
+      "source": "Wikipedia (es): Solanum betaceum",
+      "source_url": "https://es.wikipedia.org/wiki/Solanum_betaceum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175370245,
+      "text": "Solanum betaceum es un arbusto de 3 a 4 m de altura, con corteza grisácea y follaje perenne. Las primeras descripciones históricas lo ubican en Perú, Bolivia y algunos lugares del norte de Argentina. Se cultiva en Perú, Colombia, Ecuador, Bolivia, Argentina, Chile y Venezuela."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Tamarillo",
+      "source_url": "https://fr.wikipedia.org/wiki/Tamarillo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235525579,
+      "text": "Le Tamarillo est une espèce du genre Solanum et de la famille des Solanaceae originaire de la cordillère des Andes, en Amérique du Sud. On le connaît pour son fruit, rouge ou rose-orangé, de la forme et légèrement plus gros qu’un œuf de poule ou semblable à une tomate allongée, pour lequel on le cultive."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Solanum betaceum",
+      "source_url": "https://pt.wikipedia.org/wiki/Solanum_betaceum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73197364,
+      "text": "Solanum betaceum, comummente conhecido como tamarilhoe tomate-arbóreo, é uma espécie de árvore, pertencente à família das solanáceas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Terung belanda",
+      "source_url": "https://id.wikipedia.org/wiki/Terung_belanda",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29887457,
+      "text": "Terung belanda atau terong belanda adalah jenis tanaman anggota keluarga terung-terungan (Solanaceae) yang berasal dari wilayah Amerika Selatan. Di Indonesia terung ini mungkin pertama kali dibawa dan dikembangkan di Indonesia oleh orang Belanda di Bogor Jawa Barat sejak tahun 1941 sehingga dikenal dengan nama terung belanda, padahal buah tersebut berasal dari daerah Amazon di Amerika Latin."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Tamarillo」の節「Cultivation」",
+        "source": "Wikipedia (en): Tamarillo § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Tamarillo#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1379241762,
         "heading": "Cultivation",
         "text": "■ Soil and climate requirements\nThe tamarillo prefers a subtropical climate, with rainfall between 600 and 4000 millimeters and annual temperatures between 15 and 20 °C. It is intolerant to frost (below -2 °C) and drought stress. It is assumed that fruit set is affected by night temperatures. Areas where citrus are cultivated provide good conditions for tamarillos as well, such as in the Mediterranean climate.\nTamarillo plants grow best in light, deep, fertile soils, although they are not very demanding. However, soils must be permeable since the plants are not tolerant of water-logging. They grow naturally on soils with a pH of 5 to 8.5.\n\n■ Growth\nPropagation is possible by both using seeds or cuttings. Seedlings first develop a straight, about 1.5 to 1.8 meters tall trunk, before they branch out. Propagation by seeds is easy and ideal in protected environments. However, in orchards with different cultivars, cross-pollination will occur and characteristics of the cultivars get mixed up. Seedlings should be kept in the nursery until they reach a height of 1 to 1.5 m as they are very frost-sensitive.\nPlants grown from cuttings branch out earlier and result in more shrub-like plants that are more suitable for exposed sites. Cuttings should be made from basal and aerial shoots, and should be free of pathogenic viruses. Plants grown from cuttings should be kept in the nursery until they reach a height of 0.5 to 1 m.\nThe tree grows very quickly and is able to bear fruit after 1.5 to 2 years. The plant is daylength-insensitive. The fruits do not mature simultaneously, unless the tree has been pruned. A single tree can produce more than 20 kg of fruit per year; an orchard yields in 15 to 17 tons per hectare.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Tamarillo § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Tamarillo#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 235525579,
+        "heading": "Culture",
+        "text": "La plante provient originellement des Andes (Équateur, Colombie, Pérou, Chili et Bolivie). Aujourd'hui, le tamarillo y est encore cultivé dans des jardins et vergers pour un usage local, il s'agit de l'un des fruits les plus populaires dans ces régions. Sa culture s'est également répandue dans les zones subtropicales, telles que le Rwanda, l'Afrique du Sud, l'Inde, Hong Kong, la Chine, les États-Unis, l'Australie et la Nouvelle-Zélande. L'espèce s'est naturalisée à Madagascar où elle est appelée « voatabia hazo » (tomate arbre). Le climat naturel de ces endroits est favorable à la croissance et au développement de S. betaceum car il pousse bien dans les régions chaudes (Zones USDA 9 et supérieures).\nLa plante meurt à partir de −3,0 °C. C'est une vivace qui peut rester en place une dizaine d'années en situation abritée car elle est cassante donc sensible au vent.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Solanum betaceum § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Solanum_betaceum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 73197364,
+        "heading": "Cultivo",
+        "text": "Esta espécie é cultivada, em áreas subtropicais e em zonas tropicais de maior altitude, por causa do seu fruto comestível, por sinal muito apreciado.  \nO tomate-de-árvore é rico em vitamina A, sendo indicada para controlar o colesterol. É apreciada ao natural e seu sabor agridoce também pode ser explorado com sucesso no preparo de sumos, geleias ou compotas, salada de frutas e molhos para acompanhar carnes.\nA fruta é comercialmente cultivada na Nova Zelândia, na Califórnia e em Portugal.\n\n■ Riscos Conhecidos\nO fruto desta espécie, quando ainda está imaturo, é ligeiramente tóxico.==Notas==",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Terung belanda § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Terung_belanda#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29887457,
+        "heading": "Penanaman",
+        "text": "Terung belanda ditanam melalui biji, dapat juga memakai setek atau tunas kecambah. Bila memakai biji, akan berbuah dalam usia 2 tahun, dan mati dalam usia 5-6 tahun. Dengan cara penempelan pada spesies lain (Cyphomandra costaricensis (Donn.) Smith), tanaman ini akan berusia lebih panjang daripada pengembangbiakan dengan jalan menempelkan pada spesies yang sama. Ada dua jenis terung belanda, yakni yang berbuah merah, dan kuning. Yang sering ditanam orang adalah yang buahnya berwarna merah.",
+        "truncated": false
       }
     }
   },
@@ -226,7 +295,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -297,7 +366,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306169-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -305,7 +374,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306169-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001026534.webp",
@@ -318,6 +387,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

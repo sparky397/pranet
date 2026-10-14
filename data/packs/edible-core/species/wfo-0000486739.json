@@ -53,19 +53,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "刺茎椰子",
-      "格鲁椰子",
-      "格魯椰"
+    "pt": [
+      "Coco-de-espinho"
     ],
     "nl": [
       "Coyolpalm"
-    ],
-    "pt": [
-      "Coco-de-espinho"
     ],
     "de": [
       "Macauba-Palme"
@@ -78,13 +73,18 @@
     ],
     "cs": [
       "akrokomie mexická"
+    ],
+    "zh": [
+      "格魯椰",
+      "刺茎椰子",
+      "格鲁椰子"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1882542",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1882542",
   "search_names": {
@@ -101,13 +101,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Acrocomia aculeata」",
+      "source": "Wikipedia (en): Acrocomia aculeata",
       "source_url": "https://en.wikipedia.org/wiki/Acrocomia_aculeata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369352321,
       "text": "Acrocomia aculeata is a species of palm native to the Neotropics."
+    },
+    "es": {
+      "source": "Wikipedia (es): Acrocomia aculeata",
+      "source_url": "https://es.wikipedia.org/wiki/Acrocomia_aculeata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174500740,
+      "text": "Acrocomia aculeata, mbocayá, coyol, bastones de Tabago, palma espinosa de las Antillas, tamaca de Colombia, corozo de Venezuela, palma de vino, grugru, nuez del Paraguay, totaí en Bolivia;  Palma de Sonia o simplemente cocoyoles en Mesoamérica ; es una planta de la familia de las arecáceas, nativa de ciertas zonas tropicales de América. El aceite de la semilla y la pulpa se utilizan en alimentación y en la fabricación de jabones."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Acrocomia aculeata",
+      "source_url": "https://fr.wikipedia.org/wiki/Acrocomia_aculeata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238531766,
+      "text": "Acrocomia aculeata est une espèce de plantes à fleurs de la famille des Arecaceae. C'est un palmier originaire d'Amérique tropicale, des Caraïbes, du sud du Mexique au nord de l'Argentine."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Coco-de-espinho",
+      "source_url": "https://pt.wikipedia.org/wiki/Coco-de-espinho",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66815279,
+      "text": "Acrocomia aculeata é uma palmeira nativa brasileira e uma das duas espécies que são popularmente conhecidas pelos nomes de macaúba, macaíba, boicaiuva, macaúva, coco-de-catarro, coco-baboso, coco-de-espinho, coco-macaúba, macajuba, macaibeira, macajá, mucajá, mocajá, bocaiuva, chiclete-de-baiano, chiclete cuiabano, bocaiúva, macacauba, macaiba, macaibeira, macaúva, mucaia, mucaja e mucajaba. A outra é a Acrocomia intumescens. Sua principal característica são os espinhos escuros, longos e pontiagudos na região dos nós."
     }
   },
   "edible": {
@@ -121,7 +148,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -158,7 +185,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/663914-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -166,7 +193,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/663914-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000486739.webp",
@@ -179,6 +206,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

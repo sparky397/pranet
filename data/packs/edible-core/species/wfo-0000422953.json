@@ -39,55 +39,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "北部ハイブッシュ系"
-    ],
-    "cy": [
-      "llusen America"
-    ],
-    "en": [
-      "highbush blueberry",
-      "New Jersey blueberry",
-      "Smallflower blueberry",
-      "Southern blueberry",
-      "Smooth Highbush Blueberry"
-    ],
-    "nl": [
-      "Trosbosbes"
-    ],
-    "fr": [
-      "bleuet cultivé"
-    ],
-    "de": [
-      "Amerikanische Blaubeere",
-      "Amerikanische Heidelbeere"
-    ],
-    "zh": [
-      "高丛越橘",
-      "埃利越橘",
-      "北方高丛蓝莓",
-      "高大越橘",
-      "黑果木",
-      "蓝莓",
-      "美丽越橘",
-      "南高丛蓝莓",
-      "拟态越橘",
-      "兔眼蓝莓",
-      "兔眼越橘",
-      "小穗越橘",
-      "北方高叢藍莓"
-    ],
-    "ast": [
-      "arandanera azul"
     ],
     "ru": [
       "Голубика высокорослая"
     ],
     "sr": [
       "Sjeverna visokožbunasta borovnica"
+    ],
+    "de": [
+      "Amerikanische Heidelbeere",
+      "Amerikanische Blaubeere"
     ],
     "sv": [
       "amerikanskt blåbär"
@@ -116,6 +82,9 @@
     "gl": [
       "Arandeira americana"
     ],
+    "cy": [
+      "Llusen america"
+    ],
     "hr": [
       "Američka borovnica"
     ],
@@ -125,6 +94,21 @@
     "eo": [
       "Blua bero"
     ],
+    "zh": [
+      "北方高叢藍莓",
+      "高丛越橘",
+      "埃利越橘",
+      "北方高丛蓝莓",
+      "高大越橘",
+      "黑果木",
+      "蓝莓",
+      "美丽越橘",
+      "南高丛蓝莓",
+      "拟态越橘",
+      "兔眼蓝莓",
+      "兔眼越橘",
+      "小穗越橘"
+    ],
     "arz": [
       "فاكينيوم كورمبوسوم"
     ],
@@ -133,13 +117,29 @@
     ],
     "hu": [
       "fürtös áfonya"
+    ],
+    "en": [
+      "highbush blueberry",
+      "New Jersey blueberry",
+      "Smallflower blueberry",
+      "Southern blueberry",
+      "Smooth Highbush Blueberry"
+    ],
+    "nl": [
+      "Trosbosbes"
+    ],
+    "fr": [
+      "bleuet cultivé"
+    ],
+    "ast": [
+      "arandanera azul"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q468695",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q468695",
   "search_names": {
@@ -154,36 +154,65 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「北部ハイブッシュ系」",
+      "source": "Wikipedia (ja): 北部ハイブッシュ系",
       "source_url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%83%A8%E3%83%8F%E3%82%A4%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5%E7%B3%BB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107421227,
       "text": "北部ハイブッシュ系 とは、ブルーベリーの系統の一つ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vaccinium corymbosum」",
+      "source": "Wikipedia (en): Vaccinium corymbosum",
       "source_url": "https://en.wikipedia.org/wiki/Vaccinium_corymbosum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371804153,
       "text": "Vaccinium corymbosum is a North American species of blueberry with several common names, including highbush blueberry and rabbiteye blueberry."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vaccinium corymbosum",
+      "source_url": "https://es.wikipedia.org/wiki/Vaccinium_corymbosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174792343,
+      "text": "El arándano es una planta del género Vaccinium, que también incluye muchos arbustos silvestres productores de bayas comestibles redondas y con vértices brillantes."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vaccinium corymbosum",
+      "source_url": "https://fr.wikipedia.org/wiki/Vaccinium_corymbosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 218556753,
+      "text": "Vaccinium corymbosum, ou Vaccinium constablaei, est une espèce de plante à fleurs de la famille des Ericaceae, originaire d'Amérique du Nord. Elle est connue en français sous les noms de Myrtille arbustive, Grande Myrtille, Myrtille américaine, en Europe francophone et Bleuet en corymbes, Bleuet géant, Bleuet au Canada francophone."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Vaccinium corymbosum」の節「Cultivation」",
+        "source": "Wikipedia (en): Vaccinium corymbosum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Vaccinium_corymbosum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1371804153,
         "heading": "Cultivation",
         "text": "Many wild species of Vaccinium are thought to have been cultivated by Native Americans for thousands of years, with intentional crop burnings in northeastern areas being apparent from archeological evidence. V. corymbosum, being one of the species likely used by these peoples, was later studied and domesticated in 1908 by Elizabeth Coleman White and Frederick Vernon Coville. It became commonly cultivated as a fresh fruit crop in the 20th century and the most common commercially grown blueberry in North America.\nIt is also cultivated as an ornamental plant for home and wildlife gardens and natural landscaping projects. The soil pH must be very acidic (4.5 to 5.5).  It can be used as an ornamental hedge.\n\n■ Cultivars\nDozens of commercial cultivars exist. Some common examples are listed here, grouped by approximate start of the harvest season:\n\nThe cultivars Duke and Spartan have gained the Royal Horticultural Society's Award of Garden Merit.\n\n■ Southern highbush blueberry\nSome plants named southern highbush blueberry are hybridized forms derived from crosses between V. corymbosum and V. darrowii, a native of the Southeastern US. These hybrids and other cultivars of V. darrowii (southern highbush blueberry) have been developed for cultivation in warm southern and western regions of North America.",
         "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Vaccinium corymbosum § Producción",
+        "source_url": "https://es.wikipedia.org/wiki/Vaccinium_corymbosum#Producci%C3%B3n",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174792343,
+        "heading": "Producción",
+        "text": "La producción de arándano a nivel industrial se concentra en América del Norte, en la que destaca la variedad northern highbush blueberry (V. corymbosum). Existen variantes de Vaccinium adaptadas a climas más sureños. Y las variedades \"silvestres\" de arándano (V. angustifolium), de un menor tamaño que las variedades norteñas, suelen tener un color más intenso.[cita requerida] En años recientes China ha superado a Estados Unidos con una producción cercana a 386.000 toneladas métricas en 2023.\nLas zonas de cultivo están distribuidas entre Estados Unidos y Canadá, en los estados y/o provincias de Columbia Británica, Maryland, Oregón (zona oeste), Míchigan, Nueva Jersey, Carolina del Norte y Washington. Y las variedades modificadas se cultivan en California.[cita requerida]\n\n■ Estados Unidos\nEn el 2018, Oregón tuvo el mayor cultivo de arándanos azules, con un récord de 59 millones de kilogramos, una cantidad ligeramente superior a la cultivada en el estado de Washington.",
+        "truncated": true
       }
     }
   },
@@ -199,7 +228,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -247,7 +276,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/261823-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -255,7 +284,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/261823-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000422953.webp",
@@ -268,6 +297,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 261,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

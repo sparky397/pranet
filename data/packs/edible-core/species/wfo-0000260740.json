@@ -11,17 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Biblical-hyssop",
-      "Lebanese oregano",
-      "Syrian oregano"
-    ],
-    "sv": [
-      "syrisk oregano"
-    ],
     "ru": [
       "душица сирийская"
     ],
@@ -48,13 +40,21 @@
     ],
     "ko": [
       "시리아오레가노"
+    ],
+    "en": [
+      "Biblical-hyssop",
+      "Lebanese oregano",
+      "Syrian oregano"
+    ],
+    "sv": [
+      "syrisk oregano"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q13714507",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q13714507",
   "search_names": {
@@ -66,13 +66,22 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Origanum syriacum」",
+      "source": "Wikipedia (en): Origanum syriacum",
       "source_url": "https://en.wikipedia.org/wiki/Origanum_syriacum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370839534,
       "text": "Origanum syriacum subsp. syriacum; syn. Majorana syriaca, bible hyssop, Biblical-hyssop, Lebanese oregano or Syrian oregano, is an aromatic perennial herb in the mint family, Lamiaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Origanum syriacum",
+      "source_url": "https://es.wikipedia.org/wiki/Origanum_syriacum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581465,
+      "text": "Origanum syriacum; sin. Majorana syriaca, hisopo bíblico, orégano de Líbano u orégano de Siria, es una planta aromática perenne de la familia Lamiaceae."
     }
   },
   "edible": {
@@ -84,7 +93,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +108,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/453375-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -107,7 +116,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/453375-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000260740.webp",
@@ -120,6 +129,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

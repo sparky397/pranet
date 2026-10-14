@@ -36,42 +36,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウミザクラ"
     ],
-    "de": [
-      "Vogel-Kirsche",
-      "Süsskirsche",
-      "Vogelkirsche"
-    ],
-    "en": [
-      "Wild Cherry",
-      "sweet cherry",
-      "bird cherry",
-      "gean, wild cherry"
-    ],
-    "zh": [
-      "甜櫻桃",
-      "欧洲甜樱桃"
-    ],
-    "nl": [
-      "Zoete kers"
-    ],
-    "cs": [
-      "třešeň ptačí"
-    ],
-    "fr": [
-      "cerisier des oiseaux",
-      "merisier"
-    ],
-    "tg": [
-      "гелос"
-    ],
-    "sl": [
-      "češnja"
+    "id": [
+      "Ceri manis"
     ],
     "szl": [
       "Trzyśńa"
@@ -96,6 +68,9 @@
     ],
     "ar": [
       "كرز حلو"
+    ],
+    "nl": [
+      "zoete kers"
     ],
     "eo": [
       "Ĉerizarbo"
@@ -139,6 +114,11 @@
     "bar": [
       "Keasch"
     ],
+    "de": [
+      "Vogelkirsche",
+      "Vogel-Kirsche",
+      "Süsskirsche"
+    ],
     "kbd": [
       "Балий"
     ],
@@ -156,6 +136,9 @@
     ],
     "os": [
       "Гуырдзиаг бал"
+    ],
+    "cs": [
+      "třešeň ptačí"
     ],
     "fa": [
       "گیلاس خودرو"
@@ -178,8 +161,16 @@
     "gv": [
       "Shillish"
     ],
+    "fr": [
+      "merisier",
+      "cerisier des oiseaux"
+    ],
     "kk": [
       "Мойыл"
+    ],
+    "zh": [
+      "甜櫻桃",
+      "欧洲甜樱桃"
     ],
     "be": [
       "чарэшня"
@@ -189,6 +180,9 @@
     ],
     "sr": [
       "Трешња"
+    ],
+    "sl": [
+      "češnja"
     ],
     "mk": [
       "цреша"
@@ -253,6 +247,9 @@
     "vec": [
       "Saresaro"
     ],
+    "tg": [
+      "Гелос"
+    ],
     "sgs": [
       "Trešnė"
     ],
@@ -276,9 +273,6 @@
     ],
     "hyw": [
       "Կեռասենի"
-    ],
-    "id": [
-      "Ceri manis"
     ],
     "wuu": [
       "欧洲甜樱桃"
@@ -312,13 +306,19 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇၵွၼ်"
+    ],
+    "en": [
+      "Wild Cherry",
+      "sweet cherry",
+      "bird cherry",
+      "gean, wild cherry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q165137",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q165137",
   "search_names": {
@@ -328,45 +328,92 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウミザクラ」",
+      "source": "Wikipedia (ja): セイヨウミザクラ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%9F%E3%82%B6%E3%82%AF%E3%83%A9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111315460,
       "text": "セイヨウミザクラ は、ヨーロッパ、北西アフリカ、西アジアに自生するサクラ属の植物であり、果樹のサクランボ（桜桃）の多くの品種がこの種に由来する。自生種の北限はブリテン諸島、南限はモロッコ、チュニジア、東限はスウェーデン南部、ポーランド、ウクライナ、コーカサス、イラン北部である。ヒマラヤ西部にも隔離分布している。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Prunus avium」",
+      "source": "Wikipedia (en): Prunus avium",
       "source_url": "https://en.wikipedia.org/wiki/Prunus_avium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374218019,
       "text": "Prunus avium, commonly called wild cherry, sweet cherry or gean, is a species of cherry, a flowering plant in the rose family, Rosaceae. It is native to western Eurasia and naturalized elsewhere. It is an ancestor of P. cerasus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Prunus avium",
+      "source_url": "https://es.wikipedia.org/wiki/Prunus_avium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172722490,
+      "text": "Prunus avium, llamado comúnmente cerezo silvestre, cerezo dulce o cerezo de monte, es una especie de cerezo nativo de Europa y el occidente asiático, del cual se derivan la gran mayoría de los cultivares comerciales de cereza. Es un frutal apreciado en la cuenca mediterránea desde la Edad Antigua; griegos y romanos lo difundieron extensamente. Hoy se cultiva en buena parte de las regiones templadas del mundo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Prunus avium",
+      "source_url": "https://fr.wikipedia.org/wiki/Prunus_avium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239466887,
+      "text": "Le Merisier ou Cerisier des oiseaux (Prunus avium) est une espèce de plantes à fleurs de la famille des Rosaceae du genre Prunus. C'est un arbre originaire d'Europe, d'Asie de l'ouest et d'Afrique du nord. Il est parfois appelé cerisier sauvage ou cerisier des bois."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Prunus avium",
+      "source_url": "https://pt.wikipedia.org/wiki/Prunus_avium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64868825,
+      "text": "A cerejeira-brava é uma árvore da família das rosáceas. Destaca-se em anéis papiráceos, folhas grandes, flores em umbelas sésseis, pétalas brancas e drupa globosa e doce."
+    },
+    "id": {
+      "source": "Wikipedia (id): Ceri manis",
+      "source_url": "https://id.wikipedia.org/wiki/Ceri_manis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29069698,
+      "text": "Ceri manis adalah sejenis tumbuhan pohon ceri yang tergabung dalam famili Rosaceae. Pohon ini berasal dari wilayah Eropa, Anatolia, Arab Maghrib, dan Asia Barat. Penyebaran pohon ini mulai dari Kepulauan Britania sampai ke Kaukasus dan Iran utara, serta dari Norwegia sampai ke Maroko, dengan populasi kecil yang terisolasi di Himalaya barat. Ceri manis banyak dibudidayakan di kawasan dunia lainnya dan telah menjadi tumbuhan alami di Amerika Utara dan Australia."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Prunus avium」の節「Cultivation」",
+        "source": "Wikipedia (en): Prunus avium § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Prunus_avium#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374218019,
         "heading": "Cultivation",
         "text": "It is often cultivated as a flowering tree. Because of the size of the tree, it is often used in parkland, and less often as a street or garden tree. The double-flowered form, 'Plena', is commonly found, rather than the wild single-flowered forms. In the UK, P. avium 'Plena' has gained the Royal Horticultural Society's Award of Garden Merit.\nTwo interspecific hybrids, P. × schmittii (P. avium × P. canescens) and P. × fontenesiana (P. avium × P. mahaleb) are also grown as ornamental trees.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Prunus avium § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Prunus_avium#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 172722490,
+        "heading": "Cultivo",
+        "text": "P. avium es bastante resistente, y se naturaliza sin dificultad en bosques claros. Es vulnerable a la sequía y a las heladas primaverales; crece mejor en áreas templadas con inviernos definidos. Presenta requerimientos de frío para una adecuada ruptura de la dormancia e inicio de la nueva estación de crecimiento. Estos requerimientos de frío son muy variables, según los cultivares: desde 500 a 1300 horas de frío.​ Los mayores productores de cerezas a efectos comerciales son Rusia, Estados Unidos, Alemania, Italia, Francia y España. Existen cultivos de cerezo destinados a efectos ornamentales, con ramas colgantes y flores dobles; son comunes en Europa y en Japón. Con la cereza de la variedad marrasca se elabora el licor llamado marrasquino.",
         "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Prunus avium」の節「Toxicity」",
+        "source": "Wikipedia (en): Prunus avium § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Prunus_avium#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374218019,
         "heading": "Toxicity",
         "text": "All parts of the plant except for the ripe fruit are slightly toxic, containing cyanogenic glycosides.",
@@ -386,7 +433,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -488,7 +535,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30093848-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -496,7 +543,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30093848-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001006607.webp",
@@ -509,6 +556,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 398,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

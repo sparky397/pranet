@@ -37,21 +37,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オオバイヌビワ"
     ],
-    "zh": [
-      "大冇榕",
-      "棱果榕"
-    ],
-    "tl": [
-      "hauili"
-    ],
     "id": [
       "Awar-awar"
+    ],
+    "zh": [
+      "棱果榕",
+      "大冇榕"
     ],
     "jv": [
       "Awar-awar"
@@ -80,6 +77,9 @@
     "pam": [
       "Awili"
     ],
+    "tl": [
+      "hauili"
+    ],
     "gor": [
       "Bu'alo"
     ]
@@ -88,27 +88,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5446640",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5446640",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オオバイヌビワ」",
+      "source": "Wikipedia (ja): オオバイヌビワ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%A4%E3%83%8C%E3%83%93%E3%83%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106351509,
       "text": "オオバイヌビワ は、クワ科イチジク属の樹木の一つ。大きな幅広い葉をつける。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ficus septica」",
+      "source": "Wikipedia (en): Ficus septica",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_septica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373620130,
       "text": "Ficus septica, also known as the Hauili fig tree, is a species of shrub or tree in the family Moraceae. It is native to Malesia, Taiwan, the Ryukyu Islands, Papuasia, Queensland in northern Australia, the Santa Cruz Islands, and Vanuatu.\nIt grows in lowland tropical moist forests, often at forest edges and in degraded environments. The seeds of this species are dispersed by numerous species, including fruit bats (Megachiroptera) when present."
+    },
+    "id": {
+      "source": "Wikipedia (id): Awar-awar",
+      "source_url": "https://id.wikipedia.org/wiki/Awar-awar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30000337,
+      "text": "Awar-awar adalah sejenis tumbuhan yang termasuk kerabat beringin, anggota famili Moraceae. Perdu atau pohon kecil ini biasa ditemukan di hutan semak atau di tempat-tempat yang meliar, di seluruh wilayah Malesia kecuali Semenanjung Malaya; getahnya yang terkandung pada akar, ranting, daun dan buahnya dimanfaatkan untuk mengobati keracunan dan sakit pencernaan. Nama-nama daerahnya, di antaranya, awar-awar ; bar-abar (Md.); ki ciyat (Sd.); sirih popar ; daussalo (Bug.); tobo-tobo (Mak.); tagalolo ; bobulutu (Gal.)."
     }
   },
   "edible": {
@@ -127,7 +136,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -152,7 +161,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853688-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -160,7 +169,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853688-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000690291.webp",
@@ -173,6 +182,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 268,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

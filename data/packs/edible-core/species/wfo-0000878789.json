@@ -15,7 +15,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "eo": [
@@ -47,9 +47,38 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3890225",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3890225",
+  "description": {
+    "es": {
+      "source": "Wikipedia (es): Lygeum spartum",
+      "source_url": "https://es.wikipedia.org/wiki/Lygeum_spartum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174388071,
+      "text": "Lygeum es un género monotípico de plantas perteneciente a la familia de las gramíneas (Poaceae). Su única especie es el albardín, cuyo nombre científico es Lygeum spartum, y es propia de zonas secas sobre sustratos arcillosos o margosos, yesíferos o salinos de la cuenca mediterránea. Se la suele confundir con el esparto, aunque el verdadero esparto es la especie Stipa tenacissima."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lygeum spartum",
+      "source_url": "https://fr.wikipedia.org/wiki/Lygeum_spartum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227369356,
+      "text": "Lygeum spartum est une espèce de plantes à fleurs monocotylédones de la famille des Poaceae, sous-famille des Pooideae, endémique du sud du bassin méditerranéen. C'est l'unique espèce du genre Lygeum, lui-même unique genre de la tribu des Lygeeae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lygeum spartum",
+      "source_url": "https://pt.wikipedia.org/wiki/Lygeum_spartum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 55015336,
+      "text": "Lygeum spartum é uma espécie de planta com flor pertencente à família Poaceae."
+    }
+  },
   "edible": {
     "is_food": false,
     "use_codes": [
@@ -58,7 +87,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -83,7 +112,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/407723-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or rhizomatous geophyte",
@@ -91,7 +120,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/407723-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000878789.webp",
@@ -104,6 +133,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 301,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

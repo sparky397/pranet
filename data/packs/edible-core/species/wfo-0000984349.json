@@ -41,44 +41,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウスモモ"
     ],
-    "de": [
-      "Zwetschge",
-      "Pflaume"
-    ],
-    "en": [
-      "European plum"
-    ],
-    "nl": [
-      "Pruim"
-    ],
-    "cs": [
-      "slivoň švestka"
-    ],
-    "fi": [
-      "tarhaluumupuu",
-      "luumu"
-    ],
-    "bn": [
-      "আলু বোখারা"
-    ],
-    "zh": [
-      "欧洲李",
-      "苦杏仁",
-      "欧洲李（洋李）",
-      "洋李"
-    ],
-    "ast": [
-      "cirolal"
-    ],
-    "sl": [
-      "sliva",
-      "češplja"
+    "fr": [
+      "Prunier",
+      "prunier"
     ],
     "lb": [
       "Promm"
@@ -206,6 +177,9 @@
     "ca": [
       "prunera"
     ],
+    "cs": [
+      "slivoň švestka"
+    ],
     "os": [
       "Чылауи"
     ],
@@ -227,8 +201,9 @@
     "gv": [
       "Plumbis"
     ],
-    "fr": [
-      "prunier"
+    "de": [
+      "Pflaume",
+      "Zwetschge"
     ],
     "dsb": [
       "Domacna slěwcyna"
@@ -244,6 +219,9 @@
     ],
     "nah": [
       "Ciruela"
+    ],
+    "nl": [
+      "pruim"
     ],
     "oc": [
       "Pruna"
@@ -263,6 +241,12 @@
     "be": [
       "сліва дамашняя"
     ],
+    "zh": [
+      "欧洲李",
+      "苦杏仁",
+      "欧洲李（洋李）",
+      "洋李"
+    ],
     "tl": [
       "Sirwelas"
     ],
@@ -271,6 +255,10 @@
     ],
     "pcd": [
       "Pron·nhié"
+    ],
+    "fi": [
+      "luumu",
+      "tarhaluumupuu"
     ],
     "pl": [
       "śliwa domowa"
@@ -317,6 +305,9 @@
     "tt": [
       "йорт караҗимеше"
     ],
+    "bn": [
+      "আলু বোখারা"
+    ],
     "ko": [
       "서양자두나무"
     ],
@@ -344,6 +335,10 @@
     "szl": [
       "śliwa dōmowŏ"
     ],
+    "sl": [
+      "sliva",
+      "češplja"
+    ],
     "as": [
       "নৰা বগৰী"
     ],
@@ -355,13 +350,19 @@
     ],
     "mk": [
       "Домашна слива"
+    ],
+    "en": [
+      "European plum"
+    ],
+    "ast": [
+      "cirolal"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q44120",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q44120",
   "search_names": {
@@ -371,22 +372,64 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウスモモ」",
+      "source": "Wikipedia (ja): セイヨウスモモ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%82%B9%E3%83%A2%E3%83%A2",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109123014,
       "text": "セイヨウスモモ はバラ科サクラ属スモモ亜属の果樹。いわゆるプラム（plum）の一種である。コーカサス地方原産（あるいはコーカサス地方からカスピ海にかけて原生）。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Prunus domestica」",
+      "source": "Wikipedia (en): Prunus domestica",
       "source_url": "https://en.wikipedia.org/wiki/Prunus_domestica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1330938610,
       "text": "Prunus domestica is a species of flowering plant in the family Rosaceae. A deciduous tree, it includes many varieties of the fruit trees known as plums in English, though not all plums belong to this species. The greengages and damsons also belong to subspecies of P. domestica."
+    },
+    "es": {
+      "source": "Wikipedia (es): Prunus domestica",
+      "source_url": "https://es.wikipedia.org/wiki/Prunus_domestica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175383197,
+      "text": "Prunus domestica, el ciruelo europeo y sus múltiples variedades/cultivares, es una especie de pequeño árbol perteneciente a la familia de las rosáceas. La especie es originaria del Cáucaso, Anatolia y Persia y es ampliamente cultivada en todos los países templados."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Prunier",
+      "source_url": "https://fr.wikipedia.org/wiki/Prunier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236765772,
+      "text": "Le prunier ou prunier cultivé est une espèce de plantes à fleurs appartenant au genre Prunus, au clade Amygdalus-Prunus, section Prunus, de la famille des Rosaceae. C'est un arbre fruitier cultivé pour ses fruits, les prunes. Il est plus rarement appelé prunier domestique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Prunus domestica",
+      "source_url": "https://pt.wikipedia.org/wiki/Prunus_domestica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67686779,
+      "text": "A Prunus domestica ou ameixeira-europeia é uma espécie do género Prunus com muitas variedades. É a espécie mais comum de ameixa ou abrunho, se bem que nem todas as ameixas ou abrunhos sejam desta espécie. Acredita-se que o seu parentesco híbrido seja a Prunus spinosa e a Prunus cerasifera var. divaricata."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Prunus domestica § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Prunus_domestica#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175383197,
+        "heading": "Cultivo",
+        "text": "Es una especie frutal cultivada desde antiguo. Hay dos grandes grupos de variedades cultivadas de ciruelos: las denominadas europeas (Prunus domestica) y las asiáticas (Prunus salicina). En la actualidad son las variedades asiáticas las que más se cultivan, uno de los motivos es la menor necesidad de frío invernal de estas variedades por lo cual se puede cultivar en zonas menos frías y son más precoces.\nAlgunas de las variedades europeas son: \n\nClaudia.\nD'Agen.\nFellemberg.\nMirabelle.\nStanley.\nPresident.\nEntre las asiáticas las más destacadas son: \n\nRed Beaut.\nSanta Rosa.\nAngeleno.\nLaroda.\nEn España, según el Ministerio de Medio Ambiente y Medio Rural y Marino, en 2006 había 20 520 ha de ciruelos. Las principales provincias productoras son Murcia con 4 322 ha, Badajoz con 4 050 ha y Valencia con 2 853 ha.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -401,7 +444,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -483,7 +526,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30221374-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -491,7 +534,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30221374-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000984349.webp",
@@ -504,6 +547,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

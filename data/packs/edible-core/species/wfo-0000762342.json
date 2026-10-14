@@ -19,14 +19,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "须尾草",
-      "灌木须尾草",
-      "鳞芹"
-    ],
     "sr": [
       "Bulbina"
     ],
@@ -35,13 +30,18 @@
     ],
     "zu": [
       "Ibhucu"
+    ],
+    "zh": [
+      "须尾草",
+      "灌木须尾草",
+      "鳞芹"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4987261",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4987261",
   "search_names": {
@@ -53,13 +53,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Bulbine frutescens」",
+      "source": "Wikipedia (en): Bulbine frutescens",
       "source_url": "https://en.wikipedia.org/wiki/Bulbine_frutescens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306220596,
       "text": "Bulbine frutescens, the wild kopieva or stalked bulbine, is a species of flowering plant in the genus Bulbine, native to southern Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Bulbine frutescens",
+      "source_url": "https://es.wikipedia.org/wiki/Bulbine_frutescens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 158677869,
+      "text": "Bulbine frutescens (L.) Willd. es una especie de planta herbácea perteneciente a la familia Xanthorrhoeaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bulbine frutescens",
+      "source_url": "https://fr.wikipedia.org/wiki/Bulbine_frutescens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 213512217,
+      "text": "Bulbine frutescens est une espèce de plantes à fleurs du genre Bulbine, originaire d'Afrique australe."
     }
   },
   "edible": {
@@ -73,7 +91,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -89,7 +107,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/532169-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -97,7 +115,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/532169-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000762342.webp",
@@ -110,6 +128,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 391,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

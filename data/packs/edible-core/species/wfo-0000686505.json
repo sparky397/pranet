@@ -8,44 +8,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オオウイキョウ"
     ],
-    "cy": [
-      "ffenigl mawr"
-    ],
-    "de": [
-      "Gemeines Rutenkraut",
-      "Gemeines Steckenkraut",
-      "Riesenfenchel"
-    ],
-    "es": [
-      "Cañaheja",
-      "Caña",
-      "Cañabeja",
-      "Caña del muermo"
-    ],
-    "fi": [
-      "Välimerenkeltaputki"
-    ],
     "fr": [
-      "Férule Commune",
+      "Férule commune",
       "Grande Férule"
     ],
-    "it": [
-      "Finocchiaccio"
-    ],
-    "en": [
-      "Giant Fennel"
-    ],
-    "ca": [
-      "Canyaferla"
-    ],
-    "ast": [
-      "cañavana"
+    "de": [
+      "Riesenfenchel",
+      "Gemeines Rutenkraut",
+      "Gemeines Steckenkraut"
     ],
     "el": [
       "Νάρθηκας"
@@ -55,6 +31,9 @@
     ],
     "sv": [
       "jättestinkfloka"
+    ],
+    "cy": [
+      "Ffenigl mawr"
     ],
     "ar": [
       "كلخ كبير"
@@ -88,13 +67,34 @@
     ],
     "cs": [
       "Ločidlo obecné"
+    ],
+    "es": [
+      "Cañaheja",
+      "Caña",
+      "Cañabeja",
+      "Caña del muermo"
+    ],
+    "fi": [
+      "Välimerenkeltaputki"
+    ],
+    "it": [
+      "Finocchiaccio"
+    ],
+    "en": [
+      "Giant Fennel"
+    ],
+    "ca": [
+      "Canyaferla"
+    ],
+    "ast": [
+      "cañavana"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q150411",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q150411",
   "search_names": {
@@ -107,32 +107,59 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オオウイキョウ」",
+      "source": "Wikipedia (ja): オオウイキョウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%A6%E3%82%A4%E3%82%AD%E3%83%A7%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110039493,
       "text": "オオウイキョウ は、地中海世界に分布するセリ科の多年草。古代ギリシャにおいてはナルテークス（νάρθηξ, nárthēx) と呼ばれていた。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ferula communis」",
+      "source": "Wikipedia (en): Ferula communis",
       "source_url": "https://en.wikipedia.org/wiki/Ferula_communis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373503368,
       "text": "Ferula communis, the giant fennel, is a species of flowering plant in the carrot family Apiaceae. It is related to the common fennel, which belongs to the same family."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ferula communis",
+      "source_url": "https://es.wikipedia.org/wiki/Ferula_communis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175406334,
+      "text": "La cañaheja es una hierba perenne, de 1-3 m de altura, muy robusta, con grandes inflorescencias abundantemente ramificadas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Férule commune",
+      "source_url": "https://fr.wikipedia.org/wiki/F%C3%A9rule_commune",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227178816,
+      "text": "La Férule commune est une plante méditerranéenne du genre Ferula et de la famille des apiacées. Son « latex » contient des composés toxiques pour les animaux herbivores.\nElle fleurit en mai-juin, se présentant sous forme d'un arbrisseau aux ombelles spectaculaires par leur taille."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ferula communis",
+      "source_url": "https://pt.wikipedia.org/wiki/Ferula_communis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 42587613,
+      "text": "Ferula communis é uma espécie de planta com flor pertencente à família Apiaceae."
     }
   },
   "sections": {
     "toxicity": {
       "ja": {
-        "source": "Wikipedia 日本語版「オオウイキョウ」の節「毒性」",
+        "source": "Wikipedia (ja): オオウイキョウ § 毒性",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%A6%E3%82%A4%E3%82%AD%E3%83%A7%E3%82%A6#%E6%AF%92%E6%80%A7",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110039493,
         "heading": "毒性",
         "text": "オオウイキョウが含有する4-ヒドロキシクマリン誘導体にはワルファリンに似た抗凝血作用があり、大量に摂取すると出血性の中毒を起こす。畜産業においても、ヒツジ、ヤギ、ウシ、ウマなどの家畜に与える干し草に混じり中毒を起こす場合がある。",
@@ -154,7 +181,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -197,7 +224,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/842235-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -205,7 +232,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/842235-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000686505.webp",
@@ -218,6 +245,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

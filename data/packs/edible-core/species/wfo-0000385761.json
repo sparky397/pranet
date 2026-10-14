@@ -49,44 +49,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Barbary fig",
-      "Indian Fig",
-      "Indian-fig",
-      "Tuna Cactus"
-    ],
-    "af": [
-      "Turksvy"
-    ],
-    "es": [
-      "Chumbera",
-      "Higuera de Chumbo",
-      "Higuera de Pala",
-      "Nopal",
-      "Penca",
-      "Tuna",
-      "Nopal de Castilla"
-    ],
-    "fi": [
-      "Viikunaopuntia"
-    ],
     "fr": [
-      "Figuier de Barbarie"
+      "Figuier de Barbarie",
+      "figuier de Barbarie"
     ],
-    "it": [
-      "Fico d'india"
-    ],
-    "zh": [
-      "食用仙人掌",
-      "梨果仙人掌",
-      "龙华宝剑",
-      "秘鲁柱"
-    ],
-    "sl": [
-      "smokvova opuncija"
+    "id": [
+      "Kaktus pir berduri"
     ],
     "am": [
       "ቁልቋል"
@@ -102,6 +73,9 @@
     ],
     "el": [
       "Φραγκοσυκιά"
+    ],
+    "fi": [
+      "viikunaopuntia"
     ],
     "he": [
       "צבר מצוי"
@@ -150,6 +124,12 @@
     ],
     "tr": [
       "Hint inciri"
+    ],
+    "zh": [
+      "梨果仙人掌",
+      "食用仙人掌",
+      "龙华宝剑",
+      "秘鲁柱"
     ],
     "pnb": [
       "کھانوالا چھتر تھور"
@@ -211,8 +191,8 @@
     "arq": [
       "الهندية"
     ],
-    "id": [
-      "Kaktus pir berduri"
+    "sl": [
+      "smokvova opuncija"
     ],
     "smn": [
       "viigunkaktus"
@@ -222,13 +202,34 @@
     ],
     "ur": [
       "ناگ پھنی"
+    ],
+    "en": [
+      "Barbary fig",
+      "Indian Fig",
+      "Indian-fig",
+      "Tuna Cactus"
+    ],
+    "af": [
+      "Turksvy"
+    ],
+    "es": [
+      "Chumbera",
+      "Higuera de Chumbo",
+      "Higuera de Pala",
+      "Nopal",
+      "Penca",
+      "Tuna",
+      "Nopal de Castilla"
+    ],
+    "it": [
+      "Fico d'india"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q144412",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q144412",
   "search_names": {
@@ -241,27 +242,85 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Opuntia ficus-indica」",
+      "source": "Wikipedia (en): Opuntia ficus-indica",
       "source_url": "https://en.wikipedia.org/wiki/Opuntia_ficus-indica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370770669,
       "text": "Opuntia ficus-indica, the Indian fig opuntia, fig opuntia, or prickly pear, is a species of cactus that has long been a domesticated crop plant grown in agricultural economies throughout arid and semiarid parts of the world. O. ficus-indica is the most widespread and most commercially important cactus. It is grown primarily as a fruit crop, and also for the vegetable nopales and other uses. Cacti are good crops for dry areas because they efficiently convert water into biomass. O. ficus-indica is the most widespread of the long-domesticated cactuses. Opuntia species hybridize easily, but the wild origin of O. ficus-indica is likely to have been in central Mexico, where its closest genetic relatives are found."
+    },
+    "es": {
+      "source": "Wikipedia (es): Opuntia ficus-indica",
+      "source_url": "https://es.wikipedia.org/wiki/Opuntia_ficus-indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174976211,
+      "text": "Opuntia ficus-indica, comúnmente conocida, entre otros nombres, como nopal, higuera (de pala), palera, pera de cactus, penca, tuna, tuno, tunera, chumbera e higo, es una especie arbustiva del género Opuntia de la familia de las cactáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Figuier de Barbarie",
+      "source_url": "https://fr.wikipedia.org/wiki/Figuier_de_Barbarie",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240179467,
+      "text": "Le Figuier de Barbarie est une espèce de plante de la famille des Cactaceae, originaire du Mexique, qui s'est naturalisée dans d'autres continents, notamment le bassin méditerranéen, aux îles Canaries et en Afrique du Sud. Il s'agit d'une des deux espèces produisant le fruit comestible appelé figue de Barbarie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Opuntia ficus-indica",
+      "source_url": "https://pt.wikipedia.org/wiki/Opuntia_ficus-indica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67897856,
+      "text": "Opuntia ficus-indica é uma espécie de cacto originária das regiões desérticas do Norte do México ao Sudoeste dos Estados Unidos. Planta comum em regiões semiáridas, possui alto teor de carboidratos não fibrosos, vitamina A e ferro."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kaktus pir berduri",
+      "source_url": "https://id.wikipedia.org/wiki/Kaktus_pir_berduri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29194085,
+      "text": "Opuntia ficus-indica atau kaktus pir berduri adalah spesies kaktus yang telah lama menjadi tanaman peliharaan yang ditanam di perekonomian pertanian di seluruh wilayah arid dan semi arid di dunia. Kaktus ini adalah kaktus yang paling tersebar luas dan paling penting secara komersial. Kaktus ini ditanam terutama sebagai tanaman buah-buahan, dan juga untuk sayuran nopales dan kegunaan lainnya. Kaktus ini merupakan kaktus yang paling tersebar luas di antara kaktus yang telah lama didomestikasi, sama pentingnya secara ekonomi dengan jagung dan agave biru di Meksiko. Spesies Opuntia berhibridisasi dengan mudah, tetapi asal-usul O. ficus-indica liar kemungkinan besar berada di Meksiko tengah, tempat ditemukannya kerabat genetik terdekatnya."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Opuntia ficus-indica」の節「Cultivation」",
+        "source": "Wikipedia (en): Opuntia ficus-indica § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Opuntia_ficus-indica#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1370770669,
         "heading": "Cultivation",
         "text": "■ Distribution\nCommercial use for O. ficus-indica is for the large, sweet fruits called tunas.  An area with a significant tuna-growing cultivation is Mexico. The cactus grows wild and cultivated to heights of 12–16 feet (3.7–4.9 m). In Namibia, O. ficus-indica is a common drought-resistant fodder plant. O. ficus-indica grows in many frost-free areas of the world, including the Southern United States. \nPrickly pears are a massive weed problem for some parts of Australia, especially southeast Queensland, some inland parts of New South Wales, Victoria, and south-eastern and eastern South Australia.\n\nThe plant is considered an invasive species in northern Africa.\n\n■ Growth\nFactors that limit the growth of prickly pear are rainfall, soil, atmospheric humidity, and temperature. Its minimum rainfall requirement is 200 mm per year as long as the soils are sandy and deep. The ideal growth conditions regarding rainfall are 200–400 mm (7.9–15.7 in) per year.\nO. ficus-indica is sensitive to lack of oxygen in the root zone, requiring well-drained soils. It is similar to crassulacean acid metabolism species, which are not salt-tolerant in their root zone, and growth may cease under high salt concentration. O. ficus-indica usually grows in regions where relative humidity is above 60%, and saturation deficit occurs. It is absent in regions where less than 40% humidity occurs for more than a month. Mean daily temperature required to develop is at least 1.5–2.0 °C. At −10 to −12 °C, prickly pear growth is inhibited even if it is exposed to these temperatures only for a few minutes. The maximum temperature limit of prickly pear is above 50 °C.\n\n■ Harvest and preparation\nAs the fruits of O. ficus-indica are delicate, they need to be carefully harvested by hand.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Opuntia ficus-indica § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Opuntia_ficus-indica#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174976211,
+        "heading": "Cultivo",
+        "text": "Una vez inoculados los explantes, se mantienen a condiciones normales de micropropagación de luz y temperatura, siendo que se presenta la regeneración de la planta a partir del explante en unos cuarenta días. Transcurridos veinticinco días de cultivo, se cortan a lo largo los brotes y se descarta el meristema apical, cultivándose las mitades en el medio de BA 10 µM. Dichas mitades producen aproximadamente sesenta explantes con yemas laterales, los cuales a su vez pueden regenerar en promedio quince brotes por explante; en suma quiere decir que se pueden obtener novecientos brotes axilares en cincuenta y cinco días de cultivo de un cladodio de 5 cm, lo cual ascendería a veinticinco mil brotes en aproximadamente tres meses de cultivo.\nEn cuanto a la generación de raíces, se ha confirmado que las mismas son formadas espontáneamente o pueden ser estimulados por la adición de auxinas.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Figuier de Barbarie § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Figuier_de_Barbarie#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240179467,
+        "heading": "Culture",
+        "text": "Le figuier de Barbarie est cultivé principalement pour la production de fruits. On le cultive aussi pour la production de nopalitos (jeunes cladodes consommés comme légumes au Mexique) ou marginalement pour l'élevage de la cochenille Dactylopius coccus, pour la production d'un colorant rouge, aux îles Canaries.\nIl nécessite un climat chaud et une exposition bien ensoleillée. Il préfère un sol filtrant et bien drainé, de pH neutre.\nLa multiplication peut se faire soit par semis, soit par bouture, en partant de cladodes âgés de un à deux ans.\nLa taille, à exécuter au printemps ou en fin d'été, sert à empêcher le contact entre les cladodes, ainsi qu'à éliminer ceux qui sont malformés ou endommagés.\nPour améliorer le rendement, il est opportun d'apporter une fertilisation phospho-potassique, de préférence organique.\nEn culture irriguée, on peut obtenir un rendement de 250 à 300 quintaux de fruits à l'hectare.\nSa rusticité peut être qualifiée de moyenne (idéalement Zone USDA 9) ; bien exposé et en sol drainant, il peut être cultivé au nord de la Loire en France. Certains cultivars pourraient supporter des températures allant jusqu'à -10° C mais mieux vaut éviter de trop longues périodes sous les -5° C surtout en zone humide et/ou sur de jeunes plants.\nOn veillera à le planter de manière isolée (comme plante d'ornement), voire inaccessible, notamment en présence d'enfants car les épines sont de véritables harpons et les blessures peuvent être très douloureuses.",
+        "truncated": false
       }
     }
   },
@@ -280,7 +339,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -372,7 +431,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1151735-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent shrub or tree",
@@ -380,7 +439,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1151735-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000385761.webp",
@@ -393,6 +452,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 343,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

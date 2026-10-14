@@ -21,35 +21,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "pond apple",
-      "Alligator Apple",
-      "kaitambu",
-      "kaitambo",
-      "uto ni bulumakau",
-      "uto ni mbulumakau",
-      "corossolier des marais",
-      "annone des marais",
-      "bullock's heart",
-      "cherimoyer"
+    "pt": [
+      "Araticum-do-brejo"
     ],
-    "zh": [
-      "圓滑番荔枝",
-      "圆滑番荔枝",
-      "红香树"
-    ],
-    "fj": [
-      "kaitambu",
-      "kaitambo",
-      "uto ni bulumakau",
-      "uto ni mbulumakau"
-    ],
-    "fr": [
-      "corossolier des marais",
-      "annone des marais"
+    "id": [
+      "Sirsak gundul"
     ],
     "dv": [
       "ކަޅުހުއްތުމޭވާ"
@@ -66,8 +45,10 @@
     "vi": [
       "bình bát"
     ],
-    "pt": [
-      "Araticum-do-brejo"
+    "zh": [
+      "圆滑番荔枝",
+      "圓滑番荔枝",
+      "红香树"
     ],
     "fa": [
       "سیب مرداب"
@@ -78,18 +59,37 @@
     "ml": [
       "കാട്ടാത്ത"
     ],
-    "id": [
-      "Sirsak gundul"
-    ],
     "cs": [
       "Láhevník lysý"
+    ],
+    "en": [
+      "pond apple",
+      "Alligator Apple",
+      "kaitambu",
+      "kaitambo",
+      "uto ni bulumakau",
+      "uto ni mbulumakau",
+      "corossolier des marais",
+      "annone des marais",
+      "bullock's heart",
+      "cherimoyer"
+    ],
+    "fj": [
+      "kaitambu",
+      "kaitambo",
+      "uto ni bulumakau",
+      "uto ni mbulumakau"
+    ],
+    "fr": [
+      "corossolier des marais",
+      "annone des marais"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2353550",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2353550",
   "search_names": {
@@ -101,13 +101,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Annona glabra」",
+      "source": "Wikipedia (en): Annona glabra",
       "source_url": "https://en.wikipedia.org/wiki/Annona_glabra",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378449639,
       "text": "Annona glabra is a tropical fruit tree in the family Annonaceae, in the same genus as the soursop and cherimoya. Common names include pond apple, alligator apple, swamp apple, corkwood, bobwood, and monkey apple. The tree is native to Florida in the United States, the Caribbean, Central and South America, and West Africa. It is common in the Everglades. The A. glabra tree is considered an invasive species in Sri Lanka and Australia. It grows in swamps, is tolerant of saltwater, and cannot grow in dry soil."
+    },
+    "es": {
+      "source": "Wikipedia (es): Annona glabra",
+      "source_url": "https://es.wikipedia.org/wiki/Annona_glabra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582621,
+      "text": "El bagá de Cuba o huanábano cimarrón de Cuba es un arbusto o árbol tropical caducifolio de 3 a 8 m de altura que puede alcanzar hasta los 12 o los 15. Es de la familia de las anonáceas, y nativo del extremo sureste de Estados Unidos, las islas del Caribe, México, Centroamérica y Sudamérica; e incluso presente en el extremo oeste de África. Dada su amplia distribución recibe diversos nombres autóctonos entre ellos anona, anón, manzana de pantano, manzana de cocodrilo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Annona glabra",
+      "source_url": "https://fr.wikipedia.org/wiki/Annona_glabra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058182,
+      "text": "Annona glabra, ou annone des marais, est une espèce de plantes à fleurs de la famille des Annonaceae et du genre Annona. C'est un arbuste ou un petit arbre qui pousse dans les formations marécageuses des Petites et Grandes Antilles."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Araticum-do-brejo",
+      "source_url": "https://pt.wikipedia.org/wiki/Araticum-do-brejo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 55371109,
+      "text": "Annona glabra, conhecida pelos nomes de araticum ou araticum-do-brejo, é uma árvore não-pioneira nativa das restingas brasileiras."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sirsak gundul",
+      "source_url": "https://id.wikipedia.org/wiki/Sirsak_gundul",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28108629,
+      "text": "Annona glabra atau sirsak gundul merupakan sebuah spesies pohon buah tropis dalam famili Annonaceae. Pohon buah ini berasal dari Florida di Amerika Serikat, Karibia, Amerika Tengah dan Selatan, serta Afrika Barat. Di Florida, pohon ini banyak terdapat di Everglades. Pohon ini dianggap sebagai spesies invasif di Sri Lanka dan Australia. Pohon ini tumbuh di rawa, toleran terhadap air asin, dan tidak dapat tumbuh di tanah kering."
     }
   },
   "edible": {
@@ -124,7 +160,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -200,7 +236,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/72208-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -208,7 +244,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/72208-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000537770.webp",
@@ -221,6 +257,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

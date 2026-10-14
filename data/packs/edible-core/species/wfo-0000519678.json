@@ -14,20 +14,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Boab"
-    ],
     "pl": [
-      "baobab australijski"
+      "Baobab australijski"
     ],
     "ru": [
       "Боаб"
-    ],
-    "zh": [
-      "澳洲猴面包树"
     ],
     "hsb": [
       "Awstralski wopiči chlěbowc"
@@ -40,6 +34,9 @@
     ],
     "sv": [
       "Australisk baobab"
+    ],
+    "zh": [
+      "澳洲猴面包树"
     ],
     "tr": [
       "Avustralya baobabı"
@@ -58,24 +55,54 @@
     ],
     "lt": [
       "Australinis baobabas"
+    ],
+    "en": [
+      "Boab"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159165",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159165",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Adansonia gregorii」",
+      "source": "Wikipedia (en): Adansonia gregorii",
       "source_url": "https://en.wikipedia.org/wiki/Adansonia_gregorii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368171161,
       "text": "Adansonia gregorii, commonly known as the boab and also known by a number of other names, is a tree in the family Malvaceae, endemic to the northern regions of Western Australia and the Northern Territory of Australia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Adansonia gregorii",
+      "source_url": "https://es.wikipedia.org/wiki/Adansonia_gregorii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173300906,
+      "text": "Adansonia gregorii, conocido como boab, es un árbol perteneciente a la familia Malvaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Adansonia gregorii",
+      "source_url": "https://fr.wikipedia.org/wiki/Adansonia_gregorii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225514415,
+      "text": "Adansonia gregorii, le Baobab australien, est une espèce d'arbres de la famille des Bombacaceae selon la classification classique, ou de celle des Malvaceae selon la classification phylogénétique APG III."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Adansonia gregorii",
+      "source_url": "https://pt.wikipedia.org/wiki/Adansonia_gregorii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66054027,
+      "text": "Adansonia gregorii, comumente conhecido como o baobá, é uma árvore da família Malvaceae. Como os outros baobás, é facilmente reconhecida pelo formato de seu tronco, que forma um enorme cáudice, dando-lhe a aparência de uma garrafa. É endêmica da Austrália, ocorre na região de Kimberley na Austrália Ocidental, e no leste do Território do Norte. É a única espécie de baobá que ocorre na Austrália, as outras espécies são nativas de Madagascar e do continente africano e Península Arábica. Tem cerca de 5 a 15 metros de altura, normalmente entre 9 e 12 metros, com um vasto formato de garrafa em seu tronco. A base de seu tronco pode ser muito grande; troncos com mais de cinco metros de diâmetro podem ter sido registrados. É uma árvore decídua, perdendo suas folhas durante o inverno seco e produzindo novas folhas e grandes flores brancas entre dezembro e maio."
     }
   },
   "edible": {
@@ -88,7 +115,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +126,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558631-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -107,7 +134,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558631-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000519678.webp",
@@ -120,6 +147,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

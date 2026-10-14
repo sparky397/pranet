@@ -17,61 +17,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "mastic tree",
-      "Lentisk"
-    ],
-    "bg": [
-      "Мастиково дърво"
-    ],
-    "cs": [
-      "řečík lentišek"
-    ],
-    "de": [
-      "Mastixstrauch"
-    ],
-    "el": [
-      "Σκίνος"
-    ],
-    "es": [
-      "entina",
-      "lentisco",
-      "mata charneca"
-    ],
-    "fi": [
-      "Mastiksipistaasi"
-    ],
-    "it": [
-      "Lentisco"
-    ],
-    "nl": [
-      "Mastiekboom"
-    ],
-    "sl": [
-      "Mastika",
-      "sodopernata rujevina",
-      "tršlja"
-    ],
-    "tr": [
-      "Sakız ağacı"
-    ],
-    "zh": [
-      "乳香黄连木",
-      "乳香",
-      "粘胶乳香树'",
-      "乳香黃連木"
-    ],
-    "ast": [
-      "llentiscu"
-    ],
     "he": [
       "אלת המסטיק"
     ],
     "ko": [
       "매스틱나무"
+    ],
+    "de": [
+      "Mastixstrauch"
     ],
     "sc": [
       "Chessa"
@@ -85,6 +41,9 @@
     "ar": [
       "بطم عدسي"
     ],
+    "nl": [
+      "mastiekboom"
+    ],
     "pt": [
       "Lentisco"
     ],
@@ -94,11 +53,20 @@
     "ru": [
       "Мастиковое дерево"
     ],
+    "tr": [
+      "Sakız ağacı"
+    ],
     "ca": [
       "llentiscle"
     ],
+    "fi": [
+      "mastiksipistaasi"
+    ],
     "co": [
       "Listincu"
+    ],
+    "bg": [
+      "мастиково дърво"
     ],
     "io": [
       "Lentisko"
@@ -117,6 +85,12 @@
     ],
     "nb": [
       "mastik"
+    ],
+    "zh": [
+      "乳香黃連木",
+      "乳香黄连木",
+      "乳香",
+      "粘胶乳香树'"
     ],
     "ku": [
       "Benîştok"
@@ -160,8 +134,16 @@
     "azb": [
       "ماستیکا پوسته‌سی"
     ],
+    "cs": [
+      "řečík lentišek"
+    ],
     "sr": [
       "Tršlja"
+    ],
+    "sl": [
+      "sodopernata rujevina",
+      "Mastika",
+      "tršlja"
     ],
     "arz": [
       "بطم عدسى"
@@ -174,13 +156,31 @@
     ],
     "grc": [
       "σχῖνος"
+    ],
+    "en": [
+      "mastic tree",
+      "Lentisk"
+    ],
+    "el": [
+      "Σκίνος"
+    ],
+    "es": [
+      "entina",
+      "lentisco",
+      "mata charneca"
+    ],
+    "it": [
+      "Lentisco"
+    ],
+    "ast": [
+      "llentiscu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159812",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159812",
   "search_names": {
@@ -193,13 +193,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pistacia lentiscus」",
+      "source": "Wikipedia (en): Pistacia lentiscus",
       "source_url": "https://en.wikipedia.org/wiki/Pistacia_lentiscus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377992474,
       "text": "Pistacia lentiscus is a dioecious evergreen shrub or small tree of the genus Pistacia native to the Mediterranean Basin. It grows up to 4 m (13 ft) tall and is cultivated for its aromatic resin, mainly on the Greek island of Chios, around the Turkish town of Çeşme and northern parts of Iraq."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pistacia lentiscus",
+      "source_url": "https://es.wikipedia.org/wiki/Pistacia_lentiscus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171665958,
+      "text": "El lentisco, entina o mata charneca es una planta fanerógama del género Pistacia, perteneciente a la familia Anacardiaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pistacia lentiscus",
+      "source_url": "https://fr.wikipedia.org/wiki/Pistacia_lentiscus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239500437,
+      "text": "L’Arbre au mastic, ou Pistachier lentisque est un arbuste poussant dans les garrigues et les maquis des climats méditerranéens. Plante de la famille des Anacardiaceae, à feuillage persistant, elle donne des fruits, d'abord rouges, puis noirs. On utilise principalement sa résine ou mastic, son bois, son huile extraite des graines et son huile essentielle extraite des feuilles."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pistacia lentiscus",
+      "source_url": "https://pt.wikipedia.org/wiki/Pistacia_lentiscus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73052058,
+      "text": "A Pistacia lentiscus, comummente conhecida como lentisco, é uma planta arbustiva aromática, do género Pistacia e da família das anacardiáceas, pertencente ao tipo fisionómico dos fanerófitos. Com a sua resina faz-se o mástique, goma-resina usada na preparação de fármacos, cosméticos e alimentos, entre outros destinos."
     }
   },
   "edible": {
@@ -216,7 +243,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -248,7 +275,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/70253-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -256,7 +283,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/70253-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000394118.webp",
@@ -269,6 +296,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 310,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

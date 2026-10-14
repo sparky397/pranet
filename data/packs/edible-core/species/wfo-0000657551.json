@@ -13,13 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "八宝树",
-      "青溪鳞毛蕨"
-    ],
     "th": [
       "ลำพูป่า"
     ],
@@ -28,6 +24,10 @@
     ],
     "ne": [
       "लाम्पाते"
+    ],
+    "zh": [
+      "八宝树",
+      "青溪鳞毛蕨"
     ],
     "mr": [
       "दुआबंगा"
@@ -43,18 +43,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2714919",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2714919",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Duabanga grandiflora」",
+      "source": "Wikipedia (en): Duabanga grandiflora",
       "source_url": "https://en.wikipedia.org/wiki/Duabanga_grandiflora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1336055498,
       "text": "Duabanga grandiflora is a species of evergreen tropical tree. From its peculiar habit, it is a singular feature in its native forests. The trunk is erect, 40–80 feet high, undivided but sometimes forking from the base. The lower limbs spread drooping from the trunk; these are long, slender, sparingly branched, and the branches are four-angled, loosely covered with large spreading leaves. Since the leaves are arranged in two ranks, the slender branches resemble petioles, bearing pinnae of a compound leaf; the leaves are further often recurved, and are deep green above, and almost white beneath. The large blossoms expand in April, exhaling a rank odour reportedly resembling asafoetida when they first burst, but they become inodorous before the petals drop. The stamens are all bent inwards in bud. The fruit is a large as a small apple. The wood is white and soft."
+    },
+    "es": {
+      "source": "Wikipedia (es): Duabanga grandiflora",
+      "source_url": "https://es.wikipedia.org/wiki/Duabanga_grandiflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 135201200,
+      "text": "Duabanga grandiflora es una especie de árbol de la familia Lythraceae. Es originario de Asia tropical, donde se distribuye por China, Camboya, India, Laos, Malasia, Birmania, Tailandia y Vietnam."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Duabanga grandiflora",
+      "source_url": "https://fr.wikipedia.org/wiki/Duabanga_grandiflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227130024,
+      "text": "Duabanga grandiflora est une espèce de plantes à fleurs de la famille des Lythraceae."
     }
   },
   "edible": {
@@ -67,7 +85,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -91,7 +109,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/553409-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -99,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/553409-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000657551.webp",
@@ -112,6 +130,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

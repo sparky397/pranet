@@ -17,7 +17,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -28,9 +28,21 @@
       "Clove",
       "clove"
     ],
+    "fr": [
+      "Giroflier"
+    ],
+    "pt": [
+      "Cravo-da-índia"
+    ],
+    "id": [
+      "Cengkih"
+    ],
+    "lb": [
+      "Neelcheskapp"
+    ],
     "zh": [
-      "丁子香",
       "丁香",
+      "丁子香",
       "丁香露",
       "丁香（丁香树）",
       "丁子香(丁香树）",
@@ -38,22 +50,6 @@
       "丁香树皮",
       "丁香枝",
       "丁香根"
-    ],
-    "ast": [
-      "árbole'l clavu"
-    ],
-    "sl": [
-      "dišeči klinčevec"
-    ],
-    "ta": [
-      "கிராம்பு",
-      "இலவங்கம்",
-      "அஞ்சுகம்",
-      "திரளி",
-      "வராங்கம்"
-    ],
-    "lb": [
-      "Neelcheskapp"
     ],
     "jv": [
       "Cengkèh"
@@ -72,6 +68,13 @@
     ],
     "bs": [
       "Klinčić"
+    ],
+    "ta": [
+      "கிராம்பு",
+      "இலவங்கம்",
+      "அஞ்சுகம்",
+      "திரளி",
+      "வராங்கம்"
     ],
     "hu": [
       "szegfűszeg"
@@ -102,9 +105,6 @@
     ],
     "nl": [
       "kruidnagelboom"
-    ],
-    "pt": [
-      "Cravo-da-índia"
     ],
     "eo": [
       "Kariofilo"
@@ -163,9 +163,6 @@
     "ko": [
       "정향나무"
     ],
-    "fr": [
-      "Giroflier"
-    ],
     "arz": [
       "قرنفل"
     ],
@@ -180,9 +177,6 @@
     ],
     "ps": [
       "لونګ"
-    ],
-    "id": [
-      "Cengkih"
     ],
     "de": [
       "Gewürznelke"
@@ -234,6 +228,9 @@
     ],
     "co": [
       "Viulaccia"
+    ],
+    "sl": [
+      "dišeči klinčevec"
     ],
     "cs": [
       "hřebíčkovec kořenný"
@@ -381,13 +378,16 @@
     ],
     "shn": [
       "တူၼ်ႈလေးၺၢင်း"
+    ],
+    "ast": [
+      "árbole'l clavu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q26736",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q26736",
   "search_names": {
@@ -407,36 +407,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「チョウジ」",
+      "source": "Wikipedia (ja): チョウジ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%82%A6%E3%82%B8",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107318896,
       "text": "チョウジ（丁子、丁字）またはクローブ は、フトモモ科の樹木チョウジノキ の香りのよい花蕾である。原産地はインドネシアのモルッカ群島であり、香辛料として一般的に使われるほか、生薬としても使われる。漢名に従って丁香（ちょうこう）とも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Clove」",
+      "source": "Wikipedia (en): Clove",
       "source_url": "https://en.wikipedia.org/wiki/Clove",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377987816,
       "text": "Cloves are the aromatic flower buds of a tree in the family Myrtaceae, Syzygium aromaticum. They are native to the Maluku Islands, or Moluccas, in Indonesia, and are commonly used as a spice, flavoring, or fragrance in consumer products, such as toothpaste, soaps, or cosmetics. Freshly harvested cloves are available throughout the year owing to different harvest seasons across various countries."
+    },
+    "es": {
+      "source": "Wikipedia (es): Syzygium aromaticum",
+      "source_url": "https://es.wikipedia.org/wiki/Syzygium_aromaticum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171583230,
+      "text": "El árbol del clavo de olor, clavero, jirofle, o girofle es un árbol de la familia Myrtaceae, nativo de Indonesia. Sus botones secos se denominan clavos de olor, girofles, jirofles, o clavillos, y se usan como especia en las cocinas de todo el mundo.[cita requerida]"
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Giroflier",
+      "source_url": "https://fr.wikipedia.org/wiki/Giroflier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239906729,
+      "text": "Le Giroflier ou Girofle est une espèce de plantes à fleurs de la famille des Myrtaceae et du genre Syzygium. Les girofliers sont des arbres originaires d'Indonésie dont les boutons floraux forment une épice appelée clous de girofle."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cravo-da-índia",
+      "source_url": "https://pt.wikipedia.org/wiki/Cravo-da-%C3%ADndia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72362807,
+      "text": "Syzygium aromaticum, comummente conhecido cravo-da-índia, é uma árvore de folha perene, da família das Mirtáceas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cengkih",
+      "source_url": "https://id.wikipedia.org/wiki/Cengkih",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29949043,
+      "text": "Cengkih  atau cengkeh adalah kuncup bunga kering beraroma dari keluarga pohon Myrtaceae. Cengkih adalah tanaman asli Indonesia, banyak digunakan sebagai bumbu masakan pedas di negara-negara Eropa, dan sebagai bahan utama rokok kretek khas Indonesia. Cengkih ditanam terutama di Indonesia dan Madagaskar; selain itu juga dibudidayakan di Zanzibar, India, dan Sri Lanka. Cengkih umumnya memiliki musim panen yang bervariasi di negara-negara penghasilnya. Tumbuhan ini adalah flora identitas Provinsi Maluku Utara. Dalam bahasa lokal, cengkih disebut bualawa dan gaumedi."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「チョウジ」の節「栽培」",
+        "source": "Wikipedia (ja): チョウジ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%82%A6%E3%82%B8#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 107318896,
         "heading": "栽培",
         "text": "モルッカ諸島の原産で、日本では植物園の温室などで育てられている。おもにインドネシア、ザンジバル、スリランカ、モーリシャス、マダガスカル、コモロ、ペナン、ドミニカなどで栽培されている。\nもともとクローブはスラウェシ島の北東に位置するティドレ島とテルナテ島を含む5つの火山島にしか生えていなかった。\nチョウジノキは小高木の常緑樹で、種子から発芽して20年ほどで10メートルほどの高さに成長する。作物としてのチョウジは7〜8年目頃から収穫が可能である。\n熱帯多雨の地域が原産地であり、温室で十分に管理すれば栽培は可能であるが、露地植えでの商業栽培に適する地域は限られる。7月から9月と1月から2月につぼみを付け、年2回収穫を行う。花弁は本木の高い場所になるため、かつては高い作業やぐらをたて手摘みしていた。これが商品の価格の高さにも反映している。現在では枝や葉からもクローブオイルが抽出できるため、作業者が直接チョウジの木にのぼり枝ごと切り落とし作業する。",
         "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Cengkih § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Cengkih#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29949043,
+        "heading": "Budidaya",
+        "text": "Pertumbuhan pohon cengkih membutuhkan iklim tropis lembap atau subtropis dengan curah hujan sebesar 2.332 mm/tahun. Pohon cengkih dapat ditanam pada daerah yang jauh dari laut dan memiliki ketinggian 0–1500 m di atas permukaan laut. Pohon cengkih dapat tumbuh optimum pada suhu di sekitar 20-30 derajat Celcius. Pohon cengkih ditumbuhkan baik secara vegetatif lewat stem batang maupun generatif lewat biji. Kultivasi cengkih tidak disarankan dilakukan pada tanah berpasir. Biji cengkih ditaruh di atas permukaan tanah dan dijaga kelembapannya. Cengkih harus ditanam pada tanah yang memiliki pH 4,5-6, drainase yang baik, dan tinggi kandungan senyawa organiknya.\nCengkih dipropagasi dari biji cengkih yang berasal dari buah cengkih. Buah cengkih biasanya tersedia di sekitar bulan Juni sampai Oktober. Ketika matang, buah cengkih jatuh ke tanah secara alamiah. Setelah dikumpulkan, buah direndam dalam air semalam untuk mempermudah germinasi. Media untuk germinasi biji berupa lapisan tanah setinggi  20 cm, lebar 1 meter, dan panjang yang sesuai. Media perkecambahan diisi dengan lapisan tanah setebal 8 cm. Kemudian biji ditanam sedalam 2 cm dengan jarak antar biji sekitar 3 cm. Media perkecambahan harus dilindungi dari sinar matahari langsung. Germinasi biji terjadi setelah 15-60 hari inkubasi. Biji yang telah berkecambah kemudian dipindahkan ke media yang berisi tanah, pasir, dan kompos dengan rasio 3:3:1. Kecambah cengkih dapat dipindahkan ke lahan sesungguhnya setelah berusia 24 bulan.\nLahan yang sesuai untuk perkebunan cengkih berupa lereng perbukitan, lembah dengan drainase baik dan tepian sungai. Area lahan perkebunan cengkih terlebih dahulu dibersihkan dari semak dan rerumputan dan dibuat lubang berukuran 60 hingga 75 cm dengan jarak 6-7 meter antar lubang sebelum musim hujan.",
+        "truncated": true
       }
     }
   },
@@ -453,7 +500,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -473,7 +520,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/601421-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -481,7 +528,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/601421-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000318267.webp",
@@ -494,6 +541,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

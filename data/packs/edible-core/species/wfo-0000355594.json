@@ -13,16 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "California Juniper"
-    ],
-    "es": [
-      "Huata",
-      "Cedro"
-    ],
     "ru": [
       "Можжевельник калифорнийский"
     ],
@@ -55,24 +48,49 @@
     ],
     "arz": [
       "جونيبروس كاليفورنيكا"
+    ],
+    "en": [
+      "California Juniper"
+    ],
+    "es": [
+      "Huata",
+      "Cedro"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1722255",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1722255",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Juniperus californica」",
+      "source": "Wikipedia (en): Juniperus californica",
       "source_url": "https://en.wikipedia.org/wiki/Juniperus_californica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1379436867,
       "text": "Juniperus californica, the California juniper, is a species of juniper native to southwestern North America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Juniperus californica",
+      "source_url": "https://es.wikipedia.org/wiki/Juniperus_californica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174431471,
+      "text": "Juniperus californica es una especie de enebro nativo del sur de Norteamérica; como su nombre indica, principalmente de California, aunque se ha extendido a Baja California, y a corta distancia en la Great Basin en el sur de Nevada, y oeste de Arizona. Crece a una altitud de 750 a 1.600 metros."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Juniperus californica",
+      "source_url": "https://fr.wikipedia.org/wiki/Juniperus_californica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222564810,
+      "text": "Juniperus californica, appelé communément Genévrier de Californie, est une espèce de plantes nord-américaine de la famille des Cupressaceae."
     }
   },
   "edible": {
@@ -86,7 +104,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262163-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -107,7 +125,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262163-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000355594.webp",
@@ -120,6 +138,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

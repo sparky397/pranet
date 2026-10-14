@@ -8,50 +8,59 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ブラックフォニオ"
     ],
-    "en": [
-      "black fonio"
+    "fr": [
+      "Fonio noir"
     ],
     "de": [
       "Iburu"
     ],
-    "fr": [
-      "Fonio noir"
-    ],
     "ha": [
       "Iburo"
+    ],
+    "en": [
+      "black fonio"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1341123",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1341123",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ブラックフォニオ」",
+      "source": "Wikipedia (ja): ブラックフォニオ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%8B%E3%82%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109206275,
       "text": "ブラックフォニオ Digitaria iburua Stapf. 1915. はイネ科メヒシバ属の植物で、アフリカで栽培される雑穀の1つである。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Digitaria iburua」",
+      "source": "Wikipedia (en): Digitaria iburua",
       "source_url": "https://en.wikipedia.org/wiki/Digitaria_iburua",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1356782093,
       "text": "Digitaria iburua, commonly known as iburu, is a grass species native to west and west-central tropical Africa, which is cultivated as a grain crop known as black fonio."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Fonio noir",
+      "source_url": "https://fr.wikipedia.org/wiki/Fonio_noir",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236720339,
+      "text": "Le fonio noir, est une espèce de plantes à fleurs monocotylédones de la famille des Poaceae (Graminées), sous-famille des Panicoideae, originaire de l'Afrique tropicale occidentale."
     }
   },
   "edible": {
@@ -64,7 +73,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -79,7 +88,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/398884-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -87,7 +96,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/398884-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000864046.webp",
@@ -100,6 +109,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

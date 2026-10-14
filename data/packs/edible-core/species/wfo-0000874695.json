@@ -18,17 +18,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "bulbous barley"
+    "ar": [
+      "شعير بصيلي"
     ],
     "zh": [
       "球茎大麦"
-    ],
-    "ar": [
-      "شعير بصيلي"
     ],
     "de": [
       "Knollen-Gerste"
@@ -53,24 +50,45 @@
     ],
     "hr": [
       "Lukovičasti ječam"
+    ],
+    "en": [
+      "bulbous barley"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q12218900",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q12218900",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Hordeum bulbosum」",
+      "source": "Wikipedia (en): Hordeum bulbosum",
       "source_url": "https://en.wikipedia.org/wiki/Hordeum_bulbosum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365473335,
       "text": "Hordeum bulbosum, bulbous barley, is a species of barley native to southern Europe, northern Africa, the Middle East and as far east as Afghanistan, with a few naturalized populations in North America, South America and Australia. Since 1970 it has been used in the Hordeum bulbosum Method to produce doubled haploid (DH) wheat and barley plants by crossing it with T. aestivum or H. vulgare, followed by the elimination of the H. bulbosum chromosomes from the offspring. These DH plants are important in breeding new varieties of wheat and barley, and in scientific studies. H. bulbosum is also being looked at as a source of genes for disease resistance and other traits for barley crop improvement."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Hordeum bulbosum",
+      "source_url": "https://fr.wikipedia.org/wiki/Hordeum_bulbosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208006994,
+      "text": "Hordeum bulbosum est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Pooideae, originaire d'Eurasie et d'Afrique du Nord.\nCette espèce, susceptible de s'hybrider, bien qu'avec difficulté, avec Hordeum vulgare, constitue le pool génique secondaire de l'orge commune. Hordeum bulbosum est une source intéressante de gènes de résistance à divers agents pathogènes, notamment fongiques et viraux, pour l'amélioration des cultivars d'orge cultivée."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Hordeum bulbosum",
+      "source_url": "https://pt.wikipedia.org/wiki/Hordeum_bulbosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 54903982,
+      "text": "Hordeum bulbosum é uma espécie de planta com flor pertencente à família Poaceae."
     }
   },
   "edible": {
@@ -84,7 +102,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -129,7 +147,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/405169-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -137,7 +155,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/405169-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000874695.webp",
@@ -150,6 +168,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

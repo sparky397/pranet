@@ -10,15 +10,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "swampmahogany"
-    ],
     "zh": [
-      "桉",
       "大叶桉",
+      "桉",
       "大叶桉叶",
       "桉（大叶桉）",
       "大叶桉果"
@@ -31,24 +28,45 @@
     ],
     "arz": [
       "اوكالبتوس متين"
+    ],
+    "en": [
+      "swampmahogany"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3280527",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3280527",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Eucalyptus robusta」",
+      "source": "Wikipedia (en): Eucalyptus robusta",
       "source_url": "https://en.wikipedia.org/wiki/Eucalyptus_robusta",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375049270,
       "text": "Eucalyptus robusta, commonly known as swamp mahogany or swamp messmate, is a tree native to eastern Australia. Growing in swampy or waterlogged soils, it is up to 30 m (100 ft) high with thick spongy reddish-brown bark and dark green broad leaves, which help form a dense canopy. The white to cream flowers appear in autumn and winter. The leaves are commonly eaten by insects and are a food item for the koala. It is an important autumn-winter flowering species in eastern Australia and has been planted extensively in many countries around the world. Its timber is used for firewood and in general construction."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eucalyptus robusta",
+      "source_url": "https://es.wikipedia.org/wiki/Eucalyptus_robusta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157034318,
+      "text": "Eucalyptus robusta es una especie de árbol australiano de madera dura; endémico de Nueva Gales del Sur y Queensland. Es común su plantación para madera en Australia, Sudáfrica y Sudamérica."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eucalyptus robusta",
+      "source_url": "https://pt.wikipedia.org/wiki/Eucalyptus_robusta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72722602,
+      "text": "Eucalyptus robusta Sm. é uma espécie arbórea do género Eucalyptus, nativa do leste da Austrália, frequentemente utilizada em silvicultura."
     }
   },
   "edible": {
@@ -64,7 +82,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -114,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/593318-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -122,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/593318-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000955809.webp",
@@ -135,6 +153,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

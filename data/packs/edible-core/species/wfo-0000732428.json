@@ -15,30 +15,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ナギイカダ"
-    ],
-    "cy": [
-      "celynnen Fair"
-    ],
-    "zh": [
-      "假叶树",
-      "假葉樹"
-    ],
-    "ast": [
-      "capiu",
-      "carrasca",
-      "carrascu",
-      "escoba",
-      "escobal",
-      "picaculu",
-      "ruscu"
-    ],
-    "sl": [
-      "bodeča lobodika"
     ],
     "vec": [
       "Bruschi"
@@ -109,6 +90,10 @@
     "ar": [
       "سفندر مدبب"
     ],
+    "zh": [
+      "假葉樹",
+      "假叶树"
+    ],
     "ga": [
       "giolcach nimhe"
     ],
@@ -117,6 +102,9 @@
     ],
     "cs": [
       "listnatec pichlavý"
+    ],
+    "cy": [
+      "Celynnen Fair"
     ],
     "ta": [
       "இலையடி பழச்செடி"
@@ -157,6 +145,9 @@
     "arz": [
       "سفندر مدبب"
     ],
+    "sl": [
+      "bodeča lobodika"
+    ],
     "mk": [
       "Дива шимширка"
     ],
@@ -168,13 +159,22 @@
     ],
     "mzn": [
       "جیز"
+    ],
+    "ast": [
+      "capiu",
+      "carrasca",
+      "carrascu",
+      "escoba",
+      "escobal",
+      "picaculu",
+      "ruscu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161425",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161425",
   "search_names": {
@@ -188,32 +188,59 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ナギイカダ」",
+      "source": "Wikipedia (ja): ナギイカダ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%AE%E3%82%A4%E3%82%AB%E3%83%80",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109582177,
       "text": "ナギイカダ はスズラン亜科の常緑小低木。地中海沿岸原産で観賞用に栽培される。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ruscus aculeatus」",
+      "source": "Wikipedia (en): Ruscus aculeatus",
       "source_url": "https://en.wikipedia.org/wiki/Ruscus_aculeatus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368593023,
       "text": "Ruscus aculeatus, known as butcher's-broom, is a low evergreen dioecious Eurasian shrub, with flat shoots known as cladodes that give the appearance of stiff, spine-tipped leaves. Small greenish flowers appear in spring, and are borne singly in the centre of the cladodes. The female flowers are followed by a red berry, and the seeds are bird-distributed, but the plant also spreads vegetatively by means of rhizomes. It is native to Eurasia and some northern parts of Africa.\nRuscus aculeatus occurs in woodlands and hedgerows, where it is tolerant of deep shade, and also on coastal cliffs. Likely due to its attractive winter/spring color, Ruscus aculeatus has become a fairly common landscape plant. \nIt is also widely planted in gardens, and has spread as a garden escapee in many areas outside its native range. The plant grows well in zones 7 to 9 on the USDA hardiness zone map."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ruscus aculeatus",
+      "source_url": "https://es.wikipedia.org/wiki/Ruscus_aculeatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580999,
+      "text": "Ruscus aculeatus L., rusco, es una especie espermatofita arbustiva, perenne, perteneciente a la familia de las asparagáceas, anteriormente en las ruscáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ruscus aculeatus",
+      "source_url": "https://fr.wikipedia.org/wiki/Ruscus_aculeatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240112850,
+      "text": "Le Fragon petit-houx ou Fragon faux-houx est un sous-arbrisseau sempervirent dioïque de la famille des Asparagaceae poussant dans l'aire méditerranéenne-atlantique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ruscus aculeatus",
+      "source_url": "https://pt.wikipedia.org/wiki/Ruscus_aculeatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68944115,
+      "text": "Ruscus aculeatus L., comummente conhecida como gilbardeira, é uma espécie de fanerógama arbustiva, perenifólia, pertencente à família das asparagáceas."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Ruscus aculeatus」の節「Toxicity」",
+        "source": "Wikipedia (en): Ruscus aculeatus § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Ruscus_aculeatus#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1368593023,
         "heading": "Toxicity",
         "text": "The Milan Poison Control Centre handled 107 R. aculeatus poisoning cases in the period 1995–2007; subsequently 4 acute poisoning cases were recorded for the 2010–2011 season in Lombardy. The majority of cases were children who had consumed the attractive berries.",
@@ -232,7 +259,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -278,7 +305,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/540443-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -286,7 +313,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/540443-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000732428.webp",
@@ -299,6 +326,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

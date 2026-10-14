@@ -11,15 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Madagascar Baobab"
-    ],
-    "zh": [
-      "马达加斯加猴面包树"
-    ],
     "pl": [
       "Baobab madagaskarski"
     ],
@@ -43,24 +37,57 @@
     ],
     "ja": [
       "アダンソニア・マダガスカリエンシス"
+    ],
+    "zh": [
+      "马达加斯加猴面包树"
+    ],
+    "en": [
+      "Madagascar Baobab"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q136878",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q136878",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Adansonia madagascariensis」",
+      "source": "Wikipedia (en): Adansonia madagascariensis",
       "source_url": "https://en.wikipedia.org/wiki/Adansonia_madagascariensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1321998260,
       "text": "Adansonia madagascariensis or Madagascar baobab is a small to large deciduous tree in the family Malvaceae. It is one of six species of baobab endemic to Madagascar, where it occurs in the Madagascar dry deciduous forests."
+    },
+    "es": {
+      "source": "Wikipedia (es): Adansonia madagascariensis",
+      "source_url": "https://es.wikipedia.org/wiki/Adansonia_madagascariensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171303006,
+      "text": "Adansonia madagascariensis es una de las seis especies endémicas de baobabs de Madagascar: se caracteriza por tener follaje caduco, y crece en los bosques secos de Madagascar."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Adansonia madagascariensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Adansonia_madagascariensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229357886,
+      "text": "Adansonia madagascariensis, ou Mbuiu Mkoundrou en shimaoré, est une espèce de plantes à fleurs de la famille des Bombacaceae selon la classification classique, ou de celle des Malvaceae selon la classification phylogénétique APG3. C'est arbre originaire de Madagascar et de Mayotte."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Adansonia madagascariensis",
+      "source_url": "https://pt.wikipedia.org/wiki/Adansonia_madagascariensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70941680,
+      "text": "Adansonia madagascariensis é uma espécie de baobá da ilha de Madagáscar, onde é encontrada do sul de Antsiranana até Ankara, na região de Boina. É típica de solos calcários."
     }
   },
   "edible": {
@@ -72,7 +99,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -82,7 +109,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558633-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -90,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558633-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000519681.webp",
@@ -103,6 +130,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 276,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

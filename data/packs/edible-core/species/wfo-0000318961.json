@@ -27,28 +27,31 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Malaysian apple"
+    "fr": [
+      "Jambosier rouge"
     ],
-    "zh": [
-      "馬來蓮霧",
-      "马六甲蒲桃",
-      "马来蒲桃"
+    "pt": [
+      "Jambo-vermelho"
+    ],
+    "id": [
+      "Jambu bol"
     ],
     "dv": [
       "ޖަންބު"
+    ],
+    "zh": [
+      "马六甲蒲桃",
+      "馬來蓮霧",
+      "马来蒲桃"
     ],
     "pl": [
       "Czapetka malajska"
     ],
     "ru": [
       "Малайское яблоко"
-    ],
-    "fr": [
-      "Jambosier rouge"
     ],
     "bjn": [
       "Jambu agung"
@@ -61,9 +64,6 @@
     ],
     "de": [
       "Wasserapfel"
-    ],
-    "id": [
-      "Jambu bol"
     ],
     "ml": [
       "മലയൻ ആപ്പിൾ"
@@ -82,9 +82,6 @@
     ],
     "jv": [
       "Jambu bol"
-    ],
-    "pt": [
-      "Jambo-vermelho"
     ],
     "hu": [
       "malájalma"
@@ -136,13 +133,16 @@
     ],
     "nia": [
       "Sinumbua Ma'ufa"
+    ],
+    "en": [
+      "Malaysian apple"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q31936",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q31936",
   "search_names": {
@@ -157,23 +157,59 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Syzygium malaccense」",
+      "source": "Wikipedia (en): Syzygium malaccense",
       "source_url": "https://en.wikipedia.org/wiki/Syzygium_malaccense",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1366563895,
       "text": "Syzygium malaccense is a species of flowering tree native to tropical Asia and Australia. It was cultivated from prehistoric times by the Austronesian peoples and introduced deliberately to remote Oceania as canoe plants. In modern times, it has been introduced throughout the tropics, including the Caribbean. The ripe fruit is edible but with little flavor."
+    },
+    "es": {
+      "source": "Wikipedia (es): Syzygium malaccense",
+      "source_url": "https://es.wikipedia.org/wiki/Syzygium_malaccense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174381330,
+      "text": "Syzygium malaccense es una especie de árbol perteneciente a la familia de las mirtáceas. El olor del fruto es muy similar al de una rosa, es de textura acuosa y sabor ligeramente dulce."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Jambosier rouge",
+      "source_url": "https://fr.wikipedia.org/wiki/Jambosier_rouge",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231637358,
+      "text": "Le jambosier rouge est une espèce de plantes à fleurs de la famille des Myrtacées. C'est un arbre fruitier originaire du Sud-Est asiatique et introduit dans d'autres régions du monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Jambo-vermelho",
+      "source_url": "https://pt.wikipedia.org/wiki/Jambo-vermelho",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68462157,
+      "text": "Syzygium malaccense L.O, popularmente conhecido como jambeiro, jambo-rosa, jambo-vermelho, jambo-roxo, jambroche e eugenia é uma espécie da família\nMyrtaceae,\na qual também inclui espécies como a goiabeira, a pitangueira, o jamelão, a jabuticaba e o eucalipto. O seu fruto, chamado jambo, é uma drupa piriforme, com casca com cor variando de vermelho a roxo, polpa consistente e branca, adocicada e levemente ácida, e uma semente de formato esférico, ou duas\nhemisféricas,\nno seu interior. As folhas são grandes, compridas e brilhantes. As flores são vermelhas e com numerosos estames."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jambu bol",
+      "source_url": "https://id.wikipedia.org/wiki/Jambu_bol",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29676896,
+      "text": "Jambu bol, jambu kepal, jambu dersono, atau jambu jamaika adalah salah pohon buah yang termasuk kedalam tanaman Jambu-jambuan. Buah jambu ini memiliki tekstur daging yang lebih lembut dan lebih padat dibandingkan dengan jambu air. Tidak begitu jelas mengapa namanya demikian karena bol atau bool yang berarti \"pantat\"."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Syzygium malaccense」の節「Cultivation」",
+        "source": "Wikipedia (en): Syzygium malaccense § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Syzygium_malaccense#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1366563895,
         "heading": "Cultivation",
         "text": "The combination of tree, flowers and fruit has been praised as the most beautiful of its genus.\nMalay apple is a strictly tropical tree and will be damaged by freezing temperatures. It thrives in humid climates with an annual rainfall of 152 cm (60 in) or more. It can grow at altitudes from sea level up to 2,740 m (8,990 ft). It flowers in early summer, bearing fruit three months afterward.\nWhen the Polynesians reached the Hawaiian Islands, they brought plants and animals that were important to them. The mountain apple was one of these \"canoe plants,\" arriving 1,000–1,700 years ago. In modern times, it has been introduced throughout the tropics, including many Caribbean countries and territories.",
@@ -194,7 +230,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -258,7 +294,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/601907-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -266,7 +302,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/601907-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000318961.webp",
@@ -279,6 +315,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 380,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -13,20 +13,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "white sage"
-    ],
-    "zh": [
-      "白鼠尾草"
-    ],
     "de": [
       "Weißer Salbei"
     ],
     "fi": [
       "valkosalvia"
+    ],
+    "zh": [
+      "白鼠尾草"
     ],
     "cs": [
       "šalvěj bílá"
@@ -39,37 +36,91 @@
     ],
     "sk": [
       "Šalvia včelia"
+    ],
+    "en": [
+      "white sage"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q899812",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q899812",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Salvia apiana」",
+      "source": "Wikipedia (en): Salvia apiana",
       "source_url": "https://en.wikipedia.org/wiki/Salvia_apiana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354530232,
       "text": "Salvia apiana, the Californian white sage, bee sage, or sacred sage is an evergreen perennial shrub that is native to the southwestern United States and northwestern Mexico, found mainly in the coastal sage scrub habitat of Southern California and Baja California, on the western edges of the Mojave and Sonoran deserts."
+    },
+    "es": {
+      "source": "Wikipedia (es): Salvia apiana",
+      "source_url": "https://es.wikipedia.org/wiki/Salvia_apiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173494034,
+      "text": "La Salvia apiana es una especie de subarbusto perteneciente a la familia de las lamiáceas. También conocida como salvia blanca, salvia de abeja o la salvia sagrada, es un arbusto perenne siempre-verde nativo del suroeste de los Estados Unidos y el noroeste de México, principalmente encontrado en matorrales de salvia costera del sur de California y Baja California, en los bordes occidentales de los desiertos de Mojave y Sonora."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Salvia apiana",
+      "source_url": "https://fr.wikipedia.org/wiki/Salvia_apiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236877923,
+      "text": "Salvia apiana, la Sauge blanche ou sauge sacrée, est une espèce de plantes à fleurs de la famille des Lamiacées. C'est une plante vivace provenant d'Amérique du Nord. Ce sous-arbrisseau est important dans les traditions amérindiennes où il est utilisé dans les rites de purifications et comme ingrédient de base pour le pinol. Il semble également posséder des propriétés médicinales."
+    },
+    "id": {
+      "source": "Wikipedia (id): Salvia apiana",
+      "source_url": "https://id.wikipedia.org/wiki/Salvia_apiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26063780,
+      "text": "Salvia apiana adalah spesies tumbuhan yang tergolong ke dalam famili Lamiaceae. Spesies ini juga merupakan bagian dari ordo Lamiales. Spesies Salvia apiana sendiri merupakan bagian dari genus Salvia. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh Jeps., 1908.."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Salvia apiana」の節「Cultivation」",
+        "source": "Wikipedia (en): Salvia apiana § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Salvia_apiana#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1354530232,
         "heading": "Cultivation",
         "text": "Salvia apiana prefers a sunny location, well draining soil, and good air circulation. It easily hybridizes with other Salvia species, particularly Salvia leucophylla and Salvia clevelandii.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Salvia apiana § Horticulture",
+        "source_url": "https://fr.wikipedia.org/wiki/Salvia_apiana#Horticulture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236877923,
+        "heading": "Horticulture",
+        "text": "Salvia apiana agrémente généralement les jardins paysagers secs. Les plantes ont besoin d’un ensoleillement important et d’un sol bien drainé et riche en minéraux. Elle est sensible aux températures inférieures à 7 °C et surtout à l’humidité. En pépinière, la production de graines et de boutures est fréquemment réalisée.\nLes semis, réalisés en automne et les jeunes plantules ne doivent pas être trop arrosées et être exposées au soleil afin d’éviter la moisissure. Pour la gestion de la sauge blanche, la taille des feuilles et des branches est nécessaire pour la stimulation de sa croissance.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Salvia apiana § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Salvia_apiana#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236877923,
+        "heading": "Toxicité",
+        "text": "Les huiles essentielles et les composés terpénoïdes contenus sur l’ensemble des plantes possèdent des propriétés répulsives envers de nombreux herbivores.",
         "truncated": false
       }
     }
@@ -84,7 +135,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -95,14 +146,14 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/290024-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "climate_description": "subtropical",
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/290024-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000300281.webp",
@@ -115,6 +166,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 384,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

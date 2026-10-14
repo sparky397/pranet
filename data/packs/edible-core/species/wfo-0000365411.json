@@ -8,15 +8,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "mango ginger"
-    ],
-    "zh": [
-      "阿玛达姜黄"
-    ],
     "id": [
       "Temu mangga"
     ],
@@ -62,29 +56,44 @@
     "ur": [
       "آنبہ ہلدی"
     ],
+    "zh": [
+      "阿玛达姜黄"
+    ],
     "my": [
       "ကန့်အိတ်ပင်"
     ],
     "shn": [
       "တူၼ်ႈမိၼ်ႉၽိူၵ်ႇ"
+    ],
+    "en": [
+      "mango ginger"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3031235",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3031235",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Curcuma amada」",
+      "source": "Wikipedia (en): Curcuma amada",
       "source_url": "https://en.wikipedia.org/wiki/Curcuma_amada",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355161057,
       "text": "Curcuma amada, or mango ginger, is a plant of the ginger family Zingiberaceae and is closely related to turmeric. The rhizomes are very similar to common ginger but lack its pungency, and instead have a raw mango flavour."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Curcuma amada",
+      "source_url": "https://fr.wikipedia.org/wiki/Curcuma_amada",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232822301,
+      "text": "Curcuma amada est une plante herbacée rhizomateuse vivace du genre Curcuma de la famille des Zingibéracées."
     }
   },
   "edible": {
@@ -96,7 +105,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -109,7 +118,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/796421-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -117,7 +126,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/796421-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000365411.webp",
@@ -130,6 +139,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 318,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

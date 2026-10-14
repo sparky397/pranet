@@ -20,37 +20,33 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "カヤ"
     ],
-    "en": [
-      "Japanese torreya",
-      "Japanese Nutmeg-yew",
-      "Japanese Nutmeg Tree"
+    "pt": [
+      "Kaya (árvore)",
+      "Kaya"
     ],
     "de": [
       "Japanische Nusseibe"
     ],
+    "pl": [
+      "Torreja orzechowa"
+    ],
     "ko": [
       "비자나무"
+    ],
+    "ru": [
+      "Торрея орехоносная"
     ],
     "nb": [
       "Japansk nøttebarlind"
     ],
     "zh": [
       "日本榧树"
-    ],
-    "pt": [
-      "Kaya"
-    ],
-    "pl": [
-      "Torreja orzechowa"
-    ],
-    "ru": [
-      "Торрея орехоносная"
     ],
     "ar": [
       "تورية جوزة الطيب"
@@ -60,13 +56,18 @@
     ],
     "hu": [
       "japán nagymagvú tiszafa"
+    ],
+    "en": [
+      "Japanese torreya",
+      "Japanese Nutmeg-yew",
+      "Japanese Nutmeg Tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1373999",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1373999",
   "search_names": {
@@ -76,22 +77,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カヤ」",
+      "source": "Wikipedia (ja): カヤ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109172364,
       "text": "カヤ は、イチイ科カヤ属の常緑針葉樹。同属のシナガヤ と同じく薬用・食用とされてきたほか、別属（イヌガヤ属）のイヌガヤ とともに油源植物の一つである。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Torreya nucifera」",
+      "source": "Wikipedia (en): Torreya nucifera",
       "source_url": "https://en.wikipedia.org/wiki/Torreya_nucifera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370399618,
       "text": "Torreya nucifera is a slow-growing, coniferous tree native to southern Japan and to South Korea's Jeju Island. It is also called kaya (榧) Japanese torreya or Japanese nutmeg-yew."
+    },
+    "es": {
+      "source": "Wikipedia (es): Torreya nucifera",
+      "source_url": "https://es.wikipedia.org/wiki/Torreya_nucifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172748132,
+      "text": "Torreya nucifera, la torreya japonesa, es una especie arbórea de la familia de las Cephalotaxaceae. Esta conífera es de crecimiento lento, originario del sur de Japón y la isla de Jeju en Corea del Sur. También se le llama kaya 榧."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Torreya nucifera",
+      "source_url": "https://fr.wikipedia.org/wiki/Torreya_nucifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230983876,
+      "text": "Torreya nucifera est un conifère de la classe des Pinopsida, à croissance lente originaire du Japon méridional."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Kaya (árvore)",
+      "source_url": "https://pt.wikipedia.org/wiki/Kaya_(%C3%A1rvore)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67549853,
+      "text": "Kaya ou torreya-japonesa, é uma árvore conífera de crescimento lento, nativa do sul do Japão e Jeju de Coreia do Sul."
     }
   },
   "edible": {
@@ -106,7 +134,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -117,7 +145,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/263999-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -125,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/263999-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000409013.webp",
@@ -138,6 +166,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

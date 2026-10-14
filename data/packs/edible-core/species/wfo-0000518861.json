@@ -34,17 +34,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "降真香",
-      "山油柑",
-      "山油柑（降真香）",
-      "沙糖木",
-      "山油柑果实",
-      "山油柑叶"
-    ],
     "ml": [
       "മുട്ടനാറി"
     ],
@@ -54,6 +46,14 @@
     "si": [
       "අංකෙන්ද"
     ],
+    "zh": [
+      "降真香",
+      "山油柑",
+      "山油柑（降真香）",
+      "沙糖木",
+      "山油柑果实",
+      "山油柑叶"
+    ],
     "yue": [
       "降真香"
     ]
@@ -62,18 +62,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3595230",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3595230",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Acronychia pedunculata」",
+      "source": "Wikipedia (en): Acronychia pedunculata",
       "source_url": "https://en.wikipedia.org/wiki/Acronychia_pedunculata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378678495,
       "text": "Acronychia pedunculata is a large shrub or small tree of the understory, gaps and fringes of low country and lower hill tropical forests of tropical Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Acronychia pedunculata",
+      "source_url": "https://es.wikipedia.org/wiki/Acronychia_pedunculata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171694074,
+      "text": "Acronychia pedunculata es una especie de arbusto perteneciente a la familia de las rutáceas."
     }
   },
   "edible": {
@@ -88,7 +97,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -121,7 +130,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/770718-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -129,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/770718-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000518861.webp",
@@ -142,6 +151,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 309,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

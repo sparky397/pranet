@@ -49,21 +49,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "デイゴ"
     ],
-    "en": [
-      "tiger's claw",
-      "Indian Coral Tree"
-    ],
-    "zh": [
-      "刺桐",
-      "龍牙花",
-      "納塔爾刺桐",
-      "海桐皮"
+    "id": [
+      "Dadap"
     ],
     "nan": [
       "Chhì-tông"
@@ -83,9 +76,6 @@
     "de": [
       "Indischer Korallenbaum"
     ],
-    "id": [
-      "Dadap"
-    ],
     "bn": [
       "পারিজাত"
     ],
@@ -103,6 +93,12 @@
     ],
     "az": [
       "Əlvan eritrina"
+    ],
+    "zh": [
+      "刺桐",
+      "龍牙花",
+      "納塔爾刺桐",
+      "海桐皮"
     ],
     "nl": [
       "Cangkring"
@@ -175,13 +171,17 @@
     ],
     "shn": [
       "တူၼ်ႈမႆႉတွင်းၼၢမ်"
+    ],
+    "en": [
+      "tiger's claw",
+      "Indian Coral Tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q715744",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q715744",
   "search_names": {
@@ -194,22 +194,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「デイゴ」",
+      "source": "Wikipedia (ja): デイゴ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%82%B4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109242826,
       "text": "デイゴ は、マメ科デイゴ属（エリスリーナ属）の落葉高木。デイコやエリスリナともいう。インド、マレー半島などの熱帯アジア、オーストラリアが原産。日本では沖縄県（あるいは奄美大島）が生育の北限とされている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Erythrina variegata」",
+      "source": "Wikipedia (en): Erythrina variegata",
       "source_url": "https://en.wikipedia.org/wiki/Erythrina_variegata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1340103712,
       "text": "Erythrina variegata, commonly known as tiger's claw or Indian coral tree, is a species of Erythrina native to the tropical and subtropical regions of eastern Africa, the Indian subcontinent, northern Australia, and the islands of the Indian Ocean and the western Pacific Ocean east to Fiji."
+    },
+    "es": {
+      "source": "Wikipedia (es): Erythrina variegata",
+      "source_url": "https://es.wikipedia.org/wiki/Erythrina_variegata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582074,
+      "text": "Erythrina variegata es una especie de planta fanerógama perteneciente a la familia de las fabáceas. Es originaria de la India y se ha cultivado por todo el mundo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Erythrina variegata",
+      "source_url": "https://fr.wikipedia.org/wiki/Erythrina_variegata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239208799,
+      "text": "Erythrina variegata est une espèce de plantes à fleurs de la famille des Fabacées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Erythrina variegata",
+      "source_url": "https://pt.wikipedia.org/wiki/Erythrina_variegata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72949651,
+      "text": "Erythrina variegata é uma espécie de Erythrina nativa das regiões tropicais e subtropicais do leste da África, do subcontinente indiano, do norte da Austrália e das ilhas do Oceano Índico e do oeste do Oceano Pacífico, a leste de Fiji."
+    },
+    "id": {
+      "source": "Wikipedia (id): Dadap",
+      "source_url": "https://id.wikipedia.org/wiki/Dadap",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29516885,
+      "text": "Dadap atau dadap ayam adalah sejenis pohon anggota suku Fabaceae. Pohon yang kerap digunakan sebagai pagar hidup dan peneduh ini memiliki banyak sebutan yang lain. Di antaranya dhadhap ayam, dhadhap laut, Dhadhap asrêp (Jw.), dadap belendung (Sd.), dhâddhâ' (Mdr.), dalungdung (Bl.), deris, galala itam (Mlk.) dan lain-lain."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Erythrina variegata § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Erythrina_variegata#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171582074,
+        "heading": "Toxicidad",
+        "text": "Las partes aéreas de las especies del género Erythrina pueden contener alcaloides, tales como la eritralina y la erisodina, cuya ingestión puede suponer un riesgo para la salud.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -228,7 +279,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -317,7 +368,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/494614-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -325,7 +376,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/494614-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000181193.webp",
@@ -338,6 +389,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

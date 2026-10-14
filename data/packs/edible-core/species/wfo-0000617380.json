@@ -19,13 +19,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "没药树",
-      "没药",
-      "沒藥樹"
+    "fr": [
+      "Arbre à myrrhe"
     ],
     "pl": [
       "Balsamowiec mirra"
@@ -35,9 +33,6 @@
     ],
     "so": [
       "Dheddin"
-    ],
-    "fr": [
-      "Arbre à myrrhe"
     ],
     "ru": [
       "Мирра"
@@ -50,6 +45,11 @@
     ],
     "hu": [
       "szomáliai balzsamfa"
+    ],
+    "zh": [
+      "沒藥樹",
+      "没药树",
+      "没药"
     ],
     "la": [
       "Myrrha (incensum)"
@@ -92,18 +92,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164609",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164609",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Commiphora myrrha」",
+      "source": "Wikipedia (en): Commiphora myrrha",
       "source_url": "https://en.wikipedia.org/wiki/Commiphora_myrrha",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360610915,
       "text": "Commiphora myrrha, called myrrh, Somali myrrh, herabol myrrh, common myrrh, is a tree in the family Burseraceae. It is one of the primary trees used in the production of myrrh, a resin made from dried tree sap. The Commiphora myrrha tree is indigenous to Somalia, in the Somali regions of Ethiopia and Kenya, Djibouti, Eritrea and parts of the Arabian Peninsula."
+    },
+    "es": {
+      "source": "Wikipedia (es): Commiphora myrrha",
+      "source_url": "https://es.wikipedia.org/wiki/Commiphora_myrrha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 168483781,
+      "text": "Commiphora myrrha es una especie de la familia Burseraceae, natural de Somalia y otras regiones de África. De su resina se obtiene la mirra."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Arbre à myrrhe",
+      "source_url": "https://fr.wikipedia.org/wiki/Arbre_%C3%A0_myrrhe",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 210941071,
+      "text": "L'arbre à myrrhe ou balsamier est un arbre de la famille des Burseraceae originaire de l'Afrique de l'Est et de la péninsule Arabique. L'arbre à myrrhe était, dans la Grèce antique, consacré à Aphrodite."
     }
   },
   "edible": {
@@ -118,7 +136,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -135,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/127741-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -143,7 +161,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/127741-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000617380.webp",
@@ -156,6 +174,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 297,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

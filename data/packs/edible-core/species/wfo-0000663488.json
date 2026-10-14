@@ -20,23 +20,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "フクマンギ"
     ],
-    "en": [
-      "Scorpionbush"
+    "fr": [
+      "Carmona retusa"
     ],
-    "fi": [
-      "Karmona"
+    "pt": [
+      "Carmona retusa"
     ],
-    "zh": [
-      "基及树"
+    "id": [
+      "Hokiantea"
     ],
     "hu": [
       "kislevelű borágófa"
+    ],
+    "fi": [
+      "karmona"
     ],
     "ml": [
       "കുരങ്ങുവെറ്റില"
@@ -50,21 +53,24 @@
     "sr": [
       "Кармона (биљка)"
     ],
+    "zh": [
+      "基及树"
+    ],
     "yue": [
       "福建茶"
     ],
-    "id": [
-      "Hokiantea"
-    ],
     "gor": [
       "Toli"
+    ],
+    "en": [
+      "Scorpionbush"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15283553",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15283553",
   "search_names": {
@@ -74,22 +80,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「フクマンギ」",
+      "source": "Wikipedia (ja): フクマンギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%AF%E3%83%9E%E3%83%B3%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107224056,
       "text": "フクマンギ は、ムラサキ科の低木。日本では琉球列島にあり、よく栽培される。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ehretia microphylla」",
+      "source": "Wikipedia (en): Ehretia microphylla",
       "source_url": "https://en.wikipedia.org/wiki/Ehretia_microphylla",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1328583972,
       "text": "Ehretia microphylla is commonly known as the Fukien tea tree or Philippine tea tree, is a species of flowering plant. The genus Ehretia is placed in the family Ehretiaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ehretia microphylla",
+      "source_url": "https://es.wikipedia.org/wiki/Ehretia_microphylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175441115,
+      "text": "Ehretia microphylla, conocida comúnmente como carmona, té de Filipinas, té de Fukien o arbusto escorpión, es un arbusto perennifolio de la familia Boraginaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Carmona retusa",
+      "source_url": "https://fr.wikipedia.org/wiki/Carmona_retusa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 150931139,
+      "text": "Carmona retusa est un arbuste subtropical de la famille des Boraginaceae, connu également sous son ancienne nomination Carmona microphylla ou tout simplement sous son nom de genre Carmona."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Carmona retusa",
+      "source_url": "https://pt.wikipedia.org/wiki/Carmona_retusa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70156084,
+      "text": "Carmona retusa, conhecida vulgarmente como carmona, chá de Filipinas, chá de Fukien ou arbusto escorpião, e em chinês como ji ji shu, é uma espécie de arbusto perenifólio da família Boraginaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Hokiantea",
+      "source_url": "https://id.wikipedia.org/wiki/Hokiantea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 27732654,
+      "text": "Hokiantea, Hokianti, atau teh fukian adalah tumbuhan semak atau pohon kecil bercabang banyak. Biasanya tumbuh setinggi 1–4 meter, tetapi sesekali spesies ini mencapai tinggi hingga 10 meter."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "id": {
+        "source": "Wikipedia (id): Hokiantea § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Hokiantea#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 27732654,
+        "heading": "Budidaya",
+        "text": "Cara mudah untuk membudidayakan tumbuhan ini adalah dengan setek yang sebaiknya dilakukan dari pucuk berdaun muda. Akarnya berkembang perlahan selama 1–2 bulan ke depan.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -103,7 +160,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -145,7 +202,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/116079-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -153,7 +210,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/116079-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000663488.webp",
@@ -166,6 +223,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

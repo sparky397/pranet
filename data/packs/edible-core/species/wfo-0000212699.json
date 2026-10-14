@@ -18,15 +18,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Cyprus-vetch"
-    ],
-    "cs": [
-      "hrachor žlutoplodý"
-    ],
     "ar": [
       "جلبان أصفر"
     ],
@@ -36,26 +30,50 @@
     "sv": [
       "Skaftvial"
     ],
+    "cs": [
+      "hrachor žlutoplodý"
+    ],
     "ca": [
       "Favull"
+    ],
+    "en": [
+      "Cyprus-vetch"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q12205673",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q12205673",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Lathyrus ochrus」",
+      "source": "Wikipedia (en): Lathyrus ochrus",
       "source_url": "https://en.wikipedia.org/wiki/Lathyrus_ochrus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1269447715,
       "text": "Lathyrus ochrus, the Cyprus vetch, is a species of annual herb in the family Fabaceae. They are climbers and have compound, broad leaves. Flowers are visited by Old World swallowtails and Oxythyrea funesta."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lathyrus ochrus",
+      "source_url": "https://fr.wikipedia.org/wiki/Lathyrus_ochrus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235307549,
+      "text": "Lathyrus ochrus, la Gesse ocre, est une espèce de plantes à fleurs de la famille des Fabaceae. C'est une plante herbacée méditerranéenne."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lathyrus ochrus",
+      "source_url": "https://pt.wikipedia.org/wiki/Lathyrus_ochrus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71498426,
+      "text": "Lathyrus ochrus é uma espécie de planta com flor pertencente à família Fabaceae."
     }
   },
   "edible": {
@@ -70,7 +88,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -108,7 +126,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/501908-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling annual",
@@ -116,7 +134,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/501908-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000212699.webp",
@@ -129,6 +147,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

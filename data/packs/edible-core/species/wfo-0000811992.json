@@ -14,29 +14,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "シナグリ"
-    ],
-    "en": [
-      "Chinese Chestnut"
-    ],
-    "zh": [
-      "板栗",
-      "Chinesechestnut",
-      "栗",
-      "栗子",
-      "栗蔟",
-      "栗壳",
-      "栗毛球",
-      "栗树根",
-      "板栗花",
-      "栗*（板栗）",
-      "栗花",
-      "栗树皮",
-      "中国板栗"
     ],
     "de": [
       "Chinesische Kastanie"
@@ -64,6 +46,21 @@
     ],
     "sl": [
       "Kitajski kostanj"
+    ],
+    "zh": [
+      "中国板栗",
+      "板栗",
+      "Chinesechestnut",
+      "栗",
+      "栗子",
+      "栗蔟",
+      "栗壳",
+      "栗毛球",
+      "栗树根",
+      "板栗花",
+      "栗*（板栗）",
+      "栗花",
+      "栗树皮"
     ],
     "fa": [
       "شاه‌بلوط چینی"
@@ -103,13 +100,16 @@
     ],
     "shn": [
       "မၢၵ်ႇတူပ်း"
+    ],
+    "en": [
+      "Chinese Chestnut"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q699584",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q699584",
   "search_names": {
@@ -121,22 +121,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シナグリ」",
+      "source": "Wikipedia (ja): シナグリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8A%E3%82%B0%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110052997,
       "text": "シナグリ はブナ科クリ属の落葉高木。原産は中国大陸。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Castanea mollissima」",
+      "source": "Wikipedia (en): Castanea mollissima",
       "source_url": "https://en.wikipedia.org/wiki/Castanea_mollissima",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1362789345,
       "text": "Castanea mollissima, also known as the Chinese chestnut, is an Asian species of chestnut tree in the family Fagaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Castanea mollissima",
+      "source_url": "https://es.wikipedia.org/wiki/Castanea_mollissima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175184294,
+      "text": "El castaño chino es una especie del género Castanea en la familia Fagaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Castanea mollissima",
+      "source_url": "https://fr.wikipedia.org/wiki/Castanea_mollissima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175194076,
+      "text": "Le châtaignier chinois est un arbre originaire de Chine appartenant à la famille des Fagaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Castanea mollissima",
+      "source_url": "https://id.wikipedia.org/wiki/Castanea_mollissima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29069667,
+      "text": "Castanea mollissima atau yang lebih dikenal sebagai kastanya tiongkok, merupakan salah satu spesies kastanya asal Asia dari famili Fagaceae. Jika ditanam berdekatan dengan spesies kastanya lain, seperti kastanya jepang, kastanya amerika, atau kastanya eropa, tanaman ini dengan mudah melakukan penyerbukan silang dan menghasilkan hibrida. Buahnya telah lama menjadi sumber pangan penting bagi berbagai jenis satwa liar."
     }
   },
   "edible": {
@@ -150,7 +177,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -174,7 +201,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/295338-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -182,7 +209,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/295338-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000811992.webp",
@@ -195,6 +222,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

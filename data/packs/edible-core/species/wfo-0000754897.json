@@ -11,18 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Utah agave"
-    ],
-    "zh": [
-      "青瓷炉"
-    ],
-    "sl": [
-      "utaška agava"
-    ],
     "ru": [
       "Агава ютская"
     ],
@@ -31,24 +22,51 @@
     ],
     "arz": [
       "اجاف يوتاهنسس"
+    ],
+    "sl": [
+      "utaška agava"
+    ],
+    "en": [
+      "Utah agave"
+    ],
+    "zh": [
+      "青瓷炉"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q288439",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q288439",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Agave utahensis」",
+      "source": "Wikipedia (en): Agave utahensis",
       "source_url": "https://en.wikipedia.org/wiki/Agave_utahensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1313976464,
       "text": "Agave utahensis is a species of agave known by the common name Utah agave."
+    },
+    "es": {
+      "source": "Wikipedia (es): Agave utahensis",
+      "source_url": "https://es.wikipedia.org/wiki/Agave_utahensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173944854,
+      "text": "Agave utahensis Engelm. o agave de Utah es una especie de planta suculenta perteneciente a la familia Agavaceae. Es una planta poco común en los desiertos del sudoeste de los Estados Unidos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Agave utahensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Agave_utahensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227445346,
+      "text": "Agave utahensis est une espèce de la famille des Asparagaceae connu sous le nom vernaculaire Utah agave. Les variétés de l'espèce comprennent l'« agave du Nevada » et l'« agave de Kaibab ». Il s'agit d'une plante vivace succulente qui pousse principalement dans le biome subtropical."
     }
   },
   "edible": {
@@ -62,7 +80,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -75,7 +93,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/6755-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent perennial",
@@ -83,7 +101,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/6755-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000754897.webp",
@@ -96,6 +114,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

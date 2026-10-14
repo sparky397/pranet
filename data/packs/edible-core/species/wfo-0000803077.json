@@ -16,18 +16,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "karanda"
-    ],
-    "si": [
-      "කරඹ",
-      "මහ කරඹ"
-    ],
-    "zh": [
-      "刺黄果"
+    "id": [
+      "Buah renda"
     ],
     "koi": [
       "Каранда"
@@ -65,6 +58,13 @@
     "udm": [
       "Каранда"
     ],
+    "zh": [
+      "刺黄果"
+    ],
+    "si": [
+      "මහ කරඹ",
+      "කරඹ"
+    ],
     "ar": [
       "كاريس كارنداس"
     ],
@@ -98,9 +98,6 @@
     "arz": [
       "كاريس كارنداس"
     ],
-    "id": [
-      "Buah renda"
-    ],
     "tcy": [
       "ಕಂರ್ಡೇಪುಳಿ"
     ],
@@ -109,13 +106,16 @@
     ],
     "shn": [
       "တူၼ်ႈၼၢမ်သၢင်ႇသီႈ"
+    ],
+    "en": [
+      "karanda"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1036374",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1036374",
   "search_names": {
@@ -128,13 +128,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Carissa carandas」",
+      "source": "Wikipedia (en): Carissa carandas",
       "source_url": "https://en.wikipedia.org/wiki/Carissa_carandas",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372704671,
       "text": "Carissa carandas is a species of flowering shrub in the family Apocynaceae. It produces berry-sized fruits that are commonly used as a condiment in Indian pickles and spices. The fruit is black and tastes sweet or sour depending on the plant. It is a hardy, drought-tolerant plant that thrives well in a wide range of soils. Common names in English include Bengal currant, Carandas plum and karanda."
+    },
+    "es": {
+      "source": "Wikipedia (es): Carissa carandas",
+      "source_url": "https://es.wikipedia.org/wiki/Carissa_carandas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 123003879,
+      "text": "Carissa carandas es una especie de planta perteneciente a la familia de las apocináceas. Es originaria de la India y el sudeste de Bangladés. Posee frutos comestibles."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Carissa carandas",
+      "source_url": "https://fr.wikipedia.org/wiki/Carissa_carandas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229775242,
+      "text": "Carissa carandas est une espèce de plante à fleur dans la famille des Apocynaceae. Il produit des fruits de la taille des baies couramment utilisés comme condiments ou additifs dans les plats saumurés indiens et épices. C'est une plante très résistante, qui tolère la sécheresse et qui pousse bien dans une grande diversité de sols. Ses appellations courantes incluent Karonda, Karau(n)da, Karanda parfois écrit Karamda."
+    },
+    "id": {
+      "source": "Wikipedia (id): Buah renda",
+      "source_url": "https://id.wikipedia.org/wiki/Buah_renda",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29705808,
+      "text": "Carissa carandas adalah spesies semak berbunga dalam famili Apocynaceae. Ini menghasilkan buah berukuran berry yang biasa digunakan sebagai bumbu dalam acar dan rempah-rempah India. Ini adalah tanaman yang kuat dan tahan kekeringan yang tumbuh subur di berbagai jenis tanah. Nama-nama umumnya termasuk buah renda atau buah samarinda."
     }
   },
   "edible": {
@@ -149,7 +176,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -182,7 +209,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77691-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -190,7 +217,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77691-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000803077.webp",
@@ -203,6 +230,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

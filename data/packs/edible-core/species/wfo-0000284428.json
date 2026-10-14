@@ -59,45 +59,63 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Guinea guava"
-    ],
-    "zh": [
-      "几内亚番石榴",
-      "巴西芭樂"
+    "pt": [
+      "Araçá-do-campo"
     ],
     "fa": [
       "گواوا برزیلی"
     ],
-    "pt": [
-      "Araçá-do-campo"
-    ],
     "ko": [
       "기니아구아바"
     ],
+    "zh": [
+      "巴西芭樂",
+      "几内亚番石榴"
+    ],
     "cs": [
       "Kvajáva brazilská"
+    ],
+    "en": [
+      "Guinea guava"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q6090472",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q6090472",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Psidium guineense」",
+      "source": "Wikipedia (en): Psidium guineense",
       "source_url": "https://en.wikipedia.org/wiki/Psidium_guineense",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314667515,
       "text": "Psidium guineense is a species of guava."
+    },
+    "es": {
+      "source": "Wikipedia (es): Psidium guineense",
+      "source_url": "https://es.wikipedia.org/wiki/Psidium_guineense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 155740119,
+      "text": "Psidium guineense llamada popularmente guayaba ágria, es una especie arbórea de la familia de las mirtáceas. Es nativa de América tropical."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Araçá-do-campo",
+      "source_url": "https://pt.wikipedia.org/wiki/Ara%C3%A7%C3%A1-do-campo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71129036,
+      "text": "Araçá-do-campo é um arbusto frutífero, original do Brasil, na América do Sul. Também conhecido como goiaba-do-morro."
     }
   },
   "edible": {
@@ -110,7 +128,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -167,7 +185,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/211886-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -175,7 +193,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/211886-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000284428.webp",
@@ -188,6 +206,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 225,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

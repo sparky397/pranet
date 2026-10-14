@@ -22,35 +22,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "ar": [
-      "أروكاريا عمودية"
-    ],
-    "en": [
-      "Coral Reef Araucaria",
-      "New Caledonia pine",
-      "Cook's Pine"
-    ],
-    "fa": [
-      "کاج کوک"
-    ],
     "lt": [
       "Išlakioji araukarija"
     ],
     "nb": [
       "Cookfuru"
     ],
-    "vi": [
-      "Bách tán nam"
+    "fa": [
+      "کاج کوک"
     ],
-    "fr": [
-      "Pin colonnaire"
-    ],
-    "zh": [
-      "柱冠南洋杉",
-      "柱状南洋杉"
+    "ar": [
+      "أروكاريا عمودية"
     ],
     "ru": [
       "Араукария колонновидная"
@@ -76,15 +61,30 @@
     "arz": [
       "اروكاريا عموديه"
     ],
+    "zh": [
+      "柱状南洋杉",
+      "柱冠南洋杉"
+    ],
     "ja": [
       "クックナンヨウスギ"
+    ],
+    "en": [
+      "Coral Reef Araucaria",
+      "New Caledonia pine",
+      "Cook's Pine"
+    ],
+    "vi": [
+      "Bách tán nam"
+    ],
+    "fr": [
+      "Pin colonnaire"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q134045",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q134045",
   "search_names": {
@@ -99,13 +99,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Araucaria columnaris」",
+      "source": "Wikipedia (en): Araucaria columnaris",
       "source_url": "https://en.wikipedia.org/wiki/Araucaria_columnaris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371057502,
       "text": "Araucaria columnaris, the coral reef araucaria, Cook pine, New Caledonia pine, Cook araucaria, or columnar araucaria, is a species of conifer in the family Araucariaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Araucaria columnaris",
+      "source_url": "https://es.wikipedia.org/wiki/Araucaria_columnaris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175254786,
+      "text": "La araucaria columnar, pino de Cook o pino de Nueva Caledonia es una especie de conífera perteneciente a la familia Araucariaceae. Es endémica de Nueva Caledonia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Araucaria columnaris",
+      "source_url": "https://fr.wikipedia.org/wiki/Araucaria_columnaris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239525771,
+      "text": "Le pin colonnaire est une espèce d'Araucariacée endémique de la Nouvelle-Calédonie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Araucaria columnaris",
+      "source_url": "https://pt.wikipedia.org/wiki/Araucaria_columnaris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 56585068,
+      "text": "A Araucaria columnaris também é conhecida no Brasil por Pinheiro-de-Cook."
     }
   },
   "edible": {
@@ -119,7 +146,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -137,7 +164,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/261688-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -145,7 +172,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/261688-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000260257.webp",
@@ -158,6 +185,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

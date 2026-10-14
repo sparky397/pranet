@@ -22,28 +22,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アサ"
-    ],
-    "de": [
-      "Hanf"
-    ],
-    "en": [
-      "marijuana",
-      "Hemp",
-      "grass",
-      "hashish",
-      "Mary Jane",
-      "pot"
-    ],
-    "nl": [
-      "Hennep"
-    ],
-    "cs": [
-      "konopí seté"
     ],
     "zh": [
       "大麻",
@@ -57,13 +40,6 @@
       "麻皮",
       "麻费",
       "大麻叶"
-    ],
-    "es": [
-      "mota",
-      "mariguana"
-    ],
-    "sl": [
-      "navadna konoplja"
     ],
     "eu": [
       "Kalamu"
@@ -101,6 +77,9 @@
     "et": [
       "harilik kanep"
     ],
+    "de": [
+      "Hanf"
+    ],
     "br": [
       "Kanab"
     ],
@@ -124,6 +103,12 @@
     ],
     "fi": [
       "hamppu"
+    ],
+    "sl": [
+      "navadna konoplja"
+    ],
+    "cs": [
+      "konopí seté"
     ],
     "mr": [
       "गांजा"
@@ -265,13 +250,28 @@
     ],
     "sd": [
       "ڀنگ ٻوٽو"
+    ],
+    "en": [
+      "marijuana",
+      "Hemp",
+      "grass",
+      "hashish",
+      "Mary Jane",
+      "pot"
+    ],
+    "nl": [
+      "Hennep"
+    ],
+    "es": [
+      "mota",
+      "mariguana"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q26726",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q26726",
   "search_names": {
@@ -287,32 +287,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アサ」",
+      "source": "Wikipedia (ja): アサ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110823179,
       "text": "アサ は、中央アジア原産とされるアサ科アサ属の一年生の草本であり雌雄異株である。大麻草（たいまそう）とも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cannabis sativa」",
+      "source": "Wikipedia (en): Cannabis sativa",
       "source_url": "https://en.wikipedia.org/wiki/Cannabis_sativa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354823004,
       "text": "Cannabis sativa is an annual herbaceous flowering plant. The species was first classified by Carl Linnaeus in 1753. The specific epithet sativa means 'cultivated'. Indigenous to Eastern Asia, the plant is now of cosmopolitan distribution due to widespread cultivation. It has been cultivated throughout recorded history and used as a source of industrial fiber, seed oil, food, and medicine. It is also used as a recreational drug and for religious and spiritual purposes."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cannabis sativa",
+      "source_url": "https://es.wikipedia.org/wiki/Cannabis_sativa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175428549,
+      "text": "Cannabis sativa, cáñamo o marihuana, es una especie herbácea de la familia Cannabaceae. Es una planta anual, dioica, originaria de las cordilleras del Himalaya, Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cannabis sativa",
+      "source_url": "https://fr.wikipedia.org/wiki/Cannabis_sativa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236943995,
+      "text": "Le Chanvre cultivé est une espèce de plantes à fleurs de la famille des Cannabinacées. C'est une plante herbacée annuelle, désormais considérée comme une espèce du genre botanique Cannabis, mais divisée en plusieurs phénotypes pouvant être décrits comme plusieurs variétés. Cette plante provient des régions équatoriales et tropicales et a la particularité d'avoir une forte croissance."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cannabis sativa",
+      "source_url": "https://pt.wikipedia.org/wiki/Cannabis_sativa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73103753,
+      "text": "Cannabis sativa é uma planta herbácea da família das Canabiáceas (Cannabaceae), amplamente cultivada em muitas partes do mundo. As folhas são finamente recortadas em segmentos lineares; as flores, unissexuais e inconspícuas, têm pelos granulosos que, nas femininas, segregam uma resina; o caule possui fibras industrialmente importantes, conhecidas como cânhamo; e a resina tem propriedades psicoativas bem documentadas podendo actuar como analgésico, anódino, antiemético, antiespasmódico, calmante do sistema nervoso, embriagador, estomático, narcótico, sedativo, tônico."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cannabis sativa",
+      "source_url": "https://id.wikipedia.org/wiki/Cannabis_sativa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29357350,
+      "text": "Cannabis sativa adalah herba berbunga tahunan. Spesies ini pertama kali diklasifikasikan oleh Carl Linnaeus pada tahun 1753. Julukan spesifik sativa berarti “dibudidayakan”. Berasal dari Asia Timur, tumbuhan ini kini memiliki sebaran kosmopolitan berkat pembudidayaan yang luas. Tumbuhan ini telah dibudidayakan sepanjang sejarah tertulis dan dimanfaatkan sebagai sumber serat industri, minyak biji, pangan, serta obat-obatan. Ia juga digunakan sebagai zat psikoaktif rekreasional dan untuk tujuan ritual keagamaan maupun spiritual."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Cannabis sativa」の節「Cultivation」",
+        "source": "Wikipedia (en): Cannabis sativa § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Cannabis_sativa#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1354823004,
         "heading": "Cultivation",
         "text": "A Cannabis plant in the vegetative growth phase requires more than 16–18 hours of light per day to stay vegetative. Flowering usually occurs when darkness equals at least 12 hours per day. The flowering cycle can last anywhere between seven and fifteen weeks, depending on the strain and environmental conditions. When the production of psychoactive cannabinoids is sought, female plants are grown separately from male plants to induce parthenocarpy in the female plant's fruits (popularly called sin semilla which is Spanish for \"without seed\") and increase the production of cannabinoid-rich resin.\nIn soil, the optimum pH for the plant is 6.3 to 6.8. In hydroponic growing, the nutrient solution is best at 5.2 to 5.8, making Cannabis well-suited to hydroponics because this pH range is hostile to most bacteria and fungi.\nTissue culture multiplication has become important in producing medically important clones, while seed production remains the generally preferred means of multiplication. Sativa plants have narrow leaves and grow best in warm environments. They do, however, take longer to flower than their Indica counterparts, and they grow taller than the Indica cannabis strains as well.\n\n■ Cultivars\nBroadly, there are three main cultivar groups of cannabis that are cultivated today:\n\nCultivars primarily cultivated for their fibre, characterized by long stems and little branching.\nCultivars grown for seed which can be eaten entirely raw or from which hemp oil is extracted.\nCultivars grown for medicinal or recreational purposes, characterized by extensive branching to maximize the number of flowers.\n\nA nominal if not legal distinction is often made between industrial hemp, with concentrations of psychoactive compounds far too low to be useful for that purpose, and marijuana.",
@@ -334,7 +370,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -523,7 +559,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306087-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -531,7 +567,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306087-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000584001.webp",
@@ -544,6 +580,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

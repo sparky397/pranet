@@ -10,12 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "红雀椿"
-    ],
     "pl": [
       "Gorzkla właściwa"
     ],
@@ -51,37 +48,69 @@
     ],
     "arz": [
       "خشب مر"
+    ],
+    "zh": [
+      "红雀椿"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q135389",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q135389",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Quassia amara」",
+      "source": "Wikipedia (en): Quassia amara",
       "source_url": "https://en.wikipedia.org/wiki/Quassia_amara",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378633604,
       "text": "Quassia amara, also known as amargo, bitter-ash, bitterwood, or hombre grande is a species in the genus Quassia, with some botanists treating it as the sole species in the genus. The genus was named by Carl Linnaeus who named it after the first botanist to describe it: the Surinamese freedman Graman Quassi.\nQ. amara is used as insecticide, in traditional medicine and as additive in the food industry."
+    },
+    "es": {
+      "source": "Wikipedia (es): Quassia amara",
+      "source_url": "https://es.wikipedia.org/wiki/Quassia_amara",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581319,
+      "text": "Quassia amara es una especie de planta del género Quassia, se utiliza como insecticida en la medicina tradicional y como aditivo en la industria alimentaria."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Quassia amara",
+      "source_url": "https://fr.wikipedia.org/wiki/Quassia_amara",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233057621,
+      "text": "Quassia amara, la Quinine de Cayenne, est une plante tropicale de la famille des Simaroubaceae."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Quassia amara」の節「Cultivation」",
+        "source": "Wikipedia (en): Quassia amara § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Quassia_amara#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378633604,
         "heading": "Cultivation",
         "text": "Q. amara is suitable for medium (loamy) and heavy (clay) soils. It prefers rich soils, that are water retentive. The tree can adapt to different pH-values in soils. It is a frost sensitive plant. Its salt toleration and dry toleration is low. It is classified as a semi-sciophyte with high tolerance to shade conditions but with a requirement of direct exposure to sunlight in order to complete its life cycle, in particular due to its effect on flower and fruit production. An increase in the light conditions increases flower and fruit production although it does not influence seed fertility. Therefore, its natural regeneration appears to be limited by light and interspecific competition with upperstorey forest species.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Quassia amara § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Quassia_amara#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171581319,
+        "heading": "Cultivo",
+        "text": "Semillas y esquejes se pueden usar para la propagación de Q. amara. No tolera las heladas, pero la planta es parcialmente resistente a la sequía.​ Se recomienda una gran cantidad de luz indirecta.​",
         "truncated": false
       }
     }
@@ -98,7 +127,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -141,7 +170,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/814006-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -149,7 +178,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/814006-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000733354.webp",
@@ -162,6 +191,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -41,25 +41,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "sessile joyweed",
-      "Dwarf Copperleaf",
-      "chaff flower"
-    ],
-    "fr": [
-      "Brède Chevrette",
-      "Brède Emballages",
-      "Magloire",
-      "Serenti"
-    ],
-    "zh": [
-      "蓮子草",
-      "莲子草",
-      "革命菜",
-      "节节花"
+    "id": [
+      "Kremah"
     ],
     "te": [
       "పొన్నగంటి కూర"
@@ -70,14 +56,17 @@
     "to": [
       "Fisiʻiano"
     ],
-    "id": [
-      "Kremah"
-    ],
     "vi": [
       "Rau Dệu"
     ],
     "ml": [
       "പൊന്നാങ്കണ്ണി"
+    ],
+    "zh": [
+      "莲子草",
+      "蓮子草",
+      "革命菜",
+      "节节花"
     ],
     "pnb": [
       "گندل بوٹی"
@@ -114,13 +103,24 @@
     ],
     "he": [
       "ביצן מכסיף"
+    ],
+    "en": [
+      "sessile joyweed",
+      "Dwarf Copperleaf",
+      "chaff flower"
+    ],
+    "fr": [
+      "Brède Chevrette",
+      "Brède Emballages",
+      "Magloire",
+      "Serenti"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3534965",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3534965",
   "search_names": {
@@ -134,13 +134,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Alternanthera sessilis」",
+      "source": "Wikipedia (en): Alternanthera sessilis",
       "source_url": "https://en.wikipedia.org/wiki/Alternanthera_sessilis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1316875144,
       "text": "Alternanthera sessilis is a flowering plant known by several common names, including sissoo spinach, Brazilian spinach, sessile joyweed, dwarf copperleaf. It is cultivated as a vegetable worldwide."
+    },
+    "es": {
+      "source": "Wikipedia (es): Alternanthera sessilis",
+      "source_url": "https://es.wikipedia.org/wiki/Alternanthera_sessilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174401932,
+      "text": "Alternanthera sessilis es una especie de planta acuática de la familia de las amarantáceas. Se usa como planta de acuario. Se distribuye por todo el mundo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Alternanthera sessilis",
+      "source_url": "https://fr.wikipedia.org/wiki/Alternanthera_sessilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238075104,
+      "text": "Alternanthera sessilis est une espèce de la famille des Amaranthaceae. Cette espèce est dénommée sissoo spinach, brazilian spinach, sessile joyweed, dwarf copperleaf. Elle est cultivée dans le monde entier."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kremah",
+      "source_url": "https://id.wikipedia.org/wiki/Kremah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29670305,
+      "text": "Kremah adalah tumbuhan obat Indonesia. Kremah masih berkerabat dengan bayam merah yang berasal dari Amerika."
     }
   },
   "edible": {
@@ -157,7 +184,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -321,7 +348,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1069792-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or helophyte",
@@ -329,7 +356,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1069792-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000528825.webp",
@@ -342,6 +369,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

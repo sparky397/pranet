@@ -18,18 +18,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "トゲドコロ"
-    ],
-    "en": [
-      "lesser yam"
-    ],
-    "zh": [
-      "甘薯",
-      "刺薯蕷"
     ],
     "id": [
       "Gembili"
@@ -42,6 +35,10 @@
     ],
     "to": [
       "ʻUfilei"
+    ],
+    "zh": [
+      "甘薯",
+      "刺薯蕷"
     ],
     "th": [
       "มันมือเสือ"
@@ -63,33 +60,54 @@
     ],
     "arz": [
       "ديسقوريا مغذيه"
+    ],
+    "en": [
+      "lesser yam"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2674220",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2674220",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「トゲドコロ」",
+      "source": "Wikipedia (ja): トゲドコロ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B2%E3%83%89%E3%82%B3%E3%83%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106368559,
       "text": "トゲドコロ はヤマノイモ目ヤマノイモ科の植物で、食用となるヤムイモの一種である。別名ハリイモ、クーガイモ、クーガンムなど。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Dioscorea esculenta」",
+      "source": "Wikipedia (en): Dioscorea esculenta",
       "source_url": "https://en.wikipedia.org/wiki/Dioscorea_esculenta",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1327299607,
       "text": "Dioscorea esculenta is a species of flowering plant in the family Dioscoreaceae. It is sometimes referred to by the common name lesser yam, and is native to Island Southeast Asia and introduced to Near Oceania and East Africa by early Austronesian voyagers. This yam is grown for its edible tubers, though it has smaller tubers than the more widely-cultivated Dioscorea alata and is usually spiny."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dioscorea esculenta",
+      "source_url": "https://fr.wikipedia.org/wiki/Dioscorea_esculenta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 209158251,
+      "text": "Dioscorea esculenta, communément appelé petit igname, est une espèce d'igname, mais avec un corme plus petit que la plupart des autres ignames. Il est plus proche de la taille d'une pomme de terre ou d'une patate douce. Il est cultivé en Inde, au Népal, au Bangladesh, au Myanmar, en Thailande, au Vietnam, en Malaisie, en Indonésie, aux Philippines, en Nouvelle-Guinée."
+    },
+    "id": {
+      "source": "Wikipedia (id): Gembili",
+      "source_url": "https://id.wikipedia.org/wiki/Gembili",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28923236,
+      "text": "Gembili merupakan tanaman umbi-umbian yang sekarang sudah sulit dijumpai di pasar. Penanamannya masih cukup luas di pedesaan walaupun juga makin terancam kelestariannya. Gembili menghasilkan umbi yang dapat dimakan. Umbi biasanya direbus dan bertekstur kenyal. Umbi gembili serupa dengan umbi gembolo, tetapi berukuran lebih kecil."
     }
   },
   "edible": {
@@ -104,7 +122,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -163,7 +181,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/317946-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing tuberous geophyte",
@@ -171,7 +189,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/317946-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000390601.webp",
@@ -184,6 +202,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

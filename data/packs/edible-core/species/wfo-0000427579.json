@@ -11,45 +11,54 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Pepper bark tree",
-      "Pepper-bark tree",
-      "Muranga"
-    ],
-    "af": [
-      "Peperbasboom",
-      "Peperblaarboom"
-    ],
     "zh": [
-      "穆兰加十数樟",
-      "穆蘭加十數樟"
+      "穆蘭加十數樟",
+      "穆兰加十数樟"
     ],
     "fa": [
       "واربرگیا سالوتاریس"
     ],
+    "af": [
+      "Peperblaarboom",
+      "Peperbasboom"
+    ],
     "zu": [
       "Isibhaha"
+    ],
+    "en": [
+      "Pepper bark tree",
+      "Pepper-bark tree",
+      "Muranga"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q142235",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q142235",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Warburgia salutaris」",
+      "source": "Wikipedia (en): Warburgia salutaris",
       "source_url": "https://en.wikipedia.org/wiki/Warburgia_salutaris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370305571,
       "text": "Warburgia salutaris is a species of tree in the family Canellaceae. It is native to southwestern Africa, including Mozambique, Zimbabwe, and KwaZulu-Natal the Northern Provinces of South Africa. It is threatened by habitat loss. It is a popular medicinal plant and is overharvested in the wild, another reason for its endangerment. The Pepper-bark tree is a protected tree in South Africa. Various projects are investigating methods of propagation under controlled conditions with subsequent planting in the wild."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Warburgia salutaris",
+      "source_url": "https://pt.wikipedia.org/wiki/Warburgia_salutaris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66650834,
+      "text": "Warburgia salutaris é uma espécie de plantas com flor da família Canellaceae, com distribuição natural no sul e sueste da África, ameaçada por perda de habitat."
     }
   },
   "edible": {
@@ -64,7 +73,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -77,7 +86,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/146036-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -85,7 +94,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/146036-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000427579.webp",
@@ -98,6 +107,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -38,40 +38,31 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Sumpf-Haarstrang",
-      "Sumpfhaarstrang"
-    ],
-    "en": [
-      "hogfennel",
-      "milk parsley"
-    ],
-    "nl": [
-      "Melkeppe"
-    ],
-    "cs": [
-      "smldník bahenní"
-    ],
     "fr": [
+      "Thysselinum palustre",
       "peucédan des marais"
-    ],
-    "fi": [
-      "luhtasuoputki"
-    ],
-    "bg": [
-      "блатна самодивска трева"
-    ],
-    "sl": [
-      "močvirski silj"
     ],
     "hu": [
       "mocsári kocsord"
     ],
+    "cs": [
+      "smldník bahenní"
+    ],
+    "de": [
+      "Sumpf-Haarstrang",
+      "Sumpfhaarstrang"
+    ],
+    "fi": [
+      "luhtasuoputki"
+    ],
     "lt": [
       "Pelkinis saliavas"
+    ],
+    "nl": [
+      "melkeppe"
     ],
     "nn": [
       "Mjølkerot"
@@ -84,6 +75,9 @@
     ],
     "da": [
       "Kær-Svovlrod"
+    ],
+    "bg": [
+      "блатна самодивска трева"
     ],
     "ru": [
       "горичник болотный"
@@ -102,13 +96,20 @@
     ],
     "nb": [
       "mjølkerot"
+    ],
+    "en": [
+      "hogfennel",
+      "milk parsley"
+    ],
+    "sl": [
+      "močvirski silj"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q962714",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q962714",
   "search_names": {
@@ -119,13 +120,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Peucedanum palustre」",
+      "source": "Wikipedia (en): Peucedanum palustre",
       "source_url": "https://en.wikipedia.org/wiki/Peucedanum_palustre",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360084238,
       "text": "Peucedanum palustre (milk-parsley) is an almost glabrous biennial plant in the family Apiaceae. It is so called in English because of the thin, foetid, milky latex found in its young parts and is native to most of Europe, extending eastwards to Central Asia. Another English common name for the plant is marsh hog's fennel."
+    },
+    "es": {
+      "source": "Wikipedia (es): Peucedanum palustre",
+      "source_url": "https://es.wikipedia.org/wiki/Peucedanum_palustre",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581165,
+      "text": "El apio lechal es una especie de planta herbácea perteneciente a la familia de las apiáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Thysselinum palustre",
+      "source_url": "https://fr.wikipedia.org/wiki/Thysselinum_palustre",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226016887,
+      "text": "Thysselinum palustre, le Peucédan des marais ou Persil des marais, est une espèce de plantes à fleurs de la famille des Apiacées. C'est une plante herbacée trouvée d'une zone allant de la majorité de l'Europe jusqu'au centre de l'Asie. Elle est présente en France."
     }
   },
   "edible": {
@@ -137,7 +156,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -176,7 +195,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/846318-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial",
@@ -184,7 +203,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/846318-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000391781.webp",
@@ -197,6 +216,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

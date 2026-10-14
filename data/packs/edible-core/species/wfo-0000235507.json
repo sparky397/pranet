@@ -46,7 +46,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -62,100 +62,45 @@
       "Tapioca",
       "Tapioca Plant"
     ],
-    "zh": [
-      "樹薯",
-      "木薯",
-      "红薯"
-    ],
-    "es": [
-      "Yuca",
-      "Guacamote",
-      "Mandioca"
-    ],
-    "ast": [
-      "mandioca"
-    ],
-    "vi": [
-      "sắn"
-    ],
-    "ee": [
-      "Agbeli"
-    ],
     "fr": [
+      "Manioc",
       "manioc",
       "Manioc sauvage",
       "Manioc domestique"
     ],
-    "sl": [
-      "manioka"
-    ],
-    "nb": [
-      "maniok",
-      "kassava"
-    ],
-    "mg": [
-      "mangahazo"
-    ],
-    "myn": [
-      "kiki-tsiim"
-    ],
-    "id": [
-      "Singkong",
-      "Ubi Kayu",
-      "Ketela Pohon"
-    ],
-    "de": [
-      "Maniok"
-    ],
     "pt": [
       "Mandioca",
+      "mandioca",
       "Macaxeira",
       "mandioqueira"
     ],
-    "nl": [
-      "Cassave"
+    "id": [
+      "Singkong",
+      "singkong",
+      "Ubi Kayu",
+      "Ketela Pohon"
     ],
-    "fi": [
-      "maniokki"
-    ],
-    "cs": [
-      "maniok nejužitečnější",
-      "maniok jedlý"
-    ],
-    "si": [
-      "මඤ්ඤොක්කා"
-    ],
-    "it": [
-      "Manioca"
-    ],
-    "tr": [
-      "manyok"
-    ],
-    "th": [
-      "มันสำปะหลัง"
-    ],
-    "ru": [
-      "Маниок съедобный",
-      "маниок"
-    ],
-    "da": [
-      "maniok",
-      "kassava"
-    ],
-    "pl": [
-      "Maniok jadalny"
-    ],
-    "sk": [
-      "maniok jedlý"
+    "zh": [
+      "木薯",
+      "樹薯",
+      "红薯"
     ],
     "jv": [
       "Ketéla pohung"
+    ],
+    "pl": [
+      "Maniok jadalny"
     ],
     "eu": [
       "Manioka"
     ],
     "qu": [
       "Rumu"
+    ],
+    "es": [
+      "yuca",
+      "Guacamote",
+      "Mandioca"
     ],
     "ta": [
       "மரவள்ளி"
@@ -172,6 +117,9 @@
     "ar": [
       "بفرة"
     ],
+    "nl": [
+      "cassave"
+    ],
     "sv": [
       "Maniok"
     ],
@@ -187,6 +135,16 @@
     "su": [
       "sampeu"
     ],
+    "ru": [
+      "маниок",
+      "Маниок съедобный"
+    ],
+    "tr": [
+      "Manyok"
+    ],
+    "fi": [
+      "maniokki"
+    ],
     "uk": [
       "Маніок"
     ],
@@ -201,6 +159,10 @@
     ],
     "tl": [
       "Kamoteng-kahoy"
+    ],
+    "da": [
+      "kassava",
+      "maniok"
     ],
     "nan": [
       "Chhiū-chî"
@@ -229,8 +191,17 @@
     "lv": [
       "manioka"
     ],
+    "it": [
+      "manioca"
+    ],
     "ny": [
       "Chinangwa"
+    ],
+    "de": [
+      "Maniok"
+    ],
+    "vi": [
+      "sắn"
     ],
     "sh": [
       "Manioka"
@@ -247,6 +218,9 @@
     "kn": [
       "ಮರಗೆಣಸು"
     ],
+    "th": [
+      "มันสำปะหลัง"
+    ],
     "ca": [
       "Tapioca"
     ],
@@ -255,6 +229,10 @@
     ],
     "ilo": [
       "Balinghoy"
+    ],
+    "cs": [
+      "maniok jedlý",
+      "maniok nejužitečnější"
     ],
     "bg": [
       "маниока"
@@ -267,6 +245,13 @@
     ],
     "lt": [
       "Valgomasis manijokas"
+    ],
+    "nb": [
+      "maniok",
+      "kassava"
+    ],
+    "sl": [
+      "manioka"
     ],
     "ml": [
       "മരച്ചീനി"
@@ -307,6 +292,9 @@
     "ak": [
       "bankyi"
     ],
+    "ee": [
+      "Agbeli"
+    ],
     "csb": [
       "Jôdny maniok"
     ],
@@ -330,6 +318,9 @@
     ],
     "el": [
       "Κασάβα"
+    ],
+    "ast": [
+      "Mandioca"
     ],
     "yi": [
       "מאניאק"
@@ -367,6 +358,9 @@
     "my": [
       "ပီလောပီနံ"
     ],
+    "mg": [
+      "Mangahazo"
+    ],
     "mad": [
       "Sabbhrâng"
     ],
@@ -393,6 +387,9 @@
     ],
     "mcn": [
       "da᷅wgùnà"
+    ],
+    "sk": [
+      "Maniok jedlý"
     ],
     "nqo": [
       "ߓߊ߬ߣߊ߲ߞߎ߫"
@@ -441,13 +438,19 @@
     ],
     "mr": [
       "कसावा"
+    ],
+    "myn": [
+      "kiki-tsiim"
+    ],
+    "si": [
+      "මඤ්ඤොක්කා"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q83124",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q83124",
   "search_names": {
@@ -470,48 +473,139 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キャッサバ」",
+      "source": "Wikipedia (ja): キャッサバ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B5%E3%83%90",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110056854,
       "text": "キャッサバ は、キントラノオ目トウダイグサ科イモノキ属の熱帯低木。マニオク 、マンジョカ 、カサーバ 、ユカ とも呼ばれる。原産地は中央アメリカから南アメリカにかけて。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cassava」",
+      "source": "Wikipedia (en): Cassava",
       "source_url": "https://en.wikipedia.org/wiki/Cassava",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378895191,
       "text": "Manihot esculenta, commonly called cassava, manioc, or yuca, is a woody shrub of the spurge family, Euphorbiaceae, native to South America, from Brazil, Paraguay and parts of the Andes. Although a perennial plant, cassava is extensively cultivated in tropical and subtropical regions as an annual crop for its edible starchy tuberous root. Cassava is predominantly consumed in boiled form, but substantial quantities are processed to extract cassava starch, called tapioca, which is used for food, animal feed, and industrial purposes. The Brazilian farofa, and the related garri of West Africa, is an edible coarse flour obtained by grating cassava roots, pressing moisture off the obtained grated pulp, and finally drying and roasting it."
+    },
+    "es": {
+      "source": "Wikipedia (es): Manihot esculenta",
+      "source_url": "https://es.wikipedia.org/wiki/Manihot_esculenta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175336890,
+      "text": "Manihot esculenta, llamada comúnmente yuca, aipim, rumo, casabe, casava, guacamota, lumu, mandioca o mandi'o, es un arbusto perenne de la familia de las euforbiáceas extensamente cultivado en América, África y Oceanía por sus raíces con almidones de alto valor alimentario."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Manioc",
+      "source_url": "https://fr.wikipedia.org/wiki/Manioc",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239287414,
+      "text": "Le manioc est une espèce de plantes dicotylédones de la famille des Euphorbiaceae, originaire d'Amérique centrale et d'Amérique du Sud, plus particulièrement du sud-ouest du bassin amazonien. C'est un arbuste vivace qui est largement cultivé comme plante annuelle dans les régions tropicales et subtropicales pour sa racine tubérisée riche en amidon. Le terme « manioc » désigne d'ailleurs aussi bien la plante elle-même que, par métonymie, sa racine ou la fécule qui en est extraite."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Mandioca",
+      "source_url": "https://pt.wikipedia.org/wiki/Mandioca",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72490228,
+      "text": "Manihot esculenta, conhecida como mandioca, macaxeira, aipim, castelinha, uaipi, mandioca-doce, mandioca-mansa, maniva, maniveira, pão-de-pobre, mandioca-brava e mandioca-amarga, é uma planta da família das Euphorbiaceae. Esta planta é nativa da América do Sul, no entanto está presente em muitas regiões do mundo."
+    },
+    "id": {
+      "source": "Wikipedia (id): Singkong",
+      "source_url": "https://id.wikipedia.org/wiki/Singkong",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29960831,
+      "text": "Manihot esculenta, umumnya dikenal sebagai singkong, ketela pohon, atau ubi kayu, adalah perdu berkayu dari keluarga Euphorbiaceae yang berasal dari Amerika Selatan, mulai dari Brasil, Paraguay, dan sebagian wilayah Andes. Meskipun merupakan tumbuhan menahun, singkong dibudidayakan secara luas di daerah tropis dan subtropis sebagai tanaman semusim untuk dipanen akar umbinya yang berpati dan dapat dimakan. Singkong sebagian besar dikonsumsi dalam bentuk rebus, tetapi dalam jumlah besar juga diproses untuk mengekstrak patinya, yang disebut tapioka, yang digunakan untuk makanan, pakan ternak, dan keperluan industri. Farofa dari Brasil, dan garri yang sejenis dari Afrika Barat, adalah tepung kasar yang dapat dimakan yang diperoleh dengan memarut umbi singkong, memeras air dari bubur parutan yang diperoleh, dan terakhir mengeringkan serta memanggangnya."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Cassava」の節「Cultivation」",
+        "source": "Wikipedia (en): Cassava § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Cassava#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378895191,
         "heading": "Cultivation",
         "text": "Cassava is propagated by cutting the stem into sections of approximately 15 cm (5.9 in), these being planted prior to the wet season.\nOptimal conditions for cassava cultivation are mean annual temperatures between 20 and 29 °C (68 and 84 °F), but it can tolerate temperatures as low as 12 °C (54 °F) and as high as 40 °C (104 °F)., optimal annual precipitation is between 1,000 and 2,500 mm (39 and 98 in), and an annual growth period of no less than 240 days.   These conditions are found, among other places, in the northern part of the Gulf Coastal Plain in Mexico. In this part of Mexico the following soil types have been shown to be good for cassava cultivation: phaeozem, regosol, arenosol, andosol and luvisol.\n\n■ Harvesting\nBefore harvest, the leafy stems are removed. The harvest is gathered by pulling up the base of the stem and cutting off the tuberous roots.\n\n■ Handling and storage\nCassava deteriorates after harvest, starting as soon as the tuberous roots are first cut. The healing mechanism produces coumaric acid, which oxidizes and blackens the roots, making them inedible after a few days. This deterioration is related to the accumulation of reactive oxygen species initiated by cyanide release during mechanical harvesting. Post-harvest deterioration is a major obstacle to the export of cassava. Fresh cassava can be preserved like potato, using thiabendazole or bleach as a fungicide, then wrapping in plastic, freezing, or applying a wax coating.",
+        "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Manihot esculenta § Producción",
+        "source_url": "https://es.wikipedia.org/wiki/Manihot_esculenta#Producci%C3%B3n",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175336890,
+        "heading": "Producción",
+        "text": "La yuca es una de las mayores fuentes de alimentos básicos del mundo. Algunos la califican de \"base de la vida\" tropical, porque es una de las más importantes fuentes de alimentación en extensas áreas de los trópicos. Es un cultivo apreciado por su fácil y amplia adaptabilidad a diversos ambientes ecológicos, el poco trabajo que requiere, la facilidad con que se cultiva y su gran productividad. Puede prosperar en suelos poco fértiles, en condiciones de poca pluviosidad. En condiciones óptimas la yuca puede producir más calorías alimenticias por hectárea que la mayoría de los demás cultivos alimenticios tropicales. Actualmente es un cultivo con altas expectativas para la producción de etanol y se prevé un crecimiento espectacular en la implantación de este cultivo.​\n\nFuente:​",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Singkong § Budi daya",
+        "source_url": "https://id.wikipedia.org/wiki/Singkong#Budi_daya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29960831,
+        "heading": "Budi daya",
+        "text": "Singkong diperbanyak dengan memotong batang menjadi beberapa bagian dengan panjang sekitar 15 cm (5,9 in), potongan-potongan batang ini ditanam sebelum musim hujan tiba.\nKondisi optimal untuk budi daya singkong adalah suhu rata-rata tahunan antara 20 dan 29 °C (68 dan 84 °F), tetapi tanaman ini dapat menoleransi suhu serendah 12 °C (54 °F) dan setinggi 40 °C (104 °F)., curah hujan tahunan yang optimal adalah antara 1.000 dan 2.500 mm (39 dan 98 in), dan periode pertumbuhan tahunan tidak kurang dari 240 hari.   Kondisi-kondisi ini ditemukan, antara lain, di bagian utara Dataran Pesisir Teluk di Meksiko. Di wilayah Meksiko ini, jenis-jenis tanah berikut telah terbukti baik untuk budi daya singkong: phaeozem, regosol, arenosol, andosol, dan luvisol.\n\n■ Pemanenan\nSebelum panen, batang-batang yang berdaun disingkirkan. Hasil panen dikumpulkan dengan mencabut pangkal batang dan memotong akar-akar umbinya.\n\n■ Penanganan dan penyimpanan\nKualitas singkong menurun setelah panen, tepatnya saat akar umbi pertama kali dipotong. Mekanisme penyembuhannya menghasilkan asam kumarat, yang teroksidasi dan menghitamkan umbi, menjadikannya tidak dapat dimakan setelah beberapa hari. Penurunan kualitas ini terkait dengan akumulasi spesies oksigen reaktif yang dipicu oleh pelepasan sianida selama pemanenan mekanis. Umur simpan singkong dapat ditingkatkan hingga tiga minggu dengan mengekspresikan secara berlebih oksidase alternatif yang tidak sensitif terhadap sianida, yang menekan spesies oksigen reaktif hingga 10 kali lipat. Kerusakan pascapanen merupakan kendala utama bagi ekspor singkong. Singkong segar dapat diawetkan seperti kentang, menggunakan tiabendazol atau pemutih sebagai fungisida, kemudian dibungkus plastik, dibekukan, atau dilapisi dengan lapisan lilin.",
         "truncated": true
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Cassava」の節「Toxicity」",
+        "source": "Wikipedia (en): Cassava § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Cassava#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378895191,
         "heading": "Toxicity",
         "text": "Cassava roots, peels and leaves are dangerous to eat raw because they contain linamarin and lotaustralin, which are toxic cyanogenic glycosides. These are decomposed by the cassava enzyme linamarase, releasing poisonous hydrogen cyanide. Cassava varieties are often categorized as either bitter (high in cyanogenic glycosides) or sweet (low in those bitter compounds). Sweet cultivars can contain as little as 20 milligrams of cyanide per kilogram of fresh roots, whereas bitter cultivars may contain as much as 1000 milligrams per kilogram. Cassavas grown during drought are especially high in these toxins. A dose of 25 mg of pure cassava cyanogenic glucoside, which contains 2.5 mg of cyanide, is sufficient to kill a rat. Excess cyanide residue from improper preparation causes goiters and acute cyanide poisoning, and is linked to ataxia (a neurological disorder affecting the ability to walk, also known as konzo). It has also been linked to tropical fibrocalcific pancreatitis in humans, leading to chronic pancreatitis.\nSymptoms of acute cyanide intoxication appear four or more hours after ingesting raw or poorly processed cassava: vertigo, vomiting, goiter, ataxia, partial paralysis, collapse, and death. It can be treated easily with an injection of thiosulfate (which makes sulfur available for the patient's body to detoxify by converting the poisonous cyanide into thiocyanate).\nChronic, low-level exposure to cyanide may contribute to both goiter and tropical ataxic neuropathy, also called konzo, which can be fatal. The risk is highest in famines, when as many as 3 percent of the population may be affected.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Manioc § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Manioc#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239287414,
+        "heading": "Toxicité",
+        "text": "Le manioc est une source peu coûteuse de glucides, très utilisée en particulier en Amazonie depuis des siècles et dans plusieurs pays d'Afrique tropicale depuis la fin du XVIe siècle (cfr dans Internet, nombreux livres sur la question), mais sa consommation sans préparation adéquate est source de graves risques pour la santé.\nLe manioc amer contient en effet des glucosides cyanogéniques toxiques, la linamarine (pour 90 %) et la lotaustraline (pour 10 %), qui, lorsque les cellules de la plante sont endommagées, se décomposent sous l'effet d'enzymes, en libérant de l'acide cyanhydrique.\nCette décomposition se fait en deux étapes : l'hydrolyse de la molécule de linamarine, sous l'effet de la linamarase, produit du glucose et de la cyanhydrine d'acétone. Cette dernière molécule, instable, se décompose en cyanure d'hydrogène et en acétone, soit spontanément à un pH inférieur à 5 ou une température supérieure à 35 °C, soit sous l'effet d'une autre enzyme, l'hydroxynitrile lyase.\nLes glycosides cyanogènes sont présents dans tous les tissus de la plante (hormis dans les graines). Leur teneur est la plus élevée dans les feuilles (5 g de linamarine par kilogramme de poids frais). Dans les racines, ce taux est plus faible et varie de 100 à 500 mg/kg selon les cultivars. Il n'existe pas de cultivar exempt de glycosides cyanogènes, cependant une variété de manioc dont le taux de linamarine a été réduit de 99 % dans la racine a été développée grâce au procédé de l'interférence par ARN. Son rendement est cependant bien moins élevé que pour les variétés toxiques classiques.",
+        "truncated": true
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Mandioca § Toxicidade",
+        "source_url": "https://pt.wikipedia.org/wiki/Mandioca#Toxicidade",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72490228,
+        "heading": "Toxicidade",
+        "text": "A mandioca se difere das outras plantas produtoras de amido por seu teor de linamarina (beta-glicosídeo de acetona cianidrina), que pode gerar cianeto livre (ânion CN−) o qual, em água, forma ácido cianídrico, cianeto de hidrogênio ou cianureto de hidrogênio, (HCN),. composto extremamente volátil, porém, altamente tóxico podendo em pequenas quantidades provocar ataxia e morte Isto deve-se ao fato de que os cianetos iónicos se coordenam com íons férricos contidos no citocromo oxidase III da mitocondria, impedindo a redução do oxigênio em água da cadeia transportadora de elétrons, matando a pessoa exposta por sufocamento. Por esta razão é necessário o cozimento da Mandioca antes do seu consumo para que diminua o conteúdo de HCN para valores abaixo de 0,5 mg/kg de produto A dose letal de HCN para o ser humano oscila entre 50 a 60 mg/kg de peso-vivo.\nEm relação à quantidade de HCN/kg na raiz fresca sem casca, as cultivares são classificadas em:\n\nmansas — aipim ou macaxeira (<50 mg), não têm sabor amargo e são usadas para consumo humano. O cozimento, fritura ou assamento são processamentos suficientes para torná-las seguras;\nmoderadamente venenosas (entre 50 a 100 mg);\nbravas ou venenosas (> 100 mg), têm sabor amargo, são usadas somente para fins industriais e só podem ser consumidas após processadas, na forma de farinha, fécula e outros produtos.\nA macaxeira (mandioca mansa, de mesa ou aipim), por apresentar baixos teores de ácido cianídrico (<50 mg/kg), pode ser consumida após pouco processamento culinário (cozer em água, ou leve cozedura seguido de fritura etc).\nNo entanto para a mandioca (mandioca braba), por apresentar altos teores de ácido cianídrico (>50 mg/kg), é necessário cozimento por um tempo mínimo de 50 horas a uma temperatura de 100 °C.",
+        "truncated": true
+      },
+      "id": {
+        "source": "Wikipedia (id): Singkong § Toksisitas",
+        "source_url": "https://id.wikipedia.org/wiki/Singkong#Toksisitas",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29960831,
+        "heading": "Toksisitas",
+        "text": "Akar umbi, kulit, dan daun singkong berbahaya jika dimakan mentah karena mengandung linamarin dan lotaustralin, yang merupakan glikosida sianogenik beracun. Senyawa-senyawa ini diuraikan oleh enzim singkong linamarase, melepaskan hidrogen sianida beracun. Varietas singkong sering kali dikategorikan sebagai singkong pahit (tinggi glikosida sianogenik) atau singkong manis (rendah senyawa pahit tersebut). Kultivar manis dapat mengandung paling sedikit 20 miligram sianida per kilogram akar umbi segar, sedangkan kultivar pahit dapat mengandung hingga 1000 miligram per kilogram. Singkong yang ditanam selama masa kekeringan memiliki kandungan racun ini yang sangat tinggi. Dosis 25 mg glukosida sianogenik murni dari singkong, yang mengandung 2,5 mg sianida, cukup untuk membunuh seekor tikus. Residu sianida berlebih akibat persiapan yang tidak tepat menyebabkan gondok dan keracunan sianida akut, serta dikaitkan dengan ataksia (gangguan neurologis yang memengaruhi kemampuan berjalan, yang juga dikenal sebagai konzo). Kondisi ini juga dikaitkan dengan pankreatitis fibroklasifik tropis pada manusia, yang mengarah pada pankreatitis kronis.\nGejala keracunan sianida akut muncul empat jam atau lebih setelah mengonsumsi singkong mentah atau yang diproses dengan buruk: vertigo, muntah, gondok, ataksia, kelumpuhan parsial, pingsan, dan kematian. Kondisi ini dapat diobati dengan mudah melalui suntikan tiosulfat (yang menyediakan sulfur bagi tubuh pasien untuk melakukan detoksifikasi dengan mengubah sianida beracun menjadi tiosianat).\nPaparan sianida kronis tingkat rendah dapat berkontribusi pada penyakit gondok dan neuropati ataksik tropis, yang juga disebut konzo, yang mana dapat berakibat fatal.",
         "truncated": true
       }
     }
@@ -533,7 +627,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -633,7 +727,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/351790-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tuberous shrub or tree",
@@ -641,7 +735,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/351790-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000235507.webp",
@@ -654,6 +748,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

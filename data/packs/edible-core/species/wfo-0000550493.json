@@ -11,11 +11,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "hirsute artocarpus"
+    "id": [
+      "Anjili"
     ],
     "ml": [
       "ആഞ്ഞിലി"
@@ -26,9 +26,6 @@
     "ta": [
       "அயனி"
     ],
-    "id": [
-      "Anjili"
-    ],
     "zh": [
       "叢林波羅蜜"
     ],
@@ -37,24 +34,60 @@
     ],
     "sd": [
       "سڳنڌ ڦريو"
+    ],
+    "en": [
+      "hirsute artocarpus"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3595140",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3595140",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Artocarpus hirsutus」",
+      "source": "Wikipedia (en): Artocarpus hirsutus",
       "source_url": "https://en.wikipedia.org/wiki/Artocarpus_hirsutus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376226440,
       "text": "Artocarpus hirsutus, commonly known as wild jack, hairy bread-fruit tree, hirsute artocarpus or Maria plum is a tropical evergreen tree species native to India. It is found primarily in Kerala, but also in Karnataka, Maharashtra and Tamil Nadu, where it grows in moist, deciduous to partially evergreen woodlands."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Artocarpus hirsutus",
+      "source_url": "https://fr.wikipedia.org/wiki/Artocarpus_hirsutus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228052850,
+      "text": "Artocarpus hirsutus est une espèce de plantes à fleurs de la famille des Moraceae. Il est communément dénommé wild jack. C'est une espèce d'arbre tropical à feuilles persistantes originaire de l'Inde, principalement du Kerala, mais aussi du Karnataka, du Maharashtra et du Tamil Nadu, où il pousse dans des forêts humides, à feuilles caduques ou partiellement à feuilles persistantes."
+    },
+    "id": {
+      "source": "Wikipedia (id): Anjili",
+      "source_url": "https://id.wikipedia.org/wiki/Anjili",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29793412,
+      "text": "}}"
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Artocarpus hirsutus § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Artocarpus_hirsutus#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 228052850,
+        "heading": "Culture",
+        "text": "Cet arbre, appelé localement anjili au Kerala, est utilisé pour fabriquer le Palliyodam, un type de grand bateau construit et utilisé par le Aranmula Parthasarathy Temple au Kerala pour les processions nautiques annuelles de l'Aranmula Boat Race de Uthrattathi Jalamela et de Valla Sadhya.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -68,7 +101,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -79,7 +112,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/850390-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -87,7 +120,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/850390-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000550493.webp",
@@ -100,6 +133,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

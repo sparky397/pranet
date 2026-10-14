@@ -17,7 +17,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -27,101 +27,24 @@
       "Pomegranate",
       "pomegranate"
     ],
-    "ar": [
-      "الرمان",
-      "رمان"
-    ],
-    "ca": [
-      "Magraner"
-    ],
-    "cs": [
-      "granátové jablko",
-      "marhaník obecný",
-      "marhaník granátový"
-    ],
-    "cy": [
-      "Grawnafal"
-    ],
-    "de": [
-      "Granatapfel"
-    ],
-    "el": [
-      "Ρόδι",
-      "Ροδιά"
-    ],
-    "eo": [
-      "Granato"
-    ],
-    "es": [
-      "Granado"
-    ],
-    "fi": [
-      "Granaattiomena"
-    ],
     "fr": [
-      "Grenadier",
-      "grenadier commun"
-    ],
-    "he": [
-      "רימון מצוי"
-    ],
-    "it": [
-      "Melograno"
-    ],
-    "nl": [
-      "granaatappel"
-    ],
-    "nb": [
-      "granateple"
+      "Grenadier commun",
+      "grenadier commun",
+      "Grenadier"
     ],
     "pt": [
+      "Romã",
       "romã"
     ],
-    "sv": [
-      "Granatäpple"
-    ],
-    "tr": [
-      "Nar"
-    ],
-    "vec": [
-      "Malgaragno/Magragno",
-      "Pomoingranà/Pomogranà",
-      "Malgaragno"
-    ],
-    "vi": [
-      "Quả lựu",
-      "lựu"
-    ],
-    "zh": [
-      "石榴",
-      "石榴根皮",
-      "石榴花",
-      "石榴叶",
-      "甜石榴",
-      "石榴皮",
-      "石權（安石横、石榴树）",
-      "白石榴",
-      "安石榴",
-      "酸石榴",
-      "石榴根",
-      "白石榴花",
-      "白石榴根",
-      "石榴子"
-    ],
-    "ur": [
-      "انار"
-    ],
-    "ast": [
-      "almingranal"
-    ],
-    "lb": [
-      "Granatapel"
-    ],
-    "ro": [
-      "rodie"
+    "id": [
+      "Delima"
     ],
     "am": [
       "ሩማን"
+    ],
+    "ar": [
+      "رمان",
+      "الرمان"
     ],
     "az": [
       "Adi nar"
@@ -138,14 +61,35 @@
     "bs": [
       "Šipak"
     ],
+    "ca": [
+      "magraner"
+    ],
     "ckb": [
       "ھەنار"
     ],
     "co": [
       "Mela granata"
     ],
+    "cs": [
+      "marhaník granátový",
+      "granátové jablko",
+      "marhaník obecný"
+    ],
+    "cy": [
+      "Grawnafal"
+    ],
     "da": [
       "granatæble"
+    ],
+    "de": [
+      "Granatapfel"
+    ],
+    "el": [
+      "Ροδιά",
+      "Ρόδι"
+    ],
+    "eo": [
+      "Granato"
     ],
     "et": [
       "Granaatõun"
@@ -153,8 +97,14 @@
     "fa": [
       "انار"
     ],
+    "fi": [
+      "granaattiomena"
+    ],
     "hak": [
       "Sa̍k-liù"
+    ],
+    "he": [
+      "רימון מצוי"
     ],
     "hi": [
       "अनार"
@@ -176,9 +126,6 @@
     ],
     "hy": [
       "Նուռ"
-    ],
-    "id": [
-      "Delima"
     ],
     "is": [
       "Granatepli"
@@ -228,6 +175,9 @@
     "ne": [
       "दारिम"
     ],
+    "nl": [
+      "granaatappel"
+    ],
     "nn": [
       "granateple"
     ],
@@ -258,6 +208,9 @@
     "su": [
       "Dalima"
     ],
+    "sv": [
+      "granatäpple"
+    ],
     "ta": [
       "மாதுளை"
     ],
@@ -273,11 +226,42 @@
     "to": [
       "Pomikanite"
     ],
+    "tr": [
+      "Nar"
+    ],
     "uk": [
       "гранат звичайний"
     ],
+    "ur": [
+      "انار"
+    ],
+    "vec": [
+      "Malgaragno",
+      "Malgaragno/Magragno",
+      "Pomoingranà/Pomogranà"
+    ],
+    "vi": [
+      "lựu",
+      "Quả lựu"
+    ],
     "yi": [
       "מילגרוים"
+    ],
+    "zh": [
+      "石榴",
+      "石榴根皮",
+      "石榴花",
+      "石榴叶",
+      "甜石榴",
+      "石榴皮",
+      "石權（安石横、石榴树）",
+      "白石榴",
+      "安石榴",
+      "酸石榴",
+      "石榴根",
+      "白石榴花",
+      "白石榴根",
+      "石榴子"
     ],
     "gu": [
       "દાડમ"
@@ -299,6 +283,9 @@
     ],
     "mr": [
       "डाळिंब"
+    ],
+    "nb": [
+      "granateple"
     ],
     "pa": [
       "ਅਨਾਰ"
@@ -414,6 +401,9 @@
     "sl": [
       "granatno jabolko"
     ],
+    "lb": [
+      "Granatapel"
+    ],
     "km": [
       "Pomegranate"
     ],
@@ -461,13 +451,25 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇၸင်ႈ"
+    ],
+    "es": [
+      "Granado"
+    ],
+    "it": [
+      "Melograno"
+    ],
+    "ast": [
+      "almingranal"
+    ],
+    "ro": [
+      "rodie"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q13188",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q13188",
   "search_names": {
@@ -483,46 +485,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ザクロ」",
+      "source": "Wikipedia (ja): ザクロ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%AF%E3%83%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110564494,
       "text": "ザクロ は、ミソハギ科ザクロ属の1種の落葉小高木、また、その果実のこと。庭木などの観賞用に栽培される。最も古くから栽培された果樹の一つで、果実は食用になる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pomegranate」",
+      "source": "Wikipedia (en): Pomegranate",
       "source_url": "https://en.wikipedia.org/wiki/Pomegranate",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378626947,
       "text": "The pomegranate is a fruit-bearing, deciduous shrub in the family Lythraceae, subfamily Punicoideae, that grows to between 1.5–5 metres (5–16 ft) tall. Rich in symbolic and mythological associations in many cultures, it originated in the region spanning the Caucasus and the Iranian plateau — including modern-day Iran, Turkmenistan, Afghanistan and Pakistan. Pomegranate was first domesticated by ancient Iranians in the Iranian plateau and nearby regions about 5,000 years ago. It is extensively cultivated for its fruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Punica granatum",
+      "source_url": "https://es.wikipedia.org/wiki/Punica_granatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175638101,
+      "text": "Punica granatum, llamado comúnmente granado, es una especie de planta de la familia Lythraceae, cuyo fruto es la granada. Nativa de la región desde Irán hasta el Himalaya, se ha cultivado desde la antigüedad por toda la cuenca mediterránea."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Grenadier commun",
+      "source_url": "https://fr.wikipedia.org/wiki/Grenadier_commun",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230370582,
+      "text": "Le grenadier commun ou grenadier est une espèce de plantes à fleurs de la famille des Lythracées. C'est un arbre fruitier, cultivé depuis la plus haute Antiquité pour ses fruits comestibles et pour les qualités ornementales de ses grandes fleurs."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Romã",
+      "source_url": "https://pt.wikipedia.org/wiki/Rom%C3%A3",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73134047,
+      "text": "A romã é o fruto da romãzeira, comum no Mediterrâneo Oriental e Médio Oriente, onde a polpa é usada para a preparação de aperitivos, sobremesa ou algumas vezes em bebida alcoólica. O seu interior é subdividido por finas películas, que formam pequenas sementes possuidoras de uma polpa comestível.[carece de fontes]?"
+    },
+    "id": {
+      "source": "Wikipedia (id): Delima",
+      "source_url": "https://id.wikipedia.org/wiki/Delima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29811022,
+      "text": "Delima adalah tanaman buah-buahan yang dapat tumbuh hingga 5–8 m. Tanaman ini diperkirakan berasal dari Iran. Namun, telah lama dikembangbiakkan di daerah Mediterania. Bangsa Moor memberi nama salah satu kota kuno di Spanyol, Granada berdasarkan nama buah ini. Tanaman ini juga banyak ditanam di daerah Cina Selatan dan Asia Tenggara."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ザクロ」の節「栽培」",
+        "source": "Wikipedia (ja): ザクロ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%AF%E3%83%AD#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110564494,
         "heading": "栽培",
         "text": "世界各地で栽培されており、トルコから中東にかけては特にポピュラーである。原産地は乾燥した丘陵地であることから、今日の栽培品種も日中の暑さと夜間の涼しさを好む。日本における植栽範囲は東北地方南部から沖縄までである。日当たりが良い場所を好む。増やし方には、挿し木、取り木、種まきがある。若木は、果実がつくまでに10年程度を要する場合もある。病虫害には強いが、カイガラムシがつくとスス病を併発する場合がある。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Pomegranate」の節「Cultivation」",
+        "source": "Wikipedia (en): Pomegranate § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Pomegranate#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378626947,
         "heading": "Cultivation",
         "text": "P. granatum is grown for its fruit crop, and as ornamental trees and shrubs in parks and gardens. Mature specimens can develop sculptural twisted bark, multiple trunks, and a distinctive overall form. Pomegranates are drought-tolerant, and can be grown in dry areas with either a Mediterranean winter rainfall climate or in summer rainfall climates. In wetter areas, they can be prone to root decay from fungal diseases. They can tolerate moderate frost, down to about −12 °C (10 °F).\nInsect pests of the pomegranate can include the butterflies Virachola isocrates, Iraota timoleon, and Deudorix epijarbas, and the leaf-footed bug Leptoglossus zonatus. Fruit flies and ants are attracted to unharvested ripe fruit.\n\n■ Propagation\nP. granatum reproduces sexually in nature, but can be propagated asexually. Propagation methods include layering, hardwood cuttings, softwood cuttings, and tissue culture. Required conditions for rooting cuttings include warm temperatures within the 18–29 °C (65–85 °F) range and a semihumid environment. Rooting hormone increases rooting success rate, but is not required.\n\n■ Varieties\nP. granatum var. nana is a dwarf variety of P. granatum popularly planted as an ornamental plant in gardens and larger containers, and used as a bonsai specimen tree. It could well be a wild form with a distinct origin. It has gained the Royal Horticultural Society's Award of Garden Merit.\nThe only other species in the genus Punica is the Socotran pomegranate (P. protopunica), which is endemic to the Socotran archipelago of four islands in the Arabian Sea. The territory is part of Yemen. It differs in having pink (not red) flowers and smaller, less sweet fruit.\n\n■ Cultivars\n\nP.",
+        "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Punica granatum § Producción",
+        "source_url": "https://es.wikipedia.org/wiki/Punica_granatum#Producci%C3%B3n",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175638101,
+        "heading": "Producción",
+        "text": "Los principales países productores de granada en el mundo son la India y China, seguidos por Irán, Turquía, Afganistán, los Estados Unidos, Irak, Pakistán, Siria y España. De estos países, el único gran productor que no exporta es China, que destina su producción a su consumo local; otros países que están incrementando su producción, pero exclusivamente para la exportación, son Perú, Chile y Argentina, ya que en sus mercados internos no hay hábito de consumo de la granada fresca.​\n\nEspaña es el principal país productor de Europa. Más del 75 % de la producción española de granadas se concentra en Elche y las poblaciones del entorno (Albatera, San Isidro, Crevillente) donde cada campaña se producen alrededor de 50 000 toneladas. La variedad estrella de la zona es la mollar de Elche que desde el año 2016 cuenta con la Denominación de Origen Protegida que ampara a cuarenta municipios de las comarcas alicantinas del Campo de Alicante, Bajo Vinalopó y Vega Baja del Segura. Esta variedad se caracteriza por su sabor dulce, las pepitas de los granos son comestibles, se pueden masticar con facilidad y el color exterior de este tipo de granadas puede oscilar entre el crema y el rojo intenso por la exposición al sol que la fruta ha recibido en el árbol. Esta variedad autóctona está considerada como una de las mejores y más valoradas granadas del mundo. La temporada de la Granada Mollar de Elche se inicia a finales de septiembre y principios de octubre y la comercialización de la misma se desarrolla hasta el mes de enero-febrero. Cada campaña se inaugura con un evento especial en el que destacados chefs y personajes populares se encargan de realizar el primer corte simbólico de la Granada Mollar de Elche.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Grenadier commun § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Grenadier_commun#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 230370582,
+        "heading": "Culture",
+        "text": "■ Arboriculture fruitière\nL'espèce tolère bien les sols calcaires et salins et une légère sécheresse, qui pourra cependant affecter négativement le poids et la qualité des fruits. Elle peut supporter de courtes périodes de gel (jusqu'à −15 °C) mais préfère les climats secs. En zone humide, le grenadier a du mal à fructifier, car il a besoin de fortes chaleurs pendant toute la période de fructification, sinon il est attaqué par des maladies fongiques dont il ne se remet pas.\nLa fertilisation recommandée à Israël est de 200 kg/ha d'azote, 60 kg/ha de phosphore et 300 kg/ha de potassium soit un NPK de 10-3-15. Elle est à moduler selon le type de sol.\nIl est recommandé de réguler l'arrosage notamment en fin de saison afin d'éviter l'éclatement des fruits (qui peut se produire par exemple après une période sèche suivie de grosses pluies). Une fois un fruit éclaté, il pourrit dès la première pluie.\nLa taille du grenadier consiste à éliminer les rejets qui tendent à donner à l'arbre un port buissonnant mais le plus souvent on conserve un tronc multiple de 4 à 5 tiges qu'on limite à environ 4 m de hauteur pour faciliter la récolte. Comme pour tous les arbres fruitiers, un désherbage au pied suivi d'un paillage est recommandé pour éviter la concurrence sur l'irrigation et les nutriments[réf. nécessaire].\nUn arbre adulte peut produire 40 à 50 kg de fruits soit 20 à 30 tonnes par hectare.\nLe fruit peut se conserver plusieurs mois entre 3 °C et 6 °C.\n\n■ Variétés fruitières\nLes grenades sont classées en 2 groupes : grenades à graines molles / grenades à graines tendres, les premières étant les plus recherchées pour la table, les secondes pour le jus. Ces 2 groupes sont subdivisés selon les qualités du jus : douceur, acidité, amertume, et selon la couleur du jus.",
         "truncated": true
       }
     }
@@ -542,7 +602,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -637,7 +697,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554129-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -645,7 +705,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554129-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000468843.webp",
@@ -658,6 +718,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

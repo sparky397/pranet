@@ -12,15 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Texas persimmon"
-    ],
-    "zh": [
-      "德州柿"
-    ],
     "vi": [
       "Thị Texas"
     ],
@@ -32,24 +26,48 @@
     ],
     "fa": [
       "خرمالو تگزاسی"
+    ],
+    "zh": [
+      "德州柿"
+    ],
+    "en": [
+      "Texas persimmon"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5279625",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5279625",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Diospyros texana」",
+      "source": "Wikipedia (en): Diospyros texana",
       "source_url": "https://en.wikipedia.org/wiki/Diospyros_texana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1336971223,
       "text": "Diospyros texana is a species of persimmon that is native to central, south and west Texas and southwest Oklahoma in the United States, and eastern Chihuahua, Coahuila, Nuevo León, and Tamaulipas in northeastern Mexico. Common names include Texas persimmon, Mexican persimmon and the more ambiguous \"black persimmon\". It is known in Spanish as chapote, chapote manzano, or chapote prieto, all of which are derived from the Nahuatl word tzapotl. That word also refers to several other fruit-bearing trees."
+    },
+    "es": {
+      "source": "Wikipedia (es): Diospyros texana",
+      "source_url": "https://es.wikipedia.org/wiki/Diospyros_texana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 159695687,
+      "text": "Diospyros texana es una especie de planta fanerógama de la familia de las ebenáceas. Se conoce en español como chapote, chapote manzano, o chapote prieto."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Diospyros texana",
+      "source_url": "https://fr.wikipedia.org/wiki/Diospyros_texana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 212721483,
+      "text": "Diospyros texana est une espèce de plantes à fleurs du genre Diospyros et de la familles des Ebenaceae. C'est un kaki originaire du centre, du sud et de l'ouest du Texas, et du sud-ouest de l'Oklahoma pour les États-Unis, ainsi que de l'est du Chihuahua, Coahuila, Nuevo León et Tamaulipas dans le nord-est du Mexique. Les noms vernaculaires sont notamment le kaki du Texas, le kaki du Mexique et le kaki noir (en), plus ambigu. Il est connu en espagnol sous les noms de chapote, chapote manzano, ou chapote prieto, qui dérivent tous du mot nahuatl « tzapotl ». Ce mot fait également référence à plusieurs autres arbres fruitiers."
     }
   },
   "edible": {
@@ -61,7 +79,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -72,7 +90,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/323100-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -80,7 +98,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/323100-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000649848.webp",
@@ -93,6 +111,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 301,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

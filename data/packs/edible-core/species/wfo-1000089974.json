@@ -28,101 +28,29 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "カキノキ"
     ],
-    "de": [
-      "Honigapfel",
-      "Kakibaum",
-      "Persimone",
-      "Sharon",
-      "Kaki"
-    ],
-    "es": [
-      "Kaki"
-    ],
-    "fi": [
-      "Kaki",
-      "kakiluumu",
-      "persimon"
-    ],
     "fr": [
-      "Kaki",
-      "Plaqueminier"
-    ],
-    "it": [
-      "Cachi",
-      "Caco",
-      "Diospero",
-      "Diospiro",
-      "Kaki",
-      "Loto"
-    ],
-    "nl": [
-      "Kaki",
-      "Sharonfruit"
-    ],
-    "nn": [
-      "Kakiplomme"
-    ],
-    "pl": [
-      "Hebanowiec",
-      "Hurma",
-      "Kaki",
-      "Persymona",
-      "Hurma wschodnia"
-    ],
-    "sl": [
-      "kaki"
-    ],
-    "sv": [
-      "Japansk Persimon",
-      "Kakiplommon",
-      "Kinesisk Persimon",
-      "Sharon",
+      "Plaqueminier",
+      "plaqueminier",
       "Kaki"
     ],
-    "th": [
-      "พลับญี่ปุ่น",
-      "พลับจีน"
-    ],
-    "tr": [
-      "Cennet Elması",
-      "Trabzon Hurması"
-    ],
-    "zh": [
-      "柿",
-      "柿树",
-      "柿霜",
-      "毛叶柿叶",
-      "柿蒂",
-      "柿子",
-      "柿饼",
-      "柿漆",
-      "柿皮",
-      "柿叶",
-      "柿花",
-      "柿木皮",
-      "柿根"
-    ],
-    "ro": [
-      "Kaki"
-    ],
-    "en": [
-      "japanese persimmon",
-      "Asian Persimmon",
-      "Kaki",
-      "Korean Mango",
-      "Sharon Fruit"
-    ],
-    "ast": [
-      "caqui"
+    "id": [
+      "Kesemek"
     ],
     "eu": [
       "Kakiondo"
+    ],
+    "pl": [
+      "Hurma wschodnia",
+      "Hebanowiec",
+      "Hurma",
+      "Kaki",
+      "Persymona"
     ],
     "ko": [
       "감나무"
@@ -142,8 +70,12 @@
     "et": [
       "Idadiospüür"
     ],
-    "id": [
-      "Kesemek"
+    "de": [
+      "Kaki",
+      "Honigapfel",
+      "Kakibaum",
+      "Persimone",
+      "Sharon"
     ],
     "br": [
       "Kaki"
@@ -157,8 +89,19 @@
     "hsb": [
       "Kakijowc"
     ],
+    "nl": [
+      "kaki",
+      "Sharonfruit"
+    ],
     "ar": [
       "كاكي"
+    ],
+    "sv": [
+      "Kaki",
+      "Japansk Persimon",
+      "Kakiplommon",
+      "Kinesisk Persimon",
+      "Sharon"
     ],
     "pt": [
       "Dióspiro"
@@ -174,6 +117,21 @@
     ],
     "ru": [
       "хурма восточная"
+    ],
+    "tr": [
+      "Trabzon hurması",
+      "Cennet Elması"
+    ],
+    "fi": [
+      "kaki",
+      "kakiluumu",
+      "persimon"
+    ],
+    "sl": [
+      "kaki"
+    ],
+    "nn": [
+      "Kakiplomme"
     ],
     "cs": [
       "kaki"
@@ -214,6 +172,10 @@
     "hy": [
       "խուրմա արևելյան"
     ],
+    "th": [
+      "พลับจีน",
+      "พลับญี่ปุ่น"
+    ],
     "yue": [
       "林柿"
     ],
@@ -225,6 +187,24 @@
     ],
     "hak": [
       "Fûng-sái"
+    ],
+    "zh": [
+      "柿树",
+      "柿",
+      "柿霜",
+      "毛叶柿叶",
+      "柿蒂",
+      "柿子",
+      "柿饼",
+      "柿漆",
+      "柿皮",
+      "柿叶",
+      "柿花",
+      "柿木皮",
+      "柿根"
+    ],
+    "ro": [
+      "Kaki"
     ],
     "vec": [
       "Cacaro"
@@ -249,6 +229,9 @@
     ],
     "kk": [
       "Шығыс құрмасы"
+    ],
+    "ast": [
+      "Caqui"
     ],
     "mk": [
       "јапонско јаболко"
@@ -288,13 +271,31 @@
     ],
     "shn": [
       "မၢၵ်ႇႁူဝ်လိင်း"
+    ],
+    "es": [
+      "Kaki"
+    ],
+    "it": [
+      "Cachi",
+      "Caco",
+      "Diospero",
+      "Diospiro",
+      "Kaki",
+      "Loto"
+    ],
+    "en": [
+      "japanese persimmon",
+      "Asian Persimmon",
+      "Kaki",
+      "Korean Mango",
+      "Sharon Fruit"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158482",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158482",
   "search_names": {
@@ -313,36 +314,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カキノキ」",
+      "source": "Wikipedia (ja): カキノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%AD%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111301401,
       "text": "カキノキ は、ツツジ目カキノキ科カキノキ属 の1種の落葉小高木。広義の仁果類あるいは準仁果類に分類される果樹である。東アジア原産 の同地域固有種。日本や韓国、中国に多くの在来品種がある。属名のDiospyrosとはギリシャ語でdios（「神の」）+pyros （「穀物、あるいは小麦」）から成る造語であり、「神の食物」という意味である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Diospyros kaki」",
+      "source": "Wikipedia (en): Diospyros kaki",
       "source_url": "https://en.wikipedia.org/wiki/Diospyros_kaki",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378175083,
       "text": "Diospyros kaki, the Oriental persimmon, Chinese persimmon, Japanese persimmon, kaki persimmon, or Fuyu persimmon, is the most widely cultivated species of the genus Diospyros. Although its first botanical description was not published until 1780, D. kaki cultivation in China dates back more than 2000 years."
+    },
+    "es": {
+      "source": "Wikipedia (es): Diospyros kaki",
+      "source_url": "https://es.wikipedia.org/wiki/Diospyros_kaki",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175740722,
+      "text": "El caqui o palosanto es una especie arbórea de la familia de las ebenáceas, originario de Asia. Su fruto, el caqui, es una baya comestible de sabor muy dulce."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Plaqueminier",
+      "source_url": "https://fr.wikipedia.org/wiki/Plaqueminier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238627641,
+      "text": "Le plaqueminier est une espèce de plante à fleurs de la famille des Ébénacées et du genre Diospyros. C'est un arbre originaire de Chine, principalement cultivé pour son fruit, le kaki ou plaquemine. Il est parfois appelé plaqueminier du Japon, figuier caque ou kakier et plus rarement plaqueminier kaki."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Diospyros kaki",
+      "source_url": "https://pt.wikipedia.org/wiki/Diospyros_kaki",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72149635,
+      "text": "Diospyros kaki, conhecida como caqui-japonês, é a espécie mais cultivada do gênero Diospyros. Apesar de sua primeira descrição botânica não tenha sido publicada até 1780, o cultivo de D. kaki na China remonta a mais de 2 mil anos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kesemek",
+      "source_url": "https://id.wikipedia.org/wiki/Kesemek",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28590239,
+      "text": "Kesemek adalah nama sejenis buah-buahan dari marga Diospyros. Tanaman ini dikenal pula dengan sebutan buah kaki, atau dalam bahasa Inggris dinamai Oriental (Chinese/Japanese) persimmon. Nama ilmiahnya adalah Diospyros kaki.."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Diospyros kaki」の節「Cultivation」",
+        "source": "Wikipedia (en): Diospyros kaki § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Diospyros_kaki#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378428160,
         "heading": "Cultivation",
         "text": "Diospyros kaki is grown worldwide, with 90 percent of the total in China, Japan and Korea. In East Asia the main harvest time is in the months of October and November. The trees lose their leaves by harvest time. Occasionally, the brightly colored fruit is left unharvested on the tree as a decorative effect.\nCultivation of this species at first spread through East Asia. Since the 19th century, Diospyros kaki partially replaced date-plum (Diospyros lotus, also known as Caucasian persimmon) in some countries in South Europe and West Asia, because of its bigger fruits than date-plum; cultivation in California began at that time.\nThe \"Sharon\" is a trade name for the \"Triumph\" variety grown in the fertile Plain of Sharon in Israel. It is a PCA variety which is always treated with carbon dioxide (CO2) gas to remove astringency before it is marketed. This variety has a rather squarish shape and one of the highest sugar contents of all varieties. Unlike most other varieties, it has a very firm skin which gives it good keeping qualities and good resistance to handling.\n\nIn Spain, the most important variety is Rojo Brillante. This PCA variety is mostly grown in the Valencia region in a protected region of origin (DOP) called the Ribera del Xuquer. During the last decade a CO2 treatment procedure has led to Rojo Brillante varieties with no astringency while still retaining qualities such as their firmness. This treated fruit is marketed as \"Spanish Persimon\" (with one 'm'). Following this treatment, the Rojo brillante variety gained recognition for being a more readily edible fruit, leading to increased production.\nIn Italy the most widely grown variety is Tipo (PCA) and some other varieties in smaller quantities.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Plaqueminier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Plaqueminier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238627641,
+        "heading": "Culture",
+        "text": "La fertilité du kaki est très élevée. L'éclaircissement des fruits permet de réduire l'alternance. En Californie, des arbres de la variété « Hachiya » donnent jusqu'à 150 kg par pied.\nLors de sa première année de plantation, le plaqueminier demande un arrosage très fréquent (environ un jour sur deux).\nLes fruits des variétés de kaki sont presque tous parthénocarpiques. De plus, même si les fruits sont fécondés, les semis donnent de très mauvais porte-greffe[réf. nécessaire].\nLe meilleur porte-greffe est le Diospyros lotus et, à un moindre degré, le Diospyros virginiana.",
+        "truncated": false
       }
     }
   },
@@ -359,7 +407,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -386,7 +434,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/322553-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -394,7 +442,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/322553-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-1000089974.webp",
@@ -407,6 +455,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

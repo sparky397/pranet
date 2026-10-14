@@ -27,7 +27,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -37,59 +37,36 @@
       "Horseradish",
       "horseradish"
     ],
-    "de": [
-      "Meerrettich"
-    ],
-    "es": [
-      "Rábano Picante",
-      "Rábano Rusticano",
-      "rabano picante"
-    ],
     "fr": [
+      "Raifort",
+      "raifort",
       "Cranson",
-      "Raifort Cran",
-      "raifort"
+      "Raifort Cran"
     ],
-    "nl": [
-      "Mierikswortel",
-      "mierik",
-      "mierikswortelplant"
+    "id": [
+      "Lobak pedas"
     ],
-    "cs": [
-      "křen selský"
-    ],
-    "he": [
-      "חזרת הגינה",
-      "חריין"
-    ],
-    "yi": [
-      "כריין"
-    ],
-    "fi": [
-      "maustepiparjuuri",
-      "piparjuuri"
-    ],
-    "vi": [
-      "cải ngựa"
+    "vec": [
+      "Cren"
     ],
     "zh": [
       "辣根",
       "亮菌"
-    ],
-    "sv": [
-      "pepparrot"
-    ],
-    "sl": [
-      "navadni hren"
-    ],
-    "vec": [
-      "Cren"
     ],
     "pl": [
       "chrzan pospolity"
     ],
     "ko": [
       "겨자무"
+    ],
+    "he": [
+      "חזרת הגינה",
+      "חריין"
+    ],
+    "es": [
+      "rabano picante",
+      "Rábano Picante",
+      "Rábano Rusticano"
     ],
     "frr": [
       "Pöberrut"
@@ -106,6 +83,9 @@
     "et": [
       "aed-mädarõigas"
     ],
+    "de": [
+      "Meerrettich"
+    ],
     "mrj": [
       "Ӹрӓн"
     ],
@@ -121,6 +101,14 @@
     "ar": [
       "فجل الخيل الريفي"
     ],
+    "sv": [
+      "pepparrot"
+    ],
+    "nl": [
+      "mierikswortelplant",
+      "Mierikswortel",
+      "mierik"
+    ],
     "pt": [
       "Raiz-forte"
     ],
@@ -132,6 +120,9 @@
     ],
     "sk": [
       "Chren dedinský"
+    ],
+    "yi": [
+      "כריין"
     ],
     "ru": [
       "хрен обыкновенный"
@@ -148,11 +139,21 @@
     "ca": [
       "rave rusticà"
     ],
+    "fi": [
+      "piparjuuri",
+      "maustepiparjuuri"
+    ],
     "uk": [
       "Хрін звичайний"
     ],
     "nn": [
       "peparrot"
+    ],
+    "sl": [
+      "navadni hren"
+    ],
+    "cs": [
+      "křen selský"
     ],
     "os": [
       "Туттургъан"
@@ -192,6 +193,9 @@
     ],
     "fa": [
       "ترب کوهی"
+    ],
+    "vi": [
+      "cải ngựa"
     ],
     "af": [
       "Peperwortel"
@@ -265,9 +269,6 @@
     "ms": [
       "Lobak kuda"
     ],
-    "id": [
-      "Lobak pedas"
-    ],
     "lb": [
       "Mierréidech"
     ],
@@ -291,7 +292,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q26545",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q26545",
   "search_names": {
@@ -314,46 +315,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ホースラディッシュ」",
+      "source": "Wikipedia (ja): ホースラディッシュ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%A9%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110489692,
       "text": "ホースラディッシュ は、アブラナ科の耐寒性の多年草。和名はセイヨウワサビ（西洋山葵）。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Horseradish」",
+      "source": "Wikipedia (en): Horseradish",
       "source_url": "https://en.wikipedia.org/wiki/Horseradish",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378301916,
       "text": "Horseradish is a perennial plant of the family Brassicaceae. It is a root vegetable, cultivated and used worldwide as a spice and as a condiment. The species is likely native to Southeastern Europe and Western Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Armoracia rusticana",
+      "source_url": "https://es.wikipedia.org/wiki/Armoracia_rusticana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174704617,
+      "text": "Armoracia rusticana, conocida comúnmente como rábano rusticano, rábano de caballo o rábano picante o raíz picante, es una planta perenne de la familia Brassicaceae, en la que se incluyen la mostaza y las coles."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Raifort",
+      "source_url": "https://fr.wikipedia.org/wiki/Raifort",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234066640,
+      "text": "Le Raifort est une espèce de plante herbacée vivace de la famille des Brassicacées, de la sous-famille des Brassicoideae, cultivée pour sa racine à usage condimentaire."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Armoracia rusticana",
+      "source_url": "https://pt.wikipedia.org/wiki/Armoracia_rusticana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70230068,
+      "text": "A Armoracia rusticana é uma raiz-forte, típica da culinária do Leste europeu e muito conhecida dentre outros numerosos povos da Europa. É rica em vitamina C e é utilizada como condimento ou tempero quando ralada."
+    },
+    "id": {
+      "source": "Wikipedia (id): Lobak pedas",
+      "source_url": "https://id.wikipedia.org/wiki/Lobak_pedas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29216536,
+      "text": "Lobak pedas adalah sebuah tumbuhan menahun dari famili Brassicaceae. Tumbuhan tersebut adalah sayuran akar, ditanam dan dipakai di seluruh dunia sebagai rempah-rempah dan bumbu. Spesies tersebut diyakini berasal dari Eropa Tenggara dan Asia Barat."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ホースラディッシュ」の節「栽培」",
+        "source": "Wikipedia (ja): ホースラディッシュ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%A9%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110489692,
         "heading": "栽培",
         "text": "栽培は非常に容易。生命力が強く、根の断片を土中に埋めるだけで容易に発芽する。収穫の際に取り残したり、分断してしまった根からも増える。キャベツと同じアブラナ科の植物であるため、時としてモンシロチョウの幼虫（青虫）に葉を食害される。葉は様々な昆虫に好まれ、ほとんど葉脈を残すだけになるほどに食い尽くされることも少なくないが、通常、それが原因で枯れてしまうことはない。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Horseradish」の節「Cultivation」",
+        "source": "Wikipedia (en): Horseradish § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Horseradish#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378301916,
         "heading": "Cultivation",
         "text": "Horseradish is perennial in hardiness zones 2–9 and can be grown as an annual in other zones, although not as successfully as in zones with both a long growing season and winter temperatures cold enough to ensure plant dormancy. After the first frost in autumn kills the leaves, the root is dug and divided. The main root is harvested and one or more large offshoots of the main root are replanted to produce next year's crop. Horseradish left undisturbed in the garden spreads via underground shoots and can become invasive. Older roots left in the ground become woody, after which they are no longer culinarily useful, although older plants can be dug and re-divided to start new plants. The early season leaves can be distinctively different, asymmetric spiky before the mature typical flat broad leaves start to be developed.\n\n■ Pests and diseases\nIntroduced by accident, \"cabbageworms\", the larvae of Pieris rapae, are a common caterpillar pest in horseradish. Mature caterpillars chew large, ragged holes in the leaves leaving the large veins intact. Handpicking is an effective control strategy in home gardens. Another common pest of horseradish is the mustard leaf beetle (Phaedon cochleariae). These beetles are undeterred by the defense mechanisms produced by Brassicaceae plants like horseradish.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Armoracia rusticana § Producción",
+        "source_url": "https://es.wikipedia.org/wiki/Armoracia_rusticana#Producci%C3%B3n",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174704617,
+        "heading": "Producción",
+        "text": "En los Estados Unidos, el rábano picante se cultiva en varias zonas, como Eau Claire, Wisconsin, y Tule Lake, California. El crecimiento más concentrado se produce en la región de Collinsville, Illinois.​\nEn Europa se producen anualmente 30.000 toneladas métricas de rábano picante, de las cuales Hungría produce 12.000, lo que la convierte en el mayor productor individual.​",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Raifort § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Raifort#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 234066640,
+        "heading": "Culture",
+        "text": "Multiplication par « éclats », c'est-à-dire des fragments de racines de 30 cm de long, mis en place dès que le sol est travaillable.\nDemande un sol frais, profond, bien fumé ou riche en humus.\nRécolte au plus tôt l'année suivant la plantation, à partir de septembre, en fonction des besoins.\nSa zone de rusticité se situe entre 4 et 8 USDA.",
         "truncated": false
       }
     }
@@ -370,7 +429,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -481,7 +540,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/278747-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -489,7 +548,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/278747-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000549445.webp",
@@ -502,6 +561,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

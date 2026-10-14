@@ -8,14 +8,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Colombian coca"
-    ],
     "zh": [
       "古柯"
+    ],
+    "en": [
+      "Colombian coca"
     ],
     "ast": [
       "coca colombiana"
@@ -25,28 +25,55 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5396543",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5396543",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Erythroxylum novogranatense」",
+      "source": "Wikipedia (en): Erythroxylum novogranatense",
       "source_url": "https://en.wikipedia.org/wiki/Erythroxylum_novogranatense",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357723008,
       "text": "Erythroxylum novogranatense, also known as Colombian Coca, is a species of shrub or small tree in the family Erythroxylaceae native to Colombia, Ecuador, Peru, Trinidad-Tobago, and Venezuela. It is used medicinally and as a narcotic. Erythroxylum novogranatense is one of the primary species of cultivated Coca, despite being less widely cultivated than Erythroxylum coca."
+    },
+    "es": {
+      "source": "Wikipedia (es): Erythroxylum novogranatense",
+      "source_url": "https://es.wikipedia.org/wiki/Erythroxylum_novogranatense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 167519215,
+      "text": "La coca colombiana, es un arbusto de la familia Erithroxylaceae. Es, junto con E. coca, la coca, —llamada coca boliviana o coca huánuco para diferenciarlas—, una de los dos especies de las que se extrae cocaína."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Erythroxylum novogranatense",
+      "source_url": "https://fr.wikipedia.org/wiki/Erythroxylum_novogranatense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 217484227,
+      "text": "Erythroxylum novogranatense est une espèce de plantes à fleurs de la famille des Erythroxylaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Erythroxylum novogranatense",
+      "source_url": "https://pt.wikipedia.org/wiki/Erythroxylum_novogranatense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65968755,
+      "text": "Erythroxylum novogranatense, conhecida também como coca colombiana, é uma espécie de planta da flora do Colombia e Perú, pertencente ao género Erythroxylum. É, junto com Erythroxylum coca —chamada coca boliviana ou coca huánuco para diferenciá-las—, uma das duas espécies das quais a cocaína é extraída."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Erythroxylum novogranatense」の節「Toxicity」",
+        "source": "Wikipedia (en): Erythroxylum novogranatense § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Erythroxylum_novogranatense#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1357723008,
         "heading": "Toxicity",
         "text": "The cocaine content in leaves of E. novogranatense var. novogranatense is 0.55-0.93%, with an average of 0.77% and in E. novogranatense var. truxillense the cocaine content is 0.42-1.02%, with a mean of 0.72%. The foliage also contains cinnamoylcocaine. The plants also contain methyl salicylate.",
@@ -66,7 +93,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -90,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/97004-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -98,7 +125,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/97004-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000680010.webp",
@@ -111,6 +138,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

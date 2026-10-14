@@ -22,17 +22,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "stickbush"
-    ],
-    "zh": [
-      "臭茉莉",
-      "九龙吐珠",
-      "三台红花",
-      "重瓣臭茉莉"
+    "id": [
+      "Menur",
+      "Bunga Melati Susun Papua"
     ],
     "sv": [
       "Doftklerodendrum"
@@ -40,8 +35,11 @@
     "vi": [
       "Ngọc nữ thơm"
     ],
-    "id": [
-      "Bunga Melati Susun Papua"
+    "zh": [
+      "重瓣臭茉莉",
+      "臭茉莉",
+      "九龙吐珠",
+      "三台红花"
     ],
     "mad": [
       "Malathè tompang"
@@ -54,24 +52,45 @@
     ],
     "szy": [
       "nipaluma-cumuli, comoli"
+    ],
+    "en": [
+      "stickbush"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q10475331",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q10475331",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Clerodendrum chinense」",
+      "source": "Wikipedia (en): Clerodendrum chinense",
       "source_url": "https://en.wikipedia.org/wiki/Clerodendrum_chinense",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1329880369,
       "text": "Clerodendrum chinense, called the glory bower, is a species of flowering plant in the genus Clerodendrum. It is native to Nepal, the eastern Himalayas, Assam, the Andaman and Nicobar Islands, south-central and southeast China, Southeast Asia, and Malesia. It is a perennial shrub that grows up to 3 m (10 ft) tall."
+    },
+    "es": {
+      "source": "Wikipedia (es): Clerodendrum chinense",
+      "source_url": "https://es.wikipedia.org/wiki/Clerodendrum_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 133496813,
+      "text": "La volcameria o jazmincillo es una especie de arbusto perteneciente a la familia de las lamiáceas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Menur",
+      "source_url": "https://id.wikipedia.org/wiki/Menur",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29711383,
+      "text": "Bunga Menur adalah salah satu jenis bunga melati yang juga dikenal sebagai bunga Melati Susun."
     }
   },
   "edible": {
@@ -84,7 +103,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -151,7 +170,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/946989-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -159,7 +178,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/946989-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000880458.webp",
@@ -172,6 +191,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

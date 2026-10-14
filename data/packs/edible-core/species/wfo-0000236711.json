@@ -18,54 +18,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Gewöhnlicher Andorn",
-      "Andorn"
-    ],
-    "en": [
-      "horehound",
-      "white horehound"
-    ],
     "fr": [
       "Marrube blanc",
       "marrube"
     ],
-    "it": [
-      "Marrubio"
-    ],
     "pl": [
       "Szanta zwyczajna"
     ],
-    "ru": [
-      "Шандра обыкновенная"
-    ],
-    "tr": [
-      "Köpek otu"
-    ],
-    "nl": [
-      "Malrove"
-    ],
-    "cs": [
-      "jablečník obecný"
-    ],
-    "fi": [
-      "valkohurtanminttu"
-    ],
-    "zh": [
-      "雪猪油",
-      "欧夏至草"
-    ],
-    "ast": [
-      "bombarón"
-    ],
-    "sl": [
-      "navadna črna meta"
-    ],
     "qu": [
       "Yuraq itapallu"
+    ],
+    "ru": [
+      "Шандра обыкновенная"
     ],
     "ro": [
       "Unguraș"
@@ -76,11 +43,21 @@
     "hu": [
       "orvosi pemetefű"
     ],
+    "fi": [
+      "valkohurtanminttu"
+    ],
     "uk": [
       "Шандра звичайна"
     ],
     "et": [
       "ürt-penimünt"
+    ],
+    "de": [
+      "Gewöhnlicher Andorn",
+      "Andorn"
+    ],
+    "cs": [
+      "jablečník obecný"
     ],
     "fa": [
       "گندنای کوهی"
@@ -103,8 +80,15 @@
     "sv": [
       "Kransborre"
     ],
+    "nl": [
+      "Malrove"
+    ],
     "sr": [
       "Очајница"
+    ],
+    "zh": [
+      "欧夏至草",
+      "雪猪油"
     ],
     "eu": [
       "Lekugi"
@@ -159,24 +143,67 @@
     ],
     "lv": [
       "Parastā marūbija"
+    ],
+    "sl": [
+      "navadna črna meta"
+    ],
+    "en": [
+      "horehound",
+      "white horehound"
+    ],
+    "it": [
+      "Marrubio"
+    ],
+    "tr": [
+      "Köpek otu"
+    ],
+    "ast": [
+      "bombarón"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157631",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157631",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Marrubium vulgare」",
+      "source": "Wikipedia (en): Marrubium vulgare",
       "source_url": "https://en.wikipedia.org/wiki/Marrubium_vulgare",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371758529,
       "text": "Marrubium vulgare is a flowering plant in the mint family (Lamiaceae), native to Europe, northern Africa, and southwestern and central Asia. Specifically, it emerged in the region between the Mediterranean Sea and Central Asia and now inhabits all continents save Antarctica. It is also widely naturalized in many places, including most of North and South America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Marrubium vulgare",
+      "source_url": "https://es.wikipedia.org/wiki/Marrubium_vulgare",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175384439,
+      "text": "Marrubium vulgare, llamado marrubio, hierba del sapo o toronjil cuyano, es una planta herbácea de la familia de las Lamiaceae. Su nombre científico deriva del hebreo {mar} (amargo) y {rob} (jugo). La aplicación en la medicina tradicional más extendida de M. vulgare en todo el mundo es para el tratamiento de trastornos gastrointestinales y respiratorios."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Marrube blanc",
+      "source_url": "https://fr.wikipedia.org/wiki/Marrube_blanc",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234152042,
+      "text": "Le marrube blanc, marrube commun, ou simplement marrube ou marube, est une espèce de plantes à fleurs du genre Marrubium, de la famille des Lamiaceae. C'est une plante herbacée originaire d’Europe, d’Afrique du Nord et d’Asie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Marrubium vulgare",
+      "source_url": "https://pt.wikipedia.org/wiki/Marrubium_vulgare",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68259195,
+      "text": "Marrubium vulgare, comummente conhecida como marroio-branco, é uma espécie de planta com flor, pertencente à família das Labiadas e ao tipo fisionómico dos hemicriptófitos."
     }
   },
   "edible": {
@@ -190,7 +217,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -340,7 +367,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/449990-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -348,7 +375,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/449990-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000236711.webp",
@@ -361,6 +388,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 339,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

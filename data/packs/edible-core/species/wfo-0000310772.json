@@ -10,13 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "久榄",
-      "海岸乳树"
-    ],
     "af": [
       "Witmelkhout"
     ],
@@ -26,6 +22,10 @@
     "ca": [
       "arbre de ferro"
     ],
+    "zh": [
+      "久榄",
+      "海岸乳树"
+    ],
     "ar": [
       "سيدروكسيلون إنيرمي"
     ]
@@ -34,7 +34,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3025259",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3025259",
   "search_names": {
@@ -44,13 +44,22 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sideroxylon inerme」",
+      "source": "Wikipedia (en): Sideroxylon inerme",
       "source_url": "https://en.wikipedia.org/wiki/Sideroxylon_inerme",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376323130,
       "text": "Sideroxylon inerme is a southern and eastern African coastal tree, with dense foliage, black berries and small, foetid, greenish flowers. The tree's generic name means \"Iron-wood\" in Greek, referring to its very hard timber."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sideroxylon inerme",
+      "source_url": "https://fr.wikipedia.org/wiki/Sideroxylon_inerme",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234740781,
+      "text": "Sideroxylon inerme L. est une espèce de plantes à fleurs de la famille des Sapotaceae. C'est un arbre côtier endémique à l'Afrique méridionale, au bois extrêmement dur et résistant comme tous les Sideroxylon. Le genre comprend trois sous-espèces. L'une d'elles, Sideroxylon inerme inerme, est la seule espèce de Sideroxylon existant en Afrique du Sud où il est protégé et où trois spécimens ont été déclarées patrimoine provincial (en)."
     }
   },
   "edible": {
@@ -66,7 +75,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -87,7 +96,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/789686-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -95,7 +104,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/789686-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000310772.webp",
@@ -108,6 +117,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 303,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

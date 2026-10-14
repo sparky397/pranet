@@ -34,15 +34,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "ivy gourd"
-    ],
-    "zh": [
-      "紅瓜",
-      "红瓜"
+    "id": [
+      "Kemarungan"
     ],
     "hi": [
       "कुंदुरी"
@@ -79,6 +75,10 @@
     ],
     "bn": [
       "তেলাকুচা"
+    ],
+    "zh": [
+      "红瓜",
+      "紅瓜"
     ],
     "gu": [
       "ટિંડોળી"
@@ -125,9 +125,6 @@
     "arz": [
       "جرانديز كوكسينيا"
     ],
-    "id": [
-      "Kemarungan"
-    ],
     "mai": [
       "तिलकोर"
     ],
@@ -151,13 +148,16 @@
     ],
     "shn": [
       "တူၼ်ႈၶိူဝ်းၽၵ်းၶႅပ်ႉ"
+    ],
+    "en": [
+      "ivy gourd"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q727330",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q727330",
   "search_names": {
@@ -170,13 +170,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Coccinia grandis」",
+      "source": "Wikipedia (en): Coccinia grandis",
       "source_url": "https://en.wikipedia.org/wiki/Coccinia_grandis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376817629,
       "text": "Coccinia grandis, the ivy gourd, also known as scarlet gourd, or Tindora, is a tropical vine. It grows primarily in tropical climates and is commonly found in the Indian states where it forms a part of the local cuisine. Coccinia grandis is cooked as a vegetable dish."
+    },
+    "es": {
+      "source": "Wikipedia (es): Coccinia grandis",
+      "source_url": "https://es.wikipedia.org/wiki/Coccinia_grandis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174488504,
+      "text": "La calabaza hiedra, tindola o kowai, es una planta trepadora tropical. Es muy popular en la India en el estado de Bengala Oriental, donde se la denomina Kunduri en bengalí, siendo un ingrediente de platillos populares tales como el kunduri posto. En el sureste de Asia, se la cultiva por sus brotes y frutos comestibles. Los frutos verdes se usan en la preparación de sopas y curris. Los frutos maduros se consumen crudos o cocidos junto con otros vegetales; las hojas nuevas o brotes se consumen blanqueados, hervidos, fritos o en sopas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Coccinia grandis",
+      "source_url": "https://fr.wikipedia.org/wiki/Coccinia_grandis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236813179,
+      "text": "Coccinia grandis est une espèce de plantes à fleurs de la famille des Cucurbitaceae. Ce sont des plantes herbacées vivaces, grimpantes ou rampantes, originaire des régions tropicales d'Afrique et d'Asie."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kemarungan",
+      "source_url": "https://id.wikipedia.org/wiki/Kemarungan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29984622,
+      "text": "Coccinia grandis, timun padang, juga dikenal sebagai kemarungan dan buah kowai, adalah tumbuhan merambat tropis. Tumbuh terutama di iklim tropis dan umumnya ditemukan di negara bagian India, di mana ia menjadi bagian dari masakan lokal. Coccinia grandis dimasak sebagai hidangan sayuran."
     }
   },
   "edible": {
@@ -191,7 +218,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -281,7 +308,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/291972-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing tuberous geophyte",
@@ -289,7 +316,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/291972-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000612919.webp",
@@ -302,6 +329,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 298,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

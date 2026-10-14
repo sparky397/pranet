@@ -17,32 +17,32 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "クグガヤツリ"
     ],
-    "en": [
-      "poorland flatsedge"
+    "pt": [
+      "Capim-barba-de-bode"
     ],
     "zh": [
       "扁穗莎草",
       "莎田草",
       "伞莎草"
     ],
-    "pt": [
-      "Capim-barba-de-bode"
-    ],
     "pa": [
       "ਮੋਥੀ"
+    ],
+    "en": [
+      "poorland flatsedge"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1024017",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1024017",
   "search_names": {
@@ -52,22 +52,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「クグガヤツリ」",
+      "source": "Wikipedia (ja): クグガヤツリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B0%E3%82%AC%E3%83%A4%E3%83%84%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106359247,
       "text": "クグガヤツリ Cyperus compressus L. は、小型のカヤツリグサ属の植物。道ばたなどに生え、草丈の割には大きな小穂が特徴。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cyperus compressus」",
+      "source": "Wikipedia (en): Cyperus compressus",
       "source_url": "https://en.wikipedia.org/wiki/Cyperus_compressus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377650924,
       "text": "Cyperus compressus, commonly known as annual sedge, is a sedge of the family Cyperaceae that has a wide distribution throughout countries with warmer climates. It is found in tropical areas of Africa, Asia and the Americas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cyperus compressus",
+      "source_url": "https://fr.wikipedia.org/wiki/Cyperus_compressus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 205034991,
+      "text": "Cyperus compressus est une espèce de plante de la famille des Cyperaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Capim-barba-de-bode",
+      "source_url": "https://pt.wikipedia.org/wiki/Capim-barba-de-bode",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72243757,
+      "text": "O Capim-barba-de-bode é uma erva anual, da família das ciperáceas, de distribuição pantropical. Tal espécie vegeta em terrenos turfosos ou estéreis. Também é conhecida simplesmente pelo nome de barba-de-bode."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cyperus compressus",
+      "source_url": "https://id.wikipedia.org/wiki/Cyperus_compressus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28533276,
+      "text": "Cyperus compressus adalah spesies tumbuhan yang tergolong ke dalam famili Cyperaceae. Spesies ini juga merupakan bagian dari ordo Poales. Spesies Cyperus compressus sendiri merupakan bagian dari genus Cyperus. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh L.."
     }
   },
   "edible": {
@@ -82,7 +109,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -253,7 +280,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/304155-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -261,7 +288,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/304155-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000369779.webp",
@@ -274,6 +301,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 255,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -11,21 +11,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ステビア"
-    ],
-    "en": [
-      "candyleaf"
-    ],
-    "zh": [
-      "甜菊",
-      "甜叶菊"
-    ],
-    "sl": [
-      "sladki list"
     ],
     "de": [
       "Süßkraut"
@@ -66,6 +56,9 @@
     "vi": [
       "Cỏ ngọt"
     ],
+    "en": [
+      "candyleaf"
+    ],
     "fa": [
       "برگ عسلی"
     ],
@@ -87,6 +80,10 @@
     "fi": [
       "makeastevia"
     ],
+    "zh": [
+      "甜叶菊",
+      "甜菊"
+    ],
     "th": [
       "หญ้าหวาน"
     ],
@@ -99,6 +96,9 @@
     "el": [
       "Στέβια"
     ],
+    "sl": [
+      "sladki list"
+    ],
     "ar": [
       "ستيفيا ريبوديانا"
     ],
@@ -110,7 +110,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q7213452",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q7213452",
   "search_names": {
@@ -121,35 +121,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ステビア」",
+      "source": "Wikipedia (ja): ステビア",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%93%E3%82%A2",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109296150,
       "text": "ステビア は、パラグアイをはじめとする南アメリカ原産のキク科ステビア属の多年草。草丈は50cmから1m前後、茎は白い細毛に覆われている。夏から秋にかけて、枝先に白い小花を咲かせる。アマハステビアという別名も存在する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Stevia rebaudiana」",
+      "source": "Wikipedia (en): Stevia rebaudiana",
       "source_url": "https://en.wikipedia.org/wiki/Stevia_rebaudiana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375895658,
       "text": "Stevia rebaudiana is a plant species in the genus Stevia of the family Asteraceae. It is commonly known as candyleaf, sweetleaf or sugarleaf."
+    },
+    "es": {
+      "source": "Wikipedia (es): Stevia rebaudiana",
+      "source_url": "https://es.wikipedia.org/wiki/Stevia_rebaudiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174042303,
+      "text": "La estevia es una especie del género Stevia de la familia de las Asteráceas nativa de la región tropical de Sudamérica; se encuentra aún en estado silvestre en el Paraguay, especialmente en el Departamento de Amambay, pero desde hace varias décadas se cultiva por sus propiedades edulcorantes y su ínfimo contenido calórico."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Stevia rebaudiana",
+      "source_url": "https://fr.wikipedia.org/wiki/Stevia_rebaudiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240224161,
+      "text": "Stevia rebaudiana appelée aussi « Chanvre d'eau » ou simplement « Stévia » est une espèce de plantes à fleurs de la famille des Asteraceae contenant des édulcorants intenses naturels. Originaire des régions tropicales d'Amérique du Sud (Paraguay), elle pousse à l'état sauvage dans des prairies ou des massifs montagneux, sous un climat semi-aride."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Stevia rebaudiana",
+      "source_url": "https://pt.wikipedia.org/wiki/Stevia_rebaudiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 57046880,
+      "text": "Espécie do gênero Stevia, família Asteraceae, originária da América do Sul, na Serra de Amambai (MS), região limítrofe entre o Brasil e o Paraguai. Planta de hábito arbustivo que forma, com o tempo, múltiplos brotos e mede de 40 a 80 cm de altura. A raiz é perene, fibrosa e filiforme."
+    },
+    "id": {
+      "source": "Wikipedia (id): Stevia rebaudiana",
+      "source_url": "https://id.wikipedia.org/wiki/Stevia_rebaudiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29584694,
+      "text": "Stevia rebaudiana adalah spesies tumbuhan dalam genus Stevia dari famili Asteraceae. Tumbuhan ini umumnya dikenal sebagai daun permen, daun manis, atau daun gula."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Stevia rebaudiana」の節「Cultivation」",
+        "source": "Wikipedia (en): Stevia rebaudiana § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Stevia_rebaudiana#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375895658,
         "heading": "Cultivation",
         "text": "Beginning in the 1960s, commercial cultivation had spread to Japan, Southeast Asia and the US, but also in mildly tropical climates in hilly areas of Nepal or India (Assam region). The plant prefers warm, moist and sunny conditions. The plant cannot survive frost during the winter and therefore greenhouses are used to grow stevia in Europe.\nStevia rebaudiana is found in the wild in semiarid habitats ranging from grassland to mountain terrain, does produce seeds, but only a small percentage of the seeds germinate.\nStevia rebaudiana has been grown on an experimental basis in Ontario, Canada, since 1987 to determine the feasibility of commercial cultivation. Duke University researchers developed a strategic plan to assist farmers and exporters in Paraguay to compete in the global market for stevia.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Stevia rebaudiana § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Stevia_rebaudiana#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174042303,
+        "heading": "Cultivo",
+        "text": "En estado silvestre crece en terrenos arenosos, poco fértiles y de buen drenaje; es ligeramente acidófila. Requiere días largos, y mucho sol. Para efectos agrícolas se prefiere emplear esquejes, suelo de textura ligera e irrigar con frecuencia durante el período seco. La cosecha se realiza justo antes de la floración, para mantener la máxima concentración posible de edulcorante en las hojas.[cita requerida]\nLa planta es originaria de una zona semi-húmeda con una precipitación media anual de 1500 mm/año. Posee muy poca resistencia a la sequía. En zonas donde la precipitación anual es similar a 1500 / 1700 mm por año y con suelos de alta capacidad de retención de humedad.\nLa planta es resistente a la humedad pero no a la sequía que perjudica la aparición de hojas. Esto significa que la inversión en riego artificial sea altamente rentable.\nPor lo tanto, es recomendable producir con riego para mayores beneficios.\nSe resalta que en el 2014 el cultivo de la estevia en Paraguay alcanzó una superficie sembrada de 2300 hectáreas que produjeron 3.680 toneladas según estimaciones de la Dirección Nacional de Censos y Estadísticas del Ministerio de Agricultura y Ganadería (citada por Acosta, 2015, p. 3).​",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Stevia rebaudiana § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Stevia_rebaudiana#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240224161,
+        "heading": "Culture",
+        "text": "La plante atteint 40 à 60 cm, parfois jusqu'à 1 m de hauteur et fleurit en août-septembre. Elle est aujourd'hui cultivée en Argentine, au Brésil, en Uruguay, en Amérique centrale, aux États-Unis et au Canada dans le sud de l'Ontario, en Chine, en Corée, au Japon, en Thaïlande, au Viêtnam, en Israël, en Crimée (Ukraine) et en Angleterre…\n\nSes tiges faibles semi-ligneuses portent des feuilles opposées, les petites fleurs blanches apparaissent sur des têtes indéfinies. Elle est autostérile et son pollen peut être allergène, les graines sont petites et sont dispersées par le vent grâce à leur pappus duveteux.\nElle prospère en plein soleil, dans des sols relativement pauvres, mais craint la sécheresse, les racines poussant près de la surface. Pratiquer un arrosage léger tous les 2 ou 3 jours et un paillis autour des plants.\nLa germination des graines étant faible (environ 25 %), il est plus efficace de replanter des boutures achetées chez un pépiniériste en demandant des plants à forte concentration en stévoïdes. Elle se bouture facilement en toute saison et se transplante en même temps que les tomates, étant sensible aux températures inférieures à 10 °C. Elle pousse aussi bien en terre qu'en pot. Les feuilles sont plutôt à récolter en automne car la concentration en stévioside (agent sucrant) est plus forte.\nOn fait sécher ses feuilles puis on les réduit en poudre (en prenant soin de retirer avec un tamis les nervures, qui ont un goût un peu amer). On peut aussi sucrer ses boissons en faisant infuser des feuilles fraîches (une feuille correspond à un sucre) ou séchées. Les feuilles sèches sont, à poids égal, entre 30 et 45 fois plus sucrées que le saccharose.",
+        "truncated": true
+      },
+      "id": {
+        "source": "Wikipedia (id): Stevia rebaudiana § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Stevia_rebaudiana#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29584694,
+        "heading": "Budidaya",
+        "text": "Mulai tahun 1960-an, budidaya komersial telah menyebar ke Jepang, Asia Tenggara, dan AS; tetapi juga di iklim tropis ringan di daerah perbukitan Nepal atau India (wilayah Assam). Tumbuhan ini lebih menyukai kondisi hangat, lembap, dan cerah. Tumbuhan ini tidak dapat bertahan hidup dari embun beku selama musim dingin dan oleh karena itu rumah kaca digunakan untuk menanam stevia di Eropa.\nStevia rebaudiana ditemukan di alam liar di habitat semi-kering mulai dari padang rumput hingga pegunungan, menghasilkan biji, tetapi hanya sebagian kecil biji yang berkecambah.\nStevia rebaudiana telah ditanam secara eksperimental di Ontario, Kanada, sejak tahun 1987 untuk menentukan kelayakan budidaya komersial. Para peneliti Universitas Duke mengembangkan rencana strategis untuk membantu petani dan eksportir di Paraguay untuk bersaing di pasar global untuk stevia.",
         "truncated": false
       }
     }
@@ -163,7 +232,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -177,7 +246,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/245468-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000003546.webp",
@@ -190,6 +259,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 371,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

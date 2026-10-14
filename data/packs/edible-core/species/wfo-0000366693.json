@@ -12,28 +12,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "バナバ"
     ],
-    "en": [
-      "pride of India",
-      "Giant Crape-myrtle"
-    ],
-    "de": [
-      "Königinblume"
-    ],
-    "zh": [
-      "大花紫薇"
-    ],
-    "kn": [
-      "ಹೊಳೆ ದಾಸವಾಳ"
-    ],
-    "ta": [
-      "செம்மருதம",
-      "கதலி"
+    "id": [
+      "Bungur besar"
     ],
     "hi": [
       "जरुल"
@@ -49,6 +35,9 @@
     ],
     "as": [
       "এজাৰ"
+    ],
+    "de": [
+      "Königinblume"
     ],
     "bn": [
       "জারুল"
@@ -68,8 +57,15 @@
     "tl": [
       "Banaba"
     ],
+    "zh": [
+      "大花紫薇"
+    ],
     "bcl": [
       "Banaba"
+    ],
+    "ta": [
+      "கதலி",
+      "செம்மருதம"
     ],
     "mr": [
       "ताम्हण"
@@ -92,9 +88,6 @@
     "bjn": [
       "Bungur"
     ],
-    "id": [
-      "Bungur besar"
-    ],
     "ko": [
       "바나바"
     ],
@@ -106,13 +99,20 @@
     ],
     "shn": [
       "တူၼ်ႈမႆႉသီႈၽုင်း"
+    ],
+    "en": [
+      "pride of India",
+      "Giant Crape-myrtle"
+    ],
+    "kn": [
+      "ಹೊಳೆ ದಾಸವಾಳ"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1137593",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1137593",
   "search_names": {
@@ -126,22 +126,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「バナバ」",
+      "source": "Wikipedia (ja): バナバ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%8A%E3%83%90",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109709661,
       "text": "バナバ はミソハギ科サルスベリ属の落葉高木。和名はオオバナサルスベリ（大花百日紅）。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lagerstroemia speciosa」",
+      "source": "Wikipedia (en): Lagerstroemia speciosa",
       "source_url": "https://en.wikipedia.org/wiki/Lagerstroemia_speciosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376873039,
       "text": "Lagerstroemia speciosa is a species of Lagerstroemia native to tropical South Asia, Southeast Asia, and Melanesia. It is a deciduous tree with bright pink to light purple flowers."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lagerstroemia speciosa",
+      "source_url": "https://es.wikipedia.org/wiki/Lagerstroemia_speciosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 158218084,
+      "text": "Lagerstroemia speciosa es una especie del género Lagerstroemia nativa de la zona tropical del sur de Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lagerstroemia speciosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Lagerstroemia_speciosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227130031,
+      "text": "Lagerstroemia speciosa est une espèce de plantes à fleurs de la famille des Lythraceae. C'est un arbre originaire d'Asie tropicale : Chine, Inde, Cambodge, Birmanie, Thaïlande, Viêt Nam, Indonésie, Malaisie et Philippines."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lagerstroemia speciosa",
+      "source_url": "https://pt.wikipedia.org/wiki/Lagerstroemia_speciosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69642554,
+      "text": "O resedá-gigante é uma planta da família Lythraceae, do gênero Lagerstroemia. A árvore é nativa da região tropical da Índia e é cultivada como planta ornamental nos Estados Unidos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bungur besar",
+      "source_url": "https://id.wikipedia.org/wiki/Bungur_besar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29706040,
+      "text": "Lagerstroemia speciosa dikenal dengan bungur besar atau bungur pohon adalah spesies pohon yang berasal dari Asia selatan tropis. Ini adalah pohon gugur dengan bunga merah muda cerah hingga ungu muda."
     }
   },
   "edible": {
@@ -157,7 +193,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -199,7 +235,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/553618-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -207,7 +243,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/553618-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000366693.webp",
@@ -220,6 +256,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

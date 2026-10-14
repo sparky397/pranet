@@ -17,56 +17,80 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オキナワスズメウリ"
     ],
-    "zh": [
-      "雙輪瓜",
-      "秤钩风",
-      "毒瓜"
-    ],
-    "en": [
-      "native briony",
-      "striped cucumber"
-    ],
     "ml": [
       "ഐവിരലിക്കോവ"
+    ],
+    "zh": [
+      "毒瓜",
+      "雙輪瓜",
+      "秤钩风"
     ],
     "ta": [
       "ஐவிரல் கோவை"
     ],
     "kn": [
       "ಲಿಂಗದೊಂಡೆ"
+    ],
+    "en": [
+      "native briony",
+      "striped cucumber"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3335431",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3335431",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オキナワスズメウリ」",
+      "source": "Wikipedia (ja): オキナワスズメウリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AD%E3%83%8A%E3%83%AF%E3%82%B9%E3%82%BA%E3%83%A1%E3%82%A6%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106351893,
       "text": "オキナワスズメウリ Diplocyclos palmatus (L.) C. Jeffrey は、ウリ科の蔓植物。真っ赤な果実を生じ、観賞用に栽培されることもあるが、有毒でもある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Diplocyclos palmatus」",
+      "source": "Wikipedia (en): Diplocyclos palmatus",
       "source_url": "https://en.wikipedia.org/wiki/Diplocyclos_palmatus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1329761717,
       "text": "Diplocyclos palmatus is a vine in the family Cucurbitaceae. It is commonly known as native bryony or striped cucumber. In Marathi, it is called shivlingi due to its seed which resembles a lingam."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Diplocyclos palmatus",
+      "source_url": "https://fr.wikipedia.org/wiki/Diplocyclos_palmatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231144413,
+      "text": "Diplocyclos palmatus est une espèce de plante à fleurs de la famille des Cucurbitaceae, originaire des régions tropicales de l'Ancien monde."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Diplocyclos palmatus § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Diplocyclos_palmatus#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 231144413,
+        "heading": "Toxicité",
+        "text": "Les feuilles, les jeunes pousses et les jeunes fruits sont parfois consommés comme légume mais les fruits matures sont toxiques en raison de leur forte teneur en cucurbitacine et divers alcaloïdes.\nLes graines sont enrobées d'une pulpe gélatineuse grisâtre très toxique et sont également parfois consommées grillées (même si cela peut être dangereux).\nLes feuilles sont utilisés dans la médecine traditionnelle indienne, notamment comme antihelminthique.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -81,7 +105,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -142,7 +166,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/292565-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing perennial",
@@ -150,7 +174,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/292565-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000650181.webp",
@@ -163,6 +187,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 281,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

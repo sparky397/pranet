@@ -19,25 +19,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "ngai camphor"
+    "fr": [
+      "Sambong"
     ],
-    "zh": [
-      "艾納香",
-      "大风艾",
-      "艾纳香",
-      "艾纳香根",
-      "艾片",
-      "牛大艾"
+    "id": [
+      "Sembung"
     ],
     "vi": [
       "Đại bi"
-    ],
-    "fr": [
-      "Sambong"
     ],
     "ms": [
       "Pokok Sembung"
@@ -51,8 +43,13 @@
     "pam": [
       "Sambung"
     ],
-    "id": [
-      "Sembung"
+    "zh": [
+      "艾纳香",
+      "艾納香",
+      "大风艾",
+      "艾纳香根",
+      "艾片",
+      "牛大艾"
     ],
     "ace": [
       "Capa"
@@ -86,24 +83,54 @@
     ],
     "shn": [
       "တူၼ်ႈယႃႈလၢင်ႇ"
+    ],
+    "en": [
+      "ngai camphor"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2704178",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2704178",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Blumea balsamifera」",
+      "source": "Wikipedia (en): Blumea balsamifera",
       "source_url": "https://en.wikipedia.org/wiki/Blumea_balsamifera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1344379405,
       "text": "Blumea balsamifera is a flowering plant belonging to the genus Blumea of the family Asteraceae. It is also known as Ngai camphor and sambong."
+    },
+    "es": {
+      "source": "Wikipedia (es): Blumea balsamifera",
+      "source_url": "https://es.wikipedia.org/wiki/Blumea_balsamifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174680717,
+      "text": "Blumea balsamifera o sambong, es una especie de planta medicinal perteneciente a la familia de las asteráceas.Se encuentra en el trópico y subtrópico de Asia, incluyendo el subcontinente indio y el sudeste de Asia. Se trata de una hierba que crece a lo largo de las carreteras y en prados."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sambong",
+      "source_url": "https://fr.wikipedia.org/wiki/Sambong",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207812994,
+      "text": "Le sambong est une espèce de plante à fleurs de la famille des Asteraceae utilisée en médecine traditionnelle."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sembung",
+      "source_url": "https://id.wikipedia.org/wiki/Sembung",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29670340,
+      "text": "Sembung adalah tanaman perdu yang biasa dipakai untuk mengobati penyakit pilek, reumatik, kembung, diare, sakit tulang dsb. Di Filipina juga dipakai sebagai obat peluruh (diuretik). Kegunaan lainnya adalah untuk mengobati luka yang terinfeksi, infeksi pernafasan, dan sakit perut di Thailand dan Tiongkok sebagai obat rakyat."
     }
   },
   "edible": {
@@ -118,7 +145,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -157,7 +184,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/185502-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -165,7 +192,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/185502-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000002804.webp",
@@ -178,6 +205,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 282,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

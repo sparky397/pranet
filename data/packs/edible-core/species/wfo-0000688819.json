@@ -20,7 +20,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "nah": [
@@ -46,18 +46,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2990943",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2990943",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ficus insipida」",
+      "source": "Wikipedia (en): Ficus insipida",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_insipida",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373290114,
       "text": "Ficus insipida is a common tropical tree in the fig genus of the family Moraceae growing in forest habitats along rivers. It ranges from Mexico to northern South America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ficus insipida",
+      "source_url": "https://es.wikipedia.org/wiki/Ficus_insipida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174451045,
+      "text": "Ficus insipida es una especie de árbol del género Ficus, que mantiene varios usos entre diferentes pueblos indígenas de América. En México, Guatemala, El Salvador y Honduras se le llama amate, en Colombia es conocido como chibecha, en Panamá y Perú higuerón y ojé en Perú y Bolivia. En Costa Rica se le llama chilamate de río y en Nicaragua es llamado simplemente chilamate."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ficus insipida",
+      "source_url": "https://pt.wikipedia.org/wiki/Ficus_insipida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70206001,
+      "text": "A quaxinduba, também conhecida como quaxinguba, gameleira, apuí, apuizeiro e figueira-brava, é uma árvore da família das moráceas com propriedades medicinais. Possui ampla sinonímia tanto na nomenclatura popular como científica, entre essas temos Ficus nymphaefolium (Mil.) e Ficus anthelmintica, a Gameleira do Pará, a Gameleira lombrigueira, como o nome indica drástica e vermífuga."
     }
   },
   "edible": {
@@ -70,7 +88,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -101,7 +119,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853024-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -109,7 +127,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853024-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000688819.webp",
@@ -122,6 +140,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

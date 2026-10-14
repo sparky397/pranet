@@ -10,7 +10,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -18,8 +18,22 @@
     ],
     "en": [
       "Basil",
-      "sweet basil",
-      "basil"
+      "basil",
+      "sweet basil"
+    ],
+    "fr": [
+      "Basilic (plante)",
+      "basilic"
+    ],
+    "pt": [
+      "Manjericão-de-folha-larga",
+      "manjericão de folha-larga"
+    ],
+    "id": [
+      "Selasih"
+    ],
+    "lb": [
+      "Baselick"
     ],
     "zh": [
       "羅勒",
@@ -28,22 +42,6 @@
       "罗勒",
       "罗勒根",
       "罗勒子"
-    ],
-    "nl": [
-      "Basilicum"
-    ],
-    "cs": [
-      "bazalka vonná",
-      "bazalka pravá"
-    ],
-    "ast": [
-      "alfabaca"
-    ],
-    "sl": [
-      "navadna bazilika"
-    ],
-    "lb": [
-      "Baselick"
     ],
     "jv": [
       "Selasih"
@@ -81,14 +79,14 @@
     "my": [
       "ပင်စိမ်းမွှေး"
     ],
+    "nl": [
+      "basilicum"
+    ],
     "sv": [
       "basilika"
     ],
     "ar": [
       "ريحان"
-    ],
-    "pt": [
-      "manjericão de folha-larga"
     ],
     "eo": [
       "Bazilio"
@@ -156,17 +154,11 @@
     "ko": [
       "바질"
     ],
-    "fr": [
-      "basilic"
-    ],
     "lv": [
       "baziliks"
     ],
     "gl": [
       "alfábega"
-    ],
-    "id": [
-      "Selasih"
     ],
     "de": [
       "Basilikum"
@@ -209,6 +201,13 @@
     ],
     "cy": [
       "Brenhinllys"
+    ],
+    "sl": [
+      "navadna bazilika"
+    ],
+    "cs": [
+      "bazalka pravá",
+      "bazalka vonná"
     ],
     "fa": [
       "ریحان"
@@ -356,13 +355,16 @@
     ],
     "shn": [
       "တူၼ်ႈဢိမ်ၶိမ်း"
+    ],
+    "ast": [
+      "alfabaca"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q38859",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q38859",
   "search_names": {
@@ -373,47 +375,129 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「バジル」",
+      "source": "Wikipedia (ja): バジル",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B8%E3%83%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110789601,
       "text": "バジル は、シソ科メボウキ属の多年草（日本では越冬できないので一年草として扱われる）。インド、熱帯アジア原産のハーブである。和名はメボウキ（目箒）。イタリア語由来のバジリコ (Basilico) の名でも知られる。リンネの『植物の種』(1753年) で記載された植物種の1つでもある。トマトを使った料理によく合い、胃腸を整えたり、食欲増進の作用がある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Basil」",
+      "source": "Wikipedia (en): Basil",
       "source_url": "https://en.wikipedia.org/wiki/Basil",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375753314,
       "text": "Basil, also called great basil, is a culinary herb of the family Lamiaceae (mints). It is a tender plant and is used in cuisines worldwide. In Western cuisine, the generic term \"basil\" refers to the variety also known as Genovese basil or sweet basil. Basil is native to tropical and subtopical Asia and Australasia from India and Sri Lanka east to southeastern China, Taiwan, and south through Southeast Asia, the Philippines, New Guinea, to northern Australia. In temperate climates basil is treated as an annual plant, but it can be grown as a short-lived perennial or biennial in warmer horticultural zones with tropical or Mediterranean climates."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ocimum basilicum",
+      "source_url": "https://es.wikipedia.org/wiki/Ocimum_basilicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175623803,
+      "text": "Ocimum basilicum es una hierba aromática anual de la familia de las lamiáceas nativa de las regiones tropicales de África Central y el sudeste asiático, que se cultiva desde hace milenios. Es una planta tierna y se utiliza en cocinas de todo el mundo. Hay muchas variedades de Ocimum basilicum, así como varias especies relacionadas. El tipo que se usa comúnmente para dar sabor se llama popularmente hierba real, albahaca, basílico o alhábega, a diferencia de la variedad tailandesa, Ocimum × citriodorum y el tulsí. Las variedades más comunes de Ocimum basilicum son cultivos anuales, pero algunas son perennes en climas cálidos y tropicales, como algunos híbridos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Basilic (plante)",
+      "source_url": "https://fr.wikipedia.org/wiki/Basilic_(plante)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228757213,
+      "text": "Le Basilic ou Basilic romain (Ocimum basilicum L.) est une espèce de plantes à fleurs de la famille des Lamiacées. C'est une plante herbacée thérophyte cultivée comme plante aromatique et condimentaire. La plante est parfois appelée Basilic commun, Basilic aux sauces, Herbe royale ou Grand Basilic. Le Basilic commun est largement employé dans la cuisine italienne, d'autres variétés de basilic sont répandues dans certaines cuisines asiatiques : Taïwan, Thaïlande, Viêt Nam, Cambodge et Laos, ou encore le basilic africain, aussi appelé menthe gabonaise, (Amangninrin) en Afrique de l’Ouest, où il est utilisé en cuisine et en tisanes médicinales. Cette plante a eu plusieurs synonymes scientifiques dont Ocimum basilicum var. glabratum Benth, Ocimum basilicum var. majus Benth."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Manjericão-de-folha-larga",
+      "source_url": "https://pt.wikipedia.org/wiki/Manjeric%C3%A3o-de-folha-larga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73147322,
+      "text": "O manjericão-de-folha-larga é uma planta perene, que mede aproximadamente 60 cm de altura, sendo originária da Ásia e África. É uma planta conhecida pelos seus galhos com muitas ramificações, com suas folhas postas, com um formato oval, e pela sua cor verde clara. O manjericão tem flores brancas e um pouco rosadas. Uma das características das suas flores é a sua disposição tipo espiga. As suas sementes são pequenas e pretas. É usual serem retiradas as suas primeiras florações para aumentar o número de folhas e o ciclo da planta."
+    },
+    "id": {
+      "source": "Wikipedia (id): Selasih",
+      "source_url": "https://id.wikipedia.org/wiki/Selasih",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29877300,
+      "text": "Selasih, tlasih, basil, atau basilikum adalah segolongan terna yang dimanfaatkan daun, bunga, dan bijinya sebagai rempah-rempah serta penyegar (tonikum). Berbagai bagian tumbuhan ini berbau dan berasa khas, kadang-kadang langu, harum, atau manis, tergantung kultivarnya. Beberapa di antaranya bahkan dapat membuat mabuk. Beberapa jenis selasih, misalnya kemangi, berasal dari Asia Tenggara, tetapi sebagian besar dianggap berasal dari anak benua India."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「バジル」の節「栽培」",
+        "source": "Wikipedia (ja): バジル § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B8%E3%83%AB#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110789601,
         "heading": "栽培",
         "text": "十分な日当たりがあり、肥沃で水はけが良く、風通しの良いところに植え付けて栽培する。暑さに強く、寒さには弱い性質で、春の暖かくなったころに種をまき、初夏から初秋にかけて葉を利用するため収穫する。栽培難度はふつうで、連作は可能である。発芽には25度くらいの温度が必要。生育には10度以上の温度が必要で、栽培適温は25 - 30度とされ、15度では生育が極めて悪く、20度でも生育が緩慢である。ヨーロッパでは夏期高温になる地中海沿岸ではよく栽培されているが、夏の温度が不足するイギリスやドイツなどでは栽培がほとんど行われていない。日本では北海道での生育がよくないといわれている。播種から開花までにかかる日数は種まきの時期（気温）にもよるが、おおよそ60日前後である。栽培時期にかかわらず、一定の時期を過ぎると花が咲き、冬季室温で栽培してもよく開花結実するため、日長による開花の影響はほとんどないと考えられている。乾燥しすぎると葉がかたくなり品質を損ねてしまうため、適時灌水を行う。\n畑は堆肥や有機肥料をすき込んで、幅20 - 30センチメートル (cm) ほどの畝を立てる。日本では遅霜に遭うと芽が出ないため、種まきは5月ごろに行われる。加温設備があれば周年栽培することもできる。直まき栽培と移植栽培の方法があり、移植栽培では、育苗箱にまいてポット上げしたり、ビニールハウスなどに播種して本葉4枚になった苗を畑に移植する。直まきでは、株間は15 - 40 cmほど空けて、1箇所に4 - 5粒ほど点まきする。極めて容易で4 - 5日ほどで芽が出てくるので、間引きして1箇所に1本とする。育苗ポットで本葉4 - 7枚の苗をつくり、25 cm以上の間隔をあけて畑に植え替えても良い。\n気温が上がってくると株は生長の勢いを増し、草丈が延びてくるようになる。追肥は、生長をみながら10 - 20日ぐらいの割合で、少量の肥料を畝のわきにばらまいて土を寄せる。草丈15 - 20センチメートル (cm) になってから、収穫を兼ねて延びた先端の葉を順次摘み取って利用する。花を咲かせると種に養分が取られて葉が硬くなるため、花芽を見つけたらすぐに摘み取る。先端の芽を摘み取ることによってわき芽が出て、枝が増えるようになり、夏から秋まで茎の先端を摘んで次々と収穫できる。花が咲くと新しい葉が出なくなってしまうため、葉を収穫する目的の場合は、収穫を兼ねて早めに花蕾を摘み取るようにする。開花後は葉がかたくなるのでその前に収穫する。7月中旬ごろに茎を半分に切り詰めると新芽が伸びてくるので、秋に再度収穫ができるようになる。バジルはシソと同じく、花穂が結実すると枯れる。\nスイートバジルは育てやすく、庭の片隅や鉢植えなどでも市販の苗を購入して植えれば気軽に育てることもできる。\n土が乾きすぎないようにして育てていくが、過湿には注意する必要があり、土壌水分が多すぎると立枯病の被害を受けることがある。害虫としてはダニの被害を受けることがあり、ダニの害を受けると若い葉から萎縮してウイルス病に似た症状が見られ、被害が進むと枯れてしまう。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Basil」の節「Cultivation」",
+        "source": "Wikipedia (en): Basil § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Basil#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375753314,
         "heading": "Cultivation",
         "text": "■ Growing conditions\nBasil is sensitive to cold, with best growth in hot, dry conditions. Basil prefers high light conditions and grows best under full sun conditions. Increasing light intensity, particularly the photosynthetic photon flux density, can significantly enhance the plant's fresh weight, dry matter content, and height.\nHowever, due to its common use, basil is cultivated in many countries around the world. Production areas include countries in the Mediterranean area, those in the temperate zone, and others in subtropical climates.\nIn northern Europe, Canada, the northern states of the U.S., and the South Island of New Zealand, basil grows best if sown under glass in compost in a pot, then planted out in late spring/early summer (when there is little chance of a frost); however, it can also thrive when planted outside in these climates. Additionally, it may be sown in soil once chance of frost is past. It fares best in well-drained soil with direct exposure to the sun.\nAlthough basil grows best outdoors, it can be grown indoors in a pot and, like most herbs, will do best on a sun-facing windowsill, kept away from cold drafts. A greenhouse or row cover is ideal if available. It can, however, even be grown in a basement under fluorescent lights. Supplemental lighting produces greater biomass and phenol production, with red + blue specifically increasing growth and flower bud production. UV-B increases the volatiles in O. basilicum essential oil, which has not been reproducible in other plants, and so may be unique to the genus or even to this species.\nBasil prefers well-drained organic soils, as adequate oxygen availability in the root zone is essential for optimal plant growth.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Basilic (plante) § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Basilic_(plante)#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 228757213,
+        "heading": "Culture",
+        "text": "Cette  plante est cultivée pour des usages aromatiques, mais aussi médicinaux. En Asie tropicale, le basilic est considéré comme une plante vivace. Dans les climats plus doux, le basilic commun se comporte en annuelle.\nLa culture du basilic nécessite un climat chaud et ensoleillé, méditerranéen ou tropical. Il peut aussi se cultiver en pays tempérés, en pots, en jardinières ou en pleine terre, moyennant quelques précautions lorsque la température descend sous 10 °C. Le basilic préfère un sol frais et bien drainé, une exposition abritée et cinq heures d'ensoleillement quotidien.\nIl faut l'empêcher de monter en fleurs pour augmenter la production de feuilles, et donc pincer les extrémités des tiges quand les fleurs se forment. Juillet-août est la période propice pour la récolte des feuilles à des fins de congélation. Lorsque l'automne arrive et que la température finit par tuer le basilic, on peut laisser quelques fleurs terminer leur transformation en graines pour les semer l'année suivante.\nLa multiplication se fait par semis au printemps, vers mars-avril. En climat tempéré, il faut le faire en serre ou dans des pots maintenus à une température de l'ordre de 20 °C. Le repiquage en pleine terre peut se faire lorsque le sol s'est suffisamment réchauffé et que les gelées ne sont plus à craindre, soit vers la fin mai, et lorsque le plant comporte au moins 4 à 6 feuilles pour qu'il soit moins sensible aux limaces.\nTout en gardant à l'esprit que le basilic souffre des coups de chaleur et des rayons du soleil s'il est surexposé car le plant desséchera, on peut le cultiver à côté d'autres plantes qui bénéficieront de sa présence : près des choux, des courges, des haricots, entre les pieds de tomate et les poivrons (les solanacées en général).",
+        "truncated": true
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Manjericão-de-folha-larga § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Manjeric%C3%A3o-de-folha-larga#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 73147322,
+        "heading": "Cultivo",
+        "text": "Clima: O clima preferencial do manjericão é o clima tropical, que se caracteriza por ser quente e úmido, pois esta é uma planta sem resistência a geadas.[carece de fontes]?\nLuminosidade: Para florescer, esta planta necessita de sol pleno.\nSolo: O solo ideal para o manjericão tem que ser abundante em matéria orgânica. Para obter um solo propício para a plantação da planta, são 3 kg/m² de composto orgânico.\nPropagação: Para a reprodução da planta, é necessário retirar alguns galhos e deixá-los mergulhados em água até surgirem raízes, altura em que se deve retirar os galhos da água e proceder à sua plantação.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Selasih § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Selasih#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29877300,
+        "heading": "Budidaya",
+        "text": "Di beberapa daerah di Indonesia, misalnya di Sumatera spesies ruku-ruku, kemangi dan selasih tumbuh liar. Namun jika untuk komersial ada yang dibudidayakan.\nBudidaya selasih dapat dilakukan di atas lahan maupun dalam pot. Bentuk budidaya, jika ditujukan untuk lalap bisa langsung menebar biji, dibiarkan, sekitar tiga bulan kemudian panen. Jika diharapkan bijinya, biasanya untuk selasih, diperlukan waktu sekitar 7 hingga 9 bulan.\nSpesies selasih akan subur jika tubuh pada tanah aluvial lempung atau berpasir. Tanaman ini tidak tahan tanah lembap apalagi basah. Namun terlalu kering juga menyebabkan tanaman layu, terutama pada usia anakan. Selasih membutuhkan sinar matahari.\nPerlindungan untuk perawatan tanaman terutama terhadap serangan bekicot serta kepik dan kutu daun lainnya. Tentu juga perlu perlidungan dari hewan herbivora besar. Pentiraman perlu dilakukan saat kemarau.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Ocimum basilicum § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Ocimum_basilicum#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175623803,
+        "heading": "Toxicidad",
+        "text": "El aceite esencial de Ocimum basilicum es rico en estragol (1-alil-4-metoxibenceno), un carcinógeno y genotóxico natural, en ratones y ratas. En 2011 el NTP de EE. UU. realizó un estudio con alimentación forzada sobre ratas F344/N y ratones B6C3F1.​  En las condiciones de estos estudios de tres meses, el estragol mostró actividad carcinogénica basada en la aparición de dos colangiocarcinomas y un adenoma hepatocelular en el hígado de tres de 10 ratas macho F344/N en el grupo de dosis alta. En una evaluación más antigua, de septiembre de 2001, el Comité Científico de la Unión Europea emitió una opinión que recomienda reducir la exposición y restringir el uso del estragol, sin poderse establecer un límite seguro para la exposición a esta toxina de acción lenta (no hay indicios de ninguna toxicidad aguda o subaguda).​ No se ha determinado directamente la carcinogenicidad ni la teratogenicidad de Ocimum basilicum en la dieta humana. Parece razonable desaconsejarla explícitamente a las mujeres en edad fértil y embarazadas.\nPara otros usos medicinales, ver: Plantas medicinales.",
+        "truncated": false
       }
     }
   },
@@ -432,7 +516,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -572,7 +656,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/452874-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or subshrub",
@@ -580,7 +664,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/452874-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000253230.webp",
@@ -593,6 +677,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

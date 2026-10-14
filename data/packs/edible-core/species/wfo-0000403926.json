@@ -15,36 +15,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Gemüse-Ampfer"
-    ],
-    "en": [
-      "Patience Dock"
-    ],
-    "nl": [
-      "Spinaziezuring"
-    ],
-    "cs": [
-      "šťovík zahradní"
-    ],
-    "fi": [
-      "pinaattihierakka"
-    ],
-    "zh": [
-      "巴天酸模",
-      "牛西西",
-      "西藏酸模",
-      "皱叶酸模",
-      "酸模叶",
-      "牛西西叶",
-      "酸模"
-    ],
-    "sl": [
-      "trpežna kislica"
-    ],
     "bg": [
       "спанаков лапад"
     ],
@@ -63,6 +36,15 @@
     "sr": [
       "Зеље"
     ],
+    "zh": [
+      "巴天酸模",
+      "牛西西",
+      "西藏酸模",
+      "皱叶酸模",
+      "酸模叶",
+      "牛西西叶",
+      "酸模"
+    ],
     "sv": [
       "Spenatskräppa"
     ],
@@ -75,32 +57,68 @@
     "fa": [
       "ترشک شفادهنده"
     ],
+    "cs": [
+      "šťovík zahradní"
+    ],
     "et": [
       "spinatoblikas"
+    ],
+    "fi": [
+      "pinaattihierakka"
     ],
     "nb": [
       "Hagesyre"
     ],
     "arz": [
       "حماض كبير"
+    ],
+    "sl": [
+      "trpežna kislica"
+    ],
+    "de": [
+      "Gemüse-Ampfer"
+    ],
+    "en": [
+      "Patience Dock"
+    ],
+    "nl": [
+      "Spinaziezuring"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164728",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164728",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rumex patientia」",
+      "source": "Wikipedia (en): Rumex patientia",
       "source_url": "https://en.wikipedia.org/wiki/Rumex_patientia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371202483,
       "text": "Rumex patientia, known as patience dock, garden patience, herb patience, or monk's rhubarb, is a herbaceous perennial flowering plant belonging to the family Polygonaceae. In spring it is often consumed as a leaf vegetable and as a filling in pies in Southern Europe, especially in Bulgaria, North Macedonia, Turkey, Bosnia and Herzegovina and Serbia. It is also used in Romania in spring broths or sarmale."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rumex patientia",
+      "source_url": "https://es.wikipedia.org/wiki/Rumex_patientia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580990,
+      "text": "Rumex patientia Trautv., más conocida como acederón, es una planta perenne de la familia de las poligonáceas parecida a la acedera, pero con hojas anchas y flores hermafroditas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rumex patientia",
+      "source_url": "https://fr.wikipedia.org/wiki/Rumex_patientia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227568150,
+      "text": "Rumex patientia, la Grande patience ou Épinard-oseille, est une espèce de plantes dicotylédones de la famille des Polygonaceae, sous-famille des Polygonoideae, originaire d'Eurasie."
     }
   },
   "edible": {
@@ -112,7 +130,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -224,7 +242,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/697388-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -232,7 +250,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/697388-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000403926.webp",
@@ -245,6 +263,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

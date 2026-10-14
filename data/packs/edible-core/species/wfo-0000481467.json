@@ -13,20 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Chilghoza Pine",
-      "chilgoza pine",
-      "Gerrard's Pine",
-      "Himalayan Nut Pine"
-    ],
-    "zh": [
-      "西藏白皮松",
-      "喜马拉雅白皮松",
-      "西藏白皮松*(喜山白皮松)"
-    ],
     "pl": [
       "Sosna Gerarda"
     ],
@@ -39,6 +28,11 @@
     "ur": [
       "چلغوزہ"
     ],
+    "zh": [
+      "西藏白皮松",
+      "喜马拉雅白皮松",
+      "西藏白皮松*(喜山白皮松)"
+    ],
     "pnb": [
       "چلغوزہ"
     ],
@@ -47,24 +41,48 @@
     ],
     "ps": [
       "جلغوزه"
+    ],
+    "en": [
+      "Chilghoza Pine",
+      "chilgoza pine",
+      "Gerrard's Pine",
+      "Himalayan Nut Pine"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3285379",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3285379",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pinus gerardiana」",
+      "source": "Wikipedia (en): Pinus gerardiana",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_gerardiana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1341095468,
       "text": "Pinus gerardiana, commonly known as the chilghoza pine or neja, is a pine species native to parts of central and southern Asia, including the western Himalayas. The International Union for Conservation of Nature (IUCN) listed it as near threatened in 2011. The pine nuts are locally collected for consumption."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus gerardiana",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_gerardiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175222376,
+      "text": "Pinus gerardiana es una especie de pino nativa del noroeste del Himalaya. Existen poblaciones al este de Afganistán y Pakistán, así como al noroeste de la India, en altitudes que oscilan entre los 1800 y los 3350 metros. Frecuentemente se presenta en bosques mixtos, asociado a otras especies como el Pinus wallichiana y el Cedrus deodara."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus gerardiana",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_gerardiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63761286,
+      "text": "Pinus gerardiana é uma espécie de pinheiro originária do Velho Mundo, mais precisamente da região da Ásia."
     }
   },
   "edible": {
@@ -76,7 +94,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -89,7 +107,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262962-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -97,7 +115,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262962-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000481467.webp",
@@ -110,6 +128,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

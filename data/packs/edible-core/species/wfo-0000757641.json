@@ -20,37 +20,23 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ニラ"
     ],
-    "en": [
-      "Chinese chives",
-      "leek"
+    "fr": [
+      "Ciboule de Chine"
     ],
-    "zh": [
-      "韭菜",
-      "韭子",
-      "韭菜子",
-      "薤白",
-      "韭",
-      "韭（韭菜）",
-      "韭菜苔",
-      "韭根"
-    ],
-    "nl": [
-      "Chinese bieslook"
+    "id": [
+      "Kucai"
     ],
     "nan": [
       "Kú-chhài"
     ],
     "pam": [
       "Kuse"
-    ],
-    "fr": [
-      "Ciboule de Chine"
     ],
     "ru": [
       "Лук клубневой"
@@ -67,9 +53,6 @@
     "fi": [
       "kiinansipuli"
     ],
-    "id": [
-      "Kucai"
-    ],
     "vi": [
       "Hẹ"
     ],
@@ -78,6 +61,19 @@
     ],
     "sv": [
       "Kinesisk gräslök"
+    ],
+    "nl": [
+      "Chinese bieslook"
+    ],
+    "zh": [
+      "韭菜",
+      "韭子",
+      "韭菜子",
+      "薤白",
+      "韭",
+      "韭（韭菜）",
+      "韭菜苔",
+      "韭根"
     ],
     "ca": [
       "cibulet de la Xina"
@@ -138,13 +134,17 @@
     ],
     "gor": [
       "Kucai"
+    ],
+    "en": [
+      "Chinese chives",
+      "leek"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q42285",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q42285",
   "search_names": {
@@ -164,46 +164,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ニラ」",
+      "source": "Wikipedia (ja): ニラ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109711385,
       "text": "ニラ は、ヒガンバナ科、ネギ属に属する多年草。中国原産で欧米では栽培されておらず東洋を代表する野菜である。五葷・五辛の1つ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Allium tuberosum」",
+      "source": "Wikipedia (en): Allium tuberosum",
       "source_url": "https://en.wikipedia.org/wiki/Allium_tuberosum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375678687,
       "text": "Allium tuberosum is a species of plant native to the Chinese province of Shanxi, and cultivated and naturalized elsewhere in Asia and around the world. It has a number of uses in Asian cuisine."
+    },
+    "es": {
+      "source": "Wikipedia (es): Allium tuberosum",
+      "source_url": "https://es.wikipedia.org/wiki/Allium_tuberosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174381314,
+      "text": "Allium tuberosum es una verdura relacionada con la cebolla. Se cultiva y se utiliza como un sustituto para el ajo y la cebolla en la cocina y se conoce como \"Maroi nakupi\". A veces también se la llama “Nirá verde hierba”, donde “Nirá” es la romanización de la palabra japonesa “韮”, que significa cebollino ajo. En Filipinas se llama cuchay. La planta tiene un hábito de crecimiento distintivo con hojas en forma de cintas, a diferencia de cualquiera cebolla o ajo y finos tallos de floración blancos y rectos que son mucho más altos que las hojas. El sabor es más como el ajo cebollino. Crece en lenta expansión de matas perennes, y también brota fácilmente a partir de semillas. En zonas más cálidas, las cebolletas de ajo pueden permanecer verdes todo el año. En climas fríos, las hojas y los tallos se mueren completamente, y vuelve a brotar de sus raíces o rizomas en la primavera."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ciboule de Chine",
+      "source_url": "https://fr.wikipedia.org/wiki/Ciboule_de_Chine",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239898156,
+      "text": "Allium tuberosum, la Ciboule de Chine ou Ciboulette chinoise, est une espèce de plantes à fleurs de la famille des Amaryllidacées. C'est une plante herbacée cultivée pour ses feuilles utilisées comme fines herbes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Allium tuberosum",
+      "source_url": "https://pt.wikipedia.org/wiki/Allium_tuberosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71428966,
+      "text": "Cebolinho-chinês ou nirá, do japonês ニラ ou 韮 é uma planta herbácea pertencente ao género Allium, ao qual pertencem também, por exemplo, o alho e a cebola. É cultivada pelo homem, sendo as suas folhas uso culinário, sobretudo na Ásia, continente de onde é originária."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kucai",
+      "source_url": "https://id.wikipedia.org/wiki/Kucai",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28548269,
+      "text": "Kucai, atau bawang kucai serta daun kucai, dikenal sebagai sayuran daun. Kucai jarang dipakai dalam menu masakan Indonesia. Nama kucai berasal dari Bahasa Hokkian, \"Kú-chhài\". Penggunaannya umum dalam masakan Tionghoa, seperti bubur ayam. Pada budaya boga Tiongkok dan Jepang, kucai merupakan bahan campuran isi Jiaozi (Gyōza)."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ニラ」の節「栽培」",
+        "source": "Wikipedia (ja): ニラ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A9#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 109711385,
         "heading": "栽培",
         "text": "ニラは一度植えたら繰り返し収穫でき、数年栽培できる野菜である。強健で育てやすく、刈り取った後からすぐに新葉は伸び、春から夏の生育がよい4 - 9月ごろが葉の収穫期とされ、冬は休眠させるようにする。栽培に適した土壌酸度は pH 6.0 - 6.5で、栽培適温は15 - 23度、発芽適温は15 - 25度とされている。冷涼な気候を好み、休眠状態で越冬するので、耐寒性は極めて強い。栽培期間は長いので、栽培場所は条件のよい場所を選ぶことと、元肥として良質な堆肥を十分施してから苗を植える。種から育てることはできるが、初期の生育は遅く、初収穫までには半年以上かかる。種まきから1年目は収穫せずに、2年目、3年目に収穫するとよい。4 - 5年ほど繰り返し収穫も可能で、葉は1年間で4 - 5回ほど収穫することができる。一般家庭ならば、プランターを使ってニラ栽培も可能であるが、根が混み合って生育が悪くなりやすい。2年目から収穫量が増えるが、3 - 4年育てると根が混み合って葉は細くなって品質が劣ってくる。そのため、2月下旬 - 3月上旬の休眠期に掘り上げて、茎が3 - 4本つくように株元を分割して植え直すと、さらにまた収穫できるようになる。輪作年限は2年とされる。\n苗をつくる場合、畝をつくった畑に堆肥や肥料を入れて耕し、溝をつくって種を筋まきして薄く覆土する。途中、2 - 3回間引きしながら、草丈が20 - 25センチメートル (cm) になるまで育て、定植直前に根を切らないように苗を掘りとる。無病で2本に分蘖した勢いのある良苗を選んで定植する。ネギ類の連作を避け、ニラは多湿を嫌うため、石灰と堆肥、肥料などをすき込んだ水はけのよい土地に植えられる。\n苗の植え付けは春（5 - 6月）に行い、畑に植え溝を掘って株間を15 cmほどあけて、1箇所に苗2 - 4本ずつまとめて深めに定植する。植え付けした年は、収穫も追肥も行わずに、土寄せだけを行って株を大きく育てる。2年目以降、春から夏の生長期間は肥料切れを起こさないように、2週間から1か月に1回ほど追肥も行うこともある。追肥によって一度葉を勢いよく伸ばしたあと捨て刈りし、再び出てきた葉を収穫すると品質のよいものが得られる。春から初夏は、草丈25 - 30 cmになったところで葉を収穫できるようになる。収穫の目安は、地際から5 cmほど残して鎌などで刈り取るようにすると、収穫2 - 3週間後には、再び葉は伸びてくる。初秋までのあいだは繰り返し収穫できるが、夏に花茎を伸ばして蕾が出てくると葉が固くなるため、花茎を蕾のうちに早めに摘み取って株の疲れを防止するようにし、夏場の収穫は控えられる。折り取った花茎は花ニラとして食べることができる。株の勢いが弱まってきたら、古い葉や薹立ちした花茎を地上4 - 5 cmのところで刈り捨て、揃いのよい新芽を出させる。刈り取って収穫したあと、少量追肥して中耕し、勢いのよい芽を萌芽させると、2 - 3年繰り返し栽培できる。冬になると寒さで地上部が枯れたら枯れ葉を切り取り、翌春の葉の収穫を控えて、株の周辺に堆肥をまいて地下部を充実させるようにする。\n分蘖により株が大きくなって根元が混み合って、株自体が疲れてきたら株分けの時期で、株の更新を行う。3年目の4月、または9月が株分け時期の目安になる。できるだけ根を切らないように、株を根ごと掘り上げて、株元を割るように茎を2 - 3芽ずつに分けて、新しい場所に植え直して1年目の苗の植え付けと同要領にて育てていく。\n花ニラを収穫する場合は、1年目は薹立ち部分を刈り捨てて、株に勢いをつけてから翌年に収穫する。2年目からは、花茎が伸びてつぼみが膨らみかけたころに、花茎のやわかい部分から手で折り取って収穫する。取り遅れると、花茎がかたくなって、著しく品質が低下する。花茎を1年間で5 - 6回取り続けると、株が疲れてくるので、新しい株を育てておいて更新するのがよい。\n病虫害として、アブラムシやアザミウマがついたり、さび病にかかる場合がある。\n第二次世界大戦中、東京都は各家庭でカボチャをはじめとした野菜の栽培を奨励した。この際、ニラは日陰で栽培できる作物として、今まで使っていない土地でも栽培するするよう奨励した。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Allium tuberosum」の節「Cultivation」",
+        "source": "Wikipedia (en): Allium tuberosum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Allium_tuberosum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375678687,
         "heading": "Cultivation",
         "text": "Often grown as an ornamental plant in gardens, several cultivars are available. A. tuberosum is distinctive by blooming later than most native or naturalised species of Allium. It is cold-hardy to USDA zones 4–10 (−30 to +35 °F; −34 to 2 °C). Garlic chives are regarded as easy to grow in many conditions and may spread readily by seeds or can be intentionally propagated by dividing their clumps.\nA number of varieties have been developed for either improved leaf (e.g. 'Shiva') or flower stem (e.g. 'Nien Hua') production. While the emphasis in Asia has been primarily culinary, in North America, the interest has been more as an ornamental. 'Monstrosum' is a giant ornamental cultivar.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Ciboule de Chine § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Ciboule_de_Chine#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239898156,
+        "heading": "Culture",
+        "text": "La multiplication se fait par semis, soit à l'automne en pépinière, soit au début du printemps sous châssis. Les plants sont ensuite repiqués en place au stade six feuilles. On peut aussi procéder par division de touffes au printemps ou en automne. La récolte peut intervenir quelques mois après la plantation. Les feuilles de ciboule de Chine supportent bien la congélation.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Allium tuberosum § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Allium_tuberosum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71428966,
+        "heading": "Cultivo",
+        "text": "A multiplicação desta planta é feita através de semeadura, quer no outono, quer no início da primavera. A colheita acontece norlmalmente alguns meses após a plantação.\nAs folhas de cebolinho chinês suportam bem a congelação.",
         "truncated": false
       }
     }
@@ -219,7 +277,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -264,7 +322,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/529062-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -272,7 +330,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/529062-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000757641.webp",
@@ -285,6 +343,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

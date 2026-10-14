@@ -14,117 +14,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Common Alder",
-      "Black Alder",
-      "European Alder"
-    ],
-    "de": [
-      "Schwarz-Erle",
-      "Schwarz Erle",
-      "Schwarzerle"
-    ],
-    "ar": [
-      "نغت دبق"
-    ],
-    "az": [
-      "Adi qızılağac"
-    ],
-    "ba": [
-      "Ҡара ерек"
-    ],
-    "be": [
-      "Вольха чорная"
-    ],
-    "bg": [
-      "Черна елша"
-    ],
-    "bs": [
-      "Crna joha"
-    ],
-    "ca": [
-      "Vern"
-    ],
-    "co": [
-      "Alzu"
-    ],
-    "cs": [
-      "olše lepkavá"
-    ],
-    "da": [
-      "Rød-El"
-    ],
-    "eo": [
-      "Nigra alno"
-    ],
-    "es": [
-      "Aliso común"
-    ],
-    "et": [
-      "Sanglepp"
-    ],
-    "fr": [
-      "Aulne glutineux"
-    ],
-    "gl": [
-      "Amieiro",
-      "Abeneiro"
-    ],
-    "hr": [
-      "Crna joha"
-    ],
-    "hu": [
-      "Enyves éger",
-      "mézgás éger"
-    ],
-    "it": [
-      "Ontano nero"
-    ],
-    "lt": [
-      "Juodalksnis"
-    ],
-    "mk": [
-      "Црна евла"
-    ],
-    "nl": [
-      "Zwarte Els"
-    ],
-    "pl": [
-      "Olsza czarna"
-    ],
     "pt": [
       "Amieiro"
     ],
-    "ru": [
-      "Ольха чёрная"
-    ],
-    "sl": [
-      "črna jelša"
-    ],
-    "sv": [
-      "Klibbal"
-    ],
-    "tr": [
-      "Adi kızılağaç"
-    ],
-    "uk": [
-      "Вільха чорна"
+    "id": [
+      "Mahau hitam"
     ],
     "vec": [
-      "Ònaro nero",
-      "Onaro moro"
+      "Onaro moro",
+      "Ònaro nero"
     ],
-    "fi": [
-      "tervaleppä"
-    ],
-    "zh": [
-      "欧洲桤木"
-    ],
-    "ast": [
-      "umeru"
+    "pl": [
+      "olsza czarna"
     ],
     "eu": [
       "Haltz beltz"
@@ -132,8 +36,30 @@
     "udm": [
       "Сьӧд лулпу"
     ],
+    "bs": [
+      "Crna joha"
+    ],
+    "be": [
+      "Вольха чорная"
+    ],
+    "hu": [
+      "mézgás éger",
+      "Enyves éger"
+    ],
     "lv": [
       "Melnalksnis"
+    ],
+    "gl": [
+      "Abeneiro",
+      "Amieiro"
+    ],
+    "et": [
+      "sanglepp"
+    ],
+    "de": [
+      "Schwarz-Erle",
+      "Schwarz Erle",
+      "Schwarzerle"
     ],
     "sh": [
       "Crna joha"
@@ -141,17 +67,56 @@
     "koi": [
       "Сьӧд ловпу"
     ],
+    "ba": [
+      "Ҡара ерек"
+    ],
     "hsb": [
       "Łučna wólša"
+    ],
+    "nl": [
+      "zwarte els"
+    ],
+    "sv": [
+      "klibbal"
+    ],
+    "ar": [
+      "نغت دبق"
+    ],
+    "eo": [
+      "Nigra alno"
     ],
     "sk": [
       "jelša lepkavá"
     ],
+    "ru": [
+      "Ольха чёрная"
+    ],
+    "tr": [
+      "Adi kızılağaç"
+    ],
     "ro": [
       "Arin"
     ],
+    "ca": [
+      "vern"
+    ],
+    "fi": [
+      "tervaleppä"
+    ],
+    "uk": [
+      "Вільха чорна"
+    ],
+    "co": [
+      "Alzu"
+    ],
+    "sl": [
+      "črna jelša"
+    ],
     "nn": [
       "svartor"
+    ],
+    "cs": [
+      "olše lepkavá"
     ],
     "sgs": [
       "Joudasā alksnis"
@@ -159,8 +124,23 @@
     "io": [
       "Frangulo"
     ],
+    "bg": [
+      "черна елша"
+    ],
+    "az": [
+      "Adi qızılağac"
+    ],
+    "hr": [
+      "Crna joha"
+    ],
+    "lt": [
+      "Juodalksnis"
+    ],
     "csb": [
       "Czôrnô òlszô"
+    ],
+    "da": [
+      "Rød-El"
     ],
     "kk": [
       "Жабысқақ қандыағаш"
@@ -204,11 +184,17 @@
     "azb": [
       "عادی قیزیل آغاج"
     ],
+    "zh": [
+      "欧洲桤木"
+    ],
     "yue": [
       "普通赤楊"
     ],
     "vro": [
       "Must lepp"
+    ],
+    "mk": [
+      "црна евла"
     ],
     "kab": [
       "Asɣaṛsif"
@@ -239,13 +225,30 @@
     ],
     "el": [
       "Άλνος ο κολλώδης"
+    ],
+    "en": [
+      "Common Alder",
+      "Black Alder",
+      "European Alder"
+    ],
+    "es": [
+      "Aliso común"
+    ],
+    "fr": [
+      "Aulne glutineux"
+    ],
+    "it": [
+      "Ontano nero"
+    ],
+    "ast": [
+      "umeru"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q156904",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q156904",
   "search_names": {
@@ -259,23 +262,59 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Alnus glutinosa」",
+      "source": "Wikipedia (en): Alnus glutinosa",
       "source_url": "https://en.wikipedia.org/wiki/Alnus_glutinosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369151573,
       "text": "Alnus glutinosa, the common alder, black alder, European alder, European black alder, or just alder, is a species of tree in the family Betulaceae, native to most of Europe, southwest Asia and northern Africa. It thrives in wet locations where its association with the bacterium Frankia alni enables it to grow in poor quality soils. It is a medium-sized, short-lived tree growing to a height of up to 30 metres (98 feet). It has short-stalked rounded leaves and separate male and female flowers in the form of catkins. The small, rounded fruits are cone-like and the seeds are dispersed by wind and water."
+    },
+    "es": {
+      "source": "Wikipedia (es): Alnus glutinosa",
+      "source_url": "https://es.wikipedia.org/wiki/Alnus_glutinosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173858841,
+      "text": "Alnus glutinosa, el aliso común o alno; también llamado, aliso negro, alisa o aliso, es un árbol de la familia de las betuláceas extendido por Europa y el suroeste de Asia. Su hábitat natural son los lugares húmedos y bosques de ribera. Habita por ejemplo en gran parte de la península ibérica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Alnus glutinosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Alnus_glutinosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228392300,
+      "text": "L’aulne glutineux, l’aulne noir, l’aulne poisseux, est une espèce d'arbre feuillu de la famille des bétulacées, très présent dans la flore indigène de l'Europe. Il est parfois appelé vergne ou verne."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Amieiro",
+      "source_url": "https://pt.wikipedia.org/wiki/Amieiro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64607127,
+      "text": "O amieiro, nome vulgar de Alnus glutinosa, é uma árvore ripícola de médio porte, da família das betulaceae, sendo a mais frequente do género em Portugal. Na Europa distribui-se por todo o continente, noroeste de África e oeste da Ásia, em habitats paludosos e ribeirinhos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Mahau hitam",
+      "source_url": "https://id.wikipedia.org/wiki/Mahau_hitam",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30025469,
+      "text": "Mahau hitam merupakan pohon tuska yang berwarna hitam yang termasuk spesies pohon dalam famili Betulaceae. Tanaman ini merupakan tanaman endemik yang dapat ditemukan di hampir seluruh Eropa, Asia barat daya dan Afrika utara. Tanaman Ini dapat tumbuh subur di lokasi yang basah meski yang terburuk sekalipun dengan bantuan bakteri Frankia. Tanaman ini termasuk pohon berukuran sedang yang berumur pendek. Tanaman ini dapat tumbuh hingga mencapai ketinggian 30 meter. Bentuk daunnya bulat pendek dan merambat. Struktur reproduksi memisahkan antara bunga jantan dan betina dalam bentuk untai. Ukuran buahnya bulat kecil berkerucut dan penyebaran bijinya dibantu oleh angin dan air. Tanaman ini tumbuh di tempat strategis hingga mencapai ketinggian 20 meter sampai 30 meter dan yang tertinggi mencapai 37 meter. Pohon yang berusia muda hanya menumbuhkan batang utama, sedangkan pohon yang berusia tua menghasilkan mahkota melengkung dengan cabang yang bengkok. Pangkal batang berupa akar adventif yang tumbuh masuk ke tanah dan menopang batang atas. Kulit pohon yang masih muda terasa halus, terlihat mengilap dan berwarna kehijauan sementara pohon yang berusia tua memiliki warna abu-abu gelap dan retak-retak. Cabang-cabang rantingnya halus dan terasa lengket dengan sebaran dengan kutil resin. Tunas yang tumbuh berrwarna cokelat keunguan dan bertangkai pendek. Alat reproduksi jantan dan betina terbentuk di musim gugur dan berhibernasi selama musim dingin."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Alnus glutinosa」の節「Toxicity」",
+        "source": "Wikipedia (en): Alnus glutinosa § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Alnus_glutinosa#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1379114226,
         "heading": "Toxicity",
         "text": "Pollen from the common alder, along with that from birch and hazel, is one of the many sources of tree pollen allergy. As pollen is often present in the atmosphere at the same time as that of hazel, hornbeam and oak, and they have similar physicochemical properties, it is difficult to separate out their individual effects. In central Europe, these tree pollens are the second most common cause of allergic conditions after grass pollen.",
@@ -295,7 +334,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -378,7 +417,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30036759-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -386,7 +425,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30036759-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000945215.webp",
@@ -399,6 +438,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

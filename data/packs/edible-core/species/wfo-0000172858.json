@@ -8,12 +8,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "barwood"
-    ],
     "nl": [
       "Afrikaans padoek"
     ],
@@ -28,13 +25,16 @@
     ],
     "el": [
       "Παντούκ"
+    ],
+    "en": [
+      "barwood"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2312121",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2312121",
   "search_names": {
@@ -45,13 +45,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pterocarpus soyauxii」",
+      "source": "Wikipedia (en): Pterocarpus soyauxii",
       "source_url": "https://en.wikipedia.org/wiki/Pterocarpus_soyauxii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1147871429,
       "text": "Pterocarpus soyauxii, the African padauk or African coralwood, is a species of Pterocarpus in the family Fabaceae, native to central and tropical west Africa, from Nigeria east to Congo-Kinshasa and south to Angola."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pterocarpus soyauxii",
+      "source_url": "https://es.wikipedia.org/wiki/Pterocarpus_soyauxii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173946476,
+      "text": "El palo rojo es una especie del género Pterocarpus perteneciente a la familia Fabaceae, es originaria de los trópicos del centro y oeste de África, desde Nigeria hasta Congo y sur de Angola."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pterocarpus soyauxii",
+      "source_url": "https://fr.wikipedia.org/wiki/Pterocarpus_soyauxii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240257446,
+      "text": "Pterocarpus soyauxii, le padouk d’Afrique, autrefois connu sous le nom de bois de santal, bois corail, bois rouge ou de bois de teinture rouge, barwood par les marchands anglais du 19e siècle, est une espèce de plantes à fleurs du genre Pterocarpus et de la famille des Fabacées. C’est un arbre qui pousse en Afrique tropicale et équatoriale."
     }
   },
   "edible": {
@@ -67,7 +85,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -84,7 +102,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/516581-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -92,7 +110,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/516581-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000172858.webp",
@@ -105,6 +123,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

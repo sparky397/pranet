@@ -17,14 +17,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "kadam"
-    ],
-    "zh": [
-      "团花"
+    "id": [
+      "Jabon"
     ],
     "hi": [
       "कदंब वृक्ष"
@@ -40,9 +37,6 @@
     ],
     "ta": [
       "கடம்பு மரம்"
-    ],
-    "id": [
-      "Jabon"
     ],
     "bn": [
       "কদম"
@@ -64,6 +58,9 @@
     ],
     "gu": [
       "કદંબ"
+    ],
+    "zh": [
+      "团花"
     ],
     "as": [
       "কদম"
@@ -94,13 +91,16 @@
     ],
     "shn": [
       "တူၼ်ႈမႆႉၵႃယွင်း"
+    ],
+    "en": [
+      "kadam"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q573791",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q573791",
   "search_names": {
@@ -119,13 +119,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Neolamarckia cadamba」",
+      "source": "Wikipedia (en): Neolamarckia cadamba",
       "source_url": "https://en.wikipedia.org/wiki/Neolamarckia_cadamba",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377907654,
       "text": "Neolamarckia cadamba, with English common names burflower-tree, laran, and Leichhardt pine, and called kadamba or kadam or cadamba locally, is an evergreen, tropical tree native to South and Southeast Asia. The genus name honours French naturalist Jean-Baptiste Lamarck. It has scented orange flowers in dense globe-shaped clusters. The flowers are used in perfumes. The tree is grown as an ornamental plant and for timber and paper-making. Kadamba features in Indian religions."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Neolamarckia cadamba",
+      "source_url": "https://pt.wikipedia.org/wiki/Neolamarckia_cadamba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70387590,
+      "text": "Neolamarckia cadamba, também chamada localmente de cadamba, kadam ou kadamba, é uma árvore perenifólia tropical nativa da Ásia Meridional e do Sudeste Asiático. O nome do gênero homenageia o naturalista francês Jean-Baptiste Lamarck."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jabon",
+      "source_url": "https://id.wikipedia.org/wiki/Jabon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29426157,
+      "text": "Jabon adalah sebuah pohon yang tumbuh di wilayah Asia. Pohon ini terdapat di wilayah Asia Selatan hingga Papua Nugini. Di Indonesia, pohon ini juga dikenal sebagai jabun, kelampayan, empayang, atau worotua."
     }
   },
   "edible": {
@@ -140,7 +158,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -174,7 +192,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/914296-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -182,7 +200,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/914296-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000250146.webp",
@@ -195,6 +213,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

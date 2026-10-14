@@ -29,24 +29,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ハメリア・パテンス"
-    ],
-    "en": [
-      "scarletbush"
-    ],
-    "zh": [
-      "长隔木",
-      "希美莉"
     ],
     "th": [
       "ประทัดไต้หวัน"
     ],
     "lt": [
       "Paprastasis sartūklas"
+    ],
+    "zh": [
+      "希美莉",
+      "长隔木"
     ],
     "yue": [
       "希美麗"
@@ -59,33 +56,54 @@
     ],
     "gn": [
       "Ponasi"
+    ],
+    "en": [
+      "scarletbush"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4919655",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4919655",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ハメリア・パテンス」",
+      "source": "Wikipedia (ja): ハメリア・パテンス",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%A1%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%91%E3%83%86%E3%83%B3%E3%82%B9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 105158650,
       "text": "ハメリア・パテンス はアカネ科ハメリア属の常緑低木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Hamelia patens」",
+      "source": "Wikipedia (en): Hamelia patens",
       "source_url": "https://en.wikipedia.org/wiki/Hamelia_patens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373350597,
       "text": "Hamelia patens is a large evergreen perennial shrub or small tree in the family\tRubiaceae, that is native to the American subtropics and tropics. Its range extends from Florida in the southern United States to as far south as Argentina. Common names include firebush, hummingbird bush, scarlet bush, and redhead. In Belize, this plant's Mayan name is Ix Canaan and is also known as \"Guardian of the Forest\"."
+    },
+    "es": {
+      "source": "Wikipedia (es): Hamelia patens",
+      "source_url": "https://es.wikipedia.org/wiki/Hamelia_patens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 162774092,
+      "text": "Hamelia patens es una especie de arbusto grande, perenne, de América subtropical y tropical de la familia de las rubiáceas. Se encuentra desde Florida en el sur de Estados Unidos a Argentina. Tiene flores tubulares anaranjadas rojas, agradables para colibríes y mariposas para polinizar."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Hamelia patens",
+      "source_url": "https://fr.wikipedia.org/wiki/Hamelia_patens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233474863,
+      "text": "Hamelia patens est une espèce d'arbrisseaux de la famille des Rubiacées originaire d'Amérique, atteignant généralement 1 à 4 m de hauteur. Les feuilles sont opposées ou verticillées, ovales à elliptiques. Les fleurs, tubulaires et rouge-orangé, sont regroupées en cymes terminales. Les fruits sont des baies charnues rouge foncé à noires à maturité."
     }
   },
   "edible": {
@@ -100,7 +118,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -152,7 +170,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/752194-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -160,7 +178,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/752194-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000979110.webp",
@@ -173,6 +191,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

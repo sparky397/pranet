@@ -10,9 +10,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "pt": [
+      "Bacupari"
+    ],
     "zh": [
       "巴庫巴力"
     ],
@@ -27,18 +30,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15391908",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15391908",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Garcinia brasiliensis」",
+      "source": "Wikipedia (en): Garcinia brasiliensis",
       "source_url": "https://en.wikipedia.org/wiki/Garcinia_brasiliensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1349847972,
       "text": "Garcinia brasiliensis is a species of plant in the mangosteen family Clusiaceae. It is native to Espírito Santo and Rio de Janeiro states in southeastern Brazil, where it grows in lowland tropical moist forest."
+    },
+    "es": {
+      "source": "Wikipedia (es): Garcinia brasiliensis",
+      "source_url": "https://es.wikipedia.org/wiki/Garcinia_brasiliensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 148375704,
+      "text": "El bacuparí es una especie perennifolia dioica del género Garcinia. Se la encuentra por la zona de la cuenca del Amazonas en América del Sur y produce frutos con arilos comestibles."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Bacupari",
+      "source_url": "https://pt.wikipedia.org/wiki/Bacupari",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70749605,
+      "text": "Bacupari é uma árvore da família das Clusiaceae, nativa do Brasil, porém não endémica, pois também ocorre na Bolívia e no Peru, com o atual estado de conservação sendo considerado pouco preocupante dado a tendência estável das populações."
     }
   },
   "edible": {
@@ -50,7 +71,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -60,7 +81,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/427844-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -68,7 +89,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/427844-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000694180.webp",
@@ -81,6 +102,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

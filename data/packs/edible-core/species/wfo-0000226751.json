@@ -20,7 +20,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -31,37 +31,26 @@
       "broom teatree",
       "Tea tree"
     ],
-    "cy": [
-      "llwyn te"
-    ],
-    "fi": [
-      "Ruusumyrtti"
-    ],
     "fr": [
       "Manuka"
     ],
-    "mi": [
-      "Mānuka"
-    ],
-    "mk": [
-      "Манука"
-    ],
-    "zh": [
-      "松红梅",
-      "澳洲茶",
-      "松紅梅"
+    "id": [
+      "Manuka"
     ],
     "de": [
       "Südseemyrte"
-    ],
-    "id": [
-      "Manuka"
     ],
     "pl": [
       "Manuka"
     ],
     "cs": [
       "balmín metlatý"
+    ],
+    "mi": [
+      "Mānuka"
+    ],
+    "mk": [
+      "манука"
     ],
     "nl": [
       "Manuka"
@@ -75,11 +64,22 @@
     "fa": [
       "لپتسپرمم اسکپاریوم"
     ],
+    "cy": [
+      "Llwyn te"
+    ],
     "he": [
       "לפטוספרמון מכבדי"
     ],
     "nn": [
       "Manuka"
+    ],
+    "zh": [
+      "松紅梅",
+      "松红梅",
+      "澳洲茶"
+    ],
+    "fi": [
+      "ruusumyrtti"
     ],
     "sk": [
       "balmín metlatý"
@@ -98,7 +98,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1520028",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1520028",
   "search_names": {
@@ -118,35 +118,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ギョリュウバイ」",
+      "source": "Wikipedia (ja): ギョリュウバイ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%83%AA%E3%83%A5%E3%82%A6%E3%83%90%E3%82%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106359124,
       "text": "ギョリュウバイ はフトモモ科ギョリュウバイ属の常緑低木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Mānuka」",
+      "source": "Wikipedia (en): Mānuka",
       "source_url": "https://en.wikipedia.org/wiki/M%C4%81nuka",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370786526,
       "text": "Mānuka is a species of flowering plant in the myrtle family Myrtaceae, native to New Zealand and south-east Australia. Bees produce mānuka honey from its nectar."
+    },
+    "es": {
+      "source": "Wikipedia (es): Leptospermum scoparium",
+      "source_url": "https://es.wikipedia.org/wiki/Leptospermum_scoparium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 169733962,
+      "text": "Leptospermum scoparium, el manuka o árbol del té, es un arbusto o árbol bajo. Se distribuye por las costas áridas del este de la isla Norte y la isla del Sur en Nueva Zelanda, y en Tasmania, Victoria y Nueva Gales del Sur en Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Manuka",
+      "source_url": "https://fr.wikipedia.org/wiki/Manuka",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239994988,
+      "text": "Le Mānuka est une espèce de plantes à fleurs de la famille des Myrtacée. C'est un arbuste trouvé en Nouvelle-Zélande et en Australie. On le connaît parfois mieux sous son nom anglais de Tea tree."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Leptospermum scoparium",
+      "source_url": "https://pt.wikipedia.org/wiki/Leptospermum_scoparium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 61244099,
+      "text": "Leptospermum scoparium, conhecido como mānuka, manuka, árvore-chá e leptospermo, é uma espécie de arbusto ou árvore florífera nativa do sudeste da Austrália e da Nova Zelândia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Manuka",
+      "source_url": "https://id.wikipedia.org/wiki/Manuka",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28868792,
+      "text": "Manuka adalah sebuah semak atau pohon kecil asli Selandia Baru dan Australia tenggara. Bukti menunjukkan bahwa L. scoparium berasal dari Australia sebelum terjadinya kekeringan Miosen, yang akhirnya menyebar dari timur Australia ke Selandia Baru."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Mānuka」の節「Cultivation」",
+        "source": "Wikipedia (en): Mānuka § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/M%C4%81nuka#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1370786526,
         "heading": "Cultivation",
         "text": "Numerous cultivars have been developed for garden use, of which the following have gained the Royal Horticultural Society's Award of Garden Merit: \n\n(Nanum Group) 'Kiwi'\n'Nichollsii Nanum'\n'Red Damask'\n'Silver Sheen'\nMany more cultivars are available in New Zealand but often the plant performs better in cultivation overseas. This is because in its homeland it is subject to attack by scale insects that secrete a honeydew on which grows a sooty mould that eventually debilitates the plant. Because of this, attempts have been made, with limited commercial success, to cross the showy New Zealand cultivars with mould-resistant Australian Leptospermum species.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Leptospermum scoparium § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Leptospermum_scoparium#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 61244099,
+        "heading": "Cultivo",
+        "text": "Introduzido para cultivação na Inglaterra por Sir Joseph Banks em 1771, depois de uma viagem de três anos com o Capitão James Cook ao Pacífico Sul, tem se espalhado desde então para cultivo em jardins e parques ao redor do mundo.\nDeve ser cultivado sob sol pleno, em solo rico e bem drenado. Aguenta poda e geada. Não tolera o calor tropical.\nÉ frequentemente cultivada como base para mel e para usos farmacológicos. O mel de manuka é o de maior preço do mundo dada a dificuldade da sua produção e a exclusividade da planta na Oceania.",
         "truncated": false
       }
     }
@@ -162,7 +209,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -182,7 +229,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/597505-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -190,7 +237,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/597505-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000226751.webp",
@@ -203,6 +250,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

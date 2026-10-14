@@ -10,19 +10,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アフリカフウチョウソウ"
     ],
-    "en": [
-      "fringed spiderflower"
+    "id": [
+      "Maman lanang"
     ],
     "zh": [
+      "皱子白花菜",
       "平伏莖白花菜",
       "成功白花菜",
-      "皱子白花菜",
       "皱子鸟足菜"
     ],
     "vi": [
@@ -40,9 +40,6 @@
     "bn": [
       "নীল হুড়হুড়ে"
     ],
-    "id": [
-      "Maman lanang"
-    ],
     "mad": [
       "Bhubbhuwân"
     ],
@@ -51,13 +48,16 @@
     ],
     "gor": [
       "Maman Lanang"
+    ],
+    "en": [
+      "fringed spiderflower"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2978919",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2978919",
   "search_names": {
@@ -68,22 +68,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アフリカフウチョウソウ」",
+      "source": "Wikipedia (ja): アフリカフウチョウソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%83%95%E3%82%A6%E3%83%81%E3%83%A7%E3%82%A6%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110192435,
       "text": "アフリカフウチョウソウ は、フウチョウソウ科フウチョウソウ属の一年生草本。帰化植物。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cleome rutidosperma」",
+      "source": "Wikipedia (en): Cleome rutidosperma",
       "source_url": "https://en.wikipedia.org/wiki/Cleome_rutidosperma",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1316413204,
       "text": "Cleome rutidosperma, commonly known as fringed spider flower or purple cleome, is a species of flowering plant in the genus Cleome of the family Cleomaceae, native to tropical Africa. This species is an invasive weed throughout most lowland wet tropical areas of Asia and Australia. It is a very common weed of lawns."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cleome rutidosperma",
+      "source_url": "https://fr.wikipedia.org/wiki/Cleome_rutidosperma",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 203974234,
+      "text": "Cleome rutidosperma est une espèce de plante annuelle de la famille des Capparaceae selon la classification classique et des Cleomaceae selon la classification phylogénétique."
+    },
+    "id": {
+      "source": "Wikipedia (id): Maman lanang",
+      "source_url": "https://id.wikipedia.org/wiki/Maman_lanang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29215337,
+      "text": "Maman lanang adalah tumbuhan gulma yang termasuk dalam salah satu anggota famili cleomaceae.\nTumbuhan ini secara lokal dikenal dengan nama maman lanang, maman ungu atau maman lelaki.\nGulma maman lanang termasuk salah satu gulma yang tumbuh di perkebunan kelapa sawit dan perkebunan lainnya. Keberadaan gulma di perkebunan dapat mengakibatkan penurunan produksi panen."
     }
   },
   "edible": {
@@ -96,7 +114,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -175,7 +193,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/147293-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -183,7 +201,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/147293-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000611568.webp",
@@ -196,6 +214,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

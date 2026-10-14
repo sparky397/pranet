@@ -14,78 +14,62 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "et": [
+      "kuldristik"
+    ],
     "de": [
       "Gold-Klee",
       "Goldklee"
     ],
-    "en": [
-      "golden clover",
-      "hop clover",
-      "large hop clover",
-      "large hop trefoil"
+    "lt": [
+      "Dirvoninis dobilas"
     ],
-    "ar": [
-      "نفل ذهبي"
-    ],
-    "cs": [
-      "jetel zlatý"
-    ],
-    "cy": [
-      "Meillionen hopysaidd fawr"
-    ],
-    "es": [
-      "trébol de prado",
-      "trébol del prado"
-    ],
-    "et": [
-      "Kuldristik"
+    "fi": [
+      "kelta-apila"
     ],
     "hsb": [
       "Złoty dźećel"
     ],
-    "lt": [
-      "Dirvoninis dobilas"
-    ],
-    "nb": [
-      "Gullkløver"
-    ],
     "nl": [
       "Akkerklaver"
-    ],
-    "ru": [
-      "Хмелёк"
-    ],
-    "sk": [
-      "ďatelinka zlatožltá"
     ],
     "sv": [
       "Gullklöver",
       "Humleklöver",
       "Jordhumle"
     ],
-    "tr": [
-      "Altuni üçgül"
+    "ar": [
+      "نفل ذهبي"
     ],
     "zh": [
       "黄车轴草"
     ],
-    "fi": [
-      "kelta-apila"
+    "nb": [
+      "Gullkløver"
     ],
-    "sl": [
-      "zlata detelja"
+    "ru": [
+      "Хмелёк"
+    ],
+    "cy": [
+      "Meillionen hopysaidd fawr"
     ],
     "bg": [
       "златиста детелина"
+    ],
+    "sk": [
+      "ďatelinka zlatožltá"
     ],
     "fa": [
       "شبدر نارنجی"
     ],
     "uk": [
       "конюшина золотиста"
+    ],
+    "cs": [
+      "jetel zlatý"
     ],
     "pl": [
       "Koniczyna złocistożółta"
@@ -108,26 +92,60 @@
     "lv": [
       "Zeltainais āboliņš"
     ],
+    "sl": [
+      "zlata detelja"
+    ],
     "mk": [
       "златна детелина"
+    ],
+    "en": [
+      "golden clover",
+      "hop clover",
+      "large hop clover",
+      "large hop trefoil"
+    ],
+    "es": [
+      "trébol de prado",
+      "trébol del prado"
+    ],
+    "tr": [
+      "Altuni üçgül"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158941",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158941",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Trifolium aureum」",
+      "source": "Wikipedia (en): Trifolium aureum",
       "source_url": "https://en.wikipedia.org/wiki/Trifolium_aureum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1347415815,
       "text": "Trifolium aureum, known by the various common names large hop trefoil, large trefoil, large hop clover, golden clover or hop clover, is a species of flowering plant native to much of Eurasia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Trifolium aureum",
+      "source_url": "https://es.wikipedia.org/wiki/Trifolium_aureum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 150447784,
+      "text": "Trifolium aureum es una especie de plantas de la familia de las fabáceas. Es originaria de Eurasia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Trifolium aureum",
+      "source_url": "https://fr.wikipedia.org/wiki/Trifolium_aureum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238588206,
+      "text": "Trifolium aureum, le Trèfle doré, est une espèce de plantes à fleurs dicotylédones de la famille des Fabacées, originaire d'une grande partie de l'Eurasie."
     }
   },
   "edible": {
@@ -140,7 +158,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -244,7 +262,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/522892-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -252,7 +270,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/522892-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000213947.webp",
@@ -265,6 +283,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 344,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -24,21 +24,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ボウフウ"
     ],
+    "vi": [
+      "Phòng phong"
+    ],
     "zh": [
+      "防風",
       "防风",
       "防风叶",
       "防风花",
-      "防风草",
-      "防風"
-    ],
-    "vi": [
-      "Phòng phong"
+      "防风草"
     ],
     "nl": [
       "Chinese parsnip root"
@@ -54,7 +54,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5100860",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5100860",
   "search_names": {
@@ -67,13 +67,22 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ボウフウ」",
+      "source": "Wikipedia (ja): ボウフウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%A6%E3%83%95%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106375713,
       "text": "ボウフウ とはセリ科の草本の一種。"
+    },
+    "es": {
+      "source": "Wikipedia (es): Saposhnikovia divaricata",
+      "source_url": "https://es.wikipedia.org/wiki/Saposhnikovia_divaricata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 133497822,
+      "text": "Saposhnikovia es un género monotípico de planta herbácea perteneciente a la familia Apiaceae. Su única especie es: Saposhnikovia divaricata."
     }
   },
   "edible": {
@@ -85,7 +94,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -104,7 +113,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/847902-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -112,7 +121,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/847902-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000435280.webp",
@@ -125,6 +134,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 278,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

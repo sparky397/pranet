@@ -37,50 +37,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ダンチク"
     ],
-    "en": [
-      "Giant Reed"
-    ],
-    "af": [
-      "Spaanse-riet"
-    ],
-    "fi": [
-      "Jättiruoko"
-    ],
-    "tr": [
-      "Kargı"
-    ],
-    "vi": [
-      "Lau",
-      "sậy núi"
-    ],
-    "zh": [
-      "芦竹",
-      "蘆荻",
-      "蘆竹",
-      "芦竹笋",
-      "芦竹根",
-      "芦竹沥"
-    ],
-    "fr": [
-      "Canne de Provence"
-    ],
-    "cs": [
-      "tresť obecná",
-      "trsť rákosovitá"
-    ],
-    "de": [
-      "Pfahlrohr"
-    ],
-    "ca": [
-      "canya",
-      "canya americana",
-      "canya de sant Joan"
+    "pt": [
+      "Cana-do-reino"
     ],
     "eu": [
       "Kanabera"
@@ -90,6 +54,9 @@
     ],
     "gl": [
       "cana"
+    ],
+    "de": [
+      "Pfahlrohr"
     ],
     "ml": [
       "ഈറ"
@@ -118,11 +85,23 @@
     "hi": [
       "नरकट"
     ],
-    "pt": [
-      "Cana-do-reino"
+    "tr": [
+      "Kargı"
+    ],
+    "ca": [
+      "canya de sant Joan",
+      "canya",
+      "canya americana"
+    ],
+    "fi": [
+      "jättiruoko"
     ],
     "sl": [
       "navadna kanela"
+    ],
+    "cs": [
+      "trsť rákosovitá",
+      "tresť obecná"
     ],
     "te": [
       "కాకివెదురు"
@@ -132,6 +111,14 @@
     ],
     "ru": [
       "Арундо тростниковый"
+    ],
+    "zh": [
+      "蘆荻",
+      "芦竹",
+      "蘆竹",
+      "芦竹笋",
+      "芦竹根",
+      "芦竹沥"
     ],
     "nb": [
       "Kjemperør"
@@ -174,13 +161,26 @@
     ],
     "ko": [
       "물대"
+    ],
+    "en": [
+      "Giant Reed"
+    ],
+    "af": [
+      "Spaanse-riet"
+    ],
+    "vi": [
+      "Lau",
+      "sậy núi"
+    ],
+    "fr": [
+      "Canne de Provence"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161114",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161114",
   "search_names": {
@@ -198,36 +198,85 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ダンチク」",
+      "source": "Wikipedia (ja): ダンチク",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%81%E3%82%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106366741,
       "text": "ダンチク は、暖地の海岸近くに生育するイネ科の多年草。ヨシタケとも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Arundo donax」",
+      "source": "Wikipedia (en): Arundo donax",
       "source_url": "https://en.wikipedia.org/wiki/Arundo_donax",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375536307,
       "text": "Arundo donax, the giant reed, is a tall perennial reed or cane species. Other vernacular names include giant cane, Spanish cane, wild cane, and in Spanish, carrizo. The scientific name Arundo and donax are respectively the old Latin and Greek names for reed."
+    },
+    "es": {
+      "source": "Wikipedia (es): Arundo donax",
+      "source_url": "https://es.wikipedia.org/wiki/Arundo_donax",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175056393,
+      "text": "La caña común, caña de Castilla, carrizo, chin, cañavera o cañabrava, es una especie de planta herbácea perteneciente a la familia Poaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Arundo donax",
+      "source_url": "https://fr.wikipedia.org/wiki/Arundo_donax",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240144878,
+      "text": "Arundo donax est une espèce de plantes herbacées de la famille des Poaceae, sous-famille des Arundinoideae, connue en France sous le nom de canne de Provence. Son cultivar panaché la rend plus attractive et on l'utilise beaucoup pour cette raison dans les parcs et jardins."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cana-do-reino",
+      "source_url": "https://pt.wikipedia.org/wiki/Cana-do-reino",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72947263,
+      "text": "A planta popularmente conhecida como cana-do-reino, cana-vieira, canavieira, cana-comum ou cana-da-roça é uma espécie de planta com flor pertencente à família das poáceas (Poaceae). A autoridade científica da espécie é Carlos Lineu (L.), tendo sido publicada em Species Plantarum 1: 81. 1753. Cresce em solos úmidos, frescos ou moderadamente salinos, é nativa do Grande Oriente Médio. Foi amplamente plantada e naturalizada nas regiões temperadas, subtropicais e tropicais suaves de ambos os hemisférios, especialmente no Mediterrâneo, Califórnia, Pacífico Ocidental e Caribe e é considerada uma muito invasiva na América do Norte e Oceania. É considerada espécie invasora em várias regiões, inclusive Portugal. Consta em décimo lugar na lista de 100 das espécies exóticas invasoras mais daninhas do mundo."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Arundo donax」の節「Cultivation」",
+        "source": "Wikipedia (en): Arundo donax § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Arundo_donax#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375536307,
         "heading": "Cultivation",
         "text": "Establishment is a critical point of cultivation. The Stem and rhizome have a great ability to sprout after removal from mother plant and both can be used for clonal propagation. The use of rhizomes was found to be the better propagation method for this species, achieving better survival rate. In this field study, it was noticed how the lowest density (12,500 rhizomes/ha) resulted in taller and thicker plants compared to denser plantation (25,000 rhizomes/ha). Seedbed preparation is conducted in the spring, immediately before planting, by a pass with a double-disk harrowing and a pass with a field cultivator. Giant reed has the possibility of adopting low plant density. The rhizomes were planted at 10–20 centimetres (3.9–7.9 in) of soil depth, with a minimum plant density of 10,000 plants per ha), while mature stems, with two or more nodes, can be planted 10–15 centimetres (3.9–5.9 in) deep. In order to ensure good root stand and adequate contact with the soil, sufficient moisture is needed immediately after planting. Pre-plant fertiliser is distributed according to the initial soil fertility, but usually an application of P at a rate of 80–100 kilograms (180–220 lb)/ha is applied.\nA. donax maintains a high productive aptitude without irrigation under semi-arid climate conditions. In Southern Italy, a trial was carried out testing the yields performance of 39 genotypes, and an average yields of 22.1 t/ha dry matter in the second year were reached, a comparable result with others results obtained in Spain (22.5 t/ha) as well as in South Greece (19.0 t/ha). Several reports underlined that it is more economical to grow giant reed under moderate irrigation.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Arundo donax § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Arundo_donax#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240144878,
+        "heading": "Culture",
+        "text": "Même si elle supporte très bien la sécheresse une fois installée, la canne de Provence se cultive idéalement sur terrains humides et bien drainés.\nElle se multiplie par prélèvement de rhizomes au printemps ou par bouturage dans l'eau de tronçons de chaumes de 1 an (1 à 2 cm de diamètre, 3 nœuds) en utilisant la partie ou pousse des rameaux latéraux. On peut également utiliser des chaumes de l'année mais le bouturage fonctionnera moins bien.\nArundo donax est assez rustique une fois installée (jusqu'à −10 °C pour les chaumes et −15 °C pour les rhizomes) et est peu sensible aux parasites ou maladies.\nComme toutes les espèces panachées, le cultivar Versicolor (le plus utilisée en jardinage) est beaucoup moins vigoureuse que l'espèce type (la partie blanche du feuillage ne participe pas à la photosynthèse).",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Cana-do-reino § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Cana-do-reino#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72947263,
+        "heading": "Cultivo",
+        "text": "O estabelecimento é um ponto crítico do cultivo. O caule e o rizoma têm grande capacidade de brotar após a remoção da planta mãe e ambos podem ser usados para propagação clonal. O uso de rizomas mostrou ser o melhor método de propagação para esta espécie, alcançando melhor taxa de sobrevivência. A. donax mantém uma alta aptidão produtiva sem irrigação em condições de clima semiárido. No sul da Itália, um ensaio foi realizado testando o desempenho de rendimentos de 39 genótipos, e um rendimento médio de 22,1 t ha−1 de matéria seca no segundo ano foi alcançado. Para remover o junco gigante no final do ciclo da cultura, existem principalmente dois métodos: mecânico ou químico. Uma escavadeira pode ser útil para cavar os rizomas ou, alternativamente, uma única aplicação no final da estação de 3% de glifosato na massa foliar é eficiente e eficaz com menos perigo para a biota.",
+        "truncated": false
       }
     }
   },
@@ -245,7 +294,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -428,7 +477,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/390837-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or rhizomatous geophyte",
@@ -436,7 +485,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/390837-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000850932.webp",
@@ -449,6 +498,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

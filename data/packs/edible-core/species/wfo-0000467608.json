@@ -27,22 +27,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "hanging geranium",
-      "ivy geranium",
-      "Peltated Geranium",
-      "ivyleaf geranium",
-      "ivy-leaved pelargonium"
-    ],
-    "zh": [
-      "盾叶天竺葵"
-    ],
-    "af": [
-      "rankmalva"
-    ],
     "pl": [
       "Pelargonia bluszczolistna"
     ],
@@ -51,6 +38,9 @@
     ],
     "el": [
       "Πελαργόνιο"
+    ],
+    "zh": [
+      "盾叶天竺葵"
     ],
     "ar": [
       "لقلقي ترسي"
@@ -72,13 +62,23 @@
     ],
     "arz": [
       "لقلقى ترسى"
+    ],
+    "en": [
+      "hanging geranium",
+      "ivy geranium",
+      "Peltated Geranium",
+      "ivyleaf geranium",
+      "ivy-leaved pelargonium"
+    ],
+    "af": [
+      "rankmalva"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q160925",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q160925",
   "search_names": {
@@ -88,23 +88,41 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pelargonium peltatum」",
+      "source": "Wikipedia (en): Pelargonium peltatum",
       "source_url": "https://en.wikipedia.org/wiki/Pelargonium_peltatum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374849186,
       "text": "Pelargonium peltatum is a scrambling purple\nperennial plant with five shallow or deeply lobed, circular- to heart-shaped, somewhat fleshy leaves, sometimes with a differently coloured semicircular band, that has been assigned to the cranesbill family. It carries umbel-like inflorescences with 2–10, white to mauve, bilateral symmetrical flowers, each with a \"spur\" that is merged with the flower stalk. It is known by several common names including ivy-leaved pelargonium and cascading geranium. It is native to the Cape Provinces of South Africa. In its home range, it flowers year round but most vigorously from August to October."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pelargonium peltatum",
+      "source_url": "https://fr.wikipedia.org/wiki/Pelargonium_peltatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216402926,
+      "text": "Pelargonium peltatum, ou géranium-lierre, est une espèce de plante pérenne de la famille des Geraniaceae, originaire d'Afrique du Sud."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pelargonium peltatum",
+      "source_url": "https://pt.wikipedia.org/wiki/Pelargonium_peltatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71483196,
+      "text": "Pelargonium peltatum é uma espécie de planta com flor pertencente à família Geraniaceae."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Pelargonium peltatum」の節「Cultivation」",
+        "source": "Wikipedia (en): Pelargonium peltatum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Pelargonium_peltatum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374849186,
         "heading": "Cultivation",
         "text": "In 1700, Willem Adriaan van der Stel, Governor of the Cape Colony, introduced the ivy-leaved pelargonium to the Netherlands. Sir Francis Masson shipped the species to Great Britain in 1774. P. peltatum has been used to develop many garden hybrids that are called \"ivy-leaved pelargoniums\". The species and its hybrids can be very easily propagated through taking cuttings. It grows best on well drained substrates such as sandy or loamy soils, is not sensitive to soil acidity and is drought resistant, but it neither tolerates shading nor frost. The ivy-leaved pelargonium is cultivated on a large-scale for landscaping and as an ornamental plant for use in gardens and containers, as well as being used as a houseplant.",
@@ -124,7 +142,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -141,7 +159,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/376728-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -149,7 +167,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/376728-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000467608.webp",
@@ -162,6 +180,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 288,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

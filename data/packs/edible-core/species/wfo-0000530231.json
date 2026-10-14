@@ -18,39 +18,33 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Wilder Amarant",
-      "Griechischer Fuchsschwanz"
-    ],
-    "en": [
-      "Mediterranean amaranth"
-    ],
-    "nl": [
-      "Afrikaanse amarant"
-    ],
-    "cs": [
-      "laskavec úzkolistý"
-    ],
-    "fi": [
-      "kreikanrevonhäntä"
-    ],
-    "sl": [
-      "divji ščir"
-    ],
     "hsb": [
       "Grjekski šćěrjenc"
     ],
     "sv": [
       "Grekamarant"
     ],
+    "nl": [
+      "Afrikaanse amarant"
+    ],
+    "de": [
+      "Griechischer Fuchsschwanz",
+      "Wilder Amarant"
+    ],
     "cy": [
       "Blodyn amor byr-depalog"
     ],
+    "cs": [
+      "laskavec úzkolistý"
+    ],
     "et": [
       "kreeka rebashein"
+    ],
+    "fi": [
+      "kreikanrevonhäntä"
     ],
     "bm": [
       "Buraburabanin"
@@ -61,15 +55,21 @@
     "ar": [
       "قطيفة البحر الأبيض"
     ],
+    "sl": [
+      "divji ščir"
+    ],
     "fa": [
       "تاج‌خروس هرز"
+    ],
+    "en": [
+      "Mediterranean amaranth"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q162295",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q162295",
   "search_names": {
@@ -81,13 +81,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Amaranthus graecizans」",
+      "source": "Wikipedia (en): Amaranthus graecizans",
       "source_url": "https://en.wikipedia.org/wiki/Amaranthus_graecizans",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1332431144,
       "text": "Amaranthus graecizans, the Mediterranean amaranth or short-tepalled pigweed, is an annual species in the botanical family Amaranthaceae. It is native to Africa, southern Europe, East Asia to India and Central Asia. It is naturalized in North America. More general common names include tumbleweed and pigweed."
+    },
+    "es": {
+      "source": "Wikipedia (es): Amaranthus graecizans",
+      "source_url": "https://es.wikipedia.org/wiki/Amaranthus_graecizans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174419867,
+      "text": "Amaranthus graecizans es una especie herbácea perteneciente a la familia Amaranthaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Amaranthus graecizans",
+      "source_url": "https://pt.wikipedia.org/wiki/Amaranthus_graecizans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64611910,
+      "text": "Amaranthus graecizans é uma espécie de planta com flor pertencente à família Amaranthaceae."
     }
   },
   "edible": {
@@ -101,7 +119,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -220,7 +238,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/10641-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -228,7 +246,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/10641-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000530231.webp",
@@ -241,6 +259,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

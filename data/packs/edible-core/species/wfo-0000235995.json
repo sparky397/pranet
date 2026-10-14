@@ -62,51 +62,36 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "サポジラ"
     ],
-    "en": [
-      "sapodilla"
-    ],
-    "fi": [
-      "Sapotillapuu"
-    ],
     "fr": [
-      "Sapotillier"
+      "Sapotillier",
+      "sapotillier"
     ],
-    "gu": [
-      "ચીકુ"
+    "pt": [
+      "Sapotizeiro"
     ],
-    "hi": [
-      "चीकू"
-    ],
-    "mr": [
-      "चिक्कू"
-    ],
-    "pl": [
-      "pigwica właściwa"
-    ],
-    "te": [
-      "సపోట",
-      "సపోటా"
-    ],
-    "zh": [
-      "人心果"
-    ],
-    "th": [
-      "ละมุด"
-    ],
-    "vi": [
-      "hồng xiêm"
+    "id": [
+      "Sawo manila"
     ],
     "de": [
       "Breiapfelbaum"
     ],
     "ru": [
       "Саподилла"
+    ],
+    "gu": [
+      "ચીકુ"
+    ],
+    "zh": [
+      "人心果"
+    ],
+    "vi": [
+      "hồng xiêm"
     ],
     "ca": [
       "sapote"
@@ -117,17 +102,11 @@
     "lbe": [
       "Саподилла"
     ],
-    "id": [
-      "Sawo manila"
-    ],
     "koi": [
       "Саподилла"
     ],
     "nl": [
       "Sapodilla"
-    ],
-    "pt": [
-      "Sapotizeiro"
     ],
     "nah": [
       "Chictzapocuahuitl"
@@ -138,11 +117,21 @@
     "lt": [
       "Paprastasis gumenis"
     ],
+    "th": [
+      "ละมุด"
+    ],
     "bjn": [
       "Sawu"
     ],
+    "te": [
+      "సపోటా",
+      "సపోట"
+    ],
     "pam": [
       "Tsiko"
+    ],
+    "pl": [
+      "Pigwica właściwa"
     ],
     "ta": [
       "சப்போட்டா"
@@ -159,8 +148,14 @@
     "fa": [
       "چیکو"
     ],
+    "hi": [
+      "चीकू"
+    ],
     "dv": [
       "ސަބުދެލި"
+    ],
+    "fi": [
+      "sapotillapuu"
     ],
     "udm": [
       "Саподилла"
@@ -191,6 +186,9 @@
     ],
     "ms": [
       "Pokok Ciku"
+    ],
+    "mr": [
+      "चिक्कू"
     ],
     "bcl": [
       "Tsiko"
@@ -266,13 +264,16 @@
     ],
     "shn": [
       "မၢၵ်ႇလမုတ်ႉ"
+    ],
+    "en": [
+      "sapodilla"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q14959",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q14959",
   "search_names": {
@@ -288,22 +289,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「サポジラ」",
+      "source": "Wikipedia (ja): サポジラ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9D%E3%82%B8%E3%83%A9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110729246,
       "text": "サポジラ は、熱帯域に分布するアカテツ科マニルカラ属の常緑高木。別名チクル、チューインガムノキ、メキシコガキともよばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Manilkara zapota」",
+      "source": "Wikipedia (en): Manilkara zapota",
       "source_url": "https://en.wikipedia.org/wiki/Manilkara_zapota",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377298432,
       "text": "Manilkara zapota, commonly known as sapodilla, sapote, chicozapote, chico, chicoo, chicle, naseberry, nispero, or soapapple, among other names, is an evergreen tree native to southern Mexico and Central America. An example of natural occurrence is in coastal Yucatán, in the Petenes mangroves ecoregion, where it is a subdominant plant species. It was introduced to the Philippines during Spanish colonization. It is grown in large quantities in Mexico and in tropical Asia, including India, Pakistan, Thailand, Malaysia, Maldives, Cambodia, Indonesia, Vietnam, Bangladesh, as well as in the Caribbean."
+    },
+    "es": {
+      "source": "Wikipedia (es): Manilkara zapota",
+      "source_url": "https://es.wikipedia.org/wiki/Manilkara_zapota",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175652301,
+      "text": "La chicle o chicozapote es un árbol de la familia de las sapotáceas, originario de América Central y América del Sur tropical. También es conocido coloquialmente como ácana o níspero. Fue introducido en Filipinas durante la colonización española. A partir de entonces, se extendió por Asia y crece en grandes cantidades en India, Tailandia, Malasia, Camboya, Indonesia o Bangladés, lugares donde el fruto es muy popular y se conoce como chikoo. La palabra zapote es de origen náhuatl: tzapotl, nombre que se les daba a los frutos de forma esférica y semillas grandes."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sapotillier",
+      "source_url": "https://fr.wikipedia.org/wiki/Sapotillier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233314076,
+      "text": "Le sapotillier est une espèce de plantes à fleurs de la famille des Sapotaceae. C'est un arbre fruitier originaire des Caraïbes et de l'Amérique centrale qui s'est ensuite répandu en Afrique et en Asie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sapotizeiro",
+      "source_url": "https://pt.wikipedia.org/wiki/Sapotizeiro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69776714,
+      "text": "O Sapotizeiro ou sapota é uma árvore da família Sapotaceae que produz um fruto comestível chamado sapoti ou sapota. É originário da América Central, desenvolvendo-se em regiões de clima subtropical da Ásia, América e Oceania. Na Índia, existem cerca de vinte variedades."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sawo manila",
+      "source_url": "https://id.wikipedia.org/wiki/Sawo_manila",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28571233,
+      "text": "Sawo manila adalah pohon buah yang berumur panjang. Pohon dan buahnya dikenal dengan beberapa nama seperti sawo, sauh atau sauh manila, atau ciku (Mly.). Sawo manila merupakan tanaman buah yang termasuk dalam suku sawo-sawoan (Sapotaceae) yang berasal dari Amerika Tengah dan Meksiko. Tanaman sawo termasuk tumbuhan tropis yang mudah beradaptasi sehingga mudah dibudidayakan di berbagai negara termasuk di Indonesia. Sawo banyak diusahakan di lahan pekarangan dan sangat mudah dijumpai di pasaran."
     }
   },
   "edible": {
@@ -320,7 +357,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -364,7 +401,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/152641-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -372,7 +409,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/152641-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000235995.webp",
@@ -385,6 +422,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

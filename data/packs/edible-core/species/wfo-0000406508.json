@@ -24,21 +24,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ショウズク"
     ],
-    "en": [
-      "cardamom"
+    "fr": [
+      "Cardamome"
+    ],
+    "pt": [
+      "Cardamomo-verdadeiro",
+      "Cardamomo"
+    ],
+    "id": [
+      "Kapulaga seberang",
+      "kapulaga seberang"
     ],
     "zh": [
-      "绿豆蔻",
-      "小豆蔻"
-    ],
-    "sl": [
-      "kardamom"
+      "小豆蔻",
+      "绿豆蔻"
     ],
     "bo": [
       "སུག་སྨེལ།"
@@ -87,9 +92,6 @@
     ],
     "sv": [
       "kardemumma"
-    ],
-    "pt": [
-      "Cardamomo"
     ],
     "eo": [
       "Kardamomo"
@@ -163,6 +165,9 @@
     "cy": [
       "Cardamom"
     ],
+    "sl": [
+      "kardamom"
+    ],
     "cs": [
       "kardamovník obecný"
     ],
@@ -204,9 +209,6 @@
     ],
     "th": [
       "กระวาน"
-    ],
-    "id": [
-      "kapulaga seberang"
     ],
     "gu": [
       "ઇલાયચી"
@@ -276,13 +278,16 @@
     ],
     "shn": [
       "တူၼ်ႈၽႃႇလႃႇသၢင်းၽေႃး"
+    ],
+    "en": [
+      "cardamom"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q33466",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q33466",
   "search_names": {
@@ -294,22 +299,86 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ショウズク」",
+      "source": "Wikipedia (ja): ショウズク",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%BA%E3%82%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107168335,
       "text": "ショウズク は、南インド原産のショウガ科の多年生草本である。その種子がカルダモンと呼ばれる香辛料として使われることで最もよく見られる。熱帯地方で広く栽培され、レユニオン、インドシナ半島、コスタリカに帰化していると報告されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Elettaria cardamomum」",
+      "source": "Wikipedia (en): Elettaria cardamomum",
       "source_url": "https://en.wikipedia.org/wiki/Elettaria_cardamomum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378819088,
       "text": "Elettaria cardamomum, commonly known as green cardamom or true cardamom, is a herbaceous, perennial plant in the ginger family, native to southern India. It is the most common of the species whose seeds are used as a spice called cardamom that has a strong aroma used in both savory and sweet cooking. It is cultivated widely in tropical regions and reportedly naturalized in Réunion, Indochina, and Costa Rica."
+    },
+    "es": {
+      "source": "Wikipedia (es): Elettaria cardamomum",
+      "source_url": "https://es.wikipedia.org/wiki/Elettaria_cardamomum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174835347,
+      "text": "El cardamomo o grana del paraíso es una especie fanerógama perteneciente a la familia de las zingiberáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cardamome",
+      "source_url": "https://fr.wikipedia.org/wiki/Cardamome",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239471611,
+      "text": "Le ou la Cardamome est une espèce de plantes à fleurs de la famille des Zingibéracées. C'est une plante herbacée vivace à rhizome, originaire d'Asie du Sud-Est. Le fruit séché, qui se présente sous la forme d'une capsule vert gris, donne l'épice du même nom, bien que celle-ci puisse également être issue d'autres plantes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cardamomo-verdadeiro",
+      "source_url": "https://pt.wikipedia.org/wiki/Cardamomo-verdadeiro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 57164021,
+      "text": "O Cardamomo é uma planta cujo nome científico é Elettaria cardamomum. Originário da Índia, o cardamomo chegou à Europa com as rotas das caravanas e seguiu com os viquingues de Constantinopla à Escandinávia onde é popular."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kapulaga seberang",
+      "source_url": "https://id.wikipedia.org/wiki/Kapulaga_seberang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29073696,
+      "text": "Kapulaga seberang atau kapulaga sabrang adalah sejenis rempah yang penting untuk pelbagai jenis masakan di Asia dan juga banyak digunakan untuk bahan obat tradisional (jamu). Berasal dari Asia Selatan, jenis kapulaga ini diduga menyebar secara liar hingga ke wilayah Malesia."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Elettaria cardamomum § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Elettaria_cardamomum#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174835347,
+        "heading": "Toxicidad",
+        "text": "No administrar, ni aplicar tópicamente a niños menores de seis años ni a personas con alergias respiratorias o con hipersensibilidad conocida a otros aceites esenciales.  Tampoco se recomienda a pacientes con úlceras gastroduodenales, síndrome del intestino irritable, colitis ulcerosa, enfermedad de Crohn, hepatopatías, epilepsia, Parkinson u otras enfermedades neurológicas. Se recomienda abstenerse de prescribir aceites esenciales por vía interna durante el embarazo y la lactancia.",
+        "truncated": false
+      }
+    },
+    "cultivation": {
+      "id": {
+        "source": "Wikipedia (id): Kapulaga seberang § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Kapulaga_seberang#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29073696,
+        "heading": "Budidaya",
+        "text": "Semula ditemukan tumbuh alamiah di daerah Pegunungan Malabar, pantai barat India. Karena laku di pasar dunia, kapulaga sabrang kemudian banyak ditanam di Sri Lanka, Thailand, dan Guatemala. Di Indonesia diketahui telah ditanam semenjak tahun 1920-an meskipun belum bernilai komersial, dan mulai dibudidayakan secara serius sejak 1986.\nDalam perdagangan kemudian ditawarkan juga varietas lain kapulaga sabrang dari pegunungan tinggi Mysore (India) yang buah lonjongnya lebih membulat, dan lebih disukai karena lebih sedap. Berbeda dengan kapulaga Malabar yang tandan bunganya merayap, tandan bunga kapulaga Mysore tumbuh tegak. Dari Sri Lanka ditawarkan Elettaria cadamomum var. major sebagai Ceylon cardamom. Buahnya lebih lebar dan pipih daripada kapulaga Malabar, E. cardamomum var. minor. Dari Thailand, kemudian juga ditawarkan Siamese cardamom yang masih sejenis dengan kapulaga Jawa, Amomum cardamomum.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -324,7 +393,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -343,7 +412,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/796556-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -351,7 +420,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/796556-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000406508.webp",
@@ -364,6 +433,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

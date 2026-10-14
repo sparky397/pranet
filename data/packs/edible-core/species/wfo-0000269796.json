@@ -18,16 +18,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Senegal date palm"
-    ],
-    "zh": [
-      "折叶海枣",
-      "折叶刺葵"
-    ],
     "pt": [
       "Tamareira-do-senegal"
     ],
@@ -70,15 +63,22 @@
     "arz": [
       "نخله متدليه"
     ],
+    "zh": [
+      "折叶海枣",
+      "折叶刺葵"
+    ],
     "zu": [
       "Isundu elinabayo"
+    ],
+    "en": [
+      "Senegal date palm"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161241",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161241",
   "search_names": {
@@ -88,13 +88,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Phoenix reclinata」",
+      "source": "Wikipedia (en): Phoenix reclinata",
       "source_url": "https://en.wikipedia.org/wiki/Phoenix_reclinata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1350417442,
       "text": "Phoenix reclinata, the wild date palm or Senegal date palm, is a species of flowering plant in the palm family native to tropical Africa, the Arabian Peninsula and Madagascar. It is introduced in Florida, Puerto Rico, Bermuda, Trinidad and Tobago, the Leeward Islands, Tunisia and Vietnam. The plants are found from sea level to 3000 m, in rain forest clearings, monsoonal forests and rocky mountainsides."
+    },
+    "es": {
+      "source": "Wikipedia (es): Phoenix reclinata",
+      "source_url": "https://es.wikipedia.org/wiki/Phoenix_reclinata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172083697,
+      "text": "La palmera de Senegal es una especie de palmera natural de los trópicos de África, la Península arábiga, Madagascar y las Islas Comores. También se informa naturalizado en Florida, Puerto Rico, Bermudas y las Islas de Sotavento. Las plantas se encuentran desde el nivel del mar hasta los 3.000 metros, en claros de bosques húmedos, bosques monzónicos y laderas de las montañas rocosas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Phoenix reclinata",
+      "source_url": "https://fr.wikipedia.org/wiki/Phoenix_reclinata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233346995,
+      "text": "Phoenix reclinata, en français Dattier du Sénégal, est une espèce de plantes à fleurs de la famille des Arecaceae (palmiers)."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tamareira-do-senegal",
+      "source_url": "https://pt.wikipedia.org/wiki/Tamareira-do-senegal",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71741886,
+      "text": "A Tamareira-do-senegal é uma palmeira do norte da África, Madagascar e Ilhas Comores."
     }
   },
   "edible": {
@@ -113,7 +140,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -174,7 +201,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668943-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -182,7 +209,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668943-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000269796.webp",
@@ -195,6 +222,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

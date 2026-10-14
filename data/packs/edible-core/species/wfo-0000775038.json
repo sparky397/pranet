@@ -14,17 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "bn": [
-      "কুম্ভি"
-    ],
-    "zh": [
-      "榴玉蕊",
-      "古斯玉蕊",
-      "大壺果"
-    ],
     "ml": [
       "പേഴ്"
     ],
@@ -40,6 +32,9 @@
     "hi": [
       "कुंबी"
     ],
+    "bn": [
+      "কুম্ভি"
+    ],
     "or": [
       "କୁମ୍ଭି"
     ],
@@ -51,6 +46,11 @@
     ],
     "tcy": [
       "ದಡ್ಡಲ್ ಮರ"
+    ],
+    "zh": [
+      "大壺果",
+      "榴玉蕊",
+      "古斯玉蕊"
     ],
     "ta": [
       "ஆய்மா"
@@ -66,7 +66,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2718249",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2718249",
   "search_names": {
@@ -76,13 +76,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Careya arborea」",
+      "source": "Wikipedia (en): Careya arborea",
       "source_url": "https://en.wikipedia.org/wiki/Careya_arborea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1325488588,
       "text": "Careya arborea is a species of tree in the Lecythidaceae family, native to the Indian subcontinent, Afghanistan, and Indochina. Its common English names include wild guava, Ceylon oak, patana oak. Careya arborea is a deciduous tree that grows up to 15 metres (49 ft) high. Its leaves turn red in the cold season. Flowers are yellow or white in colour that become large green berries. The tree grows throughout India in forests and grasslands."
+    },
+    "es": {
+      "source": "Wikipedia (es): Careya arborea",
+      "source_url": "https://es.wikipedia.org/wiki/Careya_arborea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 133496797,
+      "text": "Careya arborea es una especie de árbol perteneciente a la familia Lecythidaceae, originaria de la India."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Careya arborea",
+      "source_url": "https://fr.wikipedia.org/wiki/Careya_arborea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227899455,
+      "text": "Careya arborea est une espèce de plantes à fleurs dicotylédones de la famille des Lecythidaceae. C'est un arbre originaire d'Asie : Afghanistan, Inde, Sri Lanka, Birmanie et Thaïlande."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Careya arborea",
+      "source_url": "https://pt.wikipedia.org/wiki/Careya_arborea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71739171,
+      "text": "Careya arborea é uma espécie de planta da família Lecythidaceae, nativa do subcontinente indiano, Afeganistão e Indochina. É chamada de goiabeira-brava, carvalho-do-ceilão ou carvalho-de-patana. Careya arborea é uma árvore decídua que cresce até os 15 m de altura. Suas folhas ficam vermelhas na estação fria. As flores são amarelas ou brancas e se transformam em grandes bagas verdes."
     }
   },
   "edible": {
@@ -98,7 +125,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -119,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/469163-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -127,7 +154,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/469163-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000775038.webp",
@@ -140,6 +167,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 317,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

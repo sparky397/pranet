@@ -23,12 +23,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "id": [
+      "Soga tingi"
+    ],
     "zh": [
-      "細蕊紅樹",
       "角果木",
+      "細蕊紅樹",
       "角果木子油",
       "角果木叶"
     ],
@@ -52,27 +55,51 @@
     ],
     "ja": [
       "コヒルギ"
-    ],
-    "id": [
-      "Soga tingi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2946677",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2946677",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ceriops tagal」",
+      "source": "Wikipedia (en): Ceriops tagal",
       "source_url": "https://en.wikipedia.org/wiki/Ceriops_tagal",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374204690,
       "text": "Ceriops tagal, commonly known as spurred mangrove or Indian mangrove, is a mangrove tree species in the family Rhizophoraceae. It is a protected tree in South Africa. The specific epithet tagal is a plant name from the Tagalog language."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ceriops tagal",
+      "source_url": "https://es.wikipedia.org/wiki/Ceriops_tagal",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174601877,
+      "text": "Ceriops tagal es una especie de plantas en la familia de las Rhizophoraceae. Crece desde África oriental hasta las islas del centro-occidental del Pacífico [Peter K & Sivasothi N. (eds.)]. 2001. Archivado el 5 de octubre de 2009 en Wayback Machine.."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ceriops tagal",
+      "source_url": "https://fr.wikipedia.org/wiki/Ceriops_tagal",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229519242,
+      "text": "Ceriops tagal est une espèce de plantes à fleurs de la famille des Rhizophoraceae. C'est un palétuvier présent dans les mangroves des rivages de l'océan Indien."
+    },
+    "id": {
+      "source": "Wikipedia (id): Soga tingi",
+      "source_url": "https://id.wikipedia.org/wiki/Soga_tingi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30062440,
+      "text": "Ceriops tagal, umumnya dikenal sebagai soga tingi atau tengar putih adalah spesies pohon bakau dalam famili Rhizophoraceae. Ini adalah pohon yang dilindungi di Afrika Selatan. Julukan khusus tagal adalah nama tumbuhan dari bahasa Tagalog."
     }
   },
   "edible": {
@@ -89,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -140,7 +167,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/719711-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -148,7 +175,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/719711-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000597945.webp",
@@ -161,6 +188,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 309,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

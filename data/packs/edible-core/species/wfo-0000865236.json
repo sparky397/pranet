@@ -19,37 +19,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Gewöhnliche Hühnerhirse",
-      "Hühnerhirse"
-    ],
-    "en": [
-      "barnyardgrass",
-      "cockspur"
-    ],
-    "zh": [
-      "稗",
-      "稗米",
-      "稗根苗"
-    ],
-    "nl": [
-      "Europese hanenpoot"
-    ],
-    "cs": [
-      "ježatka kuří noha"
-    ],
-    "fr": [
-      "pied-de-coq"
-    ],
-    "fi": [
-      "rikkakananhirssi"
-    ],
-    "sl": [
-      "navadna kostreba"
-    ],
     "pam": [
       "Palepalayan"
     ],
@@ -71,6 +43,10 @@
     "uk": [
       "плоскуха звичайна"
     ],
+    "de": [
+      "Hühnerhirse",
+      "Gewöhnliche Hühnerhirse"
+    ],
     "ml": [
       "കവട്ട"
     ],
@@ -82,6 +58,14 @@
     ],
     "sv": [
       "Hönshirs"
+    ],
+    "nl": [
+      "Europese hanenpoot"
+    ],
+    "zh": [
+      "稗",
+      "稗米",
+      "稗根苗"
     ],
     "kbd": [
       "БажэкӀэцӀынэ"
@@ -110,6 +94,9 @@
     "cy": [
       "Cibogwellt rhydd"
     ],
+    "cs": [
+      "ježatka kuří noha"
+    ],
     "bg": [
       "даражан"
     ],
@@ -121,6 +108,9 @@
     ],
     "et": [
       "tähk-kukehirss"
+    ],
+    "fi": [
+      "rikkakananhirssi"
     ],
     "azb": [
       "سیلیف"
@@ -155,6 +145,9 @@
     "pa": [
       "ਸਵਾਂਕ"
     ],
+    "sl": [
+      "navadna kostreba"
+    ],
     "mnc": [
       "ᡥᡳᡶᡝ"
     ],
@@ -166,13 +159,20 @@
     ],
     "shn": [
       "မၢၵ်ႇဝင်"
+    ],
+    "en": [
+      "barnyardgrass",
+      "cockspur"
+    ],
+    "fr": [
+      "pied-de-coq"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q163527",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q163527",
   "search_names": {
@@ -187,13 +187,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Echinochloa crus-galli」",
+      "source": "Wikipedia (en): Echinochloa crus-galli",
       "source_url": "https://en.wikipedia.org/wiki/Echinochloa_crus-galli",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1367278994,
       "text": "Echinochloa crus-galli is a species of wild grass originating from tropical Asia that was formerly classified as a panicum grass. It is commonly known as cockspur, cockspur grass, barnyard grass, barnyard millet, water grass, cocksfoot grass, cockshin grass. It is sometimes referred to using the general term, barnyard grass, which may refer to any species of the genus Echinochloa. This plant can grow to 1.5 m (5 ft) in height and has long, flat leaves which are often purplish at the base. Most stems are upright, but some will spread out over the ground. Stems are flattened at the base. The seed heads are a distinctive feature, often purplish, with large millet-like seeds in crowded spikelets."
+    },
+    "es": {
+      "source": "Wikipedia (es): Echinochloa crus-galli",
+      "source_url": "https://es.wikipedia.org/wiki/Echinochloa_crus-galli",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174463058,
+      "text": "Echinochloa crus-galli o pasto dentado es una especie del género Echinochloa perteneciente a la familia de las poáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Echinochloa crus-galli",
+      "source_url": "https://fr.wikipedia.org/wiki/Echinochloa_crus-galli",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232636759,
+      "text": "Echinochloa crus-galli, le panic pied-de-coq, est une espèce de plantes monocotylédones de la famille des Poaceae (graminées), sous-famille des Panicoideae, à répartition quasi-cosmopolite, probablement originaire d'Asie tropicale.\nCe sont des plantes herbacées annuelles, cespiteuses, aux inflorescences composées de racèmes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Echinochloa crus-galli",
+      "source_url": "https://pt.wikipedia.org/wiki/Echinochloa_crus-galli",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69104067,
+      "text": "Echinochloa crus-galli é uma espécie de planta com flor pertencente à família Poaceae."
     }
   },
   "edible": {
@@ -208,7 +235,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -462,7 +489,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/399660-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -470,7 +497,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/399660-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000865236.webp",
@@ -483,6 +510,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

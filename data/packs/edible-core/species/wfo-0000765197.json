@@ -36,16 +36,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "キキョウラン"
     ],
+    "id": [
+      "Rumput siak-siak"
+    ],
     "zh": [
+      "山菅",
       "桔梗蘭",
       "山菅蘭",
-      "山菅",
       "山猫儿",
       "山菅兰"
     ],
@@ -61,9 +64,6 @@
     "yue": [
       "銀邊山菅蘭"
     ],
-    "id": [
-      "Rumput siak-siak"
-    ],
     "su": [
       "Akar camaka"
     ]
@@ -72,27 +72,54 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3026265",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3026265",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キキョウラン」",
+      "source": "Wikipedia (ja): キキョウラン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%A9%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109951508,
       "text": "キキョウラン Dianella ensifolia は、キキョウラン属の多年草。紫の花を付け、紫の果実を付ける。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Dianella ensifolia」",
+      "source": "Wikipedia (en): Dianella ensifolia",
       "source_url": "https://en.wikipedia.org/wiki/Dianella_ensifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354688010,
       "text": "Dianella ensifolia is a flowering plant, of the family Asphodelaceae. It is native to southern China, India, Japan, Madagascar, Malesia, the Pacific Islands, Singapore, Sri Lanka, Taiwan, and tropical Asia. Its common names include umbrella dracaena, common dianella, siak-siak, and flax lily."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dianella ensifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Dianella_ensifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 133672413,
+      "text": "Dianella ensifolia es una especie de planta herbácea perteneciente a la familia Xanthorrhoeaceae, en la subfamilia Hemerocallidoideae, que se encuentra en Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dianella ensifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Dianella_ensifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235023004,
+      "text": "Dianella ensifolia est une espèce de plantes à fleurs de la famille des liliacées selon la classification classique de Cronquist (1981). Mais avec la classification phylogénétique APG IV (2016), le genre Dianella se retrouve dans la famille des Asphodelaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Rumput siak-siak",
+      "source_url": "https://id.wikipedia.org/wiki/Rumput_siak-siak",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28498504,
+      "text": "Rumput siak siak atau pra kepey dalah tanaman berbunga, dari keluarga Asphodelaceae. Tanaman ini berasal dari Tiongkok bagian selatan, India, Jepang, Madagaskar, Malesia, Kepulauan Pasifik, Singapura, Sri Lanka, Taiwan, dan Asia tropis."
     }
   },
   "edible": {
@@ -108,7 +135,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -153,7 +180,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/533828-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -161,7 +188,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/533828-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000765197.webp",
@@ -174,6 +201,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -21,7 +21,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -31,26 +31,8 @@
       "Finger millet",
       "finger millet"
     ],
-    "zh": [
-      "穇子",
-      "穇"
-    ],
-    "sa": [
-      "मडक",
-      "रागीधान्यम्"
-    ],
-    "pnb": [
-      "منڈوا"
-    ],
-    "pa": [
-      "ਮੰਡੁਆ",
-      "ਰਾਗੀ"
-    ],
-    "sl": [
-      "indijska prosenka"
-    ],
-    "ta": [
-      "கேழ்வரகு"
+    "fr": [
+      "Éleusine"
     ],
     "hi": [
       "रागी"
@@ -58,14 +40,14 @@
     "dv": [
       "ބިންބި"
     ],
-    "fr": [
-      "Éleusine"
-    ],
     "ru": [
       "Дагусса"
     ],
     "kn": [
       "ರಾಗಿ"
+    ],
+    "ta": [
+      "கேழ்வரகு"
     ],
     "ca": [
       "Mill africà"
@@ -78,6 +60,9 @@
     ],
     "de": [
       "Fingerhirse"
+    ],
+    "sl": [
+      "indijska prosenka"
     ],
     "ml": [
       "മുത്താറി"
@@ -94,8 +79,16 @@
     "ne": [
       "कोदो"
     ],
+    "sa": [
+      "रागीधान्यम्",
+      "मडक"
+    ],
     "pl": [
       "Manneczka łękowata"
+    ],
+    "zh": [
+      "穇子",
+      "穇"
     ],
     "sv": [
       "korakan"
@@ -145,6 +138,10 @@
     "su": [
       "Jampang munggang"
     ],
+    "pa": [
+      "ਰਾਗੀ",
+      "ਮੰਡੁਆ"
+    ],
     "kcg": [
       "gbeam"
     ],
@@ -153,13 +150,16 @@
     ],
     "ka": [
       "დაგუსა"
+    ],
+    "pnb": [
+      "منڈوا"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q932258",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q932258",
   "search_names": {
@@ -177,36 +177,74 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シコクビエ」",
+      "source": "Wikipedia (ja): シコクビエ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B3%E3%82%AF%E3%83%93%E3%82%A8",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108813883,
       "text": "シコクビエ は、イネ科オヒシバ属 Eleusine の栽培植物。穎果を穀物として食用にする作物である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Finger millet」",
+      "source": "Wikipedia (en): Finger millet",
       "source_url": "https://en.wikipedia.org/wiki/Finger_millet",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376809930,
       "text": "Finger millet is an annual herbaceous plant. It is a tetraploid and self-pollinating species probably evolved from its wild relative Eleusine africana."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eleusine coracana",
+      "source_url": "https://es.wikipedia.org/wiki/Eleusine_coracana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166779350,
+      "text": "El ragi, mijo de dedo o mijo africano, Eleusine coracana, es una planta anual cultivada como cereal en las zonas áridas de África y Asia. Es nativa de las tierras altas de Etiopía y fue introducida en la India hace aproximadamente 4000 años; allí se ha adaptado a altitudes del Himalaya hasta los 2300 m s. n. m."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Éleusine",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89leusine",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229303387,
+      "text": "L’éleusine, Eleusine coracana, est une espèce de plantes à fleurs monocotylédones de la famille des Poaceae, sous-famille des Chloridoideae, originaire d'Afrique de l'est."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eleusine coracana",
+      "source_url": "https://pt.wikipedia.org/wiki/Eleusine_coracana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70387629,
+      "text": "Eleusine coracana é uma espécie de planta herbácea anual amplamente cultivada como cultura cereal em áreas áridas e semiáridas da África e da Ásia. É uma espécie tetraploide e autopolinizante, provavelmente evoluída de seu parente selvagem E. africana. No inglês é conhecida popularmente como \"finger millet\"."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Finger millet」の節「Cultivation」",
+        "source": "Wikipedia (en): Finger millet § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Finger_millet#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1376809930,
         "heading": "Cultivation",
         "text": "■ History\nFinger millet originated in East Africa (Ethiopian and Ugandan highlands). It probably evolved from its wild relative Eleusine africana. It was claimed to have been found in an Indian archaeological site dated to 1800 BCE (Late Bronze Age); however, this was subsequently demonstrated to be incorrectly identified cleaned grains of hulled millets. The earliest record of finger millet comes from an archaeological site in Africa which is thought to date to the 3rd millennium BCE, although it has not been precisely dated.\nBy 1996, cultivation of finger millet in Africa was declining rapidly because of the large amount of labor it required, with farmers preferring to grow nutritionally inferior but less labor-intensive crops such as maize, sorghum, and cassava. Such a decline was not seen in Asia, however.\n\n■ Growing regions\nMain cultivation areas are parts of eastern and southern Africa – particularly Uganda, Kenya, the Democratic Republic of the Congo, Zimbabwe, Zambia, Malawi, and Tanzania – and parts of India and Nepal. It is also grown in southern Sudan and \"as far south\" in Africa as Mozambique.\n\n■ Climate requirements\nFinger millet is a short-day plant with a growing optimum 12 hours' daylight for most varieties. Its main growing area ranges from 20°N to 20°S, but it is found to be grown at 30°N in the Himalaya region (India and Nepal). It is generally considered a drought-tolerant crop, but compared with other millets, such as pearl millet and sorghum, it prefers moderate rainfall (500 mm or 20 in annually). The majority of worldwide finger millet farmers grow it rainfed, although yields often can be significantly improved when irrigation is applied. In India, finger millet is a typical rabi (dry, winter season) crop.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Eleusine coracana § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Eleusine_coracana#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 166779350,
+        "heading": "Cultivo",
+        "text": "Frecuentemente se siembra intercalada con alguna leguminosa como el maní (Arachis hypogaea), el fríjol cabecita negra o caupí (Vigna sinensis), gaundú (Cajanus cajan) o la planta de Níger Guizotia abyssinica.​\nUna vez cosechadas, las semillas se conservan muy bien y rara vez son atacadas por insectos u hongos. La capacidad de almacenarlo por bastante tiempo, hace del mijo un cultivo importante en las estrategias de prevención de riesgos para las comunidades agrícolas más pobres.​",
+        "truncated": false
       }
     }
   },
@@ -224,7 +262,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -329,7 +367,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/399945-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -337,7 +375,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/399945-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000865686.webp",
@@ -350,6 +388,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

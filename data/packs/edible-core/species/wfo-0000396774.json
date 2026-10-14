@@ -91,21 +91,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "コノテガシワ"
     ],
-    "en": [
-      "Oriental Arbor-vitae",
-      "Oriental arborvitae"
-    ],
-    "cs": [
-      "zeravec východní"
-    ],
-    "nl": [
-      "Oosterse levensboom"
+    "fr": [
+      "Thuya de Chine"
     ],
     "zh": [
       "侧柏",
@@ -116,17 +109,11 @@
       "柏脂",
       "圆柏"
     ],
-    "sl": [
-      "vzhodni klek"
-    ],
     "bo": [
       "ཤུག་པ་"
     ],
     "pl": [
       "biota wschodnia"
-    ],
-    "fr": [
-      "Thuya de Chine"
     ],
     "ko": [
       "측백나무"
@@ -145,6 +132,9 @@
     ],
     "ar": [
       "تويا"
+    ],
+    "nl": [
+      "Oosterse levensboom"
     ],
     "pt": [
       "Tuia-da-china"
@@ -200,6 +190,9 @@
     "kk": [
       "Биота"
     ],
+    "cs": [
+      "zeravec východní"
+    ],
     "diq": [
       "Maymaziya"
     ],
@@ -230,15 +223,22 @@
     "mk": [
       "Источна туја"
     ],
+    "sl": [
+      "vzhodni klek"
+    ],
     "sk": [
       "tujovec východný"
+    ],
+    "en": [
+      "Oriental Arbor-vitae",
+      "Oriental arborvitae"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q33482",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q33482",
   "search_names": {
@@ -250,22 +250,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「コノテガシワ」",
+      "source": "Wikipedia (ja): コノテガシワ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8E%E3%83%86%E3%82%AC%E3%82%B7%E3%83%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109360636,
       "text": "コノテガシワ は、裸子植物マツ綱のヒノキ科コノテガシワ属に分類される常緑針葉樹の1種であり、コノテガシワ属の唯一の現生種である。クロベ属（Thuja）や Biota に分類されたこともある。中国名は側柏。小枝は平面状に分枝し、十字対生する鱗片状の葉によって扁平に覆われ、ふつう垂直に伸び、ヒノキなどと異なり表裏の違いを示さない。このような垂直に伸びて広がった小枝の様子を、子供が手のひらを立てていることに見立てて「コノテガシワ」の名の由来となったとされる。未熟な球果はやや多肉質であるが、秋に熟すと木質、果鱗先端は盾状にならず、小角状の突起がある。中国原産であるが、世界各地で観賞用に植栽されている。また、枝葉や種子は生薬とされることがある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Platycladus」",
+      "source": "Wikipedia (en): Platycladus",
       "source_url": "https://en.wikipedia.org/wiki/Platycladus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377963802,
       "text": "Platycladus is a monotypic genus of coniferous trees in the cypress family Cupressaceae, containing only one species, Platycladus orientalis, the Chinese thuja, Oriental arborvitae, Chinese arborvitae, biota or Oriental thuja. It is native to northeastern parts of East Asia and North Asia, but is also now naturalised as an introduced species in other regions of the Asian continent."
+    },
+    "es": {
+      "source": "Wikipedia (es): Platycladus orientalis",
+      "source_url": "https://es.wikipedia.org/wiki/Platycladus_orientalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581233,
+      "text": "Platycladus orientalis, la tuya oriental o árbol de la vida, es una especie arbórea de la familia de las Cupresáceas, única especie aceptada del género Platycladus."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Thuya de Chine",
+      "source_url": "https://fr.wikipedia.org/wiki/Thuya_de_Chine",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 213874840,
+      "text": "Le Thuya de Chine, ou Thuya d'Orient, Biota d'Orient ou Arbre de Vie, est une espèce de conifères de la famille des Cupressacées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Platycladus orientalis",
+      "source_url": "https://pt.wikipedia.org/wiki/Platycladus_orientalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71528420,
+      "text": "Platycladus orientalis é uma espécie de cupressácea, de folhagem perene, vulgarmente designada como arborvitae (árvore-da-vida), tuia compacta, tuia-da-china e cipreste, nativa da China e do Japão. É a única espécie do seu género. Tem cones erectos e ovóides. A sua madeira é bastante durável. Tem folhas verde-claras, escamiformes, estreitas e pontiagudas, dispostas em quatro fiadas e com as margens divergentes, separadas do ramo. As flores caracterizam-se pelos estróbilos masculinos, de cor castanha-avermelhada na extremidade dos ramos. Os frutos são, enquanto jovens, gálbulas ovóides, carnudas e azuladas, ficando secas e castanho-avermelhadas quando maduras, com 6 a 8 escamas e com um gancho no ápice."
+    },
+    "id": {
+      "source": "Wikipedia (id): Platycladus",
+      "source_url": "https://id.wikipedia.org/wiki/Platycladus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29936712,
+      "text": "Platycladus adalah genus monotipik pohon konifer yang selalu hijau dari famili pohon cemara Cupressaceae, hanya mengandung satu spesies yaitu Platycladus orientalis, yang memiliki banyak nama lain di antaranya: thuja Tiongkok, Oriental arborvitae, arborvitae Tiongkok, biota atau oriental thuja. Aslinya berasal dari timur laut Asia timur dan Asia utara, tetapi saat ini juga sudah dinaturalisasi sebagai spesies yang diperkenalkan di tempat lainnya di Asia."
     }
   },
   "edible": {
@@ -279,7 +315,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -318,7 +354,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/677124-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -326,7 +362,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/677124-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000396774.webp",
@@ -339,6 +375,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 342,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

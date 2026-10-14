@@ -21,7 +21,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "rw": [
@@ -44,18 +44,60 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2667432",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2667432",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Acokanthera schimperi」",
+      "source": "Wikipedia (en): Acokanthera schimperi",
       "source_url": "https://en.wikipedia.org/wiki/Acokanthera_schimperi",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372482787,
       "text": "Acokanthera schimperi, arrow poison tree, belonging to the family Apocynaceae, is a small tree native to eastern and central Africa as well as to Yemen."
+    },
+    "es": {
+      "source": "Wikipedia (es): Acokanthera schimperi",
+      "source_url": "https://es.wikipedia.org/wiki/Acokanthera_schimperi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 153781511,
+      "text": "Acokanthera schimperi, es una especie de arbusto perteneciente a la familia Apocynaceae. Es originario de África Oriental y Yemen."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Acokanthera schimperi",
+      "source_url": "https://fr.wikipedia.org/wiki/Acokanthera_schimperi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227681441,
+      "text": "Acokanthera schimperi est une espèce de plantes à fleurs de la famille des Apocynaceae. C'est un arbuste originaire d'Afrique de l'Est et du Yémen."
+    },
+    "id": {
+      "source": "Wikipedia (id): Acokanthera schimperi",
+      "source_url": "https://id.wikipedia.org/wiki/Acokanthera_schimperi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29944565,
+      "text": "Acokanthera schimperi, pohon racun panah, termasuk dalam famili Apocynaceae, adalah pohon kecil yang berasal dari Afrika bagian timur dan tengah serta Yaman."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Acokanthera schimperi § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Acokanthera_schimperi#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 153781511,
+        "heading": "Toxicidad",
+        "text": "Todas las partes de la planta Acokanthera schimperi contienen glucósidos cardenólidos, tales como la ouabaína, cuya ingestión puede suponer un riesgo para la salud.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -72,7 +114,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -92,7 +134,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60447729-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -100,7 +142,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60447729-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000336741.webp",
@@ -113,6 +155,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 288,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

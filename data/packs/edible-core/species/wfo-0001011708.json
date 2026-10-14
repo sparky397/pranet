@@ -31,7 +31,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -41,35 +41,27 @@
       "Quince",
       "quince"
     ],
-    "cy": [
-      "coeden gwins  coed cwins",
-      "Coeden gwins"
-    ],
-    "zh": [
-      "榅桲",
-      "榀椁",
-      "榀椁子",
-      "榅桲皮",
-      "榲桲"
-    ],
-    "nl": [
-      "Kweepeer"
-    ],
-    "cs": [
-      "kdouloň obecná"
-    ],
     "fr": [
+      "Cognassier",
       "cognassier"
     ],
-    "ast": [
-      "marmellal",
-      "marmiellu"
+    "pt": [
+      "Marmeleiro",
+      "marmeleiro"
     ],
-    "sl": [
-      "navadna kutina"
+    "id": [
+      "Kwinsi",
+      "Quince"
     ],
     "lb": [
       "Quiddebam"
+    ],
+    "zh": [
+      "榲桲",
+      "榅桲",
+      "榀椁",
+      "榀椁子",
+      "榅桲皮"
     ],
     "ab": [
       "Абиа"
@@ -110,8 +102,8 @@
     "ar": [
       "سفرجل"
     ],
-    "pt": [
-      "marmeleiro"
+    "nl": [
+      "kweepeer"
     ],
     "eo": [
       "Cidonio"
@@ -203,8 +195,14 @@
     "ca": [
       "codonyer"
     ],
+    "sl": [
+      "navadna kutina"
+    ],
     "os": [
       "Къомси"
+    ],
+    "cs": [
+      "kdouloň obecná"
     ],
     "fa": [
       "به"
@@ -263,11 +261,12 @@
     "uz": [
       "Behi"
     ],
+    "cy": [
+      "Coeden gwins",
+      "coeden gwins  coed cwins"
+    ],
     "gag": [
       "Ayva"
-    ],
-    "id": [
-      "Quince"
     ],
     "oc": [
       "Codonhièr"
@@ -355,13 +354,17 @@
     ],
     "th": [
       "ควินซ์"
+    ],
+    "ast": [
+      "marmellal",
+      "marmiellu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q43300",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q43300",
   "search_names": {
@@ -374,35 +377,93 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「マルメロ」",
+      "source": "Wikipedia (ja): マルメロ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%A1%E3%83%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111198264,
       "text": "マルメロ は、バラ目バラ科マルメロ属に分類される落葉高木の1種。マルメロ属はマルメロの1属1種で構成されている。中央アジア原産。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Quince」",
+      "source": "Wikipedia (en): Quince",
       "source_url": "https://en.wikipedia.org/wiki/Quince",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371678851,
       "text": "The quince is the sole member of the genus Cydonia in the Malinae subtribe of the Rosaceae family. It is a deciduous tree that bears hard, aromatic bright golden-yellow pome fruit, similar in appearance to a pear. Ripe quince fruits are hard, tart, and astringent. They are eaten raw or processed into jam, quince cheese, or alcoholic drinks."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cydonia oblonga",
+      "source_url": "https://es.wikipedia.org/wiki/Cydonia_oblonga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175607619,
+      "text": "Cydonia es un género de planta arbórea perteneciente a la familia de las Rosáceas. Se trata de un género monotípico, cuya única especie es Cydonia oblonga, comúnmente llamado membrillo o membrillero. Es originario de la región del Cáucaso, en el sudoeste cálido de Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cognassier",
+      "source_url": "https://fr.wikipedia.org/wiki/Cognassier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235134259,
+      "text": "Le Cognassier, aussi appelé coing, est une espèce de plantes à fleurs de la famille des Rosacées C'est un arbuste ou un petit arbre originaire des régions tempérées du Caucase et d'Iran. Ses fruits sont des coings appelés aussi pommes d'or ou poires de Cydonie. C'est l'unique représentant du genre Cydonia."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Marmeleiro",
+      "source_url": "https://pt.wikipedia.org/wiki/Marmeleiro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72303538,
+      "text": "O marmeleiro, é uma pequena árvore, único membro do género Cydonia, da família Rosaceae, cujos frutos são chamados marmelos. É originário das regiões mais amenas da Ásia Menor e Sudeste da Europa. Também é conhecido pelos nomes de marmeleiro-da-europa, marmelo e pereira-do-japão."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kwinsi",
+      "source_url": "https://id.wikipedia.org/wiki/Kwinsi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29846858,
+      "text": "Kwinsi adalah satu-satunya anggota genus Cydonia di suku Rosaceae. Tumbuhan ini berupa pohon peluruh kecil yang menghasilkan buah pome, berpenampilan mirip buah pir, berwarna kuning keemasan pada saat dewasa. Sepanjang sejarah, buahnya yang dimasak dikonsumsi sebagai makanan, pohonnya pun ditanam untuk kembang merah jambunya yang atraktif dan kualitas ornamentalnya yang lain."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Quince」の節「Cultivation」",
+        "source": "Wikipedia (en): Quince § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Quince#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1371678851,
         "heading": "Cultivation",
         "text": "Quince is a hardy, drought-tolerant shrub which adapts to many soils of low to medium pH. It tolerates both shade and sun, but sunlight is required to produce larger flowers and ensure fruit ripening. It is a hardy plant that does not require much maintenance, and tolerates years without pruning or major insect and disease problems.\nQuince is cultivated on all continents in warm-temperate and temperate climates. It requires a cooler period of the year, with temperatures under 7 °C (45 °F), to flower properly. Propagation is done by cuttings or layering; the former method produces better plants, but they take longer to mature than by the latter. Named cultivars are propagated by cuttings or layers grafted on quince rootstock. Propagation by seed is not used commercially. Quince forms thick bushes, which must be pruned and reduced into a single stem to grow fruit-bearing trees for commercial use. The tree is self-pollinated, but it produces better yields when cross-pollinated.\nFruits are typically left on the tree to ripen fully. In warmer climates, it may become soft to the point of being edible, but additional ripening may be required in cooler climates. They are harvested in late autumn, before first frosts. Quince is used as rootstock for certain pear cultivars. In Europe, quinces are grown in small amounts; typically one or two quince trees are grown in a mixed orchard with several apples and other fruit trees. \n\n■ Pests and diseases\nQuince is subject to a variety of pest insects including aphids, scale insects, mealybugs, and moth caterpillars such as leafrollers (Tortricidae) and codling moths.\nWhile quince is a hardy shrub, it may develop fungal diseases in hot weather, resulting in premature leaf fall.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Cognassier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Cognassier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 235134259,
+        "heading": "Culture",
+        "text": "Le cognassier est rustique et nécessite une période de froid (au-dessous de 7 °C) pour fleurir correctement. L'arbre est autofertile toutefois le rendement sera amélioré par une fécondation croisée.\nLa maturité complète du coing demande un climat à longue période de chaleur (Portugal, Grèce...). Il peut alors être consommé cru. Sous le climat français, ce n'est pas le cas sauf pour certaines variétés à court cycle de fructification (Aromatnaya, Kuganskaya) qui peuvent parfois arriver à maturité quasi complète avec un automne particulièrement chaud. Sinon, les coings restent durs, astringents et acides et ne peuvent être consommés qu'après cuisson. Une ancienne méthode les laissait exposés aux gelées pour les ramollir et éliminer un peu de tanins.\nDans certaines régions de Gascogne, les cognassiers marquent les limites des terrains et sont présents dans les haies.\nLe cognassier a été introduit dans le Nouveau Monde, mais il est rare en Amérique du Nord en raison de sa sensibilité au feu bactérien. Il est en revanche très répandu en Argentine, au Chili et en Uruguay.\n\nmultiplication possible par semis ou marcottage mais le plus souvent par bouturage à la fin de l'hiver suivi ou non de greffage ;\ncultivé en tige ou en buisson avec une taille minime surtout pour aérer le centre de l'arbre ;\nrécolte à l'automne et finition de la maturation au fruitier.\n\n■ Principales variétés\nDans la pratique, les variétés de coings sont répartis en deux groupes : Cydonia oblonga piriformis (en forme de poire) et Cydonia oblonga maliformis (en forme de pomme).",
+        "truncated": true
+      },
+      "id": {
+        "source": "Wikipedia (id): Kwinsi § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Kwinsi#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29846858,
+        "heading": "Budidaya",
+        "text": "Pohon kwinsi adalah belukar tangguh  kekeringan yang dapat beradaptasi terhadap tanah dengan pH rendah hingga medium. Walaupun menoleransi baik matahari langsung maupun di bawah naungan, tumbuhan ini tetap membutuhkan sinar matahari untuk memproduksi bunga-bunga besar dan memastikan pemasakan buah. Tidak membutuhkan pemeliharaan yang begitu banyak membuatnya tanaman yang tangguh dan menoleransi tahun-tahun tanpa pemangkasan atau masalah serangga dan penyakit yang besar.\nKwinsi dibudidayakan di semua benua pada iklim sedang dan sedang hangat. Untuk berbunga dengan baik, ia membutuhkkan masa dingin hingga di bawah 7 °C (45 °F). Propagasi dilakukan dengan metode cuttings atau layering; metode pertama menghasilkan tanaman-tanaman yang lebih baik, tetapi membutuhkan waktu yang lebih lama untuk dewasa. Kultivar bernama \"propagated\" melalui cutting atau layer yang di-graft pada kwinsi. Perbanyakan melalui biji tidak dilakukan untuk kepentingan komersial. Kwinsi m\nmembentuk semak padat yang harus dipangkas dan dikurangi menjadi batang tunggal agar tumbuh sebagai pohon penghasil buah komersial. Pembuahan diri bisa terjadi, tetapi alogami menghasilkan produksi yang lebih baik.\nBIasanya buah dibiarkan di pohon untuk masak sepenuhnya. Di wilayah dengan iklim lebih hangat, mereka bisa menjadi lembut bisa dimakan, tetapi di wilayah yang lebih dingin pemasakan lebih lanjut dibutuhkan. Panen dilakukan di akhir musim gugur, sebelum embun beku pertama.\nKwinsi Juga dimanfaatkan sebagai rootstock kultivar pir tertentu.\nDi Eropa, kwinsi secara umum hidup di bagian tengah atau selatan di mana musim panas cukup untuk memasakkan buah secara penuh.",
         "truncated": true
       }
     }
@@ -418,7 +479,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -490,7 +551,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/724549-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -498,7 +559,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/724549-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001011708.webp",
@@ -511,6 +572,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 399,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

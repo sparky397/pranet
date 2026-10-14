@@ -16,35 +16,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Royal Fern"
-    ],
-    "de": [
-      "Königs-Rispenfarn",
-      "Königsfarn"
-    ],
     "fr": [
+      "Osmonde royale",
       "Fougère royale",
       "Osmonde Royale",
       "osmonde royal"
-    ],
-    "nl": [
-      "Koningsvaren"
-    ],
-    "es": [
-      "antojil"
-    ],
-    "cs": [
-      "podezřeň královská"
-    ],
-    "zh": [
-      "高贵紫萁"
-    ],
-    "ast": [
-      "entexil"
     ],
     "bg": [
       "царска папрат"
@@ -52,8 +31,15 @@
     "co": [
       "Filicastrella"
     ],
+    "cs": [
+      "podezřeň královská"
+    ],
     "da": [
       "Almindelig Kongebregne"
+    ],
+    "de": [
+      "Königsfarn",
+      "Königs-Rispenfarn"
     ],
     "fi": [
       "kuningassaniainen"
@@ -66,6 +52,9 @@
     ],
     "lt": [
       "Karališkoji osmunda"
+    ],
+    "nl": [
+      "koningsvaren"
     ],
     "pl": [
       "Długosz królewski"
@@ -129,37 +118,87 @@
     ],
     "hr": [
       "Kraljevski pujanik"
+    ],
+    "en": [
+      "Royal Fern"
+    ],
+    "es": [
+      "antojil"
+    ],
+    "zh": [
+      "高贵紫萁"
+    ],
+    "ast": [
+      "entexil"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q733398",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q733398",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Osmunda regalis」",
+      "source": "Wikipedia (en): Osmunda regalis",
       "source_url": "https://en.wikipedia.org/wiki/Osmunda_regalis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1335652384,
       "text": "Osmunda regalis, or royal fern, is a species of deciduous fern, native to Europe, North Africa and West Asia, growing in woodland bogs and on the banks of streams. The species is sometimes known as flowering fern due to the appearance of its fertile fronds."
+    },
+    "es": {
+      "source": "Wikipedia (es): Osmunda regalis",
+      "source_url": "https://es.wikipedia.org/wiki/Osmunda_regalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173237767,
+      "text": "Osmunda regalis es una especie de helecho nativo de Europa, África, Asia y América que crece en pantanos. La especie es a veces conocida como helecho florecido debido a la apariencia de sus fértiles frondas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Osmonde royale",
+      "source_url": "https://fr.wikipedia.org/wiki/Osmonde_royale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 215162001,
+      "text": "L'Osmonde royale, aussi appelée fougère royale ou fougère fleurie, est une espèce de fougères de la famille des Osmundaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Osmunda regalis",
+      "source_url": "https://pt.wikipedia.org/wiki/Osmunda_regalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71251615,
+      "text": "Osmunda regalis é uma espécie de plantas herbáceas, perenes, decíduas, do grupo das pteridófitas, pertencente à família Osmundaceae, conhecida pelo nome comum de feto-real. A espécie tem distribuição natural na Europa, África e Ásia, ocorrendo em pântanos e nas margens dos cursos de água. A espécie é por vezes conhecida como feto florido devido ao aspeto das suas frondes férteis que quando maturas parecem um espigo."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Osmunda regalis」の節「Cultivation」",
+        "source": "Wikipedia (en): Osmunda regalis § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Osmunda_regalis#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1335652384,
         "heading": "Cultivation",
         "text": "Osmunda regalis is widely cultivated in temperate regions. The species and the cultivar 'Cristata' have both gained the Royal Horticultural Society's Award of Garden Merit. Osmunda plants should be planted in preferably acidic, moist soil, associating well with other large moisture-loving plants such as Rodgersia and Gunnera. However, it tolerates a range of soil and climatic conditions.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Osmunda regalis § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Osmunda_regalis#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71251615,
+        "heading": "Cultivo",
+        "text": "A Osmunda regalis é amplamente cultivada nas regiões temperadas. A espécie e a cultivar 'Cristata' chegaram ambos, inclusive, a ganhar o galardão Award of Garden Merit da Royal Horticultural Society britânica.\nO feto-real deve ser plantado em solos húmidos com baixo pH (solos ácidos). Convivem bem com outras plantas higrófilas como a Rodgersia e a Gunnera. No entanto, tolera uma larga variedade de condições edafoclimáticas.",
         "truncated": false
       }
     }
@@ -177,7 +216,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -257,7 +296,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/305721-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -265,7 +304,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/305721-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001109067.webp",
@@ -278,6 +317,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 259,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -14,12 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "African yam bean"
-    ],
     "de": [
       "Afrikanische Yambohne"
     ],
@@ -28,24 +25,45 @@
     ],
     "dag": [
       "Gundosollo"
+    ],
+    "en": [
+      "African yam bean"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q386887",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q386887",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sphenostylis stenocarpa」",
+      "source": "Wikipedia (en): Sphenostylis stenocarpa",
       "source_url": "https://en.wikipedia.org/wiki/Sphenostylis_stenocarpa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1335788880,
       "text": "Sphenostylis stenocarpa, the African yam bean, is a species of plant in the family Fabaceae which is native to Africa. It is an important source of food in many parts of Africa. The tubers are fried, boiled or roasted, and are higher than the seeds in protein."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sphenostylis stenocarpa",
+      "source_url": "https://es.wikipedia.org/wiki/Sphenostylis_stenocarpa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 124479499,
+      "text": "Sphenostylis stenocarpa o ñame africano es una especie de planta de la familia Fabaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sphenostylis stenocarpa",
+      "source_url": "https://fr.wikipedia.org/wiki/Sphenostylis_stenocarpa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236007870,
+      "text": "Sphenostylis stenocarpa est une espèce de plantes à fleurs dicotylédones de la famille des Fabaceae, sous-famille des Faboideae. C'est un arbuste originaire d'Afrique."
     }
   },
   "edible": {
@@ -60,7 +78,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -96,7 +114,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/519235-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing perennial",
@@ -104,7 +122,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/519235-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000183997.webp",
@@ -117,6 +135,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

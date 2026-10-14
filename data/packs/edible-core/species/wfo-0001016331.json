@@ -42,78 +42,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "スミミザクラ"
     ],
-    "de": [
-      "Weichsel",
-      "Sauerkirsche"
-    ],
-    "en": [
-      "sour cherry"
-    ],
-    "el": [
-      "Βυσσινιά"
-    ],
-    "eu": [
-      "Gingondo"
-    ],
-    "frr": [
-      "Käärs(buum)",
-      "Käärs"
-    ],
-    "hu": [
-      "Meggy"
-    ],
-    "hy": [
-      "Բալենի",
-      "բալենի սովորական"
-    ],
-    "it": [
-      "Ciliegio aspro",
-      "Ciliegio acido"
-    ],
-    "mk": [
-      "Вишна"
-    ],
     "pt": [
-      "Cereja ácida",
-      "Ginja"
+      "Ginja",
+      "Cereja ácida"
     ],
-    "ro": [
-      "Vişin",
-      "Vișin"
-    ],
-    "sr": [
-      "Вишња"
-    ],
-    "sv": [
-      "Surkörsbär"
-    ],
-    "tr": [
-      "Vişne"
-    ],
-    "uk": [
-      "Вишня звичайна"
-    ],
-    "nl": [
-      "Zure kers"
-    ],
-    "cs": [
-      "třešeň višeň",
-      "višeň obecná"
-    ],
-    "fi": [
-      "hapankirsikka"
-    ],
-    "ast": [
-      "guindal"
-    ],
-    "sl": [
-      "višnja"
+    "id": [
+      "Kersen (Prunus)",
+      "Kersen"
     ],
     "pl": [
       "wiśnia pospolita"
@@ -124,6 +65,9 @@
     "bs": [
       "Višnja"
     ],
+    "hu": [
+      "meggy"
+    ],
     "bn": [
       "টক চেরি"
     ],
@@ -133,11 +77,26 @@
     "ar": [
       "كرز حامض"
     ],
+    "sv": [
+      "surkörsbär"
+    ],
     "eo": [
       "Acida ĉerizo"
     ],
     "ru": [
       "Вишня обыкновенная"
+    ],
+    "tr": [
+      "vişne"
+    ],
+    "mk": [
+      "вишна"
+    ],
+    "fi": [
+      "hapankirsikka"
+    ],
+    "uk": [
+      "Вишня звичайна"
     ],
     "nn": [
       "Kirsebær"
@@ -163,6 +122,10 @@
     "bar": [
       "Weixl"
     ],
+    "de": [
+      "Sauerkirsche",
+      "Weichsel"
+    ],
     "kbd": [
       "Шэдыгъуэ"
     ],
@@ -172,8 +135,19 @@
     "sk": [
       "Čerešňa višňová"
     ],
+    "ro": [
+      "Vișin",
+      "Vişin"
+    ],
     "ca": [
       "guinder"
+    ],
+    "sl": [
+      "višnja"
+    ],
+    "cs": [
+      "višeň obecná",
+      "třešeň višeň"
     ],
     "bg": [
       "обикновена вишна"
@@ -193,8 +167,14 @@
     "kk": [
       "Кәдімгі шие"
     ],
+    "sr": [
+      "Вишња"
+    ],
     "ku": [
       "Albalû"
+    ],
+    "eu": [
+      "Gingondo"
     ],
     "zh": [
       "欧洲酸樱桃"
@@ -217,6 +197,10 @@
     "ka": [
       "ალუბალი"
     ],
+    "frr": [
+      "Käärs",
+      "Käärs(buum)"
+    ],
     "uz": [
       "Shpanka"
     ],
@@ -235,6 +219,10 @@
     "lv": [
       "skābais ķirsis"
     ],
+    "hy": [
+      "բալենի սովորական",
+      "Բալենի"
+    ],
     "co": [
       "Amarascu"
     ],
@@ -250,9 +238,6 @@
     "xmf": [
       "ქვიშნა ბული"
     ],
-    "id": [
-      "Kersen"
-    ],
     "wuu": [
       "欧洲酸樱桃"
     ],
@@ -264,6 +249,9 @@
     ],
     "ko": [
       "신양 앵두"
+    ],
+    "el": [
+      "Βυσσινιά"
     ],
     "arz": [
       "كرز حامض"
@@ -294,13 +282,26 @@
     ],
     "rsk": [
       "Вишня"
+    ],
+    "en": [
+      "sour cherry"
+    ],
+    "it": [
+      "Ciliegio aspro",
+      "Ciliegio acido"
+    ],
+    "nl": [
+      "Zure kers"
+    ],
+    "ast": [
+      "guindal"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q131517",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q131517",
   "search_names": {
@@ -316,36 +317,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「スミミザクラ」",
+      "source": "Wikipedia (ja): スミミザクラ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9F%E3%83%9F%E3%82%B6%E3%82%AF%E3%83%A9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106365097,
       "text": "スミミザクラ は、ヨーロッパや南西アジアに自生するバラ科サクラ属サクラ亜属に属する植物である。スミミザクラはセイヨウミザクラに近いと考えられるが、スミミザクラの果実のほうが酸味が強く、料理に用いられる。\nスミミザクラの木の高さは、4-10mと、セイヨウミザクラより小柄で、枝がたくさん生え、実は黒っぽく、その茎は短い。\nスミミザクラには2種類あり、赤黒い果実を生らすレッドモレロ種 と、明るい赤色の果実を生らすアマレル種（amarelle）がある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Prunus cerasus」",
+      "source": "Wikipedia (en): Prunus cerasus",
       "source_url": "https://en.wikipedia.org/wiki/Prunus_cerasus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372118937,
       "text": "Prunus cerasus is an Old World species of Prunus in the subgenus Cerasus (cherries). It has two main groups of cultivars: the dark-red Morello cherry and the lighter-red Amarelle cherry. The sour pulp is edible."
+    },
+    "es": {
+      "source": "Wikipedia (es): Prunus cerasus",
+      "source_url": "https://es.wikipedia.org/wiki/Prunus_cerasus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171671895,
+      "text": "Prunus cerasus, el guindo, cerezo ácido o cerezo de Morello es una especie de Prunus del subgénero Cerasus, nativo de Europa y sudoeste de Asia. Está estrechamente emparentado con Prunus avium, cerezo silvestre, también conocido como cerezo dulce. Sin embargo, su fruta es más ácida y utilizada, sobre todo, en preparaciones culinarias."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Prunus cerasus",
+      "source_url": "https://fr.wikipedia.org/wiki/Prunus_cerasus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236765758,
+      "text": "Le cerisier acide, cerisier aigre ou griottier, est une espèce de plantes à fleurs du genre Prunus et de famille des Rosaceae. C'est un arbre fruitier cultivé pour ses fruits, les griottes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ginja",
+      "source_url": "https://pt.wikipedia.org/wiki/Ginja",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69039355,
+      "text": "A ginjeira ou ginja, também conhecida como cereja-ácida ou amarena, é uma espécie do género Prunus, pertencendo ao subgénero Cerasus (cereja), nativo de grande parte da Europa e do sudoeste asiático. É um parente próximo da cereja Prunus avium, também conhecida como cereja-doce, mas o seu fruto é mais ácido, sendo útil principalmente para fins culinários."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kersen (Prunus)",
+      "source_url": "https://id.wikipedia.org/wiki/Kersen_(Prunus)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28105491,
+      "text": "Kersen, ceri asam atau kers adalah sejenis tumbuhan pohon ceri yang tergabung dalam marga Prunus, berasal dari kebanyakan Eropa dan Asia Barat. Tumbuhan ini berkerabat dekat dengan ceri manis, tetapi buah kersen memiliki kadar kemasaman yang lebih tinggi."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Prunus cerasus」の節「Cultivation」",
+        "source": "Wikipedia (en): Prunus cerasus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Prunus_cerasus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1372118937,
         "heading": "Cultivation",
         "text": "Cultivated sour cherries were selected from wild specimens of Prunus cerasus from around the Caspian and Black Seas, and were known to the Greeks in 300 BC. They were also used by Persians and the Romans who introduced them into Britain long before the 1st century AD.\nAs early as the 12th century, a Morello type sour cherry was grown in the Schaerbeek region of Belgium. Schaerbeek cherries were devastated by the Napoleonic and World Wars. Today there are efforts to reestablish Schaerbeek sour cherries, a defining component of Kriek lambic beer culture in Belgium recognized by UNESCO in 2016 as an \"Intangible Cultural Heritage of Humanity.\" Although a \"Morello type,\" Schaerbeek cherries are distinctive in that they are ovate on the horizontal axis, a deeper burgundy color when ripe, have a lower chill requirement to set fruit, and have a distinctive cinnamon aroma and flavor.\nIn England, sour cherry cultivation was popularized in the 16th century in the time of Henry VIII. They became a common crop amongst Kentish growers, and by 1640 over two dozen named cultivars were recorded.\nBefore the Second World War there were more than fifty cultivars of sour cherry in cultivation in England; today, however, few are grown commercially, and despite the continuation of named cultivars such as 'Kentish Red', 'Amarelles', 'Griottes' and 'Flemish', only the generic Morello is offered by most nurseries. This is a late-flowering variety, and thus misses more frosts than its sweet counterpart and is therefore a more reliable cropper. The Morello cherry ripens in mid- to late summer, toward the end of August in southern England. It is self-fertile, and would be a good pollenizer for other varieties if it did not flower so late in the season.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Prunus cerasus § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Prunus_cerasus#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175735349,
+        "heading": "Cultivo",
+        "text": "El guindo presenta requerimientos de frío para una adecuada ruptura de la dormición e inicio de la nueva estación de crecimiento. Estos requerimientos de frío son muy variables, según los cultivares: desde 600 a 1 500 horas de frío.​ El guindo requiere condiciones de cultivo similares a las del Prunus avium cerezo dulce, es decir, suelos profundos, de textura franca o franco-arenosa, bien drenados, sin horizontes arcillosos ni capas freáticas hasta al menos 1 metro de profundidad. Suele ser más exigente en nitrógeno que el cerezo dulce. Con la cereza se elaboran diversos licores o destilados, como el  Marrasquino y el Kirsch.",
+        "truncated": false
       }
     }
   },
@@ -362,7 +410,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -457,7 +505,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/729574-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -465,7 +513,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/729574-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001016331.webp",
@@ -478,6 +526,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 312,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -13,16 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Athel tamarisk"
-    ],
-    "zh": [
-      "無葉檉柳",
-      "无叶柽柳"
-    ],
     "pt": [
       "Tamarisco"
     ],
@@ -31,6 +24,10 @@
     ],
     "ar": [
       "أثل عديم الأوراق"
+    ],
+    "zh": [
+      "无叶柽柳",
+      "無葉檉柳"
     ],
     "vi": [
       "Thuja aphylla"
@@ -49,13 +46,16 @@
     ],
     "arz": [
       "اثل عديم الاوراق"
+    ],
+    "en": [
+      "Athel tamarisk"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2889746",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2889746",
   "search_names": {
@@ -67,13 +67,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Tamarix aphylla」",
+      "source": "Wikipedia (en): Tamarix aphylla",
       "source_url": "https://en.wikipedia.org/wiki/Tamarix_aphylla",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372040935,
       "text": "The athel tamarisk, also known as the athel tree or simply athel, is the largest known species of Tamarix, with heights up to 18 metres (59 ft). It is an evergreen flowering tree, native across North, East, and Central Africa, through the Middle East, and into parts of Western and Southern Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Tamarix aphylla",
+      "source_url": "https://es.wikipedia.org/wiki/Tamarix_aphylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171583181,
+      "text": "Tamarix aphylla, taraje, es un pequeño árbol de la familia de las tamaricáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Tamarix aphylla",
+      "source_url": "https://fr.wikipedia.org/wiki/Tamarix_aphylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228655223,
+      "text": "Tamarix aphylla est une espèce de petit arbre du genre Tamarix et de la famille des tamaricacées. L’espèce a différents noms communs, y compris les tamaris Athel, arbre Athel, Athel pin et saltcedar. C’est un arbre à feuilles verte persistantes, originaire de l'Afrique du Nord, de l'Est et centrale, à travers le Moyen-Orient et dans certaines parties de l’Ouest et l’Asie du Sud."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tamarix aphylla",
+      "source_url": "https://id.wikipedia.org/wiki/Tamarix_aphylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29885810,
+      "text": "Tamarix aphylla merupakan spesies Tamarix terbesar. Spesies ini mempunyai sederetan nama daerah, termasuk:Athel pine\nAthel tree\nAthel tamarisk\nsaltcedar"
     }
   },
   "edible": {
@@ -89,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -142,7 +169,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828051-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -150,7 +177,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828051-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000458771.webp",
@@ -163,6 +190,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

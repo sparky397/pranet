@@ -19,11 +19,34 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "セイヨウサンシュユ"
+    ],
+    "vec": [
+      "Cornołaro",
+      "Cornolaro"
+    ],
+    "pl": [
+      "dereń jadalny",
+      "dereń Właściwy"
+    ],
+    "lbe": [
+      "Жунав"
+    ],
+    "bar": [
+      "Diandling",
+      "Dirndling",
+      "Gäiwn Hartriegl",
+      "Koanelkiaschn"
+    ],
+    "hu": [
+      "húsos som"
+    ],
+    "ce": [
+      "Стов"
     ],
     "de": [
       "Kornelkirsche",
@@ -35,157 +58,34 @@
       "Kornellkirsche",
       "Tierlibaum"
     ],
-    "en": [
-      "Cornelian-cherry",
-      "Cornelian cherry dogwood",
-      "dogwood",
-      "European cornel",
-      "cornelian cherry"
+    "sq": [
+      "Thana"
     ],
-    "ar": [
-      "قرانيا أوروبية"
-    ],
-    "az": [
-      "Adi zoğal"
-    ],
-    "bar": [
-      "Diandling",
-      "Dirndling",
-      "Gäiwn Hartriegl",
-      "Koanelkiaschn"
-    ],
-    "be": [
-      "Кізіл звычайны"
-    ],
-    "bg": [
-      "Обикновен дрян"
-    ],
-    "ca": [
-      "Corneller mascle"
-    ],
-    "ce": [
-      "Стов"
-    ],
-    "cs": [
-      "dřín jarní",
-      "dřín obecný"
-    ],
-    "cy": [
-      "Cwyrosyn y ceirios"
-    ],
-    "da": [
-      "Kirsebær-Kornel",
-      "Kirsebærkornel",
-      "Kornelkirsebær"
-    ],
-    "el": [
-      "Κράνα"
-    ],
-    "eo": [
-      "Karneca kornuso"
-    ],
-    "es": [
-      "cornejo macho",
-      "corno europeo"
-    ],
-    "eu": [
-      "Zuhandor ar"
-    ],
-    "fa": [
-      "زغال اخته",
-      "زغال‌اخته"
-    ],
-    "fi": [
-      "Punamarjakanukka"
-    ],
-    "fr": [
-      "Cornouille",
-      "Cornouiller sauvage",
-      "Cornouiller mâle"
-    ],
-    "ga": [
-      "Coirnéilean"
-    ],
-    "gv": [
-      "Billey cornel"
-    ],
-    "hr": [
-      "Drenjine",
-      "Drijen",
-      "Drijenak"
+    "sh": [
+      "Drijen"
     ],
     "hsb": [
       "Zažny drěn"
     ],
-    "hu": [
-      "húsos som"
-    ],
-    "it": [
-      "Corniolo"
-    ],
-    "ka": [
-      "შვინდი",
-      "ჩვეულებრივი შინდი"
-    ],
-    "lbe": [
-      "Жунав"
-    ],
-    "lmo": [
-      "Cornàl"
-    ],
-    "lt": [
-      "Geltonoji sedula",
-      "Geltonžiedė sedula"
-    ],
-    "mk": [
-      "Дрен",
-      "обичен дрен"
-    ],
     "nl": [
-      "Gele Kornoelje"
+      "gele kornoelje"
     ],
-    "pcd": [
-      "Cornilho"
-    ],
-    "pl": [
-      "dereń Jadalny",
-      "dereń Właściwy"
-    ],
-    "pt": [
-      "Cornelian cereja",
-      "corniso",
-      "cornizo"
-    ],
-    "ro": [
-      "Corn"
-    ],
-    "ru": [
-      "Дёрен мужской",
-      "Кизил мужской",
-      "Кизил обыкновенный"
-    ],
-    "sk": [
-      "drieň obyčajný"
-    ],
-    "sl": [
-      "rumeni dren"
-    ],
-    "sq": [
-      "Thana"
-    ],
-    "sr": [
-      "дрен",
-      "Дрењина",
-      "Дрењине"
+    "ar": [
+      "قرانيا أوروبية"
     ],
     "sv": [
       "Körsbärskornell"
     ],
-    "tr": [
-      "Ergen",
-      "Ergençiçeği",
-      "Kiren",
-      "Kızılcık"
+    "sk": [
+      "drieň obyčajný"
+    ],
+    "ru": [
+      "Кизил обыкновенный",
+      "Дёрен мужской",
+      "Кизил мужской"
+    ],
+    "ro": [
+      "Corn"
     ],
     "uk": [
       "Дерен справжній",
@@ -193,9 +93,76 @@
       "Кизил",
       "Кизиль"
     ],
-    "vec": [
-      "Cornolaro",
-      "Cornołaro"
+    "sl": [
+      "rumeni dren"
+    ],
+    "cs": [
+      "dřín obecný",
+      "dřín jarní"
+    ],
+    "fa": [
+      "زغال‌اخته",
+      "زغال اخته"
+    ],
+    "bg": [
+      "обикновен дрян"
+    ],
+    "ka": [
+      "ჩვეულებრივი შინდი",
+      "შვინდი"
+    ],
+    "pcd": [
+      "Cornilho"
+    ],
+    "hr": [
+      "Drijenak",
+      "Drenjine",
+      "Drijen"
+    ],
+    "az": [
+      "Adi zoğal"
+    ],
+    "lt": [
+      "Geltonžiedė sedula",
+      "Geltonoji sedula"
+    ],
+    "gv": [
+      "Billey cornel"
+    ],
+    "da": [
+      "Kirsebær-Kornel",
+      "Kirsebærkornel",
+      "Kornelkirsebær"
+    ],
+    "sr": [
+      "дрен",
+      "Дрењина",
+      "Дрењине"
+    ],
+    "be": [
+      "Кізіл звычайны"
+    ],
+    "ca": [
+      "corneller mascle"
+    ],
+    "eu": [
+      "Zuhandor ar"
+    ],
+    "fi": [
+      "punamarjakanukka"
+    ],
+    "ga": [
+      "coirnéilean"
+    ],
+    "el": [
+      "Κράνα"
+    ],
+    "cy": [
+      "Cwyrosyn y ceirios"
+    ],
+    "mk": [
+      "дрен",
+      "обичен дрен"
     ],
     "yue": [
       "茱萸"
@@ -203,9 +170,6 @@
     "zh": [
       "大果山茱萸",
       "欧洲山茱萸"
-    ],
-    "sh": [
-      "Drijen"
     ],
     "hy": [
       "Ճապկի արական"
@@ -254,46 +218,120 @@
     ],
     "grc": [
       "κράνον"
+    ],
+    "en": [
+      "Cornelian-cherry",
+      "Cornelian cherry dogwood",
+      "dogwood",
+      "European cornel",
+      "cornelian cherry"
+    ],
+    "eo": [
+      "Karneca kornuso"
+    ],
+    "es": [
+      "cornejo macho",
+      "corno europeo"
+    ],
+    "fr": [
+      "Cornouille",
+      "Cornouiller sauvage",
+      "Cornouiller mâle"
+    ],
+    "it": [
+      "Corniolo"
+    ],
+    "lmo": [
+      "Cornàl"
+    ],
+    "pt": [
+      "Cornelian cereja",
+      "corniso",
+      "cornizo"
+    ],
+    "tr": [
+      "Ergen",
+      "Ergençiçeği",
+      "Kiren",
+      "Kızılcık"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158642",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158642",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウサンシュユ」",
+      "source": "Wikipedia (ja): セイヨウサンシュユ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109914370,
       "text": "セイヨウサンシュユ は、ミズキ目ミズキ科の落葉小高木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cornus mas」",
+      "source": "Wikipedia (en): Cornus mas",
       "source_url": "https://en.wikipedia.org/wiki/Cornus_mas",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371113483,
       "text": "Cornelian cherry, also known as the European cornel, is a species of shrub or small tree in the dogwood family Cornaceae native to Western Europe, Southern Europe, and Southwestern Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cornus mas",
+      "source_url": "https://es.wikipedia.org/wiki/Cornus_mas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 159464800,
+      "text": "Cornus mas, el cornejo macho, es una especie del género Cornus nativa del sur de Europa y suroeste de Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cornus mas",
+      "source_url": "https://fr.wikipedia.org/wiki/Cornus_mas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239278554,
+      "text": "Le Cornouiller mâle ou Cornouiller sauvage est une espèce de plantes à fleurs originaire du sud de l'Europe et de l'Asie. Il est parfois appelé cornier ou fuselier."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cornus mas",
+      "source_url": "https://pt.wikipedia.org/wiki/Cornus_mas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 59803452,
+      "text": "O Cornus mas, é uma espécie de planta pertencente ao género Cornus, conhecida pelos seus frutos semelhantes a cerejas. É nativa do sul da Europa, Mediterrâneo e sudoeste asiático."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Cornus mas」の節「Cultivation」",
+        "source": "Wikipedia (en): Cornus mas § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Cornus_mas#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1371113483,
         "heading": "Cultivation",
         "text": "The shrub was not native to the British Isles. William Turner had only heard of the plant in 1548, but by 1551 he had heard of one at Hampton Court Palace. Gerard said it was to be found in the gardens \"of such as love rare and dainty plants\".\nThe appreciation of the early acid-yellow flowers is largely a 20th-century development.\n\n■ Cultivars\nThe following cultivars have gained the Royal Horticultural Society's Award of Garden Merit (confirmed 2017): \n\n'Aurea' (yellow leaves and flowers, red fruit)\n'Golden Glory' (profuse yellow flowers, shiny red berries)\n'Variegata' (variegated leaves, glossy red fruit)",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Cornus mas § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Cornus_mas#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239278554,
+        "heading": "Culture",
+        "text": "Le Cornouiller mâle apprécie les sols frais et calcaires. Selon une autre source, il préfère les sols secs et bien drainés. \nIl supporte bien la taille et peut être formé en haie. La fructification est sujette à l'alternance. Il se propage habituellement par marcottage ou bouture à talon en automne. Le semis peut nécessiter deux ans avant de lever puis 8 à 10 ans avant de fructifier, et ne  garantit pas la fidélité au fruit d'origine.\nLes semis de noyaux donnent les plus beaux sujets.",
         "truncated": false
       }
     }
@@ -309,7 +347,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -348,7 +386,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/271612-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -356,7 +394,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/271612-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000924760.webp",
@@ -369,6 +407,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

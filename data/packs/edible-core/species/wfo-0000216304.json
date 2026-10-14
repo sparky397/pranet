@@ -26,19 +26,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Doum Palm"
-    ],
-    "zh": [
-      "埃及叉干棕",
-      "埃及姜饼棕",
-      "杜姆棕櫚樹"
-    ],
-    "grc": [
-      "κόϊξ"
+    "fr": [
+      "Palmier doum d'Égypte"
     ],
     "eo": [
       "Dumpalmo"
@@ -48,9 +40,6 @@
     ],
     "el": [
       "Φοίνικας Ντουμ"
-    ],
-    "fr": [
-      "Palmier doum d'Égypte"
     ],
     "he": [
       "דום מצרי"
@@ -76,6 +65,11 @@
     "id": [
       "Buah zuriat"
     ],
+    "zh": [
+      "杜姆棕櫚樹",
+      "埃及叉干棕",
+      "埃及姜饼棕"
+    ],
     "fi": [
       "egyptinhaarapalmu"
     ],
@@ -93,13 +87,19 @@
     ],
     "nb": [
       "dumpalme"
+    ],
+    "grc": [
+      "κόϊξ"
+    ],
+    "en": [
+      "Doum Palm"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2278032",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2278032",
   "search_names": {
@@ -111,13 +111,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Hyphaene thebaica」",
+      "source": "Wikipedia (en): Hyphaene thebaica",
       "source_url": "https://en.wikipedia.org/wiki/Hyphaene_thebaica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377899266,
       "text": "Hyphaene thebaica, with common names doum palm and gingerbread tree, is a type of palm tree with edible oval fruit. It is native to the Arabian Peninsula and also to the northern half and western part of Africa where it is widely distributed and tends to grow in places where groundwater is present."
+    },
+    "es": {
+      "source": "Wikipedia (es): Hyphaene thebaica",
+      "source_url": "https://es.wikipedia.org/wiki/Hyphaene_thebaica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581497,
+      "text": "La palmera de la Tebaida o palmera dum, es una especie de palmera en la subfamilia Coryphoideae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Palmier doum d'Égypte",
+      "source_url": "https://fr.wikipedia.org/wiki/Palmier_doum_d'%C3%89gypte",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235888633,
+      "text": "Le palmier doum d'Égypte, al-dūm (الدوم) en arabe et azgelm en berbère, est une espèce de palmier de la famille des Arecaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Hyphaene thebaica",
+      "source_url": "https://id.wikipedia.org/wiki/Hyphaene_thebaica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26743753,
+      "text": "Hyphaene thebaica merupakan tanaman yang tumbuh subur di Arab Saudi dan negara-negara timur tengah seperti Mesir, Sudan dan sekitarnya."
     }
   },
   "edible": {
@@ -135,7 +162,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -174,7 +201,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/667540-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -182,7 +209,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/667540-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000216304.webp",
@@ -195,6 +222,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

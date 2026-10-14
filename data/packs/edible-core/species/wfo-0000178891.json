@@ -16,21 +16,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "球花豆",
-      "云南重楼"
-    ],
-    "tl": [
-      "kupang"
+    "id": [
+      "Kedaung"
     ],
     "th": [
       "เหรียง"
     ],
-    "id": [
-      "Kedaung"
+    "zh": [
+      "球花豆",
+      "云南重楼"
     ],
     "jv": [
       "Kedhawung"
@@ -43,24 +40,54 @@
     ],
     "ace": [
       "Keudawông"
+    ],
+    "tl": [
+      "kupang"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q13560260",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q13560260",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Parkia timoriana」",
+      "source": "Wikipedia (en): Parkia timoriana",
       "source_url": "https://en.wikipedia.org/wiki/Parkia_timoriana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357633561,
       "text": "Parkia timoriana is a species of flowering plant in the Mimosa subfamily (Mimosoideae) of the legume family. English common names include tree bean. It is native to Thailand, Malaysia, Myanmar, Indonesia, and Assam and Manipur in India. It is widely cultivated for food and wood, and as an ornamental."
+    },
+    "es": {
+      "source": "Wikipedia (es): Parkia timoriana",
+      "source_url": "https://es.wikipedia.org/wiki/Parkia_timoriana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173851886,
+      "text": "Parkia timoriana es una especie de planta tipo árbol de flor de la familia Fabaceae. Entre los nombres comunes se encuentran parkia, árbol de los frijoles. Otros nombres comunes son petai hutan en Borneo, yongchak en Manipur, India, nitta tree y riang en Tailandia, kedawung y peundung en Java, alai en Sumatra, petai kerayong y batai hutan en Malasia, y kupang y amarang en las Filipinas. Es nativa de Tailandia, Malasia, Birmania, Indonesia, y Assam en India. Es cultivada para aprovechar su madera y consumir sus frutos, y también como árbol ornamental."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Parkia timoriana",
+      "source_url": "https://fr.wikipedia.org/wiki/Parkia_timoriana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230530569,
+      "text": "Parkia timoriana, appelé communément arbre à haricots, est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un arbre originaire d'Asie."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kedaung",
+      "source_url": "https://id.wikipedia.org/wiki/Kedaung",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29841579,
+      "text": "Kedaung  atau kedawung adalah pohon kayu besar yang berbuah polong, dapat dibuat obat, bijinya berwarna hitam dan tidak berbau. Tumbuhan ini dikenal sebagai tumbuhan obat penting dalam industri jamu, diambil terutama bijinya. Selain biji bagian lain yang berkhasiat obat adalah kulit kayu, daun, dan akar."
     }
   },
   "edible": {
@@ -76,7 +103,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -105,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/512235-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -113,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/512235-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000178891.webp",
@@ -126,6 +153,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

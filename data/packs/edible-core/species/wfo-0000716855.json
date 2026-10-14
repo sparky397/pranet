@@ -24,77 +24,46 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Quirl-Weißwurz",
-      "Quirlblättrige Weißwurz",
-      "Quirlblättrige Weisswurz"
-    ],
-    "ar": [
-      "عقداء دوارية"
-    ],
-    "cs": [
-      "kokořík přeslenitý"
-    ],
-    "cy": [
-      "Llysiau-Solomon culddail"
-    ],
-    "da": [
-      "Krans-Konval"
-    ],
-    "en": [
-      "Whorled Solomon's-seal"
-    ],
-    "es": [
-      "poligonato",
-      "poligonia de hojas estrechas",
-      "sello de Salomón",
-      "sello de Santa María"
-    ],
-    "fi": [
-      "Kiehkurakielo"
-    ],
     "fr": [
+      "Sceau-de-Salomon verticillé",
       "Sceau de Salomon verticille",
       "Sceau de Salomon verticillé",
       "sceau de salomon à feuilles verticilées"
     ],
-    "hsb": [
-      "Hórska kokorička"
+    "pl": [
+      "kokoryczka okółkowa"
     ],
-    "hu": [
-      "örvös salamonpecsét",
-      "pávafarkfű",
-      "Pávafarkú salamonpecsét"
+    "fi": [
+      "kiehkurakielo"
+    ],
+    "de": [
+      "Quirlblättrige Weißwurz",
+      "Quirl-Weißwurz",
+      "Quirlblättrige Weisswurz"
+    ],
+    "nn": [
+      "kranskonvall"
     ],
     "lt": [
       "Menturlapė baltašaknė"
     ],
+    "hsb": [
+      "Hórska kokorička"
+    ],
+    "da": [
+      "Krans-Konval"
+    ],
     "nl": [
       "Kranssalomonszegel"
     ],
-    "nn": [
-      "Kranskonvall"
-    ],
-    "pl": [
-      "Kokoryczka okółkowa"
-    ],
-    "ru": [
-      "Купена мутовчатая"
-    ],
-    "sk": [
-      "kokorík praslenatý"
+    "ar": [
+      "عقداء دوارية"
     ],
     "sv": [
       "Kransrams"
-    ],
-    "tr": [
-      "Helezonik mührüsüleyman"
-    ],
-    "uk": [
-      "Купина кільчаста"
     ],
     "zh": [
       "轮叶黄精",
@@ -102,8 +71,28 @@
       "滇竹根七",
       "轮叶黄精（大黄精)"
     ],
+    "ru": [
+      "Купена мутовчатая"
+    ],
+    "hu": [
+      "pávafarkú salamonpecsét",
+      "örvös salamonpecsét",
+      "pávafarkfű"
+    ],
+    "cy": [
+      "Llysiau-Solomon culddail"
+    ],
+    "uk": [
+      "Купина кільчаста"
+    ],
     "bg": [
       "прешленеста момкова сълза"
+    ],
+    "sk": [
+      "kokorík praslenatý"
+    ],
+    "cs": [
+      "kokořík přeslenitý"
     ],
     "os": [
       "Цъироба"
@@ -128,24 +117,54 @@
     ],
     "grc": [
       "πολυγόνατον"
+    ],
+    "en": [
+      "Whorled Solomon's-seal"
+    ],
+    "es": [
+      "poligonato",
+      "poligonia de hojas estrechas",
+      "sello de Salomón",
+      "sello de Santa María"
+    ],
+    "tr": [
+      "Helezonik mührüsüleyman"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159281",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159281",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Polygonatum verticillatum」",
+      "source": "Wikipedia (en): Polygonatum verticillatum",
       "source_url": "https://en.wikipedia.org/wiki/Polygonatum_verticillatum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306456668,
       "text": "Polygonatum verticillatum or whorled Solomon's-seal is a plant species of the genus Polygonatum. It is widespread in Europe and also in China and the Himalayas though not reported from large sections of western and Central Asia in between those two ranges."
+    },
+    "es": {
+      "source": "Wikipedia (es): Polygonatum verticillatum",
+      "source_url": "https://es.wikipedia.org/wiki/Polygonatum_verticillatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581240,
+      "text": "Polygonatum verticillatum es una especie de planta de perteneciente a la familia de las asparagáceas. Se encuentra en Eurasia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sceau-de-Salomon verticillé",
+      "source_url": "https://fr.wikipedia.org/wiki/Sceau-de-Salomon_verticill%C3%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236644003,
+      "text": "Le Sceau-de-Salomon verticillé est une plante herbacée vivace, rhizomateuse, de la famille des Asparagacées. Certains la classent parmi les Liliacées."
     }
   },
   "edible": {
@@ -158,7 +177,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -202,7 +221,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/540250-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -210,7 +229,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/540250-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000716855.webp",
@@ -223,6 +242,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

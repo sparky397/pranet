@@ -32,36 +32,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "tegwch y bore"
-    ],
-    "en": [
-      "tall morning-glory"
-    ],
-    "zh": [
-      "紫花牽牛",
-      "圆叶牵牛",
-      "牵牛子",
-      "圆叶牵牛（毛牵牛）"
-    ],
-    "cs": [
-      "povijnice nachová"
+    "id": [
+      "Sripagi ungu",
+      "Sri pagi ungu"
     ],
     "de": [
-      "Prunkwinde",
-      "Purpur-Prunkwinde"
-    ],
-    "fi": [
-      "aitoelämänlanka"
-    ],
-    "es": [
-      "Gloria de la mañana"
+      "Purpur-Prunkwinde",
+      "Prunkwinde"
     ],
     "pl": [
       "Wilec purpurowy"
+    ],
+    "cs": [
+      "povijnice nachová"
     ],
     "fr": [
       "Volubilis"
@@ -69,8 +55,17 @@
     "az": [
       "Al-qırmızı ipomeya"
     ],
+    "fi": [
+      "aitoelämänlanka"
+    ],
     "sv": [
       "Purpurvinda"
+    ],
+    "zh": [
+      "圆叶牵牛",
+      "紫花牽牛",
+      "牵牛子",
+      "圆叶牵牛（毛牵牛）"
     ],
     "nl": [
       "Dagwinde"
@@ -89,6 +84,9 @@
     ],
     "fa": [
       "نیلوفر ارغوانی"
+    ],
+    "cy": [
+      "Tegwch y bore"
     ],
     "bg": [
       "лилаво грамофонче"
@@ -126,26 +124,80 @@
     "arz": [
       "اثمان ارجوانى"
     ],
-    "id": [
-      "Sri pagi ungu"
+    "en": [
+      "tall morning-glory"
+    ],
+    "es": [
+      "Gloria de la mañana"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1630964",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1630964",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ipomoea purpurea」",
+      "source": "Wikipedia (en): Ipomoea purpurea",
       "source_url": "https://en.wikipedia.org/wiki/Ipomoea_purpurea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1366275100,
       "text": "Ipomoea purpurea, the common morning-glory, tall morning-glory, or purple morning glory, is a species in the genus Ipomoea."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ipomoea purpurea",
+      "source_url": "https://es.wikipedia.org/wiki/Ipomoea_purpurea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174808890,
+      "text": "Ipomoea purpurea, llamada popularmente gloria de la mañana, manto de María, don Diego de día, campanilla morada o quiebraplatos, es una especie de la familia Convolvulaceae, nativa de México, América del Sur y de Centroamérica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ipomoea purpurea",
+      "source_url": "https://fr.wikipedia.org/wiki/Ipomoea_purpurea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226276444,
+      "text": "Le volubilis est une espèce de plantes herbacées de la famille des Convolvulaceae originaire du Mexique. Elle est largement cultivée comme fleur de jardin annuelle dans les régions tempérées où elle est appréciée pour sa végétation exubérante et ses grandes fleurs en entonnoir. Elle peut parfois devenir une plante invasive."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ipomoea purpurea",
+      "source_url": "https://pt.wikipedia.org/wiki/Ipomoea_purpurea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71553622,
+      "text": "Ipomoea purpurea, a Glória da Manhã, Corda-de-viola, é uma espécie do gênero Ipomoea, nativa do México e da América Central. Esse nome que designa muitas das 500-700 espécies de Ipomoea, se deve ao comportamento das suas flores abertas durante a noite ou na luz. A palavra grega \"Ips\" designa verme (σκουλήκι), \"ipomoea\" refere-se ao seu entrelaçamento. As ipomoeas já foram designadas como \"Convolvulus\" e essa espécie por Convolvulus pupurea por sua cor, somente no século XX recebeu seu nome atual \"Glória da Manhã\"."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sripagi ungu",
+      "source_url": "https://id.wikipedia.org/wiki/Sripagi_ungu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29706342,
+      "text": "Sripagi ungu, sripagi biasa, atau terulak ungu adalah tanaman berbunga dari spesies dalam genus Ipomoea, yang berasal dari Meksiko dan Amerika Tengah."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Ipomoea purpurea § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Ipomoea_purpurea#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 226276444,
+        "heading": "Culture",
+        "text": "Ses très nombreux cultivars sont aujourd'hui largement cultivés pour garnir les treillages et tonnelles. Elle peut aussi grimper sur des tiges en bambous ou un grillage.\nCette plante spectaculaire et très facile à réussir peut se semer en intérieur fin février ou en place à l'extérieur en mai (dès que les températures ne descendent plus sous 10 °C). Elle apprécie les sols riches.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -162,7 +214,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -329,7 +381,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30043043-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing annual",
@@ -337,7 +389,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30043043-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001296676.webp",
@@ -350,6 +402,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 326,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -20,45 +20,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "マリアアザミ"
     ],
-    "de": [
-      "Gewöhnliche Mariendistel",
-      "Mariendistel"
-    ],
-    "en": [
-      "blessed milkthistle"
-    ],
-    "nl": [
-      "Mariadistel"
-    ],
-    "cs": [
-      "ostropestřec mariánský"
-    ],
-    "fi": [
-      "maarianohdake"
-    ],
-    "zh": [
-      "水飞蓟"
-    ],
-    "ast": [
-      "cardu marianu"
-    ],
-    "sl": [
-      "pegasti badelj"
+    "fr": [
+      "Chardon-Marie",
+      "chardon-Marie"
     ],
     "pms": [
       "Sylibum marianum"
     ],
     "pl": [
       "Ostropest plamisty"
-    ],
-    "fr": [
-      "chardon-Marie"
     ],
     "he": [
       "גדילן מצוי"
@@ -69,11 +45,18 @@
     "gl": [
       "Cardo leiteiro"
     ],
+    "de": [
+      "Mariendistel",
+      "Gewöhnliche Mariendistel"
+    ],
     "sv": [
       "Mariatistelsläktet"
     ],
     "ar": [
       "سلبين مريمي"
+    ],
+    "nl": [
+      "Mariadistel"
     ],
     "sk": [
       "pestrec mariánsky"
@@ -83,6 +66,15 @@
     ],
     "ca": [
       "card marià"
+    ],
+    "fi": [
+      "maarianohdake"
+    ],
+    "sl": [
+      "pegasti badelj"
+    ],
+    "cs": [
+      "ostropestřec mariánský"
     ],
     "fa": [
       "خار مریم"
@@ -101,6 +93,9 @@
     ],
     "kk": [
       "Алатікен"
+    ],
+    "zh": [
+      "水飞蓟"
     ],
     "ku": [
       "Givzonik"
@@ -176,13 +171,19 @@
     ],
     "ko": [
       "밀크씨슬"
+    ],
+    "en": [
+      "blessed milkthistle"
+    ],
+    "ast": [
+      "cardu marianu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q193798",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q193798",
   "search_names": {
@@ -208,48 +209,117 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「マリアアザミ」",
+      "source": "Wikipedia (ja): マリアアザミ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%A2%E3%82%A2%E3%82%B6%E3%83%9F",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109709718,
       "text": "マリアアザミ はキク科オオアザミ属の二年草。英名はミルクシスル。原産地はヨーロッパ（地中海沿岸）。日本には嘉永年間に渡来し、西日本などに点在して帰化植物として分布している。標準和名はオオアザミ（大薊）。マリアアザミはその別名で、聖母マリアにミルクを捧げる娘がトゲに触れ、驚いてこぼしたミルクが葉を白くしたという伝説による。中国名は、水飛薊。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Silybum marianum」",
+      "source": "Wikipedia (en): Silybum marianum",
       "source_url": "https://en.wikipedia.org/wiki/Silybum_marianum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374092218,
       "text": "Silybum marianum is a species of thistle. It has various common names including milk thistle, blessed milkthistle, Marian thistle, Mary thistle, Saint Mary's thistle, Mediterranean milk thistle, variegated thistle and Scotch thistle. This species is an annual or biennial plant of the family Asteraceae. This fairly typical thistle has red to purple flowers and shiny pale green leaves with white veins. Once native from Southern Europe through Asia, it has spread throughout the world."
+    },
+    "es": {
+      "source": "Wikipedia (es): Silybum marianum",
+      "source_url": "https://es.wikipedia.org/wiki/Silybum_marianum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172915783,
+      "text": "Silybum marianum es una especie del género Silybum en la familia Asteraceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Chardon-Marie",
+      "source_url": "https://fr.wikipedia.org/wiki/Chardon-Marie",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230938241,
+      "text": "Le Chardon-Marie est une espèce de plantes à fleurs de la famille des astéracées, seul représentant connu du genre Silybum."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Silybum marianum",
+      "source_url": "https://pt.wikipedia.org/wiki/Silybum_marianum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73186779,
+      "text": "Silybum marianum é uma espécie de planta com flor pertencente à família Compostae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Silybum marianum",
+      "source_url": "https://id.wikipedia.org/wiki/Silybum_marianum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29410462,
+      "text": "Silybum marianum merupakan spesies rumput duri (thistle). Ia memiliki berbagai nama umum termasuk milk thistle, blessed milk thistle, Marian thistle, Mary thistle, Saint Mary's thistle, Mediterranean milk thistle, variegated thistle dan Scotch thistle. Spesies ini adalah tumbuhan semusim atau dua musim dari famili Asteraceae. Tumbuhan berduri yang cukup khas ini memiliki bunga berwarna merah hingga ungu dan daun hijau pucat mengkilap dengan urat putih. Dulunya tumbuhan ini hanya terdapat di Eropa Selatan hingga Asia, namun sekarang telah menyebar ke seluruh dunia."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Silybum marianum」の節「Cultivation」",
+        "source": "Wikipedia (en): Silybum marianum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Silybum_marianum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374092218,
         "heading": "Cultivation",
         "text": "Milk thistle is an adaptive crop with low requirements. It is mainly cultivated as a medicinal plant but it is also sometimes used as a food source. It's mainly cultivated in Europe but also in Asia and North America.  Milk thistle is a biennial plant, it is normally grown as an annual plant, which simplifies cultivation. When the main requirements of the plant are met, then the milk thistle will blossom in the first year.\nMilk thistle has low soil nutrient requirements and is drought resistant. The optimal pH ranges from 5.5 to 7.6, but a wide range is acceptable. The seeds are directly sown into the soil with a sowing depth of 1 to 1.5 cm. For germination, a minimal temperature of 2 °C (36 °F) is needed. Sowing can be done in Autumn or in Spring, depending on the climate conditions. Row spacing is between 40 and 75 cm with a plant space of about 25 cm in the rows. Fertilization is not necessarily needed because of the low nutrient requirements. A standard fertilization rate of 50 kg nitrogen, 30 kg phosphorus and 60 kg potassium per hectare is applied before sowing, to improve yields. Harvest normally occurs in July or August. Since the flower heads do not ripen evenly, optimal harvest time is about a fortnight after 50% of the flower heads are dry. For harvesting a common cereal combine harvester can be used. In Poland, average yields are 1230 kg per ha with an average silymarin content of 26.5 kg per ha.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Silybum marianum § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Silybum_marianum#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29410462,
+        "heading": "Budidaya",
+        "text": "Milk thistle merupakan tanaman adaptif dengan kebutuhan nutrisi yang rendah. Tanaman ini terutama dibudidayakan sebagai tumbuhan obat, tetapi terkadang juga digunakan sebagai sumber makanan. Tanaman ini terutama dibudidayakan di Eropa, tetapi juga di Asia dan Amerika Utara. Milk thistle adalah tumbuhan dua musim, biasanya ditanam sebagai tanaman semusim, yang menyederhanakan budidaya. Ketika kebutuhan utama tanaman terpenuhi, maka milk thistle akan berbunga pada tahun pertama.\nMilk thistle memiliki kebutuhan nutrisi tanah yang rendah dan tahan terhadap kekeringan. pH optimal berkisar antara 5,5 hingga 7,6; tetapi kisaran yang luas dapat diterima. Benih ditabur langsung ke dalam tanah dengan kedalaman penaburan 1 hingga 1,5 cm. Untuk perkecambahan, dibutuhkan suhu minimal 2 °C. Penaburan dapat dilakukan pada musim gugur atau musim semi, tergantung pada kondisi iklim.  Jarak antar baris adalah antara 40 dan 75 cm dengan jarak antar tanaman sekitar 25 cm di dalam baris. Pemupukan tidak selalu diperlukan karena kebutuhan nutrisi yang rendah. Tingkat pemupukan standar sebesar 50 kg nitrogen, 30 kg fosforus, dan 60 kg kalium per hektar diberikan sebelum penanaman untuk meningkatkan hasil panen. Panen biasanya terjadi pada bulan Juli atau Agustus. Karena kepala bunga tidak matang secara merata, waktu panen optimal adalah sekitar dua minggu setelah 50% kepala bunga mengering. Untuk panen, dapat digunakan mesin pemanen kombinasi serealia biasa. Di Polandia, hasil rata-rata adalah 1230 kg per ha dengan kandungan silimarin rata-rata 26,5 kg per ha.",
         "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Silybum marianum」の節「Toxicity」",
+        "source": "Wikipedia (en): Silybum marianum § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Silybum_marianum#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374092218,
         "heading": "Toxicity",
         "text": "Milk thistle based supplements have been measured to have the highest mycotoxin concentrations of up to 37 mg/kg when compared to various plant-based dietary supplements.\nUse of milk thistle may cause stomach upset and produce allergic reactions in some people. There is a documented case of a 29-year-old employee at an organic food production facility who was found to have an isolated allergy to milk thistle. The allergy developed through inhalation, and clinical symptoms (runny nose, sneezing, watery and burning eyes, and wheezing) did not appear until a few years after the period of direct work involving the packaging of ground milk thistle fruit. The patient reported that he had never previously consumed milk thistle in the form of infusions or dietary supplements. The patient described was also found to have an allergy to Eragrostis tef, wasp venom, and hypersensitivity to certain raw fruits and vegetables. It is anticipated that the growing popularity of milk thistle-based products in the food and pharmaceutical industries may lead to more frequent recognition of hypersensitivity to this plant. Eyelid edema, ocular pruritus, dry eye, diplopia, and blurred vision are among the reported complications based on registered side effects in the WHO global database of adverse drug reactions.\n\n■ Leaf toxicity\n\nBecause of nitrate content, the leaf has been found to be toxic to cattle and sheep. When potassium nitrate is eaten by ruminants, the bacteria in the animal's stomach breaks the chemical down, producing nitrite ions. Nitrite ions then combine with hemoglobin to produce methemoglobin, blocking the transport of oxygen. The result is a form of oxygen deprivation.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Silybum marianum § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Silybum_marianum#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 172915783,
+        "heading": "Toxicidad",
+        "text": "La planta puede contener altas concentraciones de nitrato de potasio, lo cual es potencialmente peligroso para el ganado rumiante, en el estómago del cual la flora bacteriana lo transforma en nitrito que se combina con la hemoglobina, produciendo anoxia y fracaso circulatorio periférico.\n\nEstudios en Pubmed Sobre el Cardo Mariano. Actualmente la pub med cuenta con estudios sobre la utilizacion del mismo.Entre ellos los Siguientes:\nnuevos conocimientos sobre la vía biosintética de la silimarina:\nhttps://pubmed.ncbi.nlm.nih.gov/28863306/\nEfectos en el hígado:\nhttps://pubmed.ncbi.nlm.nih.gov/28457856/\nCáncer de próstata:\nhttps://pubmed.ncbi.nlm.nih.gov/15899838/",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Silybum marianum § Toksisitas",
+        "source_url": "https://id.wikipedia.org/wiki/Silybum_marianum#Toksisitas",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29410462,
+        "heading": "Toksisitas",
+        "text": "Suplemen berbasis milk thistle telah diukur memiliki konsentrasi mikotoksin tertinggi hingga 37 mg/kg bila dibandingkan dengan berbagai suplemen makanan berbasis tumbuhan.\nPenggunaan milk thistle dapat menyebabkan sakit perut dan menimbulkan reaksi alergi pada beberapa orang. Terdapat kasus yang terdokumentasi pada seorang karyawan berusia 29 tahun di fasilitas produksi makanan organik yang ditemukan memiliki alergi terisolasi terhadap milk thistle. Alergi tersebut berkembang melalui inhalasi, dan gejala klinis (hidung berair, bersin, mata berair dan terasa terbakar, serta mengi) tidak muncul sampai beberapa tahun setelah periode kerja langsung yang melibatkan pengemasan buah milk thistle yang digiling. Pasien melaporkan bahwa ia sebelumnya tidak pernah mengonsumsi milk thistle dalam bentuk infus atau suplemen makanan. Pasien yang dijelaskan juga ditemukan memiliki alergi terhadap Eragrostis tef, bisa tawon, dan hipersensitivitas terhadap buah dan sayuran mentah tertentu. Diperkirakan bahwa meningkatnya popularitas produk berbasis milk thistle di industri makanan dan farmasi dapat menyebabkan lebih seringnya pengakuan hipersensitivitas terhadap tumbuhan ini. Edema kelopak mata, gatal pada mata, mata kering, diplopia, dan penglihatan kabur termasuk di antara komplikasi yang dilaporkan berdasarkan efek samping yang terdaftar dalam basis data global reaksi obat yang merugikan WHO.\n\n■ Toksisitas daun\n\nKarena kandungan nitrat, daunnya telah ditemukan beracun bagi sapi dan domba. Ketika kalium nitrat dimakan oleh ruminansia, bakteri di perut hewan memecah zat kimia tersebut, sehingga menghasilkan ion nitrit. Ion nitrit kemudian bergabung dengan hemoglobin untuk menghasilkan methemoglobin, yang menghalangi pengangkutan oksigen. Hasilnya adalah suatu bentuk kekurangan oksigen.",
         "truncated": false
       }
     }
@@ -265,7 +335,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -440,7 +510,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/249211-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -448,7 +518,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/249211-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000014591.webp",
@@ -461,6 +531,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 281,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

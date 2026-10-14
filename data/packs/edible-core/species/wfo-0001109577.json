@@ -49,31 +49,28 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "vegetable fern"
-    ],
-    "zh": [
-      "過溝菜蕨",
-      "菜蕨",
-      "食用双盖蕨"
-    ],
-    "vi": [
-      "rau dớn"
+    "id": [
+      "Paku sayur"
     ],
     "nan": [
       "Koeh-niau"
     ],
-    "id": [
-      "Paku sayur"
+    "vi": [
+      "rau dớn"
     ],
     "ne": [
       "पानीनिहुरो"
     ],
     "th": [
       "ผักกูด"
+    ],
+    "zh": [
+      "食用双盖蕨",
+      "過溝菜蕨",
+      "菜蕨"
     ],
     "ru": [
       "Диплазиум съедобный"
@@ -113,24 +110,45 @@
     ],
     "shn": [
       "တူၼ်ႈၽၵ်းၵုတ်ႇ"
+    ],
+    "en": [
+      "vegetable fern"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q625571",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q625571",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Diplazium esculentum」",
+      "source": "Wikipedia (en): Diplazium esculentum",
       "source_url": "https://en.wikipedia.org/wiki/Diplazium_esculentum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378676949,
       "text": "Diplazium esculentum, the vegetable fern, is an edible fern found throughout Asia and Oceania. It is probably one of the most commonly consumed ferns."
+    },
+    "es": {
+      "source": "Wikipedia (es): Diplazium esculentum",
+      "source_url": "https://es.wikipedia.org/wiki/Diplazium_esculentum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174538691,
+      "text": "Diplazium esculentum, paca, es una especie de helecho comestible propio de Asia y Oceanía. Probablemente es la especie de helecho más consumida. En Malasia se le denomina pucuk paku y paku tanjung,  pakô en Filipinas, dhekia (ঢেকীয়া) en Assam \"Dhenkir Shaak en Bengalí, y linguda en el norte de India, en referencia a su fronda ensortijada. En Tailandia se le denomina phak khut. Si bien podría contener pequeñas cantidades de toxinas de los helechos, no existen registros de efectos tóxicos significativos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Paku sayur",
+      "source_url": "https://id.wikipedia.org/wiki/Paku_sayur",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29966816,
+      "text": "Paku sayur merupakan sejenis paku/pakis yang biasa dimakan ental mudanya sebagai sayuran oleh penduduk Asia Tenggara dan kepulauan di Samudera Pasifik. Paku ini biasanya tumbuh di tepi sungai atau di tebing-tebing yang lembap dan teduh. Pemanfaatanya biasanya digulai atau dijadikan lalap setelah direbus terlebih dahulu. Konsumsi mentah tidak dianjurkan karena mengandung asam sikimat yang mengganggu pencernaan manusia."
     }
   },
   "edible": {
@@ -144,7 +162,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -195,7 +213,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/17086810-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -203,7 +221,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/17086810-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001109577.webp",
@@ -216,6 +234,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 233,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

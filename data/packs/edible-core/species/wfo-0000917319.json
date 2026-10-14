@@ -23,14 +23,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ナピアグラス"
     ],
-    "zh": [
-      "象草"
+    "pt": [
+      "Capim-napiê"
+    ],
+    "id": [
+      "Rumput gajah"
     ],
     "fi": [
       "elefanttisulkahirssi"
@@ -49,6 +52,9 @@
     ],
     "arz": [
       "ثيوم ارجوانى"
+    ],
+    "zh": [
+      "象草"
     ],
     "ko": [
       "큰왕풀"
@@ -77,9 +83,6 @@
     "kn": [
       "ಆನೆ ಹುಲ್ಲು"
     ],
-    "id": [
-      "Rumput gajah"
-    ],
     "ki": [
       "Thaara (Cenchrus purpureus)"
     ]
@@ -88,27 +91,63 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q41531378",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q41531378",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ナピアグラス」",
+      "source": "Wikipedia (ja): ナピアグラス",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%94%E3%82%A2%E3%82%B0%E3%83%A9%E3%82%B9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106369344,
       "text": "ナピアグラス Pennisetum purpureum Schumach. はイネ科の植物の1つ。背が高くなる草本で、エノコログサを引き延ばしたような直立する黄色い穂がよく目立つ。牧草に用いられ、世界の熱帯、亜熱帯域に拡がっている。日本では沖縄でよく見られる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cenchrus purpureus」",
+      "source": "Wikipedia (en): Cenchrus purpureus",
       "source_url": "https://en.wikipedia.org/wiki/Cenchrus_purpureus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368875018,
       "text": "Cenchrus purpureus, synonym Pennisetum purpureum, also known as Napier grass, elephant grass or Uganda grass, is a species of perennial tropical grass native to African grasslands. It has low water and nutrient requirements, and therefore can make use of otherwise uncultivated lands."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cenchrus purpureus",
+      "source_url": "https://es.wikipedia.org/wiki/Cenchrus_purpureus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 158642235,
+      "text": "Cenchrus purpureus, llamada comúnmente hierba de elefante, pasto de Napier o pasto de Uganda, es una especie de la familia Poaceae nativa de las planicies tropicales de África. Es una perenne alta, de 2 a 4,5 m, con hojas aserradas de 30 a 120 cm de longitud y 1 a 5 cm de ancho. El nombre hierba de elefante deriva del hecho de que es el alimento favorito de estos animales."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cenchrus purpureus",
+      "source_url": "https://fr.wikipedia.org/wiki/Cenchrus_purpureus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223795846,
+      "text": "Cenchrus purpureus est une espèce de plantes monocotylédones de la famille des Poaceae (graminées), sous-famille des Panicoideae, originaire d'Afrique tropicale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Capim-napiê",
+      "source_url": "https://pt.wikipedia.org/wiki/Capim-napi%C3%AA",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69370106,
+      "text": "Pennisetum purpureum é uma espécie de planta com flor pertencente à família Poaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Rumput gajah",
+      "source_url": "https://id.wikipedia.org/wiki/Rumput_gajah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30015421,
+      "text": "Rumput gajah adalah rumput berukuran besar bernutrisi tinggi yang biasanya dipakai sebagai pakan ternak seperti sapi, kambing, gajah, dll. Rumput gajah banyak dibudidayakan di Afrika karena ketahanannya terhadap cuaca panas. Dalam bahasa Inggris dikenal sebagai elephant grass, naper grass, atau Uganda grass."
     }
   },
   "edible": {
@@ -127,7 +166,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -277,7 +316,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77106033-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or rhizomatous geophyte",
@@ -285,7 +324,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77106033-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000917319.webp",
@@ -298,6 +337,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

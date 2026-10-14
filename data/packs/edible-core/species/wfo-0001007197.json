@@ -10,26 +10,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "West Indian raspberry"
+    "pt": [
+      "Amora-vermelha"
+    ],
+    "id": [
+      "Arbei gunung"
+    ],
+    "vi": [
+      "Đồ mi"
     ],
     "zh": [
+      "空心泡",
       "細葉懸鉤子",
       "霧社懸鉤子",
       "南湖懸鉤子",
       "刺莓",
       "錫金懸鉤子",
-      "空心泡",
       "空心藨"
-    ],
-    "pt": [
-      "Amora-vermelha"
-    ],
-    "vi": [
-      "Đồ mi"
     ],
     "ru": [
       "Малина розолистная"
@@ -43,32 +43,68 @@
     "ban": [
       "Gunggung"
     ],
-    "id": [
-      "Arbei gunung"
-    ],
     "my": [
       "ငါးဥနီ"
     ],
     "shn": [
       "မၢၵ်ႇႁူႈလႅင်"
+    ],
+    "en": [
+      "West Indian raspberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2705473",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2705473",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rubus rosifolius」",
+      "source": "Wikipedia (en): Rubus rosifolius",
       "source_url": "https://en.wikipedia.org/wiki/Rubus_rosifolius",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354485026,
       "text": "Rubus rosifolius is a species of prickly subshrub with the common names roseleaf bramble, Mauritius raspberry, thimbleberry, Vanuatu raspberry and bramble of the Cape. Its double-flowered variety is named Rubus rosifolius var. coronarius."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rubus rosifolius",
+      "source_url": "https://es.wikipedia.org/wiki/Rubus_rosifolius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174108510,
+      "text": "Rubus rosifolius, es una especie de arbusto nativo de los bosques húmedos y bosques abiertos de los Himalayas, este de Asia, y este de Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rubus rosifolius",
+      "source_url": "https://fr.wikipedia.org/wiki/Rubus_rosifolius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235825001,
+      "text": "Rubus rosifolius, le framboisier d'Asie, est une espèce de plantes à fleurs de la famille des Rosaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Amora-vermelha",
+      "source_url": "https://pt.wikipedia.org/wiki/Amora-vermelha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 59417554,
+      "text": "A Amora-vermelha é o pseudofruto de Rubus rosifolius Sm., uma planta considerada nativa de diversas regiões da África, de grande parte dos países Ásia e Oceania."
+    },
+    "id": {
+      "source": "Wikipedia (id): Arbei gunung",
+      "source_url": "https://id.wikipedia.org/wiki/Arbei_gunung",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28988339,
+      "text": "Rubus rosifolius atau dikenal dengan nama arbei gunung, arbei hutan, ucen-ucen, gucen atau kemutung adalah spesies tumbuhan dari famili Rosaceae. Tumbuhan ini dikenal karena buahnya yang dapat dimakan."
     }
   },
   "edible": {
@@ -84,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -156,7 +192,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/739800-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -164,7 +200,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/739800-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001007197.webp",
@@ -177,6 +213,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

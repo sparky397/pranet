@@ -12,12 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "phalsa"
-    ],
     "hi": [
       "फ़ालसा"
     ],
@@ -86,13 +83,16 @@
     ],
     "shn": [
       "ယႃႈၵဵတ်းလူၺ်ၵႆႇ"
+    ],
+    "en": [
+      "phalsa"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1998501",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1998501",
   "search_names": {
@@ -102,13 +102,46 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Grewia asiatica」",
+      "source": "Wikipedia (en): Grewia asiatica",
       "source_url": "https://en.wikipedia.org/wiki/Grewia_asiatica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1358745831,
       "text": "Grewia asiatica, commonly known as phalsa or falsa, is a species of flowering plant in the mallow family Malvaceae. Grewia celtidifolia was initially considered a mere variety of phalsa, but is now recognized as a distinct species."
+    },
+    "es": {
+      "source": "Wikipedia (es): Grewia asiatica",
+      "source_url": "https://es.wikipedia.org/wiki/Grewia_asiatica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166156576,
+      "text": "Grewia asiatica es una especie del género Grewia nativa del sur de Asia desde Pakistán a Camboya, y ampliamente cultivada en otros países tropicales. Grewia celtidifolia estaba inicialmente considerada como una variedad de Grewia asiatica, pero ahora se la considera como una especie distinta."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Grewia asiatica",
+      "source_url": "https://fr.wikipedia.org/wiki/Grewia_asiatica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 205757737,
+      "text": "Grewia asiatica, aussi appelé phalsa, est un arbre de petite taille originaire d'Asie tropicale, assez largement cultivé pour son fruit."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Grewia asiatica § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Grewia_asiatica#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 205757737,
+        "heading": "Culture",
+        "text": "Le phalsa est une plante de régions subtropicales mais pouvant s'adapter à différents climats. Il supporte un gel léger, de fortes chaleurs et surtout particulièrement bien la sècheresse. Presque tous les types de sols lui conviennent.\nLes graines germent en 15 à 20 jours.\nLes fleurs se forment uniquement sur les pousses de l'année : une taille en période de dormance favorise leur formation.\nLe fruit atteint sa maturité en 7 à 8 semaines. La récolte s'étale sur environ 3 semaines. Sur l'année, elle peut atteindre 3 à 5 kg par plant, ou 4,5 à 6 t/ha.\nLa dormance, en régions subtropicales, dure un mois à un mois et demi, pendant laquelle la plante perd ses feuilles.\nLes formes cultivées sont généralement plus arbustives que les formes sauvages.\nLa plante est reproduite principalement par semis bien que le bouturage soit possible. La distance générale de plantation est de 2,5 m × 3 m.\nAucun ravageur ou maladie ne sont connus.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -121,7 +154,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -150,7 +183,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/834064-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -158,7 +191,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/834064-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000709742.webp",
@@ -171,6 +204,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

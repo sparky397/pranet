@@ -17,32 +17,29 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "intoxicating yam",
-      "Yam (vegetable)"
-    ],
-    "zh": [
-      "大苦薯",
-      "白薯榔",
-      "白薯莨"
-    ],
-    "uk": [
-      "Діоскорея шипувата"
+    "id": [
+      "Gadung"
     ],
     "vi": [
       "Củ mài trắng"
-    ],
-    "id": [
-      "Gadung"
     ],
     "th": [
       "กลอย"
     ],
     "ms": [
       "Gadung"
+    ],
+    "zh": [
+      "白薯莨",
+      "大苦薯",
+      "白薯榔"
+    ],
+    "en": [
+      "Yam (vegetable)",
+      "intoxicating yam"
     ],
     "ml": [
       "വെന്നിക്കിഴങ്ങ്"
@@ -64,24 +61,36 @@
     ],
     "sk": [
       "jam"
+    ],
+    "uk": [
+      "Діоскорея шипувата"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q10752741",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q10752741",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Dioscorea hispida」",
+      "source": "Wikipedia (en): Dioscorea hispida",
       "source_url": "https://en.wikipedia.org/wiki/Dioscorea_hispida",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1359269026,
       "text": "Dioscorea hispida, also known as the Indian three-leaved yam, is a species of yam in the genus Dioscorea, native to South and Southeast Asia. Known to be poisonous when fresh, careful processing is required to render it edible."
+    },
+    "id": {
+      "source": "Wikipedia (id): Gadung",
+      "source_url": "https://id.wikipedia.org/wiki/Gadung",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29820872,
+      "text": "Gadung adalah sejenis tumbuhan berumbi dari suku umbi-umbian (Dioscoreaceae) yang umumnya dipakai sebagai tanaman pangan. Gadung menghasilkan umbi yang dapat dimakan, tetapi mengandung racun yang dapat mengakibatkan pusing dan muntah apabila kurang benar pengolahannya. Produk gadung yang paling dikenal adalah dalam bentuk keripik meskipun rebusan gadung juga dapat dimakan. Umbinya dapat pula dijadikan arak (difermentasi) sehingga di Malaysia dikenal pula sebagai ubi arak, selain taring pelandok."
     }
   },
   "edible": {
@@ -97,7 +106,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -132,7 +141,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/318077-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing tuberous geophyte",
@@ -140,7 +149,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/318077-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000391093.webp",
@@ -153,6 +162,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 302,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

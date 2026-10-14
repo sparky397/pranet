@@ -12,115 +12,75 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Krauser Ampfer",
-      "Grottenstengel",
-      "Roter-Heinrich"
+    "pl": [
+      "szczaw kędzierzawy"
     ],
-    "en": [
-      "Curled Dock"
+    "qu": [
+      "Llaqi"
     ],
-    "ar": [
-      "حماض أصفر",
-      "حماض جعد",
-      "حماض مجعد"
+    "ru": [
+      "Щавель курчавый"
+    ],
+    "ko": [
+      "소리쟁이"
+    ],
+    "ro": [
+      "Dragavei",
+      "Ștevie creață"
     ],
     "ca": [
-      "Paradella crespa"
+      "paradella crespa"
+    ],
+    "fi": [
+      "poimuhierakka"
     ],
     "co": [
       "Romiccia",
       "Rumiccia",
       "Spinitriculu"
     ],
-    "cs": [
-      "šťovík kadeřavý"
-    ],
-    "cy": [
-      "Tafolen grech"
-    ],
-    "da": [
-      "Kruset Skræppe"
-    ],
-    "es": [
-      "Romaza crespa",
-      "Lengua de Vaca Eurasiática"
-    ],
     "et": [
-      "Kärnoblikas"
+      "kärnoblikas"
     ],
-    "fi": [
-      "Poimuhierakka"
-    ],
-    "fr": [
-      "Oseille à feuilles de patience",
-      "Oseille crépue",
-      "Parelle",
-      "Patience crépue"
+    "de": [
+      "Krauser Ampfer",
+      "Grottenstengel",
+      "Roter-Heinrich"
     ],
     "hr": [
       "Štavelj"
     ],
-    "hsb": [
-      "Kudźerjawy zdźer"
-    ],
-    "it": [
-      "Lapazio",
-      "Romice crespa"
-    ],
-    "ja": [
-      "Nagabagishigishi",
-      "ナガバギシギシ"
-    ],
-    "ko": [
-      "소리쟁이"
+    "az": [
+      "Qumral əvəlik"
     ],
     "lt": [
       "Rauktalapė rūgštynė"
     ],
-    "myv": [
-      "Атякшонь морамо"
+    "nv": [
+      "Dééłjáád"
+    ],
+    "hsb": [
+      "Kudźerjawy zdźer"
+    ],
+    "ar": [
+      "حماض أصفر",
+      "حماض جعد",
+      "حماض مجعد"
+    ],
+    "da": [
+      "Kruset Skræppe"
     ],
     "nl": [
       "Krulzuring"
     ],
-    "nv": [
-      "Dééłjáád"
-    ],
-    "pl": [
-      "Szczaw kędzierzawy"
-    ],
-    "pt": [
-      "Azeda-crespa",
-      "Labaca-crespa"
-    ],
-    "qu": [
-      "Llaqi"
-    ],
-    "ro": [
-      "Dragavei",
-      "Ștevie creață"
-    ],
-    "ru": [
-      "Щавель курчавый"
-    ],
-    "sk": [
-      "štiavec kučeravý"
-    ],
-    "sl": [
-      "kodrastolistna kislica"
-    ],
     "sv": [
-      "Kaffeväxt",
       "Krusskräppa",
+      "Kaffeväxt",
       "Krussyra",
       "Svinsyra"
-    ],
-    "tr": [
-      "Kıvırcık labada"
     ],
     "zh": [
       "皱叶酸模",
@@ -131,26 +91,38 @@
       "牛耳大黄",
       "酸模"
     ],
-    "ast": [
-      "paniega"
+    "cy": [
+      "Tafolen grech"
     ],
-    "az": [
-      "Qumral əvəlik"
+    "myv": [
+      "Атякшонь морамо"
     ],
     "bg": [
       "къдрав лапад"
     ],
+    "sk": [
+      "štiavec kučeravý"
+    ],
     "af": [
       "Krulsuring"
     ],
+    "ast": [
+      "Paniega"
+    ],
     "be": [
       "Шчаўе кучаравае"
+    ],
+    "cs": [
+      "šťovík kadeřavý"
     ],
     "fa": [
       "ترشک مواج"
     ],
     "uk": [
       "Щавель кучерявий"
+    ],
+    "tr": [
+      "Kıvırcık labada"
     ],
     "sgs": [
       "Arklarūgštė"
@@ -179,18 +151,46 @@
     "nb": [
       "krushøymol"
     ],
+    "ja": [
+      "ナガバギシギシ",
+      "Nagabagishigishi"
+    ],
+    "sl": [
+      "kodrastolistna kislica"
+    ],
     "grc": [
       "ὀξυλάπαθον"
     ],
     "mk": [
       "Коњски штавеј"
+    ],
+    "en": [
+      "Curled Dock"
+    ],
+    "es": [
+      "Romaza crespa",
+      "Lengua de Vaca Eurasiática"
+    ],
+    "fr": [
+      "Oseille à feuilles de patience",
+      "Oseille crépue",
+      "Parelle",
+      "Patience crépue"
+    ],
+    "it": [
+      "Lapazio",
+      "Romice crespa"
+    ],
+    "pt": [
+      "Azeda-crespa",
+      "Labaca-crespa"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157643",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157643",
   "search_names": {
@@ -201,13 +201,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rumex crispus」",
+      "source": "Wikipedia (en): Rumex crispus",
       "source_url": "https://en.wikipedia.org/wiki/Rumex_crispus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357646103,
       "text": "Rumex crispus, the curly dock, curled dock or yellow dock, is a perennial flowering plant in the family Polygonaceae, native to Europe and Western Asia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rumex crispus",
+      "source_url": "https://es.wikipedia.org/wiki/Rumex_crispus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174580188,
+      "text": "Rumex crispus es una especie de planta herbácea del género Rumex de la familia Polygonaceae. En el calendario coreano la flor de esta planta significa amor/afecto, y se corresponde al día 4 de diciembre."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rumex crispus",
+      "source_url": "https://fr.wikipedia.org/wiki/Rumex_crispus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240281074,
+      "text": "Rumex crispus, l'Oseille crépue, Patience crépue ou Rumex crépu, est une plante à fleurs, de la grande famille des Polygonaceae, native de l’hémisphère nord."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Rumex crispus",
+      "source_url": "https://pt.wikipedia.org/wiki/Rumex_crispus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68511739,
+      "text": "Rumex crispus é uma espécie de planta com flor pertencente à família Polygonaceae. O nome comum é Cata-cuz, labaça, regalo-da-horta."
     }
   },
   "edible": {
@@ -222,7 +249,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -459,7 +486,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/224413-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -467,7 +494,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/224413-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000403671.webp",
@@ -480,6 +507,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

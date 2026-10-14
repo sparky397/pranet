@@ -16,7 +16,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -26,13 +26,15 @@
       "Loquat",
       "loquat"
     ],
-    "uk": [
-      "Локва",
-      "мушмула японська звичайна"
+    "pt": [
+      "Nespereira"
     ],
-    "cs": [
-      "mišpule",
-      "lokvát japonský"
+    "id": [
+      "Biwa (tumbuhan)",
+      "Loquat"
+    ],
+    "nan": [
+      "Gî-pê"
     ],
     "zh": [
       "枇杷",
@@ -43,15 +45,6 @@
       "枇杷木白皮",
       "枇杷花",
       "枇杷树根"
-    ],
-    "ast": [
-      "nesperal"
-    ],
-    "sl": [
-      "japonska nešplja"
-    ],
-    "nan": [
-      "Gî-pê"
     ],
     "bo": [
       "ཞུ་མཁན།"
@@ -107,9 +100,6 @@
     "ht": [
       "Lokwat"
     ],
-    "pt": [
-      "Nespereira"
-    ],
     "ru": [
       "мушмула японская обыкновенная"
     ],
@@ -127,6 +117,10 @@
     ],
     "fi": [
       "japaninmispeli"
+    ],
+    "uk": [
+      "мушмула японська звичайна",
+      "Локва"
     ],
     "fa": [
       "گلابی ژاپنی"
@@ -148,6 +142,10 @@
     ],
     "kk": [
       "Жапон мушмуласы"
+    ],
+    "cs": [
+      "lokvát japonský",
+      "mišpule"
     ],
     "nb": [
       "Japansk mispel"
@@ -184,9 +182,6 @@
     ],
     "hu": [
       "japánnaspolya"
-    ],
-    "id": [
-      "Loquat"
     ],
     "sq": [
       "Loquat"
@@ -236,6 +231,9 @@
     "lv": [
       "Japānas eriobotrija"
     ],
+    "sl": [
+      "japonska nešplja"
+    ],
     "arz": [
       "بشمله يابانيه"
     ],
@@ -265,13 +263,16 @@
     ],
     "bn": [
       "লকুত"
+    ],
+    "ast": [
+      "nesperal"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q41505",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q41505",
   "search_names": {
@@ -288,46 +289,115 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ビワ」",
+      "source": "Wikipedia (ja): ビワ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111220748,
       "text": "ビワ は、バラ科の常緑高木、および食用となるその実。作物群としては花托が肥大した部分を食用とする仁果類（仁果果実）に分類される果樹（果実）である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Loquat」",
+      "source": "Wikipedia (en): Loquat",
       "source_url": "https://en.wikipedia.org/wiki/Loquat",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369941629,
       "text": "The loquat is a large evergreen shrub or tree grown commercially for its orange-coloured fruits. It is also cultivated as an ornamental plant."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eriobotrya japonica",
+      "source_url": "https://es.wikipedia.org/wiki/Eriobotrya_japonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174996353,
+      "text": "Eriobotrya japonica, comúnmente llamado níspero japonés, nisperero del Japón o simplemente níspero, es un árbol frutal perenne de la familia Rosaceae, originario del sudeste de China, donde se conoce como pípá, 枇杷. Fue introducido en Japón, donde se naturalizó y donde lleva cultivándose más de mil años. También se naturalizó en la India, la cuenca mediterránea, Canarias, Pakistán, Chile, Argentina, Ecuador, Costa Rica y muchas otras áreas. Se cree que la inmigración china llevó el níspero a Hawái."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eriobotrya japonica",
+      "source_url": "https://fr.wikipedia.org/wiki/Eriobotrya_japonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238007171,
+      "text": "Le néflier du Japon, bibacier ou bibassier est une espèce de plantes à fleurs de la famille des Rosacées. C'est un arbre fruitier cultivé pour son fruit comestible, la nèfle du Japon ou bibace ou bibasse, pour sa feuille utilisée en tisane, ou comme plante ornementale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Nespereira",
+      "source_url": "https://pt.wikipedia.org/wiki/Nespereira",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71059628,
+      "text": "A Eriobotrya japonica, comummente conhecida como nespereira, é uma espécie de árvore, da subfamília Maloideae, da família das Rosáceas, pertencente ao tipo fisionómico dos microfanerófitos. Para se distinguir da sua congénere europeia, também lhe costumam chamar nespereira-do-japão, pese embora seja originária do sudeste da China."
+    },
+    "id": {
+      "source": "Wikipedia (id): Biwa (tumbuhan)",
+      "source_url": "https://id.wikipedia.org/wiki/Biwa_(tumbuhan)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29800001,
+      "text": "Biwa atau loquat adalah sebuah spesies tumbuhan berbunga dalam famili Rosaceae, sebuah buah kuno yang tumbuh di Jepang sejak 1.000 tahun yang lalu yang diyakini berasal dari kawasan perbukitan dingin di Tiongkok sampai selatan-tengah Tiongkok."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ビワ」の節「栽培」",
+        "source": "Wikipedia (ja): ビワ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AF#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111220748,
         "heading": "栽培",
         "text": "やや日陰にも耐え、気温が比較的暖かいところで生育する。土壌は砂壌土がよく、根は深く張る。果実を目的に栽培されるが、庭木などの植栽にもされ、葉が濃く茂るため目隠しとしたり、あるいは使い方によっては異国風の庭を演出することもできる。実生苗の結実には7 - 8年の歳月を要する。自家結実性のため、他品種を混植する必要はない。殖やし方は実生、接木であるが挿し木も可能。植栽適期は3月下旬、6 - 7月上旬、9中旬 - 10月中旬とされ、新植は可能だが移植することは不可である。剪定は3月下旬 - 4月、9月に行う。露地栽培の場合、摘房・摘蕾を10月、開花は11月〜2月、摘果を3月下旬〜4月上旬、袋かけを摘果と同時に行う。果実が大きくなるとモモチョッキリ（ゾウムシの仲間）の食害を受ける。\n花の数が多く受粉率が高いことから、花蕾が出たら摘蕾や摘房を行わないと、果実がたくさんなりすぎて実が小さくなってしまう。食用目的で果実を育てるためには、さらなる摘果が必要となる。\n\n品種\n江戸時代末期に日本に導入され、明治時代から、茂木（もぎ）や田中などの果樹としての品種がいくつかあるが、栽培品種は少ない方で、この2品種で日本の生産量の95%を占める。現在ではその他に大房、瑞穂、クイーン長崎（福原）、白茂木、麗月、陽玉、涼風、長生早生、室戸早生、森尾早生、長崎早生、楠、なつたよりなど多くの品種がある。中国ビワとして冠玉や大五星などがある。2006年、種なしビワである希房が品種登録された。\n古代に渡来して野生化した物と考えられる自生木もあるが、種が大きく果肉が薄いため果樹としての価値はほとんど無い。\n産地\n日本では全国でビワの実が2,890トン（2021年産、農林水産省統計）収穫され、長崎県、千葉県、和歌山県、香川県、愛媛県、鹿児島県など温暖な気候の土地で栽培されている。特に長崎県は、全国の3分の1近くを産する日本一の産地となっている。近年は食の多様化や種子を取り出すなど食べにくさに加え、農家の高齢化、寒波に弱く収穫が安定しないなどの問題もあり、収穫量は2003年は9,240トン、2008年は7,110トンあったものが、2021年には3000tを切り、減少傾向にある。近年ではビニールハウスによる促成栽培も行われている。\n日本国内の主な産地\n寒さに弱いため産地は温暖な地域に限られ、九州、四国、淡路島、和歌山、房総半島で栽培が盛ん。また、寒波の影響を受けやすいため、生産量が乱高下しやすい（2012年と2016年は凶作となっている）。\n\n長崎県…生産量国内1位。全国の3割を占める。新品種開発も盛んで「茂木」「長崎早生」の他に「長崎甘香」「涼風」「なつたより」などがある。長崎半島が主産地で、そのほか南島原市、西海市などにも産地がある。\n長崎市…国内最大の産地で橘湾沿岸の茂木地区、三和地区などで栽培が盛ん。\n千葉県…生産量国内2位。房州びわとして知られ、「田中」が主流であったが、近年は食味に優れる「大房」が7割弱を占める。南房総市のほか館山市でも栽培が行われている。\n南房総市…富浦は皇室献上の歴史を持つ主産地。県産びわの大半を占める。\n香川県…生産量3位。産地は高松市、三豊市、善通寺市など。\n高松市…全国に先駆けてハウスびわ栽培を行っている。\n三豊市\n和歌山県…生産量4位。JAながみねに属する海南市藤白、同市下津町引尾と湯浅町田地区で大半を占める。古くからの産地で日本一にもなったことがあったが、みかん畑に転換され縮小。その後、みかんの価格下落に伴って再度びわ栽培を復活、再生させた経緯がある。\n海南市…全国有数の産地で、下津びわとして全国に出荷を行っている。\n湯浅町…田村みかんで知られる田村地区にて、田村びわとして出荷。\n鹿児島県…生産量5位。主産地に垂水市、鹿児島市桜島、指宿市のほか小規模ながら奄美大島など島嶼部でも栽培される。桜島の降灰や鳥からの食害から守るため、果実は袋掛けされていることが多い。",
         "truncated": true
       },
       "en": {
-        "source": "Wikipedia 英語版「Loquat」の節「Cultivation」",
+        "source": "Wikipedia (en): Loquat § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Loquat#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369941629,
         "heading": "Cultivation",
         "text": "■ History\nThe plant has been cultivated in China for over 1,000 years. Chinese immigrants are presumed to have carried the loquat to Hawaii and California. It has been cultivated in Japan for about 1,000 years and presumably the fruits and seeds were brought back from China to Japan by the many Japanese scholars visiting and studying in China during the Tang dynasty.\nOver 800 loquat cultivars exist in Asia. Self-fertile variants include the 'Gold Nugget' and 'Mogi' cultivars. The loquat is easy to grow in subtropical to mild temperate climates, where it is often primarily grown as an ornamental plant, especially for its sweet-scented flowers, and secondarily for its delicious fruit. The boldly textured foliage adds a tropical look to gardens.\n\nThe many named cultivars have orange or white flesh. Some cultivars are intended for home growing, where the flowers open gradually, thus the fruit also ripen gradually, compared to the commercially grown species where the flowers open almost simultaneously, and the whole tree's fruit also ripen together.\nChina is the biggest producer of loquat in the world, more than five times the production of the second-largest producer, Spain, followed by Pakistan and Turkey. In Europe, Spain is the main producer of loquat.\nIn temperate climates, it is grown as an ornamental with winter protection, as the fruits seldom ripen to an edible state. In the United Kingdom, it has gained the Royal Horticultural Society's Award of Garden Merit.",
+        "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Eriobotrya japonica § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Eriobotrya_japonica#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174996353,
+        "heading": "Cultivo",
+        "text": "Es muy fácil de cultivar y es frecuente como árbol ornamental; el níspero es un cultivo muy extendido por todo el litoral mediterráneo español. Fue plantado en California desde la década de 1870 y en el clima húmedo del sudeste de Texas (Houston), así como en toda Palestina. En México es muy común. La textura de su follaje agrega un toque tropical a los jardines, contrastando bien con muchas otras plantas.\nLa multiplicación se realiza por semillas, sin embargo, en las variedades el proceso se lleva a cabo por injerto del tipo llamado injerto en T o escudete. Es una especie muy adaptable, tolerando bien el frío, la sequía y diversos tipos de sustrato. La utilización de los frutos de este árbol para fines comerciales requiere abonados y podas periódicas.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Eriobotrya japonica § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Eriobotrya_japonica#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238007171,
+        "heading": "Culture",
+        "text": "Le bibacier est une plante de climat subtropical de montagne (900 à 2 000 m. en Chine, jusqu'à 1 200 m. au Guatemala) et tempéré chaud . Il est largement cultivé pour ses fruits dans sa zone de rusticité, où il  peut se montrer envahissant. Dans les régions tempérées, il est utilisé pour l'ornement : L'arbre établi résiste au gel jusqu'à -11 °C.\nPlanter au soleil dans un sol bien drainé, la distance de plantation recommandée étant soit 3,5 × 7 m, soit 6 × 6 m. La plante est relativement indifférente au pH (de 5,5 à 7,8). \n\n■ Soins\nPasser du blanc de chaux sur le tronc sensible au soleil,\narroser régulièrement (dans son climat d'origine, il reçoit une pluviosité bien repartie tout au long de l'année, comprise entre 650 et 1 000 mm),\nfertiliser au printemps.\nLa plante est résistante à la plupart des maladies et des insectes, sensible au feu bactérien (pratiquer un élagage des zones atteintes).\n\n■ Multiplication\nLe semis est possible avec des graines fraiches, mais l'arbre donnera le plus souvent des fruits à pulpe mince.\nEn semant tout de suite après la récolte, la germination se produira en moins d'un mois.\nLa multiplication se fait principalement par greffage. On peut greffer en fente, en anglaise, en couronne ou en écusson à œil poussant en fin d'hiver (mars-avril dès qu'il n'y a plus de risques de gel) ou à œil dormant en août ou septembre. Les fortes chaleurs et le gel sont les causes principales d'échec au niveau du greffage.\nLes porte-greffes sont le franc de néflier du Japon pour les haute-tiges et le cognassier ou l'aubépine pour les formes naines, le poirier convient également. Les arbres greffés produisent des fruits dans les deux ans alors qu'il faudra patienter 7 à 10 ans pour un arbre issu de semis.",
+        "truncated": true
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Nespereira § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Nespereira#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71059628,
+        "heading": "Cultivo",
+        "text": "A nespereira é uma planta dada a regiões subtropicais e temperadas, pautadas por Invernos muito amenos. Nas regiões tropicais, pode ser cultivada a elevações superiores a 600 metros, se bem que a altitude que oferece as condições opimas de cultivo nos trópicos se situa entre os mil e os dois mil e trezentos metros.\n\nAs regiões com amplitudes térmicas que se cingem entre os 21 e os 27 graus Celsius, costumam ser as que proporcionam as melhores condições, tendentes ao crescimento desta planta. Porém, a nespereira, ainda assim é capaz de medrar em regiões com amplitudes térmicas que maiores, tolerando temperaturas mínimas de 9 graus Celsius e máximas de 36 graus Celsius. Com efeito, quando dormente, a nespereira consegue, inclusive, resistir a temperaturas baixas, na ordem dos 12 graus negativos, se bem que as flores e os rebentos das folhas não costumam sobreviver a temperaturas inferiores a um grau negativo.      As nespereiras preferem regiões com níveis de pluviosidade anual na ordem dos 600 a 1.600 milímetros, embora seja capaz de tolerar níveis de pluviosidade mais modestos, na ordem dos 400 a 4.000 milímetros anuais de chuva.      \nTambém privilegiam os solos férteis e pouco húmidos, com boa exposição solar ou pouca sombra, contanto que o substracto não seja muito calcário. É capaz de tolerar solos secos. No que respeita ao PH do solo, os valores ideais rondam entre os 5.5 e os 6.5, embora a nespereira seja capaz de tolerar solos mais ácidos, até aos 4.5, e mais básicos, até ao 8.     \nAs regiões à beira-mar costumam produzir os frutos de melhor qualidade, sendo certo que a nespereira prefere estar resguardada das nortadas e ventos frios, que possam correr vindos do mar.",
         "truncated": true
       }
     }
@@ -348,7 +418,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -420,7 +490,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/724793-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -428,7 +498,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/724793-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000986002.webp",
@@ -441,6 +511,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

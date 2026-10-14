@@ -24,26 +24,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "de": [
       "Tataren-Melde"
     ],
-    "en": [
-      "Tatarian orache"
-    ],
-    "cs": [
-      "lebeda tatarská"
-    ],
-    "fi": [
-      "tataarimaltsa"
-    ],
     "zh": [
       "鞑靼滨藜"
-    ],
-    "sl": [
-      "tatarska loboda"
     ],
     "pl": [
       "Łoboda szara"
@@ -60,11 +48,17 @@
     "bg": [
       "татарска лобода"
     ],
+    "cs": [
+      "lebeda tatarská"
+    ],
     "be": [
       "лябеднік татарскі"
     ],
     "et": [
       "tatari malts"
+    ],
+    "fi": [
+      "tataarimaltsa"
     ],
     "arz": [
       "رغل تتارى"
@@ -75,29 +69,44 @@
     "lv": [
       "Tatārijas balodene"
     ],
+    "sl": [
+      "tatarska loboda"
+    ],
     "mk": [
       "татарска лобода"
     ],
     "fa": [
       "سلمکی تاتاری"
+    ],
+    "en": [
+      "Tatarian orache"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1642174",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1642174",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Atriplex tatarica」",
+      "source": "Wikipedia (en): Atriplex tatarica",
       "source_url": "https://en.wikipedia.org/wiki/Atriplex_tatarica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1244978533,
       "text": "Atriplex tatarica is a species of plant belonging to the family Amaranthaceae. Its native range spans a large area of Middle and western Central Asia, Asia Minor, North Africa, and Eastern Europe."
+    },
+    "es": {
+      "source": "Wikipedia (es): Atriplex tatarica",
+      "source_url": "https://es.wikipedia.org/wiki/Atriplex_tatarica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175037150,
+      "text": "Atriplex tatarica es una especie de arbusto perennifolio dentro de la familia Amaranthaceae. Tiene una distribución cosmopolita."
     }
   },
   "edible": {
@@ -111,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -198,7 +207,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/164195-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -206,7 +215,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/164195-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000556655.webp",
@@ -219,6 +228,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

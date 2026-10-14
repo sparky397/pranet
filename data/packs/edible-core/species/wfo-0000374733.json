@@ -10,35 +10,53 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "伞树"
-    ],
     "fr": [
       "Parasolier"
     ],
     "fa": [
       "درخت چوب‌پنبه‌ای آفریقا"
+    ],
+    "zh": [
+      "伞树"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q773545",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q773545",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Musanga cecropioides」",
+      "source": "Wikipedia (en): Musanga cecropioides",
       "source_url": "https://en.wikipedia.org/wiki/Musanga_cecropioides",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1298423805,
       "text": "Musanga cecropioides, the African corkwood tree or umbrella tree, is found in tropical Africa from Sierra Leone south to Angola and east to Uganda. It is typical in secondary forests."
+    },
+    "es": {
+      "source": "Wikipedia (es): Musanga cecropioides",
+      "source_url": "https://es.wikipedia.org/wiki/Musanga_cecropioides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 160862096,
+      "text": "Musanga cecropioides, es una especie de árbol perteneciente a la familia Urticaceae. Es originaria de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Parasolier",
+      "source_url": "https://fr.wikipedia.org/wiki/Parasolier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 214529402,
+      "text": "Le parasolier est une espèce de plantes à fleurs de la famille des Urticacées. C'est un arbre commun des forêts humides d'Afrique. On le rencontre typiquement dans les forêts secondaires, où cette espèce pionnière, à croissance rapide et héliophile profite des coupes et éclaircies."
     }
   },
   "edible": {
@@ -56,7 +74,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -84,7 +102,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/584392-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -92,7 +110,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/584392-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000374733.webp",
@@ -105,6 +123,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 183,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

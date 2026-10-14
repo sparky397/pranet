@@ -14,34 +14,25 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "silverberry",
-      "Wolf-willow"
+    "fr": [
+      "Chalef argenté",
+      "chalef argenté"
     ],
     "de": [
       "Silber-Ölweide"
-    ],
-    "fi": [
-      "hopeapensas",
-      "lännenhopeapensas"
-    ],
-    "fr": [
-      "Chalef argenté"
-    ],
-    "nl": [
-      "Zilverwilg"
-    ],
-    "cs": [
-      "hlošina stříbrná"
     ],
     "ru": [
       "Лох серебристый"
     ],
     "lt": [
       "Amerikinis žilakrūmis"
+    ],
+    "fi": [
+      "lännenhopeapensas",
+      "hopeapensas"
     ],
     "hsb": [
       "Slěborny dźiwi wolijowc"
@@ -51,6 +42,9 @@
     ],
     "zh": [
       "蔓胡颓子"
+    ],
+    "cs": [
+      "hlošina stříbrná"
     ],
     "et": [
       "läikiv hõbepuu"
@@ -63,24 +57,49 @@
     ],
     "lv": [
       "Sudraba eleagns"
+    ],
+    "en": [
+      "silverberry",
+      "Wolf-willow"
+    ],
+    "nl": [
+      "Zilverwilg"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159188",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159188",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Elaeagnus commutata」",
+      "source": "Wikipedia (en): Elaeagnus commutata",
       "source_url": "https://en.wikipedia.org/wiki/Elaeagnus_commutata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1372776167,
       "text": "Elaeagnus commutata, the silverberry or wolf-willow, is a species of Elaeagnus native to western and boreal North America, from southern Alaska through British Columbia east to Quebec, south to Utah, and across the upper Midwestern United States to South Dakota and western Minnesota. It typically grows on dry to moist sandy and gravel soils in steppes, meadows or woodland edges."
+    },
+    "es": {
+      "source": "Wikipedia (es): Elaeagnus commutata",
+      "source_url": "https://es.wikipedia.org/wiki/Elaeagnus_commutata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 139524999,
+      "text": "Elaeagnus commutata es una especie de arbusto de la familia Elaeagnaceae, nativa del oeste de Norteamérica desde Alaska a British Columbia y Quebec, al sur hasta Utah, Dakota y Minnesota. Por lo general crece suelos secos a húmedos, arenosos y de grava en las estepas, praderas o los bordes del bosque."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Chalef argenté",
+      "source_url": "https://fr.wikipedia.org/wiki/Chalef_argent%C3%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 210661000,
+      "text": "Le Chalef argenté, Elaeagnus commutata, est une espèce de plantes à fleurs de la famille des Elaeagnaceae, originaire d'Amérique du Nord mais cultivée ailleurs dans le monde."
     }
   },
   "edible": {
@@ -94,7 +113,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -140,7 +159,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/315523-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -148,7 +167,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/315523-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000663703.webp",
@@ -161,6 +180,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

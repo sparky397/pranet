@@ -19,40 +19,13 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "cenhinen y nadroedd"
-    ],
-    "en": [
-      "sand leek"
-    ],
-    "cs": [
-      "česnek ořešec"
-    ],
-    "de": [
-      "Schlangen-Lauch",
-      "Schlangenlauch"
-    ],
-    "et": [
-      "Metslauk"
-    ],
-    "fi": [
-      "Käärmeenlaukka"
-    ],
     "fr": [
       "Ail rocambole",
+      "ail rocambole",
       "rocambole"
-    ],
-    "hy": [
-      "Արապլեզ"
-    ],
-    "sv": [
-      "Skogslök"
-    ],
-    "nl": [
-      "Slangenlook"
     ],
     "pt": [
       "Alho-de-espanha"
@@ -63,6 +36,16 @@
     "ru": [
       "Лук причесночный"
     ],
+    "fi": [
+      "käärmeenlaukka"
+    ],
+    "de": [
+      "Schlangen-Lauch",
+      "Schlangenlauch"
+    ],
+    "cs": [
+      "česnek ořešec"
+    ],
     "io": [
       "Rokambolo"
     ],
@@ -71,6 +54,12 @@
     ],
     "hsb": [
       "Ješćerći kobołk"
+    ],
+    "sv": [
+      "Skogslök"
+    ],
+    "nl": [
+      "Slangenlook"
     ],
     "be": [
       "Цыбуля прычасночная"
@@ -84,8 +73,14 @@
     "ar": [
       "ثوم رملي"
     ],
+    "cy": [
+      "Cenhinen y nadroedd"
+    ],
     "ko": [
       "조선마늘"
+    ],
+    "et": [
+      "Metslauk"
     ],
     "he": [
       "שום עגול"
@@ -104,13 +99,19 @@
     ],
     "nn": [
       "bendellauk"
+    ],
+    "en": [
+      "sand leek"
+    ],
+    "hy": [
+      "Արապլեզ"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161099",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161099",
   "search_names": {
@@ -121,23 +122,59 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Allium scorodoprasum」",
+      "source": "Wikipedia (en): Allium scorodoprasum",
       "source_url": "https://en.wikipedia.org/wiki/Allium_scorodoprasum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1308225960,
       "text": "The sand leek, also known as rocambole and Korean pickled-peel garlic, is a Eurasian species of wild onion with a native range extending across much of Europe, Middle East, and Korea."
+    },
+    "es": {
+      "source": "Wikipedia (es): Allium scorodoprasum",
+      "source_url": "https://es.wikipedia.org/wiki/Allium_scorodoprasum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173486416,
+      "text": "Allium scorodoprasum es una especie de planta bulbosa del género Allium, perteneciente a la familia de las amarilidáceas, del orden de las Asparagales.\nSe distribuye por las regiones templadas del Hemisferio Norte."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ail rocambole",
+      "source_url": "https://fr.wikipedia.org/wiki/Ail_rocambole",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235340171,
+      "text": "L’ail rocambole ou la rocambole est une espèce de plantes herbacées, haute de 20 à 40 cm, vivace par son bulbe et ses bulbilles floraux."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Alho-de-espanha",
+      "source_url": "https://pt.wikipedia.org/wiki/Alho-de-espanha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 61040813,
+      "text": "O alho-de-espanha, alho-espanhol, alho-grosso-de-espanha, alho-mourisco, alho-rocambole ou, simplesmente, rocambole, é uma planta perene da família Alliaceae. É nativa da Europa. O bolbo subterrâneo é composto de bolbilhos de forma ovóide. As flores são vermelho-escuras ou púrpura. Pode ser usada em substituição do alho."
+    },
+    "id": {
+      "source": "Wikipedia (id): Allium scorodoprasum",
+      "source_url": "https://id.wikipedia.org/wiki/Allium_scorodoprasum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26157756,
+      "text": "Allium scorodoprasum adalah spesies tumbuhan yang tergolong ke dalam famili Amaryllidaceae. Spesies ini juga merupakan bagian dari ordo Asparagales. Spesies Allium scorodoprasum sendiri merupakan bagian dari genus bawang Allium. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh L.."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Allium scorodoprasum」の節「Cultivation」",
+        "source": "Wikipedia (en): Allium scorodoprasum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Allium_scorodoprasum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1308225960,
         "heading": "Cultivation",
         "text": "A. scorodoprasum is edible, but rarely cultivated, and has a shorter flower stalk and fewer and more inconsistently shaped cloves than Rocambole garlic. Sand leek also has a dark violet bulb wrapper.\nElephant garlic (properly A. ampeloprasum var. ampeloprasum) is also sometimes incorrectly sold as A. scorodoprasum.",
@@ -153,7 +190,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -194,7 +231,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/528834-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -202,7 +239,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/528834-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000757306.webp",
@@ -215,6 +252,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 257,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

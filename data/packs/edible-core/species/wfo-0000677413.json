@@ -31,25 +31,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "roced yr ardd"
-    ],
-    "en": [
-      "rocketsalad"
-    ],
-    "nl": [
-      "Zwaardherik"
-    ],
-    "zh": [
-      "野芝麻菜",
-      "胀萼芝麻菜"
-    ],
-    "ast": [
-      "ruca"
-    ],
     "fi": [
       "välimerensinappikaali"
     ],
@@ -58,6 +42,9 @@
     ],
     "sv": [
       "Senapskål (växt)"
+    ],
+    "cy": [
+      "Roced yr ardd"
     ],
     "pt": [
       "rúcula"
@@ -92,6 +79,10 @@
     "ar": [
       "جرجير منتفخ"
     ],
+    "zh": [
+      "胀萼芝麻菜",
+      "野芝麻菜"
+    ],
     "vec": [
       "rùcola"
     ],
@@ -103,13 +94,22 @@
     ],
     "lv": [
       "sējas pazvērīte"
+    ],
+    "en": [
+      "rocketsalad"
+    ],
+    "nl": [
+      "Zwaardherik"
+    ],
+    "ast": [
+      "ruca"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5395935",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5395935",
   "search_names": {
@@ -127,13 +127,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Eruca vesicaria」",
+      "source": "Wikipedia (en): Eruca vesicaria",
       "source_url": "https://en.wikipedia.org/wiki/Eruca_vesicaria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1353639752,
       "text": "Eruca vesicaria is a species of Eruca native to Spain, Morocco, and Algeria. Some botanists consider Eruca vesicaria and E. sativa (arugula) to be conspecific. However, they are different in many morphological aspects such as sepal persistence, silique shape, and habit. Most importantly, they do not hybridize freely with each other as there is partial reproductive isolation between them. Plants of the World Online has accepted them as two distinct species."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eruca vesicaria",
+      "source_url": "https://es.wikipedia.org/wiki/Eruca_vesicaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174580289,
+      "text": "Eruca vesicaria, llamada comúnmente arúgula, oruga, ruca, rúcula o roqueta, es una planta anual, silvestre o cultivada, comestible, de la familia Brassicaceae (brasicáceas). Es originaria de la región del Mediterráneo. Se encuentra en el centro y este de España, el resto del sur de Europa, norte de África y oeste de Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eruca vesicaria",
+      "source_url": "https://fr.wikipedia.org/wiki/Eruca_vesicaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229675965,
+      "text": "Eruca vesicaria, la roquette sauvage, est une espèce de plantes à fleurs de la famille des Brassicacées. C'est une plante annuelle originaire du bassin méditerranéen."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eruca vesicaria",
+      "source_url": "https://pt.wikipedia.org/wiki/Eruca_vesicaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71220810,
+      "text": "A rúcula é uma espécie de planta com flor pertencente à família Brassicaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Eruca vesicaria",
+      "source_url": "https://id.wikipedia.org/wiki/Eruca_vesicaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29692986,
+      "text": "Arugula atau daun roket adalah tanaman tahunan yang dapat dimakan dalam keluarga Brassicaceae yang digunakan sebagai sayuran daun karena rasanya yang segar, asam, pahit, dan pedas. Nama umum lainnya termasuk roket taman atau daun rudal taman, dan eruca. Ini juga disebut \"ruchetta\", \"rucola\", \"rucoli\", \"rugula\", \"colewort\", dan \"roquette\". E. vesicaria, yang populer sebagai sayuran salad, adalah spesies Eruca yang berasal dari wilayah Mediterania."
     }
   },
   "edible": {
@@ -150,7 +186,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -162,7 +198,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1137625-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -170,7 +206,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1137625-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000677413.webp",
@@ -183,6 +219,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

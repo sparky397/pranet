@@ -23,23 +23,20 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ハッショウマメ"
     ],
-    "en": [
-      "cowitch"
+    "fr": [
+      "Pois mascate"
     ],
-    "zh": [
-      "狸豆",
-      "狸爪豆",
-      "刺毛黧豆"
+    "pt": [
+      "Feijão-da-flórida"
     ],
-    "mg": [
-      "Tainkilotra",
-      "Takilodambo"
+    "id": [
+      "Kara benguk"
     ],
     "hi": [
       "किवांच"
@@ -47,17 +44,11 @@
     "ht": [
       "Pwa grate"
     ],
-    "pt": [
-      "Feijão-da-flórida"
-    ],
     "jv": [
       "Benguk"
     ],
     "pl": [
       "Świerzbiec właściwy"
-    ],
-    "fr": [
-      "Pois mascate"
     ],
     "th": [
       "หมามุ้ย"
@@ -92,11 +83,13 @@
     "nl": [
       "Fluweelboon"
     ],
-    "id": [
-      "Kara benguk"
-    ],
     "vi": [
       "Đậu mèo rừng"
+    ],
+    "zh": [
+      "刺毛黧豆",
+      "狸豆",
+      "狸爪豆"
     ],
     "ru": [
       "Мукуна жгучая"
@@ -143,6 +136,10 @@
     "si": [
       "වඳුරු මෑ"
     ],
+    "mg": [
+      "Takilodambo",
+      "Tainkilotra"
+    ],
     "ha": [
       "karara"
     ],
@@ -157,13 +154,16 @@
     ],
     "shn": [
       "တူၼ်ႈမၢၵ်ႇၵၢႆးယွၼ်း"
+    ],
+    "en": [
+      "cowitch"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q953611",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q953611",
   "search_names": {
@@ -175,35 +175,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ハッショウマメ」",
+      "source": "Wikipedia (ja): ハッショウマメ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E%E3%83%A1",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106371066,
       "text": "ハッショウマメ（八升豆、ムクナ）は、マメ亜科トビカズラ属に属する植物で、ビロードマメ(Mucuna pruriens)の変種の一つである。学名はMucuna pruriens var. utilis。英名の一つにはYokohama velvet beanの名がある。「ハッショウマメ」という名前の由来には、豊作で八升取れるから、あるいは八丈島から渡来したため、など諸説がある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Mucuna pruriens」",
+      "source": "Wikipedia (en): Mucuna pruriens",
       "source_url": "https://en.wikipedia.org/wiki/Mucuna_pruriens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369641790,
       "text": "Mucuna pruriens is a tropical legume native to Africa and tropical Asia and widely naturalized and cultivated. Its English common names include monkey tamarind, velvet bean, Bengal velvet bean, Florida velvet bean, Mauritius velvet bean, Yokohama velvet bean, cowage, cowitch, lacuna bean, and Lyon bean."
+    },
+    "es": {
+      "source": "Wikipedia (es): Mucuna pruriens",
+      "source_url": "https://es.wikipedia.org/wiki/Mucuna_pruriens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175706455,
+      "text": "Mucuna pruriens (sin. Dolichos pruriens) es una leguminosa tropical de la familia de las Fabaceae, conocida como grano de terciopelo, pica, picapica, frijol terciopelo, chiporazo, chiporro, ojo de buey, ojo de venado, fogaraté, kapikachu, nescafe, grano del mar, kratzbohnen, konch, yerepe (Yoruba), atmagupta, toddy/todi, pepa de zamuro, Chile de Gato o follaldre."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pois mascate",
+      "source_url": "https://fr.wikipedia.org/wiki/Pois_mascate",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240309242,
+      "text": "Le  pois mascate est une espèce de plantes à fleurs de la famille des Fabaceae. C'est une annuelle que l'on retrouve dans les régions tropicales de l'Inde, de l'Afrique et des Antilles."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Feijão-da-flórida",
+      "source_url": "https://pt.wikipedia.org/wiki/Feij%C3%A3o-da-fl%C3%B3rida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71230223,
+      "text": "O feijão-da-flórida, também chamado de mucunã, é uma planta tropical da família Fabaceae, nativa da África e da Ásia tropical, amplamente naturalizada e cultivada."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kara benguk",
+      "source_url": "https://id.wikipedia.org/wiki/Kara_benguk",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29840487,
+      "text": "Kara benguk atau kacang babi adalah tumbuhan merambat dengan tinggi 6 m. Daun dan polong yang masih muda dapat dimakan asal direbus terlebih dahulu. Bijinya yang sudah tua, bisa untuk pengganti kacang kedelai untuk membuat tempe. Tumbuhan ini terkenal menghasilkan gatal yang ekstrem ketika disentuh, khususnya pada daun yang masih muda dan bijinya."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ハッショウマメ」の節「栽培」",
+        "source": "Wikipedia (ja): ハッショウマメ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E%E3%83%A1#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 106371066,
         "heading": "栽培",
         "text": "東南アジアや中国大陸南部の熱帯が原産地であり、日本でも温暖な太平洋沿岸や島（八丈島や沖縄地方）で栽培されていたが、近年ではほとんど栽培されない。和歌山県を中心に、熊本、滋賀、新潟、沖縄で生産再開の取り組みが行われている。高温生で低温に弱く、日本で栽培できるのは関東が北限であり、暖地ほど豊産になる。播種、移植の適期は6月中旬で、15℃から20℃は必要。",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Pois mascate § Agriculture",
+        "source_url": "https://fr.wikipedia.org/wiki/Pois_mascate#Agriculture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240309242,
+        "heading": "Agriculture",
+        "text": "Le pois mascate a été introduit dans des itinéraires techniques de culture du maïs, au Honduras et au Guatemala, par des organisations non gouvernementales comme World Neighbors, Cosecha et Centro Maya. Elles ont constaté que sa culture avec du maïs augmentait considérablement les rendements. Cultivé comme amendement, il peut fixer 150kg d'azote par hectare et produire annuellement entre 50-100 tonnes de biomasse. Le matériel végétal est couché au sol comme engrais vert, ainsi, il élimine les adventices et participe à la construction du sol. Cette technique agronomique évite l'agriculture sur brûlis pour la création de nouvelles parcelles agricoles. Technique relativement simple, elle a, simultanément, l'avantage  d'améliorer la fertilité des sols avec des méthodes à bas prix et de préserver les forêts tropicales.",
         "truncated": false
       }
     }
@@ -223,7 +270,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -336,7 +383,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/509275-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing perennial or shrub",
@@ -344,7 +391,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/509275-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000182545.webp",
@@ -357,6 +404,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

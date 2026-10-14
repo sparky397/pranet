@@ -47,9 +47,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "id": [
+      "Mangsian"
+    ],
     "zh": [
       "小果叶下珠",
       "蜜柑草",
@@ -80,18 +83,42 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q10959184",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q10959184",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Phyllanthus reticulatus」",
+      "source": "Wikipedia (en): Phyllanthus reticulatus",
       "source_url": "https://en.wikipedia.org/wiki/Phyllanthus_reticulatus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370176588,
       "text": "Phyllanthus reticulatus is a plant species described Jean Louis Marie Poiret; it is included in the family Phyllanthaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Mangsian",
+      "source_url": "https://id.wikipedia.org/wiki/Mangsian",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29851751,
+      "text": "Mangsian adalah spesies tumbuhan gulma yang termasuk ke dalam genus Phyllanthus.\nTumbuhan ini secara lokal juga dikenal dengan nama wawulutan, dawat, malatinta, mangsi, dan ileng-ileng. Tumbuh secara liar di pinggir sawah, kebun atau sungai, dapat dijadikan tanaman pagar dan dapat pula dimanfaatkan sebagai tanaman hias bonsai."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "id": {
+        "source": "Wikipedia (id): Mangsian § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Mangsian#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29851751,
+        "heading": "Budidaya",
+        "text": "Kelebihan dari buah mangsi adalah umur panen singkat, mudah\ndibudidaya di wilayah tropis seperti Indonesia, dapat berproduksi sepanjang\ntahun, dan harga yang relatif murah, bahkan belum dimanfaatkan secara nyata.\nOleh karena itu, buah mangsi dapat menjadi alternatif sumber bahan pewarna\nalami. Tanaman ini dapat diperbanyak dengan menggunakan biji ataupun stek.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -108,7 +135,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -154,7 +181,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/354573-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling shrub or tree",
@@ -162,7 +189,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/354573-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000271947.webp",
@@ -175,6 +202,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -12,23 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "es": [
-      "Piñón",
-      "Pino Piñonero"
-    ],
-    "en": [
-      "Mexican Pinyon",
-      "Mexican Nut Pine",
-      "Pinyon Pine"
-    ],
-    "zh": [
-      "墨西哥果松",
-      "墨西哥矮松",
-      "墨西哥麨始松"
-    ],
     "de": [
       "Mexikanische Nusskiefer"
     ],
@@ -40,13 +26,27 @@
     ],
     "fi": [
       "meksikonpähkinämänty"
+    ],
+    "zh": [
+      "墨西哥麨始松",
+      "墨西哥果松",
+      "墨西哥矮松"
+    ],
+    "es": [
+      "Piñón",
+      "Pino Piñonero"
+    ],
+    "en": [
+      "Mexican Pinyon",
+      "Mexican Nut Pine",
+      "Pinyon Pine"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3506511",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3506511",
   "search_names": {
@@ -56,13 +56,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pinus cembroides」",
+      "source": "Wikipedia (en): Pinus cembroides",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_cembroides",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314917131,
       "text": "Pinus cembroides, also known as pinyon pine, Mexican pinyon, Mexican nut pine, and Mexican stone pine, is a pine in the pinyon pine group."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus cembroides",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_cembroides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172747807,
+      "text": "El piñón es un árbol nativo de México de la familia de las pináceas. Es de baja estatura llegando a medir hasta 10 metros de altura. Sus hojas son muy pequeñas y sus conos miden de 5 a 6 cm. Crece en laderas de cerros y lomeríos con pendientes secas y rocosas y al pie de las montañas entre los 1,350 y los 2,800 m s. n. m., en climas secos hasta templados subhúmedos con precipitación de hasta 800 mm anuales y con 7 a 8 meses secos. Es el más ampliamente distribuido de los pinos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pinus cembroides",
+      "source_url": "https://fr.wikipedia.org/wiki/Pinus_cembroides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 215971254,
+      "text": "Pinus cembroides est une espèce de pins originaire des régions chaudes de la Basse-Californie, du Texas et du Mexique. Il produit des graines comestibles appelées piñones. Il pousse dans les régions ayant un faible niveau de précipitations et sa gamme s’étend vers le sud de l’Arizona, Texas et Nouveau-Mexique aux États-Unis, au Mexique. Il pousse généralement à une altitude comprise entre 1 600 et 2 400 mètres. C’est un petit pin passant à environ 20 m d’un diamètre de tronc de jusqu'à 50 cm. Les graines sont grosses et font partie du régime alimentaire de la mexicaine jay et écureuil d’Abert. Ils sont également recueillis aux fins de consommation humaine, en étant le plus largement utilisé pignons au Mexique. Il s'agit d'un pin commun avec un large éventail et l'Union internationale pour la Conservation de la Nature a évalué son état de conservation comme étant de « préoccupation mineure »."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus cembroides",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_cembroides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205853,
+      "text": "Pinus cembroides é uma espécie de pinheiro originária do Novo Mundo. Faz parte do grupo de espécies de pinheiros com área de distribuição na México, e oeste do Texas."
     }
   },
   "edible": {
@@ -77,7 +104,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -93,7 +120,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262850-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -101,7 +128,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262850-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000482286.webp",
@@ -114,6 +141,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 345,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

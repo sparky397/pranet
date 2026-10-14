@@ -15,72 +15,50 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ナヨクサフジ"
     ],
-    "ar": [
-      "بيقية موبرة"
+    "pl": [
+      "Wyka kosmata"
+    ],
+    "he": [
+      "בקיה שעירה"
     ],
     "ca": [
-      "Veça villosa"
+      "veça villosa"
     ],
-    "csb": [
-      "Szadô wika"
+    "fi": [
+      "ruisvirna"
+    ],
+    "et": [
+      "Põld-hiirehernes"
     ],
     "de": [
       "Zottige Wicke",
       "Hairy vetch"
     ],
-    "es": [
-      "Veza vellosa"
-    ],
-    "et": [
-      "Põld-hiirehernes"
-    ],
-    "he": [
-      "בקיה שעירה"
-    ],
     "hsb": [
       "Kosmata woka"
     ],
-    "mk": [
-      "Глушина",
-      "влакнеста глушина"
-    ],
-    "nl": [
-      "Bonte wikke"
-    ],
-    "pl": [
-      "Wyka kosmata"
+    "csb": [
+      "Szadô wika"
     ],
     "sv": [
       "Luddvicker"
     ],
-    "tr": [
-      "Tüylü fiğ"
+    "nl": [
+      "bonte wikke"
+    ],
+    "ar": [
+      "بيقية موبرة"
     ],
     "zh": [
       "长柔毛野豌豆",
       "毛苕子",
       "毛野豌豆"
-    ],
-    "cs": [
-      "vikev huňatá"
-    ],
-    "fr": [
-      "vesce velue"
-    ],
-    "en": [
-      "fodder vetch"
-    ],
-    "fi": [
-      "ruisvirna"
-    ],
-    "sl": [
-      "kuštrava grašica"
     ],
     "be": [
       "Віка касматая"
@@ -106,11 +84,18 @@
     "uk": [
       "горошок волохатий"
     ],
+    "cs": [
+      "vikev huňatá"
+    ],
     "mn": [
       "Үслэг гиш"
     ],
     "li": [
       "Zandjwèk"
+    ],
+    "mk": [
+      "влакнеста глушина",
+      "Глушина"
     ],
     "arz": [
       "بيقيه موبره"
@@ -123,13 +108,28 @@
     ],
     "lv": [
       "Smiltāja vīķis"
+    ],
+    "sl": [
+      "kuštrava grašica"
+    ],
+    "es": [
+      "Veza vellosa"
+    ],
+    "tr": [
+      "Tüylü fiğ"
+    ],
+    "fr": [
+      "vesce velue"
+    ],
+    "en": [
+      "fodder vetch"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159752",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159752",
   "search_names": {
@@ -139,35 +139,75 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ナヨクサフジ」",
+      "source": "Wikipedia (ja): ナヨクサフジ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%A8%E3%82%AF%E3%82%B5%E3%83%95%E3%82%B8",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106369430,
       "text": "ナヨクサフジ は、ヨーロッパや西アジア原産のマメ科植物でヘアリーベッチ(hairy vetch)とも呼ばれる。\n日本では緑肥や飼料用途などで、種子が販売されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vicia villosa」",
+      "source": "Wikipedia (en): Vicia villosa",
       "source_url": "https://en.wikipedia.org/wiki/Vicia_villosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1304388952,
       "text": "Vicia villosa, known as the hairy vetch, fodder vetch or winter vetch, is a plant native to some of Europe and western Asia. It is a legume, grown as a forage crop, fodder crop, cover crop, and green manure. Although non-native, it occurs in all US states and is considered invasive by some states, such as Alaska, Florida, Georgia, Kansas, Michigan, Minnesota, Nebraska, Oregon, and Washington state — as well as in Japan and some parts of Europe where it is not native. It is also found in most Canadian provinces."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vicia villosa",
+      "source_url": "https://es.wikipedia.org/wiki/Vicia_villosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175802059,
+      "text": "El vezo piloso o veza vellosa es una planta leguminosa nativa de Europa y el oeste de Asia. Se la utiliza como cultivo forrajero."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vicia villosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Vicia_villosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222511125,
+      "text": "Vicia villosa, communément appelée vesce de Cerdagne ou vesce velue, est une espèce de plantes à fleurs de la famille des Fabaceae et du genre Vicia. C'est une plante herbacée volubile trouvée dans le sud de l'Europe."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vicia villosa",
+      "source_url": "https://pt.wikipedia.org/wiki/Vicia_villosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 40212727,
+      "text": "Vicia villosa é uma espécie de planta com flor pertencente à família Fabaceae."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Vicia villosa」の節「Cultivation」",
+        "source": "Wikipedia (en): Vicia villosa § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Vicia_villosa#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1304388952,
         "heading": "Cultivation",
         "text": "Hairy vetch is widely used by organic growers in the United States as a winter cover crop and in no-till farming, as it is both winter hardy and can fix as much as 200 lb/acre of atmospheric nitrogen.  Disadvantages of hairy vetch in production agriculture are related to the crop having a portion of hard seed and its tendency to shatter seed early in the season, leading to it remaining in the field as a weed later in the season.  This can be a particular problem in wheat production.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Vicia villosa § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Vicia_villosa#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 222511125,
+        "heading": "Toxicité",
+        "text": "Voir aussi : Fève#Favisme pour ce qui concerne la fève (Vicia faba) qui est du même genre.\nLes substances hémolytiques et les hétérosides cyanogénétiques (vicianoside...) que renferment les graines des vesces sont responsables d'anémie dangereuse (potentiellement mortelle) détruisant les globules rouges chez les personnes à qui il manque par hérédité l'enzyme digestive détruisant ces substances (déficit en G6PD). En cas de consommation, même si l'on peut les consommer crues ou peu cuites encore vertes, il sera nécessaire de bien les faire cuire lorsqu'elles sont matures. Cette précaution est cependant totalement insuffisante pour les personnes génétiquement prédisposées.\nLa vesce de Cerdagne a intoxiqué des agneaux par allaitement même en quantité partielle dans les fourrages. Les graines et les feuilles ont causées la mort de bétail en Europe et aux États-Unis.",
         "truncated": false
       }
     }
@@ -185,7 +225,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -336,7 +376,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/525259-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling annual or perennial",
@@ -344,7 +384,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/525259-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000212804.webp",
@@ -357,6 +397,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 287,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -14,7 +14,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -25,74 +25,32 @@
       "white mustard",
       "yellow mustard"
     ],
-    "de": [
-      "Weißer Senf"
-    ],
-    "bg": [
-      "Бял синап"
-    ],
-    "dv": [
-      "ރީނދޫ ރެވި"
-    ],
-    "es": [
-      "Mostaza blanca"
-    ],
-    "et": [
-      "Valge sinep"
-    ],
     "fr": [
       "Moutarde blanche"
-    ],
-    "gl": [
-      "Mostaza branca"
     ],
     "id": [
       "Sesawi putih"
     ],
-    "lt": [
-      "Baltoji garstyčia"
-    ],
-    "mk": [
-      "Бел синап"
-    ],
-    "nl": [
-      "gele mosterd",
-      "Witte mosterd"
+    "dv": [
+      "ރީނދޫ ރެވި"
     ],
     "pl": [
-      "Gorczyca biała"
+      "gorczyca biała"
     ],
     "qu": [
       "Yuraq mustasa"
     ],
-    "ro": [
-      "Muştar alb"
+    "es": [
+      "Mostaza blanca"
     ],
-    "ru": [
-      "Горчица белая"
+    "gl": [
+      "Mostaza branca"
     ],
-    "sk": [
-      "Horčica biela"
+    "et": [
+      "Valge sinep"
     ],
-    "sv": [
-      "Vitsenap"
-    ],
-    "tr": [
-      "Beyaz hardal"
-    ],
-    "fi": [
-      "keltasinappi"
-    ],
-    "zh": [
-      "白芥",
-      "芥子",
-      "白芥子"
-    ],
-    "ast": [
-      "xébana blanca"
-    ],
-    "sl": [
-      "bela gorjušica"
+    "de": [
+      "Weißer Senf"
     ],
     "pnb": [
       "چٹی راءی"
@@ -100,14 +58,27 @@
     "hsb": [
       "Běły žonop"
     ],
+    "nl": [
+      "Witte mosterd",
+      "gele mosterd"
+    ],
     "ar": [
       "خردل أبيض"
+    ],
+    "sv": [
+      "Vitsenap"
     ],
     "pt": [
       "Mostarda-branca"
     ],
     "eo": [
       "Blanka sinapo"
+    ],
+    "sk": [
+      "horčica biela"
+    ],
+    "ru": [
+      "Горчица белая"
     ],
     "cv": [
       "Шурă пăрăç"
@@ -118,6 +89,9 @@
     "cs": [
       "hořčice bílá"
     ],
+    "bg": [
+      "бял синап"
+    ],
     "dsb": [
       "Běły žonop"
     ],
@@ -127,14 +101,25 @@
     "hr": [
       "Bijela gorušica"
     ],
+    "lt": [
+      "Baltoji garstyčia"
+    ],
     "gv": [
       "Brashlagh rangagh"
+    ],
+    "zh": [
+      "白芥",
+      "芥子",
+      "白芥子"
     ],
     "uk": [
       "Гірчиця біла"
     ],
     "hu": [
       "fehér mustár"
+    ],
+    "fi": [
+      "keltasinappi"
     ],
     "ta": [
       "வெள்ளைக் கடுகு"
@@ -147,6 +132,9 @@
     ],
     "ms": [
       "Sesawi putih"
+    ],
+    "mk": [
+      "бел синап"
     ],
     "sgs": [
       "Garstītis"
@@ -181,15 +169,27 @@
     "nb": [
       "hvitsennep"
     ],
+    "sl": [
+      "bela gorjušica"
+    ],
+    "tr": [
+      "Beyaz hardal"
+    ],
     "sat": [
       "ᱯᱩᱸᱰ ᱛᱩᱲᱤ"
+    ],
+    "ro": [
+      "Muştar alb"
+    ],
+    "ast": [
+      "xébana blanca"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q146202",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q146202",
   "search_names": {
@@ -199,22 +199,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シロガラシ」",
+      "source": "Wikipedia (ja): シロガラシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%82%AC%E3%83%A9%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106481961,
       "text": "シロガラシ 、キガラシ は、アブラナ科シロガラシ属の一年生植物。種子をマスタードの原料とするほか、野菜ないしはハーブとしても利用される。地中海沿岸原産で荒れ地などに自生している野草だが、現在では帰化植物として世界的に分布している。"
     },
     "en": {
-      "source": "Wikipedia 英語版「White mustard」",
+      "source": "Wikipedia (en): White mustard",
       "source_url": "https://en.wikipedia.org/wiki/White_mustard",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370264958,
       "text": "White mustard, also called yellow mustard, is an annual plant of the cabbage family. It is sometimes also referred to as Brassica alba or B. hirta. It is native to the Mediterranean region, Europe and Tropical Asia, but is now widespread worldwide. Grown for its seeds, it is used to make the condiment mustard, as a fodder crop, or as a green manure."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sinapis alba",
+      "source_url": "https://es.wikipedia.org/wiki/Sinapis_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171583098,
+      "text": "La mostaza blanca es una planta anual de la familia de las Crucíferas. A veces se la conoce como Brassica alba, Brassica hirta o mostaza amarilla. Se la cultiva comercialmente por sus semillas de mostaza en prácticamente todo el mundo, siendo sin embargo originaria probablemente de la región mediterránea. Las flores amarillas de la planta producen un tipo de vainas (silicuas) vellosas que contienen las semillas, en las que encontraremos aproximadamente media docena de semillas por vaina. La cosecha de la semilla de la mostaza se hace justo antes de que dichas vainas maduren del todo y se abran. Las semillas de esta especie de mostaza son redondas y de consistencia dura, de en torno al milímetro o 2 mm de diámetro, y con un color que puede ir del beige o el amarillo al marrón claro."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Moutarde blanche",
+      "source_url": "https://fr.wikipedia.org/wiki/Moutarde_blanche",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222891996,
+      "text": "La moutarde blanche, le sénevé, le sènevé ou la sanve, est une espèce de plante annuelle de la famille des Brassicacées, cultivée pour ses graines servant à la préparation de condiments."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sinapis alba",
+      "source_url": "https://pt.wikipedia.org/wiki/Sinapis_alba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70230622,
+      "text": "A mostarda-branca é uma planta anual da família Brassicaceae, cultivada pelas suas sementes, utilizadas na preparação de condimentos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sesawi putih",
+      "source_url": "https://id.wikipedia.org/wiki/Sesawi_putih",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29217692,
+      "text": "Mustar putih atau sesawi putih merupakan tumbuhan sesawi yang bijinya diolah menjadi moster, rempah-rempah penyedap dalam masakan Eropa. Tumbuhan ini berasal dari daerah Laut Tengah bagian timur dan sudah sejak masa Romawi dikembangkan oleh manusia. Daunnya digunakan pula sebagai pakan ternak dan biasa ditanam oleh petani Eropa sebagai pupuk hijau untuk menjaga kondisi tanah."
     }
   },
   "edible": {
@@ -231,7 +267,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -388,7 +424,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/288952-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -396,7 +432,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/288952-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000432649.webp",
@@ -409,6 +445,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

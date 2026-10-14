@@ -36,33 +36,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ハゲイトウ",
       "ヒユ"
     ],
-    "en": [
-      "Joseph's-coat"
-    ],
-    "zh": [
-      "雁來紅",
-      "莧菜",
-      "苋",
-      "苋菜",
-      "刺苋菜",
-      "苋菜、小米菜",
-      "红米菜",
-      "红苋菜",
-      "苋实",
-      "苋根"
-    ],
-    "sl": [
-      "tribarvni ščir"
-    ],
     "pt": [
+      "Tampala",
       "tampala"
+    ],
+    "id": [
+      "Bayam gajah"
     ],
     "ml": [
       "മധുരച്ചീര"
@@ -78,6 +64,18 @@
     ],
     "ms": [
       "Bayam hijau"
+    ],
+    "zh": [
+      "苋",
+      "雁來紅",
+      "莧菜",
+      "苋菜",
+      "刺苋菜",
+      "苋菜、小米菜",
+      "红米菜",
+      "红苋菜",
+      "苋实",
+      "苋根"
     ],
     "ru": [
       "щирица трёхцветная"
@@ -109,9 +107,6 @@
     "kn": [
       "ದಂಟು (ಸೊಪ್ಪು)"
     ],
-    "id": [
-      "Bayam gajah"
-    ],
     "be": [
       "Аксамітнік трохкаляровы"
     ],
@@ -120,13 +115,19 @@
     ],
     "mnc": [
       "ᡶᡳᠶᡝᠯᡝᠨ"
+    ],
+    "sl": [
+      "tribarvni ščir"
+    ],
+    "en": [
+      "Joseph's-coat"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3242205",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3242205",
   "search_names": {
@@ -143,35 +144,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ハゲイトウ」",
+      "source": "Wikipedia (ja): ハゲイトウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B2%E3%82%A4%E3%83%88%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111197785,
       "text": "ハゲイトウ は、ヒユ科ヒユ属の一年草。アマランサスの1種である。名前は「葉が美しいケイトウ」を意味する。主に食用品種をヒユ（莧）とも呼ぶが、アマランサスの食用品種の総称的に呼ぶこともある。学名の種小名 tricolor は、「三色の」を意味すする。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Amaranthus tricolor」",
+      "source": "Wikipedia (en): Amaranthus tricolor",
       "source_url": "https://en.wikipedia.org/wiki/Amaranthus_tricolor",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1323463787,
       "text": "Amaranthus tricolor, known as edible amaranth, is a species of flowering plant in the genus Amaranthus, part of the family Amaranthaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Amaranthus tricolor",
+      "source_url": "https://es.wikipedia.org/wiki/Amaranthus_tricolor",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174419977,
+      "text": "El ala de loro, capa de rey, guacamayo o papagayo común es una especie de planta ornamental perteneciente a la familia Amaranthaceae. Se cultivan con un llamativo color amarillo, rojo y verde follaje."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Amaranthus tricolor",
+      "source_url": "https://fr.wikipedia.org/wiki/Amaranthus_tricolor",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 206185223,
+      "text": "L'Amarante tricolore ou Amarante fournaise est une espèce de plante annuelle de la famille des Amaranthacées. Elle est parfois dénommée Joseph's coat du nom de la figure biblique de Joseph qui est dit avoir porté un manteau de plusieurs couleurs."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tampala",
+      "source_url": "https://pt.wikipedia.org/wiki/Tampala",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70156002,
+      "text": "A tampala, também conhecida como bredo, caruru ou caruru-de-mancha, é uma espécie de planta herbácea da família Amaranthaceae. Oriunda da Ásia, é utilizada por diversas culturas do mundo como alimento e como planta ornamental."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bayam gajah",
+      "source_url": "https://id.wikipedia.org/wiki/Bayam_gajah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28597336,
+      "text": "Amaranthus tricolor, yang dikenal sebagai bayam gajah, adalah spesies tumbuhan berbunga dalam genus Amaranthus, bagian dari famili Amaranthaceae."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ハゲイトウ」の節「栽培」",
+        "source": "Wikipedia (ja): ハゲイトウ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B2%E3%82%A4%E3%83%88%E3%82%A6#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111197785,
         "heading": "栽培",
         "text": "熱帯地方原産の植物なので暑さに強く、西日の当たる場所でもよく生育する。水はけは大切で、多湿の状態が長く続くと根腐れしやすい。耐寒性はなく、霜が降りると枯れる。\n種の発芽適温は20～25℃くらいで、4月下旬から6月が種蒔きの適期。種は嫌光性で、暗いと発芽するため、種蒔き後は種が隠れるように覆土し、発芽まで覆いをして暗くしておくと発芽が早くなる。直根性で移植を嫌うため、植え付けの際は根を触らないようにして植え付ける。\n大きく成長する品種は、丈が伸びる前に支柱を添えておくと倒伏の予防になる。摘心して育てると、枝分かれして茎数が多い株に成長する。",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Amaranthus tricolor § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Amaranthus_tricolor#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 206185223,
+        "heading": "Culture",
+        "text": "Un emplacement ensoleillé est nécessaire pour que la plante présente des couleurs vives, mais elle supporte aussi un emplacement semi-ombragé. Elle apprécie la chaleur et supporte la sécheresse. Un excès d'engrais fait disparaitre les couleurs vives. Un tuteurage est nécessaire vu la hauteur de la plante.\nLa multiplication par graine est facile, la plante pouvant d'ailleurs devenir invasive.",
         "truncated": false
       }
     }
@@ -190,7 +238,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -269,7 +317,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/327386-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -277,7 +325,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/327386-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000530523.webp",
@@ -290,6 +338,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -19,12 +19,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "海桑"
-    ],
     "id": [
       "Pidada merah"
     ],
@@ -39,6 +36,9 @@
     ],
     "vi": [
       "Bần chua"
+    ],
+    "zh": [
+      "海桑"
     ],
     "ta": [
       "கிண்ணை"
@@ -66,18 +66,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4918688",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4918688",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sonneratia caseolaris」",
+      "source": "Wikipedia (en): Sonneratia caseolaris",
       "source_url": "https://en.wikipedia.org/wiki/Sonneratia_caseolaris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1315214961,
       "text": "Sonneratia caseolaris, commonly known as mangrove apple, or pagatpat is a species of plant in the family Lythraceae. The fruit is noted for its outward similarity to the persimmon fruit."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pidada merah",
+      "source_url": "https://id.wikipedia.org/wiki/Pidada_merah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26105438,
+      "text": "Pidada merah atau perepat merah adalah sejenis pohon penghuni rawa-rawa tepi sungai dan hutan bakau, yang termasuk ke dalam suku Lythraceae."
     }
   },
   "edible": {
@@ -94,7 +103,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -129,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/941681-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -137,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/941681-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001140434.webp",
@@ -150,6 +159,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 329,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

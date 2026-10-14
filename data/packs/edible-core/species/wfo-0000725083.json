@@ -10,54 +10,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ケンポナシ"
     ],
-    "en": [
-      "Japanese raisintree",
-      "Japanese raisin tree",
-      "Oriental raisin tree"
-    ],
-    "af": [
-      "Japanse rosyntjieboom"
-    ],
-    "it": [
-      "Albero dell'uva passa"
-    ],
-    "ru": [
-      "Конфетное дерево",
-      "Говения сладкая"
-    ],
-    "tr": [
-      "Şeker ağacı"
-    ],
-    "zh": [
-      "枳椇",
-      "北枳椇",
-      "枳棋子"
-    ],
-    "ko": [
-      "헛개나무"
-    ],
-    "cs": [
-      "dužistopka sladká"
-    ],
-    "es": [
-      "Palo dulce"
+    "fr": [
+      "Raisinier de Chine"
     ],
     "pt": [
-      "Uva do Japao",
-      "Cajueiro-japonês"
-    ],
-    "he": [
-      "עץ הצימוק היפני",
-      "הובניה מתוקה"
-    ],
-    "sk": [
-      "hovénia sladká"
+      "Cajueiro-japonês",
+      "Uva do Japao"
     ],
     "pl": [
       "howenia słodka"
@@ -65,8 +29,9 @@
     "ab": [
       "Акамфеҭҵла"
     ],
-    "fr": [
-      "Raisinier de Chine"
+    "ru": [
+      "конфетное дерево",
+      "Говения сладкая"
     ],
     "ca": [
       "arbre de les panses"
@@ -74,11 +39,23 @@
     "de": [
       "Japanischer Rosinenbaum"
     ],
+    "zh": [
+      "北枳椇",
+      "枳椇",
+      "枳棋子"
+    ],
     "sr": [
       "Ховенија"
     ],
+    "he": [
+      "עץ הצימוק היפני",
+      "הובניה מתוקה"
+    ],
     "uz": [
       "Konfet daraxti"
+    ],
+    "ko": [
+      "헛개나무"
     ],
     "az": [
       "Şirin hoveniya"
@@ -94,13 +71,36 @@
     ],
     "xmf": [
       "კამფეტიშ ჯა"
+    ],
+    "en": [
+      "Japanese raisintree",
+      "Japanese raisin tree",
+      "Oriental raisin tree"
+    ],
+    "af": [
+      "Japanse rosyntjieboom"
+    ],
+    "it": [
+      "Albero dell'uva passa"
+    ],
+    "tr": [
+      "Şeker ağacı"
+    ],
+    "cs": [
+      "dužistopka sladká"
+    ],
+    "es": [
+      "Palo dulce"
+    ],
+    "sk": [
+      "hovénia sladká"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1478203",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1478203",
   "search_names": {
@@ -110,22 +110,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ケンポナシ」",
+      "source": "Wikipedia (ja): ケンポナシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%9D%E3%83%8A%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106572259,
       "text": "ケンポナシ は、クロウメモドキ科ケンポナシ属の落葉高木。山野に生える。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Hovenia dulcis」",
+      "source": "Wikipedia (en): Hovenia dulcis",
       "source_url": "https://en.wikipedia.org/wiki/Hovenia_dulcis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375613555,
       "text": "Hovenia dulcis, or the oriental raisin tree, is a hardy tree found in Asia, from Eastern China and Korea to the Himalayas, growing preferably in a sunny position on moist sandy or loamy soils. The tree known for its health benefits when consumed in tea, introduced as an ornamental tree to several countries, also bears edible fruit. It is considered to be one of the most pervasive invaders in Brazilian subtropical forests."
+    },
+    "es": {
+      "source": "Wikipedia (es): Hovenia dulcis",
+      "source_url": "https://es.wikipedia.org/wiki/Hovenia_dulcis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 155905768,
+      "text": "Hovenia dulcis  es un árbol originario de Japón, el cual se ha expandido a lo largo del este de China y Corea y en el Himalaya. Crece de preferencia en una posición soleada, en arena húmeda o en suelos limosos. Se ha introducido como árbol ornamental en varios países."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Raisinier de Chine",
+      "source_url": "https://fr.wikipedia.org/wiki/Raisinier_de_Chine",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238645697,
+      "text": "Le Raisinier de Chine, hovénie sucrée, jujube zig-zag, kouai-tsao ou Japanese raisin-tree (anglais), est une espèce de plantes à fleurs de la famille des Rhamnaceae. C'est un arbre rustique originaire d'Asie qui a été introduit comme arbre d'ornement dans de nombreux pays."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cajueiro-japonês",
+      "source_url": "https://pt.wikipedia.org/wiki/Cajueiro-japon%C3%AAs",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64049692,
+      "text": "Também conhecida como bananinha-do-japão, caju-do-japão, chico-magro, gomari, passa-do-japão, passa-japonesa, pé-de-galinha, uva-da-china, uva-do-japão e uva-japonesa. Hovenia dulcis é o nome científico desta árvore caducifólia pertencente a família das ramnáceas, chega a atingir cerca de 25 metros de altura e é nativa da China, Coreia e Japão. Prefere climas subtropicais e temperados, mas é capaz de tolerar o clima tropical. Porém, seu plantio em regiões semiáridas não é recomendado pois seu crescimento pode ser prejudicado."
     }
   },
   "edible": {
@@ -141,7 +168,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -171,7 +198,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/717558-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -179,6 +206,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/717558-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

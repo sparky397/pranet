@@ -12,17 +12,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Jerusalem thorn"
-    ],
-    "zh": [
-      "扁轴木"
-    ],
-    "sl": [
-      "parkinsonija"
+    "fr": [
+      "Épine de Jérusalem"
     ],
     "de": [
       "Jerusalemsdorn"
@@ -38,6 +32,9 @@
     ],
     "ar": [
       "باركنسونية حادة"
+    ],
+    "zh": [
+      "扁轴木"
     ],
     "cs": [
       "parkinsonie pichlavá"
@@ -69,26 +66,59 @@
     "ja": [
       "パーキンソニア・アクレアタ"
     ],
+    "sl": [
+      "parkinsonija"
+    ],
     "et": [
       "terav paloverde"
+    ],
+    "en": [
+      "Jerusalem thorn"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q279482",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q279482",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Parkinsonia aculeata」",
+      "source": "Wikipedia (en): Parkinsonia aculeata",
       "source_url": "https://en.wikipedia.org/wiki/Parkinsonia_aculeata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1322356916,
       "text": "Parkinsonia aculeata is a species of perennial flowering tree in the pea family, Fabaceae. Common names include palo verde, Mexican palo verde, Parkinsonia, Jerusalem thorn, jelly bean tree, palo de rayo, and retama."
+    },
+    "es": {
+      "source": "Wikipedia (es): Parkinsonia aculeata",
+      "source_url": "https://es.wikipedia.org/wiki/Parkinsonia_aculeata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175376029,
+      "text": "El espinillo, cina-cina, palo verde, sauce venezolano o retama —entre otros nombres vulgares— es un árbol de la subfamilia Caesalpinioideae de las leguminosas. Es nativo del sudoeste de Estados Unidos, México y Sudamérica. Se la cultiva ampliamente como ornamental en zonas templadas y subtropicales, pese a su elevado potencial invasor."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Épine de Jérusalem",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89pine_de_J%C3%A9rusalem",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231124979,
+      "text": "L'Épine de Jérusalem est une espèce de plantes à fleurs de la famille des Fabacées. C'est un arbre originaire des Amériques."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Parkinsonia aculeata",
+      "source_url": "https://pt.wikipedia.org/wiki/Parkinsonia_aculeata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71082533,
+      "text": "Parkinsonia aculeata é uma espécie de árvore perene da família Fabaceae. Os nomes comuns incluem palo-verde, palo-verde-mexicano, parkinsonia, cascol e espinho-de-jerusalém."
     }
   },
   "edible": {
@@ -106,7 +136,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -246,7 +276,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/512242-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -254,7 +284,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/512242-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000170206.webp",
@@ -267,6 +297,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

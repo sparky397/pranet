@@ -16,12 +16,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "buchu"
-    ],
     "fr": [
       "Buchu"
     ],
@@ -57,24 +54,60 @@
     ],
     "ko": [
       "부쿠나무"
+    ],
+    "en": [
+      "buchu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q194513",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q194513",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Agathosma betulina」",
+      "source": "Wikipedia (en): Agathosma betulina",
       "source_url": "https://en.wikipedia.org/wiki/Agathosma_betulina",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357587368,
       "text": "Agathosma betulina is a flowering plant in the family Rutaceae, native to the lower elevation mountains of western South Africa, where it occurs near streams in fynbos habitats."
+    },
+    "es": {
+      "source": "Wikipedia (es): Agathosma betulina",
+      "source_url": "https://es.wikipedia.org/wiki/Agathosma_betulina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175175066,
+      "text": "Agathosma betulina, conocida comúnmente como buchu, es un arbusto perteneciente a la familia de las rutáceas, nativa de las montañas de baja altura del oeste de Sudáfrica, donde se encuentran los hábitats de fynbos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Buchu",
+      "source_url": "https://fr.wikipedia.org/wiki/Buchu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 220190694,
+      "text": "Le buchu ou bucco est une espèce de plantes à fleurs de la famille des Rutacées. C'est un petit arbuste originaire d'Afrique du Sud."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Agathosma betulina § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Agathosma_betulina#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175175066,
+        "heading": "Toxicidad",
+        "text": "En las hojas de Agathosma betulina se ha identificado la presencia de cetonas monoterpenicas como la pulegona en concentraciones variables según el quimiotipo. Este compuesto puede ser tóxico para el ser humano, es por esto que esta especie no está recomendada para uso alimentario.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -88,7 +121,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -98,7 +131,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/770863-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -106,7 +139,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/770863-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000523353.webp",
@@ -119,6 +152,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 270,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -12,7 +12,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "et": [
@@ -32,28 +32,46 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q149646",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q149646",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Thymus caespititius」",
+      "source": "Wikipedia (en): Thymus caespititius",
       "source_url": "https://en.wikipedia.org/wiki/Thymus_caespititius",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1296564209,
       "text": "Thymus caespititius is a dwarf, aromatic mat-forming groundcover shrub. It is native to oceanic areas in the Iberian Peninsula and the Atlantic archipelagos of the Azores and Madeira."
+    },
+    "es": {
+      "source": "Wikipedia (es): Thymus caespititius",
+      "source_url": "https://es.wikipedia.org/wiki/Thymus_caespititius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174260266,
+      "text": "Thymus caespititius es una especie de plantas de la familia de las lamiáceas."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Thymus caespititius",
+      "source_url": "https://pt.wikipedia.org/wiki/Thymus_caespititius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 51115898,
+      "text": "Thymus caespititius é uma espécie planta com flor pertencente à família Lamiaceae, com distribuição natural no sudoeste da Europa e nas ilhas da Macaronésia. A espécie é conhecida pelos nomes comuns de alecrim-da-serra, erva-úrsula, termentelo, tomentelo e tormentelo."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Thymus caespititius」の節「Cultivation」",
+        "source": "Wikipedia (en): Thymus caespititius § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Thymus_caespititius#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1296564209,
         "heading": "Cultivation",
         "text": "Thymus caespititius, grown as an ornamental plant, and is hardy down to USDA Zone 7.  The cultivar Thymus caespititius 'Aureus' has narrow, light gold leaves.",
@@ -69,7 +87,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -82,7 +100,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/460982-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -90,7 +108,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/460982-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000323804.webp",
@@ -103,6 +121,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -31,7 +31,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -41,29 +41,25 @@
       "Lemon",
       "lemon"
     ],
-    "it": [
-      "limone"
-    ],
     "fr": [
-      "citron",
-      "citronnier"
-    ],
-    "es": [
-      "limón",
-      "limonero"
+      "Citronnier",
+      "citronnier",
+      "citron"
     ],
     "pt": [
+      "Limão",
       "limão"
     ],
-    "la": [
-      "lemin",
-      "Limon"
-    ],
-    "sl": [
-      "limona"
+    "id": [
+      "Lemon",
+      "sitrun"
     ],
     "ru": [
       "лимон"
+    ],
+    "es": [
+      "limonero",
+      "limón"
     ],
     "cs": [
       "citronovník"
@@ -188,9 +184,6 @@
     "hu": [
       "citrom"
     ],
-    "id": [
-      "sitrun"
-    ],
     "io": [
       "Citrono"
     ],
@@ -223,6 +216,10 @@
     ],
     "kv": [
       "лимон"
+    ],
+    "la": [
+      "Limon",
+      "lemin"
     ],
     "lad": [
       "Limon"
@@ -313,6 +310,9 @@
     ],
     "sk": [
       "citrón"
+    ],
+    "sl": [
+      "limona"
     ],
     "so": [
       "Liin dhanaan"
@@ -637,13 +637,16 @@
     ],
     "fur": [
       "Limon"
+    ],
+    "it": [
+      "limone"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q500",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q500",
   "search_names": {
@@ -658,46 +661,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「レモン」",
+      "source": "Wikipedia (ja): レモン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A2%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110325386,
       "text": "レモン は、ミカン科ミカン属の常緑高木、またはその果実のこと。柑橘類の一つであり、中でも主に酸味や香りを楽しむ、いわゆる香酸柑橘類に属する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lemon」",
+      "source": "Wikipedia (en): Lemon",
       "source_url": "https://en.wikipedia.org/wiki/Lemon",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369999270,
       "text": "The lemon is a species of small evergreen tree in the Citrus genus of the flowering plant family Rutaceae. A true lemon is a hybrid of the citron and the bitter orange. Its origins are uncertain, but some evidence suggests lemons originated during the 1st millennium BC in what is now northeastern India. Some other citrus fruits are called lemon."
+    },
+    "es": {
+      "source": "Wikipedia (es): Citrus × limon",
+      "source_url": "https://es.wikipedia.org/wiki/Citrus_%C3%97_limon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175367573,
+      "text": "Citrus × limon, el limonero es un pequeño árbol frutal perenne. Su fruto es el limón o limón real o citrón, una fruta comestible de color amarillo, gusto ácido y extremadamente fragante que se usa principalmente en la alimentación. La mayoría de las variedades producen frutos durante todo el año. La madera de limonero se utiliza en ebanistería."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Citronnier",
+      "source_url": "https://fr.wikipedia.org/wiki/Citronnier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233283304,
+      "text": "Le citronnier, Citrus × limon, est une espèce de petits arbres de la famille des Rutacées, cultivée dans les régions méditerranéennes et subtropicales pour son fruit le citron, dont le jus est utilisé principalement comme condiment. L'origine de l'espèce est un hybride entre le cédratier et le bigaradier."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Limão",
+      "source_url": "https://pt.wikipedia.org/wiki/Lim%C3%A3o",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72978005,
+      "text": "Limão é o fruto do limoeiro, uma pequena árvore de folha perene originária da região sudeste da Ásia, da família das rutáceas. No Brasil é também popularmente denominado limão-siciliano, de forma a distingui-lo de três outras espécies de citrinos chamadas de \"limões\" no Brasil e \"limas\" nos restantes países lusófonos: Citrus × latifolia ou limão-taiti, Citrus × aurantiifolia ou limão-galego, Citrus × limonia ou limão-cravo."
+    },
+    "id": {
+      "source": "Wikipedia (id): Lemon",
+      "source_url": "https://id.wikipedia.org/wiki/Lemon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29759115,
+      "text": "Lemon atau sitrun merupakan sebuah spesies pohon kecil hijau abadi dari genus Citrus dalam famili tumbuhan berbunga Rutaceae. Lemon sejati adalah sebuah hibrida antara sukade dan jeruk pahit. Asal-usulnya belum dapat dipastikan, namun sejumlah bukti mengisyaratkan bahwa lemon bermula pada milenium pertama SM di wilayah yang kini dikenal sebagai timur laut India. Beberapa jenis buah jeruk lainnya juga seringkali disebut sebagai lemon."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「レモン」の節「栽培」",
+        "source": "Wikipedia (ja): レモン § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A2%E3%83%B3#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110325386,
         "heading": "栽培",
         "text": "レモンは寒さに弱いため、栽培適地は冬暖かく、夏に乾燥する地域が適しており、このため世界の大産地にはイタリアやスペイン、南カリフォルニアなど冬季温暖・夏季乾燥の地中海性気候のところが多い。耐寒性指標は9-11。栽培される種類も比較的豊富で、潮風に強いため、沿岸部での栽培も可能となっている。日本での栽培地はウンシュウミカンなどの柑橘類の栽培地と同じく西日本の暖地であるが、なかでも特に上記条件に当てはまる瀬戸内海地方で栽培されることが多い。\n耐寒性は-2℃から-4℃までであり、それを下回ると枯死することもあるため、風の強い地域や霜の降りる地域では対策が必要となる。棘の多い品種では棘で実に傷がつきやすくなり、かいよう病の原因となりやすいため、風の少ないところで栽培するか長い棘を切ってしまう必要がある。レモンの葉は軟らかいため害虫がつきやすく、アゲハチョウなどの幼虫には、レモンの葉を食性とする種がある。ミカンハモグリガは夏芽、秋芽を加害するため、幼木を早く大きくするには、この防除が必要になる。\n果実はレモンの木1本で100個から150個ほど採取できる。果実を充実させるため、摘果を行う。枝がしなるほど1つの枝に果実が集中しているような場合は、少し間引くようにする。鉢植えのレモンは、1つの枝に果実1つを目安に摘果を行う。\n剪定は3月から4月中旬頃に行う。ただ枝を切り詰めるだけでなく、樹の中まで日が当たる様に配慮して整枝を行う。主軸から伸びている元気の良い枝を3本くらい残し、他の不要な枝を剪定する。剪定後は、枝を横に誘引すると実がつきやすくなる。\n\n■ 生産\n\n国別の世界生産量では、1位から順番に、インド、メキシコ、中華人民共和国、アルゼンチン、ブラジル、スペイン、トルコ、アメリカ合衆国、イラン、イタリアとなっている（ライムも順位に含む）。レモンの世界生産は、1位のインド、2位のメキシコ、3位の中国の上位3か国で世界生産の44.4%を占め、世界生産量のほぼ半分近くを占める形となっている。\n日本の主な輸入国はアメリカ合衆国であり、アメリカとチリの2国からの輸入が97％を占める。果実として輸入されるほか、レモン汁という形での輸入もある。レモン汁の多くは濃縮されたのち凍結させて輸入される。柑橘類であるためポストハーベスト農薬が問題視されている。\nなお、バナナやオレンジ、レモンなどの輸入果実を卸売市場で取引するときの単位は「カートン」と言い、レモンは1カートン140個である。\n\n===== 南欧 =====\n産地として古くから名高いのはイタリアのシチリア島やアマルフィなどである。\nまた、フランス南東部のコート・ダジュールにあるマントンでは、毎年2月中旬から3月上旬にかけてレモン祭りが開催され、各地から観光客を集める。この祭りは毎年異なるテーマを設定し、町の特産品であるレモンとオレンジを使ってそのテーマに沿った様々なオブジェを町中に制作することで知られている。\n\n===== 北アメリカ =====\nアメリカ合衆国でのレモン栽培はフロリダ州とカリフォルニア州が主な産地であったが、品質は低いものだった。しかし1890年代以降、多くの篤農の手によってカリフォルニアのレモンの質は急速に向上し、それに伴って生産量も拡大して、世界最大の生産地の一つに躍り出ることとなった。1893年には「南カリフォルニア青果協同組合」が設立され、「サンキスト」のブランド名とともにオレンジやレモンの質の向上、販売促進に努めた。\n\n===== 南アメリカ =====\n南アメリカにおいてはブラジルではレモンが古くから盛んに生産・消費されていたが、20世紀後半に入るとアルゼンチン北部においてレモンの栽培が急拡大し、世界の主要産地の一角を占めるようになった。\n\n===== 日本 =====\n日本のレモン栽培は1874年（明治6年）に静岡県で栽培が開始され、1899年（明治31年）には和歌山県から日本のレモンの主産地となる広島県の芸予諸島にレモンの苗木がもたらされた。食生活の洋化に伴いレモンの消費は増え続け、換金作物として瀬戸内海沿岸を中心に栽培が広まった。",
         "truncated": true
       },
       "en": {
-        "source": "Wikipedia 英語版「Lemon」の節「Cultivation」",
+        "source": "Wikipedia (en): Lemon § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Lemon#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369999270,
         "heading": "Cultivation",
         "text": "■ Growing and pruning\nLemons need a minimum temperature of around 7 °C (45 °F), so they are not hardy year-round in temperate climates, but become hardier as they mature. Citrus require minimal pruning by trimming overcrowded branches, with the tallest branch cut back to encourage bushy growth. Throughout summer, pinching back tips of the most vigorous growth assures more abundant canopy development. As mature plants may produce unwanted, fast-growing shoots (called \"water shoots\"), these are removed from the main branches at the bottom or middle of the plant. There is reputed merit in the tradition of urinating near a lemon tree.\nIn cultivation in the UK, the cultivars \"Meyer\" and \"Variegata\" have gained the Royal Horticultural Society's Award of Garden Merit (confirmed 2017).\n\n■ Production\n\nIn 2024, world production of lemons (together with limes for reporting) was 23 million tonnes, led by India and Mexico with 31% of the total when combined (table). China and Argentina were secondary producers.\n\n■ Varieties\nThe 'Bonnie Brae' is oblong, smooth, thin-skinned, and seedless. These are mostly grown in San Diego County, California, United States.\nThe 'Eureka' grows year-round and abundantly. This is the common supermarket lemon, also known as \"Four Seasons\" (Quatre Saisons) because of its ability to produce fruit and flowers together throughout the year. The variety developed in California in the 19th Century from specimens brought to California during the Gold Rush by immigrants from Naples and Sicily. This variety is also available as a plant for domestic customers. There is also a pink-fleshed Eureka lemon with a green and yellow variegated outer skin.\nThe Lisbon lemon is very similar to the Eureka and is the other common supermarket lemon.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Citronnier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Citronnier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 233283304,
+        "heading": "Culture",
+        "text": "■ Sol et exposition\nOriginaire de régions tropicales (contreforts de l'Himalaya) où la pluviométrie atteint 1 000 à 2 000 mm/an, les citronniers aiment un sol toujours frais mais bien drainé. Leurs racines sont pour la plupart superficielles, et ils n'apprécient pas la présence d'herbes ou d'autres plantes qui leur font concurrence. Ils affectionnent les sols légèrement acides, ou neutres. Certains porte-greffes tolèrent les sols calcaires. Leur gourmandise en eau peut accélérer le lessivage des sols : il faut alors fertiliser.\nLes citronniers affectionnent particulièrement le plein soleil. Ils ne craignent pas d'être exposés plein sud même par forte canicule. En revanche ils redoutent alors le vent qui pourrait les dessécher.\n\n■ Rusticité\nOn présente généralement le citronnier comme résistant à des températures d'environ −5 °C. Plus précisément, les effets du froid sur les citronniers sont les suivants (les températures sont données à titre indicatif, et peuvent varier de quelques degrés suivant la nature du sol, le vent, l'humidité, le porte greffe…).\n\nJusqu'à −3 °C, la plante arrête simplement sa croissance et entre en repos végétatif ; ce repos est généralement favorable et permet une meilleure coloration des fruits, une plus grande concentration en sucres, ainsi qu'une meilleure reprise de la végétation au printemps. En revanche, le froid est néfaste s'il dure trop.\nEntre −4 °C et −6 °C, les jeunes pousses se flétrissent. Elles reprennent leur vigueur quand la température remonte, en quelques heures ou quelques jours, suivant la sévérité des gelées (plus la température est basse, et plus le flétrissement est durable).\nEn dessous de −7 °C, les jeunes pousses se flétrissent puis après quelques semaines prennent un aspect desséché, puis meurent.",
+        "truncated": true
+      },
+      "id": {
+        "source": "Wikipedia (id): Lemon § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Lemon#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29759115,
+        "heading": "Budidaya",
+        "text": "■ Penanaman dan pemangkasan\nPohon lemon mendambakan suhu minimum di kisaran 7 °C (45 °F), sehingga mereka tidak tahan banting secara terus-menerus di wilayah beriklim sedang, namun akan tumbuh semakin tangguh seiring dengan kematangannya. Tumbuhan sitrus menuntut pemangkasan minimal dengan merapikan dahan-dahan yang terlampau rimbun, di mana cabang yang menjulang paling tinggi dipangkas guna menstimulasi pertumbuhan yang lebih lebat.\nSepanjang musim panas, memangkas pucuk-pucuk dari tunas yang tumbuh paling pesat akan menjamin perkembangan kanopi yang jauh lebih meruah. Mengingat tanaman yang telah matang kerap memunculkan tunas-tunas tak diundang yang tumbuh melesat (dikenal sebagai \"tunas air\"), tunas-tunas ini harus disingkirkan dari dahan-dahan utama pada bagian bawah maupun tengah pohon. Terdapat pula mitos manfaat dari sebuah tradisi yakni berkemih di dekat sebatang pohon lemon.\nDalam lanskap kultivasi di Britania Raya, kultivar \"Meyer\" dan \"Variegata\" telah dianugerahi Award of Garden Merit (dikonfirmasi pada tahun 2017) oleh Royal Horticultural Society.\n\n■ Produksi\n\nPada kurun tahun 2024, produksi lemon dunia (yang laporannya digabungkan bersama limau) menyentuh angka 23 juta ton, yang dipelopori oleh India dan Meksiko dengan sumbangsih kumulatif sebesar 31% dari total keseluruhan (tabel). Tiongkok dan Argentina menduduki posisi sebagai produsen sekunder.\n\n■ Varietas\nVarietas 'Bonnie Brae' memiliki wujud lonjong, mulus, berkulit tipis, dan nirbiji. Varian ini secara dominan dibudidayakan di kawasan San Diego County, California, Amerika Serikat.\n'Eureka' tumbuh dan berbuah lebat sepanjang tahun.",
         "truncated": true
       }
     }
@@ -716,7 +777,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001133139.webp",
@@ -729,6 +790,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 322,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

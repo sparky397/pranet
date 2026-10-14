@@ -26,32 +26,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ダンドボロギク"
     ],
-    "de": [
-      "Amerikanisches Scheingreiskraut"
-    ],
-    "zh": [
-      "饑荒草",
-      "梁子菜"
-    ],
-    "en": [
-      "American Burnweed",
-      "Butterweed",
-      "Eastern Burnweed",
-      "Fireweed",
-      "Pilewort",
-      "White Fireweed"
-    ],
-    "sl": [
-      "ameriški pagrint"
-    ],
     "ko": [
       "붉은서나물"
+    ],
+    "zh": [
+      "梁子菜",
+      "饑荒草"
     ],
     "fa": [
       "علف بواسیر"
@@ -64,33 +50,56 @@
     ],
     "sk": [
       "Starčekovec jastrabníkolistý"
+    ],
+    "sl": [
+      "ameriški pagrint"
+    ],
+    "de": [
+      "Amerikanisches Scheingreiskraut"
+    ],
+    "en": [
+      "American Burnweed",
+      "Butterweed",
+      "Eastern Burnweed",
+      "Fireweed",
+      "Pilewort",
+      "White Fireweed"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q857720",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q857720",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ダンドボロギク」",
+      "source": "Wikipedia (ja): ダンドボロギク",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%89%E3%83%9C%E3%83%AD%E3%82%AE%E3%82%AF",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106366751,
       "text": "ダンドボロギク は、キク科タケダグサ属の一年草の一種。北米原産で、日本では帰化植物の一つとされる。和名の由来は、1933年に愛知県段戸山で初めて記録され、注目されたことから北村四郎によって名付けられている。山火事の後に大群落を形成するため、英名で fire weed （ファイア・ウィード）とよばれる。中国名は、梁子菜。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Erechtites hieraciifolius」",
+      "source": "Wikipedia (en): Erechtites hieraciifolius",
       "source_url": "https://en.wikipedia.org/wiki/Erechtites_hieraciifolius",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368440496,
       "text": "Erechtites hieraciifolius is a plant in the daisy family, Asteraceae. It is native to the Americas, but is found many places around the world having been introduced by human activity. such as in Hawaii, China, Europe and Southeast Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Erechtites hieraciifolius",
+      "source_url": "https://fr.wikipedia.org/wiki/Erechtites_hieraciifolius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231731822,
+      "text": "Erechtites hieraciifolius, l’Érechtite à feuilles d'épervière, est une espèce de plantes de la famille des Astéracées. Indigène aux Amériques, on la retrouve dans de nombreux endroits du monde, introduite par l’humain ; notamment à Hawaï, en Chine, en Europe et en Asie du Sud-Est."
     }
   },
   "edible": {
@@ -102,7 +111,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -222,7 +231,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1152557-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -230,7 +239,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1152557-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000028940.webp",
@@ -243,6 +252,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

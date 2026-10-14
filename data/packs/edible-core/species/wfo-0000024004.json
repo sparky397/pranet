@@ -15,7 +15,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -25,53 +25,11 @@
       "Safflower",
       "safflower"
     ],
-    "cy": [
-      "safflwr"
-    ],
-    "es": [
-      "alazor",
-      "Cártamo"
-    ],
     "fr": [
       "Carthame des teinturiers"
     ],
-    "it": [
-      "Cartamo o zafferanone"
-    ],
-    "sh": [
-      "Šafranika / Шафраника",
-      "Šafranika"
-    ],
-    "th": [
-      "คำฝอย"
-    ],
-    "tr": [
-      "Aspir",
-      "Boyacı aspiri",
-      "Yalancı safran"
-    ],
-    "nl": [
-      "Saffloer"
-    ],
-    "cs": [
-      "světlice barvířská"
-    ],
-    "fi": [
-      "värisaflori"
-    ],
-    "zh": [
-      "红花",
-      "红花子",
-      "草红花"
-    ],
-    "sl": [
-      "navadni rumenik"
-    ],
-    "de": [
-      "Färberdistel"
-    ],
-    "ru": [
-      "Сафлор красильный"
+    "id": [
+      "Kesumba"
     ],
     "bo": [
       "གུར་ཀུམ།"
@@ -82,8 +40,15 @@
     "he": [
       "חריע"
     ],
+    "es": [
+      "cártamo",
+      "alazor"
+    ],
     "hu": [
       "sáfrányos szeklice"
+    ],
+    "de": [
+      "Färberdistel"
     ],
     "bn": [
       "কুসুম ফুল"
@@ -100,6 +65,9 @@
     "hsb": [
       "Barbjerska swětlica"
     ],
+    "nl": [
+      "Saffloer"
+    ],
     "ar": [
       "عصفر"
     ],
@@ -112,8 +80,25 @@
     "lzh": [
       "紅藍"
     ],
+    "ru": [
+      "Сафлор красильный"
+    ],
+    "tr": [
+      "Aspir",
+      "Boyacı aspiri",
+      "Yalancı safran"
+    ],
     "ckb": [
       "کاخڵی"
+    ],
+    "th": [
+      "คำฝอย"
+    ],
+    "fi": [
+      "värisaflori"
+    ],
+    "cs": [
+      "světlice barvířská"
     ],
     "fa": [
       "گلرنگ"
@@ -142,8 +127,10 @@
     "kk": [
       "Мақсыр"
     ],
-    "id": [
-      "Kesumba"
+    "zh": [
+      "红花",
+      "红花子",
+      "草红花"
     ],
     "ne": [
       "कुसुम"
@@ -172,11 +159,18 @@
     "or": [
       "କୁସୁମ"
     ],
+    "sh": [
+      "Šafranika",
+      "Šafranika / Шафраника"
+    ],
     "eu": [
       "Kartamo"
     ],
     "gl": [
       "Cártamo"
+    ],
+    "cy": [
+      "Safflwr"
     ],
     "pa": [
       "ਕਸੁੰਭ"
@@ -247,6 +241,9 @@
     "az": [
       "Boyaq ulaxqanqalı"
     ],
+    "sl": [
+      "navadni rumenik"
+    ],
     "mwl": [
       "alçafran"
     ],
@@ -258,13 +255,16 @@
     ],
     "shn": [
       "တူၼ်ႈမွၵ်ႇဢဵင်ႈၶႄး"
+    ],
+    "it": [
+      "Cartamo o zafferanone"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q156625",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q156625",
   "search_names": {
@@ -276,36 +276,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ベニバナ」",
+      "source": "Wikipedia (ja): ベニバナ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8B%E3%83%90%E3%83%8A",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110511260,
       "text": "ベニバナ は、キク科ベニバナ属の一年草または越年草。雅称を末摘花（すえつむはな）ともいう。紅色染料や食用油の原料として栽培される。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Safflower」",
+      "source": "Wikipedia (en): Safflower",
       "source_url": "https://en.wikipedia.org/wiki/Safflower",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377479286,
       "text": "Safflower, also false saffron, is a highly branched, herbaceous, thistle-like annual plant in the family Asteraceae. It is one of the world's oldest crops; today, it is commercially cultivated for vegetable oil extracted from the seeds. Plants are 30 to 150 cm tall with globular flower heads having yellow, orange, or red flowers. Each branch will usually have from one to five flower heads containing 15 to 20 seeds per head. Safflower is native to arid environments having seasonal rain. It grows a deep taproot which enables it to thrive in such environments."
+    },
+    "es": {
+      "source": "Wikipedia (es): Carthamus tinctorius",
+      "source_url": "https://es.wikipedia.org/wiki/Carthamus_tinctorius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171666241,
+      "text": "Carthamus tinctorius, llamada comúnmente cártamo o alazor, entre otros nombres vernáculos, es una planta herbácea del género Carthamus de la familia Asteraceae y que, aunque originalmente era cultivada por sus flores usadas como colorante, hoy en día se cultiva principalmente por sus semillas, de las cuales se extrae un aceite comestible."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Carthame des teinturiers",
+      "source_url": "https://fr.wikipedia.org/wiki/Carthame_des_teinturiers",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228880934,
+      "text": "Le Carthame des teinturiers ou Safran des teinturiers, parfois appelé Safran bâtard, est une plante herbacée tinctoriale et oléagineuse de la famille des Asteraceae, connu uniquement à l’état cultivé. Il est originaire de Turquie centrale et orientale et d'Iran mais qui a été introduite depuis l’Antiquité dans un très grand nombre de pays."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Carthamus tinctorius",
+      "source_url": "https://pt.wikipedia.org/wiki/Carthamus_tinctorius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 60934822,
+      "text": "Carthamus tinctorius é uma espécie de planta com flor pertencente à família Asteraceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kesumba",
+      "source_url": "https://id.wikipedia.org/wiki/Kesumba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28659375,
+      "text": "Kesumba adalah tumbuh-tumbuhan yang berasal dari Mediterania, yaitu Mesir. Tumbuhan ini dahulu juga berkhasiat seperti tarum, yang dibudidayakan untuk diambil getah birunya. Pada zaman Mesir Kuno, getah tumbuhan ini digunakan untuk makam Tutankhamun. John Chadwick melaporkan nama Yunani untuk kesumba mengambil banyak waktu pada tablet Linear B, dibedakan menjadi dua jenis: kesumba putih, yang diukur, dan kesumba merah untuk ditimbang. \"Penjelasan tersebut adalah terdapat dua bagian yang dapat digunakan; biji-bijian yang gundul dan floret merah.\""
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Safflower」の節「Cultivation」",
+        "source": "Wikipedia (en): Safflower § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Safflower#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377479286,
         "heading": "Cultivation",
         "text": "■ Climate\nSafflower prefers high temperatures and grows best at 28–35 °C (82–95 °F). It tolerates 40 °C (104 °F), but there are also some varieties which grow under very low temperatures. Safflower is cultivated in different seasons: as a winter crop in south central India, as an early summer crop in California and as a mid-summer crop in the Northern Great Plains of the United States. Minimum length of the growing season is 120 and 200 days for summer and winter cultivars, respectively. Plant performance is highly dependent on the different planting dates in terms of temperature and day length. Winter hard varieties only form a rosette in late fall and elongates in spring. In early stages, safflower tolerates humidity but after bud stage the danger of a Botrytis blight infestation increases\nSafflower is drought tolerant. The tap root makes moisture from deep soil layers available. Additionally, this tolerance can also be explained by the higher water use efficiency compared to other oil crops such as linseed and mustard. Shortly before and during maximum flowering water requirements are the highest. Beside drought tolerance, all parts of the plant are sensitive to moisture in terms of diseases. In the case of excessive water supply, it is susceptible to root rot. Therefore, many varieties are not suitable in irrigated agriculture especially on soils with danger of waterlogging.\nSafflower tolerates wind and hail better than cereals. It stays erect and can retain the seeds in the head.\n\n■ Soil\nSafflower prefers well-drained, neutral, fertile and deep soils. It can adapt well to soil pH (pH 5–8) and tolerates salinity.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Carthame des teinturiers § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Carthame_des_teinturiers#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 228880934,
+        "heading": "Culture",
+        "text": "Comme le tournesol, le carthame se sème au printemps à raison de 10 à 30 kg par hectare selon le taux d'humidité qui limite la germination\nSon cycle est court: de 110 à 150 jours entre le semis et la récolte, suivant la variété et la date de semis. Il se récolte le plus souvent en août ou septembre, et en juillet quand il est semé à l'automne.\nLe carthame pousse sur tous types de sols grâce à une profonde racine pivotante (jusqu'à 3 m de profondeur) qui lui permet de prospérer dans des environnements arides.\nLa plante, originaire d'un climat avec une longue saison sèche et une saison des pluies limitées, supporte mal l'humidité. Ses défenses sont très pauvres contre de nombreuses maladies fongiques dans des conditions pluvieuses, après son stade plantule. Cela limite considérablement les régions dans lesquelles il peut être cultivé commercialement dans le monde entier. La plante est aussi très sensible aux dégâts du gel (de la montaison à la maturité). Elle supporte mal la concurrence des adventices et sa culture nécessite donc un désherbage.\nÀ maturité, la germination sur pied est à redouter.",
+        "truncated": false
       }
     }
   },
@@ -323,7 +370,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -470,7 +517,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/324467-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -478,7 +525,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/324467-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000024004.webp",
@@ -491,6 +538,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

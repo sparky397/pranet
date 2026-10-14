@@ -27,12 +27,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "hippo grass"
-    ],
     "sv": [
       "Borstig hönshirs"
     ],
@@ -44,13 +41,16 @@
     ],
     "bm": [
       "Buluku"
+    ],
+    "en": [
+      "hippo grass"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1943984",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1943984",
   "search_names": {
@@ -60,13 +60,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Echinochloa stagnina」",
+      "source": "Wikipedia (en): Echinochloa stagnina",
       "source_url": "https://en.wikipedia.org/wiki/Echinochloa_stagnina",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1269997842,
       "text": "Echinochloa stagnina is a species of Echinochloa widespread in tropical Africa and Asia, with an invasive status in many Pacific islands. It was once one of the major grasses cultivated in the Inner Niger Delta of the Niger River. It was cultivated by the Fulani people, who used the seeds as food, and to make both alcoholic and nonalcoholic beverages."
+    },
+    "es": {
+      "source": "Wikipedia (es): Echinochloa stagnina",
+      "source_url": "https://es.wikipedia.org/wiki/Echinochloa_stagnina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 165398972,
+      "text": "Echinochloa stagnina es una planta herbácea de la familia de las poáceas (gramíneas). El género Echinochloa es originario de las regiones templadas, pero la especie stagnina es originaria de regiones tropicales de África y Asia. Es una planta anual acuática perenne con rizomas alargados y tallos esponjosos, caídos o postrados, que pueden alcanzar los 2 metros de largo. Forman poblaciones tipo sabana llamadas bourgoutières, que forman pastos en África Occidental. En Mali y Níger es conocida principalmente por los fulani como burgu, burgu millet y hierba hipopótamo, porque gusta mucho a los hipopótamos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Echinochloa stagnina",
+      "source_url": "https://fr.wikipedia.org/wiki/Echinochloa_stagnina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237464389,
+      "text": "Echinochloa stagnina, le bourgou, est une espèce de plantes monocotylédones de la famille des Poaceae (graminées), sous-famille des Panicoideae, originaire des régions tropicales d'Afrique et d'Asie.\nCe sont des plantes annuelles aquatiques, vivaces, aux rhizomes allongés et aux tiges (chaumes) spongieuses, décombantes ou prostrées, pouvant atteindre 2 mètres de long. Elles forment des peuplements de type savanes appelées « bourgoutières » constituant des pâturages en Afrique de l'Ouest."
+    },
+    "id": {
+      "source": "Wikipedia (id): Echinochloa stagnina",
+      "source_url": "https://id.wikipedia.org/wiki/Echinochloa_stagnina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29432220,
+      "text": "Echinochloa stagnina adalah spesies dari Echinochloa yang tersebar luas di Afrika tropis dan Asia, dengan status invasif di banyak kepulauan Pasifik. Tanaman ini pernah menjadi salah satu rumput utama yang dibudidayakan di Delta Niger Dalam di Sungai Niger. Tanaman ini dibudidayakan oleh suku Fulani, yang menggunakan bijinya sebagai makanan, serta untuk membuat minuman beralkohol maupun nonalkohol."
     }
   },
   "edible": {
@@ -83,7 +110,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -155,7 +182,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/399746-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -163,7 +190,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/399746-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000865427.webp",
@@ -176,6 +203,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

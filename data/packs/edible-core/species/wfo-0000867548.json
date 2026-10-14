@@ -62,35 +62,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Großes Liebesgras"
-    ],
-    "en": [
-      "stinkgrass"
-    ],
     "zh": [
+      "大画眉草",
       "大畫眉草",
       "星星草",
-      "大画眉草",
       "大画眉草花"
-    ],
-    "nl": [
-      "Stinkend liefdegras"
-    ],
-    "cs": [
-      "milička velkokvětá"
-    ],
-    "fi": [
-      "tanakkaröllinurmikka"
     ],
     "sv": [
       "Stort kärleksgräs"
     ],
     "cy": [
       "Serchwellt drewllyd"
+    ],
+    "cs": [
+      "milička velkokvětá"
+    ],
+    "fi": [
+      "tanakkaröllinurmikka"
     ],
     "ar": [
       "أثب مهدب"
@@ -103,13 +94,22 @@
     ],
     "fa": [
       "علف عشق هرز"
+    ],
+    "de": [
+      "Großes Liebesgras"
+    ],
+    "en": [
+      "stinkgrass"
+    ],
+    "nl": [
+      "Stinkend liefdegras"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5384812",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5384812",
   "search_names": {
@@ -123,13 +123,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Eragrostis cilianensis」",
+      "source": "Wikipedia (en): Eragrostis cilianensis",
       "source_url": "https://en.wikipedia.org/wiki/Eragrostis_cilianensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1297893490,
       "text": "Eragrostis cilianensis is a species of grass known by several common names, including stinkgrass, candy grass, and gray lovegrass."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eragrostis cilianensis",
+      "source_url": "https://pt.wikipedia.org/wiki/Eragrostis_cilianensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 40537857,
+      "text": "Eragrostis cilianensis é uma espécie de planta com flor pertencente à família Poaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Eragrostis cilianensis",
+      "source_url": "https://id.wikipedia.org/wiki/Eragrostis_cilianensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26533964,
+      "text": "Eragrostis cilianensis adalah sebuah spesies rumput yang dikenal dengan beberapa nama umum, yang meliputi stinkgrass, candy grass, dan gray lovegrass. Tumbuhan tersebut berasal dari sebagian besar Eurasia dan Afrika selain banyak didatangkan ke wilayah lain, termasuk nyaris seluruh Amerika Utara."
     }
   },
   "edible": {
@@ -145,7 +163,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -385,7 +403,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1104599-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -393,7 +411,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1104599-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000867548.webp",
@@ -406,6 +424,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 345,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

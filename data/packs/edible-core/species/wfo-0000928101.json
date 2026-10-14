@@ -14,35 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "eastern cottonwood"
-    ],
-    "fi": [
-      "Amerikanmustapoppeli"
-    ],
-    "hy": [
-      "Բարդի կանադական"
-    ],
-    "nl": [
-      "amerikaanse populier"
-    ],
-    "tr": [
-      "Amerika kara kavağı"
-    ],
-    "uk": [
-      "Тополя дельтолиста",
-      "Тополя трикутнолиста"
-    ],
-    "zh": [
-      "东方白杨",
-      "美洲黑杨"
-    ],
-    "ast": [
-      "chopu americanu"
-    ],
     "chy": [
       "Xamaehoohtsêstse"
     ],
@@ -64,6 +38,9 @@
     "hsb": [
       "Ameriski topoł"
     ],
+    "nl": [
+      "Amerikaanse populier"
+    ],
     "da": [
       "Virginsk Poppel"
     ],
@@ -73,8 +50,14 @@
     "ne": [
       "लहरे पिपल"
     ],
+    "fi": [
+      "amerikanmustapoppeli"
+    ],
     "ar": [
       "حور دالي"
+    ],
+    "hy": [
+      "բարդի կանադական"
     ],
     "fa": [
       "صنوبر شرقی"
@@ -90,6 +73,10 @@
     ],
     "et": [
       "kallaspappel"
+    ],
+    "uk": [
+      "Тополя трикутнолиста",
+      "Тополя дельтолиста"
     ],
     "be": [
       "Таполя трохвугольналістая"
@@ -108,13 +95,26 @@
     ],
     "hr": [
       "Sjevernoamerička crna topola"
+    ],
+    "zh": [
+      "美洲黑杨",
+      "东方白杨"
+    ],
+    "en": [
+      "eastern cottonwood"
+    ],
+    "tr": [
+      "Amerika kara kavağı"
+    ],
+    "ast": [
+      "chopu americanu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q149319",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q149319",
   "search_names": {
@@ -127,13 +127,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Populus deltoides」",
+      "source": "Wikipedia (en): Populus deltoides",
       "source_url": "https://en.wikipedia.org/wiki/Populus_deltoides",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368411467,
       "text": "Populus deltoides, the eastern cottonwood or necklace poplar, is a species of cottonwood poplar native to North America, growing throughout the eastern, central, and southwestern United States as well as the southern Canadian prairies, the southernmost part of eastern Canada, and northeastern Mexico."
+    },
+    "es": {
+      "source": "Wikipedia (es): Populus deltoides",
+      "source_url": "https://es.wikipedia.org/wiki/Populus_deltoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172964624,
+      "text": "El álamo negro de Norteamérica es un árbol nativo de Norteamérica, se encuentra en el este, centro y sur de Estados Unidos, también en la parte sur de Canadá y el norte de México."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Populus deltoides",
+      "source_url": "https://fr.wikipedia.org/wiki/Populus_deltoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235246886,
+      "text": "Populus deltoides est une espèce de plantes à fleurs de la famille des Salicaceae. C'est un peuplier originaire d'Amérique du Nord, dont les feuilles sont triangulaires d'où son nom vernaculaire de Peuplier deltoïde (Canada) ou Peuplier à feuille deltoïde mais cet arbre est aussi nommé liard (Canada), Peuplier de Virginie (Europe) ou encore Peuplier noir d'Amérique (Europe)."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Populus deltoides",
+      "source_url": "https://pt.wikipedia.org/wiki/Populus_deltoides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205920,
+      "text": "O algodão-americano[carece de fontes]?, Populus deltoides, é uma planta nativa da América do Norte. Se encontra principalmente na parte leste, central e sudoeste dos Estados Unidos, entre o sudeste e sudoeste do Canadá e no nordeste do México. É a árvore símbolo do Nebraska, Kansas e Wyoming."
     }
   },
   "edible": {
@@ -149,7 +176,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -240,7 +267,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30102841-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -248,7 +275,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30102841-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000928101.webp",
@@ -261,6 +288,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

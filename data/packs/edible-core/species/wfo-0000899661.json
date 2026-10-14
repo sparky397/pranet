@@ -36,40 +36,23 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ザラツキエノコログサ"
     ],
-    "cy": [
-      "cibogwellt troellog"
-    ],
-    "en": [
-      "hooked bristlegrass",
-      "bristly foxtail",
-      "rough bristlegrass"
-    ],
     "de": [
       "Quirlige Borstenhirse"
     ],
-    "nl": [
-      "kransnaaldaar"
+    "hsb": [
+      "Seršćojty włosanc"
     ],
     "zh": [
       "倒刺狗尾草"
     ],
-    "cs": [
-      "bér přeslenitý"
-    ],
-    "fr": [
-      "sétaire verticillée"
-    ],
-    "fi": [
-      "kiehkurapantaheinä"
-    ],
-    "hsb": [
-      "Seršćojty włosanc"
+    "cy": [
+      "Cibogwellt troellog"
     ],
     "fa": [
       "ارزنی چرخه‌ای"
@@ -80,11 +63,17 @@
     "uk": [
       "Мишій кільчастий"
     ],
+    "cs": [
+      "bér přeslenitý"
+    ],
     "et": [
       "võõr-kukeleib"
     ],
     "be": [
       "Мяшэй кальчаковы"
+    ],
+    "fi": [
+      "kiehkurapantaheinä"
     ],
     "ha": [
       "Dangere"
@@ -94,13 +83,24 @@
     ],
     "sl": [
       "vretenčasti muhvič"
+    ],
+    "en": [
+      "hooked bristlegrass",
+      "bristly foxtail",
+      "rough bristlegrass"
+    ],
+    "nl": [
+      "kransnaaldaar"
+    ],
+    "fr": [
+      "sétaire verticillée"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159975",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159975",
   "search_names": {
@@ -110,22 +110,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ザラツキエノコログサ」",
+      "source": "Wikipedia (ja): ザラツキエノコログサ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%A9%E3%83%84%E3%82%AD%E3%82%A8%E3%83%8E%E3%82%B3%E3%83%AD%E3%82%B0%E3%82%B5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106363006,
       "text": "ザラツキエノコログサ Setaria verticillata (L.) はイネ科の植物の1つ。エノコログサによく似ているが、穂から突き出す刺毛が強くざらつくことで区別される。穂が互いに引っかかり合って絡まっていることがよくある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Setaria verticillata」",
+      "source": "Wikipedia (en): Setaria verticillata",
       "source_url": "https://en.wikipedia.org/wiki/Setaria_verticillata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1335317530,
       "text": "Setaria verticillata is a species of grass known by the common names hooked bristlegrass, rough bristle-grass and bristly foxtail. It is native to Europe, but it is known on most continents as an introduced species and often a noxious weed. It is a hardy bunchgrass which grows in many types of urban, cultivated, and disturbed habitat. It is a weed of many types of agricultural crops, growing in vineyards and fields. Herbicide-resistant strains have been noted."
+    },
+    "es": {
+      "source": "Wikipedia (es): Setaria verticillata",
+      "source_url": "https://es.wikipedia.org/wiki/Setaria_verticillata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171935390,
+      "text": "Setaria verticilliata es una especie fanerógama de pasto de la familia Poaceae, con raíz ramificada. Es originaria de Europa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Setaria verticillata",
+      "source_url": "https://fr.wikipedia.org/wiki/Setaria_verticillata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 220169697,
+      "text": "Setaria verticillata, la sétaire verticillée, est une espèce de plantes monocotylédones de la famille des Poaceae, originaire de l'Ancien Monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Setaria verticillata",
+      "source_url": "https://pt.wikipedia.org/wiki/Setaria_verticillata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71753986,
+      "text": "Setaria verticillata é uma espécie de planta com flor pertencente à família Poaceae."
     }
   },
   "edible": {
@@ -142,7 +169,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -377,7 +404,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/421857-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -385,7 +412,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/421857-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000899661.webp",
@@ -398,6 +425,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 283,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -12,35 +12,53 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "fa": [
+      "بلوط اموری"
+    ],
     "en": [
       "Emory oak"
     ],
     "es": [
       "Bellota"
-    ],
-    "fa": [
-      "بلوط اموری"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2715241",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2715241",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Quercus emoryi」",
+      "source": "Wikipedia (en): Quercus emoryi",
       "source_url": "https://en.wikipedia.org/wiki/Quercus_emoryi",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1362961362,
       "text": "Quercus emoryi, the Emory oak, is a species of oak common in Arizona, New Mexico and western Texas, United States, and northern Mexico. It typically grows in dry hills at moderate altitudes."
+    },
+    "es": {
+      "source": "Wikipedia (es): Quercus emoryi",
+      "source_url": "https://es.wikipedia.org/wiki/Quercus_emoryi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 161491474,
+      "text": "Quercus emoryi, la encina Emory es una especie arbórea perteneciente a la familia de las fagáceas. Está clasificada en la sección Lobatae; del roble rojo de América del Norte, Centroamérica y el norte de América del Sur que tienen los estilos largos, las bellotas maduran en 18 meses y tienen un sabor muy amargo. Las hojas suelen tener lóbulos con las puntas afiladas, con cerdas o con púas en el lóbulo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Quercus emoryi",
+      "source_url": "https://fr.wikipedia.org/wiki/Quercus_emoryi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 204763887,
+      "text": "Le chêne d'Emory (Quercus emoryi) est un arbre de la famille des Fagaceae à feuillage semi-persistant. Cette espèce de chêne est commune dans l'Arizona, le Nouveau-Mexique et dans l'Ouest du Texas aux États-Unis, et dans le Nord du Mexique. Il pousse généralement dans les milieux secs collinéens de moyennes altitudes."
     }
   },
   "edible": {
@@ -52,7 +70,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -66,7 +84,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306491-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -74,7 +92,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306491-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000290650.webp",
@@ -87,6 +105,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

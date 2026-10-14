@@ -30,50 +30,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "es": [
+      "Sisymbrium sophia"
+    ],
     "de": [
       "Gewöhnliche Besenrauke",
       "Sophienkraut"
-    ],
-    "en": [
-      "herb sophia",
-      "flixweed"
-    ],
-    "nl": [
-      "Sofiekruid"
-    ],
-    "cs": [
-      "úhorník mnohodílný"
-    ],
-    "fr": [
-      "descurainie sagesse, sagesse-des-chirurgiens",
-      "Sisymbrium sophia"
-    ],
-    "fi": [
-      "rohtolitutilli",
-      "litutilli"
-    ],
-    "zh": [
-      "麦蒿",
-      "大叶香荠菜",
-      "葶苈子",
-      "辣辣菜",
-      "鱼藤",
-      "播娘蒿"
-    ],
-    "sl": [
-      "žabji koprc"
     ],
     "pl": [
       "Stulicha psia"
     ],
     "ru": [
       "Декурения Софии"
-    ],
-    "es": [
-      "Sisymbrium sophia"
     ],
     "lt": [
       "Paprastasis poklius"
@@ -84,8 +55,26 @@
     "hsb": [
       "Smjerdźaca rukej"
     ],
+    "nl": [
+      "Sofiekruid"
+    ],
     "sv": [
       "Stillfrö"
+    ],
+    "fr": [
+      "Sisymbrium sophia",
+      "descurainie sagesse, sagesse-des-chirurgiens"
+    ],
+    "zh": [
+      "播娘蒿",
+      "麦蒿",
+      "大叶香荠菜",
+      "葶苈子",
+      "辣辣菜",
+      "鱼藤"
+    ],
+    "cs": [
+      "úhorník mnohodílný"
     ],
     "cy": [
       "Piblys"
@@ -104,6 +93,10 @@
     ],
     "sk": [
       "úhorník liečivý"
+    ],
+    "fi": [
+      "litutilli",
+      "rohtolitutilli"
     ],
     "be": [
       "Дэскурайнія Сафіі"
@@ -135,26 +128,60 @@
     "hu": [
       "Sebforrasztó zsombor"
     ],
+    "sl": [
+      "žabji koprc"
+    ],
     "glk": [
       "خاکشیر"
+    ],
+    "en": [
+      "herb sophia",
+      "flixweed"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164143",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164143",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Descurainia sophia」",
+      "source": "Wikipedia (en): Descurainia sophia",
       "source_url": "https://en.wikipedia.org/wiki/Descurainia_sophia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357095793,
       "text": "Descurainia sophia is a species of flowering plant in the cabbage family Brassicaceae. Common names include flixweed, herb-Sophia and tansy mustard. It is an annual plant that reproduces by seeds. It is a dominant weed in dark brown prairie and black prairie soils of southern Alberta. Its stem is erect, branched, and 4–30 in (10–76 cm) high. It was once given to patients with dysentery and called by ancient herbalists Sophia Chirurgorum, \"The Wisdom of Surgeons\". It is the type species of the genus Descurainia and of the rejected genus Sophia Adans."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sisymbrium sophia",
+      "source_url": "https://es.wikipedia.org/wiki/Sisymbrium_sophia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 165851189,
+      "text": "Sofía, hierba de la sabiduría, hierba de los cirujanos, hierba de Santa Sofía o ajenjo loco,[cita requerida] diversos nombres comunes de Descurainia sophia, es una planta herbácea perteneciente a la familia Brassicaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Descurainia sophia",
+      "source_url": "https://fr.wikipedia.org/wiki/Descurainia_sophia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222386456,
+      "text": "Descurainia sophia, l’herbe de sainte Sophie ou sagesse des chirurgiens, est une espèce de plantes à fleurs de la famille des Brassicaceae que l'on rencontre en Eurasie. Elle doit son nom à sainte Sophie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Descurainia sophia",
+      "source_url": "https://pt.wikipedia.org/wiki/Descurainia_sophia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 60069460,
+      "text": "Descurainia sophia é uma espécie de planta com flor pertencente à família Brassicaceae."
     }
   },
   "edible": {
@@ -167,7 +194,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -328,7 +355,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/78248-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -336,7 +363,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/78248-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000641996.webp",
@@ -349,6 +376,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 266,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

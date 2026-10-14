@@ -10,29 +10,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "グネモン"
     ],
-    "en": [
-      "buko",
-      "Spanish joint-fir"
-    ],
-    "zh": [
-      "灌状买麻藤",
-      "显轴买麻藤"
-    ],
-    "fil": [
-      "bago"
-    ],
     "id": [
-      "melinjo"
-    ],
-    "ms": [
-      "meminjau",
-      "Pokok Belinjau"
+      "Melinjo"
     ],
     "jv": [
       "Mlinjo"
@@ -58,6 +43,10 @@
     "fa": [
       "ملینجو"
     ],
+    "ms": [
+      "Pokok Belinjau",
+      "meminjau"
+    ],
     "su": [
       "Tangkil"
     ],
@@ -67,6 +56,10 @@
     "arz": [
       "جنيتوم جنيمون"
     ],
+    "zh": [
+      "灌状买麻藤",
+      "显轴买麻藤"
+    ],
     "bjn": [
       "Balinju"
     ],
@@ -75,13 +68,20 @@
     ],
     "ar": [
       "جنيتم جنيمون"
+    ],
+    "en": [
+      "buko",
+      "Spanish joint-fir"
+    ],
+    "fil": [
+      "bago"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q72368",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q72368",
   "search_names": {
@@ -98,22 +98,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「グネモン」",
+      "source": "Wikipedia (ja): グネモン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%8D%E3%83%A2%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109691649,
       "text": "グネモン はグネツム属の常緑低高木。主として東南アジアに分布する。インドネシアではメリンジョ（Melinjo）とも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Gnetum gnemon」",
+      "source": "Wikipedia (en): Gnetum gnemon",
       "source_url": "https://en.wikipedia.org/wiki/Gnetum_gnemon",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371891166,
       "text": "Gnetum gnemon is a gymnosperm species of Gnetum. Its native area spans from Mizoram and Assam in India down south through Malay Peninsula, Malay Archipelago and the Philippines in southeast Asia to the western Pacific islands. Common names include gnetum, joint fir, two leaf, melinjo/belinjo (Indonesian), bago/lumbay (Filipino), hanthu (Karbi) and tulip."
+    },
+    "es": {
+      "source": "Wikipedia (es): Gnetum gnemon",
+      "source_url": "https://es.wikipedia.org/wiki/Gnetum_gnemon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172760351,
+      "text": "Gnetum gnemon es una especie de gimnospermas, de la familia Gnetaceae. Es originario del sudeste de Asia, donde se lo denomina Melinjo o Belinjo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Gnetum gnemon",
+      "source_url": "https://fr.wikipedia.org/wiki/Gnetum_gnemon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 217870887,
+      "text": "Gnetum gnemon est une espèce de Gnetum originaire d'Asie du Sud-Est et de la partie occidentale de l'océan Pacifique. D'ouest en est, on la rencontre en Assam, en Asie du Sud-Est continentale et insulaire et aux îles Fidji. Ses noms locaux sont Voal Khlaut, peesae (thaï), bét, rau bép, rau danh ou gắm (vietnamien), melinjo ou belinjo (indonésien), bago (tagalog), muling (aceh), dae (kwara'ae), sukau (tonga). Ils sont parfois nommés en anglais padi oats ou paddy oats."
+    },
+    "id": {
+      "source": "Wikipedia (id): Melinjo",
+      "source_url": "https://id.wikipedia.org/wiki/Melinjo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28166667,
+      "text": "Melinjo atau belinjo adalah suatu spesies tanaman berbiji terbuka (Gymnospermae) berbentuk pohon yang berasal dari Asia tropik, melanesia, dan Pasifik Barat. Melinjo dikenal pula dengan nama maninjo, ku'lang, belinjo, mlinjo, tangkil atau bago, khalet, bidau, muliëng, boolon, dan poyade. Melinjo banyak ditanam di pekarangan sebagai peneduh atau pembatas pekarangan dan terutama dimanfaatkan buah dan daunnya, terutama untuk dibuat panganan keripik yang disebut emping."
     }
   },
   "edible": {
@@ -131,7 +158,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -163,7 +190,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/383520-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -171,7 +198,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/383520-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000795591.webp",
@@ -184,6 +211,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

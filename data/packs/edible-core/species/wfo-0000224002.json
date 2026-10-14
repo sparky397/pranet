@@ -12,42 +12,78 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "ar": [
+      "لاسية الشكل"
+    ],
+    "kg": [
+      "Kilodi"
+    ],
+    "zh": [
+      "巨刺芋"
+    ],
     "fr": [
       "Grand Arum Du Sénégal",
       "Taro Des Marais"
     ],
     "en": [
       "Swamp Arum"
-    ],
-    "zh": [
-      "巨刺芋"
-    ],
-    "ar": [
-      "لاسية الشكل"
-    ],
-    "kg": [
-      "Kilodi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5223560",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5223560",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Lasimorpha」",
+      "source": "Wikipedia (en): Lasimorpha",
       "source_url": "https://en.wikipedia.org/wiki/Lasimorpha",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354841747,
       "text": "Lasimorpha is a monotypic genus of flowering plants in the family Araceae. It has the single species Lasimorpha senegalensis. This species is native to western and central Africa, from Liberia east to Chad and south to Angola."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lasimorpha senegalensis",
+      "source_url": "https://es.wikipedia.org/wiki/Lasimorpha_senegalensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175073705,
+      "text": "Lasimorpha es un género monotípico de plantas con flores de la familia Araceae. Su única especie, Lasimorpha senegalensis Schott, es originaria de las regiones tropicales de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lasimorpha senegalensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Lasimorpha_senegalensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216078038,
+      "text": "Lasimorpha senegalensis est une espèce de plantes de la famille des Araceae et du genre Lasimorpha, présente en Afrique tropicale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lasimorpha",
+      "source_url": "https://pt.wikipedia.org/wiki/Lasimorpha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 48095465,
+      "text": "Lasimorpha é um género de plantas com flor pertencente à família Araceae. O género é monotípico, tendo como única espécie Lasimorpha senegalensis."
+    },
+    "id": {
+      "source": "Wikipedia (id): Lasimorpha",
+      "source_url": "https://id.wikipedia.org/wiki/Lasimorpha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29567107,
+      "text": "Lasimorpha adalah genus monotipe dari tumbuhan berbunga dalam famili Araceae. Genus ini hanya memiliki satu spesies, yaitu Lasimorpha senegalensis. Spesies ini merupakan tumbuhan asli di Afrika barat dan tengah, mulai dari Liberia di sebelah timur hingga Chad dan ke selatan hingga Angola."
     }
   },
   "edible": {
@@ -62,7 +98,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -90,7 +126,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/87423-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -98,7 +134,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/87423-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000224002.webp",
@@ -111,6 +147,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 324,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

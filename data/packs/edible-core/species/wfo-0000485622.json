@@ -17,15 +17,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Broad-leaved Yellowwood",
-      "Real Yellowwood",
-      "True Yellowwood",
-      "Upright Yellowwood"
-    ],
     "de": [
       "Breitblättrige Steineibe"
     ],
@@ -49,24 +43,48 @@
     ],
     "arz": [
       "بودوكاربوس لاتيفوليوس"
+    ],
+    "en": [
+      "Broad-leaved Yellowwood",
+      "Real Yellowwood",
+      "True Yellowwood",
+      "Upright Yellowwood"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164767",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164767",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Podocarpus latifolius」",
+      "source": "Wikipedia (en): Podocarpus latifolius",
       "source_url": "https://en.wikipedia.org/wiki/Podocarpus_latifolius",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376521268,
       "text": "Podocarpus latifolius is a large coniferous tree growing up to 35 m tall and 3 m in trunk diameter. It is the type species of the genus Podocarpus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Podocarpus latifolius",
+      "source_url": "https://es.wikipedia.org/wiki/Podocarpus_latifolius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172747680,
+      "text": "Podocarpus latifolius, Palo amarillo de hojas anchas o Palo amarillo real es un árbol perennifolio grande de hasta 35 m de alto y 3 m de diámetro en el tronco, en la familia Podocarpaceae de las coníferas; es la especie tipo del género Podocarpus."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Podocarpus latifolius",
+      "source_url": "https://fr.wikipedia.org/wiki/Podocarpus_latifolius",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 228058606,
+      "text": "Podocarpus latifolius est une espèce de plantes de la famille des Podocarpaceae. C'est un arbre conifère originaire d'Afrique : Soudan, Kenya, Tanzanie, Ouganda, Cameroun, République démocratique du Congo, Nigeria, Angola, Malawi, Mozambique, Zambie, Zimbabwe, Afrique du Sud et Swaziland."
     }
   },
   "edible": {
@@ -81,7 +99,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -96,7 +114,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828314-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -104,7 +122,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828314-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000485622.webp",
@@ -117,6 +135,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 297,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

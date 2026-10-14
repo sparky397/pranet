@@ -12,15 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "American Oil Palm"
-    ],
-    "zh": [
-      "美洲油棕"
-    ],
     "ru": [
       "Американская масличная пальма"
     ],
@@ -29,6 +23,9 @@
     ],
     "bg": [
       "американска маслена палма"
+    ],
+    "zh": [
+      "美洲油棕"
     ],
     "el": [
       "Ελαΐς η ελαιοφόρος"
@@ -47,13 +44,16 @@
     ],
     "ja": [
       "アメリカアブラヤシ"
+    ],
+    "en": [
+      "American Oil Palm"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4064203",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4064203",
   "search_names": {
@@ -64,13 +64,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Elaeis oleifera」",
+      "source": "Wikipedia (en): Elaeis oleifera",
       "source_url": "https://en.wikipedia.org/wiki/Elaeis_oleifera",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1307825165,
       "text": "Elaeis oleifera is a species of palm commonly called the American oil palm. It is native to South and Central America from Honduras to northern Brazil."
+    },
+    "es": {
+      "source": "Wikipedia (es): Elaeis oleifera",
+      "source_url": "https://es.wikipedia.org/wiki/Elaeis_oleifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174558249,
+      "text": "La palma americana de aceite, palma aceitera o nolí son los nombres como se conoce Elaeis oleifera, palma del género Elaeis. También se la conoce como: corozal, corozo, palma de sebo, coquito, palmique, yolí, corozo del Sinú, ñoli o corocito. Pertenece a la familia Arecaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Elaeis oleifera",
+      "source_url": "https://fr.wikipedia.org/wiki/Elaeis_oleifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236670044,
+      "text": "Elaeis oleifera est une espèce néotropicale de palmiers à feuilles pennées, appelée Palmier à huile américain en Guyane, Dendé do Pará au Brésil et palma americana de aceite, palma aceitera, nolí, Corozal, Corozo, Palma de cebo, Coqueiro de dente, Coquito, Palmique, Yolí, Corozo del Sinú, Ñoli ou Corocito en espagnol."
     }
   },
   "edible": {
@@ -86,7 +104,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -105,7 +123,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/88982-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -113,7 +131,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/88982-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000947994.webp",
@@ -126,6 +144,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 295,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

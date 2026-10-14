@@ -10,22 +10,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Caesarweed",
-      "Congo jute"
-    ],
-    "pt": [
-      "Aguaxima"
-    ],
-    "zh": [
-      "野棉花",
-      "地桃花",
-      "地桃花（肖梵天花）",
-      "肖梵天花",
-      "地挑花"
+    "id": [
+      "Pulutan"
     ],
     "de": [
       "Kongojute"
@@ -33,11 +22,15 @@
     "ml": [
       "ഊർപണം"
     ],
-    "id": [
-      "Pulutan"
-    ],
     "th": [
       "ขี้ครอก"
+    ],
+    "zh": [
+      "地桃花",
+      "野棉花",
+      "地桃花（肖梵天花）",
+      "肖梵天花",
+      "地挑花"
     ],
     "bn": [
       "বনওকড়া"
@@ -71,13 +64,20 @@
     ],
     "ace": [
       "Beurunyong"
+    ],
+    "en": [
+      "Caesarweed",
+      "Congo jute"
+    ],
+    "pt": [
+      "Aguaxima"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1496720",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1496720",
   "search_names": {
@@ -87,13 +87,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Urena lobata」",
+      "source": "Wikipedia (en): Urena lobata",
       "source_url": "https://en.wikipedia.org/wiki/Urena_lobata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1352083684,
       "text": "Urena lobata, commonly known as Caesarweed or Congo jute, is a tender perennial, variable, erect, ascendant shrub or subshrub measuring up to 0.5 meters (1.6 ft) to 2.5 meters (8.2 ft) tall. The stems are covered with minute, star-like hairs and often tinged purple. Considered a weed, it is considered to be native throughout much of the tropical and subtropical world, including South and Central America, Africa, Asia and Pacific Islands."
+    },
+    "es": {
+      "source": "Wikipedia (es): Urena lobata",
+      "source_url": "https://es.wikipedia.org/wiki/Urena_lobata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580827,
+      "text": "Urena lobata es una especie de planta anual, variable, erecta de la familia de las malváceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Urena lobata",
+      "source_url": "https://fr.wikipedia.org/wiki/Urena_lobata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208172508,
+      "text": "Urena lobata est une plante de la famille de Malvaceae et appartenant au genre Urena. C'est une Malvacée invasive des États-Unis."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pulutan",
+      "source_url": "https://id.wikipedia.org/wiki/Pulutan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29870588,
+      "text": "Pulutan adalah tumbuhan yang termasuk pada familia Malvaceae/kapas-kapasan, artinya tumbuhan ini berkerabat dengan gandapura, kapas, bunga sepatu, waru, sidaguri, dan cemplak -suatu jenis rumput yang sangat bau-."
     }
   },
   "edible": {
@@ -111,7 +138,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -249,7 +276,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/564786-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -257,7 +284,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/564786-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000417231.webp",
@@ -270,6 +297,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 280,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

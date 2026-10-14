@@ -30,68 +30,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "シナノグルミ"
     ],
-    "de": [
-      "Echte Walnuss",
-      "Walnussbaum"
-    ],
-    "en": [
-      "Persian Walnut",
-      "Common Walnut",
-      "walnut"
-    ],
-    "zh": [
-      "核桃",
-      "胡桃",
-      "分心木",
-      "核桃青龙皮",
-      "核桃叶",
-      "核桃仁",
-      "油胡桃",
-      "胡桃油",
-      "胡桃树皮",
-      "胡桃仁",
-      "胡桃花",
-      "胡桃青皮",
-      "青胡桃果",
-      "胡桃壳",
-      "胡桃枝",
-      "胡桃叶",
-      "胡桃根",
-      "青龙衣",
-      "普通胡桃"
-    ],
-    "nl": [
-      "Okkernoot",
-      "walnoot"
-    ],
-    "cs": [
-      "ořešák královský"
-    ],
     "fr": [
+      "Noyer commun",
+      "noyer commun",
       "noyer commun, noyer royal",
-      "Calottier",
-      "noyer commun"
+      "Calottier"
     ],
-    "ast": [
-      "nozal",
-      "nocéu",
-      "conchal"
+    "pt": [
+      "Nogueira-comum",
+      "nogueira-comum"
     ],
-    "sl": [
-      "navadni oreh"
-    ],
-    "ta": [
-      "அக்ரோட்டு",
-      "அக்ரூட்"
-    ],
-    "mis": [
-      "Inklìshi' tùkwimënshi"
+    "id": [
+      "Kamiling Persia"
     ],
     "lb": [
       "Zamen Nëssert"
@@ -101,6 +57,10 @@
     ],
     "bs": [
       "Orah"
+    ],
+    "ta": [
+      "அக்ரூட்",
+      "அக்ரோட்டு"
     ],
     "ceb": [
       "Nogal"
@@ -183,6 +143,9 @@
     "th": [
       "วอลนัต"
     ],
+    "sl": [
+      "navadni oreh"
+    ],
     "os": [
       "Æнгуз"
     ],
@@ -207,8 +170,15 @@
     "ca": [
       "noguer comú"
     ],
+    "cs": [
+      "ořešák královský"
+    ],
     "da": [
       "Almindelig Valnød"
+    ],
+    "de": [
+      "Echte Walnuss",
+      "Walnussbaum"
     ],
     "dsb": [
       "Pšawa wórješyna"
@@ -246,11 +216,12 @@
     "lv": [
       "īstais riekstkoks"
     ],
+    "nl": [
+      "walnoot",
+      "Okkernoot"
+    ],
     "pl": [
       "orzech włoski"
-    ],
-    "pt": [
-      "nogueira-comum"
     ],
     "ru": [
       "Орех грецкий"
@@ -266,6 +237,27 @@
     ],
     "uk": [
       "Горіх волоський"
+    ],
+    "zh": [
+      "普通胡桃",
+      "核桃",
+      "胡桃",
+      "分心木",
+      "核桃青龙皮",
+      "核桃叶",
+      "核桃仁",
+      "油胡桃",
+      "胡桃油",
+      "胡桃树皮",
+      "胡桃仁",
+      "胡桃花",
+      "胡桃青皮",
+      "青胡桃果",
+      "胡桃壳",
+      "胡桃枝",
+      "胡桃叶",
+      "胡桃根",
+      "青龙衣"
     ],
     "nb": [
       "valnøtt"
@@ -359,13 +351,26 @@
     ],
     "my": [
       "သစ်ကြားပင်"
+    ],
+    "en": [
+      "Persian Walnut",
+      "Common Walnut",
+      "walnut"
+    ],
+    "ast": [
+      "nozal",
+      "nocéu",
+      "conchal"
+    ],
+    "mis": [
+      "Inklìshi' tùkwimënshi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q46871",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q46871",
   "search_names": {
@@ -379,45 +384,92 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シナノグルミ」",
+      "source": "Wikipedia (ja): シナノグルミ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8A%E3%83%8E%E3%82%B0%E3%83%AB%E3%83%9F",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106519713,
       "text": "シナノグルミ（信濃胡桃）は、クルミ科クルミ属のJuglans regiaの1変種。アメリカから輸入されたペルシャグルミとテウチグルミが自然交雑してできたとされている。なお、栽培特性の優れた株の実生選抜により残ったものであるが、現在では、品種として扱われる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Juglans regia」",
+      "source": "Wikipedia (en): Juglans regia",
       "source_url": "https://en.wikipedia.org/wiki/Juglans_regia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378711150,
       "text": "Juglans regia, known by various common names including the common walnut, English walnut, or Persian walnut amongst other names, is a species of walnut. It is native to Eurasia in at least southwest and central Asia and southeast Europe, but its exact natural area is obscure due to its long history of cultivation."
+    },
+    "es": {
+      "source": "Wikipedia (es): Juglans regia",
+      "source_url": "https://es.wikipedia.org/wiki/Juglans_regia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175298141,
+      "text": "El nogal común, nogal europeo o nogal español, y, en México, nuez de Castilla, es un árbol monoico y caducifolio de la familia de las Juglandaceae en el orden de las Fagales. Es la especie del género más difundida en Europa, y se extiende por todo el suroeste y centro de Asia, hasta el Himalaya y sudoeste de China."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Noyer commun",
+      "source_url": "https://fr.wikipedia.org/wiki/Noyer_commun",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240146590,
+      "text": "Le noyer commun ou noyer est une espèce de plantes à fleurs de la famille des Juglandaceae. C'est un arbre assez commun, originaire d'Eurasie, cultivé pour son bois recherché en ébénisterie et ses fruits, les noix, riches en huile."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Nogueira-comum",
+      "source_url": "https://pt.wikipedia.org/wiki/Nogueira-comum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67679166,
+      "text": "A nogueira-comum, cujo fruto se denomina noz inglesa, também chamada de noz persa, mas vulgarmente conhecido apenas por noz, é uma árvore que pode medir até 25 m, da família Juglandaceae, nativa da Europa e da Ásia, cuja madeira é de ótima qualidade. Suas folhas contêm um óleo aromático, além de possuir flores em amentos e frutos drupáceos, conhecidos como nozes, que são muito resistentes, com mesocarpo de sabor adstringente, endocarpo lenhoso, bivalve e dividido em quatro lojas com semente comestível, podendo ser ingeridas frescas ou secas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kamiling Persia",
+      "source_url": "https://id.wikipedia.org/wiki/Kamiling_Persia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28250932,
+      "text": "Juglans regia atau kamiling Persia adalah spesies pohon kamiling Dunia Lama yang berasal dari wilayah yang membentang dari Balkan ke arah timur hingga Himalaya dan barat daya Tiongkok. Tanaman ini banyak dibudidayakan di Eropa dan Kaukasus."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Juglans regia」の節「Cultivation」",
+        "source": "Wikipedia (en): Juglans regia § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Juglans_regia#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378711150,
         "heading": "Cultivation",
         "text": "Walnut trees grow best in rich, deep soil with full sun and long summers, such as the California central valley. Juglans hindsii and J. hindsii × J. regia are often used as grafting stock for J. regia. Mature trees may reach 15 m (50 ft) in height and width, and live more than 200 years, developing massive trunks more than 2.4 m (8 ft) thick.\n\n■ Cultivars\n\nWalnut cultivars include:\n\n■ Pests\nParticular cultivars of J. regia may be more infested by R. juglandis than others because of varying walnut husk softness or thickness. 'Eureka', 'Klondike', 'Payne', 'Franquette' and 'Ehrhardt' cultivars are among the most susceptible to infestation.\n\n■ Production\nIn 2022, world production of shelled walnuts was 3.9 million tonnes, led by China with 36% of the total harvested, with the United States, Iran, and Turkey as secondary producers (table).",
         "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Noyer commun § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Noyer_commun#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240146590,
+        "heading": "Culture",
+        "text": "Le noyer est une espèce thermophile, préférant les climats doux voire chauds durant la saison de végétation, avec un air sec de type continental. Il est cultivé pour sa ressource oléagineuse (noix récoltées en octobre-novembre) et son bois dur, en particulier pour l'ameublement.\nLe noyer commun peut pousser jusqu'à 800-1 000 m d'altitude en zone tempérée, mais il lui faut un emplacement à l'abri des vents forts. Il est rustique jusqu'à −30 °C, à condition que le froid s’installe progressivement. Il tolère les sols légèrement acides à calcaires (pH entre 6 et 7,5) alors que le noyer noir nécessite des terrains frais et légèrement acides. C’est un arbre de pleine lumière supportant mal les conditions forestières. Après une certaine tolérance à l’ombrage dans son jeune âge, il développe une forte exigence en lumière à l’âge adulte : le houppier doit être dégagé.\nIl donne de bons résultats sur les sols argilo-calcaires, sous réserve qu’ils soient suffisamment profonds et bien alimentés en eau.\nLe noyer est un arbre facile d'entretien, mais il a besoin d'un sol riche. Il faut surtout veiller à ce qu'il ait assez d'eau au mois de juin, car s'il en manque, les noix seront petites. C'est aussi le moment où se prépare l'induction florale (les futures fleurs de l'année suivante). Une sécheresse à ce moment précis compromet donc aussi la récolte de l'année suivante. Très sensible à l’asphyxie racinaire, il ne supporte pas l’engorgement aqueux, même temporaire, sur au moins 80 cm.\nIl existe des variétés protandre (Franquette, Parisienne) et d'autres protogynes (Ronde de Montignac, Meylanaise).",
+        "truncated": true
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Juglans regia」の節「Toxicity」",
+        "source": "Wikipedia (en): Juglans regia § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Juglans_regia#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378711150,
         "heading": "Toxicity",
         "text": "■ Allergy\nWalnuts and other tree nuts are food allergen sources having potential to cause life-threatening, IgE-mediated allergic reactions in some individuals.",
@@ -437,7 +489,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -511,7 +563,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/442427-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -519,7 +571,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/442427-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000355051.webp",
@@ -532,6 +584,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -19,14 +19,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オリザ・ルフィポゴン"
     ],
-    "en": [
-      "brownbeard rice"
+    "nan": [
+      "Kui-á-tiū"
+    ],
+    "th": [
+      "หญ้าข้าวผี"
     ],
     "zh": [
       "野生稻",
@@ -34,12 +37,6 @@
       "糯米",
       "稻草",
       "糯稻根"
-    ],
-    "nan": [
-      "Kui-á-tiū"
-    ],
-    "th": [
-      "หญ้าข้าวผี"
     ],
     "ar": [
       "أرز اللحية البنية"
@@ -49,13 +46,16 @@
     ],
     "shn": [
       "တူၼ်ႈၶဝ်ႈဢူဝ်ႇရီႇၸႃႇ"
+    ],
+    "en": [
+      "brownbeard rice"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2217322",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2217322",
   "search_names": {
@@ -66,22 +66,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オリザ・ルフィポゴン」",
+      "source": "Wikipedia (ja): オリザ・ルフィポゴン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%82%B6%E3%83%BB%E3%83%AB%E3%83%95%E3%82%A3%E3%83%9D%E3%82%B4%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110444309,
       "text": "オリザ・ルフィポゴン は、イネ科イネ属の植物である。和名はノイネあるいはヒゲナガノイネ、英語では「weedy red rice」「brownbeard rice」などと呼ばれ、中国語では「普通野生稲」と呼ばれている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Oryza rufipogon」",
+      "source": "Wikipedia (en): Oryza rufipogon",
       "source_url": "https://en.wikipedia.org/wiki/Oryza_rufipogon",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360715348,
       "text": "Oryza rufipogon is a species of flowering plant in the family Poaceae. It is known as brownbeard rice, wild rice, and red rice. In 1965, Oryza nivara was separated off from O. rufipogon. The separation has been questioned, and now many sources consider O. nivara to be a synonym of O. rufipogon. O. nivara may be treated as the annual form of O. rufipogon."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Oryza rufipogon",
+      "source_url": "https://fr.wikipedia.org/wiki/Oryza_rufipogon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231466194,
+      "text": "Oryza rufipogon, le riz rouge sauvage, est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Oryzoideae, originaire d'Asie. \nCe sont des plantes herbacées vivaces aux rhizomes allongés et au tiges (chaumes) géniculées ascendantes ou décombantes, pouvant atteindre 1,5 à 4 mètres de haut.\nCette espèce, proche parente du riz cultivé, a été introduite aux États-Unis où elle est considérée comme une mauvaise herbe envahissante."
     }
   },
   "edible": {
@@ -96,7 +105,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -147,7 +156,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/410115-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or annual",
@@ -155,7 +164,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/410115-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000882437.webp",
@@ -168,6 +177,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -11,15 +11,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "marang"
-    ],
-    "zh": [
-      "香波羅",
-      "香波罗"
+    "id": [
+      "Terap"
     ],
     "udm": [
       "Маранг"
@@ -30,14 +26,14 @@
     "ru": [
       "Маранг"
     ],
+    "en": [
+      "Marang"
+    ],
     "lbe": [
       "Маранг"
     ],
     "mdf": [
       "Маранг"
-    ],
-    "id": [
-      "Terap"
     ],
     "mrj": [
       "Маранг"
@@ -59,6 +55,10 @@
     ],
     "nl": [
       "Marang"
+    ],
+    "zh": [
+      "香波罗",
+      "香波羅"
     ],
     "th": [
       "มารัง"
@@ -83,7 +83,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1915950",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1915950",
   "search_names": {
@@ -98,26 +98,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Artocarpus odoratissimus」",
+      "source": "Wikipedia (en): Artocarpus odoratissimus",
       "source_url": "https://en.wikipedia.org/wiki/Artocarpus_odoratissimus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374432281,
       "text": "Artocarpus odoratissimus, commonly known as marang, tarap, terap or less common, johey oak, is a species of flowering plant in the Moraceae family. It is native to Borneo from where has been introduced to the Philippines. It is closely related to the jackfruit, cempedak, and breadfruit trees which all belong to the same genus, Artocarpus."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Artocarpus odoratissimus",
+      "source_url": "https://fr.wikipedia.org/wiki/Artocarpus_odoratissimus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225264811,
+      "text": "Artocarpus odoratissimus est une espèce de plantes à fleurs de la famille des Moraceae. C'est un arbre monoïque originaire des îles de la Sonde, proche du jacquier, du cempedak, et de l'arbre à pain, qui appartiennent au même genre, Artocarpus."
+    },
+    "id": {
+      "source": "Wikipedia (id): Terap",
+      "source_url": "https://id.wikipedia.org/wiki/Terap",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28594005,
+      "text": "Terap atau tarap adalah sejenis pohon buah dari marga pohon nangka (Artocarpus). Buahnya serupa nangka yang kecil, dengan bau wangi yang kuat, seperti dicerminkan oleh nama ilmiahnya: Artocarpus odoratissimus. Buah ini juga dikenal sebagai marang (Mindanao), timadang (Sabah), lumuk (Sarawak), atau Johey oak (Ingg.)."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Artocarpus odoratissimus」の節「Cultivation」",
+        "source": "Wikipedia (en): Artocarpus odoratissimus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Artocarpus_odoratissimus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374432281,
         "heading": "Cultivation",
         "text": "Artocarpus odoratissimus is cultivated for its fruit in Brunei, Indonesia, Malaysia, the Philippines, southern Thailand and India (Tripura). The species is largely grown for local consumption; the short shelf-life of the fruit limits its wider use.\nThe tree is not cold tolerant (as is the breadfruit). It can grow between latitude 15° north and south, and in coastal regions where temperatures never stay under 7 °C (45 °F).",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Artocarpus odoratissimus § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Artocarpus_odoratissimus#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 225264811,
+        "heading": "Culture",
+        "text": "Artocarpus odoratissimus est cultivé pour ses fruits à Brunei, en Indonésie, en Malaisie, aux Philippines, dans le sud de la Thaïlande et en Inde (état du Tripura). Il est principalement cultivé pour la consommation locale : la fragilité des fruits limite les possibilités d'exportation.\nL'arbre est peu tolérant au froid (comme le fruit à pain). Il peut pousser entre les latitudes 15° nord et sud, et dans les zones côtières des régions où les températures ne descendent jamais en dessous de 7 °C.",
         "truncated": false
       }
     }
@@ -133,7 +162,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -145,7 +174,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/850422-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -153,7 +182,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/850422-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000550556.webp",
@@ -166,6 +195,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 282,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -14,121 +14,98 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Kleiner Odermennig",
-      "Gemeiner Odermennig",
-      "Odermennig"
-    ],
-    "en": [
-      "churchsteeples",
-      "Agrimony",
-      "Medicinal Agrimony"
-    ],
-    "ar": [
-      "غافث شائع"
-    ],
-    "az": [
-      "Aptek gücotu"
-    ],
-    "bg": [
-      "Камшик",
-      "Лечебен камшик"
-    ],
-    "ca": [
-      "Herba de la sang"
-    ],
-    "cs": [
-      "řepík lékařský"
-    ],
-    "da": [
-      "Almindelig Agermåne"
-    ],
-    "el": [
-      "Αγριμόνια"
-    ],
-    "es": [
-      "Hierba de San Guillermo"
-    ],
-    "et": [
-      "Harilik maarjalepp"
-    ],
-    "eu": [
-      "Usu-belar"
-    ],
-    "fa": [
-      "غافث"
-    ],
     "fr": [
       "Aigremoine eupatoire"
     ],
-    "hr": [
-      "Turica"
-    ],
-    "hsb": [
-      "Mały žiłan"
-    ],
-    "hu": [
-      "Közönséges párlófű"
-    ],
-    "it": [
-      "Agrimonio"
-    ],
-    "lt": [
-      "Vaistinė dirvuolė"
+    "pl": [
+      "rzepik pospolity"
     ],
     "lv": [
       "Ārstniecības ancītis"
     ],
-    "nl": [
-      "Gewone agrimonie"
+    "et": [
+      "harilik maarjalepp"
     ],
-    "pl": [
-      "Rzepik pospolity"
-    ],
-    "pt": [
-      "Agrimônia comum"
-    ],
-    "ro": [
-      "Turița mare"
-    ],
-    "ru": [
-      "Репешок обыкновенный"
+    "de": [
+      "Gemeiner Odermennig",
+      "Kleiner Odermennig",
+      "Odermennig"
     ],
     "sh": [
       "Petrovac"
     ],
-    "sk": [
-      "Repík lekársky"
+    "hsb": [
+      "Mały žiłan"
     ],
-    "sl": [
-      "navadni repik"
+    "nl": [
+      "Gewone agrimonie"
     ],
-    "sr": [
-      "Петровац"
+    "ar": [
+      "غافث شائع"
     ],
     "sv": [
       "Småborre"
     ],
-    "tr": [
-      "Adi kızılyaprak"
+    "sk": [
+      "repík lekársky"
     ],
-    "uk": [
-      "Парило звичайне"
+    "ru": [
+      "Репешок обыкновенный"
+    ],
+    "ro": [
+      "Turița mare"
+    ],
+    "ca": [
+      "Herba de la sang"
     ],
     "fi": [
       "maarianverijuuri"
     ],
-    "zh": [
-      "广东万年青",
-      "欧龙芽草",
-      "仙鹤草",
-      "欧洲龙芽草"
+    "uk": [
+      "парило звичайне"
+    ],
+    "cs": [
+      "řepík lékařský"
+    ],
+    "bg": [
+      "Лечебен камшик",
+      "Камшик"
+    ],
+    "az": [
+      "Aptek gücotu"
+    ],
+    "hr": [
+      "Turica"
+    ],
+    "lt": [
+      "Vaistinė dirvuolė"
+    ],
+    "da": [
+      "Almindelig Agermåne"
+    ],
+    "sr": [
+      "петровац"
+    ],
+    "hu": [
+      "közönséges párlófű"
+    ],
+    "fa": [
+      "غافث"
+    ],
+    "sl": [
+      "navadni repik"
+    ],
+    "el": [
+      "Αγριμόνια"
     ],
     "cy": [
       "llysiau'r dryw"
+    ],
+    "eu": [
+      "Usu-belar"
     ],
     "he": [
       "אבגר צהוב"
@@ -151,6 +128,12 @@
     "kw": [
       "Skawen an Wyrghes"
     ],
+    "zh": [
+      "欧洲龙芽草",
+      "广东万年青",
+      "欧龙芽草",
+      "仙鹤草"
+    ],
     "arz": [
       "غافث شائع"
     ],
@@ -159,13 +142,30 @@
     ],
     "grc": [
       "ἀργεμώνη ἑτέρα"
+    ],
+    "en": [
+      "churchsteeples",
+      "Agrimony",
+      "Medicinal Agrimony"
+    ],
+    "es": [
+      "Hierba de San Guillermo"
+    ],
+    "it": [
+      "Agrimonio"
+    ],
+    "pt": [
+      "Agrimônia comum"
+    ],
+    "tr": [
+      "Adi kızılyaprak"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q156865",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q156865",
   "search_names": {
@@ -175,13 +175,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Agrimonia eupatoria」",
+      "source": "Wikipedia (en): Agrimonia eupatoria",
       "source_url": "https://en.wikipedia.org/wiki/Agrimonia_eupatoria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376703378,
       "text": "Agrimonia eupatoria is a species of agrimony that is often referred to as common agrimony, church steeples or sticklewort."
+    },
+    "es": {
+      "source": "Wikipedia (es): Agrimonia eupatoria",
+      "source_url": "https://es.wikipedia.org/wiki/Agrimonia_eupatoria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172267269,
+      "text": "Agrimonia eupatoria L. es una planta que habita en terrenos arcillosos, en lugares soleados junto a cultivos, setos o pendientes y árboles como encinas o robles."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Aigremoine eupatoire",
+      "source_url": "https://fr.wikipedia.org/wiki/Aigremoine_eupatoire",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236031040,
+      "text": "L'Aigremoine eupatoire est une espèce de plantes à fleurs de la famille des Rosacées, de moins d'un mètre de hauteur, portant un long épi dressé de petites fleurs jaunes, d'origine eurasiatique, commune dans toute l'Europe et s’étendant jusqu’à l’Afghanistan et au nord-ouest de l’Afrique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Agrimonia eupatoria",
+      "source_url": "https://pt.wikipedia.org/wiki/Agrimonia_eupatoria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63035547,
+      "text": "A Agrimonia eupatoria, comummente conhecida como agrimónia, é uma planta herbácea, pertencente à família das Rosáceas e ao tipo fisionómico dos hemicriptófitos, dotada de caule vertical, flores amarelas e frutos ásperos, que tem sido utilizada pelo Homem, ao longo dos tempos, por causa das suas propriedades medicinais."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "pt": {
+        "source": "Wikipedia (pt): Agrimonia eupatoria § Toxicidade",
+        "source_url": "https://pt.wikipedia.org/wiki/Agrimonia_eupatoria#Toxicidade",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 63035547,
+        "heading": "Toxicidade",
+        "text": "A agrimónia tem uma toxicidade fotossensibilizante.\nEsta planta contém os seguintes compostos químicos: ácido salicilíco, ácido ursólico e quercetina.\nContém um óleo particular volátil, que pode ser obtido através de destilação, e compostos ásperos e amargos, que dão essa propriedade à planta. As folhas e o caule possuem contêm 5% de tanino, ácido salicílico e óleos essenciais.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -195,7 +237,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -279,7 +321,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316550-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -287,7 +329,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/316550-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001006654.webp",
@@ -300,6 +342,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 179,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

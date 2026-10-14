@@ -22,13 +22,16 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "id": [
+      "Patikan cina"
+    ],
     "zh": [
+      "千根草",
       "小飞扬草",
       "细叶地锦草",
-      "千根草",
       "小飞羊草"
     ],
     "th": [
@@ -43,9 +46,6 @@
     "szy": [
       "nipaluman-biyang"
     ],
-    "id": [
-      "Patikan cina"
-    ],
     "gor": [
       "Idu"
     ]
@@ -54,18 +54,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q10904925",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q10904925",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Euphorbia thymifolia」",
+      "source": "Wikipedia (en): Euphorbia thymifolia",
       "source_url": "https://en.wikipedia.org/wiki/Euphorbia_thymifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365705245,
       "text": "Euphorbia thymifolia, the red caustic-creeper, is a prostrate annual herb of the family Euphorbiaceae. Native to tropical and subtropical America, it grows in seasonally dry tropical biomes and produces milky sap. The plant has velvet-hairy red stems up to 25 cm (9.8 in) long, with small ovate leaves and minute cyathia flowers in the leaf axils. Widely used as a traditional medicine in Africa and Asia, it is also harvested as food and traded in local markets."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Euphorbia thymifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Euphorbia_thymifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 218057656,
+      "text": "Euphorbia thymifolia est une espèce de plantes herbacées allongées[pas clair] de la famille des Euphorbiaceae. Fréquemment utilisée en médecine traditionnelle en Afrique occidentale, elle porte les noms communs d'« euphorbe à feuilles de thym » ou de « petite rougette »."
+    },
+    "id": {
+      "source": "Wikipedia (id): Patikan cina",
+      "source_url": "https://id.wikipedia.org/wiki/Patikan_cina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29863694,
+      "text": "Patikan cina. Tanaman catikan cina kecil merayap, kadang-kadang setengah tegak, berambut, terdapat di mana-mana di antara rumput di halaman, sekeliling tegalan, pinggir jalan pada tempat-tempat yang agak basah sampai ketinggian 1.400 m dari permukaan laut. Batang dan daunnya agak kemerah-merahan, bila dipatahkan mengeluarkan getah. Daunnya bersirip genap, kecil-kecil, bulat telur, berhadapan, baunya wangi. Bunga berwarna merah muda. Tanaman ini berkhasiat mengobati ambeien, disentri, kurang darah, lemah jantung, luka, dan pencuci darah. Bagian yang digunakan dari tanaman ini adalah daun, getah dan seluruh bagian pohon.\nSenyawa kimia yang dikandung tanaman patikan cina ini diantaranya adalah myricil alkohol, taraxerol, tirucalol, kamzinol, hentri-acontane, dan pada bagian bunga dan daun terkandung zat cosmosin. Tanaman ini memiliki beberapa nama berbeda di berbagai daerah, seperti patikan cina (Indonesia), gelang pasir, krokot cina (Jawa); ki mules, nanangkaan gede, useup nana (Jawa); jalu-jalu tona (Maluku);dan xiao lei yang cao (Tiongkok)."
     }
   },
   "edible": {
@@ -79,7 +97,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -210,7 +228,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/102034-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or helophyte",
@@ -218,7 +236,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/102034-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000965105.webp",
@@ -231,6 +249,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 292,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

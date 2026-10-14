@@ -13,30 +13,28 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
+    "pt": [
       "Cupuaçu"
     ],
-    "en": [
-      "copoasu",
-      "cupuaçu-tree",
-      "cupuassu"
-    ],
-    "nl": [
-      "cupuazú"
-    ],
-    "ru": [
-      "Купуасу"
+    "id": [
+      "Cupuaçu"
     ],
     "koi": [
       "Купуасу"
     ],
-    "pt": [
-      "Cupuaçu"
+    "ru": [
+      "Купуасу"
+    ],
+    "nl": [
+      "Cupuazú"
     ],
     "ca": [
+      "Cupuaçu"
+    ],
+    "de": [
       "Cupuaçu"
     ],
     "lbe": [
@@ -95,13 +93,18 @@
     ],
     "cs": [
       "Kakaovník velkokvětý"
+    ],
+    "en": [
+      "copoasu",
+      "cupuaçu-tree",
+      "cupuassu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1144414",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1144414",
   "search_names": {
@@ -113,26 +116,84 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Theobroma grandiflorum」",
+      "source": "Wikipedia (en): Theobroma grandiflorum",
       "source_url": "https://en.wikipedia.org/wiki/Theobroma_grandiflorum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1342062871,
       "text": "Theobroma grandiflorum, commonly known as cupuaçu, also spelled cupuassu, cupuazú, cupu assu, or copoazu, is a tropical rainforest tree related to cacao. Native and common throughout the Amazon basin, it is naturally cultivated in the jungles of northern Brazil, with the largest production in Pará, Amazonas and Amapá, Colombia, Bolivia and Peru. The pulp of the cupuaçu fruit is consumed throughout Central and South America, especially in the northern states of Brazil, and is used to make ice creams, snack bars, and other products."
+    },
+    "es": {
+      "source": "Wikipedia (es): Theobroma grandiflorum",
+      "source_url": "https://es.wikipedia.org/wiki/Theobroma_grandiflorum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174451108,
+      "text": "Theobroma grandiflorum, de nombre común copoazú, copoasu, cupuazú, cupuassu, cupu assu o cacao blanco, es originario de toda la Amazonia oriental y centro de Sudamérica principalmente en Perú y Bolivia, en la región norte de Brasil, sur de Colombia y al sur de Venezuela, su hábitat natural es el bosque tropical húmedo en terrenos altos no inundables, pH entre 6,0 y 6,5 y una temperatura entre 22 y 27 °C. En Bolivia su utilización es industrial ya que de él se fabrican pulpa, chocolate blanco, manteca, licor y otros productos de exportación."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Theobroma grandiflorum",
+      "source_url": "https://fr.wikipedia.org/wiki/Theobroma_grandiflorum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240042875,
+      "text": "Theobroma grandiflorum (cupuassou) est une espèce de plantes dicotylédones de la famille des Malvaceae, originaire d'Amazonie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cupuaçu",
+      "source_url": "https://pt.wikipedia.org/wiki/Cupua%C3%A7u",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72994709,
+      "text": "Theobroma grandiflorum, comumente conhecido como cupuaçu, é uma árvore da floresta tropical relacionada ao cacau. Nativo e comum em toda a bacia amazônica, é cultivado naturalmente nas selvas do norte do Brasil, com maior produção no Pará, Amazonas e Amapá, Colômbia, e também na Bolívia e Peru. A polpa do fruto do cupuaçu é consumida em toda a América Central e América do Sul, principalmente nos estados do norte do Brasil, e é utilizada para fazer sorvetes, salgadinhos, e outros produtos. De sua semente é produzido o cupulate. A alfarroba é outra substituta do cacau na fabricação de chocolate."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cupuaçu",
+      "source_url": "https://id.wikipedia.org/wiki/Cupua%C3%A7u",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28105796,
+      "text": "Theobroma grandiflorum juga dikenal sebagai cupuaçu adalah pohon hutan hujan tropis yang terkait dengan kakao. Umumnya di seluruh lembah Amazon, itu dibudidayakan di hutan-hutan Kolombia, Bolivia dan Peru dan di utara Brasil, dengan produksi terbesar di Pará. Bubur buah cupuaçu dikonsumsi di seluruh Amerika Tengah dan Selatan, adalah buah negara Pará, dan digunakan untuk membuat es krim, snack bar, dan produk lainnya."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Theobroma grandiflorum」の節「Cultivation」",
+        "source": "Wikipedia (en): Theobroma grandiflorum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Theobroma_grandiflorum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1342062871,
         "heading": "Cultivation",
         "text": "Cupuaçu is most commonly propagated from seed, but grafting and rooted cuttings are also used.\nCupuaçu trees are often incorporated in agroforestry systems throughout the Amazon due to their high tolerance of infertile soils, which are predominant in the Amazon region.\nCupuaçu is generally harvested from the ground once they have naturally fallen from the tree. It can be difficult to determine peak ripeness because there is no noticeable external color change in the fruit. However studies have shown that in Western Colombian Amazon conditions, fruits generally reach full maturity within 117 days after fruit set. Brazilians either eat it raw or use it in making sweets.\nCommercial food products include pulp and powder.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Theobroma grandiflorum § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Theobroma_grandiflorum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174451108,
+        "heading": "Cultivo",
+        "text": "La planta del copoazú puede ser planta consorciada con plátano y papaya.​",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Cupuaçu § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Cupua%C3%A7u#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72994709,
+        "heading": "Cultivo",
+        "text": "O cupuaçu é mais comumente propagado a partir de sementes, mas também são usados enxertos e estacas enraizadas.\nAs árvores do cupuaçu são frequentemente incorporadas em sistemas agroflorestais em toda a Amazônia devido à sua alta tolerância a solos inférteis, que predominam na região amazônica.\nO cupuaçu geralmente é colhido do chão depois de cair naturalmente da árvore. Pode ser difícil determinar o pico de maturação porque não há mudança perceptível na cor externa da fruta. No entanto, estudos mostraram que, nas condições da Amazônia ocidental colombiana, os frutos geralmente atingem a maturidade completa em 117 dias após a frutificação.\nOs brasileiros comem cru ou usam para fazer doces. Os produtos alimentícios comerciais incluem a polpa e o pó.",
         "truncated": false
       }
     }
@@ -148,7 +209,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -165,7 +226,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/825580-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -173,7 +234,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/825580-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000458603.webp",
@@ -186,6 +247,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

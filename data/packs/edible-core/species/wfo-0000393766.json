@@ -20,7 +20,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -30,33 +30,13 @@
       "Pistachio",
       "pistachio"
     ],
-    "it": [
-      "Pistacho"
-    ],
-    "es": [
-      "pistacho"
-    ],
     "pt": [
+      "Pistache",
       "pistache"
     ],
-    "fr": [
-      "pistache",
-      "pistachier"
-    ],
-    "la": [
-      "pistachio"
-    ],
-    "zh": [
-      "开心果",
-      "无名木皮",
-      "阿月浑子"
-    ],
-    "ast": [
-      "pistachera"
-    ],
-    "sl": [
-      "prava pistacia",
-      "prava pistacija"
+    "id": [
+      "Badam hijau",
+      "Pistachio"
     ],
     "lb": [
       "Pistache"
@@ -64,14 +44,26 @@
     "dv": [
       "ޕިސްތާ ބަދަން"
     ],
+    "zh": [
+      "阿月浑子",
+      "开心果",
+      "无名木皮"
+    ],
     "pl": [
       "pistacja właściwa"
     ],
     "ko": [
       "피스타치오"
     ],
+    "fr": [
+      "pistachier",
+      "pistache"
+    ],
     "he": [
       "פיסטוק"
+    ],
+    "es": [
+      "pistacho"
     ],
     "ta": [
       "பசுங்கொட்டை"
@@ -142,6 +134,10 @@
     "fi": [
       "mantelipistaasi"
     ],
+    "sl": [
+      "prava pistacija",
+      "prava pistacia"
+    ],
     "bg": [
       "шамфъстък"
     ],
@@ -171,9 +167,6 @@
     ],
     "oc": [
       "Pistacha"
-    ],
-    "id": [
-      "Pistachio"
     ],
     "sh": [
       "Pistacija"
@@ -291,13 +284,22 @@
     ],
     "tg": [
       "Писта"
+    ],
+    "it": [
+      "Pistacho"
+    ],
+    "la": [
+      "pistachio"
+    ],
+    "ast": [
+      "pistachera"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q36071",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q36071",
   "search_names": {
@@ -311,45 +313,114 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ピスタチオ」",
+      "source": "Wikipedia (ja): ピスタチオ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B9%E3%82%BF%E3%83%81%E3%82%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111316125,
       "text": "ピスタチオ は、ウルシ科カイノキ属の落葉亜高木。およびそれから採ったナッツ。主にイランや米国で栽培される。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pistachio」",
+      "source": "Wikipedia (en): Pistachio",
       "source_url": "https://en.wikipedia.org/wiki/Pistachio",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371079541,
       "text": "The pistachio is a small to medium-sized tree of the cashew family. The tree produces seeds that are widely consumed as food. Pistachios can be used as an ingredient in desserts, chocolate, candy, ice cream, and as a paste or butter. As a tree nut, pistachios are considered a priority allergen that may induce allergic reactions in susceptible people."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pistacia vera",
+      "source_url": "https://es.wikipedia.org/wiki/Pistacia_vera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175015986,
+      "text": "La Pistacia vera es un árbol pequeño del género Pistacia, originario de las regiones montañosas de Siria, Turquía, Irán y Afganistán occidental, que produce un importante fruto seco para uso culinario llamado pistacho, pistache, alfóncigo, alfónsigo. A la Pistacia vera se la confunde a menudo con otras especies del género Pistacia. Pueden diferenciarse de la P. vera por su distribución geográfica originaria y por sus frutos, más pequeños, con un intenso sabor a trementina y un pericarpio (cáscara) duro."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pistacia vera",
+      "source_url": "https://fr.wikipedia.org/wiki/Pistacia_vera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233660846,
+      "text": "Le pistachier, pistachier commun, pistachier cultivé ou pistachier vrai, est un arbuste de 3 à 10 mètres, de la famille des Anacardiaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pistache",
+      "source_url": "https://pt.wikipedia.org/wiki/Pistache",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71821818,
+      "text": "O pistache, pistácio ou pistácia pertence à família Anacardiaceae e género Pistacia, denominações aplicadas à árvore e ao fruto seco verde. Outras designações são específicas da árvore — alfostigueiro, alfóstico, alfóstigo — e do fruto — pistácio, pistacho, alfóstica, um fruto oleaginoso."
+    },
+    "id": {
+      "source": "Wikipedia (id): Badam hijau",
+      "source_url": "https://id.wikipedia.org/wiki/Badam_hijau",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28657437,
+      "text": "Badam hijau atau pistasio adalah sejenis tanaman penghasil biji-bijian yang dikenal sebagai kacang ketawa atau fustuk. Tumbuh sebagai perdu hingga setinggi 10 m, badam hijau biasa ditanam di daerah kering di Iran, Turkmenistan dan Azerbaijan barat. Bijinya yang hijau cerah digunakan penghias makanan. Selain dimakan sebagai camilan, kacang ini juga sering digunakan sebagai isi pai, biskuit, es krim, atau kue-kue. Seperti halnya badam, badam hijau kaya akan protein dan potasium."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Pistachio」の節「Cultivation」",
+        "source": "Wikipedia (en): Pistachio § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Pistachio#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1371079541,
         "heading": "Cultivation",
         "text": "The pistachio tree  may live up to 300 years. The trees are planted in orchards, and take around 7 to 10 years to reach significant production. Production is alternate-bearing (biennial-bearing), meaning the harvest is heavier in alternate years. Peak production is reached around 20 years. Trees are usually pruned to size to make the harvest easier. One male tree produces enough pollen for 8 to 12 drupe-bearing females. In the United States and Greece, the fruit is often harvested with equipment to shake the drupes off the tree. After hulling and drying, pistachios are sorted according to open-mouth and closed-mouth shells, then roasted or processed by special machines to produce pistachio kernels.\n\n■ Diseases and environment\n\nPistachio trees are vulnerable to numerous diseases and infestation by insects such as Leptoglossus clypealis in North America. Among these is infection by the fungus Botryosphaeria, which causes panicle and shoot blight (symptoms include death of the flowers and young shoots), and can damage entire pistachio orchards. In 2004, the rapidly growing pistachio industry in California was threatened by panicle and shoot blight first discovered in 1984. In 2011, anthracnose fungus caused a sudden 50% loss in the Australian pistachio harvest. Several years of severe drought in Iran around 2008 to 2015 caused significant declines in production.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Pistacia vera § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Pistacia_vera#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175015986,
+        "heading": "Cultivo",
+        "text": "Los árboles se plantan en huertos y necesitan de siete a diez años para lograr una producción considerable. La producción es alterna o bienal, lo cual significa que la cosecha es más abundante cada dos años. La producción pico se alcanza aproximadamente a los 20 años. Por lo general, a los árboles se les poda hasta un tamaño que permita realizar la cosecha con mayor facilidad. Un árbol macho produce suficiente polen para que den frutos de ocho a doce árboles hembra. A menudo, la cosecha en los Estados Unidos se lleva a cabo mediante el uso de equipo para sacudir al árbol y hacer caer los frutos.\nLos Pistacia vera son vulnerables a una amplia variedad de enfermedades, entre las que destaca la infección por el hongo Verticillium dahliae, que puede llegar a matar a la planta, y por el Botryosphaeria. Este último provoca panoja y antracnosis (es decir, mata a las flores y a los brotes jóvenes), y puede dañar huertas enteras de Pistacia vera.[cita requerida]\nEn California, casi todos los árboles hembra pertenecen al cultivar “Kerman”, el cual suele asociarse con el cultivar macho \"Peter\". Una mata de un árbol maduro de estas variedades se injerta en un pie de dos años de edad. Como patrón se ha venido usando mayoritariamente otra especie del género Pistacia, llamada Pistacia atlantica, la cual está siendo sustituida en los últimos años por un híbrido de ésta con P integérrima, denominada UCB-1 debido a su inmunidad a la verticilosis.[cita requerida]\nLos envíos de pistachos empacados al por mayor tienden al autocalentamiento y a la combustión espontánea a causa de su elevado contenido de grasas y su bajo contenido de agua.​",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Pistacia vera § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Pistacia_vera#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 233660846,
+        "heading": "Culture",
+        "text": "Les pistachiers sont des arbres capables d'une grande résistance au froid (jusqu'à −25 °C) et à la sécheresse. Ils craignent cependant les gelées de printemps à −2 °C. Pour donner des fruits de qualité, ils ont besoin du froid hivernal et d'une grande chaleur estivale (une température supérieure à 30 °C durant 98 à 110 jours par an, selon Ayfer, 1963).\nIls s'adaptent à tous les sols pierreux, superficiels et secs grâce à leur système radiculaire puissant. On augmente les rendements en irriguant en période très chaude.\nPistacia vera L. est dioïque. Les arbres femelles ne peuvent produire des fruits qu'en présence d'arbres mâles. La synchronisation de la floraison des pistachiers mâles et des pistachiers femelles est essentielle à la production. En culture, la densité d'un mâle pour huit femelles est considérée comme adéquate.\nLes premières récoltes de pistaches n'apparaissent qu'au bout de 6 à 8 ans. Les fruits ont une maturité échelonnée et sont récoltés en deux fois à l'automne. Ils sont mis à sécher à l'ombre, puis placés dans un local de conservation bien sec.\nLes pistachiers peuvent vivre plus de 100 ans.\nLes arbres doivent être conduits en tige ou demi-tige sur sol désherbé, avec arrosage régulier. Il ne faut pas laisser le sol sécher.\nLa taille se fait en janvier, elle n'est jamais sévère, elle contribue à limiter l'alternance biennale.\nLa méthode de multiplication la plus utilisée est le bouturage. Les bouturages herbacés de tiges se font au mois de juillet. \n\nVariétés cultivées\nPlusieurs cultivars mâles tels que 'Nazaret 1', 'Christ', 'Peters' ont été sélectionnés selon la précocité de leur floraison qui doit correspondre à celle, plus étalée, des cultivars femelles.",
+        "truncated": true
+      },
+      "id": {
+        "source": "Wikipedia (id): Badam hijau § Budi daya",
+        "source_url": "https://id.wikipedia.org/wiki/Badam_hijau#Budi_daya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 28657437,
+        "heading": "Budi daya",
+        "text": "Pohon badam hijau bisa hidup hingga 300 tahun. Pohon-pohon tersebut ditanam di kebun buah-buahan  dan membutuhkan waktu sekitar 7 hingga 10 tahun untuk mencapai produksi yang signifikan. Produksinya bersifat bergantian atau dua tahunan, yang berarti panen lebih banyak pada tahun-tahun bergantian. Puncak produksi dicapai sekitar 20 tahun. Pohon biasanya dipangkas sesuai ukuran agar lebih mudah dipanen. Satu pohon jantan menghasilkan serbuk sari yang cukup untuk 8 hingga 12 pohon betina yang menghasilkan buah berbiji. Pemanenan di Amerika Serikat dan Yunani sering kali dilakukan dengan menggunakan peralatan untuk melepaskan buah berbiji dari pohonnya. Setelah dikupas dan dikeringkan, badam hijau disortir berdasarkan cangkang mulut terbuka dan mulut tertutup, kemudian dipanggang atau diproses dengan mesin khusus hingga menghasilkan biji badam hijau.",
         "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Pistachio」の節「Toxicity」",
+        "source": "Wikipedia (en): Pistachio § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Pistachio#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1371079541,
         "heading": "Toxicity",
         "text": "As with other tree seeds, aflatoxin is found in poorly harvested or processed pistachios. Aflatoxins are potent carcinogens produced by molds such as Aspergillus flavus and A. parasiticus. The mold contamination may occur from soil or poor storage and be spread by pests. High levels of mold growth typically appear as gray to black filament-like growth. Eating mold-infected and aflatoxin-contaminated pistachios is unsafe. Aflatoxin contamination is a frequent risk, particularly in warmer and humid environments. Food contaminated with aflatoxins has caused frequent outbreaks of acute illnesses in parts of the world. In some cases, such as in Kenya, this has led to several deaths.\nPistachio shells typically split naturally before harvest, with a hull covering the intact seeds. The hull protects the kernel from invasion by molds and insects, but this hull protection can be damaged in the orchard by poor orchard management practices, by birds, or after harvest, which makes exposure to contamination much easier. Some pistachios undergo a so-called \"early split\", wherein both the hull and the shell split. Damage or early splits can lead to aflatoxin contamination. In some cases, a harvest may be treated to keep contamination below strict food safety thresholds; in other cases, an entire batch of pistachios must be destroyed because of aflatoxin contamination.\nLike other members of the family Anacardiaceae (which includes poison ivy, sumac, mango, and cashew), pistachios contain urushiol, an irritant that can cause allergic skin reactions.\nLarge quantities of pistachios are self-heating in the presence of moisture due to their high oil content in addition to naturally occurring lipases, and can spontaneously combust if stored with a combustible fabric such as jute.",
@@ -368,7 +439,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -395,7 +466,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/70280-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -403,7 +474,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/70280-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000393766.webp",
@@ -416,6 +487,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

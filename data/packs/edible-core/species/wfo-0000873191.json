@@ -23,40 +23,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "melyswellt arnofiol"
-    ],
-    "en": [
-      "water mannagrass",
-      "Floating Sweet-grass",
-      "Flottin sweet grass",
-      "Sweet Grass",
-      "Water manna grass",
-      "flote-grass, floating sweet-grass"
-    ],
-    "hr": [
-      "Potočna pirevina"
-    ],
-    "fr": [
-      "GlycÃƒÂ©rie Flottante",
-      "GlycÃ©rie Flottante",
-      "Glycérie Flottante"
-    ],
-    "nl": [
-      "Mannagras"
-    ],
-    "cs": [
-      "zblochan vzplývavý"
-    ],
     "de": [
-      "Flutendes Süssgras",
-      "Flutender Schwaden"
-    ],
-    "fi": [
-      "ojasorsimo"
+      "Flutender Schwaden",
+      "Flutendes Süssgras"
     ],
     "pl": [
       "Manna jadalna"
@@ -73,17 +45,32 @@
     "sv": [
       "Mannagräs"
     ],
+    "nl": [
+      "Mannagras"
+    ],
+    "cy": [
+      "Melyswellt arnofiol"
+    ],
     "bg": [
       "речна росица"
     ],
+    "cs": [
+      "zblochan vzplývavý"
+    ],
     "ga": [
       "milseán uisce"
+    ],
+    "hr": [
+      "Potočna pirevina"
     ],
     "be": [
       "Маннік наплываючы"
     ],
     "et": [
       "harilik parthein"
+    ],
+    "fi": [
+      "ojasorsimo"
     ],
     "arz": [
       "فلويتان الجلسريا"
@@ -96,24 +83,64 @@
     ],
     "ko": [
       "뜬미꾸리광이"
+    ],
+    "en": [
+      "water mannagrass",
+      "Floating Sweet-grass",
+      "Flottin sweet grass",
+      "Sweet Grass",
+      "Water manna grass",
+      "flote-grass, floating sweet-grass"
+    ],
+    "fr": [
+      "GlycÃƒÂ©rie Flottante",
+      "GlycÃ©rie Flottante",
+      "Glycérie Flottante"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159078",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159078",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Glyceria fluitans」",
+      "source": "Wikipedia (en): Glyceria fluitans",
       "source_url": "https://en.wikipedia.org/wiki/Glyceria_fluitans",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373717724,
       "text": "Glyceria fluitans, known as floating sweet-grass and water mannagrass, is a species of perennial grass in the genus Glyceria native to Europe, the Mediterranean region and Western Asia and occurring in wet areas such as ditches, riverbanks and ponds."
+    },
+    "es": {
+      "source": "Wikipedia (es): Glyceria fluitans",
+      "source_url": "https://es.wikipedia.org/wiki/Glyceria_fluitans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174401934,
+      "text": "La esteba o hierba del maná es una planta acuática de la familia de las gramíneas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Glyceria fluitans",
+      "source_url": "https://fr.wikipedia.org/wiki/Glyceria_fluitans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 221387578,
+      "text": "Glyceria fluitans, la glycérie flottante, fétuque ou manne de Prusse, est une espèce de plantes monocotylédones de la famille des Poaceae (Graminées), sous-famille des Pooideae, originaire d'Europe, d'Afrique du Nord et d'Asie occidentale.\nCe sont des plantes herbacées vivaces, aux tiges (chaumes) dressées ou décombantes pouvant atteindre 100 cm de long, et aux inflorescences en panicules.\nCes plantes poussent dans les zones humides tels que des fossés, des rivières et les étangs. L'espèce est aussi connue sous le nom d'« herbe flottante ». Ses graines étaient autrefois récoltées et consommées comme céréales dans certaines régions d'Europe du Nord, réduites en gruau et cuites au lait. Elles entraient aussi dans la confection de la bière et du pain."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Glyceria fluitans",
+      "source_url": "https://pt.wikipedia.org/wiki/Glyceria_fluitans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 40538670,
+      "text": "Glyceria fluitans é uma espécie de planta com flor pertencente à família Poaceae."
     }
   },
   "edible": {
@@ -125,7 +152,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -203,7 +230,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/404100-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or helophyte",
@@ -211,7 +238,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/404100-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000873191.webp",
@@ -224,6 +251,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 265,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

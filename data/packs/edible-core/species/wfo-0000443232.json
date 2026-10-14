@@ -16,14 +16,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ボンゴシ"
-    ],
-    "en": [
-      "Azobe"
     ],
     "fr": [
       "Azobé"
@@ -51,13 +48,16 @@
     ],
     "cs": [
       "lofira křídlatá"
+    ],
+    "en": [
+      "Azobe"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q135192",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q135192",
   "search_names": {
@@ -67,22 +67,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ボンゴシ」",
+      "source": "Wikipedia (ja): ボンゴシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%B3%E3%82%B4%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109590763,
       "text": "ボンゴシ は、オクナ科の広葉樹。カメルーンを中心として、西アフリカの広範囲に分布する。別名はガーナおよびコートジボワールの現地語の一つンゼマ語に由来するアソベ（azobé）など。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lophira alata」",
+      "source": "Wikipedia (en): Lophira alata",
       "source_url": "https://en.wikipedia.org/wiki/Lophira_alata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1317798280,
       "text": "Lophira alata, commonly known as azobé, ekki or the red ironwood tree, is a species of plant in the family Ochnaceae. It is found in Cameroon, the Republic of the Congo, the Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sierra Leone, Sudan, and Uganda. Its natural habitat is subtropical or tropical moist lowland forests. It is threatened by habitat loss."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lophira alata",
+      "source_url": "https://es.wikipedia.org/wiki/Lophira_alata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174345175,
+      "text": "Lophira alata o metel es una especie de arbusto perteneciente a la familia Ochnaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Azobé",
+      "source_url": "https://fr.wikipedia.org/wiki/Azob%C3%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233374037,
+      "text": "L'azobé est une espèce de plantes à fleurs de la famille des Ochnaceae. C'est un arbre croissant dans les forêts équatoriales d'Afrique et exploité pour son bois imputrescible."
     }
   },
   "edible": {
@@ -99,7 +117,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -126,7 +144,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/321039-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -134,7 +152,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/321039-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000443232.webp",
@@ -147,6 +165,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

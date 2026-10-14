@@ -17,41 +17,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ホウライショウ",
       "ホウライショウ、モンステラ"
     ],
-    "en": [
-      "Swiss Cheese plant",
-      "tarovine"
-    ],
-    "de": [
-      "Köstliches Fensterblatt"
-    ],
-    "es": [
-      "Cerimán"
-    ],
-    "fi": [
-      "Jättipeikonlehti"
-    ],
     "fr": [
       "Faux philodendron"
     ],
-    "nl": [
-      "Gatenplant"
-    ],
-    "th": [
-      "พลูฉีก"
-    ],
-    "zh": [
-      "龜背芋",
-      "龟背竹"
-    ],
     "pt": [
       "Costela-de-adão"
+    ],
+    "id": [
+      "Ceriman"
     ],
     "eo": [
       "Serimao"
@@ -62,11 +42,17 @@
     "ru": [
       "Монстера деликатесная"
     ],
+    "fi": [
+      "jättipeikonlehti"
+    ],
     "hu": [
       "könnyezőpálma"
     ],
     "to": [
       "Monesitela"
+    ],
+    "de": [
+      "Köstliches Fensterblatt"
     ],
     "lt": [
       "Nuostabioji monstera"
@@ -74,11 +60,18 @@
     "hsb": [
       "Prawa monstera"
     ],
+    "nl": [
+      "gatenplant"
+    ],
     "ar": [
       "قشطة دندروم"
     ],
     "sr": [
       "Монстера"
+    ],
+    "zh": [
+      "龟背竹",
+      "龜背芋"
     ],
     "af": [
       "Geraamteplant"
@@ -116,18 +109,25 @@
     "et": [
       "Meeldiv monstera"
     ],
-    "id": [
-      "Ceriman"
-    ],
     "lv": [
       "Garšīgā monstera"
+    ],
+    "en": [
+      "Swiss Cheese plant",
+      "tarovine"
+    ],
+    "es": [
+      "Cerimán"
+    ],
+    "th": [
+      "พลูฉีก"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161077",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161077",
   "search_names": {
@@ -141,45 +141,103 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ホウライショウ」",
+      "source": "Wikipedia (ja): ホウライショウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%A6%E3%83%A9%E3%82%A4%E3%82%B7%E3%83%A7%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108039212,
       "text": "ホウライショウ（蓬莱蕉）、学名 Monstera deliciosa（モンステラ・デリシオサ）は、サトイモ科に属する植物。大きな厚い葉の左右にいくつもの穴が空き、時には裂ける。観賞用に栽培され、属名カナ読みでモンステラと言えば、普通は本種のことを指す。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Monstera deliciosa」",
+      "source": "Wikipedia (en): Monstera deliciosa",
       "source_url": "https://en.wikipedia.org/wiki/Monstera_deliciosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374208594,
       "text": "Monstera deliciosa, the Swiss cheese plant or split-leaf philodendron, is a species of flowering plant. The common name \"Swiss cheese plant\" is also used for the related species from the same genus, Monstera adansonii. The common name \"split-leaf philodendron\" is also used for the species Philodendron bipinnatifidum."
+    },
+    "es": {
+      "source": "Wikipedia (es): Monstera deliciosa",
+      "source_url": "https://es.wikipedia.org/wiki/Monstera_deliciosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175623798,
+      "text": "Monstera deliciosa, llamada comúnmente cerimán o costilla de Adán, es una especie de planta trepadora de la familia Araceae, nativa de las selvas tropicales del sur de México y de Guatemala, e introducida en otros países de América Central y en otras regiones del mundo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Faux philodendron",
+      "source_url": "https://fr.wikipedia.org/wiki/Faux_philodendron",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238178969,
+      "text": "Le faux philodendron, ou plante gruyère, est une plante vivace appartenant au genre Monstera qui dépend de la famille des Araceae. Elle est très proche des philodendrons avec lesquels on la confond fréquemment en utilisant le nom de ce genre comme nom vernaculaire pour désigner les individus commercialisés comme plante ornementale d'appartement."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Costela-de-adão",
+      "source_url": "https://pt.wikipedia.org/wiki/Costela-de-ad%C3%A3o",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72651791,
+      "text": "A costela-de-adão é uma planta da família das aráceas. Possui folhas grandes, cordiformes, penatífidas e perfuradas, com longos pecíolos, flores aromáticas, em espádice comestível, branco-creme, com espata verde, e bagas amarelo-claras."
+    },
+    "id": {
+      "source": "Wikipedia (id): Ceriman",
+      "source_url": "https://id.wikipedia.org/wiki/Ceriman",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29940567,
+      "text": "Monstera deliciosa, dikenal juga sebagai ceriman adalah spesies tanaman berbunga yang berasal dari hutan tropis Meksiko selatan, selatan hingga Panama. Ini telah diperkenalkan ke banyak daerah tropis, dan telah menjadi spesies invasif ringan di Hawaii, Seychelles, Ascension Island, dan Kepulauan Society. Ini sangat banyak ditanam di zona beriklim sedang sebagai tanaman hias."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Monstera deliciosa」の節「Cultivation」",
+        "source": "Wikipedia (en): Monstera deliciosa § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Monstera_deliciosa#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374208594,
         "heading": "Cultivation",
         "text": "Monstera deliciosa is commonly grown outdoors as an ornamental plant in the tropics and subtropics. The plant requires a lot of space and a rich and loose soil (ideally garden soil and compost in equal parts). If it grows in the ground it is better to plant it near a tree, where it can climb, if not against a trellis. It is a \"moderately greedy plant\", in that it needs to be watered just to keep the soil slightly moist. Its hardiness is 11 (that is to say the coldest at −1 °C or 30 °F). It cannot withstand these temperatures for more than a few hours, but it can live outside in certain temperate regions (Mediterranean coast, Brittany). A steady minimum temperature of at least 13–15 °C (55–59 °F) is preferable, allowing continuous growth. Growth ceases below 10 °C (50 °F) and it is killed by frost. It needs very bright exposure, but not full sun.\nForcing a M. deliciosa to flower outside of its typical tropical habitat proves to be difficult. Specific conditions need to be met for the plant to flower. However, in its tropical and subtropical habitat, the plant flowers easily. In ideal conditions it flowers about three years after planting. The plant can be propagated by taking cuttings of a mature plant or by air layering.\n\n■ Indoor cultivation\nIts architectural qualities, ease of cultivation, and tolerance of a wide range of conditions make it widely cultivated indoors. For this reason it is a popular plant for the home or office throughout the temperate northern hemisphere. It prefers bright indirect light and temperatures of 20–30 °C (68–86 °F). It is usually watered when the soil has slightly dried out (after around one or two weeks). It requires a well-draining, peat-based soil to thrive, such as a soil made with perlite and pieces of bark.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Faux philodendron § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Faux_philodendron#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238178969,
+        "heading": "Culture",
+        "text": "Monstera deliciosa est une plante à la croissance rapide et vigoureuse. De ce fait elle est largement utilisée comme plante ornementale dans les régions tropicales et subtropicales. Sa facilité de culture en fait également une plante très répandue en appartement dans les régions tempérées. Par contre les cérimans ne sont généralement pas commercialisés. Bien que consommés dans les pays tropicaux, il faut attendre longtemps (jusqu'à un an) pour que les fruits atteignent la maturité. Avant il est inconsommable car très aigre, voire toxique à forte dose. De ce fait, le Monstera deliciosa n'a jamais été cultivé de manière industrielle pour ses fruits.\nQue la plante soit plantée en pleine terre ou en pot, il lui faut beaucoup d'espace et un sol riche et meuble (idéalement terre de jardin et terreau à parts égales). Si elle pousse en pleine terre il est mieux de la planter près d'un arbre - solide - où elle pourra grimper, sinon contre un treillis. Elle est modérément gourmande en eau et il faut l'arroser juste pour maintenir le sol légèrement humide. Sa rusticité est de 11 (c'est-à-dire au plus froid à -1 °C). Elle ne résiste à ces températures que quelques heures seulement. Idéalement bien sûr il est mieux qu'elle pousse toute l'année avec une température minimum de 13-15 °C permettant une croissance continue. Elle a besoin d'une exposition très lumineuse, mais pas de plein soleil (excepté en hiver dans les régions tempérées où l'insolation est bien moindre que dans son habitat naturel).",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Costela-de-adão § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Costela-de-ad%C3%A3o#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72651791,
+        "heading": "Cultivo",
+        "text": "A planta é comumente cultivada ao ar livre como planta ornamental nos trópicos e subtrópicos. Requer muito espaço e um solo rico e solto. Se crescer no chão, é melhor plantá-lo perto de uma árvore, onde possa subir, se não contra uma treliça. É moderadamente ávida a água e precisa ser regado apenas para manter o solo um pouco úmido. Sua resistência é 11 (ou seja, a mais fria a -1°C). Ele não suporta essas temperaturas por mais de algumas horas, mas pode viver fora em certas regiões (costa do Mediterrâneo, Bretanha). É preferível uma temperatura mínima constante de pelo menos 13–15°C, permitindo crescimento contínuo. O crescimento cessa abaixo de 10°C e é morto pela geada. Ele precisa de uma exposição muito brilhante, mas não de sol pleno.[carece de fontes]?\nForçar uma M. deliciosa a florescer fora de seu habitat tropical típico prova ser difícil. Condições específicas precisam ser atendidas para que a planta floresça. No entanto, em seu habitat tropical e subtropical, a planta floresce facilmente. Em condições ideais, floresce cerca de três anos após o plantio. A planta pode ser propagada pegando entrenós de uma planta madura.",
+        "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Monstera deliciosa」の節「Toxicity」",
+        "source": "Wikipedia (en): Monstera deliciosa § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Monstera_deliciosa#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374208594,
         "heading": "Toxicity",
         "text": "Monstera deliciosa is moderately toxic to both cats and dogs because it contains needle-like insoluble calcium oxalate crystals. These crystals may cause injury to the mouth, tongue, and digestive tract. It also causes dermatitis by direct contact with cat and dog skin.",
@@ -198,7 +256,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -225,7 +283,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/87478-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "liana",
@@ -233,7 +291,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/87478-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000245734.webp",
@@ -246,6 +304,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

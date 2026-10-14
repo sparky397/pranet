@@ -34,30 +34,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "グアバ"
     ],
-    "en": [
-      "guava"
+    "fr": [
+      "Goyavier",
+      "goyavier"
     ],
-    "zh": [
-      "番石榴",
-      "番石榴子",
-      "蕃石榴",
-      "番石榴干",
-      "番石榴果",
-      "番石榴树皮",
-      "番石榴叶",
-      "番石榴根"
+    "pt": [
+      "Goiabeira"
     ],
-    "ast": [
-      "guayabu"
-    ],
-    "sl": [
-      "navadna gvajava"
+    "id": [
+      "Jambu biji"
     ],
     "jv": [
       "Jambu kluthuk"
@@ -92,9 +83,6 @@
     "ar": [
       "جوافة"
     ],
-    "pt": [
-      "Goiabeira"
-    ],
     "eo": [
       "Gujavo"
     ],
@@ -128,9 +116,6 @@
     "ko": [
       "구아바"
     ],
-    "fr": [
-      "goyavier"
-    ],
     "bjn": [
       "Jambu karantukal"
     ],
@@ -139,9 +124,6 @@
     ],
     "de": [
       "Echte Guave"
-    ],
-    "id": [
-      "Jambu biji"
     ],
     "mrj": [
       "Гуайява"
@@ -164,6 +146,9 @@
     "ca": [
       "guaiaber"
     ],
+    "sl": [
+      "navadna gvajava"
+    ],
     "cs": [
       "kvajáva"
     ],
@@ -178,6 +163,16 @@
     ],
     "be": [
       "Гуаява"
+    ],
+    "zh": [
+      "番石榴",
+      "番石榴子",
+      "蕃石榴",
+      "番石榴干",
+      "番石榴果",
+      "番石榴树皮",
+      "番石榴叶",
+      "番石榴根"
     ],
     "gl": [
       "Goiabeira"
@@ -313,13 +308,19 @@
     ],
     "shn": [
       "မၢၵ်ႇၵႃႇ"
+    ],
+    "en": [
+      "guava"
+    ],
+    "ast": [
+      "guayabu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q166843",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q166843",
   "search_names": {
@@ -340,22 +341,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「グアバ」",
+      "source": "Wikipedia (ja): グアバ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%90",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109805142,
       "text": "グアバ は、フトモモ科に属する熱帯性の低木。または、これと同じバンジロウ属 の約100種の植物の総称。グアバはカール・フォン・リンネの『植物の種』(1753年) で記載された植物の一つである。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Psidium guajava」",
+      "source": "Wikipedia (en): Psidium guajava",
       "source_url": "https://en.wikipedia.org/wiki/Psidium_guajava",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371005524,
       "text": "Psidium guajava, the common guava, yellow guava, lemon guava, or apple guava is an evergreen shrub or small tree native to South America. It is pollinated by insects. When cultivated, it is pollinated mainly by the common honey bee, Apis mellifera."
+    },
+    "es": {
+      "source": "Wikipedia (es): Psidium guajava",
+      "source_url": "https://es.wikipedia.org/wiki/Psidium_guajava",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175403933,
+      "text": "El guayabo, llamado también arasá o arazá, de nombre científico Psidium guajava, es una especie de árbol perteneciente a la familia de las mirtáceas. Es un arbusto o árbol pequeño natural de América tropical que se ha asilvestrado en otras zonas tropicales del planeta. Se ha convertido en una especie muy habitual en regiones ganaderas del trópico húmedo debido a su facilidad de crecimiento en potreros dedicados para este fin. Su fruto es la guayaba."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Goyavier",
+      "source_url": "https://fr.wikipedia.org/wiki/Goyavier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058012,
+      "text": "Le goyavier est une espèce de plantes à fleurs de la famille des Myrtaceae. C'est un arbre fruitier originaire des régions tropicales d'Amérique. C’est un petit arbre souvent tortueux, à écorce se desquamant par plaques et feuilles opposées. Les fleurs blanches donnent des fruits charnus, comestibles, nommés goyaves. Dans les départements français d'Amérique, le nom du fruit du goyavier est prononcé gwayav, ce qui est le plus proche étymologiquement du nom d'origine arawak guaiaba. Toutefois, dans le reste de la francophonie, la tendance serait majoritairement à la prononciation go-yav. Cette prononciation qui peut paraître arbitraire semble s'être propagée depuis l'Hexagone vers les autres bassins du monde francophone épargnant les locuteurs français des terres originelles du goyavier."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Goiabeira",
+      "source_url": "https://pt.wikipedia.org/wiki/Goiabeira",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72106800,
+      "text": "A goiabeira é uma pequena árvore frutífera tropical, nativa de toda a América, exceto México e Canadá."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jambu biji",
+      "source_url": "https://id.wikipedia.org/wiki/Jambu_biji",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29333536,
+      "text": "Jambu biji atau sering juga disebut jambu batu, jambu siki, dan jambu klutuk adalah tanaman tropis yang berasal dari Brasil, disebarkan ke Indonesia melalui Thailand. Jambu batu memiliki buah yang berwarna hijau dengan daging buah berwarna hijau atau merah dan berasa asam-manis. Buah jambu batu dikenal mengandung banyak vitamin C."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Goyavier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Goyavier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237058012,
+        "heading": "Culture",
+        "text": "La culture du goyavier est prédominante dans les régions tropicales et subtropicales, où l'arbre est apprécié pour sa rusticité et sa productivité. \nLe goyavier préfère les terres riches en matière organique, bien drainées, avec un pH compris entre 5 et 7. Il nécessite une exposition en plein soleil et une irrigation réguliere, particulièrement durant la phase de fructification, bien qu'il présente une tolérance notable à la sécheresse une fois établi.\nLa multiplication s'effectue par greffage pour garantir la qualité variétale et réduire le délai de mise à fruits (environ 2 à 3 ans contre 4 à 5 pour un franc de semis).\nUne taille de formation est essentielle pour structurer l'arbre et faciliter la récolte, tandis qu'une taille de fructification annuelle permet d'aérer la canopée et de stimuler l'apparition de nouveaux rameaux porteurs de fleurs.\nLe goyavier est particulièrement sensible à la mouche des fruits, ainsi qu'aux pucerons et aux cochenilles.\nDans certaines régions, comme à La Réunion avec le goyavier de Chine (Psidium cattleyanum), l'espèce peut devenir invasive en raison de sa croissance rapide et de la dispersion efficace de ses graines par l'avifaune.\nLa récolte est effectuée à maturité, lorsque le fruit passe du vert au jaune clair et dégage un arôme intense. Un arbre adulte peut produire entre 40 et 100 kg de fruits par an selon les cultivars et les conditions climatiques.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -374,7 +426,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -501,7 +553,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/600841-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -509,7 +561,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/600841-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000284421.webp",
@@ -522,6 +574,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

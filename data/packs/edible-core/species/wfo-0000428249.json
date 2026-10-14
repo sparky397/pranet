@@ -17,17 +17,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Dhundal tree"
-    ],
-    "zh": [
-      "木果楝"
-    ],
-    "pon": [
-      "pwulok"
+    "id": [
+      "Nyiri abang"
     ],
     "vi": [
       "Su ổi"
@@ -37,6 +31,9 @@
     ],
     "to": [
       "Lekileki"
+    ],
+    "zh": [
+      "木果楝"
     ],
     "yue": [
       "木果楝"
@@ -53,29 +50,59 @@
     "ms": [
       "Nyirih bunga"
     ],
-    "id": [
-      "Nyiri abang"
-    ],
     "ar": [
       "شجرة الزيلوكاربوس غراناتوم"
+    ],
+    "en": [
+      "Dhundal tree"
+    ],
+    "pon": [
+      "pwulok"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q419998",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q419998",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Xylocarpus granatum」",
+      "source": "Wikipedia (en): Xylocarpus granatum",
       "source_url": "https://en.wikipedia.org/wiki/Xylocarpus_granatum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374681608,
       "text": "Xylocarpus granatum, commonly known as the cannonball mangrove, cedar mangrove, or puzzlenut tree, is a species of mangrove in the mahogany family (Meliaceae). It is found in Africa, Asia, Australasia and the Pacific Islands. It is a common species of mangrove, and the International Union for Conservation of Nature has assessed its conservation status as being of \"least concern\"."
+    },
+    "es": {
+      "source": "Wikipedia (es): Xylocarpus granatum",
+      "source_url": "https://es.wikipedia.org/wiki/Xylocarpus_granatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 169810507,
+      "text": "Xylocarpus granatum es una especie de mangle perteneciente a la familia Meliaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Xylocarpus granatum",
+      "source_url": "https://fr.wikipedia.org/wiki/Xylocarpus_granatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229875549,
+      "text": "Xylocarpus granatum est une espèce d'arbres tropicaux de la famille des Meliaceae, poussant dans les mangroves de l'Océan Indien."
+    },
+    "id": {
+      "source": "Wikipedia (id): Nyiri abang",
+      "source_url": "https://id.wikipedia.org/wiki/Nyiri_abang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29573076,
+      "text": "Xylocarpus granatum, umumnya dikenal sebagai nyiri abang, atau nyiri bunga, adalah spesies bakau dalam famili mahoni. Ia dijumpai di Afrika, Asia, Australasia dan Kepulauan Pasifik. Ini adalah spesies bakau yang umum, dan Persatuan Internasional untuk Konservasi Alam telah menilai status konservasinya sebagai \"yang paling tidak memprihatinkan \"."
     }
   },
   "edible": {
@@ -93,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -137,7 +164,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/579970-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -145,7 +172,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/579970-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000428249.webp",
@@ -158,6 +185,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

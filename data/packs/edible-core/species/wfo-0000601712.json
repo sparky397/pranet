@@ -15,7 +15,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -25,71 +25,24 @@
       "Quinoa",
       "quinoa"
     ],
-    "bg": [
-      "Киноа"
+    "fr": [
+      "Quinoa",
+      "quinoa"
+    ],
+    "pt": [
+      "Quinoa"
+    ],
+    "id": [
+      "Kinoa"
     ],
     "de": [
+      "Quinoa",
       "Andenhirse",
       "Inkakorn",
       "Inkareis",
       "Perureis",
-      "Quinoa",
       "Reismelde",
       "Reisspinat"
-    ],
-    "el": [
-      "Κινόα"
-    ],
-    "es": [
-      "Arroz Andino",
-      "Kinwa",
-      "Quínoa",
-      "Quinua"
-    ],
-    "fr": [
-      "Quinoa"
-    ],
-    "it": [
-      "Quinoa"
-    ],
-    "nn": [
-      "Perumelde",
-      "Quinoa"
-    ],
-    "nb": [
-      "Quinoa"
-    ],
-    "pl": [
-      "komosa ryżowa"
-    ],
-    "sv": [
-      "Mjölmålla",
-      "Quinoa"
-    ],
-    "zh": [
-      "藜麥",
-      "昆诺阿藜",
-      "藜麦"
-    ],
-    "nl": [
-      "Quinoa"
-    ],
-    "vi": [
-      "Diêm mạch"
-    ],
-    "cs": [
-      "merlík čilský"
-    ],
-    "fi": [
-      "kvinoa"
-    ],
-    "ast": [
-      "quinoa"
-    ],
-    "sl": [
-      "perujski riž",
-      "kvinoja",
-      "kinoja"
     ],
     "ar": [
       "كينوا"
@@ -100,8 +53,14 @@
     "ca": [
       "quinoa"
     ],
+    "cs": [
+      "merlík čilský"
+    ],
     "da": [
       "Quinoa"
+    ],
+    "el": [
+      "Κινόα"
     ],
     "eo": [
       "Kvinoo"
@@ -115,20 +74,27 @@
     "fa": [
       "کینوآ"
     ],
+    "fi": [
+      "kvinoa"
+    ],
     "he": [
       "קינואה"
-    ],
-    "id": [
-      "Kinoa"
     ],
     "lt": [
       "Bolivinė balanda"
     ],
+    "nl": [
+      "Quinoa"
+    ],
+    "nn": [
+      "Perumelde",
+      "Quinoa"
+    ],
     "pam": [
       "Quinoa"
     ],
-    "pt": [
-      "Quinoa"
+    "pl": [
+      "komosa ryżowa"
     ],
     "qu": [
       "Kinwa"
@@ -136,11 +102,28 @@
     "ru": [
       "киноа"
     ],
+    "sv": [
+      "Quinoa",
+      "Mjölmålla"
+    ],
     "tl": [
       "Quinoa"
     ],
     "uk": [
       "кіноа"
+    ],
+    "zh": [
+      "藜麥",
+      "昆诺阿藜",
+      "藜麦"
+    ],
+    "bg": [
+      "киноа"
+    ],
+    "sl": [
+      "perujski riž",
+      "kvinoja",
+      "kinoja"
     ],
     "ta": [
       "கினோவா"
@@ -149,6 +132,9 @@
       "Kinoa"
     ],
     "oc": [
+      "Quinoa"
+    ],
+    "nb": [
       "Quinoa"
     ],
     "th": [
@@ -234,13 +220,28 @@
     ],
     "mk": [
       "киноја"
+    ],
+    "es": [
+      "Arroz Andino",
+      "Kinwa",
+      "Quínoa",
+      "Quinua"
+    ],
+    "it": [
+      "Quinoa"
+    ],
+    "vi": [
+      "Diêm mạch"
+    ],
+    "ast": [
+      "quinoa"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q139925",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q139925",
   "search_names": {
@@ -253,36 +254,94 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キヌア」",
+      "source": "Wikipedia (ja): キヌア",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8C%E3%82%A2",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110507808,
       "text": "キヌア またはキノア（quinoa）は、ヒユ科アカザ亜科アカザ属の植物。アカザとは同属、ホウレンソウやビートとは同科である。南米アンデス山脈の高地アルティプラーノにおいて、数千年前より食用に栽培されている擬穀類 であり、トウジンビエ、シコクビエ、キビ（黍）、アワ（粟）、ヒエ（稗）などと同様に、雑穀に分類される。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Quinoa」",
+      "source": "Wikipedia (en): Quinoa",
       "source_url": "https://en.wikipedia.org/wiki/Quinoa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377099231,
       "text": "Quinoa is a flowering plant in the amaranth family. It is a herbaceous annual plant grown as a crop primarily for its edible seeds; the seeds are high in protein, dietary fiber, B vitamins and dietary minerals especially potassium and magnesium in amounts greater than in many grains. Quinoa is not a grass but rather a pseudocereal botanically related to spinach and amaranth, and originated in the Andean region of northwestern South America. It was first used to feed livestock 5,200–7,000 years ago, and for human consumption 3,000–4,000 years ago in the Lake Titicaca basin of Bolivia and Peru."
+    },
+    "es": {
+      "source": "Wikipedia (es): Chenopodium quinoa",
+      "source_url": "https://es.wikipedia.org/wiki/Chenopodium_quinoa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174866687,
+      "text": "Chenopodium quinoa, también conocida como quinua, quínoa, quinoa o kinua, es una hierba perteneciente a la subfamilia Chenopodioideae de las amarantáceas. Técnicamente se trata de una semilla, pero se conoce y se clasifica como un grano integral. Es nativa del altiplano de los Andes que comparten Argentina, Bolivia, Chile y Perú. Fueron las culturas prehispánicas las que la domesticaron y la cultivaron. Se cultivaba solo en la cordillera andina. Actualmente, los principales países productores son Argentina, Bolivia, Ecuador, Estados Unidos, Chile, Colombia y Perú, aunque su cultivo se está extendiendo a diversos países de Europa y Asia, con altos niveles de rendimiento. Es una planta resistente, tolerante y eficiente en el uso del agua, con una extraordinaria adaptabilidad, puede soportar temperaturas desde −4 °C hasta 38 °C y crecer con humedades relativas desde el 40 % hasta el 70 %."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Quinoa",
+      "source_url": "https://fr.wikipedia.org/wiki/Quinoa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237351218,
+      "text": "Le quinoa est une espèce de plantes herbacées annuelles de la famille des Amaranthaceae ou de celle des Chenopodiaceae. C'est une pseudocéréale, plutôt qu'une véritable céréale, car ce n'est pas une graminée. Le quinoa est de la même famille botanique que la betterave, l'épinard et l'amarante."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Quinoa",
+      "source_url": "https://pt.wikipedia.org/wiki/Quinoa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73089487,
+      "text": "A quinoa é uma espécie de planta nativa da região andina do Peru, Bolivia, Equador e Colômbia, onde foi domesticado há cerca de 3 000 a 4 000 anos para consumo humano, embora existam registros arqueológicos de uso de sementes não domesticadas para uso pastoril há cerca de 5 200 a 7 000 anos. Produz um grão considerado muito importante à alimentação e à vida do homem no altiplano andino."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kinoa",
+      "source_url": "https://id.wikipedia.org/wiki/Kinoa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29843944,
+      "text": "Kinoa atau quinoa merupakan serealia semu yang menjadi makanan pokok bagi masyarakat Indian di Pegunungan Andes, Amerika Selatan. Kinoa disebut serealia semu karena bijinya bukan dihasilkan dari tumbuhan suku padi-padian. Daunnya dapat dimakan pula, sebagaimana bayam biji. Biji kinoa sangat ideal sebagai sumber gizi karena mengandung karbohidrat dan protein asam amino esensial yang lebih tinggi, juga sejumlah kalsium, fosfor, dan besi."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Quinoa」の節「Cultivation」",
+        "source": "Wikipedia (en): Quinoa § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Quinoa#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377099231,
         "heading": "Cultivation",
         "text": "Over the last 5,000 years the biogeography of Ch. quinoa has changed greatly, mainly by human influence, convenience and preference. It has changed not only in the area of distribution, but also with regard to the climate this plant was originally adapted to, in contrast to the climates on which it is able to successfully grow in now. In a process started by a number of pre-Inca South American indigenous cultures, people in Chile have been adapting quinoa to salinity and other forms of stress over the last 3,000 years. Quinoa is also cultivated, since an early date, near the coast of northern Chile, where it was grown by the Chinchorro culture. Ch. quinoa was brought to the lowlands of south-central Chile at an early date from the Andean highlands. Varieties in the lowlands of south-central Chile derive directly from ancestral cultivars which then evolved in parallel to those of the highlands. It has been suggested that the introduction of Ch. quinoa occurred before highland varieties with floury perisperm emerged. There are wide discrepancies in the suggested dates of introduction, one study suggests c. 1000 BC as the introduction date while another suggests 600–1100 AD. In colonial times the plant is known to have been cultivated as far south as the Chiloé Archipelago and the shores of Nahuel Huapi Lake. The cuisine of Chiloé included bread made of quinoa until at least the mid-19th century.\nIn Chile it had almost disappeared by the early 1940s; as of 2015 the crop is mostly grown in three areas by only some 300 smallholder farmers.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Chenopodium quinoa § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Chenopodium_quinoa#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175750496,
+        "heading": "Cultivo",
+        "text": "La quinua es nativa de Sudamérica. Las evidencias arqueológicas más antiguas de cultivo de la quinua se establecen en el 1500 a. C. en Chiripa, en la península de Taraco del lago Titicaca en la actual Bolivia.​ La quinua era probablemente la fuente de alimento más importante para los habitantes de Tiwanaku en la cuenca sur del Titicaca.​ \nSu cultivo extiende a todos los países de la región andina, «desde Colombia (Pasto) hasta el Noroeste de Argentina (Jujuy y Salta) y el centro de Chile, aunque en este país las culturas ancestrales cultivaban variedades de quinua, distintas de las variedades altiplánicas, que presentan un grano más pequeño, y contienen más proteínas y menor cantidad de almidón. \nSegún FAOSTAT, «en el periodo 1992-2010 el área cosechada y la producción total de quinua en los principales países productores –Bolivia, Perú y Ecuador– ha casi duplicado y triplicado sus cifras respectivamente».​​ \nPero la quinua es un cultivo en expansión en el mundo. Se encuentra en más de 70 países, el 92 % de su producción está en Bolivia y Perú para el 2008, mientras que el 8 % restante está principalmente en Estados Unidos, Ecuador, Argentina y Canadá.​​\nLa quinua se cultiva en los Andes argentinos, bolivianos, ecuatorianos, chilenos, colombianos y peruanos,​así como en el Altiplano y al nivel del mar en la zona centro sur de Chile, desde hace unos 5000 años.​ Al igual que la papa, fue uno de los principales alimentos de los pueblos australes, andinos preincaicos e incaicos. Se piensa que en el pasado también se empleó para usos cosméticos en la zona del altiplano peruano-boliviano.​\nCrece desde el nivel del mar hasta los 4 000 m de altitud en los Andes, aunque es más común a partir de los 2 500 m.",
+        "truncated": true
+      },
+      "id": {
+        "source": "Wikipedia (id): Kinoa § Budi daya",
+        "source_url": "https://id.wikipedia.org/wiki/Kinoa#Budi_daya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29843944,
+        "heading": "Budi daya",
+        "text": "■ Kebutuhan iklim\nKebutuhan iklim tiap varietas kinoa dapat bervariasi, tetapi secara umum tidak menyulitkan dan mampu bertahan di ketinggian. Kinoa ditanam di kawasan pantai di Chili hingga ketinggian 4000 meter di Pegunungan Andes dekat dengan ekuator, tetapi sebagian besar ditanam di ketinggian sekitar 2500 meter. Kinoa umumnya tumbuh secara optimal pada temperatur dingin-sejuk antara -4 oC hingga 35 oC. Beberapa dapat bertahan pada temperatur yang lebih rendah dari itu, tetapi temperatur beku biasanya mengganggu tanaman kinoa yang sedang berbunga dan menyebabkan pollen menjadi steril. Curah hujan antara 300 hingga 1000 mm optimal selama masa perkecambahan dan pertumbuhan, dan kondisi kering dibutuhkan selama masa pembentukan biji hingga pemanenan.\n\n■ Pemanenan\n\nKinoa mampu menghasilkan sekitar 3 ton hingga lima ton per hektare, setara dengan produktivitas gandum di pegunungan Andes. Kinoa biasanya dipanen dengan tangan dan jarang sekali menggunakan mesin karena variasi waktu kematangan biji yang cukup bervariasi sehingga panen secara massal menggunakan mesin hampir tidak memungkinkan. Kinoa yang dipanen dipilih secara selektif untuk mencegah biji pecah ketika dirontokkan. Jika tanaman individu memiliki kuntum atau tandan bunga lebih dari satu dan berbunga pada waktu yang berbeda, kematangan juga terjadi pada waktu yang berbeda. Pemuliaan tanaman kinoa telah dilakukan di Amerika Serikat untuk menghasilkan varietas yang mampu dipanen pada waktu yang bersamaan.\nPascapanen yang dilakukan adalah perontokan dan penampian untuk menghilangkan kulit bijinya. Sebelum disimpan, biji harus dikeringkan untuk mencegah perkecambahan. Biji dapat diproses terlebih dahulu sebelum disimpan untuk menghilangkan lapisan saponin yang membungkus biji.",
+        "truncated": false
       }
     }
   },
@@ -296,7 +355,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -318,7 +377,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/165175-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -326,7 +385,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/165175-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000601712.webp",
@@ -339,6 +398,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 261,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

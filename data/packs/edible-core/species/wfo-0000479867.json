@@ -17,91 +17,69 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "トケイソウ"
     ],
-    "ar": [
-      "الساعة (نبات)",
-      "زهرة الآلام الشائعة"
+    "gn": [
+      "Mburukuja"
     ],
-    "bg": [
-      "Синя пасифлора"
-    ],
-    "en": [
-      "Blue Passion Flower",
-      "bluecrown passionflower",
-      "blue passionflower"
+    "pl": [
+      "Męczennica błękitna"
     ],
     "bs": [
       "Pasijonka"
     ],
-    "ca": [
-      "Passionera"
+    "ru": [
+      "Страстоцвет голубой"
     ],
-    "da": [
-      "Blaa passionsblomst"
+    "ko": [
+      "시계꽃"
+    ],
+    "he": [
+      "שעונית כחולה"
+    ],
+    "en": [
+      "blue passionflower",
+      "Blue Passion Flower",
+      "bluecrown passionflower"
+    ],
+    "ca": [
+      "passionera"
     ],
     "de": [
       "Blaue Passionsblume",
       "Passionsblume"
     ],
-    "es": [
-      "Flor de la pasión"
+    "vi": [
+      "Lạc tiên cảnh"
     ],
     "fa": [
       "پیچ ساعتی گل آبی رنگ"
     ],
-    "fi": [
-      "Kärsimyspassio"
-    ],
-    "gn": [
-      "Mburukuja"
-    ],
-    "he": [
-      "שעונית כחולה"
-    ],
-    "hsb": [
-      "Módra ćerpjenka"
-    ],
-    "ko": [
-      "시계꽃"
+    "bg": [
+      "синя пасифлора"
     ],
     "ne": [
       "घडीफूल"
     ],
-    "nl": [
-      "Blauwe passiebloem"
+    "az": [
+      "Mavi qonaqotu"
     ],
-    "pl": [
-      "Męczennica błękitna"
-    ],
-    "pt": [
-      "Maracujá azul"
-    ],
-    "ru": [
-      "Страстоцвет голубой"
+    "hsb": [
+      "Módra ćerpjenka"
     ],
     "sv": [
       "Blå passionsblomma"
     ],
-    "vi": [
-      "Lạc tiên cảnh"
+    "nl": [
+      "Blauwe passiebloem"
     ],
-    "zh": [
-      "西番莲，百香果",
-      "西番莲",
-      "转心莲",
-      "蛇王藤",
-      "蓝花西番莲"
-    ],
-    "ast": [
-      "pasiflora"
-    ],
-    "az": [
-      "Mavi qonaqotu"
+    "ar": [
+      "زهرة الآلام الشائعة",
+      "الساعة (نبات)"
     ],
     "pnb": [
       "نیلا شام"
@@ -115,11 +93,24 @@
     "af": [
       "Passieblom"
     ],
+    "zh": [
+      "蓝花西番莲",
+      "西番莲，百香果",
+      "西番莲",
+      "转心莲",
+      "蛇王藤"
+    ],
     "bn": [
       "ঝুমকোলতা"
     ],
     "uk": [
       "Пасифлора блакитна"
+    ],
+    "fi": [
+      "Kärsimyspassio"
+    ],
+    "ast": [
+      "Pasiflora"
     ],
     "mai": [
       "घडीफूल"
@@ -138,13 +129,22 @@
     ],
     "nb": [
       "pasjonsblomst"
+    ],
+    "da": [
+      "Blaa passionsblomst"
+    ],
+    "es": [
+      "Flor de la pasión"
+    ],
+    "pt": [
+      "Maracujá azul"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161120",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161120",
   "search_names": {
@@ -156,32 +156,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「トケイソウ」",
+      "source": "Wikipedia (ja): トケイソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B1%E3%82%A4%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110081230,
       "text": "トケイソウ はトケイソウ科トケイソウ属 Passiflora に分類される植物の総称であり、狭義には学名: Passiflora caerulea という種の和名である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Passiflora caerulea」",
+      "source": "Wikipedia (en): Passiflora caerulea",
       "source_url": "https://en.wikipedia.org/wiki/Passiflora_caerulea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1379182829,
       "text": "Passiflora caerulea, the blue passionflower, bluecrown passionflower or common passion flower, is a species of flowering plant in the family Passifloraceae. It is native to South America and has been introduced elsewhere."
+    },
+    "es": {
+      "source": "Wikipedia (es): Passiflora caerulea",
+      "source_url": "https://es.wikipedia.org/wiki/Passiflora_caerulea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175385303,
+      "text": "Passiflora caerulea, llamada flor de la pasión, pasionaria azul, pasionaria o mburucuyá, es una especie de planta trepadora de la familia de las pasifloráceas que crece de forma silvestre en varios países, como Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay y Venezuela en América del Sur, España en Europa y República Dominicana en el Caribe."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Passiflora caerulea",
+      "source_url": "https://fr.wikipedia.org/wiki/Passiflora_caerulea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235829767,
+      "text": "Passiflora caerulea, la passiflore bleuâtre ou grenadille, est une espèce de plantes à fleurs de la famille des Passifloraceae. C'est une plante grimpante originaire d'Amérique du Sud."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Passiflora caerulea",
+      "source_url": "https://pt.wikipedia.org/wiki/Passiflora_caerulea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71276660,
+      "text": "A Passiflora caerulea, popularmente conhecida como maracujá-azul, é a planta mais comum dentro do seu género[carece de fontes]?, originalmente nativa da América do Sul. Apesar da origem desta trepadeira ser tropical e subtropical, é mais resistente a baixas temperaturas relativamente às do seu género, como é o caso da Passiflora edulis. Por este motivo, já está bastante disseminada pela Europa, assim como naturalmente nas regiões de origem.\nEsta planta é mais usada em jardins com fins ornamentais do que para fins de frutificação. Isto deve-se às suas características de trepadeira, com a função de cobertura de muros e sebes. Em detrimento, a sua função frutífera é posta em segundo plano, já que os frutos, apesar de serem comestíveis, são algo sensaborões e sem cheiro."
+    },
+    "id": {
+      "source": "Wikipedia (id): Passiflora caerulea",
+      "source_url": "https://id.wikipedia.org/wiki/Passiflora_caerulea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29863580,
+      "text": "Passiflora caerulea adalah spesies tumbuhan berbunga asli Amerika Selatan. Tumbuhan ini adalah tumbuhan merambat bertendril yang vigorous, peluruh atau semi-hijau abadi dan tumbuh sampai 10 m (33 ft) atau lebih, dengan daun menjari dan wangi, bunga biru-putih dengan pinggiran yang menonjol dari filamen koronal dengan pita biru, putih, dan coklat. Buahnya oranye dan berbentuk bulat telur, tumbuh sampai 6 cm (2 in), dapat dimakan tetapi hambar."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Passiflora caerulea」の節「Cultivation」",
+        "source": "Wikipedia (en): Passiflora caerulea § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Passiflora_caerulea#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1379182829,
         "heading": "Cultivation",
         "text": "Passiflora caerulea is widely cultivated as a wall-climber or as groundcover. It is a hardy species, able to survive winter temperatures as low as −10 °C (14 °F), although it requires a sheltered position facing south or west (in the Northern Hemisphere). It can become invasive, the twining shoots constantly appearing unless eradicated. It is the only Passiflora species that volunteers in California. It has gained the Royal Horticultural Society's Award of Garden Merit.\n\n■ Cultivars\n\nA number of cultivars have been produced from the species:\n\n'Chinensis' (corona filaments paler blue)\n'Constance Elliott' was raised by Lucombe, Pince & Co in Exeter, Great Britain in 1884. It has pure white, fragrant flowers; not as free-flowering as many other clones. It has also won the Award of Garden Merit from the Royal Horticultural Society.\n'Pierre Pomie', a pale pink flower form",
@@ -201,7 +237,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -245,7 +281,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/321949-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "liana",
@@ -253,7 +289,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/321949-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000479867.webp",
@@ -266,6 +302,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 284,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -15,39 +15,48 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "he": [
+      "פונגמיה מנוצה"
+    ],
     "zh": [
-      "水黃皮",
       "水黄皮",
+      "水黃皮",
       "枳茹",
       "水流豆"
     ],
     "en": [
       "Indian beech",
       "Pongame oiltree"
-    ],
-    "he": [
-      "פונגמיה מנוצה"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q24852568",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q24852568",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pongamia pinnata」",
+      "source": "Wikipedia (en): Pongamia pinnata",
       "source_url": "https://en.wikipedia.org/wiki/Pongamia_pinnata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376653597,
       "text": "Pongamia pinnata is a species of tree in the pea family Fabaceae, native to eastern and tropical Asia, Australia, and the Pacific islands. It is often known by the synonym Millettia pinnata. Its common names include Indian beech, Karanja, and Pongame oiltree."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pongamia pinnata",
+      "source_url": "https://fr.wikipedia.org/wiki/Pongamia_pinnata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240159260,
+      "text": "Pongamia pinnata est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un arbre originaire de la zone tropicale de l'Asie, de l'Australie, et des ïles du Pacifique. Il est la seule espèce du genre Pongamia. Il est souvent connu sous le nom de Millettia pinnata. Ses noms communs sont aussi Indian beech, Pongame oiltree, Karanj, Karanja ou arbre de pongolote."
     }
   },
   "edible": {
@@ -66,7 +75,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -123,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/515679-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -131,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/515679-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000201168.webp",
@@ -144,6 +153,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 282,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

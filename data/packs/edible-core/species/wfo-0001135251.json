@@ -16,25 +16,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ムクロジ"
-    ],
-    "en": [
-      "Chinese soapberry",
-      "Indian soapberry"
-    ],
-    "fi": [
-      "Kiinansaippuamarja"
-    ],
-    "nl": [
-      "grote zeepnoot"
-    ],
-    "zh": [
-      "無患子",
-      "无患子"
     ],
     "de": [
       "Waschnussbaum"
@@ -48,6 +34,9 @@
     "ar": [
       "صابونية موكوروسية"
     ],
+    "fi": [
+      "kiinansaippuamarja"
+    ],
     "bn": [
       "রিটা"
     ],
@@ -59,6 +48,10 @@
     ],
     "as": [
       "মণিছাল"
+    ],
+    "zh": [
+      "无患子",
+      "無患子"
     ],
     "pwn": [
       "zaqu"
@@ -77,13 +70,20 @@
     ],
     "shn": [
       "မၢၵ်ႇသၵ်ႉ"
+    ],
+    "en": [
+      "Chinese soapberry",
+      "Indian soapberry"
+    ],
+    "nl": [
+      "grote zeepnoot"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q14530198",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q14530198",
   "search_names": {
@@ -99,22 +99,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ムクロジ」",
+      "source": "Wikipedia (ja): ムクロジ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%AF%E3%83%AD%E3%82%B8",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107673638,
       "text": "ムクロジ はムクロジ科ムクロジ属の落葉高木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sapindus mukorossi」",
+      "source": "Wikipedia (en): Sapindus mukorossi",
       "source_url": "https://en.wikipedia.org/wiki/Sapindus_mukorossi",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369969219,
       "text": "Sapindus mukorossi, commonly known as Indian soapberry, washnut, ritha or Chinese soapberry, is a species of tree in the family Sapindaceae. It is a deciduous tree that grows in the lower foothills and midhills of the Himalayas at altitudes of up to 1,200 metres (4,000 ft). It is also native to western coastal Karnataka, Maharashtra, and Goa in India; as well as Nepal Indochina, southern China, Japan and Taiwan as known by its many indigenous peoples. It is tolerant to reasonably poor soil, can be planted around farmers' homes, and one tree can produce 30 to 35 kilograms of fruit per year."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sapindus mukorossi",
+      "source_url": "https://fr.wikipedia.org/wiki/Sapindus_mukorossi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232841250,
+      "text": "Sapindus mukorossi est une espèce d'arbres de la famille des Sapindaceae. Le fruit est communément connu comme Noix de lavage (washnut) ou bien comme celui du Savonnier indien, et, comme les autres espèces dans le genre Sapindus, on l'appelle Savonnier ou l’arbre à savonnette, pour ses noix de savon. Il est également originaire de l'Ouest de la côte Maharashtra–Konkan, et de Goa en Inde. Sapindus mukorrossi, connu sous le nom de ritha ou arbre reetha au Népal. C'est un arbre à feuilles caduques, qui pousse dans les contreforts inférieurs et les zones médianes de l'Himalaya, jusqu'à une altitude de 1200 mètres. Il est raisonnablement tolérant à la mauvaise qualité du sol et peut être planté autour des habitations des agriculteurs. L'un de ces arbres « ritha » peut produire de 30 à 35 kg de fruits par an."
     }
   },
   "edible": {
@@ -128,7 +137,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -158,7 +167,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/784657-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -166,7 +175,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/784657-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001135251.webp",
@@ -179,6 +188,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 297,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

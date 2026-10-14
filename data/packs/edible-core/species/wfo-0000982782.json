@@ -31,22 +31,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Bitter Oleander",
-      "Easter Tree",
-      "Jasmine Tree"
-    ],
     "zh": [
-      "止瀉木",
       "止泻木",
+      "止瀉木",
       "止泻木皮",
       "止泻子"
-    ],
-    "sl": [
-      "kitajski jasmin"
     ],
     "mr": [
       "पांढरा कुडा"
@@ -72,26 +64,43 @@
     "sn": [
       "Mukashu"
     ],
+    "sl": [
+      "kitajski jasmin"
+    ],
     "gor": [
       "Kutaja"
+    ],
+    "en": [
+      "Bitter Oleander",
+      "Easter Tree",
+      "Jasmine Tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q9096302",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q9096302",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Holarrhena pubescens」",
+      "source": "Wikipedia (en): Holarrhena pubescens",
       "source_url": "https://en.wikipedia.org/wiki/Holarrhena_pubescens",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368134109,
       "text": "Holarrhena pubescens, the fever pod, kurchi bark, Tellicherry bark or conessi, is a species of flowering plant in the family Apocynaceae. It is native to central and southern Africa, the Indian subcontinent, Indochina, and parts of China. Holarrhena pubescens is sometimes confused with the species Wrightia antidysenterica due to a second, taxonomically invalid publication of the name Holarrhena pubescens. In Cambodia, it is called /tɨk dɑh kʰlaː thɔm/ ទឹកដោះខ្លាធំ big tiger milk or /kʰlaɛɲ kŭəŋ/ ខ្លែងគង់ invulnerable kite. These seeds are sold as indraja (इनद्राजा) for Ayurvedic medicine in India."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Holarrhena pubescens",
+      "source_url": "https://fr.wikipedia.org/wiki/Holarrhena_pubescens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223127417,
+      "text": "Holarrhena pubescens est une espèce de plantes à fleurs dicotylédones de la famille des Apocynaceae, sous-famille des Apocynoideae, originaire des régions tropicales d'Afrique australe et orientale et du Sud et du Sud-Est de l'Asie."
     }
   },
   "edible": {
@@ -107,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -142,7 +151,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/79318-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -150,7 +159,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/79318-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000982782.webp",
@@ -163,6 +172,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

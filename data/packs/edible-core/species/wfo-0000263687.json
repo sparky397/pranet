@@ -11,16 +11,13 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "ginseng"
-    ],
     "zh": [
+      "假人参",
       "三七",
-      "藏三七",
-      "假人参"
+      "藏三七"
     ],
     "az": [
       "Yalançı jenşen"
@@ -42,24 +39,36 @@
     ],
     "jv": [
       "Ginsèng himalaya"
+    ],
+    "en": [
+      "ginseng"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q10888482",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q10888482",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Panax pseudoginseng」",
+      "source": "Wikipedia (en): Panax pseudoginseng",
       "source_url": "https://en.wikipedia.org/wiki/Panax_pseudoginseng",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1297802260,
       "text": "Panax pseudoginseng is a species of plant in the family Araliaceae, native to Nepal and Tibet. Common names include pseudoginseng, Nepal ginseng and Himalayan ginseng. Pseudoginseng belongs to the same scientific genus as ginseng."
+    },
+    "es": {
+      "source": "Wikipedia (es): Panax pseudoginseng",
+      "source_url": "https://es.wikipedia.org/wiki/Panax_pseudoginseng",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174354237,
+      "text": "Panax notoginseng es una especie del género Panax, conocido en idioma inglés como notoginseng. Notoginseng pertenece al mismo género del ginseng. Notoginseng crece naturalmente en China, y Japón."
     }
   },
   "edible": {
@@ -71,7 +80,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -82,7 +91,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/91543-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or rhizomatous geophyte",
@@ -90,7 +99,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/91543-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000263687.webp",
@@ -103,6 +112,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 320,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

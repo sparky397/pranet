@@ -43,43 +43,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ノゲシ"
-    ],
-    "de": [
-      "Kohl-Gänsedistel",
-      "Gemeine Gänsedistel",
-      "Gemüse-Gänsedistel"
-    ],
-    "en": [
-      "common sowthistle",
-      "smooth sow-thistle"
-    ],
-    "zh": [
-      "苦滇菜",
-      "苦菜",
-      "苦苣菜",
-      "滇苦菜",
-      "苦苣菜（苦荬菜）",
-      "苦荬菜"
-    ],
-    "nl": [
-      "Gewone melkdistel"
-    ],
-    "cs": [
-      "mléč zelinný"
-    ],
-    "fr": [
-      "laiteron maraîcher"
-    ],
-    "fi": [
-      "kaalivalvatti"
-    ],
-    "ast": [
-      "tarriellu"
     ],
     "pl": [
       "Mlecz zwyczajny"
@@ -96,6 +64,11 @@
     "he": [
       "מרור הגינות"
     ],
+    "de": [
+      "Gemüse-Gänsedistel",
+      "Kohl-Gänsedistel",
+      "Gemeine Gänsedistel"
+    ],
     "el": [
       "Ζοχός"
     ],
@@ -105,6 +78,9 @@
     "sv": [
       "Kålmolke"
     ],
+    "nl": [
+      "gewone melkdistel"
+    ],
     "eo": [
       "Ordinara sonko"
     ],
@@ -113,6 +89,9 @@
     ],
     "ca": [
       "lletsó d'hort"
+    ],
+    "fi": [
+      "kaalivalvatti"
     ],
     "co": [
       "Lattaghjolu"
@@ -131,6 +110,17 @@
     ],
     "da": [
       "Almindelig Svinemælk"
+    ],
+    "cs": [
+      "mléč zelinný"
+    ],
+    "zh": [
+      "苦苣菜",
+      "苦滇菜",
+      "苦菜",
+      "滇苦菜",
+      "苦苣菜（苦荬菜）",
+      "苦荬菜"
     ],
     "uk": [
       "жовтий осот городній"
@@ -197,13 +187,23 @@
     ],
     "yue": [
       "苦苣菜"
+    ],
+    "en": [
+      "common sowthistle",
+      "smooth sow-thistle"
+    ],
+    "fr": [
+      "laiteron maraîcher"
+    ],
+    "ast": [
+      "tarriellu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q331676",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q331676",
   "search_names": {
@@ -227,22 +227,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ノゲシ」",
+      "source": "Wikipedia (ja): ノゲシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B2%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109588172,
       "text": "ノゲシ とは、キク科ノゲシ属の植物の一種。別名ハルノノゲシ、ケシアザミ、チチグサ、ウマアザミ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sonchus oleraceus」",
+      "source": "Wikipedia (en): Sonchus oleraceus",
       "source_url": "https://en.wikipedia.org/wiki/Sonchus_oleraceus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373258847,
       "text": "Sonchus oleraceus is a species of flowering plant in the tribe Cichorieae of the family Asteraceae, native to Europe and Western Asia. It has many common names including common sowthistle, sow thistle, smooth sow thistle, annual sow thistle, puha, hare's colwort, hare's thistle, milky tassel, milk thistle, and soft thistle."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sonchus oleraceus",
+      "source_url": "https://es.wikipedia.org/wiki/Sonchus_oleraceus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172452327,
+      "text": "Sonchus oleraceus, conocido comúnmente por cerraja, cerrajón o canayuyo es una especie de planta herbácea del género Sonchus en la familia Asteraceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sonchus oleraceus",
+      "source_url": "https://fr.wikipedia.org/wiki/Sonchus_oleraceus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238350510,
+      "text": "Sonchus oleraceus, communément appelé le Laiteron maraîcher, Laiteron commun, Laiteron lisse ou Laiteron potager, est une espèce de plantes à fleurs du genre Sonchus et de la famille des Asteraceae. L’espèce est originaire d’Europe, d’Afrique du Nord et du Moyen-Orient et a été introduite dans presque tous les autres pays du monde. C’est une plante rudérale que l’on trouve dans les champs, les jardins, les décombres, les friches, les bords de route ou les bords de trottoir en ville."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sonchus oleraceus",
+      "source_url": "https://pt.wikipedia.org/wiki/Sonchus_oleraceus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73198388,
+      "text": "A serralha, serralha-branca ou serrallha-macia é uma planta herbácea da familia Asteraceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sonchus oleraceus",
+      "source_url": "https://id.wikipedia.org/wiki/Sonchus_oleraceus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28105873,
+      "text": "Sonchus oleracus adalah sebuah tanaman di suku dandelion dalam asteraceae. Tanaman ini asli ke Eropa dan Asia Barat."
     }
   },
   "edible": {
@@ -257,7 +293,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -484,7 +520,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/250268-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -492,7 +528,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/250268-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000069236.webp",
@@ -505,6 +541,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 297,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

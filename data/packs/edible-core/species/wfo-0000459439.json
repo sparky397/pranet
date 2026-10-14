@@ -11,7 +11,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "bg": [
@@ -34,18 +34,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q18112543",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q18112543",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Tamarix senegalensis」",
+      "source": "Wikipedia (en): Tamarix senegalensis",
       "source_url": "https://en.wikipedia.org/wiki/Tamarix_senegalensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1196575037,
       "text": "Tamarix senegalensis is a species of flowering plants of the Tamaricaceae family. It is a tree or twiggy shrub, that grows in saline soil, sandy desert and sea-shore."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Tamarix senegalensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Tamarix_senegalensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 177937255,
+      "text": "Tamarix senegalensis, le Tamaris du Sénégal, est un arbuste des zones côtières africaines. Cette espèce est résistante à la salinité des sols et pourrait permettre un repeuplement des terres abandonnées par les agriculteurs consécutivement à la salinisation des sols dans les zones côtières du Sahel et particulièrement au Sénégal."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tamarix senegalensis",
+      "source_url": "https://id.wikipedia.org/wiki/Tamarix_senegalensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29355565,
+      "text": "Tamarix senegalensis adalah spesies tumbuhan berbunga dari famili Tamaricaceae. Tumbuhan ini berupa pohon atau semak beranting yang tumbuh di tanah asin, gurun berpasir, dan pesisir laut."
     }
   },
   "edible": {
@@ -62,7 +80,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -87,7 +105,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828214-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -95,7 +113,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828214-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000459439.webp",
@@ -108,6 +126,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

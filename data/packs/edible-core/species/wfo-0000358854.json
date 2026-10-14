@@ -16,19 +16,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "white mangrove"
-    ],
-    "es": [
-      "Mangle Blanco"
-    ],
-    "zh": [
-      "对叶榄李",
-      "白紅樹"
-    ],
     "pt": [
       "Mangue-branco"
     ],
@@ -47,15 +37,25 @@
     "ja": [
       "ヒルギモドキ"
     ],
+    "zh": [
+      "白紅樹",
+      "对叶榄李"
+    ],
     "arz": [
       "قوينينه عنقوديه"
+    ],
+    "en": [
+      "white mangrove"
+    ],
+    "es": [
+      "Mangle Blanco"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1760533",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1760533",
   "search_names": {
@@ -65,13 +65,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Laguncularia」",
+      "source": "Wikipedia (en): Laguncularia",
       "source_url": "https://en.wikipedia.org/wiki/Laguncularia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1318243535,
       "text": "Laguncularia is a genus of plants in the family Combretaceae. The only species in the genus is Laguncularia racemosa, the white mangrove."
+    },
+    "es": {
+      "source": "Wikipedia (es): Laguncularia racemosa",
+      "source_url": "https://es.wikipedia.org/wiki/Laguncularia_racemosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174345179,
+      "text": "Laguncularia racemosa, conocido también en Cuba como patabán, y en Colombia, Venezuela y Costa Rica como mangle blanco o mereicillo, es la única especie del género monotípico Laguncularia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Laguncularia racemosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Laguncularia_racemosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233848669,
+      "text": "Laguncularia racemosa, le Palétuvier blanc, est une espèce de plantes à fleurs du genre Laguncularia et de la famille des Combretaceae. C'est un palétuvier, un arbre des mangroves, trouvé sur les côtes de l'Afrique de l'Ouest ainsi que sur les côtes atlantiques et pacifiques des Amériques."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Mangue-branco",
+      "source_url": "https://pt.wikipedia.org/wiki/Mangue-branco",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71046332,
+      "text": "O mangue-branco é uma árvore pioneira nativa e típica do manguezal brasileiro, encontrada no interior do mangue e na transição para a floresta de restinga."
     }
   },
   "edible": {
@@ -88,7 +115,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -152,7 +179,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/170672-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -160,7 +187,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/170672-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000358854.webp",
@@ -173,6 +200,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

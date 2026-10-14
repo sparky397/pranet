@@ -24,18 +24,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "watery roseapple"
-    ],
-    "zh": [
-      "水莲雾",
-      "蓮霧"
+    "id": [
+      "Jambu air"
     ],
     "nan": [
       "Lián-bū"
+    ],
+    "zh": [
+      "蓮霧",
+      "水莲雾"
     ],
     "jv": [
       "Jambu"
@@ -70,9 +70,6 @@
     "nl": [
       "Djamboe aer"
     ],
-    "id": [
-      "Jambu air"
-    ],
     "ru": [
       "Водяное яблоко"
     ],
@@ -93,13 +90,16 @@
     ],
     "kge": [
       "Jambu Uway"
+    ],
+    "en": [
+      "watery roseapple"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q31904",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q31904",
   "search_names": {
@@ -119,13 +119,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Syzygium aqueum」",
+      "source": "Wikipedia (en): Syzygium aqueum",
       "source_url": "https://en.wikipedia.org/wiki/Syzygium_aqueum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1329586844,
       "text": "Syzygium aqueum is a species of brush cherry tree. Its common names include watery rose apple, water apple and bell fruit, and jambu in Malay and several Indian languages."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Syzygium aqueum",
+      "source_url": "https://fr.wikipedia.org/wiki/Syzygium_aqueum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236030419,
+      "text": "Syzygium aqueum, appelé watery rose apple, water apple ou bell fruit en anglais, et jambu en Malais et autres langues indiennes, est une espèce de plantes à fleurs de la famille des Myrtaceae. C'est un arbre endémique dans les forêts tropicales de l'est de l'Australie. L'arbre est cultivé pour son bois et ses fruits. L'arbre a besoin de fortes pluies et peut vivre dans les habitats tropicaux, jusqu'à 1 600 m d'altitude."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jambu air",
+      "source_url": "https://id.wikipedia.org/wiki/Jambu_air",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29920900,
+      "text": "Jambu air adalah tumbuhan dalam suku jambu-jambuan atau Myrtaceae yang berasal dri Asia Tenggara. Jambu air sebetulnya berbeda dengan jambu semarang, namun kerabat dekatnya yang memiliki pohon dan buah hampir serupa. Beberapa kultivarnya bahkan sulit dibedakan, sehingga keduanya kerap ditandai dengan nama umum jambu air atau jambu saja. Jambu air mudah ditanam dan dibudidayakan."
     }
   },
   "edible": {
@@ -140,7 +158,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -172,7 +190,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/601415-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -180,7 +198,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/601415-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000318257.webp",
@@ -193,6 +211,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

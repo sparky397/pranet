@@ -33,16 +33,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Chinese albizia"
-    ],
-    "zh": [
-      "楹树",
-      "楹树皮"
-    ],
     "id": [
       "Sengon"
     ],
@@ -51,6 +44,10 @@
     ],
     "jv": [
       "Séngon"
+    ],
+    "zh": [
+      "楹树",
+      "楹树皮"
     ],
     "th": [
       "กางหลวง"
@@ -72,24 +69,45 @@
     ],
     "shn": [
       "တူၼ်ႈမႆႉၵၢင်း"
+    ],
+    "en": [
+      "Chinese albizia"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4201565",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4201565",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Albizia chinensis」",
+      "source": "Wikipedia (en): Albizia chinensis",
       "source_url": "https://en.wikipedia.org/wiki/Albizia_chinensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368591255,
       "text": "Albizia chinensis is a species of legume in the genus Albizia, native to South and Southeast Asia, from India to China and Indonesia."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Albizia chinensis",
+      "source_url": "https://pt.wikipedia.org/wiki/Albizia_chinensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71567802,
+      "text": "Albizia chinensis é uma espécie de leguminosa do gênero Albizia, pertencente à família Fabaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sengon",
+      "source_url": "https://id.wikipedia.org/wiki/Sengon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28779642,
+      "text": "Sengon adalah sejenis pohon anggota famili Fabaceae. Pohon peneduh dan penghasil kayu ini tersebar secara alami di India, Asia Tenggara, Tiongkok selatan, dan Indonesia."
     }
   },
   "edible": {
@@ -107,7 +125,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -157,7 +175,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/473204-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -165,7 +183,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/473204-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000182103.webp",
@@ -178,6 +196,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 230,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

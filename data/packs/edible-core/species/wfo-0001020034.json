@@ -8,7 +8,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -19,27 +19,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1035039",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1035039",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ウルピカ」",
+      "source": "Wikipedia (ja): ウルピカ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%83%94%E3%82%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106350375,
       "text": "ウルピカ は、南米ボリビアでとれる唐辛子の一種である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Capsicum cardenasii」",
+      "source": "Wikipedia (en): Capsicum cardenasii",
       "source_url": "https://en.wikipedia.org/wiki/Capsicum_cardenasii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1082168047,
       "text": "Capsicum cardenasii is a plant species in the genus Capsicum and the family Solanaceae. It is a diploid with 2n=2x=24. It is a member within the C. pubescens complex, a group of closely related Capsicum species. It is closely related to C. eximium. It is native to the Andes, and it can be found in Bolivia and Peru. The native name is ulupica."
+    },
+    "es": {
+      "source": "Wikipedia (es): Capsicum cardenasii",
+      "source_url": "https://es.wikipedia.org/wiki/Capsicum_cardenasii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175008681,
+      "text": "Capsicum cardenasii es una variedad de ají cuyo nombre nativo es ulupica es una especie botánica de la familia solanaceae. Crece de forma silvestre únicamente en la región de los valles de Bolivia."
     }
   },
   "edible": {
@@ -51,7 +60,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -61,7 +70,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/44866-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -69,7 +78,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/44866-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001020034.webp",
@@ -82,6 +91,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

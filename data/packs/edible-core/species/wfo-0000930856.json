@@ -31,95 +31,40 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "シダレヤナギ"
     ],
-    "ca": [
-      "Desmai"
-    ],
-    "cs": [
-      "vrba babylónská"
-    ],
-    "de": [
-      "(Echte) Trauerweide",
-      "Echte Trauerweide"
-    ],
-    "en": [
-      "Peking Willow",
-      "Weeping Willow"
-    ],
-    "es": [
-      "Sauce llorón"
-    ],
-    "eu": [
-      "Zume negarti"
-    ],
-    "fi": [
-      "Itkupaju"
-    ],
     "fr": [
-      "Saule pleureur"
-    ],
-    "gl": [
-      "Salgueiro chorón"
-    ],
-    "hr": [
-      "Žalosna vrba"
-    ],
-    "hsb": [
-      "Wisata wjerba"
-    ],
-    "hu": [
-      "Babiloni szomorúfűz"
-    ],
-    "is": [
-      "Grátvíðir"
-    ],
-    "it": [
-      "Salice piangente"
-    ],
-    "lt": [
-      "Svyruoklinis gluosnis"
-    ],
-    "nl": [
-      "Treurwilg",
-      "kronkelwilg"
+      "Saule pleureur",
+      "saule pleureur"
     ],
     "pt": [
       "Salgueiro-chorão"
     ],
-    "ru": [
-      "Ива вавилонская"
-    ],
-    "to": [
-      "hakoloaʻani"
-    ],
-    "tr": [
-      "Salkım söğüt"
-    ],
-    "zh": [
-      "垂柳",
-      "柳枝",
-      "垂柳（柳）",
-      "柳花",
-      "柳白皮",
-      "柳根",
-      "柳屑",
-      "柳絮",
-      "杨柳枝",
-      "柳"
-    ],
-    "sl": [
-      "vrba žalujka"
+    "eu": [
+      "Zume negarti"
     ],
     "ko": [
       "수양버들"
     ],
     "he": [
       "ערבת בבל"
+    ],
+    "hu": [
+      "babiloni szomorúfűz"
+    ],
+    "to": [
+      "Hakoloaʻani"
+    ],
+    "gl": [
+      "Salgueiro chorón"
+    ],
+    "de": [
+      "Echte Trauerweide",
+      "(Echte) Trauerweide"
     ],
     "sq": [
       "Shelgu pikëllues"
@@ -130,14 +75,36 @@
     "my": [
       "မိုးမခပင်"
     ],
+    "hsb": [
+      "Wisata wjerba"
+    ],
     "ar": [
       "صفصاف بابلي"
+    ],
+    "nl": [
+      "kronkelwilg",
+      "Treurwilg"
     ],
     "sv": [
       "Tårpil"
     ],
+    "is": [
+      "Grátvíðir"
+    ],
+    "ru": [
+      "Ива вавилонская"
+    ],
+    "tr": [
+      "Salkım söğüt"
+    ],
     "ro": [
       "Salcie pletoasă"
+    ],
+    "ca": [
+      "desmai"
+    ],
+    "fi": [
+      "Itkupaju"
     ],
     "uk": [
       "Верба плакуча"
@@ -151,8 +118,26 @@
     "ka": [
       "ძეწნა"
     ],
+    "hr": [
+      "Žalosna vrba"
+    ],
     "az": [
       "Babil söyüdü"
+    ],
+    "lt": [
+      "Svyruoklinis gluosnis"
+    ],
+    "zh": [
+      "垂柳",
+      "柳枝",
+      "垂柳（柳）",
+      "柳花",
+      "柳白皮",
+      "柳根",
+      "柳屑",
+      "柳絮",
+      "杨柳枝",
+      "柳"
     ],
     "af": [
       "Treurwilger"
@@ -177,6 +162,9 @@
     ],
     "hy": [
       "ուռենի բաբելոնական"
+    ],
+    "cs": [
+      "vrba babylónská"
     ],
     "azb": [
       "آغلار سؤیود"
@@ -213,13 +201,26 @@
     ],
     "ps": [
       "جړانگو"
+    ],
+    "sl": [
+      "vrba žalujka"
+    ],
+    "en": [
+      "Peking Willow",
+      "Weeping Willow"
+    ],
+    "es": [
+      "Sauce llorón"
+    ],
+    "it": [
+      "Salice piangente"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q156307",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q156307",
   "search_names": {
@@ -238,35 +239,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シダレヤナギ」",
+      "source": "Wikipedia (ja): シダレヤナギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%80%E3%83%AC%E3%83%A4%E3%83%8A%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109109321,
       "text": "シダレヤナギ は、ヤナギ科ヤナギ属の落葉高木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Salix babylonica」",
+      "source": "Wikipedia (en): Salix babylonica",
       "source_url": "https://en.wikipedia.org/wiki/Salix_babylonica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374742262,
       "text": "Salix babylonica is a species of willow native to dry areas of northern China, Korea, Mongolia, Japan, and Siberia but cultivated for millennia elsewhere in Asia, being traded along the Silk Road to southwest Asia and Europe."
+    },
+    "es": {
+      "source": "Wikipedia (es): Salix babylonica",
+      "source_url": "https://es.wikipedia.org/wiki/Salix_babylonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173954417,
+      "text": "El sauce llorón es un árbol que pertenece a la familia de las salicáceas y es nativo del este de Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Saule pleureur",
+      "source_url": "https://fr.wikipedia.org/wiki/Saule_pleureur",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238306218,
+      "text": "Le saule pleureur est une espèce de plantes à fleurs de la famille des Salicaceae. C'est un arbre dont le port retombant est caractéristique et en fait une espèce très appréciée comme arbre d'ornement notamment au bord des pièces d'eau. Ses longues branches-lianes pendantes sont souvent à tort décrites comme étant la cause de son appellation de « pleureur » qui tient en réalité au fait que des gouttes d’eau naissent à la jointures de ses feuilles, phénomène appelé « guttation ». C’est cependant sous le sens de « port retombant » que l’adjectif pleureur est passé dans le langage courant pour les arbres en général, et pas seulement le saule."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Salgueiro-chorão",
+      "source_url": "https://pt.wikipedia.org/wiki/Salgueiro-chor%C3%A3o",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71127292,
+      "text": "O chorão, salgueiro-chorão ou salso-chorão é o nome de uma árvore pertencente à família das Salicaceae ou salgueiros. Parece ser originária do Leste da Ásia. É uma árvore nativa do norte da China, mas cultivado há milénios em vários locais da Ásia, tendo sido disperso pelo homem ao longo da rota da seda até à Babilónia, daí o seu nome científico."
+    },
+    "id": {
+      "source": "Wikipedia (id): Salix babylonica",
+      "source_url": "https://id.wikipedia.org/wiki/Salix_babylonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29691888,
+      "text": "Salix babylonica adalah spesies dedalu yang berasal dari daerah kering di Cina utara, tetapi dibudidayakan selama ribuan tahun di tempat lain di Asia, diperdagangkan di sepanjang Jalur Sutra ke Asia barat daya dan Eropa."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Salix babylonica」の節「Cultivation」",
+        "source": "Wikipedia (en): Salix babylonica § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Salix_babylonica#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374742262,
         "heading": "Cultivation",
         "text": "Salix babylonica, especially its pendulous-branched (\"weeping\") form, has been introduced into many other areas, including Europe and the southeastern United States, but beyond China, it has not generally been as successfully cultivated as some of its hybrid derivatives, being sensitive to late-spring frosts.  In the more humid climates of much of Europe and eastern North America, it is susceptible to a canker disease, willow anthracnose (Marssonina salicicola), which makes infected trees very short-lived and unsightly.\n\n■ Cultivars\nSalix babylonica (Babylon willow) has many cultivars, including:\n\n'Babylon' (synonym: 'Napoleon') is the most widely grown cultivar of S. babylonica, with its typical weeping branches.\n'Crispa' (synonym: 'Annularis') is a mutant of 'Babylon', with spirally curled leaves.\nVarious cultivars of Salix matsudana (Chinese willow) are now often included within Salix babylonica, treated more broadly, including:\n\n'Pendula' is a weeping tree, with a silvery shine, hardier, and more disease resistant.\n'Tortuosa' is an upright tree with twisted and contorted branches, marketed as corkscrew willow.\nOther weeping willow cultivars are derived from interspecific Salix hybrids, including S. babylonica in their parentage.  The most widely grown weeping willow cultivar is Salix × sepulcralis 'Chrysocoma', with bright yellowish branchlets.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Salix babylonica § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Salix_babylonica#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29691888,
+        "heading": "Penanaman",
+        "text": "Salix babylonica, terutama bentuknya yang terjumbai (\"menangis\") bercabang, telah diperkenalkan ke banyak daerah lain, termasuk Eropa dan Amerika Serikat bagian tenggara, tetapi di luar Cina, umumnya tidak berhasil dibudidayakan seperti beberapa turunan hibridanya, sensitif terhadap embun beku akhir musim semi. Di iklim yang lebih lembap di sebagian besar Eropa dan Amerika Utara bagian timur, ia rentan terhadap penyakit kanker, yang membuat pohon yang terinfeksi berumur sangat pendek dan tidak sedap dipandang.",
         "truncated": false
       }
     }
@@ -282,7 +330,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -352,7 +400,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/777133-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -360,7 +408,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/777133-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000930856.webp",
@@ -373,6 +421,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -41,7 +41,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "en": [
@@ -51,55 +51,30 @@
       "Thornless honey locust",
       "Honey shuck"
     ],
-    "cs": [
-      "dřezovec trojtrnný"
+    "fr": [
+      "Févier d'Amérique"
     ],
-    "da": [
-      "Almindelig Tretorn"
+    "pt": [
+      "Acacia americana"
     ],
     "eo": [
       "Kristodorna glediĉio"
     ],
-    "es": [
-      "Acacia de tres espinas"
-    ],
-    "fi": [
-      "Kolmioka"
-    ],
-    "fr": [
-      "Févier d'Amérique"
-    ],
-    "it": [
-      "Spino di Giuda"
-    ],
-    "nl": [
-      "Valse Christusdoorn"
-    ],
     "pl": [
-      "Iglicznia trójcierniowa",
-      "Glediczja trójcierniowa"
-    ],
-    "uk": [
-      "Гледичія колюча"
-    ],
-    "zh": [
-      "美国皂荚",
-      "皂荚子"
-    ],
-    "ast": [
-      "alcacia de tres escayos"
-    ],
-    "sl": [
-      "trnata gledičevka"
-    ],
-    "pt": [
-      "Acacia americana"
+      "Glediczja trójcierniowa",
+      "Iglicznia trójcierniowa"
     ],
     "ru": [
       "Гледичия трёхколючковая"
     ],
     "ca": [
       "acàcia de tres punxes"
+    ],
+    "fi": [
+      "Kolmioka"
+    ],
+    "uk": [
+      "Гледичія колюча"
     ],
     "de": [
       "Amerikanische Gleditschie"
@@ -118,6 +93,19 @@
     ],
     "nv": [
       "Naaztání"
+    ],
+    "da": [
+      "Almindelig Tretorn"
+    ],
+    "nl": [
+      "valse christusdoorn"
+    ],
+    "cs": [
+      "dřezovec trojtrnný"
+    ],
+    "zh": [
+      "美国皂荚",
+      "皂荚子"
     ],
     "kbd": [
       "Банэжыг"
@@ -173,15 +161,27 @@
     "sk": [
       "Gledíčia trojtŕňová"
     ],
+    "sl": [
+      "trnata gledičevka"
+    ],
     "he": [
       "גלדציה תלת-קוצית"
+    ],
+    "es": [
+      "Acacia de tres espinas"
+    ],
+    "it": [
+      "Spino di Giuda"
+    ],
+    "ast": [
+      "alcacia de tres escayos"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157650",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157650",
   "search_names": {
@@ -192,23 +192,59 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Honey locust」",
+      "source": "Wikipedia (en): Honey locust",
       "source_url": "https://en.wikipedia.org/wiki/Honey_locust",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370684685,
       "text": "The honey locust, also known as the thorny locust or thorny honeylocust, is a deciduous tree in the family Fabaceae, native to central North America where it is mostly found in the moist soil of river valleys. Honey locust trees are highly adaptable to different environments, and the species has been introduced worldwide. Outside its natural range it can be an aggressive, damaging invasive species."
+    },
+    "es": {
+      "source": "Wikipedia (es): Gleditsia triacanthos",
+      "source_url": "https://es.wikipedia.org/wiki/Gleditsia_triacanthos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174108307,
+      "text": "Gleditsia triacanthos, la acacia de tres espinas, gleditsia de tres espinas, “acacia” negra, o \"acacia\" o \"algarrobo\" de miel es una especie de árbol caducifolio de la familia Fabaceae. Se caracteriza por presentar la vaina de sus semillas una pulpa dulce, cuyo sabor y textura recuerda a la miel."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Févier d'Amérique",
+      "source_url": "https://fr.wikipedia.org/wiki/F%C3%A9vier_d'Am%C3%A9rique",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240163552,
+      "text": "Gleditsia triacanthos, le Févier d'Amérique, est une espèce de plantes à fleurs dicotylédones de la famille des Fabaceae (légumineuses), de la sous-famille des Caesalpinioideae, originaire de la région allant du centre-ouest et de l’est des États-Unis jusqu’au Mexique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Gleditsia triacanthos",
+      "source_url": "https://pt.wikipedia.org/wiki/Gleditsia_triacanthos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205748,
+      "text": "Gleditsia triacanthos (espinheiro-da-Virgínia) é uma espécie de planta com flor pertencente à família Fabaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Gleditsia triacanthos",
+      "source_url": "https://id.wikipedia.org/wiki/Gleditsia_triacanthos",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29397842,
+      "text": "Gleditsia triacanthos merupakan pohon gugur dari famili Fabaceae yang berasal dari wilayah tengah Amerika Utara, terutama tumbuh di tanah lembap sepanjang lembah sungai. Jenis ini memiliki kemampuan beradaptasi yang sangat tinggi terhadap berbagai kondisi lingkungan, sehingga telah dibudidayakan dan tersebar ke banyak bagian dunia. Namun, di luar habitat aslinya, pohon ini dapat berkembang menjadi spesies invasif yang agresif dan berdampak merugikan."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Honey locust」の節「Cultivation」",
+        "source": "Wikipedia (en): Honey locust § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Honey_locust#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1370684685,
         "heading": "Cultivation",
         "text": "Due to the honey locust's tolerance of urban problems such as salt spray, compacted soils, poor aeration, constrained planting areas, and pollution, it has been widely planted in cities. In addition it will adapt to relatively dry conditions and either alkaline or acidic soils. Once established it is also drought tolerant, though it grows best with good moisture. It was very widely planted as a replacement for American elm trees killed by Dutch elm disease, becoming somewhat overplanted in the 1970s.\nHowever, due to its wide planting many problems have been discovered. Like maples and oaks, honey locust is particularly vulnerable to Ganoderma root rots, a fungal infection of the roots and lower trunk of the tree. Three insects are the main pests that attack the honey locusts in urban areas, honeylocust plant bug (Blepharidopterus chlorionis), mimosa webworm (Homadaula anisocentra), and honeylocust spider mite (Platytetranychus multidigituli). Thornless cultivars are especially susceptible to damage by the Asian mimosa webworm. Though healthy trees are able to withstand one or two years of complete defoliation, stressed trees may be killed. The number of honey locust trees within 10 meters (33 ft) increases attacks by the webworms as does the amount of impermeable hardscape surfaces out to 20 m (66 ft) from a tree.\n\n■ Cultivars\nAlmost all varieties cultivated after 1950 do not have thorns.\n\n■ Beatrice\nA cultivar that has been nearly or wholly unavailable in the plant trade since the 1980s. It was sourced from a then 50-year-old tree in Beatrice, Nebraska by the Inter-State Nursery of Hamburg, Iowa in 1955. This cultivar is shaped similarly to an American elm with a wide, spreading top and is also thornless and nearly pod free.",
@@ -230,7 +266,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -340,7 +376,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/110723-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -348,7 +384,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/110723-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000168133.webp",
@@ -361,6 +397,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 312,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

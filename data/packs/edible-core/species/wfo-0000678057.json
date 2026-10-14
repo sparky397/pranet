@@ -10,33 +10,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Sea-holly",
-      "seaside eryngo"
-    ],
-    "de": [
-      "Strand-Mannstreu",
-      "Strandmannstreu",
-      "Stranddistel"
-    ],
     "fr": [
-      "Panicaut de mer",
-      "Panicaut maritime"
-    ],
-    "nl": [
-      "blauwe zeedistel"
-    ],
-    "zh": [
-      "滨海刺芹"
-    ],
-    "ast": [
-      "cardu mar"
-    ],
-    "sl": [
-      "obmorska možina"
+      "Panicaut maritime",
+      "Panicaut de mer"
     ],
     "pl": [
       "Mikołajek nadmorski"
@@ -53,6 +32,11 @@
     "co": [
       "Cardu marinu"
     ],
+    "de": [
+      "Stranddistel",
+      "Strand-Mannstreu",
+      "Strandmannstreu"
+    ],
     "nn": [
       "strandtorn"
     ],
@@ -64,6 +48,9 @@
     ],
     "sv": [
       "Martorn"
+    ],
+    "nl": [
+      "blauwe zeedistel"
     ],
     "ja": [
       "ヒイラギサイコ"
@@ -125,15 +112,28 @@
     "arz": [
       "قرصعنه بحريه"
     ],
+    "zh": [
+      "滨海刺芹"
+    ],
+    "sl": [
+      "obmorska možina"
+    ],
     "el": [
       "Ερύγγιο το παράλιο"
+    ],
+    "en": [
+      "Sea-holly",
+      "seaside eryngo"
+    ],
+    "ast": [
+      "cardu mar"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q21110",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q21110",
   "search_names": {
@@ -144,13 +144,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Eryngium maritimum」",
+      "source": "Wikipedia (en): Eryngium maritimum",
       "source_url": "https://en.wikipedia.org/wiki/Eryngium_maritimum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375290777,
       "text": "Eryngium maritimum, also called the sea holly, sea eryngo, or sea eryngium, is a perennial species of flowering plant in the carrot family Apiaceae, native to the coasts of most of Europe and the Mediterranean. Its prickly holly-like leaves and compact flower heads give it the appearance of a thistle. Despite its common name, it is not a holly but an umbellifer."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eryngium maritimum",
+      "source_url": "https://es.wikipedia.org/wiki/Eryngium_maritimum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171665879,
+      "text": "El cardo de mar o cardo marino es una planta perenne de la familia de las apiáceas. Es nativa de las regiones costeras de Europa, cultivada frecuentemente en jardinería por sus flores de color azul violáceo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Panicaut maritime",
+      "source_url": "https://fr.wikipedia.org/wiki/Panicaut_maritime",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238933958,
+      "text": "Le Panicaut maritime ou Chardon bleu des dunes, est une espèce de plantes herbacées de la famille des Apiacées. Cette espèce florale est une des plus emblématiques des littoraux français, en particulier des côtes sableuses mais elle régresse en raison de la surfréquentation littorale, ce qui explique que le Conservatoire du littoral en a fait son emblème."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eryngium maritimum",
+      "source_url": "https://pt.wikipedia.org/wiki/Eryngium_maritimum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70913186,
+      "text": "Eryngium maritimum, comummente conhecido como cardo-rolador ou cardo-marítimo, é uma espécie de planta herbácea, vivaz, pertencente à família das umbelíferas e ao tipo fisionómico dos hemicriptófitos."
     }
   },
   "edible": {
@@ -162,7 +189,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -217,7 +244,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/841903-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -225,7 +252,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/841903-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000678057.webp",
@@ -238,6 +265,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

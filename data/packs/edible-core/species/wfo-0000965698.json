@@ -10,13 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "玻利维亚菜椰",
-      "串珠埃塔棕"
-    ],
     "qu": [
       "Wasay"
     ],
@@ -25,13 +21,17 @@
     ],
     "arz": [
       "يوتيربريكاتوريا"
+    ],
+    "zh": [
+      "玻利维亚菜椰",
+      "串珠埃塔棕"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q289828",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q289828",
   "search_names": {
@@ -43,13 +43,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Euterpe precatoria」",
+      "source": "Wikipedia (en): Euterpe precatoria",
       "source_url": "https://en.wikipedia.org/wiki/Euterpe_precatoria",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314284753,
       "text": "Euterpe precatoria is a tall, slender-stemmed, pinnate-leaved palm native to Central and South America and Trinidad and Tobago. E. precatoria is used commercially to produce fruits, although Euterpe oleracea is more commonly cultivated due to its larger fruits."
+    },
+    "es": {
+      "source": "Wikipedia (es): Euterpe precatoria",
+      "source_url": "https://es.wikipedia.org/wiki/Euterpe_precatoria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 157141184,
+      "text": "Euterpe precatoria es una especie botánica de palmeras, conocida comúnmente como palmito, manaca, chonta, asaí de la selva o huasaí; nativa de Sudamérica, específicamente de la Amazonía peruana, boliviana y brasileña. Está distribuida también por Centroamérica, las Antillas y el norte de Suramérica. Su consumo data de tiempos precolombinos y es un alimento muy importante en la dieta amazónica. Su cultivo intensivo se ha extendido dentro del territorio brasileño, durante los años 1980 y 1990."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Euterpe precatoria",
+      "source_url": "https://fr.wikipedia.org/wiki/Euterpe_precatoria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207978442,
+      "text": "Euterpe precatoria est une espèce de palmiers aux feuilles pennées originaire d'Amérique du Sud et d'Amérique centrale. Ce palmier est utilisé commercialement pour produire des fruits, bien que Euterpe oleracea est plus couramment cultivé à cause de la taille plus importante de son fruit."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Euterpe precatoria",
+      "source_url": "https://pt.wikipedia.org/wiki/Euterpe_precatoria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70155994,
+      "text": "O açaizeiro, açaí-do-amazonas ou açaí-solitário é uma espécie botânica de palmeira, nativa da América do Sul, especificamente da Amazônia. Está distribuída também por América Central, as Antilhas e por a bacia Amazônica."
     }
   },
   "edible": {
@@ -66,7 +93,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -86,7 +113,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/666949-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -94,7 +121,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/666949-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000965698.webp",
@@ -107,6 +134,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 311,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

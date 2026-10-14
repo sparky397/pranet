@@ -19,7 +19,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -29,7 +29,22 @@
       "Peanut",
       "peanut"
     ],
+    "fr": [
+      "Arachide",
+      "arachide"
+    ],
+    "pt": [
+      "Amendoim",
+      "amendoim"
+    ],
+    "id": [
+      "Kacang tanah"
+    ],
+    "lb": [
+      "Kakuett"
+    ],
     "zh": [
+      "花生",
       "落花生",
       "長生果",
       "土豆",
@@ -37,37 +52,18 @@
       "花生衣",
       "花生油",
       "落花生枝叶",
-      "花生",
       "落花生根"
-    ],
-    "fi": [
-      "satomaapähkinä",
-      "maapähkinä"
-    ],
-    "pl": [
-      "orzacha podziemna",
-      "orzech ziemny",
-      "orzech arachidowy"
-    ],
-    "dag": [
-      "sima",
-      "Simli"
-    ],
-    "ast": [
-      "cacagüés",
-      "cacagüesa"
-    ],
-    "sl": [
-      "zemeljski orešek"
-    ],
-    "lb": [
-      "Kakuett"
     ],
     "jv": [
       "Kacang brol"
     ],
     "eu": [
       "Kakahuete"
+    ],
+    "pl": [
+      "orzacha podziemna",
+      "orzech ziemny",
+      "orzech arachidowy"
     ],
     "qu": [
       "Inchik"
@@ -108,9 +104,6 @@
     "ar": [
       "فول سوداني"
     ],
-    "pt": [
-      "amendoim"
-    ],
     "eo": [
       "Ternukso"
     ],
@@ -134,6 +127,10 @@
     ],
     "mk": [
       "кикиритка"
+    ],
+    "fi": [
+      "maapähkinä",
+      "satomaapähkinä"
     ],
     "uk": [
       "арахіс культурний"
@@ -174,9 +171,6 @@
     "ko": [
       "땅콩"
     ],
-    "fr": [
-      "arachide"
-    ],
     "lv": [
       "zemesrieksts"
     ],
@@ -188,9 +182,6 @@
     ],
     "de": [
       "Erdnuss"
-    ],
-    "id": [
-      "Kacang tanah"
     ],
     "ml": [
       "നിലക്കടല"
@@ -423,6 +414,10 @@
     "bkm": [
       "beleŋ"
     ],
+    "dag": [
+      "Simli",
+      "sima"
+    ],
     "sg": [
       "Kârâkö"
     ],
@@ -513,6 +508,9 @@
     "mos": [
       "Nanguri"
     ],
+    "sl": [
+      "zemeljski orešek"
+    ],
     "kcg": [
       "shyui"
     ],
@@ -569,13 +567,17 @@
     ],
     "ary": [
       "كاوكاو"
+    ],
+    "ast": [
+      "cacagüés",
+      "cacagüesa"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q37383",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q37383",
   "search_names": {
@@ -603,46 +605,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ラッカセイ」",
+      "source": "Wikipedia (ja): ラッカセイ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%83%E3%82%AB%E3%82%BB%E3%82%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111001823,
       "text": "ラッカセイ は、マメ亜科ラッカセイ属の一年草。他のマメ科作物と違い、花が終わると子房柄が地中に潜るように伸びて、その先にサヤができて豆ができるのが特徴。植物学上の標準和名はナンキンマメ（南京豆）、食用にされる種子は、ピーナッツともいう。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Peanut」",
+      "source": "Wikipedia (en): Peanut",
       "source_url": "https://en.wikipedia.org/wiki/Peanut",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378922028,
       "text": "The peanut, also known as the groundnut, goober, goober pea, pindar or monkey nut (UK), is a legume crop grown mainly for its edible seeds, contained in underground pods. It is widely grown in the tropics and subtropics by small and large commercial producers, both as a grain legume and as an oil crop. Underground fruiting (geocarpy) is atypical among legumes, which led botanist Carl Linnaeus to name the species hypogaea, from Greek 'under the earth'."
+    },
+    "es": {
+      "source": "Wikipedia (es): Arachis hypogaea",
+      "source_url": "https://es.wikipedia.org/wiki/Arachis_hypogaea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174787823,
+      "text": "Arachis hypogaea, comúnmente conocida como maní, cacahuate, caguate o cacahuete, es una planta de la familia Fabaceae, comúnmente conocida como la familia de las legumbres, frijoles o guisantes. Al igual que la mayoría de las otras legumbres, los maníes albergan bacterias fijadoras de nitrógeno en nódulos radicales, que mejoran la fertilidad del suelo, lo que los hace valiosos en las rotaciones de cultivos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Arachide",
+      "source_url": "https://fr.wikipedia.org/wiki/Arachide",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238637784,
+      "text": "L'arachide, dont le fruit s'appelle selon les régions francophones du monde, cacahuète, cacahouète, arachide, pois de terre, pistache de terre ou pinotte, est une plante de la famille des légumineuses originaire du nord-ouest de l'Argentine et du sud-est de la Bolivie et cultivée dans les régions tropicales, subtropicales et tempérées pour ses graines oléagineuses. Elle présente la particularité d’enterrer ses fruits après la fécondation."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Amendoim",
+      "source_url": "https://pt.wikipedia.org/wiki/Amendoim",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72839033,
+      "text": "O amendoim é uma planta da família Fabaceae. A planta do amendoim é uma planta herbácea, com caule pequeno e folhas compostas e pinadas, contendo quatro folíolos de formato elíptico e com inserção alternada. Possui abundante indumento, raiz aprumada, medindo entre 30–50 cm de profundidade. As flores são pequenas e amareladas e, depois de fecundadas, penetram no solo, com a ajuda de uma estrutura denominada ginóforo e de um fenómeno conhecido como geocarpia, onde os legumes se desenvolvem subterraneamente. O fruto é uma vagem."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kacang tanah",
+      "source_url": "https://id.wikipedia.org/wiki/Kacang_tanah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30011278,
+      "text": "Kacang tanah adalah tanaman anggota suku Fabaceae yang dibudidayakan, serta menjadi kacang-kacangan kedua terpenting setelah kedelai di Indonesia. Tanaman yang berasal dari benua Amerika ini tumbuh secara perdu setinggi 30 hingga 50 cm dengan daun-daun kecil tersusun majemuk."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ラッカセイ」の節「栽培」",
+        "source": "Wikipedia (ja): ラッカセイ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%83%E3%82%AB%E3%82%BB%E3%82%A4#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111001823,
         "heading": "栽培",
         "text": "ラッカセイは比較的作りやすい作物で、春に種を播いて育て、秋に地中になった殻ごと掘り上げて収穫する。砂質でやわらかい土壌を好み、栽培適温は25 - 27度とされる。肥料過多になると茎葉ばかりが茂り、実がつかなくなる状態（いわゆるボケ）になりやすいので、元肥は入れずに植え付ける。植え付けの2週間前に苦土石灰などをまいて、酸性土を中和させると実つきがよくなる。土壌線虫や茎葉病害による連作を嫌うため、3 - 4年はマメ科作物を作っていない畑で育てられる。\n播種の適期は4月中旬から6月上旬ごろで、畝に30 cm間隔で水に浸していた種を1カ所に2、3粒ずつ点まきして、土を5 cmくらいかけて鎮圧する。種をまく前に、あらかじめ種子を一晩水につけて吸水させておくことで、発芽が揃うようになる。まいた種が鳥の食害に遭うことを避けるために、育苗ポットに種を1粒ずつまいて育てる方法もある。7 - 10日で発芽するが、間引きは行わずに本葉が3 - 4枚になったら約30センチメートル (cm) 間隔で畝を作った畑に定植する。畑に直まきした場合は、不織布などをベタ掛けすると鳥の食害除けになる。\n苗が生長して、主茎の9節目ぐらいで摘芯しておくと側枝が出て収量が増やせる。肥料が不足すると実が育ちにくくなることから、開花が始まる初夏から追肥を始め、開花する前に中耕して株のまわりに土寄せを行うことで、開花後の子房が地中に入りやすくなる。花が終わると、子房の柄が伸びて地中に入り実が膨らむ。\n秋に葉が黄色くなってきて、地中のサヤがしっかり膨らんでに網目が出ていたら収穫時期となる。収穫方法は、株元にスコップを入れて茎を持って引き抜くようにする。そのまま逆さまにして5日ほど畑に放置して乾燥させ、振るとカラカラ音を立てるようになったらサヤを外して水洗いするして貯蔵する。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Peanut」の節「Cultivation」",
+        "source": "Wikipedia (en): Peanut § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Peanut#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378922028,
         "heading": "Cultivation",
         "text": "■ Agronomy\n\nPeanuts grow best in light, sandy loam soil with a pH of 5.9–7. Their capacity to fix nitrogen means that providing they nodulate properly, peanuts benefit little or not at all from nitrogen-containing fertilizer, and they improve soil fertility. Therefore, they are valuable in crop rotations. Also, the yield of the peanut crop itself is increased in rotations through reduced diseases, pests, and weeds. For example, in Texas, peanuts in a three-year rotation with corn yield 50% more than non-rotated peanuts. Adequate levels of phosphorus, potassium, calcium, magnesium, and micronutrients are also necessary for good yields. Peanuts need warm weather throughout the growing season to develop well. They can be grown with as little as 350 mm (14 in) of water, but for best yields need at least 500 mm (20 in). Depending on growing conditions and the cultivar of peanut, harvest is usually 90 to 130  days after planting for subspecies A. h. fastigiata types, and 120 to 150 days after planting for subspecies A. h. hypogaea types.\nPeanut plants continue to produce flowers when pods are developing; therefore, some pods are immature even when they are ready for harvest. To maximize yield, the timing of harvest is important. If it is too early, too many pods will be unripe; if too late, the pods will snap off at the stalk and remain in the soil. For harvesting, the entire plant, including most of the roots, is removed from the soil.\nThe main yield-limiting factors in semi-arid regions are drought and high-temperature stress. The stages of reproductive development before flowering, at flowering, and at early pod development are particularly sensitive to these constraints.",
+        "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Arachis hypogaea § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Arachis_hypogaea#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174787823,
+        "heading": "Cultivo",
+        "text": "Se siembra a finales de primavera y se recolecta a finales de otoño. Su cultivo se viene realizando desde épocas remotas, pues los pueblos indígenas lo cultivaron, tal y como queda reflejado en los descubrimientos arqueológicos realizados en Pachacámac y otros puntos del Perú. Allí se hallaron representaciones del inchik en piezas de alfarería y vasijas. En África, se difundió con rapidez y pasó a ser un alimento básico en la dieta de numerosos países, razón por la cual algunos autores sitúan erróneamente el origen del maní en este continente. Las cáscaras, obtenidas como subproducto, se emplean como combustible.\n\nHoy en día, los principales países de cultivo son China y la India, donde se utiliza sobre todo como materia prima para la producción de «aceite de cacahuete».",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Arachide § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Arachide#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238637784,
+        "heading": "Culture",
+        "text": "Pour bien se développer, les cacahuètes ont besoin de temps chaud tout au long de la saison de croissance. Elles peuvent être cultivées avec seulement 350 mm d'eau mais pour de meilleurs rendements, il faut au moins 500 mm.\nLe cycle de culture dure de 90 à 150 jours selon les variétés. La floraison intervient environ un mois après le semis.\nLes cacahuètes ne poussent que dans des sols bien drainés et pas trop argileux pour éviter les pertes au moment de la récolte (arrachage). Le pH idéal est de 5,8. Les cacahuètes sont des légumineuses et peuvent satisfaire la totalité ou presque de leurs besoins en azote grâce à une relation de symbiose qu'elles entretiennent avec un type de bactérie (Rhizobium). Il faut inoculer ce rhizobium sur un sol qui en est dépourvu, à raison de 9 kg/ha pour obtenir une bonne nodulation (l'inoculant doit être épandu directement sur la semence dans la raie de semis).\nPour protéger le sol contre l'érosion par le vent et par l'eau, on y installe normalement une culture couvre-sol d'hiver (CIPAN) qui sera ensuite enfouie vers la fin avril, afin de lui laisser le temps de bien se décomposer avant les semailles de l'arachide.\nUne rotation des cultures sur 3 ans permet d'augmenter les rendements jusqu'à 50 % en comparaison avec une culture sans rotation.\nLes petits exploitants africains plantent souvent les cacahuètes avec une ou deux autres cultures, telles que le sorgho, le millet ou les pois sauvages. Les cultures se font en buttes (surélevées) séparées d'un mètre environ ; ce qui permet d'améliorer le drainage et facilite l'arrachage. Dans les régions de savane au nord de l'Afrique occidentale, elles sont généralement plantées en juin et récoltées en septembre ou octobre.",
         "truncated": true
       }
     }
@@ -664,7 +724,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -777,7 +837,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/318562-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -785,7 +845,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/318562-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000174378.webp",
@@ -798,6 +858,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 269,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

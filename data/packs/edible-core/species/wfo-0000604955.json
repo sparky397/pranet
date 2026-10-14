@@ -44,7 +44,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -58,49 +58,98 @@
       "Camphor tree",
       "Camphorwood"
     ],
-    "af": [
-      "kanferboom"
-    ],
-    "de": [
-      "Kampferbaum"
-    ],
-    "el": [
-      "Καμφορά"
-    ],
-    "fi": [
-      "Kamferipuu"
-    ],
     "fr": [
+      "Camphrier",
       "camphrier"
     ],
-    "it": [
-      "albero della canfora"
+    "id": [
+      "Camphora officinarum"
     ],
-    "ko": [
-      "녹나무"
+    "dv": [
+      "ކާފޫރު ގަސް"
+    ],
+    "nan": [
+      "Chiuⁿ-á"
+    ],
+    "ab": [
+      "Акамфараҵла"
     ],
     "pl": [
       "Cynamonowiec kamforowy"
     ],
+    "qu": [
+      "Alkachu"
+    ],
+    "be": [
+      "Камфоравае дрэва"
+    ],
+    "ko": [
+      "녹나무"
+    ],
+    "hu": [
+      "kámforfa"
+    ],
+    "de": [
+      "Kampferbaum"
+    ],
+    "vi": [
+      "Long não"
+    ],
+    "yue": [
+      "樟"
+    ],
+    "hsb": [
+      "Kamferowy štom"
+    ],
+    "sv": [
+      "kamferträd"
+    ],
+    "ar": [
+      "كافور"
+    ],
+    "nl": [
+      "kamferboom"
+    ],
+    "hi": [
+      "कपूर"
+    ],
     "pt": [
-      "canforeiro",
-      "canforeira"
+      "canforeira",
+      "canforeiro"
+    ],
+    "eo": [
+      "Kamforarbo"
     ],
     "ru": [
       "Камфорное дерево",
       "камфорный лавр"
     ],
-    "sv": [
-      "Kamferträd"
-    ],
     "tr": [
       "Kafur ağacı"
     ],
+    "ca": [
+      "camforer"
+    ],
+    "fi": [
+      "kamferipuu"
+    ],
+    "sl": [
+      "kafrovec"
+    ],
+    "cs": [
+      "kafrovník lékařský"
+    ],
+    "bg": [
+      "камфорово дърво"
+    ],
+    "ne": [
+      "कपुरको रूख"
+    ],
     "zh": [
+      "樟树",
       "本樟",
       "栳樟",
       "樟仔",
-      "樟树",
       "香樟",
       "鸟樟",
       "樟樹",
@@ -118,60 +167,6 @@
       "桉油",
       "走马胎"
     ],
-    "sl": [
-      "kafrovec"
-    ],
-    "dv": [
-      "ކާފޫރު ގަސް"
-    ],
-    "nan": [
-      "Chiuⁿ-á"
-    ],
-    "ab": [
-      "Акамфараҵла"
-    ],
-    "qu": [
-      "Alkachu"
-    ],
-    "be": [
-      "Камфоравае дрэва"
-    ],
-    "hu": [
-      "kámforfa"
-    ],
-    "vi": [
-      "Long não"
-    ],
-    "yue": [
-      "樟"
-    ],
-    "hsb": [
-      "Kamferowy štom"
-    ],
-    "ar": [
-      "كافور"
-    ],
-    "nl": [
-      "kamferboom"
-    ],
-    "hi": [
-      "कपूर"
-    ],
-    "eo": [
-      "Kamforarbo"
-    ],
-    "ca": [
-      "camforer"
-    ],
-    "cs": [
-      "kafrovník lékařský"
-    ],
-    "bg": [
-      "камфорово дърво"
-    ],
-    "ne": [
-      "कपुरको रूख"
-    ],
     "ku": [
       "Dara kamfûrê"
     ],
@@ -180,6 +175,9 @@
     ],
     "nb": [
       "Kamfertre"
+    ],
+    "af": [
+      "Kanferboom"
     ],
     "gl": [
       "Alcanforeira"
@@ -264,13 +262,19 @@
     ],
     "mnc": [
       "ᠵᠠᠩᡤᠠ ᠮᠣᠣ"
+    ],
+    "el": [
+      "Καμφορά"
+    ],
+    "it": [
+      "albero della canfora"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158722",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158722",
   "search_names": {
@@ -287,22 +291,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「クスノキ」",
+      "source": "Wikipedia (ja): クスノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B9%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110541045,
       "text": "クスノキ（樟、楠）は、クスノキ科の常緑高木の1種（図1）。クスともよばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Camphora officinarum」",
+      "source": "Wikipedia (en): Camphora officinarum",
       "source_url": "https://en.wikipedia.org/wiki/Camphora_officinarum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376614537,
       "text": "Camphora officinarum is a species of evergreen tree indigenous to warm temperate to subtropical regions of East Asia, including countries such as China, Taiwan, Vietnam, Korea, Japan and India. It is known by various names, most notably the camphor tree, camphorwood or camphor laurel."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cinnamomum camphora",
+      "source_url": "https://es.wikipedia.org/wiki/Cinnamomum_camphora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173628122,
+      "text": "Cinnamomum camphora, alcanforero o canforeira, es un árbol de la familia de las lauráceas que puede llegar a alcanzar dimensiones del orden de los veinte metros."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Camphrier",
+      "source_url": "https://fr.wikipedia.org/wiki/Camphrier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236197756,
+      "text": "Le camphrier, aussi connu sous les divers noms vernaculaires de arbre à camphre, bois de Shiu, laurier de Chine ou encore ravintsara, une espèce de plantes à fleurs de la famille du laurier (Lauraceae). C'est un arbre dont on extrait le camphre par distillation de son bois, le bois de Hô et le ravintsara selon le chimiotype de l'arbre."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cinnamomum camphora",
+      "source_url": "https://pt.wikipedia.org/wiki/Cinnamomum_camphora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70156101,
+      "text": "Cinnamomum camphora (L.) J. Presl, conhecida pelo nome comum de canforeira, é uma árvore de grande porte, que pode atingir os 20 m de altura, pertencente à família Lauraceae e ao género Cinnamomum, o mesmo da árvore que produz a canela. Esta árvore é nativa do Extremo Oriente, particularmente do Taiwan, do Japão e da China meridional. A espécie é rica em óleos essenciais, sendo cultivada como árvore ornamental e para produção de cânfora."
+    },
+    "id": {
+      "source": "Wikipedia (id): Camphora officinarum",
+      "source_url": "https://id.wikipedia.org/wiki/Camphora_officinarum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29802554,
+      "text": "Camphora officinarum adalah pohon malar hijau besar yang tumbuh setinggi 20–30 m (66–98 ft). Daunnya memiliki tampilan mengilat dan melilin, serta bau kapur barus saat dilumatkan. Di musim semi, C. camphora menghasilkan daun berwarna hijau terang dengan massa bunga putih kecil. C. camphora menghasilkan gugusan buah hitam seperti beri dengan diameter sekitar 1 cm (0,39 in). Kulit kayu yang pucat sangat kasar dan retakan vertikal."
     }
   },
   "edible": {
@@ -318,7 +358,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -370,7 +410,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77328940-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -378,7 +418,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77328940-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000604955.webp",
@@ -391,6 +431,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

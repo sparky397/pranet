@@ -12,7 +12,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -20,57 +20,24 @@
       "aka-matsu",
       "me-matsu"
     ],
-    "ko": [
-      "소나무",
-      "sonamu"
+    "fr": [
+      "Pin rouge du Japon"
     ],
-    "zh": [
-      "赤松",
-      "chi song",
-      "松节",
-      "松花",
-      "松香",
-      "松节油",
-      "松球",
-      "松笔头",
-      "松根",
-      "松油"
+    "pl": [
+      "sosna gęstokwiatowa"
+    ],
+    "udm": [
+      "Япониысь горд пужым"
     ],
     "ru": [
       "Сосна густоцветная"
     ],
-    "en": [
-      "Japanese Red Pine"
+    "ko": [
+      "소나무",
+      "sonamu"
     ],
     "de": [
-      "Japanische Rotkiefer"
-    ],
-    "fr": [
-      "Pin rouge du Japon"
-    ],
-    "nl": [
-      "Japanse rode den"
-    ],
-    "fi": [
-      "Japaninpunamänty"
-    ],
-    "nb": [
-      "Japansk rødfuru"
-    ],
-    "pl": [
-      "Sosna gęstokwiatowa"
-    ],
-    "it": [
-      "pino rosso del Giappone"
-    ],
-    "sv": [
-      "japansk tall"
-    ],
-    "sl": [
-      "japonski rdeči bor"
-    ],
-    "udm": [
-      "Япониысь горд пужым"
+      "japanische Rotkiefer"
     ],
     "mrj": [
       "Япони якшар йӓктӹ"
@@ -86,6 +53,24 @@
     ],
     "ar": [
       "صنوبر كثيف الأزهار"
+    ],
+    "nl": [
+      "Japanse rode den"
+    ],
+    "nb": [
+      "Japansk rødfuru"
+    ],
+    "zh": [
+      "赤松",
+      "chi song",
+      "松节",
+      "松花",
+      "松香",
+      "松节油",
+      "松球",
+      "松笔头",
+      "松根",
+      "松油"
     ],
     "hu": [
       "japán erdeifenyő"
@@ -108,6 +93,9 @@
     "he": [
       "אורן אדום"
     ],
+    "fi": [
+      "japaninpunamänty"
+    ],
     "arz": [
       "صنوبر كثيف الازهار"
     ],
@@ -116,13 +104,25 @@
     ],
     "ur": [
       "جاپانی سرخ صنوبر"
+    ],
+    "sl": [
+      "japonski rdeči bor"
+    ],
+    "en": [
+      "Japanese Red Pine"
+    ],
+    "it": [
+      "pino rosso del Giappone"
+    ],
+    "sv": [
+      "japansk tall"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1044186",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1044186",
   "search_names": {
@@ -138,22 +138,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アカマツ」",
+      "source": "Wikipedia (ja): アカマツ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%9E%E3%83%84",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111057283,
       "text": "アカマツ は、マツ科マツ属の常緑針葉樹である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pinus densiflora」",
+      "source": "Wikipedia (en): Pinus densiflora",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_densiflora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375581155,
       "text": "Pinus densiflora, also called the Japanese red pine, the Japanese pine, or Korean red pine, is a species of pine, a conifer in the family Pinaceae native to East Asia and Siberia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus densiflora",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_densiflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175032949,
+      "text": "Pinus densiflora, el pino rojo japonés, es una especie arbórea de la familia de las pináceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pin rouge du Japon",
+      "source_url": "https://fr.wikipedia.org/wiki/Pin_rouge_du_Japon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239108059,
+      "text": "Le pin rouge du Japon ou pin parasol du Japon est un arbre appartenant à la famille des Pinacées et au genre Pinus. Il est originaire du nord-est de la Chine, de Corée, du Japon et de Russie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus densiflora",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_densiflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63761253,
+      "text": "Pinus densiflora é uma espécie de pinheiro originária do Velho Mundo, mais precisamente da região da Ásia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pinus densiflora",
+      "source_url": "https://id.wikipedia.org/wiki/Pinus_densiflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29638499,
+      "text": "Pinus densiflora, juga disebut pinus merah jepang, pinus jepang, atau pinus merah korea, adalah spesies pohon pinus yang berasal dari Asia Timur. Di Tiongkok pohon ini dikenal sebagai 赤松."
     }
   },
   "edible": {
@@ -167,7 +203,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -182,7 +218,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262894-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -190,7 +226,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262894-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000481256.webp",
@@ -203,6 +239,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

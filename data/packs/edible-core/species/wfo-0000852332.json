@@ -12,39 +12,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "ceirchen wyllt y gaeaf"
-    ],
-    "en": [
-      "animated oat"
+    "de": [
+      "Tauber Hafer"
     ],
     "nl": [
       "Wilde haver"
-    ],
-    "cs": [
-      "oves jalový"
-    ],
-    "et": [
-      "Viljatu kaer"
-    ],
-    "fi": [
-      "korukaura"
     ],
     "zh": [
       "不实野燕麦",
       "摩洛哥燕麦"
     ],
-    "sl": [
-      "jalovi oves"
-    ],
-    "de": [
-      "Tauber Hafer"
-    ],
     "sv": [
       "Storhavre"
+    ],
+    "cy": [
+      "Ceirchen wyllt y gaeaf"
     ],
     "ta": [
       "காட்டுக் காடைக்கண்ணி"
@@ -52,8 +37,17 @@
     "uk": [
       "Овес неплідний"
     ],
+    "cs": [
+      "oves jalový"
+    ],
     "fy": [
       "Oat"
+    ],
+    "et": [
+      "viljatu kaer"
+    ],
+    "fi": [
+      "korukaura"
     ],
     "af": [
       "Groot wildehawer"
@@ -69,13 +63,19 @@
     ],
     "pa": [
       "ਜੌਂਧਰ (ਜੰਗਲੀ ਜਵੀਂ)"
+    ],
+    "sl": [
+      "jalovi oves"
+    ],
+    "en": [
+      "animated oat"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1668559",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1668559",
   "search_names": {
@@ -85,13 +85,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Avena sterilis」",
+      "source": "Wikipedia (en): Avena sterilis",
       "source_url": "https://en.wikipedia.org/wiki/Avena_sterilis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370586496,
       "text": "Avena sterilis is a species of grass weed whose seeds are edible. Many common names of this plant refer to the movement of its panicle in the wind."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Avena sterilis",
+      "source_url": "https://fr.wikipedia.org/wiki/Avena_sterilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 189086939,
+      "text": "Avena sterilis, l'Avoine à grosses graines, est une plante herbacée de la famille des Poacées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Avena sterilis",
+      "source_url": "https://pt.wikipedia.org/wiki/Avena_sterilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63218760,
+      "text": "Avena sterilis é uma espécie de planta com flor pertencente à família Poaceae."
     }
   },
   "edible": {
@@ -107,7 +125,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -209,7 +227,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/391787-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -217,7 +235,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/391787-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000852332.webp",
@@ -230,6 +248,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 283,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

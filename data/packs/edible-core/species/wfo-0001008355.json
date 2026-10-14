@@ -79,7 +79,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -89,21 +89,8 @@
     "en": [
       "Apple"
     ],
-    "cs": [
-      "jabloň domácí"
-    ],
-    "fi": [
-      "tarhaomenapuu"
-    ],
-    "vec": [
-      "pomaro"
-    ],
-    "zh": [
-      "苹果",
-      "蘋果樹"
-    ],
-    "sl": [
-      "jablana"
+    "fr": [
+      "Pommier domestique"
     ],
     "nap": [
       "Mir"
@@ -113,6 +100,9 @@
     ],
     "bg": [
       "домашна ябълка"
+    ],
+    "cs": [
+      "jabloň domácí"
     ],
     "et": [
       "aed-õunapuu"
@@ -180,6 +170,9 @@
     "csb": [
       "Domôcô jabłónka"
     ],
+    "vec": [
+      "Pomaro"
+    ],
     "yue": [
       "蘋果樹"
     ],
@@ -188,6 +181,9 @@
     ],
     "jv": [
       "Apel"
+    ],
+    "fi": [
+      "tarhaomenapuu"
     ],
     "frr": [
       "Aapelbuum"
@@ -198,6 +194,10 @@
     "pl": [
       "jabłoń domowa"
     ],
+    "zh": [
+      "蘋果樹",
+      "苹果"
+    ],
     "cdo": [
       "Bìng-guō"
     ],
@@ -206,6 +206,9 @@
     ],
     "az": [
       "mədəni alma"
+    ],
+    "sl": [
+      "jablana"
     ],
     "vi": [
       "táo tây"
@@ -299,7 +302,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q18674606",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q18674606",
   "search_names": {
@@ -313,22 +316,64 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「リンゴ」",
+      "source": "Wikipedia (ja): リンゴ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%B4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111214394,
       "text": "リンゴ は、バラ科リンゴ属の落葉高木の一種、またはその果実（図1）のこと。作物群としては花托が肥大した部分を食用とする仁果類（仁果果実）に分類される果樹（果実）である。植物学上の和名では、セイヨウリンゴともよばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Apple」",
+      "source": "Wikipedia (en): Apple",
       "source_url": "https://en.wikipedia.org/wiki/Apple",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378395484,
       "text": "An apple is the round, edible fruit of an apple tree. Fruit trees of the orchard or domestic apple, the most widely grown in the genus, are cultivated worldwide. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found. Apples have been grown for thousands of years in Eurasia before they were introduced to the American continent by European colonists. Apples have cultural significance in many mythologies and religions."
+    },
+    "es": {
+      "source": "Wikipedia (es): Malus domestica",
+      "source_url": "https://es.wikipedia.org/wiki/Malus_domestica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175367719,
+      "text": "Malus domestica, el manzano europeo o manzano común, es un árbol de la familia de las rosáceas, cultivado por su fruto, apreciado como alimento. Su domesticación parece haber comenzado hace más de 15 000 años en la región comprendida al oeste de las montañas Tian Shan, frontera entre Kazajistán y China. Fue introducido en Europa por los romanos y en la actualidad existen unas 1000 variedades/cultivares, como resultado de innumerables hibridaciones entre formas silvestres. El fruto es una gran fuente de vitaminas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pommier domestique",
+      "source_url": "https://fr.wikipedia.org/wiki/Pommier_domestique",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240124986,
+      "text": "Le Pommier domestique ou Pommier commun, est une espèce de plantes à fleurs de la famille des Rosaceae. C'est un arbre fruitier largement cultivé pour ses fruits, les pommes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Malus domestica",
+      "source_url": "https://pt.wikipedia.org/wiki/Malus_domestica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69998324,
+      "text": "Malus domestica é uma espécie de planta com flor pertencente à família Rosaceae. Provinda da Ásia Central. O seu fruto é a maçã."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Malus domestica § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Malus_domestica#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175367719,
+        "heading": "Cultivo",
+        "text": "■ Historia\nEl origen de los manzanos, como el de muchas otras plantas cultivadas desde la antigüedad, es poco claro. Actualmente se acepta que en la formación los manzanos cultivados han intervenido, al menos, Malus sylvestris, Malus orientalis Uglitzk. y Malus sieversii (Ledeb.) M.Roem.. Algunos autores suponen que se originaron en el Cáucaso y el Turquestán, por la gran variación en las formas y en los sabores de las manzanas que allí se encuentran.​ \nEl M.sieversii es una especie  todavía presente en las montañas de Asia central, en el sur de Kazajistán, Kirguistán, Tayikistán y Sinkiang (región autónoma de China). Se está trabajando con dichas especies y se utilizan en programas de cultivo para desarrollar árboles susceptibles de crecer en climas desfavorables para Malus domestica, principalmente para incrementar la tolerancia al frío.\n\n■ La mitología griega\nLas manzanas aparecen en muchas tradiciones religiosas, a menudo como un fruto místico o fruto prohibido. Uno de los problemas que identifican las manzanas en la religión, la mitología y los cuentos populares es que la palabra \"manzana\" se utilizaba como término genérico para todas las frutas (extranjeras), con excepción de las bayas, como las nueces, en fecha tan tardía como el siglo XVII.​ Por ejemplo, en la mitología griega, el héroe griego Heracles, como parte de sus Doce Trabajos, estaba obligado a viajar al Jardín de las Hespérides y recoger las manzanas de oro del árbol de la vida que se encontraba en su centro.​​​\nLa diosa griega de la discordia, Eris, quedó descontenta después de que fuera excluida de la boda de Peleo y Tetis.​ En la venganza, arrojó una manzana de oro con la inscripción Καλλίστη (Kalliste, a veces transliterado Kallisti, 'Para la más bella'), en la fiesta de bodas.",
+        "truncated": true
+      }
     }
   },
   "edible": {
@@ -346,7 +391,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -462,7 +507,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/726282-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -470,7 +515,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/726282-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001008355.webp",
@@ -483,6 +528,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -19,12 +19,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "sl": [
-      "puščavski grah"
-    ],
     "lb": [
       "Clianthus formosus"
     ],
@@ -46,6 +43,9 @@
     "arz": [
       "سوينسونا فورموزا"
     ],
+    "sl": [
+      "puščavski grah"
+    ],
     "ja": [
       "スタート・デザート・ピー"
     ]
@@ -54,7 +54,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q45680",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q45680",
   "search_names": {
@@ -66,13 +66,22 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Swainsona formosa」",
+      "source": "Wikipedia (en): Swainsona formosa",
       "source_url": "https://en.wikipedia.org/wiki/Swainsona_formosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1346099755,
       "text": "Swainsona formosa, commonly known as Sturt's desert pea or Sturt pea, is a species of flowering plant in the family Fabaceae and is native to the Northern Territory and all continental states of Australia, with the exception of Victoria. It is a prostrate annual or short lived perennial herb with imparipinnate leaves with about 15 elliptic to egg-shaped leaflets with the narrower end towards the base, and presents two to six racemes of usually red flowers."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Swainsona formosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Swainsona_formosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222327566,
+      "text": "Swainsona formosa est une espèce de plantes à fleurs de la famille des Fabaceae, trouvée en Australie."
     }
   },
   "edible": {
@@ -86,7 +95,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -102,7 +111,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/948198-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -110,7 +119,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/948198-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000186602.webp",
@@ -123,6 +132,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

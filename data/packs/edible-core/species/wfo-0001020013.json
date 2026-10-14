@@ -13,28 +13,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "locoto",
-      "Aji"
-    ],
-    "ca": [
-      "Pebre verd",
-      "pebrer",
-      "pebrera",
-      "pebre tendre"
-    ],
-    "sv": [
-      "Bärpeppar"
-    ],
-    "zh": [
-      "风铃辣椒",
-      "浆果状辣椒"
-    ],
     "pl": [
       "papryka jagodowa"
+    ],
+    "ca": [
+      "pebre tendre",
+      "Pebre verd",
+      "pebrer",
+      "pebrera"
     ],
     "fi": [
       "marjapaprika"
@@ -44,6 +33,9 @@
     ],
     "ja": [
       "アヒ・アマリージョ"
+    ],
+    "sv": [
+      "bärpeppar"
     ],
     "nb": [
       "ají"
@@ -69,6 +61,10 @@
     "cs": [
       "paprika křídlatá"
     ],
+    "zh": [
+      "浆果状辣椒",
+      "风铃辣椒"
+    ],
     "ml": [
       "കാപ്സിക്കം ബക്കാട്ടം"
     ],
@@ -80,13 +76,17 @@
     ],
     "bi": [
       "Kabsikam"
+    ],
+    "en": [
+      "locoto",
+      "Aji"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q132263",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q132263",
   "search_names": {
@@ -98,13 +98,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Capsicum baccatum」",
+      "source": "Wikipedia (en): Capsicum baccatum",
       "source_url": "https://en.wikipedia.org/wiki/Capsicum_baccatum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376783137,
       "text": "Capsicum baccatum, also simply referred to as ají, is a perennial shrub member of the genus Capsicum, and is one of the five domesticated chili pepper species. Pungency varies widely among cultivars, ranging from nearly heatless types, such as the Peppadew, to hot varieties; the widely grown ají amarillo registers approximately 30,000 to 50,000 on the Scoville heat unit scale."
+    },
+    "es": {
+      "source": "Wikipedia (es): Capsicum baccatum",
+      "source_url": "https://es.wikipedia.org/wiki/Capsicum_baccatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175111720,
+      "text": "Capsicum baccatum, Capsicum baccatum var. baccatum o Capsicum microcarpum es una especie del género Capsicum de las solanáceas, nativa de Perú, Bolivia, Paraguay y Argentina Recibe nombres comunes tales como: 'ají amarillo' ají kitucho'/'quitucho', 'ají chivato', 'ají del monte', 'kumbarí'/'cumbarí', y 'putita'."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Capsicum baccatum",
+      "source_url": "https://fr.wikipedia.org/wiki/Capsicum_baccatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230447129,
+      "text": "Capsicum baccatum appartient au genre Capsicum, et est l'une des cinq espèces de piments domestiqués."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Capsicum baccatum",
+      "source_url": "https://pt.wikipedia.org/wiki/Capsicum_baccatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71675379,
+      "text": "Capsicum baccatum é o nome científico de uma pimenta conhecida como pimenta dedo-de-moça ou pimenta-aji, originária do Peru, da qual existem diversas variedades. No Brasil, são conhecidas, sobretudo, três variedades desta espécie: pimenta dedo-de-moça, pimenta-cumari e cambuci. É muito utilizada na culinária do Peru. No Brasil, a pimenta calabresa é produzida a partir de pimentas desta espécie."
     }
   },
   "edible": {
@@ -118,7 +145,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -163,7 +190,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/814733-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -171,7 +198,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/814733-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001020013.webp",
@@ -184,6 +211,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

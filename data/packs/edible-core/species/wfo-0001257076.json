@@ -11,7 +11,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -19,49 +19,22 @@
     ],
     "en": [
       "Sisal",
+      "sisal",
       "sisal hemp"
     ],
-    "af": [
-      "Sisal",
-      "garingboom"
-    ],
-    "bg": [
-      "Сизал"
-    ],
-    "cs": [
-      "agáve sisalová"
-    ],
-    "fi": [
-      "Sisalagaave"
-    ],
-    "it": [
-      "Sisal"
-    ],
-    "pl": [
-      "agawa sizalowa",
-      "sizal"
-    ],
     "pt": [
+      "Sisal",
+      "sisal"
+    ],
+    "id": [
       "Sisal"
-    ],
-    "ru": [
-      "Сизаль"
-    ],
-    "tr": [
-      "Sisal"
-    ],
-    "zh": [
-      "剑麻",
-      "菠萝麻",
-      "西沙爾瓊麻",
-      "衿麻",
-      "瓊麻"
-    ],
-    "sl": [
-      "sisalova agava"
     ],
     "eu": [
       "Sisal"
+    ],
+    "pl": [
+      "Agawa sizalowa",
+      "sizal"
     ],
     "qu": [
       "Sisal"
@@ -71,6 +44,10 @@
     ],
     "fr": [
       "sisal"
+    ],
+    "af": [
+      "garingboom",
+      "Sisal"
     ],
     "ml": [
       "സൈസൽ"
@@ -102,6 +79,12 @@
     "sk": [
       "Sisal"
     ],
+    "ru": [
+      "Сизаль"
+    ],
+    "tr": [
+      "sisal"
+    ],
     "sn": [
       "Gonje"
     ],
@@ -111,8 +94,14 @@
     "ca": [
       "sisal"
     ],
+    "fi": [
+      "sisalagaave"
+    ],
     "uk": [
       "Сизаль"
+    ],
+    "bg": [
+      "сизал"
     ],
     "az": [
       "Sizal aqavası"
@@ -123,11 +112,24 @@
     "da": [
       "Sisal"
     ],
+    "cs": [
+      "agáve sisalová"
+    ],
+    "zh": [
+      "剑麻",
+      "菠萝麻",
+      "西沙爾瓊麻",
+      "衿麻",
+      "瓊麻"
+    ],
     "vi": [
       "thùa sợi"
     ],
     "hu": [
       "szizál"
+    ],
+    "sl": [
+      "sisalova agava"
     ],
     "nb": [
       "Sisal"
@@ -203,13 +205,16 @@
     ],
     "ko": [
       "사이잘"
+    ],
+    "it": [
+      "Sisal"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159221",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159221",
   "search_names": {
@@ -219,36 +224,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「サイザルアサ」",
+      "source": "Wikipedia (ja): サイザルアサ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%AB%E3%82%A2%E3%82%B5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108994861,
       "text": "サイザルアサ は、リュウゼツラン属の植物、またはこれから取れるロープなどに使う繊維。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sisal」",
+      "source": "Wikipedia (en): Sisal",
       "source_url": "https://en.wikipedia.org/wiki/Sisal",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370024984,
       "text": "Sisal is a species of flowering plant native to southern Mexico, but widely cultivated and naturalized in many other countries. It yields a stiff leaf fiber used in making rope and various other products. The sisal fiber is traditionally used for rope and twine, and has many other uses, including cloth, footwear, hats, bags, carpets, geotextiles, and dartboards. It is also used as fiber reinforcements for composite fiberglass, rubber, and concrete products. Like other agaves, the pith of the leaves can be fermented and distilled to make mezcal."
+    },
+    "es": {
+      "source": "Wikipedia (es): Agave sisalana",
+      "source_url": "https://es.wikipedia.org/wiki/Agave_sisalana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172656787,
+      "text": "Agave sisalana, de nombre común sisal, henequén o en maya yucateco, ki es una planta utilizada para fines comerciales, cultivada en regiones semiáridas. Se usa principalmente la fibra de las hojas, que se procesan especialmente para fabricar cuerdas, cordeles, sacos, telas y tapetes."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Agave sisalana",
+      "source_url": "https://fr.wikipedia.org/wiki/Agave_sisalana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239903742,
+      "text": "Agave sisalana, appelé communément sisal, est une espèce de plantes de la famille des Agavaceae originaire de l'est du Mexique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sisal",
+      "source_url": "https://pt.wikipedia.org/wiki/Sisal",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72392012,
+      "text": "O sisal é uma planta originária da América Central, utilizada para fins comerciais."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sisal",
+      "source_url": "https://id.wikipedia.org/wiki/Sisal",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29973778,
+      "text": "Agave sisalana atau tumbuhan sisal, adalah suatu spesies dari Agave tumbuhan asli di selatan Meksiko tetapi secara luas dibudidayakan dan dinaturalisasi di banyak negara lainnya. Tumbuhan ini menghasilkan sejenis serat kaku yang dinamakan sisal, digunakan dalam pembuatan berbagai produk, terutama tali. Kadang-kadang tumbuhan ini disebut sebagai \"rami sisal\", karena selama berabad-abad rami merupakan sumber utama serat, dan tumbuhan sumber serat lainnya diberi nama setelah \"rami\"."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Sisal」の節「Cultivation」",
+        "source": "Wikipedia (en): Sisal § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Sisal#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1370024984,
         "heading": "Cultivation",
         "text": "Sisal was used by the Aztecs and the Maya to make a fabric.\nIn the 19th century, sisal cultivation spread to Florida, the Caribbean islands, and Brazil (Paraiba and Bahia), as well as to countries in Africa, notably Tanzania and Kenya, and Asia. Sisal reportedly \"came to Africa from Florida, through the mechanism of a remarkable German botanist, by the name of Hindorf.\"\nIn Cuba its cultivation was introduced in 1880 by Fernando Heydrich in Matanzas.\nThe first commercial plantings in Brazil were made in the late 1930s, and the first sisal fiber exports from there were made in 1948. Brazilian production did not accelerate until the 1960s, and the first of many spinning mills was established. Today, Brazil is the major world producer of sisal.\n\n■ Propagation\nPropagation of sisal is generally by using bulbils produced from buds in the flower stalk or by suckers growing around the base of the plant, which are grown in nursery fields until large enough to be transplanted to their final positions. These methods offer no potential for genetic improvement. In vitro multiplication of selected genetic material using meristematic tissue culture offers considerable potential for the development of improved genetic material.\n\n■ Fiber extraction\nFiber is extracted by a process known as decortication, where leaves are crushed, beaten, and brushed away by a rotating wheel set with blunt knives, so that only fibers remain. Alternatively, in East Africa, where production is typically on large estates, the leaves are transported to a central decortication plant, where water is used to wash away the waste parts of the leaves.\nThe fiber is then dried, brushed, and baled for export. Proper drying is important, as fiber quality depends largely on moisture content.",
         "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Agave sisalana § Producción",
+        "source_url": "https://es.wikipedia.org/wiki/Agave_sisalana#Producci%C3%B3n",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 172656787,
+        "heading": "Producción",
+        "text": "La planta de sisal tiene una vida total de aproximadamente veinticinco años, de los cuales 18 a 20 en producción. Cuando está en su etapa productiva rinde cerca de 30 hojas por año. Cada hoja es sujeta a un proceso de desfibración o descorticación con maquinaria especializada que varía en función de la región en donde se lleve a cabo el proceso. En África oriental, las hojas se transportan a una planta central de descortezado, al igual que en Yucatán, lugar donde se inventaron varios tipos de máquinas desfibradoras, y luego la fibra se seca, cepilla y embala para ser transportada. En Brasil (en los estados de Paraíba y Bahía) crece en pequeños fundos y la fibra se extrae por grupos a mano usando raspadores manuales. La mejor calidad de sisal está en función de la longitud, resistencia y color de la fibra. Es una planta propia de regiones tropicales y subtropicales, beneficiándose la producción con temperaturas superiores a los 25 °C y mucho sol.[cita requerida]",
+        "truncated": false
       }
     }
   },
@@ -263,7 +315,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -359,7 +411,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/6701-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent perennial",
@@ -367,7 +419,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/6701-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001257076.webp",
@@ -380,6 +432,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 299,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

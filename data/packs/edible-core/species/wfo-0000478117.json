@@ -10,15 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "llyriad chwarennog"
-    ],
-    "cs": [
-      "jitrocel blešníkový"
-    ],
     "ar": [
       "بزرقطونا"
     ],
@@ -46,11 +40,17 @@
     "bg": [
       "бълхов живовлек"
     ],
+    "cy": [
+      "Llyriad chwarennog"
+    ],
     "pl": [
       "babka płesznik"
     ],
     "eu": [
       "Ardi-belar"
+    ],
+    "cs": [
+      "jitrocel blešníkový"
     ],
     "hr": [
       "Žljezdastodlakavi trputac"
@@ -69,7 +69,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q789360",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q789360",
   "search_names": {
@@ -79,13 +79,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Plantago afra」",
+      "source": "Wikipedia (en): Plantago afra",
       "source_url": "https://en.wikipedia.org/wiki/Plantago_afra",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1351953134,
       "text": "Plantago afra, commonly known as glandular plantain, is a flowering plant in the plantain family Plantaginaceae, and is one of a group of species in the genus Plantago formerly treated by some authors in a separate genus Psyllium. It is native to northern Africa, southern Europe, and southwestern Asia, and is locally naturalised elsewhere, including north to Great Britain. It has been extensively confused with the related species Plantago indica."
+    },
+    "es": {
+      "source": "Wikipedia (es): Plantago psyllium",
+      "source_url": "https://es.wikipedia.org/wiki/Plantago_psyllium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175393057,
+      "text": "La zaragatona (Plantago psyllium), es una especie herbácea natural de la zona occidental del Mediterráneo, sobre todo España y Marruecos, también se la halla en el sur de Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Plantago afra",
+      "source_url": "https://fr.wikipedia.org/wiki/Plantago_afra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229271571,
+      "text": "Plantago afra est une plante herbacée de la famille des Plantaginaceae, croissant dans les régions sèches du bassin méditerranéen et d'Asie occidentale. Elle est cultivée pour sa graine utilisée pour ses propriétés laxatives ou adoucissantes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Plantago afra",
+      "source_url": "https://pt.wikipedia.org/wiki/Plantago_afra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 41788905,
+      "text": "Plantago afra é uma espécie de planta com flor pertencente à família Plantaginaceae."
     }
   },
   "edible": {
@@ -98,7 +125,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -161,7 +188,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/684830-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -169,7 +196,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/684830-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000478117.webp",
@@ -182,6 +209,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 224,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

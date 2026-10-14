@@ -13,33 +13,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "de": [
       "Schild-Ampfer",
       "Schildampfer"
     ],
-    "en": [
-      "French sorrel"
+    "ca": [
+      "badola"
     ],
     "nl": [
       "Spaanse zuring"
-    ],
-    "fr": [
-      "Oseille ronde"
-    ],
-    "cs": [
-      "šťovík štítnatý"
-    ],
-    "fi": [
-      "kilpisuolaheinä"
-    ],
-    "sl": [
-      "ščitasta kislica"
-    ],
-    "ca": [
-      "badola"
     ],
     "pl": [
       "Szczaw tarczolistny"
@@ -59,29 +44,62 @@
     "uk": [
       "Щавель щитковий"
     ],
+    "cs": [
+      "šťovík štítnatý"
+    ],
+    "fi": [
+      "kilpisuolaheinä"
+    ],
     "arz": [
       "حماض درقى"
     ],
+    "sl": [
+      "ščitasta kislica"
+    ],
     "fa": [
       "ترشک واریزه‌ای"
+    ],
+    "en": [
+      "French sorrel"
+    ],
+    "fr": [
+      "Oseille ronde"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1735396",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1735396",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rumex scutatus」",
+      "source": "Wikipedia (en): Rumex scutatus",
       "source_url": "https://en.wikipedia.org/wiki/Rumex_scutatus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365132641,
       "text": "Rumex scutatus is a plant in the buckwheat family, used as a culinary herb. Its common names include French sorrel, buckler sorrel, shield-leaf sorrel, and sometimes the culinary name \"green-sauce\"."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rumex scutatus",
+      "source_url": "https://es.wikipedia.org/wiki/Rumex_scutatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580998,
+      "text": "La acedera romana es una especie de plantas de la familia de las poligonáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rumex scutatus",
+      "source_url": "https://fr.wikipedia.org/wiki/Rumex_scutatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231026006,
+      "text": "Rumex scutatus, l'Oseille ronde ou Oseille en écusson, est une espèce de plantes herbacées vivace de la famille des Polygonacées."
     }
   },
   "edible": {
@@ -93,7 +111,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -135,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/304830-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -143,7 +161,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/304830-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000404032.webp",
@@ -156,6 +174,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

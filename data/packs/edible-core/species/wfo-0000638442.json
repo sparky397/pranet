@@ -11,40 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Wild Carrot"
-    ],
-    "de": [
-      "Wilde Möhre",
-      "gewöhnliche Möhre",
-      "Möhre"
-    ],
-    "zh": [
-      "胡蘿蔔",
-      "野胡萝卜",
-      "胡萝卜",
-      "野胡萝卜根",
-      "野胡萝卜（胡萝卜）",
-      "鹤虱风",
-      "南鹤虱",
-      "野胡萝卜子"
-    ],
-    "nl": [
-      "Peen"
-    ],
-    "fr": [
-      "Carotte sauvage",
-      "carotte"
-    ],
-    "cs": [
-      "mrkev obecná"
-    ],
-    "sl": [
-      "navadno korenje"
-    ],
     "da": [
       "vild gulerod"
     ],
@@ -59,6 +28,11 @@
     ],
     "ms": [
       "Lobak"
+    ],
+    "de": [
+      "Wilde Möhre",
+      "gewöhnliche Möhre",
+      "Möhre"
     ],
     "la": [
       "Perideridia gairdneri"
@@ -86,6 +60,16 @@
     ],
     "uk": [
       "морква дика"
+    ],
+    "zh": [
+      "野胡萝卜",
+      "胡蘿蔔",
+      "胡萝卜",
+      "野胡萝卜根",
+      "野胡萝卜（胡萝卜）",
+      "鹤虱风",
+      "南鹤虱",
+      "野胡萝卜子"
     ],
     "pcd": [
       "Carotte batarde"
@@ -125,6 +109,9 @@
     ],
     "ar": [
       "جزر شائع"
+    ],
+    "cs": [
+      "mrkev obecná"
     ],
     "gn": [
       "Makychĩ guasu"
@@ -267,6 +254,9 @@
     "pnb": [
       "جنگلی گاجر"
     ],
+    "sl": [
+      "navadno korenje"
+    ],
     "cv": [
       "Тискер кишĕр"
     ],
@@ -275,13 +265,23 @@
     ],
     "el": [
       "Δαύκος το καρωτόν"
+    ],
+    "en": [
+      "Wild Carrot"
+    ],
+    "nl": [
+      "Peen"
+    ],
+    "fr": [
+      "Carotte sauvage",
+      "carotte"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q30056",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q30056",
   "search_names": {
@@ -298,26 +298,97 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Daucus carota」",
+      "source": "Wikipedia (en): Daucus carota",
       "source_url": "https://en.wikipedia.org/wiki/Daucus_carota",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375087850,
       "text": "Daucus carota, whose common names include wild carrot, European wild carrot, bird's nest, bishop's lace, carrot flower, and Queen Anne's lace, is a flowering plant in the family Apiaceae. It is native to temperate regions of Afro-Eurasia with a number of regional subspecies, and is naturalised widely elsewhere. Carrots cultivated as a food crop are cultivars of the domesticated subspecies Daucus carota subsp. sativus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Daucus carota",
+      "source_url": "https://es.wikipedia.org/wiki/Daucus_carota",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175697073,
+      "text": "La zanahoria silvestre o carrota es una especie de planta herbácea de la familia Apiaceae. Es la forma silvestre de la zanahoria."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Daucus carota",
+      "source_url": "https://fr.wikipedia.org/wiki/Daucus_carota",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236774151,
+      "text": "Daucus carota, en français Carotte sauvage, Carotte commune, Daucus carotte ou simplement Carotte, est une espèce de plantes à fleurs dicotylédones de la famille des Apiaceae, originaire des régions tempérées de l'Ancien monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Daucus carota",
+      "source_url": "https://pt.wikipedia.org/wiki/Daucus_carota",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63663186,
+      "text": "A cenoura-brava é uma espécie de planta angiospérmica da família Apiaceae, nativa da Europa, Ásia e Norte de África.\nA subespécie sativus é um cultivar das regiões temperadas de todo o mundo."
+    },
+    "id": {
+      "source": "Wikipedia (id): Daucus carota",
+      "source_url": "https://id.wikipedia.org/wiki/Daucus_carota",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29941459,
+      "text": "Daucus carota adalah tumbuhan berbunga di dalam famili Apiaceae. Tanaman ini berasal dari kawasan beriklim sedang di Eropa dan Asia barat daya, dan dinaturalisasikan ke Amerika Utara dan Australia."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Daucus carota」の節「Toxicity」",
+        "source": "Wikipedia (en): Daucus carota § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Daucus_carota#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375087850,
         "heading": "Toxicity",
         "text": "Like many other species of Apiaceae, the leaves of the wild carrot may cause phytophotodermatitis; skin contact with the foliage, especially wet foliage, can cause skin irritation in some people, so caution should be used when handling the plant. It may also have a mild effect on horses.\nThe compound falcarinol is naturally found in Daucus carota for protection against fungal diseases. Laboratory tests show the compound is toxic to mice and to the water flea Daphnia magna. Normal consumption of carrots has no toxic effect in humans.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Daucus carota § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Daucus_carota#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175697073,
+        "heading": "Toxicidad",
+        "text": "El contacto de la piel con el follaje de D. carota, especialmente el follaje húmedo, puede causar irritación de la piel en algunas personas.​​ También puede tener un efecto leve en los caballos.​\nEl compuesto falcarinol se encuentra de forma natural en el Daucus carota como protección contra las enfermedades fúngicas. Las pruebas de laboratorio demuestran que el compuesto es tóxico para los ratones y la pulga de agua (Daphnia magna).​",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Daucus carota § Toxicidade",
+        "source_url": "https://pt.wikipedia.org/wiki/Daucus_carota#Toxicidade",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 63663186,
+        "heading": "Toxicidade",
+        "text": "O contacto com a folhagem da Daucus carota, pode causar irritação da pele em algumas pessoas.",
+        "truncated": false
+      }
+    },
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Daucus carota § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Daucus_carota#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175697073,
+        "heading": "Cultivo",
+        "text": "Esta planta puede utilizarse como planta de compañía para los cultivos. Como la mayoría de los miembros de la familia de las umbelíferas, atrae avispas a sus pequeñas flores en su tierra natal; sin embargo, donde se ha introducido, atrae muy pocas avispas. En el noreste de Wisconsin, cuando se introdujo con arándanos, logró atraer mariposas y avispas.​ También se ha documentado que esta especie aumenta la producción de tomateras cuando se mantiene cerca, y puede proporcionar un microclima de aire más fresco y húmedo para la lechuga, cuando se intercala con ella.​ Sin embargo, los Estados de Iowa, Míchigan y Washington ha sido catalogada como mala hierba nociva,​ y se considera una plaga grave en los pastos. Persiste en el banco de semillas del suelo de dos a cinco años.​",
         "truncated": false
       }
     }
@@ -335,7 +406,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -532,7 +603,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/841063-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial",
@@ -540,7 +611,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/841063-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000638442.webp",
@@ -553,6 +624,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

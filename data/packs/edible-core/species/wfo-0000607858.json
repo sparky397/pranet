@@ -39,7 +39,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -49,37 +49,16 @@
       "Watermelon",
       "watermelon"
     ],
-    "de": [
-      "Wassermelone"
-    ],
-    "cs": [
-      "lubenice",
-      "lubenice obecná"
-    ],
-    "es": [
-      "sandía"
-    ],
-    "fi": [
-      "vesimeloni"
-    ],
-    "ru": [
-      "арбуз",
-      "арбуз обыкновенный"
-    ],
     "fr": [
+      "Pastèque",
       "pastèque"
     ],
-    "zh": [
-      "西瓜",
-      "西瓜根叶",
-      "西瓜皮",
-      "西瓜子仁",
-      "西瓜霜",
-      "西瓜子",
-      "西瓜子壳"
+    "pt": [
+      "Melancia",
+      "melancia"
     ],
-    "ast": [
-      "melonar d'agua"
+    "id": [
+      "Semangka"
     ],
     "af": [
       "Waatlemoen"
@@ -93,6 +72,10 @@
     "lv": [
       "villainais arbūzs"
     ],
+    "cs": [
+      "lubenice obecná",
+      "lubenice"
+    ],
     "am": [
       "በጢሕ"
     ],
@@ -102,8 +85,8 @@
     "sv": [
       "Vattenmelon"
     ],
-    "pt": [
-      "melancia"
+    "fi": [
+      "vesimeloni"
     ],
     "ca": [
       "sindriera"
@@ -261,9 +244,6 @@
     "kaa": [
       "G'arbız"
     ],
-    "id": [
-      "Semangka"
-    ],
     "udm": [
       "Арбуз"
     ],
@@ -306,6 +286,10 @@
     "gl": [
       "Sandía"
     ],
+    "ru": [
+      "арбуз обыкновенный",
+      "арбуз"
+    ],
     "nan": [
       "Si-koe"
     ],
@@ -326,6 +310,15 @@
     ],
     "da": [
       "Vandmelon"
+    ],
+    "zh": [
+      "西瓜",
+      "西瓜根叶",
+      "西瓜皮",
+      "西瓜子仁",
+      "西瓜霜",
+      "西瓜子",
+      "西瓜子壳"
     ],
     "ky": [
       "Дарбыз"
@@ -554,13 +547,22 @@
     ],
     "shn": [
       "တႅင်ၸမ်ႇပူႇ"
+    ],
+    "de": [
+      "Wassermelone"
+    ],
+    "es": [
+      "sandía"
+    ],
+    "ast": [
+      "melonar d'agua"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q17507129",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q17507129",
   "search_names": {
@@ -571,46 +573,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「スイカ」",
+      "source": "Wikipedia (ja): スイカ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111085642,
       "text": "スイカ は、果実を食用にするために栽培されるウリ科のつる性一年草。また、その果実のこと。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Watermelon」",
+      "source": "Wikipedia (en): Watermelon",
       "source_url": "https://en.wikipedia.org/wiki/Watermelon",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374422516,
       "text": "The watermelon is a species of flowering plant in the family Cucurbitaceae. It is a scrambling and trailing vine-like plant cultivated worldwide."
+    },
+    "es": {
+      "source": "Wikipedia (es): Citrullus lanatus",
+      "source_url": "https://es.wikipedia.org/wiki/Citrullus_lanatus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175335247,
+      "text": "Citrullus lanatus, comúnmente llamada sandía, melón de agua, acendría, sindria, patilla, es una especie de la familia Cucurbitaceae. Es originaria de África con una gran presencia y difusión en todo el mundo. Se cultiva de manera extendida por todo el mundo debido a su fruto, el cual es un pepónide de enorme tamaño."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pastèque",
+      "source_url": "https://fr.wikipedia.org/wiki/Past%C3%A8que",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240321234,
+      "text": "La pastèque, parfois appelée melon d'eau, est une espèce de plantes à fleurs dicotylédones de la famille des Cucurbitacées, originaire d'Afrique. C’est une plante herbacée annuelle à tige rampante, pourvue de longs poils blancs, à feuilles très découpées à 3-5 lobes, et dont le fruit est une très grosse baie à pulpe gorgée d’eau. Elle est largement cultivée pour ses gros fruits lisses, à chair rouge et à graines noires."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Melancia",
+      "source_url": "https://pt.wikipedia.org/wiki/Melancia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70885301,
+      "text": "Melancia é uma planta da família Cucurbitaceae e também o nome do seu fruto. Trata-se de uma trepadeira rastejante originária da África."
+    },
+    "id": {
+      "source": "Wikipedia (id): Semangka",
+      "source_url": "https://id.wikipedia.org/wiki/Semangka",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29485035,
+      "text": "Semangka, keramboja, tembikai, atau mendikai adalah tanaman merambat yang berasal dari daerah setengah gurun di Afrika bagian selatan. Tanaman ini masih sekerabat dengan labu-labuan (Cucurbitaceae), melon, dan ketimun. Semangka biasa dipanen buahnya untuk dimakan segar atau dibuat jus. Biji semangka yang dikeringkan dan disangrai juga dapat dimakan isinya (kotiledon) sebagai kuaci."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「スイカ」の節「栽培」",
+        "source": "Wikipedia (ja): スイカ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%AB#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111085642,
         "heading": "栽培",
         "text": "世界的には無整枝の放任栽培とする場合が多い。これに対して日本では地ばい栽培の整枝栽培とすることが多く、1個体あたりの着果数も1果から2果に制限して栽培することが多い。\n春（4月ごろ）に苗を植え付けて夏（7月ごろ）に収穫する果実的野菜。野菜のうちでは最も強光を好み、生育適温は昼間28 - 30度、夜間15度以上と高く、日当たりのよい場所で栽培する。土質は選ばず、砂質から粘土質まで適応幅は広い。しかし、連作を最も嫌う野菜として知られており、畑は他のウリ科作物を4 - 5年作っていない砂質の水はけと日当たりの良い場所にする。湿度にも弱く、連作ができないため栽培難度は高いといわれている。家庭で育てる場合は、小玉種が育てやすい。\n現在では病気や連作に強い苗を育てるため、カンピョウ（ユウガオ）やカボチャ台木にした接ぎ木苗を購入して栽培するのが一般的になっているが、種から育てる実生栽培のほうが食味は優れている。敷き藁でマルチングをして乾燥気味かつ清潔に育てるのが重要となる。\n苗をつくるときは、育苗箱に種をまき、発芽適温は25 - 30度で保温して発芽させる。発芽後、本葉1枚になったら育苗ポットに鉢上げし、本葉5 - 6枚の苗に仕上げる。圃場には植え付け1か月前から元肥を入れて良く耕しておき、幅2.5 - 3 mの畝を作り、苗を80 - 100 cm以上間隔を空けて植え付ける。深植えしすぎないようにし、植え付け後はたっぷりの水を与える。植え付けから初夏まではツルが伸びていく時期で、伸びたツルの本葉5 - 8枚ほど（5 - 8節）で先端を摘んで小ヅルを3 - 6本ほど出して、各小ヅルに2個の実を成らせる。大玉品種は1株3 - 4個、小玉品種は1株7 - 8個ほど実を成らせるのが基本とされ、実が膨らんで鶏卵大になったら摘果する。生長期の孫ヅルはすべて摘み取る。また、小ヅル同士が重ならないように整えたら、ツルの下には敷き藁を敷いておく。\nスイカは雌雄異花の虫媒花である。1番花と2番花は良い果実ができないため、小ヅルの20節前後につく3番花を結実させる。黄色い花は、雄花とつけ根に丸い膨らみがある雌花があり、晴れた日の朝（6 - 9時）のうちに雄花を花茎ごと摘んで、雌花の雌しべ（花柱）に花粉（葯）をこすりつけて人工授粉させると確実に着果する。授粉後、雌花のつけ根がタマゴ大に膨らんだら、ツルの先端に少量の追肥しておくとよく、授粉後35日 - 45日前後で収穫時期を迎える。果実が地面に接している部分は色づきが悪くなるため、ある程度の大きさになったら実をツルごと持ち上げて置き直す「玉直し」を行うと、実が均等に熟す。実の近くの巻きひげが枯れてきたころが収穫の目安で、収穫後は2 - 3日ほど追熟するとさらに実は甘くなる。収穫は果実を叩いて低い音で判断することもあるが、熟度を知るには確実性欠けるため、交配日を目印にしておけば熟度は判定できる。\n\n■ 連作障害・病害\n水持ちが良い土壌で栽培すると、途中でつる割病などが発生して枯れてしまう。病気に対しては、雨の後と、晴天時でも10日ごとに殺菌剤を散布することにより予防につながる。炭疽病は雨の多いときに発生しやすく、葉が混み合っているところを入念に薬剤散布して防除する。\n連作障害やつる割病に弱いため、台木としてユウガオやカボチャなどの台木を用いる接ぎ木栽培をすると、耐病性が付与され、連作も可能になる。\nスイカ果実汚斑細菌病（BFB）の病原細菌はウリ科雑草のアレチウリ、カラスウリに病原性を有するが、アマチャヅルには病原性がない。病斑を形成した発病苗やウリ科雑草は2次伝染源となる可能性がある。スイカ作付け圃場周辺にカラスウリ、アレチウリが自生している場合は、抜き取って処分する。わが国では1998年にスイカで発生、その後メロン、トウガンなど瓜類での発生が確認されており、瓜類の種子伝播を防ぐため種苗メーカーによる厳格な検査体制を敷いている。\n\n■ スイカの爆発\n収穫直前に大雨が降るなどして内部に腐敗を生じガスで内圧が高まることで爆発を起こすことがある。",
         "truncated": true
       },
       "en": {
-        "source": "Wikipedia 英語版「Watermelon」の節「Cultivation」",
+        "source": "Wikipedia (en): Watermelon § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Watermelon#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374422516,
         "heading": "Cultivation",
         "text": "Watermelons grow in tropical to temperate climates, needing temperatures higher than 25 °C (77 °F) to thrive. On a garden scale, seeds are usually sown in pots under cover and transplanted into the ground. Ideal conditions are a well-drained sandy loam with a pH between 5.7 and 7.2.\nMajor pests of the watermelon include aphids, fruit flies, and root-knot nematodes. In conditions of high humidity, the plants are prone to plant diseases such as powdery mildew and mosaic virus. Some varieties often grown in Japan and other parts of the Far East are susceptible to fusarium wilt. Grafting such varieties onto disease-resistant rootstocks offers protection.\n\nThe United States Department of Agriculture recommends using at least one beehive per acre (4,000 m2 per hive) for pollination of conventional, seeded varieties for commercial plantings. Seedless hybrids have sterile pollen. This requires planting pollinizer rows of varieties with viable pollen. Since the supply of viable pollen is reduced, and pollination is much more critical in producing the seedless variety, the recommended number of hives per acre increases to three hives per acre (1,300 m2 per hive). Watermelons have a longer growing period than other melons and can often take 85 days or more from the time of transplanting for the fruit to mature. About a thousand grains of pollen must be delivered and spread evenly on the three lobes of the stigma to make a normal sized and shaped fruit. In addition, lack of pollen is thought to contribute to \"hollow heart\" which causes the flesh of the watermelon to develop a large hole, sometimes in an intricate, symmetric shape. Watermelons suffering from hollow heart are safe to consume.",
+        "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Citrullus lanatus § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Citrullus_lanatus#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175335247,
+        "heading": "Cultivo",
+        "text": "Florecen durante el verano y maduran cuarenta días después de su floración. En España fue introducida por los árabes; actualmente se cultiva por toda la península, principalmente en Andalucía y en el este. La etimología de su nombre refleja dicho origen, ya que sandía proviene del árabe hispánico sandiyya. En árabe clásico es sindiyyah, de Sind, región de Pakistán, de  donde proviene el nombre.\nAproximadamente un 95% de la sandía se cultiva injertada sobre un patrón de calabaza híbrida (Cucurbita maxima × Cucurbita moschata), totalmente afín con la sandía. El híbrido fue introducido en Almería en 1980. Se originan problemas cuando existen diferencias de 20-30 °C de temperatura entre el día y la noche, aunque con las sandías injertadas aumenta la resistencia tanto al frío como al calor.\n\n■ Producción mundial",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Pastèque § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Past%C3%A8que#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240321234,
+        "heading": "Culture",
+        "text": "Les pastèques sont des plantes tropicales ou subtropicales et ont besoin de températures supérieures à 25 °C pour prospérer et de 18 °C dans le sol pour germer. À l'échelle du jardin de région tempérée, les graines sont généralement semées en godet au chaud et transplantées dans un sol sableux bien drainé avec un pH compris entre 5,5 et 7 et des niveaux moyens d'azote.\n\nLes principaux ravageurs de la pastèque sont les pucerons, les mouches des fruits et les nématodes à galles. Dans des conditions d'humidité élevée, les plantes sont sujettes à des maladies des plantes telles que l'oïdium et le virus de la mosaïque. Raison pour laquelle, en Afrique, on les sème en fin de saison des pluies (septembre ou octobre).\nCertaines variétés souvent cultivées au Japon et dans d'autres parties de l'Extrême-Orient sont sensibles au flétrissement causé par des Fusarium. Le greffage de ces variétés sur des porte-greffes résistants aux maladies offre une protection.\n\n■ Variétés sans pépin\nLes variétés sans pépins sont devenues très communes dans le commerce. Ce sont des pastèques triploïdes obtenues en pollinisant une fleur de pastèque tétraploïde avec le pollen d'une pastèque diploïde ordinaire (avec 2 copies des chromosomes), la graine résultante donnera une plante triploïde avec 3 copies de chromosomes dans chaque cellule. Mais comme elle ne produit pas de pollen viable, il faut produire de nouvelles graines hybrides chaque année.\nHabituellement, les cultivateurs placent un rang de pastèques diploïdes pour environ trois à quatre rangs de pastèques triploïdes, bien que ces ratios puissent varier en fonction des conditions locales et des pratiques agricoles spécifiques.",
         "truncated": true
       }
     }
@@ -795,7 +855,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/291938-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -803,7 +863,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/291938-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000607858.webp",
@@ -816,6 +876,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

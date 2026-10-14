@@ -13,28 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "azarole",
-      "Crete Hawthorn",
-      "Mediterranean Hawthorn",
-      "Mediterranian Medler",
-      "Mosfilia",
-      "Oriental Hawthorn"
-    ],
-    "zh": [
-      "黑海山楂",
-      "地中海山楂"
-    ],
-    "ast": [
-      "azarolu"
-    ],
-    "ar": [
-      "زعرور",
-      "زعرور شائع"
-    ],
     "ru": [
       "Боярышник азароль"
     ],
@@ -49,6 +30,10 @@
     ],
     "de": [
       "Azaroldorn"
+    ],
+    "ar": [
+      "زعرور شائع",
+      "زعرور"
     ],
     "pl": [
       "Głóg włoski"
@@ -77,24 +62,39 @@
     "hr": [
       "Mušmulasti glog"
     ],
+    "ast": [
+      "Azarolu"
+    ],
     "kab": [
       "Ẓaɛṛur"
     ],
     "fi": [
       "etelänorapihlaja"
     ],
+    "zh": [
+      "地中海山楂",
+      "黑海山楂"
+    ],
     "arz": [
       "زعرور شائع"
     ],
     "nb": [
       "azarolhagtorn"
+    ],
+    "en": [
+      "azarole",
+      "Crete Hawthorn",
+      "Mediterranean Hawthorn",
+      "Mediterranian Medler",
+      "Mosfilia",
+      "Oriental Hawthorn"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q793606",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q793606",
   "search_names": {
@@ -104,13 +104,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Crataegus azarolus」",
+      "source": "Wikipedia (en): Crataegus azarolus",
       "source_url": "https://en.wikipedia.org/wiki/Crataegus_azarolus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1339442709,
       "text": "Crataegus azarolus is a species of hawthorn known by the common names azarole, azerole and Mediterranean medlar. It is native to the Mediterranean Basin and is a common plant there, growing on sites comparable to those the European common hawthorn grows on. In the Arab countries it is the most common hawthorn species. When growing in the wild, the azerole bears plentiful crops of haw fruits, which are similar to the haws of the European common hawthorn, but more plump."
+    },
+    "es": {
+      "source": "Wikipedia (es): Crataegus azarolus",
+      "source_url": "https://es.wikipedia.org/wiki/Crataegus_azarolus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582372,
+      "text": "El acerolo es un árbol o arbusto caducifolio de la familia de las Rosáceas oriundo del sur de Europa, Oriente Medio y el norte de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Crataegus azarolus",
+      "source_url": "https://fr.wikipedia.org/wiki/Crataegus_azarolus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234800739,
+      "text": "L’Azarolier, Azérolier ou Épine d'Espagne, est une espèce de plantes à fleurs du genre Crataegus (aubépine) et de la famille des Rosaceae. C'est un arbre fruitier originaire du bassin méditerranéen, il est appelé familièrement pommette dans le sud de la France. Son fruit comporte trois pépins."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Crataegus azarolus",
+      "source_url": "https://pt.wikipedia.org/wiki/Crataegus_azarolus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 55618313,
+      "text": "Crataegus azarolus é um arbusto caducifólio pertencente à família Rosaceae. É endêmica no Oriente Médio, Europa e no norte da África."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Crataegus azarolus § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Crataegus_azarolus#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 234800739,
+        "heading": "Culture",
+        "text": "L'Azerolier supporte tous types de sols même calcaires et secs. Il supporte la sécheresse, est rustique jusqu'en zone USDA 6, mais ne fructifie bien que sous climat de type méditerranéen.\nIl peut se multiplier par semis (en début d’été pour échapper à la dormance). Dans ce cas, la germination a lieu au printemps suivant, sinon patienter une année supplémentaire. La multiplication peut également se faire par bouture ou par greffage sur épine blanche (Crataegus monogyna).",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -123,7 +165,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -157,7 +199,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/324722-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -165,7 +207,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/324722-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000988173.webp",
@@ -178,6 +220,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

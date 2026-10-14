@@ -10,47 +10,44 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "lesser galangal"
-    ],
-    "ar": [
-      "خولنجان صغي",
-      "خولنجان طبي"
-    ],
-    "az": [
-      "Dərman alpiniyası"
-    ],
-    "de": [
-      "Echter Galgant"
-    ],
     "fr": [
       "Petit galanga"
     ],
-    "it": [
-      "Galanga minore"
+    "id": [
+      "Lengkuas kecil"
     ],
     "ru": [
-      "Калган лекарственный",
-      "Альпиния лекарственная"
-    ],
-    "sk": [
-      "Alpínia liečivá"
-    ],
-    "tr": [
-      "Havlıcan"
+      "Альпиния лекарственная",
+      "Калган лекарственный"
     ],
     "zh": [
-      "高良姜",
-      "高良薑"
+      "高良薑",
+      "高良姜"
     ],
     "vi": [
       "Riềng"
     ],
+    "de": [
+      "Echter Galgant"
+    ],
+    "tr": [
+      "Havlıcan"
+    ],
+    "sk": [
+      "alpínia liečivá"
+    ],
+    "ar": [
+      "خولنجان طبي",
+      "خولنجان صغي"
+    ],
     "ku": [
       "Xavlêcan"
+    ],
+    "az": [
+      "Dərman alpiniyası"
     ],
     "my": [
       "ပတဲကောလေး"
@@ -79,18 +76,21 @@
     "arz": [
       "خولنجان طبى"
     ],
-    "id": [
-      "Lengkuas kecil"
-    ],
     "shn": [
       "တူၼ်ႈႁဵဝ်းႁွမ်"
+    ],
+    "en": [
+      "lesser galangal"
+    ],
+    "it": [
+      "Galanga minore"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1281083",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1281083",
   "search_names": {
@@ -100,13 +100,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Alpinia officinarum」",
+      "source": "Wikipedia (en): Alpinia officinarum",
       "source_url": "https://en.wikipedia.org/wiki/Alpinia_officinarum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371842039,
       "text": "Alpinia officinarum, known as lesser galangal, is a plant in the ginger family, cultivated in Southeast Asia. It originated in China, where its name ultimately derives. It can grow 1.5 to 2 m high, with long leaves and reddish-white flowers. The rhizomes, known as galangal, are valued for their sweet spicy flavor and aromatic scent. These are used throughout Asia in curries and perfumes, and were previously used widely in Europe. They are also used as a herbal remedy."
+    },
+    "es": {
+      "source": "Wikipedia (es): Alpinia officinarum",
+      "source_url": "https://es.wikipedia.org/wiki/Alpinia_officinarum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175384524,
+      "text": "La galanga o galanga menor es una especie fanerógama de la familia Zingiberaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Petit galanga",
+      "source_url": "https://fr.wikipedia.org/wiki/Petit_galanga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229541957,
+      "text": "Le petit galanga, galanga camphré ou galanga officinal, est une espèce de plantes à fleurs de la famille des Zingiberaceae. C'est une plante herbacée vivace et rhizomateuse originaire d'Asie tropicale, en particulier du Sud de la Chine et de l'île d'Hainan."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Alpinia officinarum",
+      "source_url": "https://pt.wikipedia.org/wiki/Alpinia_officinarum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 59279075,
+      "text": "Alpinia officinarum é o rizoma de uma planta nativa do sul da China."
+    },
+    "id": {
+      "source": "Wikipedia (id): Lengkuas kecil",
+      "source_url": "https://id.wikipedia.org/wiki/Lengkuas_kecil",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29962304,
+      "text": "Alpinia officinarum, dikenal sebagai lengkuas kecil, merupakan tanaman dalam keluarga jahe, yang dibudidayakan di Asia Tenggara. Ini berasal dari Cina, dari mana namanya berasal. Tingginya bisa 1,5 sampai 2 m, dengan daun panjang dan bunga berwarna putih kemerahan. Rimpangnya, yang dikenal sebagai lengkuas, dihargai karena rasa pedasnya yang manis dan aromanya yang aromatik. Bahan ini digunakan di seluruh Asia dalam kari dan parfum, dan sebelumnya digunakan secara luas di Eropa. Lengkuas kecil juga digunakan sebagai obat herbal."
     }
   },
   "edible": {
@@ -119,7 +155,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -134,7 +170,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/795352-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -142,7 +178,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/795352-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000338655.webp",
@@ -155,6 +191,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 299,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -11,38 +11,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "European water plantain",
-      "Common Water-plantain",
-      "water-plantain"
-    ],
-    "es": [
-      "Llantén de Agua"
-    ],
-    "nl": [
-      "Grote waterweegbree"
-    ],
-    "cs": [
-      "žabník jitrocelový"
-    ],
-    "fr": [
-      "plantain deau commun"
-    ],
-    "de": [
-      "Gemeiner Froschlöffel",
-      "Gewöhnlicher Froschlöffel"
-    ],
-    "fi": [
-      "ratamosarpio"
+    "pt": [
+      "Tanchagem-da-água"
     ],
     "zh": [
       "泽泻"
-    ],
-    "sl": [
-      "trpotčasti porečnik"
     ],
     "pl": [
       "żabieniec babka wodna"
@@ -56,11 +32,21 @@
     "frr": [
       "Hekbleeden"
     ],
+    "fi": [
+      "ratamosarpio"
+    ],
     "hu": [
       "vízi hídőr"
     ],
     "et": [
       "harilik konnarohi"
+    ],
+    "de": [
+      "Gewöhnlicher Froschlöffel",
+      "Gemeiner Froschlöffel"
+    ],
+    "cs": [
+      "žabník jitrocelový"
     ],
     "vi": [
       "Trạch tả"
@@ -79,9 +65,6 @@
     ],
     "sv": [
       "Svalting"
-    ],
-    "pt": [
-      "Tanchagem-da-água"
     ],
     "fa": [
       "غازیاغی"
@@ -161,15 +144,32 @@
     "tg": [
       "Зуфобӣ"
     ],
+    "sl": [
+      "trpotčasti porečnik"
+    ],
     "mzn": [
       "قاشقه واش"
+    ],
+    "en": [
+      "European water plantain",
+      "Common Water-plantain",
+      "water-plantain"
+    ],
+    "es": [
+      "Llantén de Agua"
+    ],
+    "nl": [
+      "Grote waterweegbree"
+    ],
+    "fr": [
+      "plantain deau commun"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q21063",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q21063",
   "search_names": {
@@ -180,13 +180,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Alisma plantago-aquatica」",
+      "source": "Wikipedia (en): Alisma plantago-aquatica",
       "source_url": "https://en.wikipedia.org/wiki/Alisma_plantago-aquatica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314122661,
       "text": "Alisma plantago-aquatica, also known as European water-plantain, common water-plantain or mad-dog weed, is a perennial flowering aquatic plant widespread across most of Europe and Asia, and apparently spread elsewhere in both the Old and New World."
+    },
+    "es": {
+      "source": "Wikipedia (es): Alisma plantago-aquatica",
+      "source_url": "https://es.wikipedia.org/wiki/Alisma_plantago-aquatica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175398200,
+      "text": "El llantén acuático es una especie de planta acuática perteneciente a la familia de la alismatáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Alisma plantago-aquatica",
+      "source_url": "https://fr.wikipedia.org/wiki/Alisma_plantago-aquatica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 220142611,
+      "text": "Alisma plantago-aquatica, le Plantain d'eau commun ou Grand plantain d'eau, est une espèce de plantes herbacées monocotylédones de la famille des Alismataceae. C'est l'une des plantes nommées plantain d'eau."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tanchagem-da-água",
+      "source_url": "https://pt.wikipedia.org/wiki/Tanchagem-da-%C3%A1gua",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 55264431,
+      "text": "Alisma plantago-aquatica é uma espécie de planta com flor pertencente à família Alismataceae."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Alisma plantago-aquatica § Horticulture",
+        "source_url": "https://fr.wikipedia.org/wiki/Alisma_plantago-aquatica#Horticulture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 220142611,
+        "heading": "Horticulture",
+        "text": "L'alisma plantain est commercialisée pour la culture dans les jardins d'eau décoratifs.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -199,7 +241,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -321,7 +363,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30019518-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or helophyte",
@@ -329,7 +371,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30019518-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000755470.webp",
@@ -342,6 +384,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

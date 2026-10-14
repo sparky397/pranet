@@ -17,30 +17,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "菜王棕"
-    ],
-    "en": [
-      "Imperial Palm"
-    ],
     "pt": [
       "Palmeira-imperial"
     ],
     "ka": [
       "ორეოდოქსა"
     ],
+    "zh": [
+      "菜王棕"
+    ],
     "ja": [
       "ダイオウヤシ"
+    ],
+    "en": [
+      "Imperial Palm"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q141233",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q141233",
   "search_names": {
@@ -56,13 +56,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Roystonea oleracea」",
+      "source": "Wikipedia (en): Roystonea oleracea",
       "source_url": "https://en.wikipedia.org/wiki/Roystonea_oleracea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1319103774,
       "text": "Roystonea oleracea, sometimes known as the Caribbean royal palm, palmiste, imperial palm or cabbage palm, is a species of palm which is native to the Lesser Antilles, Colombia, Venezuela, and Trinidad and Tobago. It is also reportedly naturalized in Guyana and on the islands of Mauritius and Réunion in the Indian Ocean."
+    },
+    "es": {
+      "source": "Wikipedia (es): Roystonea oleracea",
+      "source_url": "https://es.wikipedia.org/wiki/Roystonea_oleracea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175415945,
+      "text": "El chaguaramo, mapora o palma real es una especie de palmera originaria de las Antillas Menores, Venezuela y Colombia. Es una planta de gran porte, de hasta 40 m de altura y muy apreciada por su gran valor ornamental por lo cual ha sido cultivada en muchos países. Individuos de esta especie son los que tienen mayor altura y mayor diámetro caulinar del género."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Roystonea oleracea",
+      "source_url": "https://fr.wikipedia.org/wiki/Roystonea_oleracea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231643792,
+      "text": "Le palmier royal des Caraïbes ou palmiste franc , Roystonea oleracea, est une espèce de palmiers appartenant au genre Roystonea."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Palmeira-imperial",
+      "source_url": "https://pt.wikipedia.org/wiki/Palmeira-imperial",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71336233,
+      "text": "A palmeira-imperial (Roystonea oleracea (Palmae) ou Oreodoxa oleracea), também chamada palmeira-real, é uma palmeira originária das Antilhas. Pertence ao género botânico Roystonea da família Arecaceae. Foi aclimatada pelos franceses no jardim botânico La Gabrielle, instalado na Guiana Francesa e depois transferida para o Jardin de Pamplemousse, nas Ilhas Maurícias."
+    },
+    "id": {
+      "source": "Wikipedia (id): Roystonea oleracea",
+      "source_url": "https://id.wikipedia.org/wiki/Roystonea_oleracea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29674975,
+      "text": "Roystonea oleracea adalah sebuah spesies palem yang berasal dari Antillen Kecil, Kolombia, Venezuela, dan Trinidad dan Tobago. Spesies tersebut juga dikabarkan didtangkan ke Guyana dan kepulauan Mauritius dan Réunion di Samudra Hindia."
     }
   },
   "edible": {
@@ -76,7 +112,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -96,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/222805-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -104,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/222805-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000298338.webp",
@@ -117,6 +153,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 240,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

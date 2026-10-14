@@ -14,20 +14,23 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "bn": [
-      "বাবলা"
-    ],
-    "zh": [
-      "阿拉伯金合欢"
+    "es": [
+      "Acacia nilotica"
     ],
     "bg": [
       "нилска акация"
     ],
     "cs": [
       "akácie arabská"
+    ],
+    "zh": [
+      "阿拉伯金合欢"
+    ],
+    "bn": [
+      "বাবলা"
     ],
     "hi": [
       "बबूल"
@@ -115,7 +118,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15525126",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15525126",
   "search_names": {
@@ -132,13 +135,77 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Vachellia nilotica」",
+      "source": "Wikipedia (en): Vachellia nilotica",
       "source_url": "https://en.wikipedia.org/wiki/Vachellia_nilotica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378680101,
       "text": "Vachellia nilotica, more commonly known as Acacia nilotica, and by the vernacular names of gum arabic tree, babul, thorn mimosa, Egyptian acacia or thorny acacia, is a flowering tree in the family Fabaceae. It is native to Africa, the Middle East and the Indian subcontinent."
+    },
+    "es": {
+      "source": "Wikipedia (es): Acacia nilotica",
+      "source_url": "https://es.wikipedia.org/wiki/Acacia_nilotica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582818,
+      "text": "La goma arábiga es una especie de Acacia nativa de África y del subcontinente indio. Actualmente también se ha convertido en una especie invasora que causa problemas en Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vachellia nilotica",
+      "source_url": "https://fr.wikipedia.org/wiki/Vachellia_nilotica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223031085,
+      "text": "Vachellia nilotica, le gommier rouge, est une espèce de plantes dicotylédones de la famille des Fabaceae, sous-famille des Mimosoideae, originaire d'Afrique de l'Est et d'Asie de l'Ouest.\nCe sont des arbustes ou petits arbres, qui croissent préférentiellement dans les zones désertiques, dans des terrains sableux et secs, sous un climat aride."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vachellia nilotica",
+      "source_url": "https://pt.wikipedia.org/wiki/Vachellia_nilotica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71548007,
+      "text": "Vachellia nilotica é uma espécie de leguminosa do gênero Vachellia, pertencente à família Fabaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Vachellia nilotica",
+      "source_url": "https://id.wikipedia.org/wiki/Vachellia_nilotica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28666337,
+      "text": "Vachellia nilotica atau yang lebih dikenal sebagai Acacia nilotica dan juga disebut pohon gom arab atau akasia berduri, adalah pohon berbunga yang termasuk dalam famili Fabaceae. Spesies ini berasal dari wilayah Afrika, Timur Tengah, serta anak benua India."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Acacia nilotica § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Acacia_nilotica#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171582818,
+        "heading": "Toxicidad",
+        "text": "Las especies del género Acacia pueden contener derivados de la dimetiltriptamina y glucósidos cianogénicos en las hojas, las semillas y la corteza, cuya ingestión puede suponer un riesgo para la salud.​",
+        "truncated": false
+      }
+    },
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Vachellia nilotica § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Vachellia_nilotica#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 223031085,
+        "heading": "Culture",
+        "text": "Le gommier rouge est un arbre de croissance lente supportant tous les types de sols (acide ou calcaire, sols lourds ou légers). Ses profondes racines lui confèrent une grande résistance à la sécheresse.\nIl a besoin du plein soleil et ne peut pousser qu'en Zone USDA 10[réf. nécessaire].",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -157,7 +224,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -246,7 +313,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77089275-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling shrub or tree",
@@ -254,7 +321,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77089275-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001284776.webp",
@@ -267,6 +334,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 281,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

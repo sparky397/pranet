@@ -14,7 +14,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "zh": [
@@ -31,18 +31,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15225233",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15225233",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Allium carolinianum」",
+      "source": "Wikipedia (en): Allium carolinianum",
       "source_url": "https://en.wikipedia.org/wiki/Allium_carolinianum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1361579138,
       "text": "Allium carolinianum is a species of onions native to central and southern Asia. It grows in sunlit slopes at elevations of 3000–5000 m."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Allium carolinianum",
+      "source_url": "https://fr.wikipedia.org/wiki/Allium_carolinianum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238838363,
+      "text": "Allium carolinianum est une espèce de plantes à fleurs de la famille des Amaryllidaceae. Elle est originaire d'Asie centrale, de Mongolie et de l'Himalaya. C'est une géophyte bulbeuse qui pousse principalement dans les biomes subalpins ou subarctiques."
+    },
+    "id": {
+      "source": "Wikipedia (id): Allium carolinianum",
+      "source_url": "https://id.wikipedia.org/wiki/Allium_carolinianum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26156530,
+      "text": "Allium carolinianum adalah spesies tumbuhan yang tergolong ke dalam famili Amaryllidaceae. Spesies ini juga merupakan bagian dari ordo Asparagales. Spesies Allium carolinianum sendiri merupakan bagian dari genus bawang Allium. Nama ilmiah dari spesies ini pertama kali diterbitkan oleh Redouté."
     }
   },
   "edible": {
@@ -54,7 +72,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -76,7 +94,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/527786-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -84,7 +102,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/527786-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000755908.webp",
@@ -97,6 +115,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -21,18 +21,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "タカナタマメ"
     ],
-    "en": [
-      "maunaloa"
-    ],
     "zh": [
-      "小果刀豆",
       "小刀豆",
+      "小果刀豆",
       "假刀豆"
     ],
     "sw": [
@@ -40,31 +37,34 @@
     ],
     "te": [
       "అడవిచమ్మ"
+    ],
+    "en": [
+      "maunaloa"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q10957851",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q10957851",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「タカナタマメ」",
+      "source": "Wikipedia (ja): タカナタマメ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AB%E3%83%8A%E3%82%BF%E3%83%9E%E3%83%A1",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108498720,
       "text": "タカナタマメ はマメ科ナタマメ属の常緑つる性草本。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Canavalia cathartica」",
+      "source": "Wikipedia (en): Canavalia cathartica",
       "source_url": "https://en.wikipedia.org/wiki/Canavalia_cathartica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360809760,
       "text": "Canavalia cathartica, commonly known as maunaloa in the Hawaiian language, is a species of flowering plant in the legume family, Fabaceae. The Hawaiian name translates as long mountain. In English it may also be known as poisonous sea bean, ground jack bean, horse bean, silky sea bean or wild bean. It has a Paleotropical distribution, occurring throughout tropical regions in Asia, Africa, Australia, and many Pacific Islands, and extending just into subtropical areas. It is not native to Hawaii, and is an invasive species there."
     }
@@ -80,7 +80,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -154,7 +154,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/167471-3",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing perennial or shrub",
@@ -162,7 +162,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/167471-3",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000189794.webp",
@@ -175,6 +175,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

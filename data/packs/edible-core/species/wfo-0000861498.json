@@ -18,38 +18,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "カモガヤ"
     ],
-    "cy": [
-      "Troed y ceiliog"
-    ],
-    "en": [
-      "Cock's-foot"
-    ],
-    "nl": [
-      "Kropaar"
-    ],
-    "cs": [
-      "srha laločnatá"
-    ],
     "fr": [
-      "dactyle vulgaire",
-      "Dactyle pelotonné"
-    ],
-    "de": [
-      "Knäuelgras",
-      "Gewöhnliches Knäuelgras"
-    ],
-    "fi": [
-      "niittykoiranheinä",
-      "koiranheinä"
-    ],
-    "zh": [
-      "鸭茅"
+      "Dactyle pelotonné",
+      "dactyle vulgaire"
     ],
     "is": [
       "Axhnoðapuntur"
@@ -63,8 +40,19 @@
     "ru": [
       "ежа сборная"
     ],
+    "fi": [
+      "koiranheinä",
+      "niittykoiranheinä"
+    ],
     "uk": [
       "грястиця збірна"
+    ],
+    "de": [
+      "Gewöhnliches Knäuelgras",
+      "Knäuelgras"
+    ],
+    "cs": [
+      "srha laločnatá"
     ],
     "br": [
       "Geot gallek"
@@ -87,8 +75,14 @@
     "sv": [
       "hundäxing"
     ],
+    "nl": [
+      "kropaar"
+    ],
     "kk": [
       "Кәдімгі тарғақшөп"
+    ],
+    "zh": [
+      "鸭茅"
     ],
     "hu": [
       "csomós ebír"
@@ -104,6 +98,9 @@
     ],
     "da": [
       "Almindelig Hundegræs"
+    ],
+    "cy": [
+      "Troed y ceiliog"
     ],
     "eu": [
       "Alka-belar"
@@ -155,13 +152,16 @@
     ],
     "hr": [
       "Klupčasta oštrica"
+    ],
+    "en": [
+      "Cock's-foot"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161735",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161735",
   "search_names": {
@@ -176,22 +176,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カモガヤ」",
+      "source": "Wikipedia (ja): カモガヤ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E3%82%AC%E3%83%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108168278,
       "text": "カモガヤ はイネ科カモガヤ属の多年草。英名のオーチャードグラスでも流通する。和名のカモガヤ（鴨茅）は、英名の cock's-foot grass を訳すときに cock（ニワトリ）を duck（カモ）と間違えたといわれる。キヌイトソウ（絹糸草）ともいう。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Dactylis glomerata」",
+      "source": "Wikipedia (en): Dactylis glomerata",
       "source_url": "https://en.wikipedia.org/wiki/Dactylis_glomerata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1367275754,
       "text": "Dactylis glomerata is a species of flowering plant in the grass family Poaceae, commonly known as barnyard grass, cocksfoot grass, cockspur, orchard grass, or cat grass (due to its popularity for use with domestic cats). It is a cool-season perennial C3 tufted grass native throughout most of Europe, temperate Asia, and northern Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dactylis glomerata",
+      "source_url": "https://es.wikipedia.org/wiki/Dactylis_glomerata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171671755,
+      "text": "Dactylis glomerata es una gramínea perenne, nativa de Europa y con importancia como planta forrajera."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dactyle pelotonné",
+      "source_url": "https://fr.wikipedia.org/wiki/Dactyle_pelotonn%C3%A9",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233843354,
+      "text": "Dactylis glomerata, le dactyle aggloméré ou dactyle pelotonné, est une espèce de plantes monocotylédones, de la famille des Poaceae (graminées), sous-famille des Pooideae, originaire de l'Ancien Monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Dactylis glomerata",
+      "source_url": "https://pt.wikipedia.org/wiki/Dactylis_glomerata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70948729,
+      "text": "Dactylis glomerata é uma espécie de planta com flor pertencente à família Poaceae. Junto com Agrostis capillaris, é uma das duas espécies a que se dá o nome vulgar panasco."
     }
   },
   "edible": {
@@ -205,7 +232,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -426,7 +453,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/397309-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -434,7 +461,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/397309-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000861498.webp",
@@ -447,6 +474,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

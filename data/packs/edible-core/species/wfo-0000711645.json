@@ -26,42 +26,73 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "bastardcedar"
-    ],
-    "zh": [
-      "毛可可",
-      "瘤果麻"
-    ],
     "pt": [
+      "Mutambo",
       "mutamba"
+    ],
+    "id": [
+      "Jati belanda"
     ],
     "ml": [
       "കാട്ടുരുദ്രാക്ഷം"
     ],
     "jv": [
       "Jati walanda"
+    ],
+    "en": [
+      "bastardcedar"
+    ],
+    "zh": [
+      "毛可可",
+      "瘤果麻"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3281935",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3281935",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Guazuma ulmifolia」",
+      "source": "Wikipedia (en): Guazuma ulmifolia",
       "source_url": "https://en.wikipedia.org/wiki/Guazuma_ulmifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1345002693,
       "text": "Guazuma ulmifolia, commonly known as West Indian elm or bay cedar, is a medium-sized tree normally found in pastures and disturbed forests. This flowering plant from the family Malvaceae grows up to 30m in height and 30–40 cm in diameter. It is widely found in areas such as the Caribbean, South America, Central America and Mexico serving several uses that vary from its value in carpentry to its utility in medicine."
+    },
+    "es": {
+      "source": "Wikipedia (es): Guazuma ulmifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Guazuma_ulmifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173321647,
+      "text": "Guazuma ulmifolia, llamado comúnmente guasmo, guásimo, guásima, guácima, caulote, mutamba, bay cedar, cuaulote (del náhuatl), tapaculo, majahua o pixoy (maya) es un árbol de mediano porte de la familia de las malváceas, nativo de América tropical."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Mutambo",
+      "source_url": "https://pt.wikipedia.org/wiki/Mutambo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70360593,
+      "text": "A Guazuma ulmifolia é espécie arbórea pioneira, integrante da familía Malvaceae, conhecida com os nomes populares: mutamba, mutambo, mucungo, fruta-de-macaco, embireira, pau-de-pomba, guamaca, pojó, guaxima-macho, no Pará como embira e mutamba-verdadeira, no Rio Grande do Sul como embiru, no Pará e na Bahia como periquiteira, no Mato Grosso como envireira e pau-de-bicho e em São Paulo como araticum-bravo, cabeça-de-negro e guaxima-torcida, é uma árvore que ocorre nativamente do México ao Brasil. \nEla é encontrada em todos os estados brasileiros nos domínios fitogeográficos: Amazônia, Mata Atlântica, Cerrado e Caatinga em vegetações de área antrópica, floresta de terra firme, Floresta Estacional Decidual, Floresta Estacional Semidecidual, Floresta Ombrófila e Floresta Ombrófila Mista."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jati belanda",
+      "source_url": "https://id.wikipedia.org/wiki/Jati_belanda",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29496560,
+      "text": "Jati Belanda adalah salah satu tumbuhan dari suku Malvaceae yang dikenal sebagai salah satu tumbuhan obat. Daunnya umum digunakan dalam jamu pelangsing tubuh dan biasanya diolah dalam bentuk teh."
     }
   },
   "edible": {
@@ -80,7 +111,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -136,7 +167,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/823393-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -144,7 +175,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/823393-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000711645.webp",
@@ -157,6 +188,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -24,23 +24,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ツルレイシ"
     ],
-    "en": [
-      "balsampear"
+    "pt": [
+      "Melão-de-são-caetano"
     ],
-    "zh": [
-      "苦瓜",
-      "苦瓜子",
-      "苦瓜Kugua",
-      "野苦瓜"
-    ],
-    "ryu": [
-      "ゴーヤー"
+    "id": [
+      "Peria"
     ],
     "az": [
       "Qüdrət narı"
@@ -77,9 +71,6 @@
     ],
     "ht": [
       "Asosi"
-    ],
-    "id": [
-      "Peria"
     ],
     "ilo": [
       "Paria"
@@ -152,6 +143,12 @@
     ],
     "vi": [
       "khổ qua"
+    ],
+    "zh": [
+      "苦瓜",
+      "苦瓜子",
+      "苦瓜Kugua",
+      "野苦瓜"
     ],
     "eu": [
       "Meloi mikatz"
@@ -273,6 +270,9 @@
     "nb": [
       "balsamagurk"
     ],
+    "ryu": [
+      "ゴーヤー"
+    ],
     "tay": [
       "luhi"
     ],
@@ -299,13 +299,16 @@
     ],
     "gor": [
       "Paria"
+    ],
+    "en": [
+      "balsampear"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q428750",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q428750",
   "search_names": {
@@ -327,36 +330,96 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ツルレイシ」",
+      "source": "Wikipedia (ja): ツルレイシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%83%AC%E3%82%A4%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111294149,
       "text": "ツルレイシ は、ウリ科の植物の一種、およびその果実である。原産地は熱帯アジア。おもに未熟な緑色の果実を野菜として利用する。一般的には、ニガウリ（苦瓜） もしくはゴーヤーと呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Momordica charantia」",
+      "source": "Wikipedia (en): Momordica charantia",
       "source_url": "https://en.wikipedia.org/wiki/Momordica_charantia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371539848,
       "text": "Momordica charantia is a tropical and subtropical vine of the family Cucurbitaceae, widely grown in Asia, Africa, and the Caribbean for its edible fruit. Its many varieties differ substantially in the shape and bitterness of the fruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Momordica charantia",
+      "source_url": "https://es.wikipedia.org/wiki/Momordica_charantia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174695757,
+      "text": "Momordica charantia, conocida popularmente como melón amargo, caigua amarga, pimpinillo, cundeamor chino, ampalea o balsamina, también ampalayá, aplayá, o amargoso en el español filipino, es una especie de la familia Cucurbitaceae ampliamente cultivada en las regiones tropicales y subtropicales de Asia, África y el Caribe por su fruta comestible. También es utilizada como planta medicinal en las Américas, Asia, África y Oceanía."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Momordica charantia",
+      "source_url": "https://fr.wikipedia.org/wiki/Momordica_charantia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240157320,
+      "text": "Momordica charantia, le Momordique, la margose, le melon amer, le concombre amer, le maroka... est une espèce de plantes à fleurs de la famille des Cucurbitaceae. C'est une plante potagère grimpante cultivée, en annuelle, dans les climats chauds ou tempérés."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Melão-de-são-caetano",
+      "source_url": "https://pt.wikipedia.org/wiki/Mel%C3%A3o-de-s%C3%A3o-caetano",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63817243,
+      "text": "Melão-de-são-caetano é uma espécie da família Cucurbitaceae, originária de África e difundida no sudoeste asiático devido ao seu fruto comestível e pelas suas propriedades medicinais."
+    },
+    "id": {
+      "source": "Wikipedia (id): Peria",
+      "source_url": "https://id.wikipedia.org/wiki/Peria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29908253,
+      "text": "Peria, paria, atau pare adalah tumbuhan merambat yang berasal dari wilayah Asia Tropis, terutama daerah India bagian barat, yaitu Assam dan Burma. Anggota suku labu-labuan atau Cucurbitaceae ini biasa dibudidayakan untuk dimanfaatkan sebagai sayuran maupun bahan pengobatan.\nNama Momordica yang melekat pada nama binomialnya berarti \"gigitan\" yang menunjukkan pemerian tepi daunnya yang bergerigi menyerupai bekas gigitan."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ツルレイシ」の節「栽培」",
+        "source": "Wikipedia (ja): ツルレイシ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%83%AC%E3%82%A4%E3%82%B7#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111294149,
         "heading": "栽培",
         "text": "つる性植物のため、棒や網などを立て掛けてつるを這わせるようにして栽培される。栽培には十分な日照が必要で、生育適温は20 - 30度、発芽には20度以上が必要とされる。夏場の日照が強くて気温が高く、雨も豊富な時期であれば種を蒔いて露地栽培することができるが、寒冷地ではハウス栽培も可能である。日本では、種まき（育苗）は3 - 4月、植え付けは4 - 5月、収穫は実が黄色くなる前の7 - 9月ごろが栽培の時期である。はじめのうちは、生育は散漫であるが、夏に入ると旺盛に生育し秋まで収穫が続く。酸性土壌を嫌い多肥を好む性質をもっており、特に夏場は水やりと追肥を十分に管理すると果実が充実する。他のウリ科作物同様、連作障害を生じることから、2 - 3年ほどウリ科野菜を作っていない土地を選ぶ必要がある。家庭などでは、大型サイズのプランター（コンテナ）を使った栽培も行われている。種からも育てられるが、市販の接ぎ木苗を選ぶと連作障害も少なくなる傾向がある。\n\n種まきに使う種は一晩水につけて十分吸水させ、育苗ポットに撒いて暖かい場所で育苗される。種皮がかたいので、傷をつけてから一昼夜浸水して吸水させてから蒔くと、発芽が良くなる。苗は本葉3 - 4枚のころが植え付けの適期で、植え付けは株間50 cm以上空けて水をたくさん与える。親づるを摘心して子づるを増やすことが重要で、本葉が8枚程度開いたときに本葉5 - 6枚残して枝先（親つる）を切り取り、脇芽（子つる）を4本前後伸ばすようにする。細い巻きひげを延ばして上に伸びていくので、株に支柱やネットを張って下から伸びてきた子づるを誘引するようにすれば、自然に這わせることができる。つるをフェンスに絡ませたり、窓外に高く誘引したりして、グリーンカーテンにしてもよい。\n植え付けから約1か月後で開花が始まる。花が開き始めたら1か月に1 - 2回程度追肥を行って土寄せをするとよいが、肥料不足になると葉が黄色に変色してくる。受粉は基本的に昆虫が行うが、朝に咲いた雄花を摘んで雌花につける人工受粉を行うと着果率が高くなる。実が充実してくるころの水やりの管理が重要で、水切れが起こると細くて下ぶくれの実になる。緑色の若い未熟果を食べるため、雌花開花後15 - 20日が収穫の適期となる。次々に実をつけていくので、大きくなりすぎないうちに実の上のつるをハサミで切り取って収穫される。収穫せずにおくと果実は次第に黄色くなって完熟し、そのまま放置すると裂開して、中から赤いゼリー状の仮種皮に包まれた種子が出てくる。種子は、洗って乾燥させ冷暗所に保存すれば、翌年の種まきに使える。ただし、市販の種苗はF1品種が多いため、自家採種した種から結実するとは限らない。\n病害の発生は少なく、楽に栽培できる。\n\n■ グリーンカーテン\n食用栽培のほか、つる性を生かして南・西向きの窓辺やベランダなどの真夏の強い日差しを遮るために、グリーンカーテンとしての利用も行われている。日除け代わりに、ベランダや窓辺に大きめの鉢とつるを這わせる大きめのネット張って栽培すれば、ゴーヤー（ツルレイシ）の小ぶりの葉の見た目の柔らかさ、葉の蒸散作用によって体感温度が下がって涼感が得られる。きれいなグリーンカーテンを仕立てるためには、本葉3 - 4枚のころに親づるを摘心して、伸びた子づるをネットに均等に配置するように誘引しておけば、後は上に向かって伸びていく。",
         "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Momordica charantia § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Momordica_charantia#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240157320,
+        "heading": "Culture",
+        "text": "La culture demande des températures comprises entre 24 et 35 °C, un sol frais mais non détrempé, une altitude inférieure à 1 700 m. Le forçage des jeunes plants en milieu protégé est conseillé en climat tempéré. La floraison intervient deux mois après le semis. Au-delà de 14 heures de jour la floraison est ralentie. La fructification peut être prolongée jusqu'à 6 mois par une récolte régulière des fruits verts. Elle serait quasiment indifférente à la longueur du jour.\nEn culture, on prévoit un tuteurage à 2,5 m avec filet et une plante tous les 50 cm. La paillage permet de tenir le sol humide. La fertilisation doit être riche en azote et prévenir la carence en bore à laquelle la margose est sensible. Des apports de micronutriments sont favorables à la croissance et la fructification, une pulvérisation foliaire de ZnSO4+ FeSO4+ MgSO4 en solution à 0,5 %, 35 et 45 jours après le semis a été expérimentée avec succès en 2017. Une étude roumaine démontre que la conduite de la plante sur 2 branches augmente la production et la précocité des fruits.\nUn sol couvert de paillis favorise une récolte abondante et de bonne qualité, plus précoce d'une semaine avec un paillis plastique. Une meilleure humidité du sol est observée sous paillis plastique ou sous paillis minéral, d'après une comparaison de paillis systématique indienne (2018). En hydroponie, les substrats perlite + vermiculite et vermiculite + fibre de coco donnent les meilleurs rendements.\nLes maladies fongiques (fusarium, mildiou et oïdium) causent des dommages, les virus (Geminiviridae, virus mosaïques…) également, ainsi que le flétrissement bactérien. 3 gènes de résistance à l'oïdium ont été identifiés en 2021.\nEn climat tropical, la mouche du melon est avec les pucerons le principal ravageur.",
+        "truncated": true
+      }
+    },
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Momordica charantia § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Momordica_charantia#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240157320,
+        "heading": "Toxicité",
+        "text": "■ Abortif démontré\nUtilisée comme abortif en médecine traditionnelle, la consommation de margose est déconseillée pendant la grossesse. Une communication brésilienne (2018) note des effets indésirables (perte de poids, baisse de consommation d'eau, signes cliniques de toxicité) chez les rates quelle que soit la dose de feuilles sèches administrée pendant 22 jours de gestation. Un cas de recrudescence des contractions utérines pendant 5 heures suivant la consommation de margose par une femme enceinte de 6 mois est décrit à la Réunion (2018).\nLa tératogénicité des extraits de graines et toxicité cardiaque (hypertrophie sévère) de l'extrait de fruit ont été démontrées (2019, Université de Riyad) chez l’embryon de poisson zèbre (Danio rerio). La graine contient une alpha-momorcharine aux propriétés inflammatoires cytotoxiques démontrées in vitro et qui stimule la réaction inflammatoire des monocytes (2019).\nOn trouve souvent reproduits les conseils de prudence de Tori Hudson (deux cas d'hypoglycémie chez des enfants, risque d'allergie à la vicine — un hétéroside toxique — contenu dans la graine), mais on ne signale pas de toxicité chez l'homme pour les doses normalement consommées. L'expérimentation animale va dans le même sens. Certains effets indésirables sont signalés à partir de 4 essais cliniques non randomisés et non contrôlés versus placebo, dont des effets additifs en présence d'autres agents abaissant le glucose sanguin. Les allergies sont rares, et aucun cas de favisme n'a été signalé. La consommation du jus à forte doses peut majorer les effets des médicaments hypoglycémiants oraux (metformine, glibenclamide…) et entrainer une hypoglycémie chez les diabétiques.",
+        "truncated": true
       }
     }
   },
@@ -373,7 +436,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -514,7 +577,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/293413-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing annual",
@@ -522,7 +585,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/293413-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000376916.webp",
@@ -535,6 +598,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 272,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

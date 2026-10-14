@@ -42,32 +42,29 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "common wireweed"
+    "id": [
+      "Galunggang"
     ],
     "zh": [
+      "黄花稔",
       "細葉金午時花",
       "黄花棯",
-      "黄花稔",
       "黄花捻"
-    ],
-    "ee": [
-      "Tchakatchaka"
-    ],
-    "ta": [
-      "அரிவாள் மணைப்பூண்டு",
-      "அரிவாள் மூக்குப் பச்சிலை",
-      "காயப்பூண்டு",
-      "அரிவாள்மனை பூண்டு"
     ],
     "th": [
       "หญ้าขัดใบยาว"
     ],
     "bn": [
       "বেড়েলা"
+    ],
+    "ta": [
+      "அரிவாள்மனை பூண்டு",
+      "அரிவாள் மணைப்பூண்டு",
+      "அரிவாள் மூக்குப் பச்சிலை",
+      "காயப்பூண்டு"
     ],
     "ml": [
       "മലങ്കുറുന്തോട്ടി"
@@ -83,13 +80,19 @@
     ],
     "shn": [
       "တူၼ်ႈယႃႈၶတ်းမွၼ်း"
+    ],
+    "en": [
+      "common wireweed"
+    ],
+    "ee": [
+      "Tchakatchaka"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q11178345",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q11178345",
   "search_names": {
@@ -101,13 +104,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sida acuta」",
+      "source": "Wikipedia (en): Sida acuta",
       "source_url": "https://en.wikipedia.org/wiki/Sida_acuta",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1352863917,
       "text": "Sida acuta, the common wireweed, is a species of flowering plant in the mallow family, Malvaceae. It is believed to have originated in Central America, but today has a pantropical distribution and is considered a weed in some areas. In India, the indigenous people of Garo Hills in Meghalaya use this plant to make brooms."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sida acuta",
+      "source_url": "https://es.wikipedia.org/wiki/Sida_acuta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 169298635,
+      "text": "Sida acuta es una especie de planta fanerógama perteneciente a la familia Malvaceae. Se cree que tiene un origen en Centroamérica, pero hoy tiene una distribución pantropical y está considerada una maleza en algunas áreas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sida acuta",
+      "source_url": "https://fr.wikipedia.org/wiki/Sida_acuta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 214425719,
+      "text": "Sida acuta, le sida à feuilles aiguës, sida aigu, herbe dure ou herbe à balais, est une espèce de plantes dicotylédones de la famille des Malvaceae, sous-famille des Malvoideae, originaire d'Amérique centrale."
+    },
+    "id": {
+      "source": "Wikipedia (id): Galunggang",
+      "source_url": "https://id.wikipedia.org/wiki/Galunggang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29821173,
+      "text": "Galunggang (Sida acuta; bahasa Inggris: common wireweed) adalah terna perenial dan termasuk ke dalam famili Malvaceae. Bunganya berwarna putih hingga kuning muda. Akarnya berupa akar tunggang, sehingga dapat membantu tumbuhan ini bertahan hidup dalam kekeringan. Tumbuhan ini dapat tumbuh di segala jenis tanah, keculi tanah gamping dan merupakan gulma yang tumbuh di padang rumput yang terdegradasi, perkebunan pohon, sereal, tumbuhan umbi-umbian, sayuran, hutan tumbuhan, halaman rumput, pinggir jalan, dan tempat sampah. Tumbuhan ini berasal dari Amerika Tengah dan sudah menyebar luas ke seluruh wilayah tropis dan sub-tropis, termasuk di Indonesia, salah satunya di Gunung Prau."
     }
   },
   "edible": {
@@ -122,7 +152,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -263,7 +293,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/235518-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or subshrub",
@@ -271,7 +301,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/235518-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000496936.webp",
@@ -284,6 +314,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 396,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -21,16 +21,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "錫蘭橄欖",
-      "锡兰杜英",
-      "锡兰榄"
+    "id": [
+      "Sambung susu"
     ],
     "ml": [
       "കാരമാവ്"
+    ],
+    "zh": [
+      "锡兰榄",
+      "錫蘭橄欖",
+      "锡兰杜英"
     ],
     "si": [
       "වෙරළු"
@@ -44,9 +47,6 @@
     "as": [
       "জলফাই"
     ],
-    "id": [
-      "Sambung susu"
-    ],
     "syl": [
       "ꠛꠦꠟꠚꠁ"
     ]
@@ -55,18 +55,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q28501",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q28501",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Elaeocarpus serratus」",
+      "source": "Wikipedia (en): Elaeocarpus serratus",
       "source_url": "https://en.wikipedia.org/wiki/Elaeocarpus_serratus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1325285440,
       "text": "Elaeocarpus serratus, the Ceylon olive, is a tropical flowering plant in the family Elaeocarpaceae. It is a medium to large tree, with white flowers. It has a disjunctive distribution, with the species occurring in Sri Lanka and southern India, and in Assam, Bangladesh and other parts in the north of the Indian subcontinent. The fruit is commonly eaten, and people also use the plant for ornamental, religious and folk-medicinal purposes. There are historical records of traditional-medicine use of the plant. Paradoxurus jerdoni consumes parts of the tree."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Elaeocarpus serratus",
+      "source_url": "https://fr.wikipedia.org/wiki/Elaeocarpus_serratus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 218279742,
+      "text": "Elaeocarpus serratus, aussi appelé olivier de Ceylan, est une espèce de plantes à fleurs de la famille des Elaeocarpaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sambung susu",
+      "source_url": "https://id.wikipedia.org/wiki/Sambung_susu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29706174,
+      "text": "Elaeocarpus serratus atau sambung susu dalah tanaman berbunga tropis dalam keluarga Elaeocarpaceae. Ini adalah pohon berukuran sedang hingga besar, dengan bunga berwarna putih. Ia mempunyai sebaran disjungtif, dengan spesies yang terdapat di Sri Lanka dan India selatan, dan di Assam, Bangladesh, dan bagian lain di utara anak benua India. Buahnya biasa dimakan, dan masyarakat juga memanfaatkan tanaman ini untuk keperluan hias, keagamaan, dan pengobatan tradisional. Ada catatan sejarah penggunaan tanaman ini untuk pengobatan tradisional."
     }
   },
   "edible": {
@@ -80,7 +98,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -97,7 +115,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/833955-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -105,7 +123,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/833955-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000664758.webp",
@@ -118,6 +136,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 277,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

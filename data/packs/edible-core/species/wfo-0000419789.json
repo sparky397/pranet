@@ -12,46 +12,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Bach-Ehrenpreis",
-      "Bachbungen-Ehrenpreis",
-      "Bachbunge"
-    ],
-    "en": [
-      "European speedwell",
-      "Brooklime",
-      "brooklime, water, marsh speedwell"
-    ],
-    "fr": [
-      "Véronique des ruisseaux"
-    ],
-    "nl": [
-      "Beekpunge"
-    ],
-    "cs": [
-      "rozrazil potoční"
-    ],
-    "fi": [
-      "ojatädyke"
-    ],
-    "zh": [
-      "直立婆婆纳",
-      "有柄水苦荬"
-    ],
-    "ast": [
-      "becabunga"
-    ],
-    "sl": [
-      "studenčni jetičnik"
-    ],
     "pl": [
       "Przetacznik bobowniczek"
     ],
     "ru": [
       "Вероника поточная"
+    ],
+    "fr": [
+      "Véronique des ruisseaux"
     ],
     "ro": [
       "Bobornic"
@@ -59,17 +30,32 @@
     "et": [
       "ojamailane"
     ],
+    "de": [
+      "Bachbunge",
+      "Bach-Ehrenpreis",
+      "Bachbungen-Ehrenpreis"
+    ],
     "hr": [
       "Čestoslavica"
     ],
     "hsb": [
       "Rěčny rozraz"
     ],
+    "nl": [
+      "beekpunge"
+    ],
     "gv": [
       "Burleek"
     ],
     "sv": [
       "Bäckveronika"
+    ],
+    "cs": [
+      "rozrazil potoční"
+    ],
+    "zh": [
+      "有柄水苦荬",
+      "直立婆婆纳"
     ],
     "da": [
       "Tykbladet Ærenpris"
@@ -104,6 +90,9 @@
     "sr": [
       "Водени разгон"
     ],
+    "fi": [
+      "ojatädyke"
+    ],
     "hy": [
       "Բերենիկե հոսքավոր"
     ],
@@ -127,13 +116,24 @@
     ],
     "lt": [
       "Upelinė veronika"
+    ],
+    "sl": [
+      "studenčni jetičnik"
+    ],
+    "en": [
+      "European speedwell",
+      "Brooklime",
+      "brooklime, water, marsh speedwell"
+    ],
+    "ast": [
+      "becabunga"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164053",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164053",
   "search_names": {
@@ -143,13 +143,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Veronica beccabunga」",
+      "source": "Wikipedia (en): Veronica beccabunga",
       "source_url": "https://en.wikipedia.org/wiki/Veronica_beccabunga",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376540424,
       "text": "Veronica beccabunga, the European speedwell or brooklime, is a succulent herbaceous perennial plant belonging to the flowering plant family Plantaginaceae. It grows on the margins of brooks and ditches in Europe, North Africa, and north and western Asia. It can be found on other continents as an introduced species. It has smooth spreading succulent branches that are often reddish, blunt oblong finely serrate leaves in opposite pairs close to the stem, and small bright blue or pink flowers with four petals."
+    },
+    "es": {
+      "source": "Wikipedia (es): Veronica beccabunga",
+      "source_url": "https://es.wikipedia.org/wiki/Veronica_beccabunga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172617521,
+      "text": "La verónica acuática o bacabunga es una planta de la familia de las plantagináceas. Es originaria de Europa y el norte de África. Se utiliza como planta medicinal como depurativa y diurética."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Veronica beccabunga",
+      "source_url": "https://fr.wikipedia.org/wiki/Veronica_beccabunga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208173117,
+      "text": "La Véronique des ruisseaux, parfois appelée aussi Cresson de cheval ou Salade de chouette, est une espèce de plantes vivaces du genre Veronica des lieux humides."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Veronica beccabunga",
+      "source_url": "https://pt.wikipedia.org/wiki/Veronica_beccabunga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 42789269,
+      "text": "Veronica beccabunga é uma espécie de planta com flor pertencente à família Scrophulariaceae."
     }
   },
   "edible": {
@@ -164,7 +191,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -269,7 +296,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/811680-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -277,6 +304,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/811680-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

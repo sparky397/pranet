@@ -11,24 +11,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "red mangrove",
-      "American Mangrove"
+    "pt": [
+      "Mangue-vermelho"
     ],
-    "es": [
-      "Mangle Colorado"
-    ],
-    "ast": [
-      "mangle bermeyu"
+    "id": [
+      "Bakau merah"
     ],
     "ht": [
       "Mangliye"
-    ],
-    "pt": [
-      "Mangue-vermelho"
     ],
     "eo": [
       "Manglo"
@@ -84,29 +77,72 @@
     "ar": [
       "شورى"
     ],
-    "id": [
-      "Bakau merah"
-    ],
     "fa": [
       "چندل سرخ"
+    ],
+    "en": [
+      "red mangrove",
+      "American Mangrove"
+    ],
+    "es": [
+      "Mangle Colorado"
+    ],
+    "ast": [
+      "mangle bermeyu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q853914",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q853914",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rhizophora mangle」",
+      "source": "Wikipedia (en): Rhizophora mangle",
       "source_url": "https://en.wikipedia.org/wiki/Rhizophora_mangle",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375252800,
       "text": "Rhizophora mangle, also known as the red mangrove, is a salt-tolerant, small-to-medium sized evergreen tree restricted to coastal, estuarine ecosystems along the southern portions of North America, the Caribbean as well as Central America and tropical West Africa. Its viviparous \"seeds\", in actuality called propagules, become fully mature plants before dropping off the parent tree. These are dispersed by water until eventually embedding in the shallows."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rhizophora mangle",
+      "source_url": "https://es.wikipedia.org/wiki/Rhizophora_mangle",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171580967,
+      "text": "Rhizophora mangle llamado comúnmente mangle rojo es una especie vegetal de la familia Rhizophoraceae, la cual cuenta con alrededor de 120 especies distribuidas en 16 géneros, siendo el género Rhizophora el más conocido, dominando las partes más anegadas de los ecosistemas manglar y la zona intermareal. Es una especie adaptada a ambientes salinos y tolera mayor salinidad que los otros mangles y sirve de refugio a animales terrestres y acuáticos. El mangle rojo es uno de los árboles emblemáticos de Venezuela. Tiene múltiples usos desde maderable, medicinal, curtiente, para construcción y melífero."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rhizophora mangle",
+      "source_url": "https://fr.wikipedia.org/wiki/Rhizophora_mangle",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230267857,
+      "text": "Le palétuvier rouge ou mangle-chandelle est une espèce de plantes à fleurs du genre Rhizophora et de la famille des Rhizophoraceae. C'est un arbuste ou un petit arbre tropical sempervirent qui pousse dans l'estran et qui s'ancre dans la vase de la mangrove grâce à ses imposantes racines-échasses disposées en arceaux."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Mangue-vermelho",
+      "source_url": "https://pt.wikipedia.org/wiki/Mangue-vermelho",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70971927,
+      "text": "O mangue-vermelho, também conhecido como sapateiro, é uma espécie típica de manguezal."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bakau merah",
+      "source_url": "https://id.wikipedia.org/wiki/Bakau_merah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29190520,
+      "text": "Rhizophora mangle, bakau merah, adalah sejenis pohon bakau yang tersebar di ekosistem muara di seluruh daerah tropis. \"Benih\" viviparinya, yang sebenarnya disebut propagul, menjadi tanaman dewasa sepenuhnya sebelum lepas dari pohon induknya. Ini disebarkan oleh air hingga akhirnya tertanam di perairan dangkal."
     }
   },
   "edible": {
@@ -121,7 +157,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -188,7 +224,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30061148-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -196,7 +232,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30061148-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000460362.webp",
@@ -209,6 +245,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

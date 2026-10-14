@@ -22,32 +22,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ジャボチカバ"
     ],
-    "zh": [
-      "嘉寶果",
-      "嘉宝果",
-      "树葡萄",
-      "拟爱神木"
-    ],
-    "nan": [
-      "Chhiū-phû-tô"
+    "fr": [
+      "Jaboticaba"
     ],
     "pt": [
       "Jabuticaba"
+    ],
+    "id": [
+      "Anggur brasil",
+      "Anggur Brazil"
+    ],
+    "nan": [
+      "Chhiū-phû-tô"
     ],
     "gn": [
       "Yvapurũ"
     ],
     "udm": [
       "Джаботикаба"
-    ],
-    "fr": [
-      "Jaboticaba"
     ],
     "ru": [
       "Жаботикаба"
@@ -84,6 +82,12 @@
     ],
     "az": [
       "Jabotikaba"
+    ],
+    "zh": [
+      "拟爱神木",
+      "嘉寶果",
+      "嘉宝果",
+      "树葡萄"
     ],
     "th": [
       "องุ่นบราซิล"
@@ -133,9 +137,6 @@
     "xmf": [
       "ჯაბოტიკაბა"
     ],
-    "id": [
-      "Anggur Brazil"
-    ],
     "hyw": [
       "Ճապութիքապա"
     ],
@@ -153,7 +154,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1973619",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1973619",
   "search_names": {
@@ -165,32 +166,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ジャボチカバ」",
+      "source": "Wikipedia (ja): ジャボチカバ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9C%E3%83%81%E3%82%AB%E3%83%90",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107474210,
       "text": "ジャボチカバ はフトモモ科の常緑高木。幹に直接生える、果皮が濃紫色または濃紺色の果実が食用となる。名称はブラジル先住民族トゥピの言葉で「亀のいる地」という意味。別名がいくつもあり、「ブラジリアングレープツリー」「ジャブチカバ」「ジャボチカ」「グアペルー」「ヒバプルー」「ウバプルー」「サバラ」などと呼ばれる。南アメリカ大陸（ブラジル、アルゼンチン、パラグアイ、ボリビアなど）を原産地とし、現在は果物として収穫するため栽培されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Plinia cauliflora」",
+      "source": "Wikipedia (en): Plinia cauliflora",
       "source_url": "https://en.wikipedia.org/wiki/Plinia_cauliflora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371252718,
       "text": "A jaboticaba or jabuticaba is a round, edible fruit produced by a jaboticaba tree, also known as Brazilian grapetree. The purplish-black, white-pulped fruit grows directly on the trunk of the tree, making it an example of 'cauliflory'. It is eaten raw or used to make jellies, jams, juice or wine. The tree, of the family Myrtaceae, is native to the states of Rio de Janeiro, Minas Gerais, Goiás and São Paulo in Brazil. Related species in the genus Myrciaria, often referred to by the same common names, are native to Brazil, Argentina, Paraguay, Peru and Bolivia. Jaboticaba tree is also grown as an ornamental and bonsai."
+    },
+    "es": {
+      "source": "Wikipedia (es): Plinia cauliflora",
+      "source_url": "https://es.wikipedia.org/wiki/Plinia_cauliflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175287515,
+      "text": "El yvapurũ, guapurú, yva hũ, yabuticaba o jabuticaba es un árbol nativo de Paraguay, Brasil, Argentina y Bolivia. Pertenece a la familia de las mirtáceas al igual que el guayabo, guabirá, el arrayán y el saguinto. Su nombre científico es Plinia cauliflora. Recibe los nombres de taanumox en chiquitano, jabuticaba en portugués, yvapurũ en avañe'ẽ (guaraní) e ibapumi en pauserna. Es llamado guapurú en el noreste argentino y en Santa Cruz de la Sierra (Bolivia)."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Jaboticaba",
+      "source_url": "https://fr.wikipedia.org/wiki/Jaboticaba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236154026,
+      "text": "Le jaboticaba ou guapuru, également appelé vigne brésilienne, jabotica, guaperu, hivapuru, sabará ou ybapuru, est une espèce de plantes à fleurs de la famille des Myrtaceae. C'est un petit arbre à fruits natifs des régions de Goiás et du Minas Gerais dans le sud-est du Brésil et du nord est de la Bolivie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Jabuticaba",
+      "source_url": "https://pt.wikipedia.org/wiki/Jabuticaba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73126867,
+      "text": "A jabuticaba ou jaboticaba é o fruto da jaboticabeira ou jabuticabeira, uma árvore frutífera brasileira da família das mirtáceas, nativa da Mata Atlântica. Com a recente mudança na nomenclatura botânica, há divergências sobre a classificação da espécie: Myrciaria cauliflora (Mart.) O.Berg 1854, Plinia trunciflora (O.Berg) Kausel 1956 ou Plinia cauliflora (Mart.) Kausel 1956. Espécies relacionadas no gênero Myrciaria, frequentemente referidas pelos mesmos nomes comuns, são nativas da América do Sul, encontrada em países como Brasil, México, Bolívia, Uruguai, Paraguai e Argentina.\nSegundo Lorenzi et al., Plinia trunciflora seria outra espécie, a jabuticaba-café. A cidade de Jaboticabal, em São Paulo, foi nomeada em homenagem a essa planta."
+    },
+    "id": {
+      "source": "Wikipedia (id): Anggur brasil",
+      "source_url": "https://id.wikipedia.org/wiki/Anggur_brasil",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29793158,
+      "text": "Plinia cauliflora atau dikenal dengan nama Jaboticaba atau Anggur Brazil adalah spesies tumbuhan dari famili Myrtaceae. Tumbuhan ini berasal dari Brazil, Argentina, Paraguay, Peru, dan Bolivia. Tumbuhan ini dikenal dengan buahnya yang berwarna ungu-kehitaman dengan daging buah berwarna putih dan tumbuh di batang pohon. Buahnya dapat dimakan langsung atau dijadikan Jeli, Selai, Jus dan Anggur."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ジャボチカバ」の節「栽培」",
+        "source": "Wikipedia (ja): ジャボチカバ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9C%E3%83%81%E3%82%AB%E3%83%90#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 107474210,
         "heading": "栽培",
         "text": "植木鉢で育てやすいこともあり、熱帯地域では盆栽に広く使用され、特に台湾やカリブ海諸国で人気がある。\n日本では小葉系と大葉系と中葉系（大実の成る系統はアッスーと名付けられている）に分類され流通している。種子は多胚なので母樹と同じ遺伝特性を持つが、実生栽培では成長が遅い為、沖縄県などでは取り木や挿し木で増やされている。静岡県ではハウス栽培され、鮮度が落ちるのが早いため、農園カフェで提供されている。",
@@ -207,7 +244,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -223,7 +260,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/203847-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -231,7 +268,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/203847-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000278887.webp",
@@ -244,6 +281,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 294,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

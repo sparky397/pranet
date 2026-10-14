@@ -15,18 +15,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヒメフヨウ"
-    ],
-    "en": [
-      "wax mallow"
-    ],
-    "zh": [
-      "悬铃花",
-      "小悬铃花"
     ],
     "nl": [
       "Wasmalve"
@@ -40,6 +33,10 @@
     "fa": [
       "پنیرک درختی"
     ],
+    "zh": [
+      "小悬铃花",
+      "悬铃花"
+    ],
     "ar": [
       "طربوش الديك"
     ],
@@ -51,13 +48,16 @@
     ],
     "he": [
       "דבוקית מעוצה"
+    ],
+    "en": [
+      "wax mallow"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2709838",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2709838",
   "search_names": {
@@ -70,32 +70,59 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヒメフヨウ」",
+      "source": "Wikipedia (ja): ヒメフヨウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%95%E3%83%A8%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 101842757,
       "text": "ヒメフヨウ はアオイ科ヒメフヨウ属の常緑低木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Malvaviscus arboreus」",
+      "source": "Wikipedia (en): Malvaviscus arboreus",
       "source_url": "https://en.wikipedia.org/wiki/Malvaviscus_arboreus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373722239,
       "text": "Malvaviscus arboreus is a species of flowering plant in the hibiscus family, Malvaceae, that is native to the American South, Mexico, Central America, and South America. The specific name, arboreus, refers to the tree-like appearance of a mature plant. It is now popular in cultivation and goes by many English names including wax mallow, Turk's cap (mallow), Turk's turban, sleeping hibiscus, manzanilla, manzanita, ladies teardrop and Scotchman's purse; many of these common names refer to other, in some cases unrelated, plants. Its flowers do not open fully and help attract butterflies and hummingbirds."
+    },
+    "es": {
+      "source": "Wikipedia (es): Malvaviscus arboreus",
+      "source_url": "https://es.wikipedia.org/wiki/Malvaviscus_arboreus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174580313,
+      "text": "Malvaviscus arboreus es una especie de arbusto perteneciente a la familia Malvaceae, es originaria del sudeste de los Estados Unidos, México, Centroamérica, y Sudamérica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Malvaviscus arboreus",
+      "source_url": "https://fr.wikipedia.org/wiki/Malvaviscus_arboreus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 209235381,
+      "text": "L'Hibiscus dormant ou Hibiscus piment est une espèce de plantes de la famille des Malvacées originaire du Mexique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Malvaviscus arboreus",
+      "source_url": "https://pt.wikipedia.org/wiki/Malvaviscus_arboreus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67675416,
+      "text": "O malvavisco ou hibisco-colibri é um arbusto lenhoso e ramificado, originário do México e do norte da América do Sul. Pode atingir 4 metros de altura, podendo ser usado como cerca-viva ou isolado, estando florido quase o ano todo."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Malvaviscus arboreus」の節「Cultivation」",
+        "source": "Wikipedia (en): Malvaviscus arboreus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Malvaviscus_arboreus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1373722239,
         "heading": "Cultivation",
         "text": "Malvaviscus arboreus is commonly cultivated in shady to sunny sites in butterfly and hummingbird gardens across the southern United States.  It can be propagated from fresh seeds or from softwood cuttings.  It often blooms from May through November, but will bloom throughout a mild winter.",
@@ -115,7 +142,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -177,7 +204,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30041958-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -185,7 +212,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30041958-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000449492.webp",
@@ -198,6 +225,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

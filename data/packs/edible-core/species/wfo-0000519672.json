@@ -20,135 +20,112 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アフリカバオバブ"
     ],
-    "en": [
-      "African Baobab",
-      "baobab"
-    ],
     "fr": [
       "Baobab africain"
     ],
-    "af": [
-      "Kremetart"
+    "ky": [
+      "Баобаб"
     ],
-    "am": [
-      "ባምባ"
-    ],
-    "az": [
-      "Baobab",
-      "Afrika baobabı"
-    ],
-    "be": [
-      "Баабаб"
-    ],
-    "bg": [
-      "Баобаб",
-      "същински баобаб"
-    ],
-    "bm": [
-      "Nsirasun"
-    ],
-    "ca": [
-      "Baobab africà"
-    ],
-    "de": [
-      "Afrikanischer Affenbrotbaum"
-    ],
-    "ff": [
-      "ɓokki",
-      "Ɓowre"
-    ],
-    "fi": [
-      "Apinanleipäpuu"
+    "pl": [
+      "Baobab afrykański"
     ],
     "ha": [
       "Kuka"
     ],
+    "udm": [
+      "Баобаб"
+    ],
     "he": [
       "באובב"
     ],
-    "hsb": [
-      "Afriski wopiči chlěbowc"
+    "be": [
+      "баабаб"
     ],
-    "hu": [
-      "Majomkenyérfa"
+    "ms": [
+      "Pokok Botol"
     ],
-    "hy": [
-      "Բաոբաբ"
+    "sw": [
+      "Mbuyu"
     ],
-    "it": [
-      "Baobab"
+    "de": [
+      "Afrikanischer Affenbrotbaum"
     ],
-    "kk": [
+    "mrj": [
       "Баобаб"
     ],
     "koi": [
       "Баобаб"
     ],
-    "ku": [
-      "Baobab"
+    "am": [
+      "ባምባ"
     ],
-    "kv": [
-      "Баобаб"
-    ],
-    "ky": [
-      "Баобаб"
-    ],
-    "lt": [
-      "Tikrasis baobabas"
-    ],
-    "mr": [
-      "गोरखचिंच"
-    ],
-    "mrj": [
-      "Баобаб"
-    ],
-    "ms": [
-      "Pokok Botol"
+    "hsb": [
+      "Afriski wopiči chlěbowc"
     ],
     "nl": [
       "Afrikaanse baobab"
     ],
-    "pl": [
-      "Baobab afrykański"
+    "sv": [
+      "Baobab"
     ],
-    "pt": [
-      "Imbondeiro"
+    "ar": [
+      "تبلدي إصبعي"
+    ],
+    "ru": [
+      "баобаб"
+    ],
+    "hy": [
+      "բաոբաբ"
     ],
     "ro": [
       "Baobab"
     ],
-    "ru": [
+    "ca": [
+      "baobab africà"
+    ],
+    "fi": [
+      "apinanleipäpuu"
+    ],
+    "bg": [
+      "същински баобаб",
       "Баобаб"
     ],
-    "sv": [
-      "Baobab"
-    ],
-    "sw": [
-      "Mbuyu"
+    "mr": [
+      "गोरखचिंच"
     ],
     "te": [
       "బ్రహ్మ మల్లిక"
     ],
-    "udm": [
+    "kv": [
+      "Баобаб"
+    ],
+    "az": [
+      "Afrika baobabı",
+      "Baobab"
+    ],
+    "bm": [
+      "Nsirasun"
+    ],
+    "lt": [
+      "Tikrasis baobabas"
+    ],
+    "hu": [
+      "majomkenyérfa"
+    ],
+    "kk": [
       "Баобаб"
     ],
     "zh": [
       "猴面包树"
     ],
-    "ast": [
-      "baobab"
-    ],
-    "sl": [
-      "baobab"
-    ],
-    "ar": [
-      "تبلدي إصبعي"
+    "ku": [
+      "Baobab"
     ],
     "th": [
       "บาวบาบ"
@@ -210,6 +187,10 @@
     "cv": [
       "Баобаб"
     ],
+    "ff": [
+      "Ɓowre",
+      "ɓokki"
+    ],
     "dag": [
       "Tua"
     ],
@@ -221,6 +202,9 @@
     ],
     "mcn": [
       "kónkínà"
+    ],
+    "sl": [
+      "baobab"
     ],
     "yue": [
       "波巴布樹"
@@ -245,13 +229,29 @@
     ],
     "sr": [
       "Афрички баобаб"
+    ],
+    "en": [
+      "African Baobab",
+      "baobab"
+    ],
+    "af": [
+      "Kremetart"
+    ],
+    "it": [
+      "Baobab"
+    ],
+    "pt": [
+      "Imbondeiro"
+    ],
+    "ast": [
+      "baobab"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158742",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158742",
   "search_names": {
@@ -261,22 +261,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アフリカバオバブ」",
+      "source": "Wikipedia (ja): アフリカバオバブ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%83%90%E3%82%AA%E3%83%90%E3%83%96",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109894194,
       "text": "アフリカバオバブ は、アオイ目アオイ科バオバブ属の植物。アフリカ大陸のサバンナ地域に広く分布している。バオバブのなかでも一般的な樹種で、樹形はずんぐりしており、直径10メートル (m) を越える巨木になる。アフリカの現地の言葉で、ブワブワ（bwabwa）、ムワンバ（mwamba）、ムブユ（mubuty）、モワナ（mowana）などとよばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Adansonia digitata」",
+      "source": "Wikipedia (en): Adansonia digitata",
       "source_url": "https://en.wikipedia.org/wiki/Adansonia_digitata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1362605084,
       "text": "Adansonia digitata, the African baobab, is the most widespread tree species of the genus Adansonia, the baobabs, and is native to the African continent and the southern Arabian Peninsula. These are long-lived pachycauls; radiocarbon dating has shown at least one individual to be 1,275 years old. They are typically found in dry, hot savannas of sub-Saharan Africa, where they dominate the landscape and reveal the presence of a watercourse from afar. They have traditionally been valued as sources of food, water, health remedies or places of shelter and are a key food source for many animals. They are steeped in legend and superstition. In recent years, many of the largest, oldest trees have died, for unknown reasons. Other common names for the baobab include monkey-bread tree, upside-down tree, and cream of tartar tree."
+    },
+    "es": {
+      "source": "Wikipedia (es): Adansonia digitata",
+      "source_url": "https://es.wikipedia.org/wiki/Adansonia_digitata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171988909,
+      "text": "Adansonia digitata, el baobab africano o árbol del pan del mono, es el nombre de un árbol africano de la familia de las malváceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Baobab africain",
+      "source_url": "https://fr.wikipedia.org/wiki/Baobab_africain",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239190553,
+      "text": "Le Baobab africain est une espèce de plantes à fleurs du genre Adansonia et de la famille des Bombacacées, selon la classification classique, ou des Malvacées, selon la classification phylogénétique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Adansonia digitata",
+      "source_url": "https://pt.wikipedia.org/wiki/Adansonia_digitata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72321292,
+      "text": "A Adansonia digitata, conhecida por baobá, embondeiro, imbondeiro, calabaceira ou, na Guiné-Bissau, cabaceira, é a única espécie de Adansonia que ocorre no continente africano. Pode ser encontrada nas savanas quentes e secas da África subsaariana. Aparece também em zonas de cultivo e em áreas povoadas. O limite norte da sua distribuição no continente africano está associada aos padrões da chuva, restrita ao litoral Atlântico. No Sudão, ocorre naturalmente no Sahel, mas a sua ocorrência é muito limitada no resto da região saheliana da África Central. Na África oriental as árvores crescem em aglomerados e também no litoral. Em Angola, que é o supostamente o seu local de origem, os imbondeiros crescem em florestas e nas regiões costeiras e são comuns nas savanas, como também é o caso na Namíbia e no Botsuana e no resto da África Austral. Também se encontra em Dófar na região de Omã e no Iêmen na Península Arábica. O nome digitata vem do formato da folha que se parece com os cinco dedos da mão."
+    },
+    "id": {
+      "source": "Wikipedia (id): Adansonia digitata",
+      "source_url": "https://id.wikipedia.org/wiki/Adansonia_digitata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29209667,
+      "text": "Adansonia digitata, Baobab Afrika, asem buto atau ki tambleg, adalah spesies pohon yang paling tersebar luas dari genus Adansonia (baobab) dan berasal dari benua Afrika dan Semenanjung Arab bagian selatan. Ini adalah pachycaul berumur panjang; penanggalan radiokarbon telah menunjukkan beberapa individu berusia lebih dari 2.000 tahun. Mereka biasanya ditemukan di sabana kering dan panas di Afrika sub-Sahara, di mana mereka mendominasi lanskap dan memperlihatkan keberadaan aliran air dari jauh. Mereka secara tradisional dianggap sebagai sumber makanan, air, obat kesehatan atau tempat berlindung dan merupakan sumber makanan utama bagi banyak hewan. Mereka kaya akan legenda dan takhayul. Dalam beberapa tahun terakhir, banyak pohon terbesar dan tertua mati karena alasan yang tidak diketahui."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Baobab africain § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Baobab_africain#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239190553,
+        "heading": "Culture",
+        "text": "Le baobab pousse en sol sec drainant, calcaire et plutôt alcalin.\nIl a besoin d'une exposition en plein soleil pendant toute la période de croissance (mai à octobre) et supporte mal les températures inférieures à 12 °C.\nIl se multiplie par semis (idéalement trois à cinq mois avant le début de la saison des pluies) ou par greffage. Grâce à la réserve d'eau qu'il stocke dans son tronc, il peut être facilement transplanté. Pour la même raison, il a besoin d'un arrosage très limité: hebdomadaire avec un peu d'engrais de mai jusqu'à la chute de feuilles en automne (sans soucoupe sous le pot) et aucun arrosage de novembre à avril (saison sèche au Sénégal), période ou il doit vivre sur ses réserves. Le baobab peut même être conservé, comme le géranium, en racines nues pendant tout l'hiver. Sans période sèche, les racines du baobab pourrissent et l'arbre meurt.\nIl peut pousser en pot de préférence profond (30 cm) pour que le caudex et la racine pivotante puissent se développer correctement mais il peut tout de même faire de jolis bonsaïs. Il supporte très bien l'air sec d'un appartement mais peut être sorti au printemps ou en été dès que les températures nocturnes ne descendent plus sous 15 °C et si les pluies ne sont pas trop importantes.\nDans des conditions pédoclimatiques satisfaisantes, la croissance peut être assez rapide si on ne prélève pas ses feuilles : environ 3 cm/an en diamètre et de 1 à 2 m/an en hauteur. Un semis peut fructifier dès la 8e année (durée réduit à 3 ans par le greffage) et donnera à maturité environ 200 kg de fruits/an avec parfois des phénomènes d'alternance. La pulpe représente entre 14 et 28 % de la masse totale du fruit.\nLe baobab supporte bien la taille. Une taille courte des branches permet de faire grossir plus rapidement le tronc.",
+        "truncated": true
+      }
     }
   },
   "edible": {
@@ -296,7 +347,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -351,7 +402,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558628-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -359,7 +410,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558628-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000519672.webp",
@@ -372,6 +423,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -13,9 +13,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "fa": [
+      "نخل پاسوبایا"
+    ],
     "en": [
       "Bolivian mountain coconut"
     ],
@@ -24,16 +27,13 @@
     ],
     "zh": [
       "托雷利脊果椰子"
-    ],
-    "fa": [
-      "نخل پاسوبایا"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3620498",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3620498",
   "search_names": {
@@ -44,13 +44,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Parajubaea torallyi」",
+      "source": "Wikipedia (en): Parajubaea torallyi",
       "source_url": "https://en.wikipedia.org/wiki/Parajubaea_torallyi",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375958699,
       "text": "Parajubaea torallyi, commonly known as the palma de Pasobaya or Bolivian mountain coconut, is a species of evergreen flowering plant of genus Parajubaea, in the family Arecaceae, closely related to the coconut palm in the tribe Cocoseae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Parajubaea torallyi",
+      "source_url": "https://es.wikipedia.org/wiki/Parajubaea_torallyi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171247952,
+      "text": "La palmera pasopaya, palabra quechua que significa \"coco áspero\", Parajubaea torallyi es una especie de planta fanerógama de la familia de las palmeras (Arecaceae)."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Parajubaea torallyi",
+      "source_url": "https://fr.wikipedia.org/wiki/Parajubaea_torallyi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208074037,
+      "text": "Parajubaea torallyi est une espèce de plantes de la famille des Arecaceae."
     }
   },
   "edible": {
@@ -65,7 +83,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -75,7 +93,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668852-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -83,7 +101,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668852-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000264402.webp",
@@ -96,6 +114,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

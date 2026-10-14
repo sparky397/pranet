@@ -12,16 +12,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "harmal peganum"
-    ],
-    "zh": [
-      "骆驼蓬",
-      "骆驼蓬子"
-    ],
     "pl": [
       "poganek rutowaty"
     ],
@@ -63,6 +56,10 @@
     ],
     "tg": [
       "Испанд"
+    ],
+    "zh": [
+      "骆驼蓬",
+      "骆驼蓬子"
     ],
     "he": [
       "שבר לבן"
@@ -117,13 +114,16 @@
     ],
     "ps": [
       "سپېلنی"
+    ],
+    "en": [
+      "harmal peganum"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q94857",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q94857",
   "search_names": {
@@ -140,13 +140,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Peganum harmala」",
+      "source": "Wikipedia (en): Peganum harmala",
       "source_url": "https://en.wikipedia.org/wiki/Peganum_harmala",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368825164,
       "text": "Peganum harmala, commonly called wild rue, Syrian rue, African rue, esfand or espand, or harmel, is a perennial, herbaceous plant, with a woody underground rootstock, of the family Nitrariaceae, usually growing in saline soils in temperate desert and Mediterranean regions. Its common English-language name came about because of a resemblance to rue. Its seeds contain a high concentration of diverse beta-carboline alkaloids."
+    },
+    "es": {
+      "source": "Wikipedia (es): Peganum harmala",
+      "source_url": "https://es.wikipedia.org/wiki/Peganum_harmala",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173952149,
+      "text": "Peganum harmala, llamada comúnmente alharma o harmal, es una planta de la familia Nitrariaceae autóctona en las regiones comprendidas entre el este del Mediterráneo e India. También es conocida como ruda siria."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Peganum harmala",
+      "source_url": "https://fr.wikipedia.org/wiki/Peganum_harmala",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216151625,
+      "text": "Le Peganum harmala, aussi appelé harmal, rue de Syrie ou rue sauvage est une espèce de plantes vivaces de la famille des Nitrariaceae, à fleurs blanc-jaunâtre, utilisée comme plante médicinale."
     }
   },
   "edible": {
@@ -161,7 +179,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -231,7 +249,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/774545-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -239,7 +257,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/774545-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000474572.webp",
@@ -252,6 +270,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

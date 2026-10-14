@@ -10,33 +10,66 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "ha": [
+      "Wawan kurmi"
+    ],
     "zh": [
       "蓖麻桐",
       "拟蓖麻"
-    ],
-    "ha": [
-      "Wawan kurmi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2829132",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2829132",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ricinodendron」",
+      "source": "Wikipedia (en): Ricinodendron",
       "source_url": "https://en.wikipedia.org/wiki/Ricinodendron",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1323846732,
       "text": "Ricinodendron is a plant genus in the family Euphorbiaceae first described as a genus in 1864. It includes only one known species, Ricinodendron heudelotii, native to tropical Africa from Senegal + Liberia east to Sudan and Tanzania and south to Mozambique and Angola. It produces an economically important oilseed. The tree is known as munguella (Angola), njangsa (Cameroon), bofeko, wama (Ghana), okhuen (Nigeria), kishongo (Uganda), akpi, djansang, ọrùnmọdò (Yorubaland), essang, ezezang and njasang. Two varieties of the tree species are recognized R. heudelotii var. heudelotii in Ghana and R. heudelotii var. africanum in Nigeria and westwards."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ricinodendron heudelotii",
+      "source_url": "https://es.wikipedia.org/wiki/Ricinodendron_heudelotii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171940157,
+      "text": "Ricinodendron es un género monotípico perteneciente a la familia de las euforbiáceas. Su única especie: Ricinodendron heudelotii es originaria de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ricinodendron heudelotii",
+      "source_url": "https://fr.wikipedia.org/wiki/Ricinodendron_heudelotii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229702458,
+      "text": "Ricinodendron heudelotii, aussi appelé Njansang, Musodo, Erimado, Corkwood, Akpi et Essessang, est la seule espèce du genre Ricinodendron, dans la famille des Euphorbiacées. C'est un arbre à croissance rapide d'Afrique occidentale et centrale, dont les noisettes (akpi) sont utilisées comme arôme et épaississant."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Ricinodendron heudelotii § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Ricinodendron_heudelotii#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 229702458,
+        "heading": "Culture",
+        "text": "R. heudelotii est utilisé communément pour fournir l’ombre, souvent pour le cacao, le café ou des bananes. L’arbre répond bien à l’application de la technique du taillis. C’est un demandeur de lumière et préfère un sol acide avec une texture moyenne et un bon drainage, nécessitant une précipitation annuelle en moyenne de 1 400-3 500 mm et une température annuelle de moyenne entre 18-23 °C.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -53,7 +86,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -85,7 +118,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1016790-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -93,7 +126,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1016790-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000297055.webp",
@@ -106,6 +139,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 288,
     "height": 223,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

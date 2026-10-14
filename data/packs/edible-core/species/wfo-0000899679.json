@@ -46,40 +46,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "エノコログサ"
     ],
-    "de": [
-      "Grüne Borstenhirse"
-    ],
-    "en": [
-      "green bristlegrass",
-      "green bristol-grass"
-    ],
-    "zh": [
-      "狗尾草",
-      "狗尾草子"
-    ],
-    "nl": [
-      "Groene naaldaar"
-    ],
-    "cs": [
-      "bér zelený"
-    ],
     "fr": [
+      "Sétaire verte",
       "sétaire verte"
     ],
-    "et": [
-      "roheline kukeleib"
-    ],
-    "fi": [
-      "viherpantaheinä"
-    ],
-    "sl": [
-      "zeleni muhvič"
+    "de": [
+      "Grüne Borstenhirse"
     ],
     "pl": [
       "włośnica zielona"
@@ -96,6 +74,10 @@
     "ar": [
       "ذيل الثعلب الأخضر"
     ],
+    "zh": [
+      "狗尾草",
+      "狗尾草子"
+    ],
     "sv": [
       "Kavelhirs"
     ],
@@ -104,6 +86,9 @@
     ],
     "ru": [
       "щетинник зелёный"
+    ],
+    "fi": [
+      "viherpantaheinä"
     ],
     "cdo": [
       "Kēng-muōi-chāu"
@@ -114,8 +99,17 @@
     "mn": [
       "Ногоон хоног будаа"
     ],
+    "sl": [
+      "zeleni muhvič"
+    ],
+    "cs": [
+      "bér zelený"
+    ],
     "sk": [
       "bar zelený"
+    ],
+    "et": [
+      "roheline kukeleib"
     ],
     "be": [
       "Мяшэй зялёны"
@@ -134,13 +128,20 @@
     ],
     "mk": [
       "зелен мувар"
+    ],
+    "en": [
+      "green bristlegrass",
+      "green bristol-grass"
+    ],
+    "nl": [
+      "Groene naaldaar"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q163052",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q163052",
   "search_names": {
@@ -158,22 +159,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「エノコログサ」",
+      "source": "Wikipedia (ja): エノコログサ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8E%E3%82%B3%E3%83%AD%E3%82%B0%E3%82%B5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108101262,
       "text": "エノコログサ は、イネ科エノコログサ属の植物で、一年生草本であり、ブラシのように長い穂の形が独特な雑草である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Setaria viridis」",
+      "source": "Wikipedia (en): Setaria viridis",
       "source_url": "https://en.wikipedia.org/wiki/Setaria_viridis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373982704,
       "text": "Setaria viridis is a species of grass known by many common names, including green foxtail, green bristlegrass, and wild foxtail millet. It is sometimes considered a subspecies of Setaria italica. It is native to Eurasia, but it is known on most continents as an introduced species and is closely related to Setaria faberi, a noxious weed. It is a hardy grass which grows in many types of urban, cultivated, and disturbed habitat, including vacant lots, sidewalks, railroads, lawns, and at the margins of fields. It is the wild antecedent of the crop foxtail millet."
+    },
+    "es": {
+      "source": "Wikipedia (es): Setaria viridis",
+      "source_url": "https://es.wikipedia.org/wiki/Setaria_viridis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171583117,
+      "text": "El almorejo es una especie de la familia de las gramíneas. Es originaria de Eurasia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sétaire verte",
+      "source_url": "https://fr.wikipedia.org/wiki/S%C3%A9taire_verte",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230109310,
+      "text": "Setaria viridis, la Sétaire verte, est une plante herbacée de la famille des Poacées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Setaria viridis",
+      "source_url": "https://pt.wikipedia.org/wiki/Setaria_viridis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 40549651,
+      "text": "Setaria viridis é uma espécie de planta com flor pertencente à família Poaceae."
     }
   },
   "edible": {
@@ -187,7 +215,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -395,7 +423,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1171009-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -403,7 +431,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1171009-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000899679.webp",
@@ -416,6 +444,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

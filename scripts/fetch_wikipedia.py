@@ -4,7 +4,7 @@
 出力：cache/work/<種>/wikipedia.json
   { "ja": {text, title, source, source_url, revision, license, ..., "sections": {"cultivation": {...}, "toxicity": {...}}}, "en": {...} }
 
-- 日本語版の記事があれば日本語、無ければ英語版も取る（翻訳はしない）。
+- 記事がある言語版（日・英・西・仏・葡・インドネシア語）をそれぞれ取る（翻訳はしない）。画面はその言語の説明が無ければ英語、次に日本語を出す。
 - 文章は CC BY-SA 4.0。出典（記事 URL）と版 ID を必ず記録する。
 - 節は本文の見出しで探す（栽培 / Cultivation、毒性 / Toxicity）。長い節は文の切れ目で短くし、続きは記事へ案内する。
 - 取れないものは項目ごと省く（推測で埋めない）。
@@ -18,11 +18,14 @@ import urllib.parse
 
 from common import http_get_json, load_json, log, read_species_list, save_json, today, work_path
 
-LANG_ORDER = ["ja", "en"]
-LANG_LABEL = {"ja": "日本語版", "en": "英語版"}
+LANG_ORDER = ["ja", "en", "es", "fr", "pt", "id"]
 SECTION_PATTERNS = {
-    "cultivation": {"ja": r"^(栽培|育て方|栽培方法|栽培法|農業)$", "en": r"^(Cultivation|Growing|Horticulture|Agriculture|Farming)$"},
-    "toxicity": {"ja": r"^(毒性|毒|有毒性|毒性と安全性)$", "en": r"^(Toxicity|Poison|Poisoning|Safety|Toxicology)$"},
+    "cultivation": {"ja": r"^(栽培|育て方|栽培方法|栽培法|農業)$", "en": r"^(Cultivation|Growing|Horticulture|Agriculture|Farming)$",
+                    "es": r"^(Cultivo|Cultivos|Agricultura|Producción)$", "fr": r"^(Culture|Cultures|Agriculture|Horticulture)$",
+                    "pt": r"^(Cultivo|Cultivos|Agricultura|Plantio)$", "id": r"^(Budidaya|Budi daya|Pembudidayaan|Penanaman)$"},
+    "toxicity": {"ja": r"^(毒性|毒|有毒性|毒性と安全性)$", "en": r"^(Toxicity|Poison|Poisoning|Safety|Toxicology)$",
+                 "es": r"^(Toxicidad|Toxicología|Veneno)$", "fr": r"^(Toxicité|Toxicologie|Poison)$",
+                 "pt": r"^(Toxicidade|Toxicologia|Veneno)$", "id": r"^(Toksisitas|Racun|Keracunan)$"},
 }
 MAX_CHARS = 1800
 
@@ -43,7 +46,7 @@ def fetch_summary(lang: str, title: str) -> dict | None:
     return {
         "text": text,
         "title": body.get("title") or title,
-        "source": f"Wikipedia {LANG_LABEL.get(lang, lang + '版')}「{body.get('title') or title}」",
+        "source": f"Wikipedia ({lang}): {body.get('title') or title}",  # 言語に依らない表記
         "source_url": body.get("content_urls", {}).get("desktop", {}).get("page")
         or f"https://{lang}.wikipedia.org/wiki/{urllib.parse.quote(title)}",
         "revision": int(body["revision"]) if str(body.get("revision", "")).isdigit() else body.get("revision"),
@@ -95,7 +98,7 @@ def fetch_sections(lang: str, title: str, page_url: str) -> dict:
                 "heading": name,
                 "text": section_text,
                 "truncated": truncated,
-                "source": f"Wikipedia {LANG_LABEL.get(lang, lang + '版')}「{title}」の節「{name}」",
+                "source": f"Wikipedia ({lang}): {title} § {name}",
                 "source_url": f"{page_url}#{urllib.parse.quote(name.replace(' ', '_'))}",
                 "revision": revid,
                 "license": "CC BY-SA 4.0",

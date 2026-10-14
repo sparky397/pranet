@@ -16,28 +16,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "es": [
-      "Marabú"
-    ],
-    "en": [
-      "Sicklebush"
-    ],
-    "af": [
-      "Sekelbos"
-    ],
-    "zh": [
-      "代儿茶",
-      "鱼眼草",
-      "柏勒树儿茶"
-    ],
     "rw": [
       "Umuyebe"
     ],
     "ml": [
       "വെടതല"
+    ],
+    "zh": [
+      "代儿茶",
+      "鱼眼草",
+      "柏勒树儿茶"
     ],
     "ru": [
       "Дихростахис сизый"
@@ -77,13 +68,22 @@
     ],
     "kai": [
       "Birèenì"
+    ],
+    "es": [
+      "Marabú"
+    ],
+    "en": [
+      "Sicklebush"
+    ],
+    "af": [
+      "Sekelbos"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311432",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311432",
   "search_names": {
@@ -93,13 +93,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Dichrostachys cinerea」",
+      "source": "Wikipedia (en): Dichrostachys cinerea",
       "source_url": "https://en.wikipedia.org/wiki/Dichrostachys_cinerea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1348067649,
       "text": "Dichrostachys cinerea, known as sicklebush, bell mimosa, Chinese lantern tree or Kalahari Christmas tree, is a legume of the genus Dichrostachys in the family Fabaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dichrostachys cinerea",
+      "source_url": "https://es.wikipedia.org/wiki/Dichrostachys_cinerea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174245569,
+      "text": "Dichrostachys cinerea es una especie de planta nativa del Viejo Mundo, se encuentra en África, la India, sur de Tailandia y Malasia. En el norte de Australia se la ha considerado como nativa, pero puede tratarse de D. spicata. En América fue introducida en el sur de Estados Unidos, Cuba, La Española y en las islas francesas de Guadalupe, Marigalante y Martinica. Se han descrito nueve subespecies y trece variedades. En Cuba recibe los nombres comunes de marabú, aroma, aroma francesa, aroma blanca, espina del diablo y Weyler."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Dichrostachys cinerea",
+      "source_url": "https://fr.wikipedia.org/wiki/Dichrostachys_cinerea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235018856,
+      "text": "Dichrostachys cinerea est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un arbuste de 4 à 7 m originaire d'Afrique tropicale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Dichrostachys cinerea",
+      "source_url": "https://pt.wikipedia.org/wiki/Dichrostachys_cinerea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 54773720,
+      "text": "O marabu é uma espécie de um arbusto espinhoso nativo de grande parte da África, Sudeste Asiático e Austrália, símbolo da crise atual da agricultura cubana."
     }
   },
   "edible": {
@@ -119,7 +146,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -198,7 +225,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/492423-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -206,7 +233,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/492423-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000176871.webp",
@@ -219,6 +246,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 299,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -11,18 +11,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "gweunlwyn sialon"
-    ],
-    "en": [
-      "salal"
-    ],
-    "zh": [
-      "柠檬叶白珠",
-      "沙龙白珠"
+    "fr": [
+      "Gaulthérie shallon"
     ],
     "de": [
       "Shallon-Scheinbeere"
@@ -39,18 +32,28 @@
     "ru": [
       "гаультерия шаллон"
     ],
+    "cy": [
+      "Gweunlwyn sialon"
+    ],
+    "zh": [
+      "沙龙白珠",
+      "柠檬叶白珠"
+    ],
     "ja": [
       "レモンリーフ"
     ],
     "arz": [
       "جولثريا شاليون"
+    ],
+    "en": [
+      "salal"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q941600",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q941600",
   "search_names": {
@@ -60,13 +63,46 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Gaultheria shallon」",
+      "source": "Wikipedia (en): Gaultheria shallon",
       "source_url": "https://en.wikipedia.org/wiki/Gaultheria_shallon",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354970761,
       "text": "Gaultheria shallon is an evergreen shrub in the heather family (Ericaceae), native to western North America. Common names include salal, shallon, or gaultheria."
+    },
+    "es": {
+      "source": "Wikipedia (es): Gaultheria shallon",
+      "source_url": "https://es.wikipedia.org/wiki/Gaultheria_shallon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171143375,
+      "text": "Gaultheria shallon, también conocida en inglés como gaultheria o salal, es una especie de arbusto de la familia Ericaceae, nativa del oeste de Norteamérica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Gaulthérie shallon",
+      "source_url": "https://fr.wikipedia.org/wiki/Gaulth%C3%A9rie_shallon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208620656,
+      "text": "Gaultheria shallon, la gaulthérie shallon ou palommier, est une espèce de plante à fleurs de la famille Ericaceae et du genre des gaulthéries, indigène de la côte ouest de l'Amérique du Nord."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Gaultheria shallon § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Gaultheria_shallon#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171143375,
+        "heading": "Cultivo",
+        "text": "■ América\nEn el noroeste del Pacífico, la recolección de Gaultheria shallon es el centro de una gran industria que suministra árboles de hoja perenne de corte en todo el mundo para su uso en arreglos florales. Se utiliza en jardines de plantas nativas.\n\n■ Europa\nGaultheria shallon fue introducida en Gran Bretaña en 1828 por David Douglas, quien pretendía que la planta se utilizara como ornamental.​ Allí, por lo general se conoce como shallon, o, más comúnmente, simplemente Gaultheria , y se cree que se han plantado como cobertura en las plantaciones de tiro de faisanes. Coloniza fácilmente las landas y los hábitats forestales ácidos en el sur de Inglaterra, a menudo formando rodales de hoja perenne muy altos y densos que asfixian a otros tipos de vegetación. Aunque los administradores de brezales lo consideran como una maleza que solo da problemas en brezales no administrados, es fácilmente pstoreado por el ganado (especialmente en invierno), por lo que la gestión del pastoreo tradicional ha restaurado los densos matorrales y los rompen y la planta se convierte en un componente más disperso de la vegetación de brezal.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -80,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +135,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/317388-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -107,7 +143,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/317388-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000695411.webp",
@@ -120,6 +156,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

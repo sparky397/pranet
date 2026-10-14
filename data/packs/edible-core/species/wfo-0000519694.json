@@ -11,16 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Baobab"
-    ],
-    "zh": [
-      "亮叶猴面包树",
-      "博兹猴面包树"
-    ],
     "ar": [
       "تبلدي وافر"
     ],
@@ -39,29 +32,63 @@
     "arz": [
       "تبلدى وافر"
     ],
+    "zh": [
+      "博兹猴面包树",
+      "亮叶猴面包树"
+    ],
     "ja": [
       "アダンソニア・ザ"
     ],
     "kus": [
       "Tɛ'ɛg"
+    ],
+    "en": [
+      "Baobab"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q131825",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q131825",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Adansonia za」",
+      "source": "Wikipedia (en): Adansonia za",
       "source_url": "https://en.wikipedia.org/wiki/Adansonia_za",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1344226314,
       "text": "Adansonia za is a species of baobab in the genus Adansonia of the family Malvaceae. It was originally named in French as anadzahé. Common names in Malagasy include bojy, boringy, bozy, bozybe, ringy, and za, the last of which gives the plant its specific epithet. Eight Adansonia species are recognized, with six endemic to Madagascar. Adansonia za is the most widespread of the Madagascar endemics."
+    },
+    "es": {
+      "source": "Wikipedia (es): Adansonia za",
+      "source_url": "https://es.wikipedia.org/wiki/Adansonia_za",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171302982,
+      "text": "Adansonia za es una especie de árbol perteneciente al género Adansonia, a la familia Malvaceae. Es originario de Madagascar."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Adansonia za",
+      "source_url": "https://fr.wikipedia.org/wiki/Adansonia_za",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234276108,
+      "text": "Le baobab za est une espèce d'arbre de la famille des Bombacaceae selon la classification classique, ou de celle des Malvaceae selon la classification phylogénétique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Adansonia za",
+      "source_url": "https://pt.wikipedia.org/wiki/Adansonia_za",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70941479,
+      "text": "Adansonia za é uma espécie de angiospérmica da família Bombacaceae."
     }
   },
   "edible": {
@@ -76,7 +103,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -86,7 +113,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558639-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -94,7 +121,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/558639-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000519694.webp",
@@ -107,6 +134,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 299,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

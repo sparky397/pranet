@@ -19,25 +19,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "manzanita tejocotera",
-      "Mexican hawthorn"
-    ],
-    "af": [
-      "skaapvrug",
-      "Mexikaanse haagdoring"
+    "fr": [
+      "Aubépine du Mexique"
     ],
     "nah": [
       "Texococuahuitl"
     ],
     "ru": [
       "Боярышник мексиканский"
-    ],
-    "fr": [
-      "Aubépine du Mexique"
     ],
     "az": [
       "Meksika yemişanı"
@@ -50,24 +42,65 @@
     ],
     "zh": [
       "墨西哥山楂"
+    ],
+    "en": [
+      "manzanita tejocotera",
+      "Mexican hawthorn"
+    ],
+    "af": [
+      "skaapvrug",
+      "Mexikaanse haagdoring"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2669488",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2669488",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Crataegus mexicana」",
+      "source": "Wikipedia (en): Crataegus mexicana",
       "source_url": "https://en.wikipedia.org/wiki/Crataegus_mexicana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1352542402,
       "text": "Crataegus mexicana is a species of hawthorn known by the common names tejocote, manzanita, tejocotera and Mexican hawthorn. It is native to the mountains of Mexico and parts of Guatemala, and has been introduced in the Andes. The fruit of this species is one of the most useful among hawthorns."
+    },
+    "es": {
+      "source": "Wikipedia (es): Crataegus mexicana",
+      "source_url": "https://es.wikipedia.org/wiki/Crataegus_mexicana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171808506,
+      "text": "Crataegus mexicana, conocida comúnmente como manzanita, manzanilla, manzana de Indias, manzana chilena, tejocotera y tejocote, es un arbusto o árbol frutal pequeño nativo de Mesoamérica hoy, El Salvador, México y Guatemala, donde se conoce comúnmente como manzanilla."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Aubépine du Mexique",
+      "source_url": "https://fr.wikipedia.org/wiki/Aub%C3%A9pine_du_Mexique",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231327189,
+      "text": "L'aubépine du Mexique, aussi appelée Tejocote, du náhuatl \"texocotl\" qui signifie \"pierre acide\", est une espèce de plantes à fleurs de la famille des Rosaceae. C'est une aubépine originaire de l'État de Chiapas au Mexique et du Guatemala, Honduras, Costa Rica en Amérique centrale."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Aubépine du Mexique § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Aub%C3%A9pine_du_Mexique#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 231327189,
+        "heading": "Culture",
+        "text": "L'aubépine du Mexique est rustique jusqu'en zone USDA 7 (-17 à −12 °C).\nLa multiplication se fait par semis (avec un bon pourcentage de levée et fructification entre 5 et 8 ans[réf. nécessaire]) et par greffage.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -79,7 +112,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/723791-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -107,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/723791-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001018418.webp",
@@ -120,6 +153,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -8,42 +8,51 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "hu": [
+      "jünnani dió"
+    ],
     "zh": [
       "泡核桃",
       "青胡桃果"
-    ],
-    "en": [
-      "Iron Walnut"
-    ],
-    "hu": [
-      "jünnani dió"
     ],
     "ar": [
       "جوز مختوم"
     ],
     "arz": [
       "جوز مختوم"
+    ],
+    "en": [
+      "Iron Walnut"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q958336",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q958336",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Juglans sigillata」",
+      "source": "Wikipedia (en): Juglans sigillata",
       "source_url": "https://en.wikipedia.org/wiki/Juglans_sigillata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1268410854,
       "text": "Juglans sigillata, common name iron walnut, is a species of tree in the walnut family Juglandaceae native to the eastern Himalayas and western China. The tree has been cultivated for its edible walnuts, and there have been at least 80 authorised or approved cultivars produced after successful implementation of grafting technology."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Juglans sigillata",
+      "source_url": "https://fr.wikipedia.org/wiki/Juglans_sigillata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240249113,
+      "text": "Juglans sigillata, parfois appelée « noyer de fer » ou « noix herbacée », est une espèce d'arbre originaire de Chine."
     }
   },
   "edible": {
@@ -56,7 +65,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -70,7 +79,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/442436-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -78,7 +87,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/442436-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001067481.webp",
@@ -91,6 +100,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

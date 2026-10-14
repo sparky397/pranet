@@ -15,11 +15,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Indian spurgetree"
+    "id": [
+      "Sudu-sudu"
     ],
     "zh": [
       "金刚纂",
@@ -35,18 +35,18 @@
     "ms": [
       "sesudu"
     ],
-    "id": [
-      "Sudu-sudu"
-    ],
     "pam": [
       "Surusuru"
+    ],
+    "en": [
+      "Indian spurgetree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q9256163",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q9256163",
   "search_names": {
@@ -57,13 +57,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Euphorbia neriifolia」",
+      "source": "Wikipedia (en): Euphorbia neriifolia",
       "source_url": "https://en.wikipedia.org/wiki/Euphorbia_neriifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1362235033,
       "text": "Euphorbia neriifolia, also known as Indian spurge tree, hedge Euphorbia, Oleander spurge and fleshy spurge, is a species of spurge native to India, which was originally described by Carl Linnaeus in 1753. Leaves from the plant are used in traditional kajal making in West Bengal, India."
+    },
+    "es": {
+      "source": "Wikipedia (es): Euphorbia neriifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Euphorbia_neriifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582136,
+      "text": "Euphorbia neriifolia es una especie de planta perteneciente a la familia Euphorbiaceae, conocida comúnmente como lengua de perro, sorosora de Filipinas o tuna francesa. Nativa de India central, Odisha y el sur de la India en el Decán, pero actualmente se encuentra naturalizada en Bengala Occidental, Sri Lanka, Birmania, Tailandia y en toda la región de Malasia, excepto Borneo. También se cultiva como seto y planta ornamental en otras regiones tropicales."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sudu-sudu",
+      "source_url": "https://id.wikipedia.org/wiki/Sudu-sudu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29706070,
+      "text": "Euphorbia neriifolia atau sudu-sudu adalah spesies euphorbia, yang awalnya dideskripsikan oleh Carl Linnaeus pada tahun 1753."
     }
   },
   "edible": {
@@ -78,7 +96,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -117,7 +135,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/347489-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent shrub or tree",
@@ -125,7 +143,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/347489-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000963554.webp",
@@ -138,6 +156,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

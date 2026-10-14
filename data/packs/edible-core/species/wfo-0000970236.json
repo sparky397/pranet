@@ -10,7 +10,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -18,26 +18,6 @@
     ],
     "de": [
       "Kleinfrüchtiges Kletten-Labkraut"
-    ],
-    "en": [
-      "False Cleavers",
-      "Marin County bedstraw",
-      "stickwilly"
-    ],
-    "zh": [
-      "豬殃殃",
-      "猪殃殃",
-      "羊角藤",
-      "拉拉藤",
-      "拉拉藤（变种）",
-      "猪殃殃（变种）",
-      "锯锯藤"
-    ],
-    "nl": [
-      "Akkerwalstro"
-    ],
-    "cs": [
-      "svízel pochybný"
     ],
     "ko": [
       "갈퀴덩굴"
@@ -51,6 +31,15 @@
     "sv": [
       "Småsnärjmåra"
     ],
+    "zh": [
+      "拉拉藤",
+      "豬殃殃",
+      "猪殃殃",
+      "羊角藤",
+      "拉拉藤（变种）",
+      "猪殃殃（变种）",
+      "锯锯藤"
+    ],
     "ar": [
       "جويسئة زائفة"
     ],
@@ -59,6 +48,9 @@
     ],
     "ru": [
       "Подмаренник ложный"
+    ],
+    "cs": [
+      "svízel pochybný"
     ],
     "be": [
       "Маруна лжывая"
@@ -74,13 +66,21 @@
     ],
     "lv": [
       "Neīstā madara"
+    ],
+    "en": [
+      "False Cleavers",
+      "Marin County bedstraw",
+      "stickwilly"
+    ],
+    "nl": [
+      "Akkerwalstro"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159316",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159316",
   "search_names": {
@@ -91,22 +91,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヤエムグラ」",
+      "source": "Wikipedia (ja): ヤエムグラ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%A8%E3%83%A0%E3%82%B0%E3%83%A9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106386899,
       "text": "ヤエムグラ は、アカネ科の越年草。道端の雑草としてごく普通にみられる。種子はひっつき虫の性質も持つ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Galium spurium」",
+      "source": "Wikipedia (en): Galium spurium",
       "source_url": "https://en.wikipedia.org/wiki/Galium_spurium",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306384165,
       "text": "Galium spurium, the stickwilly or false cleavers, is a plant species of the Rubiaceae. It is widespread across Europe, Asia, Africa and Canada, and is naturalized in Australia. It is considered a noxious weed in many places."
+    },
+    "es": {
+      "source": "Wikipedia (es): Galium spurium",
+      "source_url": "https://es.wikipedia.org/wiki/Galium_spurium",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581776,
+      "text": "Galium spurium es una especie de planta herbácea de la familia de las rubiáceas. Es nativa de Eurasia."
     }
   },
   "edible": {
@@ -120,7 +129,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -242,7 +251,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/750665-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -250,6 +259,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/750665-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

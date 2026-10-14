@@ -8,9 +8,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "ar": [
+      "أغاف صحراوي"
+    ],
+    "arz": [
+      "اغاف صحراوى"
+    ],
     "en": [
       "desert agave",
       "Century Plant or Maguey",
@@ -18,19 +24,13 @@
     ],
     "zh": [
       "沙漠龙舌兰"
-    ],
-    "ar": [
-      "أغاف صحراوي"
-    ],
-    "arz": [
-      "اغاف صحراوى"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q143992",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q143992",
   "search_names": {
@@ -40,13 +40,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Agave deserti」",
+      "source": "Wikipedia (en): Agave deserti",
       "source_url": "https://en.wikipedia.org/wiki/Agave_deserti",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1335201110,
       "text": "Agave deserti is an agave native to desert regions in southern California, Arizona, and Baja California. Its tall yellow flower stalks dot dry rocky slopes and washes throughout the spring."
+    },
+    "es": {
+      "source": "Wikipedia (es): Agave deserti",
+      "source_url": "https://es.wikipedia.org/wiki/Agave_deserti",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173944865,
+      "text": "Agave deserti es una especie de planta del género Agave oriunda de las zonas desérticas de California, Baja California y Arizona."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Agave deserti",
+      "source_url": "https://fr.wikipedia.org/wiki/Agave_deserti",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229187522,
+      "text": "Agave deserti est une espèce de plantes à fleurs de la famille des Agavaceae. C'est une plante géophyte des régions désertiques de la Californie du Sud, de l'Arizona, de la Basse-Californie."
     }
   },
   "edible": {
@@ -59,7 +77,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -70,7 +88,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/61932-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent perennial",
@@ -78,7 +96,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/61932-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000754311.webp",
@@ -91,6 +109,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

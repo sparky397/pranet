@@ -25,20 +25,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "スズメナスビ",
       "スズメナス"
     ],
-    "en": [
-      "turkey berry"
-    ],
-    "zh": [
-      "萬桃花水茄",
-      "水茄",
-      "龙葵"
+    "id": [
+      "Takokak"
     ],
     "ace": [
       "Truëng Caw'ië"
@@ -48,9 +43,6 @@
     ],
     "ht": [
       "Rapon"
-    ],
-    "id": [
-      "Takokak"
     ],
     "ms": [
       "Pokok Terung Pipit"
@@ -75,6 +67,11 @@
     ],
     "te": [
       "ఉస్తికాయలు"
+    ],
+    "zh": [
+      "水茄",
+      "萬桃花水茄",
+      "龙葵"
     ],
     "vi": [
       "Cà dại hoa trắng"
@@ -123,13 +120,16 @@
     ],
     "shn": [
       "မၢၵ်ႇႁႅင်ႈ"
+    ],
+    "en": [
+      "turkey berry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q978609",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q978609",
   "search_names": {
@@ -146,32 +146,59 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「スズメナスビ」",
+      "source": "Wikipedia (ja): スズメナスビ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BA%E3%83%A1%E3%83%8A%E3%82%B9%E3%83%93",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111298594,
       "text": "スズメナスビ はナス科ナス属の常緑低木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Solanum torvum」",
+      "source": "Wikipedia (en): Solanum torvum",
       "source_url": "https://en.wikipedia.org/wiki/Solanum_torvum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1344107128,
       "text": "Solanum torvum, also known as pendejera, turkey berry, devil's fig, pea eggplant, platebrush or susumber, is a bushy, erect and spiny perennial plant used horticulturally as a rootstock for eggplant. Grafted plants are very vigorous and tolerate diseases affecting the root system, thus allowing the crop to continue for a second year."
+    },
+    "es": {
+      "source": "Wikipedia (es): Solanum torvum",
+      "source_url": "https://es.wikipedia.org/wiki/Solanum_torvum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 156141894,
+      "text": "La hierba sosa o pendejera es una planta perenne perteneciente a la familia de la solanáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Solanum torvum",
+      "source_url": "https://fr.wikipedia.org/wiki/Solanum_torvum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232065528,
+      "text": "Solanum torvum, l'Aubergine-pois, Fausse Aubergine, Aubergine sauvage, Bringelle marron ou Bélangère bâtarde, est une espèce de plantes de la famille des Solanaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Takokak",
+      "source_url": "https://id.wikipedia.org/wiki/Takokak",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29885465,
+      "text": "Takokak, tekokak atau terung pipit adalah tumbuhan dari suku terung-terungan (Solanaceae) yang buah dan bijinya dipakai sebagai sayuran atau bumbu. Nama dalam perdagangan internasional tidak baku, beberapa di antaranya adalah turkey berry atau mini-eggplant."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Solanum torvum」の節「Cultivation」",
+        "source": "Wikipedia (en): Solanum torvum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Solanum_torvum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1344107128,
         "heading": "Cultivation",
         "text": "■ Grafting\nTurkey berry has been grafted with eggplant in an attempt to incorporate favorable genes for resistance to Verticillium wilt into the vegetable.",
@@ -193,7 +220,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -303,7 +330,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/821287-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -311,7 +338,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/821287-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001031795.webp",
@@ -324,6 +351,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

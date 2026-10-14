@@ -143,40 +143,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "モロコシ"
     ],
-    "cy": [
-      "sorgwm",
-      "Sorgwm deuliw"
+    "fr": [
+      "Sorgo commun",
+      "sorgho commun"
     ],
-    "zh": [
-      "蜀黍",
-      "高粱",
-      "罗氏高粱",
-      "有尾髙粱",
-      "高梁",
-      "高梁米糠"
+    "pt": [
+      "Sorgo",
+      "milho dos bardeiros"
     ],
-    "nl": [
-      "Kafferkoren"
-    ],
-    "cs": [
-      "čirok obecný",
-      "čirok dvoubarevný"
-    ],
-    "fi": [
-      "kirjodurra"
-    ],
-    "ta": [
-      "சோளம்",
-      "சோளம் சிறுதானியம்"
-    ],
-    "sl": [
-      "navadni sirek"
+    "id": [
+      "Cantel"
     ],
     "jv": [
       "Kaoliang"
@@ -189,9 +171,6 @@
     ],
     "bs": [
       "Sirak"
-    ],
-    "fr": [
-      "sorgho commun"
     ],
     "et": [
       "harilik sorgo"
@@ -214,14 +193,18 @@
     "sv": [
       "durra"
     ],
-    "pt": [
-      "milho dos bardeiros"
-    ],
     "ru": [
       "сорго двуцветное"
     ],
     "ca": [
       "sorgo bicolor"
+    ],
+    "fi": [
+      "kirjodurra"
+    ],
+    "cs": [
+      "čirok dvoubarevný",
+      "čirok obecný"
     ],
     "hr": [
       "Sirak"
@@ -231,6 +214,14 @@
     ],
     "kk": [
       "Қытай тарысы"
+    ],
+    "zh": [
+      "高粱",
+      "蜀黍",
+      "罗氏高粱",
+      "有尾髙粱",
+      "高梁",
+      "高梁米糠"
     ],
     "ku": [
       "Baçîk"
@@ -262,8 +253,9 @@
     "za": [
       "Megmax"
     ],
-    "id": [
-      "Cantel"
+    "cy": [
+      "Sorgwm deuliw",
+      "sorgwm"
     ],
     "mk": [
       "обичен сирак"
@@ -285,6 +277,9 @@
     ],
     "hu": [
       "cukorcirok"
+    ],
+    "sl": [
+      "navadni sirek"
     ],
     "gl": [
       "Sorgo común"
@@ -324,6 +319,10 @@
     ],
     "ha": [
       "Dawa"
+    ],
+    "ta": [
+      "சோளம் சிறுதானியம்",
+      "சோளம்"
     ],
     "lt": [
       "Dvispalvis sorgas"
@@ -375,13 +374,16 @@
     ],
     "fur": [
       "Sorc di scovul"
+    ],
+    "nl": [
+      "Kafferkoren"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q332062",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q332062",
   "search_names": {
@@ -404,35 +406,95 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「モロコシ」",
+      "source": "Wikipedia (ja): モロコシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111016285,
       "text": "モロコシ は、イネ科の一年草のC4植物・穀物。タカキビ（高黍）、トウキビ（唐黍）、モロコシキビとも呼ぶ。中国北部ではコーリャン 、沖縄ではトーナチンと呼ばれ、日本語ではそれらの呼び方をされることもある。\n英語圏ではソルガム と呼ぶので、世界の穀物統計では「ソルガム」と表記されることが一般的である。イタリア語ではソルゴー と呼び、農林水産省が提供する統計資料ではこの呼称が使われることがある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sorghum」",
+      "source": "Wikipedia (en): Sorghum",
       "source_url": "https://en.wikipedia.org/wiki/Sorghum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376796568,
       "text": "Sorghum bicolor, commonly called sorghum and also known as broomcorn, great millet, Indian millet, Guinea corn, jowar, or milo, is a species in the grass genus Sorghum. It is typically an annual, but some cultivars are perennial. It grows in clumps that may reach over 4 metres (13 ft) high. The grain is 2 to 4 millimetres in diameter."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sorghum bicolor",
+      "source_url": "https://es.wikipedia.org/wiki/Sorghum_bicolor",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174968315,
+      "text": "El sorgo, también conocido como adaza, zahina, mijo grande, durra, jowari / jowar, o milo, es una especie de hierba que se cultiva por su grano, que se utiliza para la alimentación humana, la alimentación animal y la producción de etanol. El sorgo es originario de África y actualmente se cultiva ampliamente en regiones tropicales y subtropicales. El sorgo es el quinto cultivo de cereales más importante del mundo después del arroz, el trigo, el maíz y la cebada, con 59.34 millones de toneladas métricas de producción mundial anual en 2018. S. bicolor suele ser anual, pero algunos cultivares son perennes. Crece en macizos que pueden alcanzar más de 4 m de altura. El grano es pequeño, de 2 a 4 mm de diámetro. Los sorgos dulces son cultivares de sorgo que se cultivan principalmente para forraje, producción de jarabe y etanol; son más altos que los que se cultivan para grano."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sorgo commun",
+      "source_url": "https://fr.wikipedia.org/wiki/Sorgo_commun",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239043297,
+      "text": "Le sorgho commun (Sorghum bicolor), aussi orthographié sorgo, est une espèce de plantes monocotylédones de la famille des Poaceae (Graminées), originaire d'Afrique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sorgo",
+      "source_url": "https://pt.wikipedia.org/wiki/Sorgo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67800112,
+      "text": "Sorghum bicolor é uma espécie de planta com flor pertencente à família Poaceae. O seu nome comum é sorgo, e é também chamado milho-zaburro no Brasil, mapira em Moçambique e massambala em Angola."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cantel",
+      "source_url": "https://id.wikipedia.org/wiki/Cantel",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29973345,
+      "text": "Cantel atau gandrung, atau umumnya dikenal sebagai sorgum, adalah tanaman serbaguna yang dapat digunakan sebagai sumber pangan, pakan ternak dan bahan baku industri. Sebagai bahan pangan, cantel ini berada pada urutan ke-5 setelah gandum, jagung, padi, dan jelai. Berasal dari Afrika utara, Sorghum bicolor kini banyak dibudidayakan di pelbagai bagian dunia dan merupakan bahan makanan pokok penting di Afrika, Asia Selatan dan Amerika Tengah."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Sorghum」の節「Cultivation」",
+        "source": "Wikipedia (en): Sorghum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Sorghum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1376796568,
         "heading": "Cultivation",
         "text": "■ Agronomy\nMost varieties of sorghum are drought- and heat-tolerant, nitrogen-efficient, and are grown particularly in arid and semi-arid regions where the grain is one of the staples for poor and rural people. These varieties provide forage in many tropical regions. S. bicolor is a food crop in Africa, Central America, and South Asia, and is the fifth most common cereal crop grown in the world.  It is usually grown without fertilizers or other inputs by small-holder farmers in developing countries. They benefit from sorghum's ability to compete effectively with weeds, especially when planted in narrow rows. Sorghum actively suppresses weeds by producing sorgoleone, an alkylresorcinol.\nSorghum grows in a wide range of temperatures. It can tolerate high altitude and toxic soils, and can recover growth after some drought. Optimum growth temperature range is 12–34 °C (54–93 °F), and the growing season lasts for around 115–140 days. It can grow in a wide range of soils, such as heavy clay to sandy soils with the pH tolerance ranging from 5.0 to 8.5. It requires an arable field that has been left fallow for at least two years or where crop rotation with legumes has taken place in the previous year. Diversified 2- or 4-year crop rotation can improve sorghum yield, making it more resilient to inconsistent growth conditions. Nutrients required by sorghum are comparable to other cereal grain crops with nitrogen, phosphorus, and potassium needed for growth.\nThe International Crops Research Institute for the Semi-Arid Tropics has improved sorghum using traditional genetic improvement and integrated genetic and natural resources management practices. Some 194 improved cultivars are planted worldwide.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Sorgo commun § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Sorgo_commun#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239043297,
+        "heading": "Culture",
+        "text": "Le semis se fait vers mai-juin : les graines de sorgho se sèment à environ 3-4 cm de profondeur en espaçant les pieds de 40 cm et les rangs de 60 cm, l'objectif de peuplement étant de 150 000 à 180 000 plantes par hectare.\nLes graines se récoltent à l'automne lorsqu'elles sont dures, idéalement avant les gelées. Il faut ensuite les faire sécher et les décortiquer pour enlever le son.\nEn France, son rendement moyen est de 53 quintaux/hectare.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Sorgo commun § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Sorgo_commun#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239043297,
+        "heading": "Toxicité",
+        "text": "■ Intoxication par le cyanure d'hydrogène\nLe sorgho commun contient de la dhurrine, glucoside toxique qui produit à parts égales de l'acide cyanhydrique (HCN) et du p-hydroxylbenzaldéhyde lorsqu'elle est hydrolysée sous l'action d'enzymes présents dans les cellules. Cela se produit lorsque les tissus végétaux sont perturbés (broyage, mastication, etc.). La teneur en dhurrine diminue au fur et à mesure de la croissance et surtout après la floraison, elle dépend aussi des conditions environnementales.\nLes sorghos à grains et les sorghos sucriers ont des teneurs en dhurrine plus élevées que les sorghos fourragers.\nLe risque d'intoxication par le cyanure concerne les animaux en particulier en cas d'ingestion de plants jeunes ou de repousses, en particulier s'il s'agit de plantes stressées ou endommagées. Il est faible lorsque les animaux consomment des plants au stade de la floraison ou de la mise à graines, ou sous forme d'ensilage.\nLes graines de sorgho contiennent des traces de dhurrine (1 à 29 ppm), alors que les germes des mêmes graines cultivées pendant 3 jours à l'obscurité à 30 °C contiennent de 258 à 1 030 ppm de poids sec. Le séchage et le broyage des germes  ne réduisent pas la teneur potentielle en HCN et la quantité de HCN obtenue à partir de germes cultivés à partir de 100 g de semences (61,3 mg) dépasse la dose fatale moyenne pour un adulte.\nDes ouvriers agricoles ont été terrassés par les émanations de cyanure lors de grandes opérations d'ensilage de sorgho à l'échelle industrielle. La dose létale médiane (CL50) sous forme gazeuse est comprise entre 100 et 300 μg/g, la mort survenant en moins d'une heure.",
         "truncated": true
       }
     }
@@ -452,7 +514,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -705,7 +767,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/422090-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -713,7 +775,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/422090-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000900184.webp",
@@ -726,6 +788,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

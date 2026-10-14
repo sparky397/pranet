@@ -454,8 +454,9 @@
 
     body.append(d ? sectionBlock(t("description"), d) : section(t("description"), el("p", { class: "empty", text: t("no_data") })));
     var sec = s.sections || {};
-    body.append(sectionBlock("☠ " + t("toxicity"), pickLang(sec.toxicity)));
-    body.append(sectionBlock("🌱 " + t("cultivation"), pickLang(sec.cultivation)));
+    // 節が無いときは null が返る。DOM の append は null を文字 "null" にしてしまうので、自前の append を使う
+    append(body, sectionBlock("☠ " + t("toxicity"), pickLang(sec.toxicity)));
+    append(body, sectionBlock("🌱 " + t("cultivation"), pickLang(sec.cultivation)));
 
     var areaName = function (c) { return names[c] || c; };
     body.append(section(t("distribution"), dist

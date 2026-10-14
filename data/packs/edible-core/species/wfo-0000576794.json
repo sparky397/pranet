@@ -40,12 +40,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "maricao cimun"
-    ],
     "udm": [
       "Нансе"
     ],
@@ -81,13 +78,16 @@
     ],
     "ja": [
       "ナンセ"
+    ],
+    "en": [
+      "maricao cimun"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2046782",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2046782",
   "search_names": {
@@ -106,13 +106,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Byrsonima crassifolia」",
+      "source": "Wikipedia (en): Byrsonima crassifolia",
       "source_url": "https://en.wikipedia.org/wiki/Byrsonima_crassifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1359430045,
       "text": "Byrsonima crassifolia is a species of flowering plant in the family Malpighiaceae, native to tropical America. Common names used in English include nance, maricao cimun, craboo, and golden spoon. In Jamaica it is called hogberry."
+    },
+    "es": {
+      "source": "Wikipedia (es): Byrsonima crassifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Byrsonima_crassifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174759095,
+      "text": "La changunga, murisí, nance, nancite o nanche es el fruto pulposo de la especie Byrsonima crassifolia, de color amarillo al rojo en su maduración, con fuerte aroma, un poco más pequeño que una aceituna, con una semilla dura y redonda."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Byrsonima crassifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Byrsonima_crassifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239956550,
+      "text": "Byrsonima crassifolia est une espèce de plantes à fleurs dans la famille Malpighiaceae. Elle est appréciée pour son petit fruit jaune fortement parfumé."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Byrsonima crassifolia",
+      "source_url": "https://pt.wikipedia.org/wiki/Byrsonima_crassifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73171574,
+      "text": "O muruci, também conhecido como murici, murici-da-praia, murici-do-brejo, quiriri, grueri, cuerí, criviri ou crioulí, é uma árvore da família Malpighiaceae, ordem Malpighiales, nativa do norte e nordeste do Brasil."
     }
   },
   "edible": {
@@ -129,7 +156,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -173,7 +200,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/556033-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -181,7 +208,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/556033-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000576794.webp",
@@ -194,6 +221,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

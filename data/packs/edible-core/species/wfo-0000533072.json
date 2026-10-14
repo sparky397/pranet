@@ -19,7 +19,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -27,28 +27,26 @@
       "カシュー"
     ],
     "en": [
-      "Cashew",
-      "cashew"
+      "Cashew"
+    ],
+    "fr": [
+      "Anacardier",
+      "anacardier"
     ],
     "pt": [
-      "Caju",
-      "cajueiro"
+      "Cajueiro",
+      "cajueiro",
+      "Caju"
     ],
-    "it": [
-      "anacardi"
-    ],
-    "es": [
-      "merey",
-      "anacardo"
+    "id": [
+      "Jambu mete",
+      "jambu mete"
     ],
     "zh": [
       "腰果",
       "鸡腰果",
       "都成子",
       "櫝如实"
-    ],
-    "sl": [
-      "indijski orešek"
     ],
     "jv": [
       "Jambu ménté"
@@ -58,6 +56,10 @@
     ],
     "qu": [
       "Marañun sach'a"
+    ],
+    "es": [
+      "anacardo",
+      "merey"
     ],
     "ta": [
       "முந்திரி"
@@ -140,9 +142,6 @@
     "udm": [
       "Кешью"
     ],
-    "fr": [
-      "anacardier"
-    ],
     "he": [
       "קשיו"
     ],
@@ -160,9 +159,6 @@
     ],
     "de": [
       "Cashew"
-    ],
-    "id": [
-      "jambu mete"
     ],
     "ml": [
       "കശുമാവ്"
@@ -332,6 +328,9 @@
     "mad": [
       "Jhâmbhu munyit"
     ],
+    "sl": [
+      "indijski orešek"
+    ],
     "frr": [
       "Cashew"
     ],
@@ -361,13 +360,16 @@
     ],
     "fon": [
       "Kajǔtin"
+    ],
+    "it": [
+      "anacardi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q34007",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q34007",
   "search_names": {
@@ -383,45 +385,114 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カシューナッツ」",
+      "source": "Wikipedia (ja): カシューナッツ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110150910,
       "text": "カシュー は、中南米原産のムクロジ目ウルシ科カシューナットノキ属の常緑高木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cashew」",
+      "source": "Wikipedia (en): Cashew",
       "source_url": "https://en.wikipedia.org/wiki/Cashew",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368231013,
       "text": "Cashew is the common name of a tropical evergreen tree Anacardium occidentale, in the family Anacardiaceae. It is the source of the cashew nut and the cashew apple. The tree can grow as tall as 14 meters."
+    },
+    "es": {
+      "source": "Wikipedia (es): Anacardium occidentale",
+      "source_url": "https://es.wikipedia.org/wiki/Anacardium_occidentale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175683402,
+      "text": "Anacardium occidentale, también conocido como cayú, nuez de la India, anacardo, merey, cajú, casho, casoy, castaña de cajú, marañón, caujil, caguil o pepa es un árbol originario de Sudamérica, del nordeste de Brasil. Se cultiva también en la costa de Colombia, el sur de \nVenezuela, Ecuador, Panamá, Perú y España. Muchos de sus componentes son utilizados en la elaboración de productos diversos, como por ejemplo dulces, cosméticos y medicamentos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Anacardier",
+      "source_url": "https://fr.wikipedia.org/wiki/Anacardier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239644859,
+      "text": "L'anacardier ou pommier-cajou, est une espèce de petits arbres de la famille des Anacardiaceae, originaire d'Amérique tropicale, et cultivé en zone tropicale pour sa production de noix de cajou et de pomme de cajou."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cajueiro",
+      "source_url": "https://pt.wikipedia.org/wiki/Cajueiro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72059017,
+      "text": "O cajueiro é uma planta da família Anacardiaceae originária da região nordeste do Brasil, com arquitetura de copa tortuosa e de diferentes portes. Na natureza existem dois tipos: o comum e o anão. O tipo comum pode atingir entre 5 e 12 metros de altura, mas em condições muito propícias pode chegar a 20 metros. O tipo anão possui altura média de 4 metros."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jambu mete",
+      "source_url": "https://id.wikipedia.org/wiki/Jambu_mete",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30042822,
+      "text": "Jambu mete  atau jambu monyet adalah sejenis tanaman dari famili Anacardiaceae yang berasal dari Brasil dan memiliki \"buah\" yang dapat dimakan. Jambu mete juga dikenal karena bentuknya yang mirip dengan hidung monyet bekantan asal Kalimantan; bijinya biasa dikeringkan dan digoreng untuk dijadikan berbagai macam penganan. Secara botani, tumbuhan ini sama sekali bukan anggota jambu-jambuan (Myrtaceae) maupun kacang-kacangan (Fabaceae), melainkan malah lebih dekat kekerabatannya dengan mangga."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Cashew」の節「Cultivation」",
+        "source": "Wikipedia (en): Cashew § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Cashew#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1368231013,
         "heading": "Cultivation",
         "text": "The cashew tree is cultivated in the tropics between 25°N and 25°S, and is well-adapted to hot lowland areas with a pronounced dry season, where the mango and tamarind trees also thrive. The traditional cashew tree is tall, up to 14 m (46 ft), requiring three years from planting before it starts production, and eight years before economic harvests.\nMore recent breeds, such as the dwarf cashew trees, are up to 6 m (20 ft) tall and start producing after the first year, with economic yields after three years. The cashew nut yields for the traditional tree are about 0.25 t (0.25 long tons; 0.28 short tons) per hectare, in contrast to over a ton per hectare for the dwarf variety. Grafting and other modern tree management technologies improve and sustain cashew nut yields in commercial orchards.\n\n■ Production\nIn 2024, world production of cashews (in shell) was 4.2 million tonnes, led by Ivory Coast and India, having 41% of the total when combined (table).\n\n■ Trade\nAlmost all cashews produced in Africa between 2000 and 2019 were exported as raw nuts, which are much less profitable than shelled nuts. One of the goals of the African Cashew Alliance is to promote Africa's cashew processing capabilities to improve the profitability of Africa's cashew industry. Half of the world's cashews were sold by American retailer Costco, as of 2025.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Anacardium occidentale § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Anacardium_occidentale#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175683402,
+        "heading": "Cultivo",
+        "text": "Crece en climas tropicales húmedos (Af o Aw en la clasificación climática de Köppen, con temperaturas medias entre los 20 y los 30 °C, con una precipitación anual de 600 a 2000 mm o más, a una altitud menor de los 1000 m s. n. m.).\nTradicionalmente el mayor productor mundial fue Brasil, su lugar de origen, aunque actualmente el mayor productor es Vietnam seguido por India y Costa de Marfil en cuanto al volumen de exportaciones, con Brasil en un modesto noveno lugar mundial. Es cultivado en el Sureste Asiático, en América intertropical, desde Centroamérica, Panamá, Costa Rica, México, Colombia​ y Florida hasta las Antillas, Brasil y Venezuela, en Hawái y en muchas zonas de África, especialmente en Benín, Tanzania, Mali y Guinea-Bissau.\nSe reproduce comúnmente por semillas, aunque también por acodo aéreo. Tiene crecimiento rápido, requiere zonas libres de frío y, aunque es poco exigente en cuanto a suelos (en el Macizo Guayanés, su lugar de origen, los suelos son poco profundos, predominantemente rocosos y arenosos), su producción aumenta considerablemente bajo cultivo en suelos más favorables. Aunque crece silvestre en su lugar de origen, cuando se trata de climas Aw o climas de sabana, los cultivos requieren del riego en verano, es decir, en el período de sequía.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Anacardier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Anacardier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239644859,
+        "heading": "Culture",
+        "text": "L'anacardier se propage souvent par semis mais les plants greffés, bouturés ou marcottés offrent un meilleur rendement. Les semis donnent des résultats assez variables à pommes rouges ou jaunes. On trouve des cultivars différents dans chaque zone de culture.\nLe délicat système racinaire de l'anacardier supporte mal les transplantations.\nPour bien se développer et bien fructifier, l'anacardier a besoin d'être planté en plein soleil. On recommande de planter les arbres sur un maillage de 10 × 10 m.\nUn semis ou un jeune plant greffé peut fructifier dès sa troisième année mais la pleine production commence vers sept à huit ans.\nLa récolte des noix est manuelle et fastidieuse. Elle nécessite des gants en raison de la présence de résine allergisante (acide anacardique, cardanols et cardols) sur les fruits. Une fois les noix récoltées, elles doivent subir de plusieurs étapes de transformation et en particulier traitement par la chaleur, avant d'être prêtes à consommer (voir Traitement artisanal par grillage sur plaque et bain de vapeur).\nDans certaines régions, les plantations subissent des vols de fruits plus ou moins murs pour la revente sur le marché local. Pour éviter cela, certains producteurs développent l'apiculture dans leur verger. Les abeilles effraient les voleurs, augmentent les rendements grâce à une meilleure pollinisation des fleurs et produisent un revenu complémentaire grâce à la vente du miel produit.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Jambu mete § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Jambu_mete#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 30042822,
+        "heading": "Penanaman",
+        "text": "Penanaman jambu mete depat dilakukan dengan dua cara pembibitan yaitu dengan cara generatif menggunakan biji dan cara vegetatif menggunakan cangkok, stek, dan tempel. Sejauh ini, metode yang banyak digunakan adalah dengan cara vegetatif atau menggunakan bibit vegetatif. Bibit vegetatif tersebut akan menghasilkan buah yang sangat identik dengan induknya. Tanah yang akan digunakan untuk budi daya terlebih dahulu dibajak atau dicangkul supaya lebih gembur. Kemudian dibuat lubang tanam dengan kedalaman 50 cm dan memiliki lebar 35–40 cm dengan jarak tanam sekitar 5 m. Karena kacang mete merupakan tanaman yang optimum tumbuh pada kondisi lingkungan lembap, maka harus dilakukan proses penyiraman secara teratur hingga usia satu bulan. Tanaman jambu mete tersebut juga harus diberi pupuk agar pertumbuhannya lebih maksimal.",
         "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Cashew」の節「Toxicity」",
+        "source": "Wikipedia (en): Cashew § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Cashew#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1368231013,
         "heading": "Toxicity",
         "text": "Some people are allergic to cashews, but they are a less frequent allergen than other tree nuts or peanuts. For up to 6% of children and 3% of adults, consuming cashews may cause allergic reactions, ranging from mild discomfort to life-threatening anaphylaxis. These allergies are triggered by the proteins found in tree nuts, and cooking often does not remove or change these proteins. Reactions to cashew and tree nuts can also occur as a consequence of hidden nut ingredients or traces of nuts that may inadvertently be introduced during food processing, handling, or manufacturing. \nThe shell of the cashew nut contains oil compounds that can cause contact dermatitis similar to poison ivy, primarily resulting from the phenolic lipids, anacardic acids, and cardanol. Because it can cause dermatitis, cashews are typically not sold in the shell to consumers. Cardanol, which can be readily and inexpensively extracted from the waste shells, is under research for its potential applications in nanomaterials and biotechnology.",
@@ -446,7 +517,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -529,7 +600,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/319068-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -537,7 +608,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/319068-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000533072.webp",
@@ -550,6 +621,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 313,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

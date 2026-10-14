@@ -10,25 +10,25 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "紫嬌花",
-      "紫娇花"
+    "ar": [
+      "تولباغية بنفسجية"
     ],
     "cs": [
       "tulbagie fialová"
     ],
-    "ar": [
-      "تولباغية بنفسجية"
+    "zh": [
+      "紫娇花",
+      "紫嬌花"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q7851979",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q7851979",
   "search_names": {
@@ -38,13 +38,46 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Tulbaghia violacea」",
+      "source": "Wikipedia (en): Tulbaghia violacea",
       "source_url": "https://en.wikipedia.org/wiki/Tulbaghia_violacea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377319933,
       "text": "Tulbaghia violacea, commonly known as society garlic, pink agapanthus, wild garlic, sweet garlic, spring bulbs, or spring flowers, is a species of flowering plant in the family Amaryllidaceae. It is indigenous to southern Africa, and reportedly naturalized in Tanzania and Mexico."
+    },
+    "es": {
+      "source": "Wikipedia (es): Tulbaghia violacea",
+      "source_url": "https://es.wikipedia.org/wiki/Tulbaghia_violacea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 164681801,
+      "text": "Tulbaghia violacea es una especie de planta perteneciente a la familia de las amarilidáceas. Es originaria del sur de África y es usada localmente como planta medicinal."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Tulbaghia violacea",
+      "source_url": "https://fr.wikipedia.org/wiki/Tulbaghia_violacea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231319475,
+      "text": "Tulbaghia violacea, l’Ail violet, est une espèce de plantes à fleurs de la famille des Amaryllidaceae cultivée pour son intérêt ornemental. Son aire de répartition naturelle s'étend de la province du Cap au KwaZulu-Natal. C'est une géophyte bulbeuse qui pousse principalement dans le biome subtropical. Elle est utilisée comme médicament et dans l'alimentation."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Tulbaghia violacea § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Tulbaghia_violacea#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 231319475,
+        "heading": "Culture",
+        "text": "Cultivée comme plante ornementale, cette plante nécessite une certaine protection contre les gelées hivernales. Cette espèce et les cultivars « Purple Eye » et « Silver Lace », avec des feuilles bordées de crème, ont tous remporté l’Award of Garden Merit de la Royal Horticultural Society.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -56,7 +89,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -72,7 +105,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/542801-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -80,7 +113,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/542801-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000744407.webp",
@@ -93,6 +126,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

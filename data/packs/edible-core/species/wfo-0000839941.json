@@ -12,26 +12,16 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Kiko Rivera"
-    ],
-    "zh": [
-      "叢櫚",
-      "矮棕"
-    ],
-    "ast": [
-      "palmera nana"
-    ],
-    "pl": [
-      "chamerops niski",
-      "karłatka niska",
-      "palmiczka"
-    ],
     "sk": [
       "Palmička nízka"
+    ],
+    "pl": [
+      "karłatka niska",
+      "chamerops niski",
+      "palmiczka"
     ],
     "wa": [
       "Pålmî nin"
@@ -78,6 +68,10 @@
     "fa": [
       "نخل بادبزنی اروپایی"
     ],
+    "zh": [
+      "叢櫚",
+      "矮棕"
+    ],
     "ml": [
       "ചിറ്റീന്തൽ"
     ],
@@ -102,6 +96,9 @@
     "ka": [
       "ქამეროფსი"
     ],
+    "ast": [
+      "Palmera nana"
+    ],
     "az": [
       "Alçaqboy xamerops"
     ],
@@ -125,13 +122,16 @@
     ],
     "kab": [
       "Tiznirt"
+    ],
+    "en": [
+      "Kiko Rivera"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q161747",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q161747",
   "search_names": {
@@ -146,13 +146,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Chamaerops」",
+      "source": "Wikipedia (en): Chamaerops",
       "source_url": "https://en.wikipedia.org/wiki/Chamaerops",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1364420928,
       "text": "Chamaerops is a genus of flowering plants in the family Arecaceae. It contains only one species, Chamaerops humilis, variously called European fan palm or the Mediterranean dwarf palm. It is one of the most cold-hardy palms and is used in landscaping in temperate climates."
+    },
+    "es": {
+      "source": "Wikipedia (es): Chamaerops humilis",
+      "source_url": "https://es.wikipedia.org/wiki/Chamaerops_humilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171665921,
+      "text": "Chamaerops humilis, la única especie del género Chamaerops, se conoce popularmente como palmito o palmera enana. Es una de las dos especies, junto con Phoenix theophrasti, de la familia de las palmeras (Arecaceae) nativa de la Europa meridional. Se distribuye por el norte de África y el suroeste de Europa. Es la única especie de palmera autóctona de la península ibérica y las Islas Baleares."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Chamaerops humilis",
+      "source_url": "https://fr.wikipedia.org/wiki/Chamaerops_humilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240322082,
+      "text": "Le palmier nain, palmier doum ou doum ou faux palmier doum est un palmier de petite taille, originaire des régions bordant la mer Méditerranée occidentale. Il est apprécié comme plante ornementale."
     }
   },
   "edible": {
@@ -169,7 +187,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -193,7 +211,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/665917-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub or shrub",
@@ -201,7 +219,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/665917-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000839941.webp",
@@ -214,6 +232,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -41,15 +41,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Leichhardt pine",
-      "Leichhardt tree",
-      "yellow cheesewood",
-      "canary cheeswood"
-    ],
     "vi": [
       "Gáo vàng"
     ],
@@ -76,13 +70,19 @@
     ],
     "gor": [
       "Li'awa'o"
+    ],
+    "en": [
+      "Leichhardt pine",
+      "Leichhardt tree",
+      "yellow cheesewood",
+      "canary cheeswood"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1894456",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1894456",
   "search_names": {
@@ -92,13 +92,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Nauclea orientalis」",
+      "source": "Wikipedia (en): Nauclea orientalis",
       "source_url": "https://en.wikipedia.org/wiki/Nauclea_orientalis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1308085634,
       "text": "Nauclea orientalis is a species of tree in the family Rubiaceae, native to Southeast Asia, New Guinea, and Australia. It has many common names, including bur tree, canary wood, Leichhardt pine, yellow cheesewood and bangkal. It grows to a maximum of around 30 m (98 ft) in height and has large glossy leaves. It bears spherical clusters of fragrant flowers that develop into golf-ball-sized edible but bitter fruits. The yellowish-to-orange soft wood is also used for timber and in woodcarving and folk medicine."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Nauclea orientalis",
+      "source_url": "https://fr.wikipedia.org/wiki/Nauclea_orientalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 225357264,
+      "text": "Nauclea orientalis est une espèce d'arbre de la famille Rubiaceae. Originaire d'Asie du Sud-Est, de Nouvelle-Guinée et d'Australie, l'arbre atteint une hauteur de 30 m et présente de grandes feuilles brillantes. Il porte des grappes sphériques de fleurs parfumées qui donnent des fruits de la taille d'une balle de golf : ces fruits sont comestibles mais amers. Le bois qui va du jaunâtre à l'orange est utilisé en charpente, en taille mais aussi en médecine traditionnelle."
+    },
+    "id": {
+      "source": "Wikipedia (id): Nauclea orientalis",
+      "source_url": "https://id.wikipedia.org/wiki/Nauclea_orientalis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28659688,
+      "text": "Nauclea orientalis atau dikenal dengan nama bangkal, bengkel, gempol, lonkida atau kaula adalah spesies tumbuhan dari famili Rubiaceae. Tumbuhan ini berasal dari Asia Tenggara, Papua Nugini, dan Australia. Tumbuhan ini dalam bahasa Inggris dikenal dengan nama bur tree, canary wood, Leichhardt pine, dan yellow chessewood. Tumbuhan ini dapat tumbuh setinggi 30 meter. Tumbuhan ini menghasilkan bunga yang berbentuk bulat dan terdapat bunga kecil-kecil yang beraroma harum. Jika sudah selesai, bunga akan menjadi buah yang berbentuk bulat, seukuran bola golf dan memiliki rasa pahit. Kayunya dapat menjadi bahan pahat dan pengobatan tradisional. Tumbuhan ini juga dikenal sebagai \"Bunga Corona\" Karena penampilan bunganya yang menyerupai Virus."
     }
   },
   "edible": {
@@ -117,7 +135,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -145,7 +163,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/757181-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -153,7 +171,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/757181-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000249611.webp",
@@ -166,6 +184,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 258,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

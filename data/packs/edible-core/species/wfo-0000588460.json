@@ -30,7 +30,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -41,37 +41,19 @@
       "caraway",
       "wild caraway"
     ],
-    "de": [
-      "Wiesen-Kümmel",
-      "Wiesenkümmel",
-      "Echter Kümmel"
-    ],
-    "nl": [
-      "Karwij"
-    ],
-    "cs": [
-      "kmín kořenný"
-    ],
     "fr": [
-      "carvi"
+      "Carvi"
     ],
-    "fi": [
-      "maustekumina",
-      "kumina"
+    "id": [
+      "Jintan"
     ],
     "zh": [
+      "葛縷子",
       "葛缕子",
       "葛缕子（黄蒿、藏茴香、茴香）",
       "青海防风",
       "藏茴香",
-      "细葛缕子",
-      "葛縷子"
-    ],
-    "ast": [
-      "alcaravea"
-    ],
-    "sl": [
-      "navadna kumina"
+      "细葛缕子"
     ],
     "bo": [
       "གོ་སྙོད།"
@@ -94,6 +76,9 @@
     "ar": [
       "كروياء"
     ],
+    "nl": [
+      "Karwij"
+    ],
     "pt": [
       "Alcaravia"
     ],
@@ -102,6 +87,10 @@
     ],
     "ru": [
       "Тмин обыкновенный"
+    ],
+    "fi": [
+      "kumina",
+      "maustekumina"
     ],
     "uk": [
       "Кмин звичайний"
@@ -142,8 +131,10 @@
     "ps": [
       "زيره"
     ],
-    "id": [
-      "Jintan"
+    "de": [
+      "Echter Kümmel",
+      "Wiesen-Kümmel",
+      "Wiesenkümmel"
     ],
     "ml": [
       "കരിഞ്ചീരകം"
@@ -162,6 +153,12 @@
     ],
     "la": [
       "Careum"
+    ],
+    "sl": [
+      "navadna kumina"
+    ],
+    "cs": [
+      "kmín kořenný"
     ],
     "mr": [
       "शहाजिरे"
@@ -321,13 +318,16 @@
     ],
     "rsk": [
       "Рашка"
+    ],
+    "ast": [
+      "alcaravea"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q26811",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q26811",
   "search_names": {
@@ -343,35 +343,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キャラウェイ」",
+      "source": "Wikipedia (ja): キャラウェイ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%A6%E3%82%A7%E3%82%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106358766,
       "text": "ヒメウイキョウ は、セリ科ヒメウイキョウ属（キャラウェイ属）の二年草である。別名はキャラウェイ 、カラム。原産地は西アジア、ヨーロッパとされる。種子のように見える果実が、香辛料として用いられている。リンネの『植物の種』(1753年) で記載された植物の一つである。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Caraway」",
+      "source": "Wikipedia (en): Caraway",
       "source_url": "https://en.wikipedia.org/wiki/Caraway",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370390620,
       "text": "Caraway, also known as meridian fennel, is a biennial plant in the family Apiaceae, native to western Asia, Europe, and North Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Carum carvi",
+      "source_url": "https://es.wikipedia.org/wiki/Carum_carvi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173062367,
+      "text": "Carum carvi, comúnmente llamada alcaravea, alcarabia, alcarahueya, carvia, caravai, alcaravia, comino de prado, alcaraveta, Künmell o comino alemán, es una planta herbácea bienal de la familia Apiaceae nativa de Europa, Asia Occidental y África del norte."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Carvi",
+      "source_url": "https://fr.wikipedia.org/wiki/Carvi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232559698,
+      "text": "Le Carvi ou Cumin des prés, Carum carvi, est une espèce de plantes à fleurs de la famille des apiacées (Ombellifères). C'est une plante herbacée bisannuelle originaire de l'Ancien Monde. La plante est cultivée pour ses feuilles et surtout ses graines, utilisées pour leurs qualités aromatiques et médicinales. C'est une plante proche du Fenouil, de l'Anis vert et de l'Aneth odorant. À forte dose, cette plante peut être toxique[réf. nécessaire]. Il est parfois appelé Anis des Vosges, Cumin de Hollande ou Cumin des montagnes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Carum carvi",
+      "source_url": "https://pt.wikipedia.org/wiki/Carum_carvi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66648214,
+      "text": "A alcaravia é também conhecida como cariz, cominho, cominho-armênio, cominho-dos-prados, cominho-romano, cúmel, alcarávia, alcarávea, alcaróvea, alquirévia, cuminho ou cominho-de-montanha."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jintan",
+      "source_url": "https://id.wikipedia.org/wiki/Jintan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29838005,
+      "text": "Jintan merupakan tumbuhan menjalar yang bijinya dapat digunakan sebagai rempah-rempah dan obat-obatan. Biji tanaman ini sering digunakan sebagai bumbu dapur untuk masakan India. Tanaman ini banyak dibudidayakan di India dan Asia Tenggara. Rasanya dari jintan hampir sama dengan rasa kelabat dan sangat berbeda dengan rasa dari jenis rempah-rempah yang lain."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Caraway」の節「Cultivation」",
+        "source": "Wikipedia (en): Caraway § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Caraway#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1370390620,
         "heading": "Cultivation",
         "text": "The plant prefers warm, sunny locations and well-drained soil rich in organic matter. In warmer regions, it is planted in the winter as an annual. In temperate climates, it is planted as a summer annual or biennial.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Carvi § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Carvi#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 232559698,
+        "heading": "Culture",
+        "text": "Demande un sol frais, léger, légèrement calcaire et une exposition ensoleillée.\nMultiplication par semis au printemps. La récolte intervient au bout de 3 mois pour les feuilles, puis pendant la période de végétation en fonction des besoins, et la deuxième année pour les graines.",
         "truncated": false
       }
     }
@@ -388,7 +435,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -525,7 +572,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/839677-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -533,7 +580,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/839677-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000588460.webp",
@@ -546,6 +593,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 336,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

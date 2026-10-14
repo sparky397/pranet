@@ -16,27 +16,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ハマザクロ"
     ],
+    "id": [
+      "Perepat"
+    ],
     "fi": [
-      "Valko-omenamangrove"
+      "valko-omenamangrove"
+    ],
+    "ms": [
+      "Pokok Perepat"
     ],
     "zh": [
       "杯萼海桑",
       "伽果"
-    ],
-    "mg": [
-      "Antalaotro"
-    ],
-    "id": [
-      "Perepat"
-    ],
-    "ms": [
-      "Pokok Perepat"
     ],
     "vi": [
       "Bần trắng"
@@ -61,13 +58,16 @@
     ],
     "dtp": [
       "Perepat"
+    ],
+    "mg": [
+      "Antalaotro"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1150684",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1150684",
   "search_names": {
@@ -78,22 +78,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ハマザクロ」",
+      "source": "Wikipedia (ja): ハマザクロ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%B6%E3%82%AF%E3%83%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111305729,
       "text": "ハマザクロ は、フトモモ目ミソハギ科の木本植物で、潮間帯に生えるマングローブの構成種の一つ。別名マヤプシギまたはマヤプシキ。マングローブを形成する樹種のひとつで、干潟から顕著な呼吸根を出すことが特徴的である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sonneratia alba」",
+      "source": "Wikipedia (en): Sonneratia alba",
       "source_url": "https://en.wikipedia.org/wiki/Sonneratia_alba",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1353901781,
       "text": "Sonneratia alba is a mangrove tree in the family Lythraceae. The specific epithet alba is from the Latin meaning 'white', referring to the flowers."
+    },
+    "id": {
+      "source": "Wikipedia (id): Perepat",
+      "source_url": "https://id.wikipedia.org/wiki/Perepat",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29866668,
+      "text": "Perepat atau pidada putih adalah salah satu jenis pohon penyusun hutan bakau. Pohon berbatang besar ini sering didapati di bagian hutan bakau yang dasarnya berbatu karang atau berpasir, langsung berhadapan dengan laut terbuka. Nama \"perepat\" juga sering dipakai untuk pohon pantai lain yang agak serupa yang dikenal sebagai pidada."
     }
   },
   "edible": {
@@ -111,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -159,7 +168,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554265-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -167,7 +176,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/554265-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001140430.webp",
@@ -180,6 +189,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 375,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

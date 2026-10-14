@@ -31,7 +31,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -42,77 +42,11 @@
       "Chinese Dates",
       "Common Jujuba"
     ],
-    "ar": [
-      "سدر جبلي",
-      "عناب"
-    ],
-    "as": [
-      "বগৰী"
-    ],
-    "ca": [
-      "Ginjoler"
-    ],
-    "cs": [
-      "cicimek datlový",
-      "cicimek čínský"
-    ],
-    "de": [
-      "Chinesische Jujube"
-    ],
-    "dv": [
-      "ކުންނާރު"
-    ],
-    "es": [
-      "Azufaifo",
-      "Azufaifa"
-    ],
-    "fa": [
-      "عناب"
-    ],
-    "fi": [
-      "jujuba",
-      "Kiinanjujuba"
-    ],
     "fr": [
       "Jujubier commun"
     ],
-    "hr": [
-      "žižula"
-    ],
-    "hu": [
-      "kínai datolya",
-      "jujuba"
-    ],
-    "it": [
-      "Giuggiolo"
-    ],
-    "ko": [
-      "대추",
-      "대추나무"
-    ],
-    "mr": [
-      "बोर"
-    ],
-    "nl": [
-      "Chinese jujube"
-    ],
-    "pl": [
-      "głożyna pospolita"
-    ],
-    "pt": [
-      "Jujuba"
-    ],
-    "ru": [
-      "Зизифус настоящий"
-    ],
-    "sv": [
-      "Jujubär"
-    ],
-    "tr": [
-      "Hünnap"
-    ],
-    "vi": [
-      "Táo tàu"
+    "id": [
+      "Bidara cina (tumbuhan)"
     ],
     "zh": [
       "枣树",
@@ -124,11 +58,29 @@
       "枣树皮",
       "枣树根"
     ],
-    "sl": [
-      "navadni čičimak"
-    ],
     "bg": [
       "хинап"
+    ],
+    "ru": [
+      "Зизифус настоящий"
+    ],
+    "fi": [
+      "kiinanjujuba",
+      "jujuba"
+    ],
+    "pt": [
+      "Jujuba"
+    ],
+    "ca": [
+      "ginjoler"
+    ],
+    "ar": [
+      "عناب",
+      "سدر جبلي"
+    ],
+    "hu": [
+      "jujuba",
+      "kínai datolya"
     ],
     "lv": [
       "Zizifs"
@@ -138,6 +90,14 @@
     ],
     "th": [
       "พุทราจีน"
+    ],
+    "cs": [
+      "cicimek čínský",
+      "cicimek datlový"
+    ],
+    "ko": [
+      "대추나무",
+      "대추"
     ],
     "az": [
       "Əsl innab"
@@ -153,6 +113,9 @@
     ],
     "kv": [
       "Унаби"
+    ],
+    "hr": [
+      "Žižula"
     ],
     "et": [
       "Harilik kreektürn"
@@ -175,6 +138,9 @@
     "sco": [
       "Jujube"
     ],
+    "mr": [
+      "बोर"
+    ],
     "ml": [
       "ഇലന്ത"
     ],
@@ -196,20 +162,41 @@
     "sr": [
       "Jујуба"
     ],
+    "pl": [
+      "głożyna pospolita"
+    ],
     "scn": [
       "Nzìnzula"
+    ],
+    "sl": [
+      "navadni čičimak"
     ],
     "oc": [
       "Ginjorlièr"
     ],
+    "dv": [
+      "ކުންނާރު"
+    ],
     "cdo": [
       "Cō̤"
+    ],
+    "vi": [
+      "Táo tàu"
     ],
     "sh": [
       "Žižula"
     ],
     "or": [
       "ବର କୋଳି"
+    ],
+    "tr": [
+      "Hünnap"
+    ],
+    "as": [
+      "বগৰী"
+    ],
+    "fa": [
+      "عناب"
     ],
     "hy": [
       "Ունաբ սովորական"
@@ -276,13 +263,29 @@
     ],
     "tg": [
       "Челон"
+    ],
+    "de": [
+      "Chinesische Jujube"
+    ],
+    "es": [
+      "Azufaifo",
+      "Azufaifa"
+    ],
+    "it": [
+      "Giuggiolo"
+    ],
+    "nl": [
+      "Chinese jujube"
+    ],
+    "sv": [
+      "Jujubär"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q11181633",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q11181633",
   "search_names": {
@@ -295,46 +298,93 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ナツメ」",
+      "source": "Wikipedia (ja): ナツメ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%84%E3%83%A1",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111316102,
       "text": "ナツメ は、クロウメモドキ科の落葉小高木である。和名は夏に入って芽が出ること（夏芽）に由来する。中国植物名（漢名）は、棗（そう）という。英語ではjujube またはChinese date（中国のナツメヤシ）という。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Jujube」",
+      "source": "Wikipedia (en): Jujube",
       "source_url": "https://en.wikipedia.org/wiki/Jujube",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375766470,
       "text": "Jujube, jujuba, Chinese jujube, red date or Chinese date is a species in the genus Ziziphus in the buckthorn family Rhamnaceae. It is often confused with the closely related Indian jujube, Z. mauritiana. The jujube tolerates a diverse range of climates, from temperate to tropical. Its origin is thought to be in eastern Asia, but it has been widely dispersed through cultivation, and is today cultivated in gardens as a shrub as well as in agriculture as a food crop. Its fruit is eaten freshly harvested as well as dried and candied."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ziziphus jujuba",
+      "source_url": "https://es.wikipedia.org/wiki/Ziziphus_jujuba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174574067,
+      "text": "Ziziphus jujuba es una especie de planta arbórea del género Ziziphus en la familia Rhamnaceae. Es conocida como jujube, jinjolero, jínjol, azufaifo, azofaifo, achufaifo, entre otros nombres comunes."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Jujubier commun",
+      "source_url": "https://fr.wikipedia.org/wiki/Jujubier_commun",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231066835,
+      "text": "Le Jujubier commun est une espèce de plantes à fleurs de la famille des Rhamnaceae. C'est un arbuste épineux originaire de Chine et répandu dans les régions méditerranéennes, dont le fruit comestible, le jujube, est un peu oublié en Occident. Il est encore cultivé, surtout en Extrême-Orient, où il en existe de nombreuses variétés."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ziziphus jujubas",
+      "source_url": "https://pt.wikipedia.org/wiki/Ziziphus_jujubas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72777684,
+      "text": "A Ziziphus jujubas, comummente conhecida como jujubeira, é uma planta da família das Ramnáceas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bidara cina (tumbuhan)",
+      "source_url": "https://id.wikipedia.org/wiki/Bidara_cina_(tumbuhan)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29799570,
+      "text": "Ziziphus jujuba, disebut juga dengan nama lain bidara cina, bidara, jujube atau jujuba, kurma merah, kurma Tiongkok atau angco, kurma Korea, kurma India, putsa, futsa, atau apel India adalah sebuah spesies dari Ziziphus dalam famili buckthorn (Rhamnaceae), yang biasanya digunakan sebagai tempat berteduh dari sinar matahari selain juga dapat diambil buahnya."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ナツメ」の節「栽培」",
+        "source": "Wikipedia (ja): ナツメ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%84%E3%83%A1#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111316102,
         "heading": "栽培",
         "text": "日当たりが良く、排水が良いところであれば土質を選ばないため栽培しやすい。繁殖は実生または株分けで行われる。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Jujube」の節「Cultivation」",
+        "source": "Wikipedia (en): Jujube § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Jujube#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375766470,
         "heading": "Cultivation",
         "text": "Chinese jujubes have been grown in parts of Asia for thousands of years. Wild jujube kernels have been found in three sites on the Qi River basin of northern China dating to the Neolithic period. It may have originated in Syria, but was distributed across the Mediterranean region at least 3,000 years ago. Today, it is most widely grown in China. The tree is tolerant of droughts and flooding, and can be cultivated on a large scale.\nJujubes are grown as a garden shrub throughout most of the southern half of North America, doing particularly well in parts of California. Cultivars include Li, Lang, Sherwood, Silverhill (also known as Tiger Tooth), So, Shui Men, and GA 866.\nAgricultural growers have started to plant Chinese jujubes in Australia since around 2000. A family farm in Renmark, South Australia has been growing the fruit since 2015. Seeka, the largest producer of kiwi fruit and nashi pears in Australia, produces abundant crops of jujubes, and was looking at exporting some of its output as the dried product. In 2023 the company was planning to expand its production by planting around 40,000 jujube trees on its land near Shepparton, Victoria. By mid-2025, there were about 60 growers and around 50,000 trees planted in Australia, according to AgriFutures Australia. Growers said that a national body was needed to establish export markets and create more public awareness of the fruit domestically.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Jujubier commun § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Jujubier_commun#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 231066835,
+        "heading": "Culture",
+        "text": "Le jujubier a été domestiqué en Asie du Sud vers 9000 av. J.-C. Plus de 400 cultivars ont été sélectionnés.\nL'arbre tolère une large gamme de températures et de précipitations, bien qu'il nécessite des étés chauds et suffisamment d'eau pour une fructification acceptable. Contrairement à la plupart des autres espèces du genre, il tolère des hivers assez froids, des températures jusqu'à environ -15 °C. Cela permet au jujubier de croître dans des habitats montagneux ou désertiques, à condition qu’il ait accès à de l’eau souterraine pendant l’été. Le jujubier, Z. jujuba, pousse dans les régions les plus froides de l'Asie[réf. nécessaire]. Au moins cinq autres espèces de Ziziphus sont largement répandues dans les climats tempérés et les déserts chauds d’Asie et d’Afrique.\n\n■ Multiplication\nIl est conseillé de laver les fruits et de les stratifier immédiatement, pour les semer au printemps sous abris. Les jeunes plants craignent le gel, mais la plante devenue un petit arbre est rustique à Vienne.",
         "truncated": false
       }
     }
@@ -356,7 +406,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -424,7 +474,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/719213-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -432,7 +482,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/719213-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000430303.webp",
@@ -445,6 +495,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

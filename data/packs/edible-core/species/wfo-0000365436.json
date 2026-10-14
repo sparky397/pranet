@@ -8,17 +8,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "キョウオウ"
-    ],
-    "zh": [
-      "姜黄",
-      "郁金",
-      "莪术",
-      "郁金（毛郁金）^"
     ],
     "ml": [
       "കസ്തൂരിമഞ്ഞൾ"
@@ -31,6 +25,12 @@
     ],
     "ru": [
       "куркума ароматная"
+    ],
+    "zh": [
+      "郁金",
+      "姜黄",
+      "莪术",
+      "郁金（毛郁金）^"
     ],
     "ta": [
       "கத்தூரி மஞ்சள்"
@@ -64,7 +64,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1911231",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1911231",
   "search_names": {
@@ -74,22 +74,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キョウオウ」",
+      "source": "Wikipedia (ja): キョウオウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A7%E3%82%A6%E3%82%AA%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109709568,
       "text": "キョウオウ は、ショウガ科ウコン属の一種の多年草。ハルウコンとも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Curcuma aromatica」",
+      "source": "Wikipedia (en): Curcuma aromatica",
       "source_url": "https://en.wikipedia.org/wiki/Curcuma_aromatica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1358549601,
       "text": "Curcuma aromatica is a member of the genus Curcuma belonging to the family Zingiberaceae. Botanically close to Curcuma australasica, wild turmeric has been widely used as a cosmetic herbal in South Asia and nearby regions. In Tamil and Malayalam, it is known as Kasthuri Manjal, and in Telugu, bontha-pasupu (బొంతపసుపు)."
+    },
+    "es": {
+      "source": "Wikipedia (es): Curcuma aromatica",
+      "source_url": "https://es.wikipedia.org/wiki/Curcuma_aromatica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 148148291,
+      "text": "Curcuma aromatica es una especie de planta fanerógama del género Curcuma de la familia Zingiberaceae. Botánicamente cercana de Curcuma australasica, la cúrcuma silvestre ha sido ampliamente utilizada como un cosmético herbario en el sur de Asia y las regiones cercanas."
     }
   },
   "edible": {
@@ -103,7 +112,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -127,7 +136,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/796426-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -135,7 +144,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/796426-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000365436.webp",
@@ -148,6 +157,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

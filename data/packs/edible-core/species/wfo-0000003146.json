@@ -8,63 +8,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "カモミール"
     ],
-    "nl": [
-      "Echte kamille"
-    ],
-    "fi": [
-      "kamomillasaunio"
-    ],
-    "de": [
-      "Echte Kamille"
-    ],
-    "sv": [
-      "kamomill"
-    ],
-    "da": [
-      "vellugtende kamil",
-      "vellugtende kamille"
-    ],
-    "nb": [
-      "kamilleblom",
-      "kamille"
-    ],
-    "nn": [
-      "kamilleblom"
-    ],
-    "io": [
-      "kamomil",
-      "Kamomilo"
-    ],
-    "eo": [
-      "kamomilo"
-    ],
-    "en": [
-      "chamomile",
-      "camomile",
-      "wild chamomile",
-      "blue chamomile",
-      "scented mayweed",
-      "German chamomile",
-      "mayweed"
-    ],
     "pt": [
+      "Camomila-vulgar",
       "camomila",
-      "camomilha",
-      "Camomila-vulgar"
+      "camomilha"
     ],
-    "ru": [
-      "ромашка аптечная",
-      "ромашка лекарственная",
-      "ромашка ободранная"
-    ],
-    "uk": [
-      "ромашка лікарська"
+    "lb": [
+      "Kaméil"
     ],
     "zh": [
       "德國洋甘菊",
@@ -74,24 +30,15 @@
       "洋甘菊"
     ],
     "pl": [
-      "rumianek pospolit",
-      "rumianek pospolity"
+      "rumianek pospolity",
+      "rumianek pospolit"
+    ],
+    "eu": [
+      "Kamamila"
     ],
     "hu": [
       "orvosi székfű",
       "kamilla"
-    ],
-    "sl": [
-      "prava kamilica"
-    ],
-    "es": [
-      "Manzanilla"
-    ],
-    "lb": [
-      "Kaméil"
-    ],
-    "eu": [
-      "Kamamila"
     ],
     "et": [
       "Teekummel"
@@ -102,8 +49,22 @@
     "ba": [
       "Шифалы ромашка"
     ],
+    "nl": [
+      "echte kamille"
+    ],
+    "sv": [
+      "kamomill"
+    ],
     "ar": [
       "بابونج ألماني"
+    ],
+    "eo": [
+      "kamomilo"
+    ],
+    "ru": [
+      "ромашка аптечная",
+      "ромашка лекарственная",
+      "ромашка ободранная"
     ],
     "sr": [
       "камилица"
@@ -111,11 +72,21 @@
     "mk": [
       "Камилица"
     ],
+    "fi": [
+      "kamomillasaunio"
+    ],
+    "uk": [
+      "ромашка лікарська"
+    ],
     "hr": [
       "kamilica"
     ],
     "az": [
       "Aptek çobanyastığı"
+    ],
+    "da": [
+      "vellugtende kamille",
+      "vellugtende kamil"
     ],
     "arz": [
       "بابونج"
@@ -131,6 +102,9 @@
     ],
     "id": [
       "Chamomile"
+    ],
+    "de": [
+      "Echte Kamille"
     ],
     "mrj": [
       "Ромашка"
@@ -150,6 +124,9 @@
     "ca": [
       "camamilla"
     ],
+    "sl": [
+      "prava kamilica"
+    ],
     "cs": [
       "heřmánek pravý"
     ],
@@ -167,6 +144,10 @@
     ],
     "os": [
       "Æхсынкъмарæн"
+    ],
+    "nb": [
+      "kamille",
+      "kamilleblom"
     ],
     "kk": [
       "Дәрілік түймедақ"
@@ -198,6 +179,10 @@
     "ckb": [
       "بەیبوونی ئاڵمانی"
     ],
+    "io": [
+      "Kamomilo",
+      "kamomil"
+    ],
     "sgs": [
       "Ramonielė"
     ],
@@ -228,6 +213,9 @@
     "ky": [
       "Аптека же дары ромашкасы"
     ],
+    "nn": [
+      "Kamilleblom"
+    ],
     "ur": [
       "بابونہ المانی"
     ],
@@ -236,13 +224,25 @@
     ],
     "rsk": [
       "Руменєц"
+    ],
+    "en": [
+      "chamomile",
+      "camomile",
+      "wild chamomile",
+      "blue chamomile",
+      "scented mayweed",
+      "German chamomile",
+      "mayweed"
+    ],
+    "es": [
+      "Manzanilla"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q28437",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q28437",
   "search_names": {
@@ -256,46 +256,106 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「カモミール」",
+      "source": "Wikipedia (ja): カモミール",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E3%83%9F%E3%83%BC%E3%83%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110404348,
       "text": "カモミール、カモマイル は、キク科シカギク属の1種の耐寒性一年草。和名はカミツレ（加密列）である。広義の意味でカモミールとよばれる植物は他属を含めて数多くあるが、代表的な品種としては、本記事で解説するジャーマン・カモミール と、ローマンカモミール が挙げられる。カモミール全般は、ヨーロッパではハーブとして同じように使われてきた。ロシアでは、国花となっている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Matricaria chamomilla」",
+      "source": "Wikipedia (en): Matricaria chamomilla",
       "source_url": "https://en.wikipedia.org/wiki/Matricaria_chamomilla",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375671188,
       "text": "Matricaria chamomilla, commonly known as chamomile, German chamomile, Hungarian chamomile (kamilla), wild chamomile, blue chamomile, or scented mayweed, is an annual plant of the composite family Asteraceae. Commonly, the name M. recutita is applied to the herbal product chamomile, although other species are also used as chamomile. The plant is commonly used to make a tea."
+    },
+    "es": {
+      "source": "Wikipedia (es): Matricaria chamomilla",
+      "source_url": "https://es.wikipedia.org/wiki/Matricaria_chamomilla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173861314,
+      "text": "La manzanilla de Castilla, manzanilla alemana, dulce o cimarrona es una especie de planta herbácea anual de la familia de las asteráceas. Nativa de Europa y las regiones templadas de Asia, se ha naturalizado en algunas regiones de América y Australia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Matricaria chamomilla",
+      "source_url": "https://fr.wikipedia.org/wiki/Matricaria_chamomilla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237049409,
+      "text": "La Camomille sauvage, Matricaire camomille, Petite camomille est une espèce de plante à fleurs de la famille des Astéracées et du genre Matricaria. Elle est parfois appelée camomille allemande, camomille vraie ou matricaire tronquée."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Camomila-vulgar",
+      "source_url": "https://pt.wikipedia.org/wiki/Camomila-vulgar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70213387,
+      "text": "A Matricaria recutita, comummente conhecida como camomila, é uma planta da família das Asteraceae e ao tipo fisionómico dos terófitos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Matricaria chamomilla",
+      "source_url": "https://id.wikipedia.org/wiki/Matricaria_chamomilla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29853042,
+      "text": "Matricaria chamomilla, umumnya dikenal sebagai chamomile, kamomil Jerman, kamomil Hungaria (kamilla), kamomil liar, kamomil biru, atau mayweed beraroma, adalah tumbuhan semusim dari keluarga komposit Asteraceae. Umumnya, nama ilmiah M. recutita dicantumkan pada sumber produk herbal kamomil yang paling populer, meskipun spesies lain juga digunakan sebagai kamomil. kamomil dikenal sebagian besar karena penggunaannya melawan masalah gastrointestinal; selain itu, dapat digunakan untuk mengobati iritasi pada kulit."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「カモミール」の節「栽培」",
+        "source": "Wikipedia (ja): カモミール § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E3%83%9F%E3%83%BC%E3%83%AB#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110404348,
         "heading": "栽培",
         "text": "日当たりと排水性が良い土壌を好み、夏の暑さや乾燥に弱い性質がある。種が非常に小さいため乾燥砂と混ぜて、春か秋に苗床などに、密にならないように条の間隔を30 cmほど空けて直播きする。薄く覆土をして、発芽まで半日陰で管理する。発芽適温は15～20℃くらいで、1～2週間で発芽する。カモミールは種は非常に細かいので、水やりの際に種を流さないよう、腰水で吸水させる。発芽したら間引きし、高さが6 - 7 cmほどに生育した苗を、間隔を40 cmほど空けて定植する。土は石灰を混ぜて、窒素を控えめにした肥料を施す。病害虫として、新葉や蕾にアブラムシがつくときがある。特に晩春（5月頃）はアブラムシが多発する時期である。\n初夏には花が咲くので、摘んで乾燥させて利用する。収穫適期は舌状花が水平に開いているときで、舌状花が下に垂れ下がると収穫にはやや遅い。花を摘めば摘むほど、枝分かれをして次々と多くの花を咲かせる性質がある。開花が終わっても、花を少し残して株をそのままにしておけば、こぼれた種が自然実生でまた生えてくる。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Matricaria chamomilla」の節「Cultivation」",
+        "source": "Wikipedia (en): Matricaria chamomilla § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Matricaria_chamomilla#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375671188,
         "heading": "Cultivation",
         "text": "Chamomile does not need special soil, although it grows best on well balanced soils with good topsoil. It can be planted as an annual crop in either autumn or spring, or it can be treated as a perennial due to its ability to self-seed.\nAphids are a major insect pest in chamomile production. Its most significant diseases in Europe are downy mildew, powdery mildew and rust.\nThe chamomile plant often flowers 2 to 3 times per year. This is taken into account by multiple harvests per year as well. The flowering period is about 50–65 days while the development of a flower takes about 20–25 days.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Camomila-vulgar § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Camomila-vulgar#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 70213387,
+        "heading": "Cultivo",
+        "text": "O cultivo da camomila é normalmente realizado através da semeadura de sementes, de tal forma que estas não sejam cobertas completamente pelo solo, uma vez que a luz solar contribui para a germinação. A época ideal de plantio no Sul do Brasil ocorre entre março e abril. Contudo, o plantio em épocas mais secas é possível desde que as sementes sejam bem irrigadas.\nApesar de bem adaptada à região Sul do Brasil e até mesmo a regiões mais quentes[carece de fontes]?, a camomila produzida no Brasil apresenta baixa qualidade e produtividade (aproximadamente 500 kg ha−1), recebendo pouco destaque comercial em comparação a outros países produtores como a Argentina.\nAcredita-se assegurar a saúde das plantas ao redor, convivendo bem com as couves, cebolas, mentas e repolho. [carece de fontes]?",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Matricaria chamomilla § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Matricaria_chamomilla#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237049409,
+        "heading": "Toxicité",
+        "text": "Les fleurs de Matricaria chamomilla ne sont pas toxiques. Il en est de même de l'huile essentielle et du bisabolol. Toutefois la présence possible de lactones dans les préparations à base de camomille peut provoquer chez certaines personnes sensibles des dermites de contact allergiques. Les cas où Matricaria chamomilla est formellement mise en cause semblent plutôt exceptionnels[évasif][réf. nécessaire].",
         "truncated": false
       }
     }
@@ -312,7 +372,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -466,7 +526,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/154715-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -474,7 +534,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/154715-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000003146.webp",
@@ -487,6 +547,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

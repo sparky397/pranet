@@ -18,37 +18,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ブドウホオズキ"
     ],
-    "cy": [
-      "gwsberen Periw"
-    ],
-    "en": [
-      "Peruvian groundcherry",
-      "Cape gooseberry"
-    ],
-    "zh": [
-      "秘魯苦蘵",
-      "燈籠果",
-      "灯笼果",
-      "小果酸浆",
-      "灯笼草"
-    ],
-    "nl": [
-      "Goudbes"
-    ],
-    "cs": [
-      "mochyně peruánská"
-    ],
-    "fi": [
-      "karviaiskoiso"
-    ],
-    "es": [
-      "Uchuva"
+    "fr": [
+      "Coqueret du Pérou"
     ],
     "dv": [
       "މުރާކި"
@@ -64,9 +41,6 @@
     ],
     "he": [
       "שלפח"
-    ],
-    "fr": [
-      "Coqueret du Pérou"
     ],
     "hu": [
       "perui földicseresznye"
@@ -86,6 +60,9 @@
     "hsb": [
       "Peruska měchawka"
     ],
+    "nl": [
+      "goudbes"
+    ],
     "ru": [
       "Физалис перуанский"
     ],
@@ -95,11 +72,21 @@
     "th": [
       "โทงเทงฝรั่ง"
     ],
+    "fi": [
+      "karviaiskoiso"
+    ],
     "az": [
       "Peru yergilası"
     ],
     "lt": [
       "Peruvinė dumplūnė"
+    ],
+    "zh": [
+      "灯笼果",
+      "秘魯苦蘵",
+      "燈籠果",
+      "小果酸浆",
+      "灯笼草"
     ],
     "nb": [
       "Barbadoslykt"
@@ -125,11 +112,17 @@
     "fa": [
       "توت طلایی"
     ],
+    "cy": [
+      "Gwsberen Periw"
+    ],
     "ar": [
       "حبوة البيرو"
     ],
     "bg": [
       "перуански физалис"
+    ],
+    "cs": [
+      "mochyně peruánská"
     ],
     "my": [
       "ကုလားမျက်စိပင်စောက်ကြီး"
@@ -184,13 +177,20 @@
     ],
     "zu": [
       "UGqumgqumu"
+    ],
+    "en": [
+      "Peruvian groundcherry",
+      "Cape gooseberry"
+    ],
+    "es": [
+      "Uchuva"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q165227",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q165227",
   "search_names": {
@@ -208,36 +208,85 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ブドウホオズキ」",
+      "source": "Wikipedia (ja): ブドウホオズキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%89%E3%82%A6%E3%83%9B%E3%82%AA%E3%82%BA%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108512012,
       "text": "ブドウホオズキあるいはシマホオズキ、ケホオズキ とは、ナス科ホオズキ属の多年草の一つである。ホオズキに似ているが、ブドウホウズキの方には実を包む萼が細かい毛に覆われるという特徴が見られる。食用となる実をつけ 、日本では小笠原諸島などに帰化している。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Physalis peruviana」",
+      "source": "Wikipedia (en): Physalis peruviana",
       "source_url": "https://en.wikipedia.org/wiki/Physalis_peruviana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1367606158,
       "text": "Physalis peruviana is a South American species of plant in the nightshade family (Solanaceae). Within its native range, it is called aguaymanto, uvilla or uchuva, in addition to numerous indigenous and regional names. In English, its common names include Cape gooseberry, goldenberry and Peruvian groundcherry."
+    },
+    "es": {
+      "source": "Wikipedia (es): Physalis peruviana",
+      "source_url": "https://es.wikipedia.org/wiki/Physalis_peruviana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175373904,
+      "text": "La planta conocida como aguaymanto, uvilla, uchuva, chilto o bien, ushun es una planta herbácea con origen en los Andes peruanos, perteneciente a la familia Solanaceae. Posee características similares a las plantas de papa, tomate y tabaco, a pesar de su crecimiento arbustivo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Coqueret du Pérou",
+      "source_url": "https://fr.wikipedia.org/wiki/Coqueret_du_P%C3%A9rou",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237248763,
+      "text": "Le Coqueret du Pérou est une espèce du genre Physalis originaire d'Amérique du Sud et acclimatée en Afrique. Il ne faut pas la confondre avec Physalis pruinosa, appelé « cerise de terre » au Canada."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Physalis peruviana",
+      "source_url": "https://pt.wikipedia.org/wiki/Physalis_peruviana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73078536,
+      "text": "Physalis peruviana, comummente conhecida como fisális ou tomate-capucho, é uma espécie de planta da família das solanáceas, nativa do Chile e do Peru."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Physalis peruviana」の節「Cultivation」",
+        "source": "Wikipedia (en): Physalis peruviana § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Physalis_peruviana#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1367606158,
         "heading": "Cultivation",
         "text": "The history of P. peruviana cultivation in South America can be traced to the Inca Empire.\nIt has been widely introduced into cultivation in tropical, subtropical, and temperate areas such as Australia, China, India, Malaysia, and the Philippines. P. peruviana thrives at an annual average temperature from 13 to 18 °C (55 to 64 °F), tolerating temperatures as high as 30 °C (86 °F). It grows well in Mediterranean climates and is hardy to USDA hardiness zone 8, meaning it can be damaged by frost. It grows well in annual rainfalls of 800–4,300 mm (31–169 in) if the soil is well drained, prefers full sun or partial shade in well-drained soil, and grows vigorously in sandy loam.\nThe plant is readily grown from seeds, which are abundant (100 to 300 per fruit), but with low germination rates, requiring thousands of seeds to sow a hectare. Plants grown from year-old stem cuttings will flower early and yield well, but are less vigorous than those grown from seed.\n\n■ Pests and diseases\nIn South Africa, cutworms attack the Cape gooseberry in seedbeds, red spider mites in the field, and potato tuber moths near potato fields. Hares damage young plants, and birds eat the fruits. Mites, whiteflies and flea beetles can also be problematic. Powdery mildew, soft brown scale, root rot and viruses may affect plants. In New Zealand, plants can be infected by Candidatus Liberibacter solanacearum.",
         "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Physalis peruviana § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Physalis_peruviana#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175373904,
+        "heading": "Cultivo",
+        "text": "Los suelos más recomendados para el cultivo de P. peruviana son los que poseen estructura granular y una textura areno-arcillosa, preferiblemente que contengan altos contenidos de materia orgánica y un pH entre 5,6 y 6,9.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Physalis peruviana § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Physalis_peruviana#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 73078536,
+        "heading": "Cultivo",
+        "text": "Foi amplamente introduzida no cultivo em áreas tropicais, subtropicais e temperadas, como Austrália, China, Índia, Malásia e Filipinas. P. peruviana prospera a uma temperatura média anual de 13 a 18 °C, embora tolere valores entre os 10 e os 32 °C. Cresce bem em climas mediterrâneos e é resistente à zona de robustez 8 do USDA, o que significa que pode ser danificada pela geada. Prefere uma precipitação média anual entre os 1.500 e 2.300 mm, tolerando entre 800 e 4 300 mm, se o solo for bem drenado. Prefere localizações abrigadas, com alguma exposição ao sol pleno ou em sombra parcial, em solo bem drenado, podendo em todo o caso crescer vigorosamente em solo arenoso. \nPrefere solos francos ricos em húmus, mas tolera solos pobres. Não se adapta bem a solos argilosos. Por seu turno, os solos excessivamente férteis favorecem o desenvolvimento vegetativo em detrimento da frutificação. Estas plantas toleram um pH entre 4,5 e 8,2.Além do mais, estas plantas toleram geadas ligeiras.\nA planta cresce facilmente a partir de sementes, que são abundantes (com cem a trezentas em cada fruto), mas com baixa germinação, exigindo milhares de sementes para semear um hectare. As plantas cultivadas a partir de mudas de caule com um ano florescem cedo e produzem bem, mas são menos vigorosas do que as cultivadas a partir das sementes.\nA primeira colheita de frutos pode ser obtida logo ao fim de cerca de 3 meses após a sementeira, podendo a colheita continuar durante pelo menos 3 anos.  Em áreas resguardadas da geada, a planta pode inclusive florir e frutificar durante todo o ano.\n\n■ Portugal\nEm Portugal, particularmente nos Açores, há plantações de capucho ao ar livre.",
+        "truncated": true
       }
     }
   },
@@ -254,7 +303,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -393,7 +442,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/195473-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -401,7 +450,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/195473-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001024896.webp",
@@ -414,6 +463,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -13,19 +13,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ホワイトサポテ"
     ],
     "en": [
-      "White sapote",
-      "white sapote"
+      "White sapote"
     ],
-    "zh": [
-      "白柿",
-      "香肉果"
+    "fr": [
+      "Sapotier blanc",
+      "Sapote blanche"
+    ],
+    "id": [
+      "Sawo putih"
     ],
     "pl": [
       "Kazimira jadalna"
@@ -36,9 +38,6 @@
     "ru": [
       "Белая сапота"
     ],
-    "fr": [
-      "Sapote blanche"
-    ],
     "tr": [
       "Beyaz sapot"
     ],
@@ -47,6 +46,10 @@
     ],
     "ar": [
       "سابوتا بيضاء"
+    ],
+    "zh": [
+      "香肉果",
+      "白柿"
     ],
     "th": [
       "ละมุดขาว"
@@ -75,9 +78,6 @@
     "arz": [
       "سابوتا بيضاء"
     ],
-    "id": [
-      "Sawo putih"
-    ],
     "mad": [
       "Sabu potè"
     ]
@@ -86,27 +86,93 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2312704",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2312704",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ホワイトサポテ」",
+      "source": "Wikipedia (ja): ホワイトサポテ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B5%E3%83%9D%E3%83%86",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109598030,
       "text": "ホワイトサポテ はミカン科カシミロア属(シロサポテ属)の常緑高木、またはその果実で、本属の模式種。"
     },
     "en": {
-      "source": "Wikipedia 英語版「White sapote」",
+      "source": "Wikipedia (en): White sapote",
       "source_url": "https://en.wikipedia.org/wiki/White_sapote",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371269770,
       "text": "The white sapote, scientific name Casimiroa edulis, also called casimiroa and Mexican apple, and known as cochitzapotl in the Nahuatl language is a species of tropical fruiting tree in the family Rutaceae, native to eastern Mexico and Central America south to Costa Rica. The genus is named for \"an Otomi Indian, Casimiro Gómez, from the town of Cardonal in Hidalgo, Mexico, who fought and died in Mexico's war of independence.\""
+    },
+    "es": {
+      "source": "Wikipedia (es): Casimiroa edulis",
+      "source_url": "https://es.wikipedia.org/wiki/Casimiroa_edulis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171397874,
+      "text": "El zapote blanco es una especie de planta medicinal y frutal perteneciente a la familia Rutaceae, originaria de América Central."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sapotier blanc",
+      "source_url": "https://fr.wikipedia.org/wiki/Sapotier_blanc",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240315569,
+      "text": "Le sapotier blanc ou pommier mexicain est une espèce d'arbre à feuillage persistant de la famille des Rutaceae, originaire de l'est du Mexique et de l'Amérique centrale jusqu'au Costa Rica au Sud."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sawo putih",
+      "source_url": "https://id.wikipedia.org/wiki/Sawo_putih",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29984712,
+      "text": "Sawo putih, nama ilmiah Casimiroa edulis, juga disebut casimiroa dan apel Meksiko, dan dikenal sebagai cochitzapotl dalam bahasa Nahuatl adalah spesies pohon berbuah tropis dalam famili Rutaceae, asli timur Meksiko dan Amerika Tengah selatan ke Kosta Rika. Genus ini dinamai \"seorang Indian Otomi, Casimiro Gómez, dari kota Cardonal di Hidalgo, Meksiko, yang berjuang dan mati dalam perang kemerdekaan Meksiko .\""
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Casimiroa edulis § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Casimiroa_edulis#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171397874,
+        "heading": "Cultivo",
+        "text": "Se propaga por semilla, recién salida de la pulpa, germina en 30-40 días. De crecimiento rápido, fructifica en 3-4 años. Admite cualquier suelo profundo, siempre que esté bien drenado. Tolera mal el agua estancada y la humedad. Regar en verano. Cuando es adulta resiste bien las bajas temperaturas, los suelos pobres y sequías de hasta 4 y 5 meses.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Sapotier blanc § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Sapotier_blanc#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240315569,
+        "heading": "Culture",
+        "text": "Le Casimiroa edulis est un arbre robuste une fois établi. Il pousse en plein soleil en climat tropical à subtropical. Il tolère de légers gels (jusqu'à -4°C pour les sujets adultes).\nIl préfère les sols bien drainés, mais s'adapte à des types de sols variés (pH neutre à légèrement acide).\nIl peut être multiplié par semis, mais le greffage est privilégié pour conserver la qualité gustative des variétés sélectionnées (comme les cultivars 'Suebelle' ou 'Pike').",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Sapotier blanc § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Sapotier_blanc#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240315569,
+        "heading": "Toxicité",
+        "text": "La graine est réputée toxique à forte dose, pour autant l'infusion de graines est prise à faible dose contre l'insomnie. Le test normalisé de l'extrait dichlorométhanique de graines chez le rat a montré l'absence de toxicité entre 2 000 mg/kg et 5 000 mg/kg.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -122,7 +188,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -145,7 +211,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/771774-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -153,7 +219,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/771774-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000589005.webp",
@@ -166,6 +232,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 328,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -64,7 +64,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -74,70 +74,22 @@
       "Barley",
       "common barley"
     ],
-    "cy": [
-      "haidd chwerhesog",
-      "Haidd"
+    "fr": [
+      "Orge commune",
+      "orge commune"
     ],
-    "el": [
-      "κριθάρι"
+    "pt": [
+      "Cevada",
+      "cevada"
     ],
-    "es": [
-      "Cebada"
-    ],
-    "fi": [
-      "Ohra",
-      "pelto-ohra"
-    ],
-    "frr": [
-      "Bere"
-    ],
-    "hr": [
-      "Ječam"
-    ],
-    "hu": [
-      "árpa",
-      "négysoros árpa",
-      "takarmányárpa"
-    ],
-    "mk": [
-      "Јачмен"
-    ],
-    "pl": [
-      "jęczmień",
-      "jęczmień zwyczajny"
-    ],
-    "ru": [
-      "Ячмень обыкновенный"
-    ],
-    "sl": [
-      "Ječmen"
-    ],
-    "zh": [
-      "大麥",
-      "二棱大麥",
-      "大麦",
-      "麦芽",
-      "大麦苗",
-      "大麦秸"
-    ],
-    "nl": [
-      "Gerst"
-    ],
-    "cs": [
-      "ječmen obecný",
-      "ječmen setý"
+    "id": [
+      "Barli"
     ],
     "de": [
       "Gerste"
     ],
-    "ast": [
-      "cebada"
-    ],
-    "nb": [
-      "seksradsbygg"
-    ],
-    "fr": [
-      "orge commune"
+    "ru": [
+      "ячмень обыкновенный"
     ],
     "am": [
       "ገብስ"
@@ -181,8 +133,16 @@
     "ca": [
       "ordi"
     ],
+    "cs": [
+      "ječmen setý",
+      "ječmen obecný"
+    ],
     "cv": [
       "Урпа"
+    ],
+    "cy": [
+      "Haidd",
+      "haidd chwerhesog"
     ],
     "da": [
       "almindelig byg"
@@ -190,8 +150,14 @@
     "dv": [
       "ހިމަ ގޮދަން"
     ],
+    "el": [
+      "Κριθάρι"
+    ],
     "eo": [
       "Ordinara hordeo"
+    ],
+    "es": [
+      "cebada"
     ],
     "et": [
       "harilik oder"
@@ -201,6 +167,10 @@
     ],
     "fa": [
       "جو"
+    ],
+    "fi": [
+      "ohra",
+      "pelto-ohra"
     ],
     "ga": [
       "eorna"
@@ -217,14 +187,19 @@
     "hi": [
       "जौ"
     ],
+    "hr": [
+      "ječam"
+    ],
     "hsb": [
       "Sywny ječmjeń"
     ],
     "ht": [
       "Òj"
     ],
-    "id": [
-      "Barli"
+    "hu": [
+      "árpa",
+      "négysoros árpa",
+      "takarmányárpa"
     ],
     "io": [
       "Hordeo"
@@ -253,6 +228,9 @@
     "lv": [
       "parastais miezis"
     ],
+    "mk": [
+      "Јачмен"
+    ],
     "ml": [
       "ബാർളി"
     ],
@@ -265,6 +243,9 @@
     "ne": [
       "जौ"
     ],
+    "nl": [
+      "gerst"
+    ],
     "nn": [
       "bygg"
     ],
@@ -274,11 +255,12 @@
     "os": [
       "Кæрвæдз"
     ],
+    "pl": [
+      "jęczmień zwyczajny",
+      "jęczmień"
+    ],
     "pnb": [
       "جوں"
-    ],
-    "pt": [
-      "cevada"
     ],
     "qu": [
       "Siwara"
@@ -297,6 +279,9 @@
     ],
     "sh": [
       "Ječam"
+    ],
+    "sl": [
+      "ječmen"
     ],
     "sq": [
       "Elbi"
@@ -343,11 +328,22 @@
     "yue": [
       "大麥"
     ],
+    "zh": [
+      "大麦",
+      "大麥",
+      "二棱大麥",
+      "麦芽",
+      "大麦苗",
+      "大麦秸"
+    ],
     "yi": [
       "גערשט"
     ],
     "vep": [
       "Ozr"
+    ],
+    "frr": [
+      "Bere"
     ],
     "new": [
       "तछ्व"
@@ -372,6 +368,9 @@
     ],
     "ilo": [
       "sebada"
+    ],
+    "nb": [
+      "seksradsbygg"
     ],
     "lg": [
       "barley"
@@ -564,13 +563,16 @@
     ],
     "knc": [
       "Barley"
+    ],
+    "ast": [
+      "cebada"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q11577",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q11577",
   "search_names": {
@@ -581,46 +583,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オオムギ」",
+      "source": "Wikipedia (ja): オオムギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%A0%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110264720,
       "text": "オオムギ は、イネ科の穀物。中央アジア原産で、世界でもっとも古くから栽培されていた作物の一つである。小麦よりも低温や乾燥に強いため、ライ麦と共に小麦の生産が困難な地方において多く栽培される。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Barley」",
+      "source": "Wikipedia (en): Barley",
       "source_url": "https://en.wikipedia.org/wiki/Barley",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377470667,
       "text": "Barley, a member of the grass family, is a major cereal grain grown in temperate climates globally. One of the first cultivated grains, it was domesticated in the Fertile Crescent around 9000 BC, giving it nonshattering spikelets and making it much easier to harvest. Its use then spread throughout Eurasia by 2000 BC. Barley prefers relatively low temperatures and well-drained soil to grow. It is relatively tolerant of drought and soil salinity, but is less winter-hardy than wheat or rye. Wild barley may refer to H. vulgare ssp. spontaneum, but may also refer to other species in the genus Hordeum."
+    },
+    "es": {
+      "source": "Wikipedia (es): Hordeum vulgare",
+      "source_url": "https://es.wikipedia.org/wiki/Hordeum_vulgare",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173942811,
+      "text": "La cebada, es una planta monocotiledónea anual perteneciente a la familia de las poáceas (gramíneas); a su vez, es un cereal de gran importancia tanto para animales como para humanos y es el quinto cereal más cultivado en el mundo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Orge commune",
+      "source_url": "https://fr.wikipedia.org/wiki/Orge_commune",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238748495,
+      "text": "L’orge commune est une espèce de plante à fleurs de la famille des Poaceae, sous-famille des Pooideae. C'est une céréale à paille. Elle fait partie des plus anciennes céréales cultivées. C'est une plante herbacée annuelle bien adaptée au climat méditerranéen du fait de sa rusticité. Elle constituait ainsi la principale céréale de l'agriculture mésopotamienne puis grecque antique et était consommée sous forme de bière, de galette ou de bouillie (maza). L'orge pousse aussi bien sous les tropiques qu’à 4 500 m d’altitude au Tibet."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cevada",
+      "source_url": "https://pt.wikipedia.org/wiki/Cevada",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72825957,
+      "text": "A cevada é uma gramínea cerealífera e representa a quinta maior colheita e uma das principais fontes de alimento para pessoas e animais. A área cultivada no mundo chega a 530 000 km². O seu período de germinação é de um a três dias. Suas flores são dispostas em espigas, na extremidade do colmo, e os aquénios, amarelados e ovoides."
+    },
+    "id": {
+      "source": "Wikipedia (id): Barli",
+      "source_url": "https://id.wikipedia.org/wiki/Barli",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30065178,
+      "text": "Barli, anggota suku rumput-rumputan, merupakan biji-bijian serealia utama yang dibudidayakan di iklim sedang di seluruh dunia. Sebagai salah satu serealia pertama yang dibudidayakan, barli didomestikasi di Bulan Sabit Subur sekitar 9000 SM, yang menghasilkan spikelet yang tidak mudah rontok dan membuatnya jauh lebih mudah untuk dipanen. Penggunaannya kemudian menyebar ke seluruh Eurasia pada sekitar 2000 SM. Barli menyukai suhu yang relatif rendah dan tanah yang memiliki drainase baik untuk tumbuh. Barli relatif tahan terhadap kekeringan dan salinitas tanah, tetapi kurang tahan terhadap musim dingin dibandingkan gandum atau gandum hitam. Barli liar dapat merujuk pada H. vulgare subsp. spontaneum, tetapi juga dapat merujuk pada spesies lain dalam genus Hordeum."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「オオムギ」の節「栽培」",
+        "source": "Wikipedia (ja): オオムギ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%A0%E3%82%AE#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110264720,
         "heading": "栽培",
         "text": "大麦は、本来は、後述のように冬季に比較的降水量が多い地域を原産とする作物であり、秋に発芽して冬を越し、春に大きく生長し、初夏に結実して枯れる、いわゆる冬草の一種にあたる。そのため、種を秋に蒔き、苗の状態で冬越しさせ、春に出穂（開花）・結実させて初夏に収穫する（秋蒔き）。しかし、春に積算温度の足りない寒冷地向けの品種として、発芽に低温を必要とせず、種を春にまいて、盛夏に収穫可能な春蒔き品種が開発され、日本では、北海道で主に栽培されている。世界的には、ロシアやカナダといった寒冷な地域では春蒔きが中心となっている。この2国はオオムギの大生産国であるため、世界的なオオムギ生産量としては春蒔き品種のほうが多くなっている。これに対して、特に関東から九州にかけての地方では、夏草の性質を持つ稲の裏作として秋蒔き品種の栽培が拡大した。この場合、稲の収穫が終わった秋に播種し、田植え前の初夏に収穫することになる。麦の穂が実る初夏の麦畑は、淡い茶色に染まって秋の稲田に似た光景となるため、麦の結実期のことを、麦秋と呼ぶ。東日本・西日本では、梅雨入り直前の、5月下旬から6月上旬（グレゴリオ暦）にあたる。なお、収穫後に乾燥状態を維持していないと、梅雨時などは土壌になくても穂先から簡単に芽吹き出すので注意が必要である。また初夏に芽吹いたとしても日本の夏の気候下ではうまく育たない。秋蒔きは、世界的にはドイツやアメリカなどを中心に行われる。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Barley」の節「Cultivation」",
+        "source": "Wikipedia (en): Barley § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Barley#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377470667,
         "heading": "Cultivation",
         "text": "Barley is a crop that prefers relatively low temperatures, 15 to 20 °C (59 to 68 °F) in the growing season; it is grown around the world in temperate areas. It grows best in well-drained soil in full sunshine. In the tropics and subtropics, it is grown for food and straw in South Asia, North and East Africa, and in the Andes of South America. In dry regions it requires irrigation. It has a short growing season and is relatively drought-tolerant. Barley is more tolerant of soil salinity than other cereals, varying in different cultivars. It has less winter-hardiness than winter wheat and far less than rye.\nLike other cereals, barley is typically planted on tilled land. Seed was traditionally scattered, but in developed countries is usually drilled. As it grows it requires soil nutrients (nitrogen, phosphorus, potassium), often supplied as fertilizers. It needs to be monitored for pests and diseases, and if necessary treated before these become serious. The stems and ears turn yellow when ripe, and the ears begin to droop. Traditional harvesting was by hand with sickles or scythes; in developed countries, harvesting is mechanised with combine harvesters.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Hordeum vulgare § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Hordeum_vulgare#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 173942811,
+        "heading": "Cultivo",
+        "text": "La cebada tiene un ciclo de cultivo más corto que el del trigo, es el cereal que puede ser cultivado más en el norte, y soporta tierras de poca calidad y en determinadas circunstancias da más rendimiento en grano que el trigo.\nEl cultivo está bastante extendido y, dadas sus características, el cultivo en Europa llega a los 70° de latitud Norte (en Rusia hasta los 66°), y en América a los 64°. En cuanto a la altitud, se cultiva hasta los 1800 m  de altura en Suiza y hasta los 3000 m en Perú, y es el cereal que mejor se adapta a las latitudes más elevadas.​ En cuanto a la temperatura, la cebada germina a una temperatura mínima de 6 °C. Florece a los 16 °C y madura a los 20 °C. Tolera muy bien las bajas temperaturas y llega a soportar los diez grados bajo cero.​\nLos beduinos de los desiertos y semidesiertos acostumbraban a sembrar cebada después de una lluvia importante y hacían una pequeña cosecha unos tres meses después aunque no volviera a llover.\nEn el Tíbet es el cereal principal y en forma de harina mezclada con mantequilla de yak es la base de la alimentación tradicional.\nNormalmente se siembra a final del otoño o comienzo del invierno, y la cosecha suele ser a final de junio o comienzo de julio.\nUna vez cosechado, la paja es muy apreciada para alimentar el ganado, más que la del trigo.\n\n■ Siembra\n\nLa siembra se hace en  otoño (noviembre, con las cebadas de invierno) o bien a la salida del invierno (febrero, con las cebadas de primavera).\nLa época de siembra se decide, en principio, por necesidades de la rotación: combinación con otros cultivos, lucha contra las malas hierbas, para disponer de más tiempo para sembrar, etc.",
+        "truncated": true
+      },
+      "id": {
+        "source": "Wikipedia (id): Barli § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Barli#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 30065178,
+        "heading": "Budidaya",
+        "text": "Barli merupakan tanaman yang menyukai suhu yang relatif rendah, 15 hingga 20 °C (59 hingga 68 °F) selama musim tanam; tanaman ini dibudidayakan di seluruh dunia di wilayah beriklim sedang. Barli tumbuh paling baik pada tanah yang memiliki drainase baik dan mendapat sinar matahari penuh. Di daerah tropis dan subtropis, barli dibudidayakan untuk pangan dan jerami di Asia Selatan, Afrika Utara dan Timur, serta Andes di Amerika Selatan. Di daerah kering, tanaman ini memerlukan irigasi. Barli memiliki musim tanam yang pendek dan relatif toleran terhadap kekeringan. Barli lebih toleran terhadap salinitas tanah dibandingkan serealia lainnya, dengan tingkat toleransi yang berbeda pada berbagai kultivar. Barli memiliki ketahanan musim dingin yang lebih rendah daripada gandum musim dingin dan jauh lebih rendah daripada gandum hitam.\nSeperti serealia lainnya, barli biasanya ditanam di lahan yang telah diolah. Benih secara tradisional ditebarkan, tetapi di negara-negara maju biasanya ditanam menggunakan mesin penanam benih. Selama pertumbuhannya, tanaman memerlukan unsur hara tanah (nitrogen, fosfor, kalium), yang sering diberikan dalam bentuk pupuk. Tanaman perlu dipantau terhadap hama dan penyakit, dan jika diperlukan diberi perlakuan sebelum masalah tersebut menjadi serius. Batang dan bulir berubah menjadi kuning ketika matang, dan bulir mulai merunduk. Pemanenan secara tradisional dilakukan dengan tangan menggunakan sabit atau arit besar; di negara-negara maju, pemanenan dilakukan secara mekanis menggunakan combine harvester.",
         "truncated": false
       }
     }
@@ -833,7 +893,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/405391-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -841,7 +901,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/405391-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000875054.webp",
@@ -854,6 +914,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

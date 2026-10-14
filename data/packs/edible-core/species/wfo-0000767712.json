@@ -15,33 +15,29 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "クロユリ"
     ],
-    "en": [
-      "Kamchatka fritillary",
-      "black lily"
-    ],
     "de": [
       "Schatten-Schachblume"
     ],
-    "fa": [
-      "لاله واژگون برنجی"
-    ],
-    "is": [
-      "Krummalilja"
-    ],
     "ru": [
       "Рябчик камчатский"
+    ],
+    "fa": [
+      "لاله واژگون برنجی"
     ],
     "zh": [
       "黑百合"
     ],
     "he": [
       "אורז בר"
+    ],
+    "is": [
+      "Krummalilja"
     ],
     "cs": [
       "řebčík kamčatský"
@@ -51,33 +47,46 @@
     ],
     "nn": [
       "kamtsjatkarutelilje"
+    ],
+    "en": [
+      "Kamchatka fritillary",
+      "black lily"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1795735",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1795735",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「クロユリ」",
+      "source": "Wikipedia (ja): クロユリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%A6%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110890440,
       "text": "クロユリ は、ユリ科バイモ属の高山植物。別称はエゾクロユリ（蝦夷黒百合）、またはミヤマクロユリ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Fritillaria camschatcensis」",
+      "source": "Wikipedia (en): Fritillaria camschatcensis",
       "source_url": "https://en.wikipedia.org/wiki/Fritillaria_camschatcensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377677149,
       "text": "Fritillaria camschatcensis is a species of flowering plant native to northeastern Asia and northwestern North America, including northern Oregon, Washington, British Columbia, Alaska, northern Japan, and the Russian Far East. It has many common names, including Kamchatka fritillary and Kamchatka lily."
+    },
+    "es": {
+      "source": "Wikipedia (es): Fritillaria camschatcensis",
+      "source_url": "https://es.wikipedia.org/wiki/Fritillaria_camschatcensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582112,
+      "text": "Fritillaria camschatcensis (L.) Ker Gawl. es una especie de Fritillaria nativa del oeste de Norteamérica desde Alaska hasta Oregón y del nordeste de Asia."
     }
   },
   "edible": {
@@ -89,7 +98,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -111,7 +120,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/535082-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -119,7 +128,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/535082-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000767712.webp",
@@ -132,6 +141,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 329,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -27,7 +27,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -38,25 +38,15 @@
       "pecan",
       "sweet pecan"
     ],
-    "zh": [
-      "長山核桃",
-      "美国山核桃",
-      "长山核桃"
+    "fr": [
+      "Pacanier"
     ],
-    "ast": [
-      "pacanera"
-    ],
-    "sl": [
-      "ilinojska hikorija"
-    ],
-    "mis": [
-      "kansèmunshi"
+    "id": [
+      "Pekan (pohon)",
+      "Pecan"
     ],
     "pl": [
       "orzesznik jadalny"
-    ],
-    "fr": [
-      "Pacanier"
     ],
     "he": [
       "פקאן"
@@ -72,9 +62,6 @@
     ],
     "hu": [
       "pekándió"
-    ],
-    "id": [
-      "Pecan"
     ],
     "de": [
       "Pekannuss"
@@ -117,6 +104,11 @@
     ],
     "cs": [
       "ořechovec pekanový"
+    ],
+    "zh": [
+      "长山核桃",
+      "長山核桃",
+      "美国山核桃"
     ],
     "nb": [
       "Pecannøtt"
@@ -184,15 +176,24 @@
     "sr": [
       "Пекан"
     ],
+    "sl": [
+      "ilinojska hikorija"
+    ],
     "el": [
       "Κάρυα η ιλλινοϊκή"
+    ],
+    "ast": [
+      "pacanera"
+    ],
+    "mis": [
+      "kansèmunshi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q333877",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q333877",
   "search_names": {
@@ -202,35 +203,93 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ペカン」",
+      "source": "Wikipedia (ja): ペカン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%AB%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109671363,
       "text": "ペカン は、クルミ科の落葉高木およびその種実。ナッツ類。英名の“Pecan”の異なる読み方からピーカン、ピカンとも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pecan」",
+      "source": "Wikipedia (en): Pecan",
       "source_url": "https://en.wikipedia.org/wiki/Pecan",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369467020,
       "text": "The pecan is a species of hickory native to the Southern United States and northern Mexico in the region of the Mississippi River."
+    },
+    "es": {
+      "source": "Wikipedia (es): Carya illinoinensis",
+      "source_url": "https://es.wikipedia.org/wiki/Carya_illinoinensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173135093,
+      "text": "Carya illinoinensis, árbol conocido como pacano, pacanero, pecán, pecano o pacana, es una especie de la familia Juglandaceae. La semilla es comestible, y se denomina pacana, nuez pecana, nuez de pecán, nuez cáscara de papel, nuez de la isla o nuez encarcelada, entre otros nombres."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pacanier",
+      "source_url": "https://fr.wikipedia.org/wiki/Pacanier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238246871,
+      "text": "Le pacanier ou noyer de pécan est une espèce de plantes à fleurs de la famille des Juglandacées. C'est un arbre, cultivé pour son fruit principalement en Amérique du Nord d'où il est originaire."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Carya illinoinensis",
+      "source_url": "https://pt.wikipedia.org/wiki/Carya_illinoinensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205746,
+      "text": "A nogueira-pecã, também chamada nogueira-pecana ou nogueira-americana, cujo nome científico é Carya illinoinensis é uma árvore nativa do Norte do México, que produz cerca de metade do total mundial, e Sul dos Estados Unidos na região do rio Mississippi."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pekan (pohon)",
+      "source_url": "https://id.wikipedia.org/wiki/Pekan_(pohon)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29864077,
+      "text": "Pohon Pekan adalah salah satu spesies tumbuhan berdaun majemuk yang berasal dari bagian tenggara Amerika Utara, yaitu dari Iowa Selatan dan Indiana Selatan sehingga Texas dan Mississippi. Selain Texas dan Mississippi, ia juga tumbuh subur di Oklahoma, Louisiana, Carolina Selatan dan negeri-negeri tenggara Amerika Serikat yang lain, serta tumbuh juga di Timur Laut Mexico."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Pecan」の節「Cultivation」",
+        "source": "Wikipedia (en): Pecan § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Pecan#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369467020,
         "heading": "Cultivation",
         "text": "Pecans are one of the most recently domesticated of the major crops. Although wild pecans were well known among native and colonial Americans as a delicacy, the commercial growth of pecans in the United States did not begin until the 1880s. As of 2014, the United States produced an annual crop of 119.8 million kilograms (264.2 million pounds), with 75% of the total crop produced in Georgia, New Mexico, and Texas. They can be grown from USDA hardiness zones approximately 5 to 9, and grow best where summers are long, hot and humid. The nut harvest for growers is typically around mid-October. \nThe tree requires little pruning because it naturally forms a vase-shaped canopy; the only pruning necessary is to remove diseased, broken, or dead limbs.\nIn 2017, outside the U.S., Mexico produced nearly half of the world's total, similar in volume to that of the U.S., together accounting for 93% of global production. As of 2024, South Africa is the third largest producer, mostly exporting to China. Pecan trees require large quantities of water during the growing\nseason, and most orchards in the region use flood irrigation to optimize consumptive water use and production of mature pecans. Generally, two or more trees of different cultivars must be present to pollinate each other.\n\n Choosing cultivars can be a complex practice, based on the Alternate Bearing Index (ABI) and their period of pollinating. Commercial growers are most concerned with the ABI, which describes a cultivar's likelihood to bear on alternating years (index of 1.0 signifies the highest likelihood of bearing little to nothing every other year).",
+        "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Carya illinoinensis § Producción",
+        "source_url": "https://es.wikipedia.org/wiki/Carya_illinoinensis#Producci%C3%B3n",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 173135093,
+        "heading": "Producción",
+        "text": "Estados Unidos es el mayor productor mundial, acaparando más del 60% de la producción anual (2012-2013).\n\nPrincipales productores (estimaciones campaña 2012-2013 - en toneladas, con cáscara)​\n\nEE. UU.: 163.556\nMéxico: 80.273\nSudáfrica: 9.971\nAustralia: 2.570\nOtros países: >1.502\nTOTAL mundial: >257.870\nNota: con \"otros países\" se incluye a Argentina, Brasil, China, Israel, Perú, etc.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Pacanier § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Pacanier#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238246871,
+        "heading": "Culture",
+        "text": "Le pacanier est cultivé dans 57 pays, sa culture est importante aux États-Unis où l'on compte des centaines de variétés. Les grands États producteurs de pacanes sont le Texas, la Géorgie, l'Alabama, la Louisiane et l'Oklahoma. La récolte des noix de pécan se fait vers la mi-octobre.\nLe Mexique est l’autre grand pays producteur de pacanes, à peu près à égalité avec les États-Unis. Il produit environ la moitié de la production mondiale de pacanes.\nLe pacanier apprécie les climats à forte amplitude thermique. Il pousse aussi bien dans le sud des États-Unis, où les hivers sont doux, que dans le Midwest, où les nuits peuvent être glaciales. Il peut donc supporter de grands froids l'hiver, mais il a cependant besoin d'étés très chauds et longs, chaque année. Ce qui explique que sa culture ait souvent échouée en Europe (en dehors de la région de Malaga ou dans le sud portugais). Néanmoins, les variétés issues du nord de l'aire de distribution naturelle se contentent d'été plus courts et plus frais. Une expérimentation associative, agroforestière et biologique, nommée « French Pecan » est lancée depuis 2023 en France (notamment dans le Loiret et en Nouvelle-Aquitaine) afin d'étudier les meilleures techniques et variétés a mettre en oeuvre pour permettre la production sur le territoire et ainsi participer à accélérer la transition agroécologique des territoires.\nLes cultivateurs utilisent plusieurs variétés de pacaniers pour favoriser la pollinisation croisée. Entre le Midwest et le Mexique, les différences de température minimales sont importantes. Il est donc important de choisir les cultivars les mieux adaptés à la zone de rusticité.",
         "truncated": true
       }
     }
@@ -247,7 +306,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -282,7 +341,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/442167-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -290,7 +349,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/442167-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000588763.webp",
@@ -303,6 +362,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 310,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

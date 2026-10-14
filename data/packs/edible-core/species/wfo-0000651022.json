@@ -25,26 +25,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Wilde Karde"
-    ],
-    "en": [
-      "Wild Teasel",
-      "teasel"
-    ],
-    "ar": [
-      "ممشقة محزازية"
-    ],
-    "az": [
-      "Karxana fırçaotu"
-    ],
-    "ca": [
-      "cardó comú",
-      "cardó"
-    ],
     "fr": [
       "Cardère sauvage",
       "Bonnetier sauvage",
@@ -53,65 +36,69 @@
       "Chardon à bonnetier",
       "Chardon à foulon"
     ],
-    "cs": [
-      "štětka planá"
+    "pl": [
+      "Szczeć pospolita",
+      "Szczeć barwierska",
+      "Szczeć draparska",
+      "Szczeć sukiennicza"
     ],
-    "cy": [
-      "Cribau'r-pannwr gwyllt"
+    "ru": [
+      "ворсянка лесная",
+      "Ворсянка сукновалов"
     ],
-    "da": [
-      "Gærde-Kartebolle",
-      "gærdekartebolle"
+    "ca": [
+      "cardó",
+      "cardó comú"
     ],
-    "eu": [
-      "Astalar"
-    ],
-    "hsb": [
-      "Drapałka",
-      "Dźiwi drapalc"
+    "fi": [
+      "laidunkarstaohdake"
     ],
     "li": [
       "Kaardebol",
       "Krets"
     ],
-    "nl": [
-      "Grote kaardebol",
-      "Grote kaardenbol",
-      "Wilde kaardebol"
-    ],
-    "pl": [
-      "Szczeć barwierska",
-      "Szczeć draparska",
-      "Szczeć sukiennicza",
-      "Szczeć pospolita"
-    ],
-    "ru": [
-      "Ворсянка лесная",
-      "Ворсянка сукновалов"
-    ],
-    "sk": [
-      "štetka lesná"
-    ],
-    "sv": [
-      "Kardvädd"
+    "de": [
+      "Wilde Karde"
     ],
     "vi": [
       "Khởi nhung thảo"
     ],
+    "az": [
+      "Karxana fırçaotu"
+    ],
+    "hsb": [
+      "Dźiwi drapalc",
+      "Drapałka"
+    ],
+    "nl": [
+      "grote kaardebol",
+      "Grote kaardenbol",
+      "Wilde kaardebol"
+    ],
+    "sv": [
+      "Kardvädd"
+    ],
     "zh": [
       "起绒草"
     ],
-    "fi": [
-      "laidunkarstaohdake"
+    "eu": [
+      "Astalar"
     ],
-    "ast": [
-      "cardencha"
+    "ar": [
+      "ممشقة محزازية"
     ],
-    "sl": [
-      "divja ščetica"
+    "da": [
+      "gærdekartebolle",
+      "Gærde-Kartebolle"
+    ],
+    "cy": [
+      "Cribau'r-pannwr gwyllt"
     ],
     "bg": [
       "горска лугачка"
+    ],
+    "sk": [
+      "štetka lesná"
     ],
     "hr": [
       "Šumska češljugovina"
@@ -121,6 +108,9 @@
     ],
     "wa": [
       "Tcherdon d' bwès"
+    ],
+    "cs": [
+      "štětka planá"
     ],
     "et": [
       "aed-uniohakas"
@@ -146,26 +136,63 @@
     "nb": [
       "kardeborre"
     ],
+    "sl": [
+      "divja ščetica"
+    ],
     "lv": [
       "Meža dipsaks"
+    ],
+    "en": [
+      "Wild Teasel",
+      "teasel"
+    ],
+    "ast": [
+      "cardencha"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q160099",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q160099",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Dipsacus fullonum」",
+      "source": "Wikipedia (en): Dipsacus fullonum",
       "source_url": "https://en.wikipedia.org/wiki/Dipsacus_fullonum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375022541,
       "text": "Dipsacus fullonum, syn. Dipsacus sylvestris, is a species of flowering plant known by the common names wild teasel or fuller's teasel, although the latter name is usually applied to the cultivated variety D. fullonum var. sativus. It is native to Eurasia and North Africa, but it is known in the Americas, southern Africa, Australia and New Zealand as an introduced species."
+    },
+    "es": {
+      "source": "Wikipedia (es): Dipsacus fullonum",
+      "source_url": "https://es.wikipedia.org/wiki/Dipsacus_fullonum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175383068,
+      "text": "La cardencha, baño de Venus, carda, cardo, cardo de cardadores, cardoncha, dípsaco, peines, raspasayos o vara de pastor, es una planta natural del hemisferio norte que se ha aclimatado también en Suramérica."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cardère sauvage",
+      "source_url": "https://fr.wikipedia.org/wiki/Card%C3%A8re_sauvage",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240283899,
+      "text": "La Cardère sauvage est une espèce de plantes herbacées de la famille des Dipsacaceae selon la classification classique de Cronquist (1981) ou des Caprifoliaceae selon la classification phylogénétique APG III (2009). Elle est aussi appelée Cabaret des oiseaux ou Bonnetier sauvage. Cette espèce, autrefois parfois utilisée pour le cardage de la laine, est à distinguer de la Cardère à foulon ou Chardon à Bonnetier espèce à inflorescence plus longue et piquants plus courts domestiquée et utilisée pour lainer la laine."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Dipsacus fullonum",
+      "source_url": "https://pt.wikipedia.org/wiki/Dipsacus_fullonum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 60070132,
+      "text": "Dipsacus fullonum é uma espécie de planta com flor pertencente à família Dipsacaceae."
     }
   },
   "edible": {
@@ -180,7 +207,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -288,7 +315,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/319260-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial or perennial",
@@ -296,7 +323,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/319260-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000651022.webp",
@@ -309,6 +336,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

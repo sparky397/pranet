@@ -23,7 +23,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -34,124 +34,19 @@
       "cereal rye",
       "harvest rye"
     ],
-    "cy": [
-      "rhyg"
+    "fr": [
+      "Seigle",
+      "seigle"
     ],
-    "af": [
-      "Rog"
+    "pt": [
+      "Centeio",
+      "centeio"
     ],
-    "be": [
-      "Жыта",
-      "Жыта пасяўное"
-    ],
-    "bg": [
-      "Ръж",
-      "обикновена ръж"
-    ],
-    "ca": [
-      "Sègol"
-    ],
-    "cs": [
-      "žito seté"
-    ],
-    "da": [
-      "Almindelig Rug"
+    "id": [
+      "Gandum hitam"
     ],
     "de": [
       "Roggen"
-    ],
-    "eo": [
-      "Sekalo"
-    ],
-    "es": [
-      "Centeno"
-    ],
-    "et": [
-      "Rukis",
-      "harilik rukis"
-    ],
-    "fi": [
-      "leipäruis",
-      "Ruis"
-    ],
-    "fr": [
-      "Seigle"
-    ],
-    "frr": [
-      "Roog"
-    ],
-    "fy": [
-      "Rogge"
-    ],
-    "gl": [
-      "Centeo"
-    ],
-    "hr": [
-      "Raž"
-    ],
-    "hu": [
-      "Rozs"
-    ],
-    "is": [
-      "Rúgur"
-    ],
-    "li": [
-      "Rogge"
-    ],
-    "mk": [
-      "’Рж"
-    ],
-    "nl": [
-      "koren",
-      "Rogge",
-      "zomerrogge"
-    ],
-    "nn": [
-      "Rug"
-    ],
-    "nb": [
-      "Dyrket rug",
-      "rug"
-    ],
-    "pl": [
-      "żyto",
-      "żyto zwyczajne"
-    ],
-    "pt": [
-      "Centeio"
-    ],
-    "ro": [
-      "Secara"
-    ],
-    "ru": [
-      "Рожь"
-    ],
-    "sl": [
-      "Rž"
-    ],
-    "sv": [
-      "Råg"
-    ],
-    "tr": [
-      "Çavdar"
-    ],
-    "uk": [
-      "Жито",
-      "Жито посівне"
-    ],
-    "wa": [
-      "Swele"
-    ],
-    "nan": [
-      "Thǹg-theh-be̍h"
-    ],
-    "zh": [
-      "裸麥",
-      "黑麥",
-      "黑麦"
-    ],
-    "ast": [
-      "centén"
     ],
     "ar": [
       "شيلم مزروع"
@@ -165,6 +60,14 @@
     "ba": [
       "Арыш"
     ],
+    "be": [
+      "Жыта пасяўное",
+      "Жыта"
+    ],
+    "bg": [
+      "обикновена ръж",
+      "Ръж"
+    ],
     "bo": [
       "གྲོ་ནག"
     ],
@@ -174,14 +77,36 @@
     "bs": [
       "Raž"
     ],
+    "ca": [
+      "sègol"
+    ],
     "csb": [
       "Żëto"
+    ],
+    "cs": [
+      "žito seté"
     ],
     "cv": [
       "Ыраш"
     ],
+    "cy": [
+      "Rhyg"
+    ],
+    "da": [
+      "almindelig rug"
+    ],
     "el": [
       "Σίκαλη"
+    ],
+    "eo": [
+      "sekalo"
+    ],
+    "es": [
+      "centeno"
+    ],
+    "et": [
+      "harilik rukis",
+      "Rukis"
     ],
     "eu": [
       "zekale"
@@ -189,23 +114,39 @@
     "fa": [
       "چاودار"
     ],
+    "fi": [
+      "ruis",
+      "leipäruis"
+    ],
+    "fy": [
+      "Rogge"
+    ],
+    "gl": [
+      "centeo"
+    ],
     "he": [
       "שיפון"
     ],
     "hi": [
       "नीवारिका"
     ],
+    "hr": [
+      "Raž"
+    ],
     "hsb": [
       "Sywna rožka"
+    ],
+    "hu": [
+      "rozs"
     ],
     "hy": [
       "աշորա"
     ],
-    "id": [
-      "Gandum hitam"
-    ],
     "io": [
       "Sekalo"
+    ],
+    "is": [
+      "Rúgur"
     ],
     "ka": [
       "ჭვავი"
@@ -231,11 +172,17 @@
     "lb": [
       "Kar"
     ],
+    "li": [
+      "Rogge"
+    ],
     "lt": [
       "Sėjamasis rugys"
     ],
     "lv": [
       "rudzi"
+    ],
+    "mk": [
+      "’Рж"
     ],
     "ml": [
       "വരക്"
@@ -243,17 +190,32 @@
     "ms": [
       "Rai"
     ],
+    "nl": [
+      "rogge",
+      "koren",
+      "zomerrogge"
+    ],
+    "nn": [
+      "Rug"
+    ],
     "oc": [
       "Segal"
     ],
     "os": [
       "Сылмæнæу"
     ],
+    "pl": [
+      "żyto zwyczajne",
+      "żyto"
+    ],
     "pnb": [
       "رائی"
     ],
     "qu": [
       "Sintinu"
+    ],
+    "ru": [
+      "рожь"
     ],
     "sah": [
       "Оруос"
@@ -267,11 +229,17 @@
     "sk": [
       "Raž siata"
     ],
+    "sl": [
+      "rž"
+    ],
     "sq": [
       "Thekra"
     ],
     "sr": [
       "раж"
+    ],
+    "sv": [
+      "råg"
     ],
     "sw": [
       "Ngano nyekundu"
@@ -282,11 +250,18 @@
     "th": [
       "ข้าวไรย์"
     ],
+    "tr": [
+      "çavdar"
+    ],
     "tt": [
       "Арыш"
     ],
     "udm": [
       "ӟег"
+    ],
+    "uk": [
+      "Жито посівне",
+      "Жито"
     ],
     "ur": [
       "تلخہ"
@@ -294,11 +269,26 @@
     "vi": [
       "lúa mạch đen"
     ],
+    "wa": [
+      "Swele"
+    ],
+    "zh": [
+      "裸麥",
+      "黑麥",
+      "黑麦"
+    ],
     "vep": [
       "Rugiž"
     ],
+    "frr": [
+      "Roog"
+    ],
     "ilo": [
       "senteno"
+    ],
+    "nb": [
+      "rug",
+      "Dyrket rug"
     ],
     "yi": [
       "קארן"
@@ -314,6 +304,9 @@
     ],
     "yue": [
       "黑麥"
+    ],
+    "nan": [
+      "Thǹg-theh-be̍h"
     ],
     "sgs": [
       "Rogē"
@@ -350,6 +343,9 @@
     ],
     "lfn": [
       "Segal"
+    ],
+    "af": [
+      "rog"
     ],
     "ky": [
       "Кара буудай"
@@ -431,13 +427,19 @@
     ],
     "knc": [
       "Rye"
+    ],
+    "ro": [
+      "Secara"
+    ],
+    "ast": [
+      "centén"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q12099",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q12099",
   "search_names": {
@@ -450,46 +452,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ライムギ」",
+      "source": "Wikipedia (ja): ライムギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111040729,
       "text": "ライムギ はイネ科の栽培植物で、穎果を穀物として利用する。別名はクロムギ（黒麦）。単に「ライ」とも。日本でのライムギという名称は、英語名称のryeに麦をつけたものである。食用や飼料用としてヨーロッパや北アメリカを中心に広く栽培される穀物である。寒冷な気候や痩せた土壌などの劣悪な環境に耐性があり、主にコムギの栽培に不適な東欧および北欧の寒冷地において栽培される。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Rye」",
+      "source": "Wikipedia (en): Rye",
       "source_url": "https://en.wikipedia.org/wiki/Rye",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1363336162,
       "text": "Rye is a grass grown extensively as a grain, a cover crop and a forage crop. It is grown principally in an area from Eastern and Northern Europe into Russia. It is much more tolerant of cold weather and poor soil than other cereals, making it useful in those regions; its vigorous growth suppresses weeds and provides abundant forage for animals early in the year. It is a member of the wheat tribe (Triticeae) which includes the cereals wheat and barley. It is likely that rye arrived in Europe as a secondary crop, meaning that it was a minor admixture in wheat as a result of Vavilovian mimicry, and was only later cultivated in its own right."
+    },
+    "es": {
+      "source": "Wikipedia (es): Secale cereale",
+      "source_url": "https://es.wikipedia.org/wiki/Secale_cereale",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174039062,
+      "text": "El centeno es una planta monocotiledónea anual de la familia de las gramíneas y que se cultiva por su grano o como planta forrajera. Es un miembro de la familia del trigo y está estrechamente relacionado con la cebada."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Seigle",
+      "source_url": "https://fr.wikipedia.org/wiki/Seigle",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235974353,
+      "text": "Le seigle est une plante annuelle du genre Secale appartenant à la famille des Poaceae (graminées) et cultivée comme céréale ou comme fourrage. Elle fait partie des céréales à paille. C'est une céréale rustique adaptée aux terres pauvres et froides. Sa culture reste importante dans l'Est de l'Europe, mais est devenue marginale ailleurs."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Centeio",
+      "source_url": "https://pt.wikipedia.org/wiki/Centeio",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72833933,
+      "text": "O centeio é uma espécie de planta com flor pertencente à família Poaceae. A autoridade científica da espécie é de Lineu, tendo sido publicada em Species Plantarum 1: 84. 1753."
+    },
+    "id": {
+      "source": "Wikipedia (id): Gandum hitam",
+      "source_url": "https://id.wikipedia.org/wiki/Gandum_hitam",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29758782,
+      "text": "Gandum hitam merupakan sejenis gandum yang digunakan untuk makanan ternak dan campuran roti. Tanaman ini biasanya diolah menjadi tepung, roti, bir, beberapa macam wiski, vodka, dan makanan ternak. Gandum hitam kebanyakan ditanam di Eropa timur, tengah, dan utara."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ライムギ」の節「栽培」",
+        "source": "Wikipedia (ja): ライムギ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AE#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111040729,
         "heading": "栽培",
         "text": "主に秋に蒔き、夏に収穫するが、春蒔きの品種もある。ライ麦は発芽温度が1℃から2℃と低く、低温に強いため冬作物として栽培される。秋に蒔かれたライ麦は冬を越し、春になると急速に成長する。ライ麦はほかの穀物よりも耐寒性が強いため、小麦が生育できない寒冷地においてもライ麦は成長できる。また、ライ麦はほかのほとんどの穀物よりも貧しい土壌で生育することができる。そのため、特に砂地や泥炭地などでは特に貴重な作物である。しかしこのやせ地での生育を可能にしているのは、根が深く張り巡らされて養分を地中奥深くから吸収することができるためであるため、地力を消耗しやすく、また吸肥性が高い。一方で根が深くなるために、根を張り巡らせづらい粘土質の土地では生育しにくいが、粘土質以外の土地ではたいていよく生育し、強酸性土壌でもアルカリ性土壌でも生育するなど土質をあまり選ばない。砂地を好み根が深くなるため、砂丘などの土壌流出の防止に効果が高い。また、丈が高いため、成長しすぎると倒伏しやすくなる。連作障害が起こりやすいため、ジャガイモやインゲンマメなどと組み合わせた輪作が行われる。\nライムギはもともとコムギ畑の雑草であり、生育条件がほぼ同じであることから、コムギの生育条件の悪い畑では意図的にコムギとライムギを混ぜて栽培されることがある。こうすることで、コムギが寒冷などで不作となった場合においてもライムギの収穫で損害をある程度埋め合わせることができるからである。\n\n■ 病害\n\n子嚢菌の一種麦角菌が子房に寄生すると、菌核を形成し、一群の麦角アルカロイドと呼ばれる様々な生理活性を示すアルカロイドを含むマイコトキシンが発生する。これが麦角である。麦角菌に寄生されたライムギは黒い角状のものを実の間から生やしたため、これが麦角の名の由来となった。これが発生した畑からの収穫物には種子にまぎれて麦角が混入し、これを粉に挽いてパンなどに調理すると、麦角アルカロイドの毒性によって流産や末梢血管の収縮による四肢の組織の壊死、幻覚などの中毒症状を引き起こすので、食用に適さない。この麦角菌中毒は中世に大流行し、多くの人の命を奪った。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Rye」の節「Cultivation」",
+        "source": "Wikipedia (en): Rye § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Rye#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1363336162,
         "heading": "Cultivation",
         "text": "Since the Middle Ages, people have cultivated rye widely in Central and Eastern Europe. It serves as the main bread cereal in most areas east of the France–Germany border and north of Hungary. In Southern Europe, it was cultivated on marginal lands.\nRye grows well in much poorer soils than those necessary for most cereal grains. Thus, it is an especially valuable crop in regions where the soil has sand or peat. Rye plants withstand cold better than other small grains, surviving snow cover that would kill winter wheat. Winter rye is the most popular: it is planted and begins to grow in autumn. In spring, the plants develop rapidly. This allows it to provide spring grazing, at a time when spring-planted wheat has only just germinated.\nThe physical properties of rye affect attributes of the final food product such as seed size, surface area, and porosity. The surface area of the seed directly correlates to the drying and heat transfer time. Smaller seeds have increased heat transfer, which leads to lower drying time. Seeds with lower porosity lose water more slowly during the process of drying.\nRye is harvested like wheat with a combine harvester, which cuts the plants, threshes and winnows the grain, and releases the straw to the field where it is later pressed into bales or left as soil amendment. The resultant grain is stored in local silos or transported to regional grain elevators and combined with other lots for storage and distant shipment. Before the era of mechanised agriculture, rye harvesting was a manual task performed with scythes or sickles.\n\n■ Agroecology\nWinter rye is any breed of rye planted in the autumn to provide ground cover for the winter.",
+        "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Secale cereale § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Secale_cereale#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174039062,
+        "heading": "Cultivo",
+        "text": "El centeno crece bien en suelos mucho más pobres que los necesarios para la mayoría de los otros cereales. Por ello, es un cultivo especialmente valioso en regiones donde el suelo tiene arena o turba. Las plantas de centeno soportan el frío mejor que otros granos pequeños. El centeno sobrevive con una capa de nieve que provocaría la muerte invernal del trigo de invierno. La mayoría de los agricultores cultivan centeno de invierno, que se planta y comienza a crecer en otoño. En primavera, las plantas se desarrollan y producen su cosecha.​\nEl centeno plantado en otoño muestra un rápido crecimiento. Hacia el solsticio de verano, las plantas alcanzan su altura máxima de unos 120 cm, mientras que el trigo plantado en primavera acaba de germinar. Su crecimiento vigoroso elimina incluso a competidores como malas hierbas y el centeno puede cultivarse sin aplicar herbicidas.[cita requerida]\nEl centeno es un invasor común e indeseado de los campos de trigo de invierno. Si se le permite crecer y madurar, puede provocar una reducción sustancial del precio del trigo cosechado con impurezas de centeno.​\n\n■ Resistencia a las heladas\n\nSecale cereale puede prosperar en ambientes bajo cero. Las hojas de S. cereale de invierno producen varios polipéptidos anticongelantes (diferentes de los polipéptidos anticongelantes producidos por algunos peces e insectos).​\n\n■ Variedades\n\nLas variedades registradas en España y en la Unión Europea pueden consultarse en el catálogo común de especies agrícolas del Ministerio de Agricultura de España.​\n\n■ Enfermedades\nEl centeno puede verse afectado por diversas enfermedades de origen bacteriano, fúngico, por nematodos o víricos. \nSin embargo, la enfermedad con más historia es el cornezuelo del centeno.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Seigle § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Seigle#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 235974353,
+        "heading": "Culture",
+        "text": "En France, on le trouve notamment dans le sud-ouest du Massif central. La culture du seigle concerne surtout les régions froides et/ou aux terrains pauvres ; les « ségalas » sont des terres froides, à sol pauvre et acide, favorables à la culture du seigle.\nPour avoir une résistance au froid suffisante, le seigle se sème tôt (avant le 15 septembre). En général, sa culture précède celle du blé ; le seigle est une céréale « secondaire » qui vient en second, cependant dans certaines régions la récolte de blé peut ne pas se faire suffisamment tôt pour laisser le temps de semer du seigle (Massif central, Lévezou, Ségala…). \nLe seigle présente de l'intérêt dans les systèmes d'élevage avec peu de surface, en effet sa grande hauteur (jusqu'à 1,80 m) lui permet de produire un important volume de paille. Il a un intérêt également en agriculture biologique pour lutter contre les mauvaises herbes dans la rotation culturale.\nSi le seigle n'offre pas l'avantage de pouvoir être cultivé en toutes saisons, il a du moins le grand mérite de fournir au premier printemps, avant toutes les autres espèces, un fourrage d'excellente qualité qui constitue, en quelque sorte, une primeur. Sa rusticité et son peu d'exigence sur la nature du sol lui ont valu d'être autrefois très employé dans les Landes pour le pacage des troupeaux en hiver. Il croît en effet dans les terres les plus maigres, là où il serait difficile d'obtenir d'une autre plante un produit de même valeur.\nLe seigle se sème ordinairement en septembre-octobre, soit seul, soit associé à une légumineuse grimpante dont il soutient les tiges.",
         "truncated": true
       }
     }
@@ -508,7 +568,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -653,7 +713,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/421164-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or biennial",
@@ -661,7 +721,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/421164-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000898524.webp",
@@ -674,6 +734,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -19,20 +19,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ルコウソウ"
     ],
-    "en": [
-      "cypressvine"
-    ],
-    "zh": [
-      "蔦蘿",
-      "茑萝",
-      "羽叶茑萝",
-      "茑萝松"
+    "id": [
+      "Rincik bumi"
     ],
     "nan": [
       "Chiáu-lô"
@@ -52,8 +46,11 @@
     "ne": [
       "जयन्ती फूल"
     ],
-    "id": [
-      "Rincik bumi"
+    "zh": [
+      "茑萝松",
+      "蔦蘿",
+      "茑萝",
+      "羽叶茑萝"
     ],
     "vi": [
       "Hoa tóc tiên"
@@ -96,13 +93,16 @@
     ],
     "te": [
       "కాశీరత్నం"
+    ],
+    "en": [
+      "cypressvine"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311056",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311056",
   "search_names": {
@@ -112,35 +112,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ルコウソウ」",
+      "source": "Wikipedia (ja): ルコウソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B3%E3%82%A6%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110042149,
       "text": "ルコウソウ は、ヒルガオ科サツマイモ属のつる性多年草である。蔦蘿とも呼ぶ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ipomoea quamoclit」",
+      "source": "Wikipedia (en): Ipomoea quamoclit",
       "source_url": "https://en.wikipedia.org/wiki/Ipomoea_quamoclit",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370024815,
       "text": "Ipomoea quamoclit, commonly known as cypress vine, cypress vine morning glory, cardinal creeper, cardinal vine, star glory, star of Bethlehem or hummingbird vine, is a species of vine in the family Convolvulaceae native to tropical regions of the Americas and naturalized elsewhere in the tropics."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ipomoea quamoclit",
+      "source_url": "https://es.wikipedia.org/wiki/Ipomoea_quamoclit",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581920,
+      "text": "El cundeamor es una planta trepadora perenne del género Ipomoea perteneciente a la familia de las convolvuláceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ipomoea quamoclit",
+      "source_url": "https://fr.wikipedia.org/wiki/Ipomoea_quamoclit",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208010663,
+      "text": "Ipomoea quamoclit est une espèce de plantes dicotylédones de la famille des Convolvulaceae, originaire d'Amérique du Nord et d'Amérique centrale, du Mexique au Panama."
+    },
+    "id": {
+      "source": "Wikipedia (id): Rincik bumi",
+      "source_url": "https://id.wikipedia.org/wiki/Rincik_bumi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29873253,
+      "text": "Rincik bumi adalah tumbuhan obat yang berasal dari Amerika tropis. Di Jawa, ia tumbuh liar di tanah yang telantar, ataupun tanaman hias yang dirambatkan di pagar. Dikenal dengan nama sangga langit, songgo langit (Melayu); bunga tali, rincik bumi (Sunda); dan katilan."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ルコウソウ」の節「栽培方法」",
+        "source": "Wikipedia (ja): ルコウソウ § 栽培方法",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B3%E3%82%A6%E3%82%BD%E3%82%A6#%E6%A0%BD%E5%9F%B9%E6%96%B9%E6%B3%95",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 110042149,
         "heading": "栽培方法",
         "text": "一般的にはアサガオの栽培に準じて行えば失敗は少ない。種の発芽温度は20 -25°C程度なので、十分に温度が保てない場合は十分に気温が上がる季節に蒔くのが良い。短日処理をしていない場合、開花は秋になってからになるので、寒冷地では開花前に霜が降りて枯れてしまうことがある。冬でも20度程度を保てば枯れずに開花する。",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Ipomoea quamoclit § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Ipomoea_quamoclit#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171581920,
+        "heading": "Cultivo",
+        "text": "Cultivada como planta ornamental por sus flores, en áreas muy frías para sobrevivir durante el invierno, crece como planta anual. Su propagación se realiza por semillas previamente remojadas en agua para germinar.",
         "truncated": false
       }
     }
@@ -157,7 +195,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -305,7 +343,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/326361-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing annual",
@@ -313,7 +351,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/326361-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001296677.webp",
@@ -326,6 +364,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

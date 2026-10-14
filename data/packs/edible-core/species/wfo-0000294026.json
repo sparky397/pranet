@@ -13,13 +13,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "食用星果椰子",
-      "星實櫚"
-    ],
     "nl": [
       "awarra"
     ],
@@ -52,13 +48,17 @@
     ],
     "cs": [
       "hvězdora obecná"
+    ],
+    "zh": [
+      "星實櫚",
+      "食用星果椰子"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q684877",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q684877",
   "search_names": {
@@ -70,13 +70,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Astrocaryum vulgare」",
+      "source": "Wikipedia (en): Astrocaryum vulgare",
       "source_url": "https://en.wikipedia.org/wiki/Astrocaryum_vulgare",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1350452810,
       "text": "Astrocaryum vulgare is a very spiny palm native to the Guianas and the Amazon. It is a species which has greatly benefited from deforestation, as it cannot grow in undisturbed rainforest. It is common in the Pará state of Brazil, to the east of the Amazon. This plant has edible fruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Astrocaryum vulgare",
+      "source_url": "https://es.wikipedia.org/wiki/Astrocaryum_vulgare",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173528970,
+      "text": "Astrocaryum vulgare es una especie de palmera (Arecaceae) de poca altura, originaria de la selva lluviosa de Brasil, típica del estado de Pará, que se caracteriza por tener el tallo cubierto de muchas espinas. Esta planta tiene fruta comestible y también se utiliza para la producción de biodiésel. Esta planta se cita en Flora Brasiliensis de Carl Friedrich Philipp von Martius. En Venezuela se la denomina cumare. En Ecuador se la conoce como chontilla y está presente en la Amazonía y Costa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Astrocaryum vulgare",
+      "source_url": "https://fr.wikipedia.org/wiki/Astrocaryum_vulgare",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238142576,
+      "text": "Astrocaryum vulgare est une espèce de plantes à fleurs de la famille des Arecaceae, de la sous-famille des Arecoideae, de la tribu des Cocoseae et de la sous-tribu des Bactridinae. A. vulgare semble originaire du nord-ouest de l'Amérique du Sud. Il a été très anciennement cultivé par les Amérindiens en Guyane. Il pousse en touffe dans les savanes hautes ou en forêt côtière sur sol sain, sableux de préférence. La présence de A. vulgare dans un site éloigné de la côte témoigne généralement d'un ancien village disparu."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Astrocaryum vulgare",
+      "source_url": "https://pt.wikipedia.org/wiki/Astrocaryum_vulgare",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67844286,
+      "text": "Astrocaryum vulgare, popularmente conhecido como cumari, cumbari, cumbarim, aiará, curuá, coqueiro-tucum, tucum-do-amazonas e tucumã-piranga, é uma palmeira com fruto aromático e de polpa amarelo-avermelhada, que abriga uma semente comestível. Sua inflorescência emerge entre duas brácteas."
     }
   },
   "edible": {
@@ -90,7 +117,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -105,7 +132,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664361-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -113,7 +140,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/664361-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000294026.webp",
@@ -126,6 +153,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 250,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

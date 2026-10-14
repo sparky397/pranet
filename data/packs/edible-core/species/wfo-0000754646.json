@@ -8,51 +8,80 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Palmer's century plant"
-    ],
-    "zh": [
-      "帕梅龙舌兰"
-    ],
     "ar": [
       "باهرة بالميرية"
     ],
     "arz": [
       "باهره بالميريه"
+    ],
+    "en": [
+      "Palmer's century plant"
+    ],
+    "zh": [
+      "帕梅龙舌兰"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q391834",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q391834",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Agave palmeri」",
+      "source": "Wikipedia (en): Agave palmeri",
       "source_url": "https://en.wikipedia.org/wiki/Agave_palmeri",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1323508041,
       "text": "Agave palmeri is an especially large member of the genus Agave, in the family Asparagaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Agave palmeri",
+      "source_url": "https://es.wikipedia.org/wiki/Agave_palmeri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 154575165,
+      "text": "Agave palmeri es una planta del género Agave, en la familia Asparagaceae. Es nativo del sur de Arizona, el suroeste de Nuevo México, Sonora y Chihuahua. La planta es frecuentemente cultivada como especie ornamental en otras regiones."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Agave palmeri",
+      "source_url": "https://fr.wikipedia.org/wiki/Agave_palmeri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 206810916,
+      "text": "Agave palmeri est une espèce de plante de la famille des Agavaceae appartenant au genre Agave. On retrouve Agave palmeri du sud de l’Arizona jusqu'au nord du Sonora, au nord-ouest du Mexique. Cette espèce possède une distribution non uniforme et est principalement retrouvée dans les prairies désertiques de haute altitude, depuis des dizaines à des centaines de mètres."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Agave palmeri」の節「Cultivation」",
+        "source": "Wikipedia (en): Agave palmeri § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Agave_palmeri#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1323508041,
         "heading": "Cultivation",
         "text": "The plant is frequently cultivated as an ornamental in other regions. It requires a large pot but is very tolerant of a wide range of conditions, including temperatures of around −10 °C.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Agave palmeri § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Agave_palmeri#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 154575165,
+        "heading": "Cultivo",
+        "text": "La planta requiere una maceta grande y suele tolerar una amplia gama de condiciones, incluyendo temperaturas cercanas a los –10 °C.​",
         "truncated": false
       }
     }
@@ -67,7 +96,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -80,7 +109,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/62167-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent perennial",
@@ -88,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/62167-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000754646.webp",
@@ -101,6 +130,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

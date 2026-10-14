@@ -17,16 +17,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Utah Juniper",
-      "Bigberry Juniper"
-    ],
-    "es": [
-      "Sabina Morena"
-    ],
     "de": [
       "Utah-Wacholder"
     ],
@@ -56,24 +49,58 @@
     ],
     "ja": [
       "ユタジュニパー"
+    ],
+    "en": [
+      "Utah Juniper",
+      "Bigberry Juniper"
+    ],
+    "es": [
+      "Sabina Morena"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2004617",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2004617",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Juniperus osteosperma」",
+      "source": "Wikipedia (en): Juniperus osteosperma",
       "source_url": "https://en.wikipedia.org/wiki/Juniperus_osteosperma",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1326309823,
       "text": "Juniperus osteosperma is a shrub or small tree native to the southwestern United States."
+    },
+    "es": {
+      "source": "Wikipedia (es): Juniperus osteosperma",
+      "source_url": "https://es.wikipedia.org/wiki/Juniperus_osteosperma",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173165779,
+      "text": "Juniperus osteosperma es un arbusto o pequeño árbol perteneciente a la familia de las cupresáceas. Es originaria del sudoeste de los Estados Unidos, en Utah, Nevada, Arizona, oeste de Nuevo México, y Colorado, Wyoming, sur Montana, sur Idaho y este de California. Crece a una altitud de 1,300-2,600 metros, en suelos secos, a menudo con Pinus monophylla."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Juniperus osteosperma",
+      "source_url": "https://fr.wikipedia.org/wiki/Juniperus_osteosperma",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 204530638,
+      "text": "Juniperus osteosperma, parfois appelé genévrier de l'Utah, est un arbuste de la famille des Cupressaceae. Il est endémique du sud-ouest des États-Unis."
+    },
+    "id": {
+      "source": "Wikipedia (id): Juniperus osteosperma",
+      "source_url": "https://id.wikipedia.org/wiki/Juniperus_osteosperma",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28650226,
+      "text": "Juniperus osteosperma adalah semak atau pohon kecil yang berasal dari wilayah barat daya Amerika Serikat."
     }
   },
   "edible": {
@@ -89,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -107,7 +134,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/132523-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -115,7 +142,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/132523-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000355681.webp",
@@ -128,6 +155,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

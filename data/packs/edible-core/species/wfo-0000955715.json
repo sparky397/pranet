@@ -11,33 +11,60 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "gray gum"
-    ],
     "zh": [
       "斑叶桉",
       "类斑叶灰桉"
+    ],
+    "en": [
+      "gray gum"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5405694",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5405694",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Eucalyptus punctata」",
+      "source": "Wikipedia (en): Eucalyptus punctata",
       "source_url": "https://en.wikipedia.org/wiki/Eucalyptus_punctata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1358747643,
       "text": "Eucalyptus punctata, commonly known as grey gum, is a small to medium-sized tree that is endemic to eastern Australia. It has smooth grey bark that is shed in patches, lance-shaped, curved or egg-shaped adult leaves flower buds in groups of seven, white flowers and hemispherical or cup-shaped fruit. Its leaves are one of the favoured foods of the koala."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eucalyptus punctata",
+      "source_url": "https://es.wikipedia.org/wiki/Eucalyptus_punctata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166601032,
+      "text": "Eucalyptus punctata, llamado comúnmente eucalipto gris, es una especie de eucalipto perteneciente a la familia de las mirtáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eucalyptus punctata",
+      "source_url": "https://fr.wikipedia.org/wiki/Eucalyptus_punctata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240086571,
+      "text": "Eucalyptus punctata, appelé communément gommier ponctué, est une espèce de plantes à fleurs du genre Eucalyptus et de la famille des Myrtaceae. C'est un arbre originaire d'Australie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eucalyptus punctata",
+      "source_url": "https://pt.wikipedia.org/wiki/Eucalyptus_punctata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69507115,
+      "text": "Eucalyptus punctata é uma árvore de pequeno a médio porte, endêmica do leste da Austrália. Possui casca cinza lisa que se desprende em manchas, folhas adultas em forma de lança, curvadas ou em forma de ovo, gomos de flores em grupos de sete, flores brancas e frutos hemisféricos ou em forma de xícara. Suas folhas são um dos alimentos preferidos do coala."
     }
   },
   "edible": {
@@ -50,7 +77,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -68,7 +95,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/593287-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -76,7 +103,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/593287-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000955715.webp",
@@ -89,6 +116,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

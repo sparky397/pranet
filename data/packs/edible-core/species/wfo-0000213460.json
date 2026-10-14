@@ -59,42 +59,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ウマゴヤシ"
-    ],
-    "cy": [
-      "maglys eddïog"
-    ],
-    "en": [
-      "burclover",
-      "Toothed Medick",
-      "bur-clover",
-      "bur clover",
-      "California burclover"
-    ],
-    "zh": [
-      "苜蓿",
-      "南苜蓿",
-      "多型苜蓿",
-      "小瘤苜蓿"
-    ],
-    "cs": [
-      "tolice mnohotvará"
-    ],
-    "nl": [
-      "ruige rupsklaver"
-    ],
-    "fr": [
-      "luzerne polymorphe"
-    ],
-    "fi": [
-      "piikkimailanen"
-    ],
-    "sl": [
-      "mnogolična meteljka"
     ],
     "vi": [
       "Linh lăng lá khía răng cưa"
@@ -114,6 +83,18 @@
     "ar": [
       "فصة متعددة الأشكال"
     ],
+    "zh": [
+      "南苜蓿",
+      "苜蓿",
+      "多型苜蓿",
+      "小瘤苜蓿"
+    ],
+    "nl": [
+      "ruige rupsklaver"
+    ],
+    "cy": [
+      "Maglys eddïog"
+    ],
     "bg": [
       "изменчива люцерна"
     ],
@@ -123,8 +104,14 @@
     "uk": [
       "Люцерна мінлива"
     ],
+    "cs": [
+      "tolice mnohotvará"
+    ],
     "nv": [
       "Tłʼoh azeeʼ"
+    ],
+    "fi": [
+      "piikkimailanen"
     ],
     "ur": [
       "مینا"
@@ -134,13 +121,26 @@
     ],
     "pa": [
       "ਮੈਣਾ"
+    ],
+    "sl": [
+      "mnogolična meteljka"
+    ],
+    "en": [
+      "burclover",
+      "Toothed Medick",
+      "bur-clover",
+      "bur clover",
+      "California burclover"
+    ],
+    "fr": [
+      "luzerne polymorphe"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q164772",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q164772",
   "search_names": {
@@ -153,22 +153,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ウマゴヤシ」",
+      "source": "Wikipedia (ja): ウマゴヤシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%9E%E3%82%B4%E3%83%A4%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108079305,
       "text": "ウマゴヤシ、うまごやしマメ科の越年草。本稿で解説。\nシロツメクサの俗称。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Medicago polymorpha」",
+      "source": "Wikipedia (en): Medicago polymorpha",
       "source_url": "https://en.wikipedia.org/wiki/Medicago_polymorpha",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1349167515,
       "text": "Medicago polymorpha is a plant species of the genus Medicago. Common names include California burclover, toothed bur clover, toothed medick and burr medic."
+    },
+    "es": {
+      "source": "Wikipedia (es): Medicago polymorpha",
+      "source_url": "https://es.wikipedia.org/wiki/Medicago_polymorpha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173448999,
+      "text": "Medicago polymorpha conocida entre otros nombres por carretón, alfalfa de secano, carretón cadillo, trébol carretilla y hualputra es una especie botánica de hierbas anuales leguminosas del género Medicago."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Medicago polymorpha",
+      "source_url": "https://fr.wikipedia.org/wiki/Medicago_polymorpha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223602267,
+      "text": "La Luzerne polymorphe est une espèce de plantes de la famille des Fabacées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Medicago polymorpha",
+      "source_url": "https://pt.wikipedia.org/wiki/Medicago_polymorpha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64612167,
+      "text": "Medicago polymorpha é uma espécie de planta com flor pertencente à família Fabaceae."
     }
   },
   "edible": {
@@ -183,7 +210,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -352,7 +379,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60465997-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -360,7 +387,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60465997-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000213460.webp",
@@ -373,6 +400,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

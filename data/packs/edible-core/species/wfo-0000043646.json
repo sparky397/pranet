@@ -17,20 +17,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "印度金鈕扣",
-      "鐵拳頭",
-      "桂圆菊",
-      "金鈕扣"
-    ],
     "fr": [
+      "Brède mafane",
       "Brèdes mafane"
+    ],
+    "id": [
+      "Legetan"
     ],
     "am": [
       "የምድር በርበሬ"
+    ],
+    "zh": [
+      "金鈕扣",
+      "印度金鈕扣",
+      "鐵拳頭",
+      "桂圆菊"
     ],
     "th": [
       "ผักคราดหัวแหวน"
@@ -92,9 +96,6 @@
     "mg": [
       "Anamalao"
     ],
-    "id": [
-      "Legetan"
-    ],
     "ta": [
       "அக்மெல்லா ஓலரேசியா"
     ]
@@ -103,7 +104,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2097498",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2097498",
   "search_names": {
@@ -119,26 +120,84 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Acmella oleracea」",
+      "source": "Wikipedia (en): Acmella oleracea",
       "source_url": "https://en.wikipedia.org/wiki/Acmella_oleracea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1323598153,
       "text": "Acmella oleracea is a species of flowering herb in the family Asteraceae. Common names include toothache plant, Szechuan buttons, paracress, jambu, buzz buttons, tingflowers and electric daisy. Its native distribution is unclear, but it is likely derived from a Brazilian Acmella species. A small, erect plant, it grows quickly and bears gold and red inflorescences. It is frost-sensitive but perennial in warmer climates."
+    },
+    "es": {
+      "source": "Wikipedia (es): Acmella oleracea",
+      "source_url": "https://es.wikipedia.org/wiki/Acmella_oleracea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582845,
+      "text": "Acmella oleracea es una especie de planta con flor de la familia de las Asteraceae, también conocida como flor eléctrica, paracress o hierba de los dientes debido a que sus hojas poseen agentes analgésicos empleados a veces para aminorar el dolor de dientes."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Brède mafane",
+      "source_url": "https://fr.wikipedia.org/wiki/Br%C3%A8de_mafane",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238916746,
+      "text": "La Brède mafane, ou brède mafana encore appelée cresson du Pará, est une espèce de plantes à fleurs de la famille des Asteraceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Acmella oleracea",
+      "source_url": "https://pt.wikipedia.org/wiki/Acmella_oleracea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72675498,
+      "text": "Acmella oleracea popularmente jambu, jambu-açu, jamburana, mastruço-do-pará, nhambu, pimenteira-do-pará ou agrião-do-pará, é uma erva típica da região norte do Brasil, sendo originária da América do Sul. É comum também em Madagáscar e todo o sudoeste asiático, em particular nas ilhas Mascarenhas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Legetan",
+      "source_url": "https://id.wikipedia.org/wiki/Legetan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29955554,
+      "text": "Acmella oleracea adalah spesies herbal berbunga dalam keluarga Asteraceae yang umum disebut tanaman sakit gigi atau legetan. Distribusi aslinya tidak jelas, tetapi kemungkinan besar berasal dari spesies Acmella Brazil. Tanaman ini memiliki ciri khas kecil tegak, tumbuh dengan cepat dan menghasilkan bunga berwarna emas dan merah. Ini sensitif terhadap embun beku tetapi abadi di iklim hangat. Batangnya licin dan silindris, sementara bunganya kecil kuning berbentuk pipa, daun berbulu dan buahnya keras bersudut."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Acmella oleracea」の節「Cultivation」",
+        "source": "Wikipedia (en): Acmella oleracea § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Acmella_oleracea#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1323598153,
         "heading": "Cultivation",
         "text": "This plant prefers well-drained, black (high organic content) soil. If starting outdoors, the seeds should not be exposed to cold weather, so start after last frost. Seeds need direct sunlight to germinate, so should not be buried.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Brède mafane § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Br%C3%A8de_mafane#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238916746,
+        "heading": "Culture",
+        "text": "Emplacement\nEn Europe, la brède mafane apprécie une terre perméable, un emplacement ensoleillé au jardin ou sur le balcon.\nEn pays tropical, elle apprécie un sol aéré et fertile et une exposition ombragée un peu fraîche. La plante se multiplie notamment par marcottage naturel pendant toute la saison.\nEnsemencement\nEn terrines ou en pots. Dès mi-mai, planter en plein air ou semer directement. Demande un sol drainant, bien fertilisé. Résistant contre les maladies. Sensible au froid et au sec.\nHauteur : 10 cm\nDurée de germination : 10-14 j\nTempérature de germination : 18 °C",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Legetan § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Legetan#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29955554,
+        "heading": "Penanaman",
+        "text": "Tanaman ini lebih menyukai tanah yang memiliki drainase baik, berwarna hitam (kandungan organik tinggi). Jika memulai di luar ruangan, benih tidak boleh terkena cuaca dingin, jadi mulailah setelah cuaca beku terakhir. Benih membutuhkan sinar matahari langsung untuk berkecambah, jadi sebaiknya jangan dikubur.",
         "truncated": false
       }
     }
@@ -154,7 +213,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -200,7 +259,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/914778-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -208,7 +267,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/914778-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000043646.webp",
@@ -221,6 +280,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 286,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -31,9 +31,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "id": [
+      "Jambu nasi-nasi"
+    ],
     "zh": [
       "锡兰蒲桃"
     ],
@@ -43,9 +46,6 @@
     "ms": [
       "Pokok Kelat Nenasi"
     ],
-    "id": [
-      "Jambu nasi-nasi"
-    ],
     "ar": [
       "رياعة سيلانية"
     ]
@@ -54,18 +54,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3509594",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3509594",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Syzygium zeylanicum」",
+      "source": "Wikipedia (en): Syzygium zeylanicum",
       "source_url": "https://en.wikipedia.org/wiki/Syzygium_zeylanicum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1341055236,
       "text": "Syzygium zeylanicum, the spicate eugenia, is a species of flowering plant in the family Myrtaceae. It is widely distributed, from Madagascar and India to China, Southeast Asia, and Malesia. A shrubby tree typically reaching 12 m (39 ft), it prefers coastal secondary forests, forest edges, and riverbanks."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Syzygium zeylanicum",
+      "source_url": "https://fr.wikipedia.org/wiki/Syzygium_zeylanicum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 218749058,
+      "text": "Syzygium zeylanicum est une espèce de plantes à fleurs la famille des Myrtacées. C'est un petit arbre que l’on trouve à Ceylan et en Asie du Sud-Est."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jambu nasi-nasi",
+      "source_url": "https://id.wikipedia.org/wiki/Jambu_nasi-nasi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29708571,
+      "text": "Syzygium zeylanicum, atau dikenal dengan jambu nasi-nasi adalah spesies tumbuhan berbunga dalam keluarga Myrtaceae. Penyebarannya luas, dari Madagaskar dan India hingga Cina, Asia Tenggara, dan Malesia. Pohon semak ini biasanya mencapai 12 m (39 ft), ia lebih menyukai hutan sekunder pesisir, tepi hutan, dan tepi sungai."
     }
   },
   "edible": {
@@ -78,7 +96,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -105,7 +123,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/602424-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -113,7 +131,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/602424-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000319677.webp",
@@ -126,6 +144,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 243,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

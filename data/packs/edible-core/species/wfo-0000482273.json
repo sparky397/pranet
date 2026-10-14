@@ -17,74 +17,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Zirbelkiefer",
-      "Zirbel-Kiefer"
-    ],
-    "fr": [
-      "Pin cembro",
-      "Auvier",
-      "Pin arole"
-    ],
-    "it": [
-      "Cembro",
-      "cirmolo"
-    ],
-    "pl": [
-      "Limba",
-      "sosna limba"
-    ],
-    "ro": [
-      "Zâmbru"
-    ],
-    "en": [
-      "Swiss Pine",
-      "Arolla Pine",
-      "Swiss Stone Pine"
-    ],
-    "et": [
-      "Euroopa seedermänd",
-      "alpi seedermänd"
-    ],
-    "fi": [
-      "Sembramänty",
-      "siperiansembra"
-    ],
-    "eo": [
-      "Cembro"
-    ],
-    "hu": [
-      "Cirbolyafenyő",
-      "havasi cirbolyafenyő"
-    ],
-    "ru": [
-      "Европейская кедровая сосна",
-      "Европейский кедр"
-    ],
-    "sl": [
-      "cemprin"
-    ],
-    "tr": [
-      "İsviçre fıstık çamı"
-    ],
-    "bar": [
-      "Zirm"
-    ],
-    "cs": [
-      "borovice limba"
-    ],
-    "zh": [
-      "瑞士五针松",
-      "瑞士五葉松"
-    ],
     "vec": [
       "Firm"
     ],
+    "pl": [
+      "sosna limba",
+      "Limba"
+    ],
     "udm": [
       "Европаысь кедр"
+    ],
+    "hu": [
+      "havasi cirbolyafenyő",
+      "Cirbolyafenyő"
+    ],
+    "et": [
+      "alpi seedermänd",
+      "Euroopa seedermänd"
+    ],
+    "de": [
+      "Zirbelkiefer",
+      "Zirbel-Kiefer"
     ],
     "vi": [
       "Thông Thụy Sĩ"
@@ -101,6 +57,9 @@
     "sv": [
       "Cembratall"
     ],
+    "eo": [
+      "Cembro"
+    ],
     "is": [
       "Lindifura"
     ],
@@ -110,14 +69,31 @@
     "mn": [
       "Швейцари нарс"
     ],
+    "ru": [
+      "Европейский кедр",
+      "Европейская кедровая сосна"
+    ],
+    "ro": [
+      "Zâmbru"
+    ],
     "ca": [
       "pi suís"
+    ],
+    "fi": [
+      "sembramänty",
+      "siperiansembra"
     ],
     "uk": [
       "Сосна кедрова європейська"
     ],
+    "sl": [
+      "cemprin"
+    ],
     "nn": [
       "sembrafuru"
+    ],
+    "cs": [
+      "borovice limba"
     ],
     "io": [
       "Cembro"
@@ -152,6 +128,9 @@
     "fa": [
       "کاج سوئیسی"
     ],
+    "bar": [
+      "Zirm"
+    ],
     "wa": [
       "Sapén alpin"
     ],
@@ -160,6 +139,10 @@
     ],
     "rm": [
       "Schember"
+    ],
+    "zh": [
+      "瑞士五葉松",
+      "瑞士五针松"
     ],
     "lld": [
       "Cier"
@@ -175,13 +158,30 @@
     ],
     "he": [
       "אורן שווייצרי"
+    ],
+    "fr": [
+      "Pin cembro",
+      "Auvier",
+      "Pin arole"
+    ],
+    "it": [
+      "Cembro",
+      "cirmolo"
+    ],
+    "en": [
+      "Swiss Pine",
+      "Arolla Pine",
+      "Swiss Stone Pine"
+    ],
+    "tr": [
+      "İsviçre fıstık çamı"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q147278",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q147278",
   "search_names": {
@@ -197,13 +197,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pinus cembra」",
+      "source": "Wikipedia (en): Pinus cembra",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_cembra",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377967893,
       "text": "Pinus cembra, also known as Swiss pine, Swiss stone pine, Arolla pine, Austrian stone pine, or just stone pine, is a species of pine tree in the subgenus Strobus."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus cembra",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_cembra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 165215984,
+      "text": "El pino cembro, pino cembra o cembro es un árbol de hasta 25 m de altura que se caracteriza por presentar las acículas agrupadas por 5 en su correspondiente braquiblasto."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pinus cembra",
+      "source_url": "https://fr.wikipedia.org/wiki/Pinus_cembra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239845791,
+      "text": "Le Pin cembro ou Pin des Alpes est une espèce d'arbres de la famille des Pinaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus cembra",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_cembra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 65053651,
+      "text": "Pinus cembra é uma espécie de pinheiro originária do Velho Mundo, mais precisamente da região da Europa e Mediterrâneo."
     }
   },
   "edible": {
@@ -216,7 +243,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -239,7 +266,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262848-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -247,7 +274,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262848-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000482273.webp",
@@ -260,6 +287,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

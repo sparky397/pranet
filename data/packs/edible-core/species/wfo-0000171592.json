@@ -16,12 +16,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "cabbagebark tree"
-    ],
     "lt": [
       "Paprastoji andira"
     ],
@@ -36,24 +33,45 @@
     ],
     "zh": [
       "无刺甘蓝豆"
+    ],
+    "en": [
+      "cabbagebark tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4754500",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4754500",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Andira inermis」",
+      "source": "Wikipedia (en): Andira inermis",
       "source_url": "https://en.wikipedia.org/wiki/Andira_inermis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1325953289,
       "text": "Andira inermis is a nitrogen-fixing tree with medicinal properties native to the area from southern Mexico through Central America to northern South America ; it has been introduced to the Caribbean, the Antilles, Florida, and Africa and is often pollinated by bees. The tree has many names due to its wide distribution and multiple uses: it is also known as the almendro macho, almendro de río or river almond (Honduras), bastard cabbage tree, cabbage angelin, cabbage bark, cabbage tree, carne asada, guacamayo (Honduras), Jamaica cabbage tree, harino (Panama), moca, partridge wood, worm bark, or yellow cabbage tree."
+    },
+    "es": {
+      "source": "Wikipedia (es): Andira inermis",
+      "source_url": "https://es.wikipedia.org/wiki/Andira_inermis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174565455,
+      "text": "Andira inermis es una especie de árbol perteneciente a la familia de las fabáceas. Es originario de América. En El Salvador su nombre común es Almendro de Rio."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Andira inermis",
+      "source_url": "https://fr.wikipedia.org/wiki/Andira_inermis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234328222,
+      "text": "Andira inermis est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un arbre tropical d'Amérique."
     }
   },
   "edible": {
@@ -73,7 +91,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -141,7 +159,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1075415-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -149,7 +167,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1075415-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000171592.webp",
@@ -162,6 +180,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

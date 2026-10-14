@@ -26,55 +26,73 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "キバナハマヒルガオ"
     ],
-    "en": [
-      "beach moonflower",
-      "Sea moonflower"
-    ],
-    "zh": [
-      "圓萼天茄兒",
-      "管花薯"
-    ],
     "ca": [
       "Meravelles"
+    ],
+    "zh": [
+      "管花薯",
+      "圓萼天茄兒"
     ],
     "ht": [
       "Lyann dous"
     ],
     "arz": [
       "ايبومويا فيولاسيا"
+    ],
+    "en": [
+      "beach moonflower",
+      "Sea moonflower"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q135689",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q135689",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キバナハマヒルガオ」",
+      "source": "Wikipedia (ja): キバナハマヒルガオ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%90%E3%83%8A%E3%83%8F%E3%83%9E%E3%83%92%E3%83%AB%E3%82%AC%E3%82%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108174306,
       "text": "キバナハマヒルガオ は、サツマイモ属(Ipomoea)の多年生種であり、ヨーロッパ大陸を除外して世界中に生息する。一般的にビーチ・ムーンフラワーとかシー・ムーンフラワーと呼ばれ、夜に開花する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ipomoea violacea」",
+      "source": "Wikipedia (en): Ipomoea violacea",
       "source_url": "https://en.wikipedia.org/wiki/Ipomoea_violacea",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306406893,
       "text": "Ipomoea violacea is a perennial species of Ipomoea that occurs throughout the world with the exception of the European continent. It is most commonly called beach moonflower or sea moonflower as the flowers open at night."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ipomoea violacea",
+      "source_url": "https://es.wikipedia.org/wiki/Ipomoea_violacea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581919,
+      "text": "Ipomoea violacea, conocida como gloria de la mañana es una especie que pertenece a la familia de las Convolvuláceas. Procede principalmente de Norteamérica -en especial de la zona de México- y de Centroamérica. Se ha naturalizado en todos los países tropicales. Ha sido introducida en Europa como ornamental."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ipomoea violacea",
+      "source_url": "https://fr.wikipedia.org/wiki/Ipomoea_violacea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231864891,
+      "text": "Ipomoea violacea, la belle de nuit (Antilles) ou piritai, est une espèce de plantes dicotylédones de la famille des Convolvulaceae, tribu des Ipomoeeae, à répartition pantropicale. Ce sont des plantes vivaces, ligneuses, grimpantes, aux fleurs blanches, dont les tiges peuvent atteindre 5 mètres de long."
     }
   },
   "edible": {
@@ -87,7 +105,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -190,7 +208,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/270063-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing herbaceous tree",
@@ -198,7 +216,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/270063-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001297273.webp",
@@ -211,6 +229,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 342,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -23,16 +23,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Ming aralia"
-    ],
-    "zh": [
-      "羽叶南洋参",
-      "南洋参",
-      "裂葉福祿桐"
+    "id": [
+      "Daun berlangkas"
     ],
     "vi": [
       "Đinh lăng"
@@ -40,11 +35,13 @@
     "az": [
       "Kolvari çoxçətirli"
     ],
-    "id": [
-      "Daun berlangkas"
-    ],
     "ms": [
       "Kuku garuda"
+    ],
+    "zh": [
+      "裂葉福祿桐",
+      "羽叶南洋参",
+      "南洋参"
     ],
     "th": [
       "เล็บครุฑไซ่ง่อน"
@@ -54,37 +51,69 @@
     ],
     "su": [
       "Kadongdong cina"
+    ],
+    "en": [
+      "Ming aralia"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5903279",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5903279",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Polyscias fruticosa」",
+      "source": "Wikipedia (en): Polyscias fruticosa",
       "source_url": "https://en.wikipedia.org/wiki/Polyscias_fruticosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1323770179,
       "text": "Polyscias fruticosa, or Ming aralia, is a perennial dicot evergreen shrub or dwarf tree in the ivy family Araliaceae, found in tropical and subtropical regions. The plant grows fairly slowly, up to 3–5 metres (9.8–16.4 ft) in height. The leaves are tripinnate, with a glossy surface. Ming aralia is commonly grown as an ornamental and a potherb, valued for its culinary and medicinal uses."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Polyscias fruticosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Polyscias_fruticosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240116732,
+      "text": "Polyscias fruticosa ou aralia de Ming est une espèce d'arbuste à feuillage persistant de la famille des Araliaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Daun berlangkas",
+      "source_url": "https://id.wikipedia.org/wiki/Daun_berlangkas",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29670298,
+      "text": "Daun berlangkas adalah tumbuhan sayur-sayuran yang dimanfaatkan sebagai lalapan. Ia berbentuk perdu, dan daunnya menyerupai kedondong. Oleh sebab itu, tumbuhan ini juga disebut dengan kedondong laut. Daun berlangkas dikenal dengan nama-nama seperti daun papéda papua (Amb.), kadondong laut, kadondong cina (Sund.), kědondong laut (Jw.), kadundung patedhan (Mad.), bombu, puding, keudem rintèk (Minh.), gurabati, tampusong (Tern.), dan déwu papua."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Polyscias fruticosa」の節「Toxicity」",
+        "source": "Wikipedia (en): Polyscias fruticosa § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Polyscias_fruticosa#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1323770179,
         "heading": "Toxicity",
         "text": "Ming aralia is mildly toxic to cats and dogs if ingested. The saponins in the plant can cause gastrointestinal problems and drooling.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Polyscias fruticosa § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Polyscias_fruticosa#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240116732,
+        "heading": "Toxicité",
+        "text": "L'aralia de Ming est légèrement toxique pour les chats et les chiens en cas d'ingestion. Les saponines qu'elle contient peuvent provoquer des troubles gastro-intestinaux et une salivation excessive.",
         "truncated": false
       }
     }
@@ -100,7 +129,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -139,7 +168,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/847351-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -147,7 +176,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/847351-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000280058.webp",
@@ -160,6 +189,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

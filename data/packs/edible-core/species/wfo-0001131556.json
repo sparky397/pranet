@@ -16,21 +16,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヤエヤマヒルギ"
     ],
-    "en": [
-      "mangrove"
-    ],
-    "zh": [
-      "红茄冬",
-      "红茄苳"
-    ],
-    "mg": [
-      "Honko lahy"
+    "id": [
+      "Bakau kurap",
+      "Tinjang tongas"
     ],
     "ml": [
       "പ്രാന്തൻ കണ്ടൽ"
@@ -46,6 +40,10 @@
     ],
     "hi": [
       "खमो"
+    ],
+    "zh": [
+      "红茄苳",
+      "红茄冬"
     ],
     "ms": [
       "Pokok Bakau Kurap"
@@ -77,15 +75,18 @@
     "arz": [
       "قندل مؤنف"
     ],
-    "id": [
-      "Tinjang tongas"
+    "en": [
+      "mangrove"
+    ],
+    "mg": [
+      "Honko lahy"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2613405",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2613405",
   "search_names": {
@@ -96,22 +97,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヤエヤマヒルギ」",
+      "source": "Wikipedia (ja): ヤエヤマヒルギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%A8%E3%83%A4%E3%83%9E%E3%83%92%E3%83%AB%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106683586,
       "text": "ヤエヤマヒルギ は、ヒルギ科ヤエヤマヒルギ属の常緑高木。別名オオバヒルギ（大葉蛭木、大葉漂木）、シロバナヒルギ（白花蛭木、白花漂木）。日本ではヤエヤマヒルギの学名にRhizophora mucronata Lam. を用いる文献もあるが、R. stylosaとR. mucronataは別種であり、R. mucronataは日本には自生しない。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Rhizophora mucronata」",
+      "source": "Wikipedia (en): Rhizophora mucronata",
       "source_url": "https://en.wikipedia.org/wiki/Rhizophora_mucronata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1362632587,
       "text": "Rhizophora mucronata is a species of mangrove found on coasts and river banks in East Africa and the Indo-Pacific region."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rhizophora mucronata",
+      "source_url": "https://fr.wikipedia.org/wiki/Rhizophora_mucronata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229423304,
+      "text": "Rhizophora mucronata est une espèce de plantes à fleurs de la famille des Rhizophoraceae. C'est un palétuvier présent dans la plupart des mangroves des rivages des océans Indien et Pacifique."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bakau kurap",
+      "source_url": "https://id.wikipedia.org/wiki/Bakau_kurap",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29706498,
+      "text": "Rhizophora mucronata, tinjang tongas atau bakau kurap adalah spesies bakau yang ditemukan di pantai dan tepi sungai di Afrika Timur dan kawasan Indo-Pasifik."
     }
   },
   "edible": {
@@ -128,7 +147,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -186,7 +205,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/719830-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -194,7 +213,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/719830-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001131556.webp",
@@ -207,6 +226,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

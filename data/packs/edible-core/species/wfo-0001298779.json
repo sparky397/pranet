@@ -33,19 +33,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "掌葉牽牛",
-      "七爪龙",
-      "七爪金龙"
+    "id": [
+      "Akar lanar"
     ],
     "ml": [
       "പാൽമുതുക്ക്"
     ],
-    "id": [
-      "Akar lanar"
+    "zh": [
+      "七爪金龙",
+      "掌葉牽牛",
+      "七爪龙"
     ],
     "si": [
       "කිරිබදු"
@@ -73,18 +73,36 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q309622",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q309622",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ipomoea mauritiana」",
+      "source": "Wikipedia (en): Ipomoea mauritiana",
       "source_url": "https://en.wikipedia.org/wiki/Ipomoea_mauritiana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1325577404,
       "text": "Ipomoea mauritiana is a type of morning glory plant. Like the sweet potato, it belongs to the genus Ipomoea. It grows as a vine."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ipomoea mauritiana",
+      "source_url": "https://fr.wikipedia.org/wiki/Ipomoea_mauritiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208010633,
+      "text": "Ipomoea mauritiana est une espèce de plantes dicotylédones de la famille des Convolvulaceae, tribu des Ipomoeeae, originaire des régions tropicales et subtropicales d'Afrique et d'Amérique, également présente en Asie et en Australasie. C'est une plante herbacée vivace aux racines tubéreuses et aux tiges volubiles pouvant atteindre 10 mètres de long."
+    },
+    "id": {
+      "source": "Wikipedia (id): Akar lanar",
+      "source_url": "https://id.wikipedia.org/wiki/Akar_lanar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29791043,
+      "text": "Akar lanar, kaledek hutan, akar laus (Melayu), widosari, akar keremek, akar kangkung laut, ubi jalar liar adalah tumbuhan obat dan juga flora Indonesia yang berkerabat satu genus dengan ubi jalar."
     }
   },
   "edible": {
@@ -99,7 +117,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -203,7 +221,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/269292-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing tuberous geophyte",
@@ -211,7 +229,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/269292-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001298779.webp",
@@ -224,6 +242,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 238,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

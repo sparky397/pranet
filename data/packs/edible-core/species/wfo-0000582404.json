@@ -35,42 +35,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ツバキ",
       "ヤブツバキ"
     ],
-    "de": [
-      "Kamelie"
+    "fr": [
+      "Camélia du Japon"
     ],
-    "fi": [
-      "Kamelia"
-    ],
-    "frr": [
-      "Kameelie"
-    ],
-    "gl": [
-      "Camelia",
-      "Camelia do Xapón"
-    ],
-    "it": [
-      "Camelia"
-    ],
-    "ko": [
-      "동백나무"
-    ],
-    "tr": [
-      "Japon kamelyası"
-    ],
-    "zh": [
-      "山茶",
-      "日本山茶",
-      "山茶花"
-    ],
-    "sl": [
-      "japonska kamelija"
+    "id": [
+      "Kayucu jepang"
     ],
     "pl": [
       "Kamelia japońska"
@@ -78,11 +54,24 @@
     "udm": [
       "Камелия"
     ],
-    "fr": [
-      "Camélia du Japon"
+    "ko": [
+      "동백나무"
     ],
     "hu": [
       "japán kamélia"
+    ],
+    "fi": [
+      "kamelia"
+    ],
+    "gl": [
+      "Camelia do Xapón",
+      "Camelia"
+    ],
+    "de": [
+      "Kamelie"
+    ],
+    "sl": [
+      "japonska kamelija"
     ],
     "bn": [
       "ক্যামেলিয়া"
@@ -114,11 +103,19 @@
     "fa": [
       "کاملیا ژاپنی"
     ],
+    "zh": [
+      "山茶花",
+      "山茶",
+      "日本山茶"
+    ],
     "eu": [
       "Japoniako kamelia"
     ],
     "nb": [
       "Kamelia"
+    ],
+    "frr": [
+      "Kameelie"
     ],
     "ru": [
       "Камелия японская"
@@ -162,27 +159,30 @@
     "ug": [
       "چايگۈل"
     ],
+    "tr": [
+      "Japon Kamelyası"
+    ],
     "ar": [
       "كاميلة"
     ],
     "et": [
       "Jaapani kameelia"
     ],
-    "id": [
-      "Kayucu jepang"
-    ],
     "mnc": [
       "ᡳᠯᠠᠨ ᡳ ᠴᠠᡳ ᡳᠯᠠᡥ"
     ],
     "nan": [
       "Soaⁿ-tê-hoe"
+    ],
+    "it": [
+      "Camelia"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q160121",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q160121",
   "search_names": {
@@ -198,35 +198,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ツバキ」",
+      "source": "Wikipedia (ja): ツバキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%90%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110927637,
       "text": "ツバキ（椿、海柘榴）またはヤブツバキ は、ツバキ科ツバキ属の常緑樹。照葉樹林の代表的な樹木。花を観賞するため庭などに植えられるほか、薬用や食用にもなる有用植物である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Camellia japonica」",
+      "source": "Wikipedia (en): Camellia japonica",
       "source_url": "https://en.wikipedia.org/wiki/Camellia_japonica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368701371,
       "text": "Camellia japonica, known as common camellia, or Japanese camellia, is a species of flowering plant from the genus Camellia in the tea family Theaceae. It is native to China and Japan, and grows naturally in forests at altitudes of around 300–1,100 metres (980–3,600 ft)."
+    },
+    "es": {
+      "source": "Wikipedia (es): Camellia japonica",
+      "source_url": "https://es.wikipedia.org/wiki/Camellia_japonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582484,
+      "text": "Camellia japonica es una de las especies de Camellia más conocidas, Pertenece a la familia de las teáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Camélia du Japon",
+      "source_url": "https://fr.wikipedia.org/wiki/Cam%C3%A9lia_du_Japon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232729516,
+      "text": "Camellia japonica, communément appelé Camélia du Japon ou plus simplement camélia, est une espèce de plantes à fleurs de la famille des Theaceae. C'est un arbuste originaire d'Asie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Camellia japonica",
+      "source_url": "https://pt.wikipedia.org/wiki/Camellia_japonica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70152542,
+      "text": "Camellia japonica é uma espécie da família Theaceae, a qual é popularmente conhecida como camélia. É um arbusto ou árvore pequena, nativa das florestas do sul do Japão, de folhagem densa, escura e lustrosa. Suas folhas são elípticas, denteadas, coriáceas e cerosas, com pecíolos bem curtos. As flores são solitárias ou agrupadas nas axilas das folhas, sem perfume. Estas flores são grandes, com 6 ou mais pétalas com cores que variam do branco ao vermelho, podendo incluir manchas, matizes e pintas. Os estames são agrupados em uma coluna que permanece unida até certa altura. O pistilo possui três estigmas. Os frutos são cápsulas secas e esféricas do tamanho de ameixas, com três sementes globosas de cor bruna. Também pode ser diferenciada das outras espécies por certos caracteres anatômicos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kayucu jepang",
+      "source_url": "https://id.wikipedia.org/wiki/Kayucu_jepang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29736943,
+      "text": "Camellia japonica, dikenal sebagai kayucu jepang, atau kamelia jepang adalah spesies Camellia, genus tumbuhan berbunga dalam famili Theaceae. Terdapat ribuan kultivar C. japonica yang dibudidayakan, dengan berbagai warna dan bentuk bunga. Meskipun namanya umum, tanaman ini berasal dari Tiongkok, bukan Jepang. Budidaya Camellia japonica juga dimulai di Tiongkok. Budidaya luasnya dapat ditelusuri kembali ke Dinasti Song, ketika 15 varietas Camellia japonica tercatat dalam literatur. Itu kemudian diperkenalkan ke Jepang. Tumbuh di hutan, pada ketinggian sekitar 300–1.100 meter (980–3.600 ft)."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Camellia japonica」の節「Cultivation」",
+        "source": "Wikipedia (en): Camellia japonica § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Camellia_japonica#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1368701371,
         "heading": "Cultivation",
         "text": "Camellias should be planted in the shade in organic, somewhat acidic, semi-moist but well drained soil. If the soil is not well drained, it can cause the roots to rot.\nAs a Camellia species, C. japonica can be used to make tea. Its processed leaves show aromatic fragrance. It contains caffeine and catechins of the same kind as C. sinensis.\n\n■ Diseases\nSome fungal and algal diseases include: Spot Disease, which gives the upper side of leaves a silver color and round spots, and can cause loss of leaves; Black Mold; Leaf Spot; Leaf Gall; Flower Blight, which causes flowers to become brown and fall; Root Rot; and Canker caused by the fungus Glomerella cingulata, which penetrates plants through wounds. Some insects and pests of C. japonica are the Fuller Rose Beetle Pantomorus cervinus, the mealybugs Planococcus citri and Pseudococcus longispinus, the weevils Otiorhyncus salcatus and Otiorhyncus ovatus, and the tea scale Fiorinia theae.\nSome physiological diseases include salt injury which results from high levels of salt in soil; chlorosis which is thought to be caused lack of certain elements in the soil or insufficient acidity preventing their absorption by the roots; bud drop which causes loss or decay of buds, and can be caused by over-watering, high temperatures, or pot-bound roots. Other diseases are oedema and sunburn. Not much is known about viral diseases in C. japonica.\nC. japonica leaves are eaten by the caterpillars of some Lepidoptera, such as the engrailed (Ectropis crepuscularia).",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Camellia japonica § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Camellia_japonica#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171582484,
+        "heading": "Cultivo",
+        "text": "Los cultivares de Camellia japonica incluyen a 'Elegans' con grandes flores rosadas y manchas blancas, 'Guilio Nuccio' pétalos rojos a rosados y estilos y estambres amarillos, 'Mathotiana Alba' puras flores blancas.​",
         "truncated": false
       }
     }
@@ -243,7 +290,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -266,7 +313,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828524-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -274,7 +321,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828524-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000582404.webp",
@@ -287,6 +334,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

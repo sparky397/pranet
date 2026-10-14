@@ -25,16 +25,16 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "pastureweed"
+    "id": [
+      "Bayam pasir"
     ],
     "zh": [
+      "杯苋",
       "假川牛膝",
       "蛇见怕",
-      "杯苋",
       "杯苋根"
     ],
     "nl": [
@@ -45,24 +45,54 @@
     ],
     "ml": [
       "ചെറുകടലാടി"
+    ],
+    "en": [
+      "pastureweed"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q11102729",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q11102729",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cyathula prostrata」",
+      "source": "Wikipedia (en): Cyathula prostrata",
       "source_url": "https://en.wikipedia.org/wiki/Cyathula_prostrata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1367433797,
       "text": "Cyathula prostrata, the prostrate pastureweed, is a perennial, prostrate, herbaceous plant distributed throughout the tropical and subtropical world."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cyathula prostrata",
+      "source_url": "https://es.wikipedia.org/wiki/Cyathula_prostrata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173945131,
+      "text": "Cyathula prostrata, conocida como cucua macho, es una hierba o subarbusto de 0,2 a 0,8(-1,0) m de alto, erecta o procumbente, entrenudos ramificados 2-15 cm de largo, 0,6-3,0 mm de grueso, esparcidamente purulentos con tricomas blanquecinos ascendiendo 0,3-1,5 mm de largo con un tallo angulado o con 4 margas longitudinales."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cyathula prostrata",
+      "source_url": "https://pt.wikipedia.org/wiki/Cyathula_prostrata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70449287,
+      "text": "Cyathula prostrata é uma espécie de planta pertencente à família Amaranthaceae, amplamente distribuída em regiões tropicais e subtropicais. No Brasil, ocorre em diversos biomas, incluindo a Amazônia, Caatinga e Mata Atlântica. No estado do Maranhão, essa planta pode ser encontrada em áreas de vegetação nativa e em ambientes antropizados."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bayam pasir",
+      "source_url": "https://id.wikipedia.org/wiki/Bayam_pasir",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26738835,
+      "text": "Bayam pasir adalah terna tahunan-sejati (herb) dan termasuk ke dalam keluarga Amaranthaceae. Tanaman ini merupakan gulma, sering terdapat di area ternaungi, di sepanjang pinggiran jalan, di hutan jati, hutan sekunder. Tanaman ini tersebar dari Afrika sampai China dan Australia, seluruh Asia Tenggara, dan terintroduksi di Amerika Tengah. Salah satu tempat persebarannya di Indonesia adalah Gunung Prau."
     }
   },
   "edible": {
@@ -77,7 +107,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -179,7 +209,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60185-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or subshrub",
@@ -187,7 +217,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60185-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000631218.webp",
@@ -200,6 +230,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

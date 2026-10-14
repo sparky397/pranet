@@ -18,46 +18,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "シャク (植物)",
       "シャク"
     ],
-    "cy": [
-      "gorthyfail"
-    ],
-    "nl": [
-      "Fluitenkruid"
-    ],
-    "cs": [
-      "kerblík lesní"
-    ],
     "fr": [
-      "cerfeuil sauvage"
-    ],
-    "en": [
-      "Cow Parsley"
-    ],
-    "de": [
-      "Wiesenkerbel",
-      "Wiesen-Kerbel"
-    ],
-    "fi": [
-      "koiranputki"
-    ],
-    "zh": [
-      "峨参",
-      "峨参叶"
-    ],
-    "ast": [
-      "cicuta",
-      "fediondu",
-      "marguienzu"
-    ],
-    "sl": [
-      "gozdna krebuljica"
+      "Cerfeuil sauvage"
     ],
     "pl": [
       "Trybula leśna"
@@ -71,8 +40,15 @@
     "et": [
       "mets-harakputk"
     ],
+    "de": [
+      "Wiesen-Kerbel",
+      "Wiesenkerbel"
+    ],
     "sv": [
       "hundkäx"
+    ],
+    "nl": [
+      "Fluitenkruid"
     ],
     "is": [
       "Skógarkerfill"
@@ -92,14 +68,24 @@
     "ca": [
       "cerfull bord"
     ],
+    "fi": [
+      "koiranputki"
+    ],
     "nn": [
       "Hundekjeks"
+    ],
+    "cs": [
+      "kerblík lesní"
     ],
     "az": [
       "Meşə dişəvəri"
     ],
     "lt": [
       "Krūminis builis"
+    ],
+    "zh": [
+      "峨参",
+      "峨参叶"
     ],
     "nb": [
       "hundekjeks"
@@ -115,6 +101,9 @@
     ],
     "eu": [
       "Astaperrexil zuri"
+    ],
+    "cy": [
+      "Gorthyfail"
     ],
     "da": [
       "Vild Kørvel"
@@ -163,13 +152,24 @@
     ],
     "hr": [
       "Šumska krasuljica"
+    ],
+    "sl": [
+      "gozdna krebuljica"
+    ],
+    "en": [
+      "Cow Parsley"
+    ],
+    "ast": [
+      "cicuta",
+      "fediondu",
+      "marguienzu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q683490",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q683490",
   "search_names": {
@@ -182,22 +182,64 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シャク (植物)」",
+      "source": "Wikipedia (ja): シャク (植物)",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%AF_(%E6%A4%8D%E7%89%A9)",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107637577,
       "text": "シャク は、セリ科シャク属の多年草。別名、コジャク、コシャク、ワイルドチャービル、地方名でヤマニンジン、ノニンジンともよばれる。中国植物名は峨参（がさん）。若い苗は山菜として、根も食用や薬用に利用されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Anthriscus sylvestris」",
+      "source": "Wikipedia (en): Anthriscus sylvestris",
       "source_url": "https://en.wikipedia.org/wiki/Anthriscus_sylvestris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375096601,
       "text": "Anthriscus sylvestris, known as cow parsley, wild chervil, Queen Anne's lace or keck, is a herbaceous biennial or short-lived perennial plant in the family Apiaceae (Umbelliferae). It is also sometimes called mother-die, a name that is also applied to Crataegus monogyna. It is native to Europe, western Asia and northwestern Africa. It is related to other diverse members of Apiaceae, such as parsley, carrot, hemlock and hogweed. It is often confused with Daucus carota, another member of the Apiaceae also known as \"Queen Anne's lace\" or \"wild carrot\"."
+    },
+    "es": {
+      "source": "Wikipedia (es): Anthriscus sylvestris",
+      "source_url": "https://es.wikipedia.org/wiki/Anthriscus_sylvestris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 155236392,
+      "text": "Anthriscus sylvestris, el perifollo verde, es una especie de la familia de las apiáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cerfeuil sauvage",
+      "source_url": "https://fr.wikipedia.org/wiki/Cerfeuil_sauvage",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239129720,
+      "text": "Le Cerfeuil sauvage ou Anthrisque sauvage, encore appelé Cerfeuil des bois, est une espèce de plantes à fleurs de la famille des Apiaceae. C'est une plante herbacée bisannuelle ou vivace trouvée dans une grande partie de l'Eurasie et dans les zones montagneuses d'Afrique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Anthriscus sylvestris",
+      "source_url": "https://pt.wikipedia.org/wiki/Anthriscus_sylvestris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 55368172,
+      "text": "Anthriscus sylvestris é uma espécie de planta com flor pertencente à família Apiaceae."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Cerfeuil sauvage § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Cerfeuil_sauvage#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239129720,
+        "heading": "Toxicité",
+        "text": "Aucun cas d'intoxication sur l'humain par le cerfeuil sauvage n'est documenté à ce jour. Cependant, l'espèce est considérée comme un « comestible suspect » par Reduron et Spalik, en raison de sa composition chimique (ils mettent particulièrement en cause la désoxypodophyllotoxine) et de cas d'empoisonnements rapportés sur des cochons. Ces deux auteurs ne donnent pas de sources pour les intoxications sur les cochons. Il convient de noter que la pratique de donner du cerfeuil sauvage en nourriture aux cochons a été une pratique relativement courante en Angleterre, sans qu'aucun cas d'intoxication n'y soit connu.\nLes analyses phytochimiques montrent que le profil de la plante repose sur un complexe de lignanes dont l'anhydropodorhizol, la yatéine et la désoxypodophyllotoxine (DPT). Cette dernière étant le constituant largement majoritaire parmi les lignanes. Bien que l'ensemble de ces molécules participe aux propriétés de la plante, la littérature toxicologique et pharmacologique se concentre principalement sur la DPT.\nLa DPT est antitumorale, cytotoxique et antimitotique. Elle bloque la division cellulaire et provoque divers types de morts cellulaires: apoptose, nécroptose, parthanatose.,. Des lignanes proches de la DPT présenteraient une faible sélectivité pour les cellules cancéreuses, pouvant ainsi être cytotoxiques pour des cellules humaines saines. Les études cliniques n'ont pas encore été portées sur l'humain dans un cadre alimentaire.\nLa  DPT est étudiée pour diverses autres propriétés (hépatoprotectrice, antivirale, antibactérienne, antidouleur, anti-inflammatoire, anti-allergique, anti-asthmatique).",
+        "truncated": true
+      }
     }
   },
   "edible": {
@@ -212,7 +254,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -329,7 +371,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/837969-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial or perennial",
@@ -337,7 +379,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/837969-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000538692.webp",
@@ -350,6 +392,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

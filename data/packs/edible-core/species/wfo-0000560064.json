@@ -35,122 +35,80 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ハルザキヤマガラシ"
     ],
-    "cy": [
-      "berwr y gaeaf"
+    "eo": [
+      "Barbara-herbo"
     ],
-    "en": [
-      "garden yellowrocket",
-      "bittercress",
-      "herb Barbara",
-      "rocketcress",
-      "winter rocket",
-      "winter-cress",
-      "wound rocket",
-      "yellow rocketcress",
-      "Herb Barbaras",
-      "Rocket Cress",
-      "Upland Cress",
-      "Winter Cress",
-      "Yellow Rocket",
-      "winter-cress, yellow rocket"
+    "pl": [
+      "Gorczycznik pospolity"
     ],
-    "ar": [
-      "كثء شائع"
+    "ru": [
+      "Сурепка обыкновенная",
+      "Сурепица обыкновенная"
     ],
-    "ba": [
-      "Тиле шалҡан"
+    "fi": [
+      "peltokanankaali",
+      "Kanankaali"
     ],
-    "cs": [
-      "barborka obecná"
-    ],
-    "da": [
-      "Almindelig Vinterkarse"
+    "uk": [
+      "Суріпиця звичайна",
+      "Campe barbarea"
     ],
     "de": [
+      "Winterkresse",
       "Barbarakraut",
       "Echte Winterkresse",
       "Echtes Barbarakraut",
       "Echtes Barbenkraut",
       "Gewöhnliches Barbarakraut",
-      "Winterkresse",
       "Gemeines Barbarakraut"
     ],
-    "eo": [
-      "Barbara-herbo"
-    ],
-    "es": [
-      "hierba de los carpinteros",
-      "hierba de Santa Bárbara",
-      "yerba de los carpinteros",
-      "yerba de Santa Bárbara"
-    ],
-    "fi": [
-      "Kanankaali",
-      "peltokanankaali"
-    ],
-    "fr": [
-      "Barbarée Commune",
-      "Herbe de Sainte-Barbe",
-      "Herbe aux Charpentiers"
-    ],
-    "gd": [
-      "Treabhach"
+    "cs": [
+      "barborka obecná"
     ],
     "hr": [
       "Barica"
     ],
-    "hsb": [
-      "Barbaraea vulgaris",
-      "Prawa barmowka"
+    "ba": [
+      "Тиле шалҡан"
     ],
     "lt": [
-      "Lenktavaisė barborytė",
-      "Paprastoji barborytė"
+      "Paprastoji barborytė",
+      "Lenktavaisė barborytė"
+    ],
+    "hsb": [
+      "Prawa barmowka",
+      "Barbaraea vulgaris"
+    ],
+    "da": [
+      "Almindelig Vinterkarse"
     ],
     "nl": [
-      "Gewoon Barbarakruid"
-    ],
-    "pl": [
-      "Gorczycznik Pospolity"
-    ],
-    "pt": [
-      "agrião-da-terra",
-      "erva-de-santa-bárbara",
-      "erva-de-são-julião",
-      "erva-dos-carpinteiros"
-    ],
-    "ru": [
-      "Сурепица обыкновенная",
-      "Сурепка обыкновенная"
-    ],
-    "sk": [
-      "barborka obyčajná"
+      "gewoon barbarakruid"
     ],
     "sv": [
-      "Bangyllen",
-      "Sommargyllen"
-    ],
-    "tr": [
-      "Nicar otu"
-    ],
-    "uk": [
-      "Campe barbarea",
-      "Суріпиця звичайна"
+      "sommargyllen",
+      "Bangyllen"
     ],
     "zh": [
       "欧洲山芥"
     ],
-    "sl": [
-      "navadna barbica"
+    "ar": [
+      "كثء شائع"
+    ],
+    "cy": [
+      "Berwr y gaeaf"
     ],
     "bg": [
       "Обикновена злина"
+    ],
+    "sk": [
+      "barborka obyčajná"
     ],
     "ga": [
       "treabhach"
@@ -170,15 +128,57 @@
     "nb": [
       "vinterkarse"
     ],
+    "sl": [
+      "navadna barbica"
+    ],
     "is": [
       "Garðableikja"
+    ],
+    "en": [
+      "garden yellowrocket",
+      "bittercress",
+      "herb Barbara",
+      "rocketcress",
+      "winter rocket",
+      "winter-cress",
+      "wound rocket",
+      "yellow rocketcress",
+      "Herb Barbaras",
+      "Rocket Cress",
+      "Upland Cress",
+      "Winter Cress",
+      "Yellow Rocket",
+      "winter-cress, yellow rocket"
+    ],
+    "es": [
+      "hierba de los carpinteros",
+      "hierba de Santa Bárbara",
+      "yerba de los carpinteros",
+      "yerba de Santa Bárbara"
+    ],
+    "fr": [
+      "Barbarée Commune",
+      "Herbe de Sainte-Barbe",
+      "Herbe aux Charpentiers"
+    ],
+    "gd": [
+      "Treabhach"
+    ],
+    "pt": [
+      "agrião-da-terra",
+      "erva-de-santa-bárbara",
+      "erva-de-são-julião",
+      "erva-dos-carpinteiros"
+    ],
+    "tr": [
+      "Nicar otu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157285",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157285",
   "search_names": {
@@ -188,22 +188,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ハルザキヤマガラシ」",
+      "source": "Wikipedia (ja): ハルザキヤマガラシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%82%B6%E3%82%AD%E3%83%A4%E3%83%9E%E3%82%AC%E3%83%A9%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106371599,
       "text": "ハルザキヤマガラシ は、ヨーロッパに自生する二年生植物である。フユガラシとも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Barbarea vulgaris」",
+      "source": "Wikipedia (en): Barbarea vulgaris",
       "source_url": "https://en.wikipedia.org/wiki/Barbarea_vulgaris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374216501,
       "text": "Barbarea vulgaris, called wintercress, or alternatively winter rocket, rocketcress, yellow rocketcress, yellow rocket, wound rocket, herb barbara, creases, or creasy greens, is a biennial herb of the genus Barbarea, belonging to the family Brassicaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Barbarea vulgaris",
+      "source_url": "https://es.wikipedia.org/wiki/Barbarea_vulgaris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 162294975,
+      "text": "Barbarea vulgaris es una especie de planta herbácea bienal perteneciente a la familia Brassicaceae. Es nativa del suroeste de Europa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Barbarea vulgaris",
+      "source_url": "https://fr.wikipedia.org/wiki/Barbarea_vulgaris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232065688,
+      "text": "La Barbarée commune ou Babarée vulgaire, Herbe de Sainte-Barbe est une espèce de plantes bisannuelles ou vivaces de la famille des Brassicaceae."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Barbarea vulgaris",
+      "source_url": "https://pt.wikipedia.org/wiki/Barbarea_vulgaris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70152656,
+      "text": "Barbarea vulgaris, Barbarea arcuata, Barbarea stricta, Sisymbrium barbarea, Campe barbarea, Crucifera arcuata, Crucifera barbarea, Crucifera stricta ou Campe stricta são os nomes científicos que foram colocados à planta também conhecida como agrião-da-terra, erva-de-são-julião, erva-dos-carpinteiros ou erva-de-santa-bárbara. O nome popular \"erva-de-santa-bárbara\" terá origem, provavelmente, no próprio nome científico da planta (Barbarea) que, por sua vez, talvez tenha origem na região geográfica de Santa Bárbara, na Califórnia - apesar de a planta não ser nativa da América do Norte, mas aí introduzida. É uma planta herbácea perene ou bienal, da família das Brassicaceae, a que pertencem também os nabos, couves e mostarda. Há quem as considere como ervas daninhas, mas há também quem utilize as suas folhas para salada - de facto, estas contêm uma quantidade apreciável de vitamina C. É usada também, pela medicina popular, como vulnerária."
     }
   },
   "edible": {
@@ -218,7 +245,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -340,7 +367,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/29455-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial or perennial",
@@ -348,7 +375,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/29455-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000560064.webp",
@@ -361,6 +388,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 198,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

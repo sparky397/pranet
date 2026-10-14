@@ -41,18 +41,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Indian Mahogany"
-    ],
-    "zh": [
-      "红椿",
-      "毛红椿",
-      "紫椿",
-      "肿柄菊"
-    ],
     "ml": [
       "ചന്ദനവേമ്പ്"
     ],
@@ -77,6 +68,12 @@
     "vi": [
       "Hồng xuân"
     ],
+    "zh": [
+      "红椿",
+      "毛红椿",
+      "紫椿",
+      "肿柄菊"
+    ],
     "fa": [
       "ماهون هندی"
     ],
@@ -88,13 +85,16 @@
     ],
     "ks": [
       "درَٛوی کُل"
+    ],
+    "en": [
+      "Indian Mahogany"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2739400",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2739400",
   "search_names": {
@@ -107,13 +107,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Toona ciliata」",
+      "source": "Wikipedia (en): Toona ciliata",
       "source_url": "https://en.wikipedia.org/wiki/Toona_ciliata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354929217,
       "text": "Toona ciliata is a forest tree in the mahogany family which grows throughout South Asia from Afghanistan to Papua New Guinea and Australia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Toona ciliata",
+      "source_url": "https://es.wikipedia.org/wiki/Toona_ciliata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 138845460,
+      "text": "Toona ciliata es un árbol perteneciente a la familia Meliaceae, que crece a lo largo de Asia del sur, desde Afganistán a Papúa Nueva Guinea y Australia. En Australia, su hábitat natural son las despejadas selvas subtropicales de Nueva Gales del Sur y Queensland. La población australiana era antes tratada como especie distinta bajo el nombre de T. australis."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Toona ciliata",
+      "source_url": "https://fr.wikipedia.org/wiki/Toona_ciliata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238333975,
+      "text": "Toona ciliata, parfois appelé cèdre rouge d'Australie ou acajou indien, est un arbre à feuillage caduc de la famille des Meliaceae originaire d'Asie et d'Océanie. C'est une essence tropicale et subtropicale dont l'aire de distribution naturelle s'étend de l’Inde jusqu'à la côte Est de l'Australie en passant par les pays d'Asie du Sud-Est, le sud de le Chine, l'Indonésie, les Philippines et la Nouvelle-Guinée."
+    },
+    "id": {
+      "source": "Wikipedia (id): Toona ciliata",
+      "source_url": "https://id.wikipedia.org/wiki/Toona_ciliata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28509381,
+      "text": "Toona ciliata adalah pohon hutan dari famili mahoni yang tumbuh di seluruh Asia Selatan, mulai dari Afghanistan hingga Papua Nugini dan Australia."
     }
   },
   "edible": {
@@ -132,7 +159,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -185,7 +212,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/579299-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -193,7 +220,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/579299-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000455531.webp",
@@ -206,6 +233,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

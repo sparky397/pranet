@@ -19,24 +19,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Vera cruz pepper"
-    ],
     "de": [
       "Mexikanischer Blattpfeffer"
     ],
     "ja": [
       "メキシカンペッパーリーフ"
+    ],
+    "en": [
+      "Vera cruz pepper"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q585844",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q585844",
   "search_names": {
@@ -56,13 +56,59 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Piper auritum」",
+      "source": "Wikipedia (en): Piper auritum",
       "source_url": "https://en.wikipedia.org/wiki/Piper_auritum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1358361058,
       "text": "Piper auritum is an aromatic culinary herb in the pepper family Piperaceae, which grows in and is endemic to tropical Central America. Common names include hoja santa, yerba santa, hierba santa, Mexican pepperleaf, acuyo, tlanepa, anisillo, root beer plant, Vera Cruz pepper, sacred pepper, and juniapa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Piper auritum",
+      "source_url": "https://es.wikipedia.org/wiki/Piper_auritum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175632559,
+      "text": "Piper auritum, conocida como hoja santa, hierba santa, acuyo, juniapa, jaco, tlanepa, momo o tlancpapaquelitl, es una planta aromática de la familia Piperaceae que crece en bosques del sudoeste de México al nordeste de Costa Rica.y en suramerica como en Colombia. Las hojas de la planta se utilizan como condimento y tiene una presencia importante en varias gastronomías regionales de México. Habita en bosques húmedos o en sitios perturbados derivados de estos, desde el nivel del mar hasta los 2000m s. n. m."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Piper auritum",
+      "source_url": "https://fr.wikipedia.org/wiki/Piper_auritum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238926543,
+      "text": "Piper auritum, le Poivre mexicain est une espèce de plantes à fleurs de la famille des Piperaceae. Cette plante aromatique originaire de Mésoamérique tropicale a pour nom espagnol hoja santa qui signifie « feuille sacrée ». On l'appelle aussi « feuille de Sainte-Marie » car une légende mexicaine dit que la Vierge Marie changea la couche de l'enfant Jésus sur un buisson de cette plante, d'où son nom. Elle est connue comme yerba santa, hierba santa, Mexican pepperleaf, root beer plant, et sacred pepper."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Piper auritum § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Piper_auritum#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238926543,
+        "heading": "Culture",
+        "text": "La plante demande un sol en permanence humide, acide ou neutre, exposition soleil ou à mi-ombre. Elle émet des grandes tiges — jusqu’à 2 mètres — portant des feuilles cordiformes tomenteuses qui peuvent atteindre 30 centimètres de diamètre. La partie aérienne gèle à 0 °C. Les racines supportent -10 °C (rusticté USDA 8a), elles émettent de nouvelles tiges avec les beaux jours. On la reproduit par division de la motte. En climat favorable, elle peut être envahissante.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Piper auritum § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Piper_auritum#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238926543,
+        "heading": "Toxicité",
+        "text": "D'après une publication datée de 1984 [1] l'huile essentielle de la feuille [2] est riche en[3] safrole dont il a été démontré qu'il migre dans les aliments en cas d'utilisation comme papillote [4], et en élémicine. Certains auteurs en ont induit une toxicité qui n'a jamais été démontrée[5] ni chez l'homme ni chez l'animal. En médecine traditionnelle mexicaine l'infusion de piper auritum est utilisée comme tranquillisant et comme apéritif. Il est prudent de consommer ce condiment sans excès et pas de façon régulière.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -74,7 +120,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -110,7 +156,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/680520-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -118,7 +164,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/680520-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000479549.webp",
@@ -131,6 +177,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -17,33 +17,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ブタクサ"
-    ],
-    "de": [
-      "Beifuß-Ambrosie",
-      "Beifußblättriges Traubenkraut"
-    ],
-    "en": [
-      "annual ragweed",
-      "Roman wormwood"
-    ],
-    "zh": [
-      "豬草",
-      "瘤果菊",
-      "豚草"
-    ],
-    "cs": [
-      "ambrozie peřenolistá"
-    ],
-    "fi": [
-      "marunatuoksukki"
-    ],
-    "sl": [
-      "pelinolistna žvrklja"
     ],
     "bs": [
       "Ambrozija"
@@ -53,6 +31,10 @@
     ],
     "da": [
       "Bynke-Ambrosie"
+    ],
+    "de": [
+      "Beifußblättriges Traubenkraut",
+      "Beifuß-Ambrosie"
     ],
     "fy": [
       "Alsemambrosia"
@@ -90,11 +72,25 @@
     "uk": [
       "амброзія полинолиста"
     ],
+    "zh": [
+      "豚草",
+      "豬草",
+      "瘤果菊"
+    ],
     "nb": [
       "Beskambrosia"
     ],
+    "sl": [
+      "pelinolistna žvrklja"
+    ],
+    "fi": [
+      "marunatuoksukki"
+    ],
     "hu": [
       "ürömlevelű parlagfű"
+    ],
+    "cs": [
+      "ambrozie peřenolistá"
     ],
     "cy": [
       "Bratlys"
@@ -125,13 +121,17 @@
     ],
     "rsk": [
       "Амброзия"
+    ],
+    "en": [
+      "annual ragweed",
+      "Roman wormwood"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q682164",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q682164",
   "search_names": {
@@ -142,22 +142,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ブタクサ」",
+      "source": "Wikipedia (ja): ブタクサ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%BF%E3%82%AF%E3%82%B5",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107489552,
       "text": "ブタクサ は、キク科ブタクサ属の一年草。北米原産で、アフリカ以外の世界各地に帰化分布する。花粉症の主因としても知られる。和名は英語の俗名 \"Hog-Weed\"（豚の草）の直訳に由来する。Rag-Weedとも呼ばれる。中国名は、豚草。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ambrosia artemisiifolia」",
+      "source": "Wikipedia (en): Ambrosia artemisiifolia",
       "source_url": "https://en.wikipedia.org/wiki/Ambrosia_artemisiifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376062637,
       "text": "Ambrosia artemisiifolia, with the common names common ragweed, annual ragweed, and low ragweed, is a species of the genus Ambrosia native to regions of the Americas."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ambrosia artemisiifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Ambrosia_artemisiifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174493662,
+      "text": "Ambrosia artemisiifolia es una especie de planta herbácea perteneciente a la familia de las asteráceas. Es originaria de América del Norte."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ambrosia artemisiifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Ambrosia_artemisiifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239419026,
+      "text": "L'Ambroisie à feuilles d'armoise, Petite herbe à poux ou Ambroisie élevée, est une espèce de plantes à fleurs dicotylédones de la famille des Asteraceae, originaire des Amériques. C'est une plante herbacée annuelle, qui pousse dans ses régions d'origine dans les champs cultivés, les pâturages et terres en friche, ainsi que sur le bord des routes et les terres non cultivées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ambrosia artemisiifolia",
+      "source_url": "https://pt.wikipedia.org/wiki/Ambrosia_artemisiifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 51548887,
+      "text": "Ambrosia artemisiifolia, é uma planta herbácea do género ambrosia, pertencente à família botânica asteraceae. Esta planta é nativa da América do Norte. A partir de finais do século XIX e inícios do século XX, esta planta foi introduzida na Europa, apesar da indesejável presença invasiva que causa alergias graves como a polinose."
     }
   },
   "edible": {
@@ -170,7 +197,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -315,7 +342,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/176058-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or perennial",
@@ -323,7 +350,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/176058-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000063493.webp",
@@ -336,6 +363,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

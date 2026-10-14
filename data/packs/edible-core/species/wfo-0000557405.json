@@ -13,72 +13,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "スターフルーツ"
     ],
-    "en": [
-      "carambola"
-    ],
-    "cs": [
-      "karambola",
-      "karambola obecná"
-    ],
-    "da": [
-      "Karambol"
-    ],
-    "de": [
-      "Sternfrucht"
-    ],
-    "fi": [
-      "Karambola",
-      "tähtihedelmä"
-    ],
     "fr": [
       "Carambolier"
     ],
-    "he": [
-      "קרמבולה"
-    ],
     "id": [
       "Belimbing"
-    ],
-    "ms": [
-      "Belimbing besi"
-    ],
-    "nl": [
-      "Carambola",
-      "Stervrucht"
-    ],
-    "pt": [
-      "carambola"
-    ],
-    "sv": [
-      "Carambola"
-    ],
-    "th": [
-      "มะเฟือง"
-    ],
-    "to": [
-      "tapanima"
-    ],
-    "uk": [
-      "Карамбола"
-    ],
-    "vi": [
-      "Khế"
-    ],
-    "zh": [
-      "楊桃",
-      "阳桃",
-      "阳桃花",
-      "阳桃叶",
-      "阳桃根"
-    ],
-    "sl": [
-      "karambola"
     ],
     "jv": [
       "Blimbing"
@@ -92,6 +37,12 @@
     "hu": [
       "csillaggyümölcs"
     ],
+    "ms": [
+      "Belimbing besi"
+    ],
+    "to": [
+      "Tapanima"
+    ],
     "et": [
       "Karamboola"
     ],
@@ -100,6 +51,16 @@
     ],
     "my": [
       "စောင်းလျားပင်"
+    ],
+    "sv": [
+      "Carambola"
+    ],
+    "nl": [
+      "Carambola",
+      "Stervrucht"
+    ],
+    "pt": [
+      "Carambola"
     ],
     "eo": [
       "Karambolfrukto"
@@ -110,6 +71,13 @@
     "ru": [
       "карамбола"
     ],
+    "fi": [
+      "karambola",
+      "tähtihedelmä"
+    ],
+    "uk": [
+      "карамбола"
+    ],
     "kv": [
       "Карамбола"
     ],
@@ -118,6 +86,9 @@
     ],
     "tl": [
       "Balimbing"
+    ],
+    "da": [
+      "Karambol"
     ],
     "dv": [
       "ކާމަރަނގަ"
@@ -131,6 +102,9 @@
     "udm": [
       "Карамбола"
     ],
+    "he": [
+      "קרמבולה"
+    ],
     "ko": [
       "카람볼라"
     ],
@@ -142,6 +116,9 @@
     ],
     "mrj": [
       "Карамбола"
+    ],
+    "vi": [
+      "Khế"
     ],
     "yue": [
       "楊桃"
@@ -155,8 +132,15 @@
     "ht": [
       "Karanbòl"
     ],
+    "th": [
+      "มะเฟือง"
+    ],
     "vep": [
       "Karambol"
+    ],
+    "cs": [
+      "karambola obecná",
+      "karambola"
     ],
     "mr": [
       "कमरक"
@@ -169,6 +153,13 @@
     ],
     "ch": [
       "Bilembines"
+    ],
+    "zh": [
+      "阳桃",
+      "楊桃",
+      "阳桃花",
+      "阳桃叶",
+      "阳桃根"
     ],
     "ml": [
       "തോടമ്പുളി"
@@ -257,15 +248,24 @@
     "mnc": [
       "ᡠᠯᡠᡵᡳ"
     ],
+    "sl": [
+      "karambola"
+    ],
     "shn": [
       "တူၼ်ႈမႆႉမၢၵ်ႇၽိူင်း"
+    ],
+    "en": [
+      "carambola"
+    ],
+    "de": [
+      "Sternfrucht"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159447",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159447",
   "search_names": {
@@ -282,32 +282,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「スターフルーツ」",
+      "source": "Wikipedia (ja): スターフルーツ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111317353,
       "text": "スターフルーツ は、カタバミ科ゴレンシ属の常緑の木本、またはその果実。和名は五斂子（ごれんし）。独特の形をした果実を食用にする。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Averrhoa carambola」",
+      "source": "Wikipedia (en): Averrhoa carambola",
       "source_url": "https://en.wikipedia.org/wiki/Averrhoa_carambola",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1349434017,
       "text": "Averrhoa carambola is a species of tree in the family Oxalidaceae native to tropical Southeast Asia; it has a number of common names, including carambola, star fruit and five-corner. It is a small tree or shrub that grows 5 to 12 m tall, with rose to red-purple flowers. The flowers are small and bell-shaped, with five petals that have whitish edges. The flowers are often produced year round under tropical conditions. The tree is cultivated in tropical and semitropical regions for its edible fruits."
+    },
+    "es": {
+      "source": "Wikipedia (es): Averrhoa carambola",
+      "source_url": "https://es.wikipedia.org/wiki/Averrhoa_carambola",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174937569,
+      "text": "La Averrhoa carambola es un arbusto tropical perenne, perteneciente a la familia oxalidaceae. Su fruto es la carambola, que también recibe los nombres de asterisca, fruta de estrella, averrhoa estrella, balimbín o balimbíng, torombolo, chiramelo, miramelo, grosella china, fruta china, tamarindo chino, tamarindo culí o estarambolo, 7 filos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Carambolier",
+      "source_url": "https://fr.wikipedia.org/wiki/Carambolier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058016,
+      "text": "Le carambolier (Averrhoa carambola) est un arbre de la famille des Oxalidacées dont le fruit est la carambole ou pomme de Goa."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Averrhoa carambola",
+      "source_url": "https://pt.wikipedia.org/wiki/Averrhoa_carambola",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66178474,
+      "text": "Averrhoa carambola é uma espécie de árvore da família Oxalidaceae nativa do Sudeste Asiático tropical; tem vários nomes comuns, incluindo carambola e fruta-estrela."
+    },
+    "id": {
+      "source": "Wikipedia (id): Belimbing",
+      "source_url": "https://id.wikipedia.org/wiki/Belimbing",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29676862,
+      "text": "Belimbing / Belimbing Manis adalah tumbuhan penghasil buah berbentuk khas yang berasal dari Indonesia, India, dan Sri Lanka. Saat ini, belimbing telah tersebar ke penjuru Asia Tenggara, Republik Dominika, Brasil, Peru, Ghana, Guyana, Tonga, dan Polinesia. Usaha penanaman secara komersial dilakukan di Amerika Serikat, yaitu di Florida Selatan dan Hawaii. Di Indonesia, buah ini menjadi ikon kota Depok, Jawa Barat, sejak tahun 2007."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Averrhoa carambola」の節「Cultivation」",
+        "source": "Wikipedia (en): Averrhoa carambola § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Averrhoa_carambola#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1349434017,
         "heading": "Cultivation",
         "text": "Averrhoa carambola has a number of different forms differing in fruit taste, texture, and shape, some are very acidic and others are sweet. The plant is grown in Malaysia and Taiwan, with smaller concentrations in Thailand, Israel, The United States, Brazil, Philippines, China, Australia, Indonesia and the warmer parts of India and other areas of the world with the same climate. It has become a commercial crop in many of these locations, grown for its edible fruits. The flowers need cross-pollination to produce fruit, thus seed raised plants are variable. Plants may flower and bear fruit in about a year after seed germination. Larger plants may bloom year-round in tropical areas as long as environmental conditions are suitable, plants may have flowers, unripe and ripe fruit at the same time. Under other climate and environmental conditions, plants tend to bloom in spring, and then off and on again during the rest of the year. Many different cultivars are grown, most are selected to optimize fruit flavor and maximum fruit production for specific growing areas, with each country or region having their own specific selections.",
@@ -316,11 +352,11 @@
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Averrhoa carambola」の節「Toxicology」",
+        "source": "Wikipedia (en): Averrhoa carambola § Toxicology",
         "source_url": "https://en.wikipedia.org/wiki/Averrhoa_carambola#Toxicology",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1349434017,
         "heading": "Toxicology",
         "text": "Like several other plants of the family Oxalidaceae, its fruits are rich in oxalic acid, which is toxic in high concentrations.\nThere have been reports of intoxication in dialysis and uremic patients caused by a neurotoxin called caramboxin present in the fruit. Such toxin is normally filtered by the kidneys, but patients in dialysis or suffering from kidney deficiencies may show severe symptoms, in a few cases fatal, after drinking the fruit juice.",
@@ -341,7 +377,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -386,7 +422,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/371870-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -394,7 +430,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/371870-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000557405.webp",
@@ -407,6 +443,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 386,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

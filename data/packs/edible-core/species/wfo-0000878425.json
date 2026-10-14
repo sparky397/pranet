@@ -21,41 +21,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ネズミムギ"
     ],
-    "en": [
-      "Italian Rye Grass"
-    ],
     "fr": [
       "Ray-grass d'Italie",
       "ray-grass ditalie"
-    ],
-    "de": [
-      "Vielblütiger Lolch",
-      "Italienisches Raygras",
-      "Italienisches Raigras",
-      "Welsches Weidelgras"
-    ],
-    "nl": [
-      "Italiaans raaigras"
-    ],
-    "tr": [
-      "İtalya çimi"
-    ],
-    "zh": [
-      "多花黑麥草",
-      "多花黑麦草",
-      "意大利黑麦草"
-    ],
-    "cs": [
-      "jílek mnohokvětý"
-    ],
-    "fi": [
-      "italianraiheinä"
     ],
     "is": [
       "Einært rýgresi"
@@ -66,8 +40,17 @@
     "ca": [
       "margall italià"
     ],
+    "fi": [
+      "italianraiheinä"
+    ],
     "lv": [
       "Daudzlapu airene"
+    ],
+    "de": [
+      "Welsches Weidelgras",
+      "Vielblütiger Lolch",
+      "Italienisches Raygras",
+      "Italienisches Raigras"
     ],
     "hsb": [
       "Wulka motawa"
@@ -75,8 +58,16 @@
     "ar": [
       "زوان متعدد الأزهار"
     ],
+    "zh": [
+      "意大利黑麦草",
+      "多花黑麥草",
+      "多花黑麦草"
+    ],
     "sv": [
       "Italienskt rajgräs"
+    ],
+    "cs": [
+      "jílek mnohokvětý"
     ],
     "gl": [
       "Herba de Vigo"
@@ -122,13 +113,22 @@
     ],
     "ko": [
       "쥐보리"
+    ],
+    "en": [
+      "Italian Rye Grass"
+    ],
+    "nl": [
+      "Italiaans raaigras"
+    ],
+    "tr": [
+      "İtalya çimi"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157883",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157883",
   "search_names": {
@@ -138,22 +138,77 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ネズミムギ」",
+      "source": "Wikipedia (ja): ネズミムギ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%BA%E3%83%9F%E3%83%A0%E3%82%AE",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107308042,
       "text": "ネズミムギ は、単子葉類イネ科ドクムギ属に分類される植物の一種。楕円形の小穂が軸に密着する形の穂をつける。 牧草としてイタリアンライグラス の名で使われ、日本ではごく普通な雑草としてよく見られるもののひとつでもある。近似種にホソムギがあり、区別が難しい場合がある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lolium multiflorum」",
+      "source": "Wikipedia (en): Lolium multiflorum",
       "source_url": "https://en.wikipedia.org/wiki/Lolium_multiflorum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1305614303,
       "text": "Lolium multiflorum is a ryegrass native to temperate Europe, though its precise native range is unknown."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lolium multiflorum",
+      "source_url": "https://es.wikipedia.org/wiki/Lolium_multiflorum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173804495,
+      "text": "Lolium multiflorum es una especie perteneciente a la familia de las poáceas, cuyos nombres vulgares en castellano son, entre otros, raigrás anual, raigrás italiano, margallo, vallico de Italia, vallico italiano, zácate italiano, lolio y ballica italiana. Es una planta forrajera que se cultiva en muchos países para su uso como alimento para el ganado bovino."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ray-grass d'Italie",
+      "source_url": "https://fr.wikipedia.org/wiki/Ray-grass_d'Italie",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230819152,
+      "text": "Le ray-grass d'Italie est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Pooideae, originaire des régions tempérées et chaudes de l'Ancien Monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lolium multiflorum",
+      "source_url": "https://pt.wikipedia.org/wiki/Lolium_multiflorum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69100015,
+      "text": "Lolium multiflorum é uma espécie de planta com flor pertencente à família Poaceae."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Ray-grass d'Italie § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Ray-grass_d'Italie#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 230819152,
+        "heading": "Culture",
+        "text": "Le ray-grass d'Italie est une culture relativement exigeante, qui nécessite des terres riches et profondes, humides mais sans excès, et un climat relativement doux.\nIl est cultivé en culture pure ou en association avec des légumineuses (trèfle violet…) surtout dans le cas de prairies à faucher en culture annuelle ou bisannuelle.\nSa grande facilité d'implantation a aussi contribué à son succès.\n\n■ Variétés cultivées\nIl existe plus de 460 variétés de ray grass d'Italie inscrites dans le Catalogue européen des espèces et variétés dont près de 210 variétés alternatives et plus de 250 variétés non alternatives. Environ 150 variétés de ray-grass d'Italie sont inscrites au Catalogue officiel français",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "fr": {
+        "source": "Wikipedia (fr): Ray-grass d'Italie § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Ray-grass_d'Italie#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 230819152,
+        "heading": "Toxicité",
+        "text": "On a signalé en Australie et en Afrique du Sud des cas d'intoxication de chevaux ayant brouté du ray-grass infecté par une bactérie toxique, Rathayibacter toxicus. Cette bactérie produit des corynetoxines, substances glycolipidiques qui provoquent chez le bétail une maladie neurologique appelée « toxicose du ray-grass annuel » ou ARGT (annual ryegrass toxicity), dont l'issue est le plus souvent fatale. Elle est transmise par une espèce de nématodes cécidogènes, Anguina funesta, qui provoque la formation de galles dans les graines de la plante.\nLa lutte contre cette maladie, qui peut affecter tous les herbivores, passe par la prévention de l'infection de l'herbe par les nématodes.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -168,7 +223,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -388,7 +443,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/407486-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial or perennial",
@@ -396,7 +451,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/407486-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000878425.webp",
@@ -409,6 +464,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

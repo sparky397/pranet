@@ -16,25 +16,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヤンバルナスビ"
-    ],
-    "en": [
-      "potatotree"
-    ],
-    "zh": [
-      "假烟叶树",
-      "苦天茄",
-      "苦天茄叶"
     ],
     "id": [
       "Terung teter"
     ],
     "vi": [
       "Ngoi"
+    ],
+    "zh": [
+      "假烟叶树",
+      "苦天茄",
+      "苦天茄叶"
     ],
     "th": [
       "ฝ่าแป้ง"
@@ -47,33 +44,54 @@
     ],
     "ar": [
       "مغد صوفي الزهر"
+    ],
+    "en": [
+      "potatotree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3339192",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3339192",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヤンバルナスビ」",
+      "source": "Wikipedia (ja): ヤンバルナスビ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%83%90%E3%83%AB%E3%83%8A%E3%82%B9%E3%83%93",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106387476,
       "text": "ヤンバルナスビ Solanum erianthum は、樹木になるナス科の植物。沖縄に自生があり、葉や若枝は毛が多くて灰緑色をしている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Solanum erianthum」",
+      "source": "Wikipedia (en): Solanum erianthum",
       "source_url": "https://en.wikipedia.org/wiki/Solanum_erianthum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1322411991,
       "text": "Solanum erianthum is a species of nightshade that is native to southern North America and northern South America. It has been introduced to other parts of the world and has a nearly pantropical distribution. Common names include mullein nightshade, velvet nightshade, and salvadora."
+    },
+    "es": {
+      "source": "Wikipedia (es): Solanum erianthum",
+      "source_url": "https://es.wikipedia.org/wiki/Solanum_erianthum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174891420,
+      "text": "Solanum erianthum es una especie de planta fanerógama perteneciente a la familia Solanaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Terung teter",
+      "source_url": "https://id.wikipedia.org/wiki/Terung_teter",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 25970534,
+      "text": "Terung teter atau terong teter adalah sebuah spesies dari Solanum yang berasal dari Amerika Utara bagian selatan dan Amerika Selatan bagian utara."
     }
   },
   "edible": {
@@ -89,7 +107,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -160,7 +178,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/819125-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -168,7 +186,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/819125-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001027834.webp",
@@ -181,6 +199,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 325,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

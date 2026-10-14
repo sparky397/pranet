@@ -10,36 +10,93 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "塞伊耳金合欢",
-      "狭果金合欢"
+    "es": [
+      "Acacia seyal"
     ],
-    "en": [
-      "Shittimwood"
+    "id": [
+      "Acacia seyal"
+    ],
+    "zh": [
+      "狭果金合欢",
+      "塞伊耳金合欢"
     ],
     "ko": [
       "붉은껍질바늘아카시아나무"
+    ],
+    "en": [
+      "Shittimwood"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15525147",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15525147",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Vachellia seyal」",
+      "source": "Wikipedia (en): Vachellia seyal",
       "source_url": "https://en.wikipedia.org/wiki/Vachellia_seyal",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370686679,
       "text": "Vachellia seyal, the red acacia, known also as the shittah tree, is a thorny, 6– to 10-m-high tree with a pale greenish or reddish bark."
+    },
+    "es": {
+      "source": "Wikipedia (es): Acacia seyal",
+      "source_url": "https://es.wikipedia.org/wiki/Acacia_seyal",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 161283522,
+      "text": "Acacia seyal es una especie de árbol de la familia de las fabáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vachellia seyal",
+      "source_url": "https://fr.wikipedia.org/wiki/Vachellia_seyal",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234858894,
+      "text": "Vachellia seyal est une espèce de plantes à fleurs de la famille des Fabaceae, sous-famille des Mimosoideae, originaire de l'Afrique tropicale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vachellia seyal",
+      "source_url": "https://pt.wikipedia.org/wiki/Vachellia_seyal",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71548027,
+      "text": "Vachellia seyal é uma espécie de leguminosa do gênero Acacia, pertencente à família Fabaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Acacia seyal",
+      "source_url": "https://id.wikipedia.org/wiki/Acacia_seyal",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29972104,
+      "text": "Acacia seyal, atau pohon penaga adalah suatu pohon tinggi berduri, tingginya 6–10 m (20–30 kaki) dengan kulit batang berwarna hijau atau kemerahan. Pada pangkal daun berbulu, yang berukuran 3–10 cm (1–4 inci), terdapat dua duri lurus dan ringan, tumbuh sampai sepanjang 7–20 cm (3–8 inci). Bunganya mekar membentuk kelompok (cluster') bulat berwarna kuning cerah, kira-kira berdiameter 1,5 cm (0,5 inci)."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Acacia seyal § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Acacia_seyal#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 161283522,
+        "heading": "Toxicidad",
+        "text": "Las especies del género Acacia pueden contener derivados de la dimetiltriptamina y glucósidos cianogénicos en las hojas, las semillas y la corteza, cuya ingestión puede suponer un riesgo para la salud.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -59,7 +116,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +156,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77089276-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -107,7 +164,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77089276-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001284777.webp",
@@ -120,6 +177,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

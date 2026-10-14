@@ -11,12 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "矢毒麒麟"
-    ],
     "af": [
       "Gifboom"
     ],
@@ -28,24 +25,60 @@
     ],
     "arz": [
       "فربيون نفاذ الرائحه"
+    ],
+    "zh": [
+      "矢毒麒麟"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q385947",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q385947",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Euphorbia virosa」",
+      "source": "Wikipedia (en): Euphorbia virosa",
       "source_url": "https://en.wikipedia.org/wiki/Euphorbia_virosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1303658053,
       "text": "Euphorbia virosa, the Gifboom or poison tree, is a plant of the spurge family Euphorbiaceae. It has a short main stem, usually twisted, from which 5–10 cm branches emerge. These leafless branches have 5 to 8 edges. Paired thorns grow in regularly spaced intervals from the edges."
+    },
+    "es": {
+      "source": "Wikipedia (es): Euphorbia virosa",
+      "source_url": "https://es.wikipedia.org/wiki/Euphorbia_virosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174451044,
+      "text": "Euphorbia virosa es una especie de planta suculenta de la familia de las euforbiáceas. Es endémica de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Euphorbia virosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Euphorbia_virosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 214178099,
+      "text": "Euphorbia virosa, connue aussi sous son nom d'Euphorbe vireuse, est une espèce de plantes à fleurs de la famille des Euphorbiaceae formant des buissons larges, denses et vigoureux. Cette euphorbe originaire d'Afrique est une plante succulente qui ressemble à un cactus colonnaire, par convergence évolutive, pour survivre dans des zones arides."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Euphorbia virosa § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Euphorbia_virosa#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174451044,
+        "heading": "Toxicidad",
+        "text": "La planta contiene dentro de las ramas una sustancia lechosa y cremosa con propiedades cancerígenas. Esta sustancia es muy tóxica y es utilizada por los bosquimanos para mojar la punta de sus flechas de caza. El contacto causa irritación de la piel, y si los ojos se ven afectados, puede ocasionar ceguera.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -56,7 +89,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -68,7 +101,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/348713-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent shrub or tree",
@@ -76,7 +109,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/348713-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000965374.webp",
@@ -89,6 +122,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

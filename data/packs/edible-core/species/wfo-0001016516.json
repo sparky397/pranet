@@ -21,65 +21,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "de": [
-      "Pontische Lorbeer-Kirsche",
-      "Lorbeerkirsche"
-    ],
-    "ca": [
-      "Llorer-cirer"
-    ],
-    "cs": [
-      "bobkovišeň lékařská"
-    ],
-    "da": [
-      "Laurbær-Kirsebær"
-    ],
-    "fi": [
-      "Laakerikirsikka"
-    ],
     "fr": [
       "Laurier-cerise"
     ],
-    "ka": [
-      "წყავი"
-    ],
-    "nl": [
-      "gewone laurierkers",
-      "Laurierkers"
+    "eu": [
+      "Gerezi-erramu"
     ],
     "pl": [
       "Laurowiśnia wschodnia"
-    ],
-    "ru": [
-      "Лавровишня"
-    ],
-    "tr": [
-      "Karayemiş"
-    ],
-    "uk": [
-      "Лавровишня"
-    ],
-    "zh": [
-      "桂樱"
-    ],
-    "it": [
-      "Lauroceraso"
-    ],
-    "en": [
-      "Cherry-laurel",
-      "cherry laurel"
-    ],
-    "ast": [
-      "llorera"
-    ],
-    "sl": [
-      "lovorikovec"
-    ],
-    "eu": [
-      "Gerezi-erramu"
     ],
     "ab": [
       "Ашымҳара"
@@ -87,11 +39,35 @@
     "gl": [
       "Loureiro real"
     ],
+    "de": [
+      "Lorbeerkirsche",
+      "Pontische Lorbeer-Kirsche"
+    ],
     "hsb": [
       "Bobkowišeń"
     ],
     "sv": [
       "Lagerhägg"
+    ],
+    "nl": [
+      "Laurierkers",
+      "gewone laurierkers"
+    ],
+    "ru": [
+      "Лавровишня"
+    ],
+    "en": [
+      "cherry laurel",
+      "Cherry-laurel"
+    ],
+    "tr": [
+      "Karayemiş"
+    ],
+    "ca": [
+      "llorer-cirer"
+    ],
+    "uk": [
+      "Лавровишня"
     ],
     "io": [
       "Cerizolauro"
@@ -102,14 +78,29 @@
     "fa": [
       "پرونوس لاروسراسوس"
     ],
+    "ka": [
+      "წყავი"
+    ],
     "hr": [
       "Lovorvišnja"
+    ],
+    "da": [
+      "Laurbær-Kirsebær"
+    ],
+    "zh": [
+      "桂樱"
     ],
     "nb": [
       "Laurbærhegg"
     ],
+    "fi": [
+      "laakerikirsikka"
+    ],
     "sr": [
       "Зеленичје"
+    ],
+    "cs": [
+      "bobkovišeň lékařská"
     ],
     "cy": [
       "Coeden lawrgeirios"
@@ -147,15 +138,24 @@
     "frr": [
       "Loorbeikäärs"
     ],
+    "sl": [
+      "lovorikovec"
+    ],
     "cv": [
       "Лаврла сиплĕ чие"
+    ],
+    "it": [
+      "Lauroceraso"
+    ],
+    "ast": [
+      "llorera"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q157508",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q157508",
   "search_names": {
@@ -169,23 +169,50 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Prunus laurocerasus」",
+      "source": "Wikipedia (en): Prunus laurocerasus",
       "source_url": "https://en.wikipedia.org/wiki/Prunus_laurocerasus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360822390,
       "text": "Prunus laurocerasus, also known as cherry laurel, common laurel and sometimes English laurel in North America, is an evergreen species of cherry (Prunus), native to regions bordering the Black Sea in southwestern Asia and southeastern Europe, from Albania and Bulgaria east through Turkey to the Caucasus Mountains and northern Iran."
+    },
+    "es": {
+      "source": "Wikipedia (es): Prunus laurocerasus",
+      "source_url": "https://es.wikipedia.org/wiki/Prunus_laurocerasus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173661246,
+      "text": "Prunus laurocerasus, lauroceraso o laurel cerezo es una especie de arbusto o árbol siempreverde del género Prunus originaria de la laurisilva y los ecosistemas que evolucionaron de la misma, de hasta 8 m de alto, perteneciente a la familia de las rosáceas. Es originaria de Asia Menor y se cultiva en zonas templadas de Europa como planta ornamental, desarrollándose generalmente como arbusto."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Laurier-cerise",
+      "source_url": "https://fr.wikipedia.org/wiki/Laurier-cerise",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236944061,
+      "text": "Le Laurier-cerise, parfois appelé laurier de Trébizonde, laurier-amande, laurier-palme ou laurelle, est une espèce de plantes à fleurs de la famille des Rosaceae. C'est un arbuste fréquemment planté en haies, appréciant les climats doux. Cette espèce est considérée comme envahissante en Europe occidentale et en Amérique du Nord."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Prunus laurocerasus",
+      "source_url": "https://pt.wikipedia.org/wiki/Prunus_laurocerasus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73078655,
+      "text": "Prunus laurocerasus é uma espécie de planta com flor pertencente à família Rosaceae, conhecida pelos nomes comuns de louro-cerejo ou louro-cerejeiro, com distribuição natural nas regiões do sudoeste da Ásia e sueste da Europa em torno do Mar Negro, ocorrendo num território que se estende da Albânia e Bulgária à Turquia, às Montanhas do Cáucaso e ao norte do Irão. A espécie é frequentemente incluída nos subgéneros Cerasus ou Laurocerasus A espécie é cultivada como planta ornamental nas regiões temperadas e frequentemente utilizada em topiária,existindo diversos cultivares com importância comercial."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Prunus laurocerasus」の節「Cultivation」",
+        "source": "Wikipedia (en): Prunus laurocerasus § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Prunus_laurocerasus#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1360822390,
         "heading": "Cultivation",
         "text": "Prunus laurocerasus is a widely cultivated ornamental plant, used for planting in gardens and parks in temperate regions worldwide. It is often used for hedges, as a screening plant, and as a massed landscape plant. Most cultivars are tough shrubs that can cope with difficult growing conditions, including shaded and dry conditions, and which respond well to pruning.\n\n■ Cultivars\nOver 40 cultivars have been selected, including\n\n'Aureovariegata', variegated, leaves with a yellow margin\n'Magnifolia', vigorous, with great leaves up to 30-cm wide and 11-cm broad\n'Otto Luyken' (named after Otto Luyken), half-dwarf, with small leaves 10-cm wide and 2–3-cm broad\n'Schipkaensis'\n'Zabeliana', selected for winter cold tolerance\nThe cultivar 'Otto Luyken' has gained the Royal Horticultural Society's Award of Garden Merit.",
@@ -194,11 +221,11 @@
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Prunus laurocerasus」の節「Toxicity」",
+        "source": "Wikipedia (en): Prunus laurocerasus § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Prunus_laurocerasus#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1360822390,
         "heading": "Toxicity",
         "text": "Leaves and seed may cause severe discomfort to humans if ingested. The seeds contained within the cherries are poisonous like the rest of the plant, containing cyanogenic glycosides and amygdalin. This chemical composition is what gives the smell of almonds when the leaves are crushed.  Laurel water, a distillation made from the plant, contains prussic acid (hydrogen cyanide) and other compounds and is toxic.",
@@ -218,7 +245,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -269,7 +296,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/324745-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -277,7 +304,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/324745-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001016516.webp",
@@ -290,6 +317,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

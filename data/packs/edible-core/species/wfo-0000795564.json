@@ -10,13 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "African jointfir",
-      "Eru"
-    ],
     "ln": [
       "Mfúmbwa"
     ],
@@ -31,13 +27,17 @@
     ],
     "zh": [
       "非洲买麻藤"
+    ],
+    "en": [
+      "African jointfir",
+      "Eru"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5574228",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5574228",
   "search_names": {
@@ -49,23 +49,41 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Gnetum africanum」",
+      "source": "Wikipedia (en): Gnetum africanum",
       "source_url": "https://en.wikipedia.org/wiki/Gnetum_africanum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1365147038,
       "text": "Gnetum africanum is a species of vine native to tropical Africa. Though bearing leaves, the genus Gnetum are gymnosperms, related to pine and other conifers."
+    },
+    "es": {
+      "source": "Wikipedia (es): Gnetum africanum",
+      "source_url": "https://es.wikipedia.org/wiki/Gnetum_africanum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173911577,
+      "text": "Gnetum africanum es una especie de gimnospermas, de la familia Gnetaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Gnetum africanum",
+      "source_url": "https://fr.wikipedia.org/wiki/Gnetum_africanum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239959305,
+      "text": "Gnetum africanum est une espèce de plante de la forêt tropicale du bassin du Congo, du genre Gnetum. La plante est également connue sous le nom de nkumu au Gabon, les noms d'ikok, okok ou eru dans la gastronomie camerounaise, de fumbua dans la cuisine congolaise, de koko dans la gastronomie centrafricaine ou encore afang dans la cuisine nigériane."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Gnetum africanum」の節「Cultivation」",
+        "source": "Wikipedia (en): Gnetum africanum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Gnetum_africanum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1365147038,
         "heading": "Cultivation",
         "text": "Since Gnetum africanum grows best in shaded areas it could be used as a complementary crop on tree farms. Specifically, it has been suggested that the vine could be used as a complementary crop for rubber and oil trees. However, the necessity for shaded, but not excessively moist, conditions may make it difficult for poor farmers to grow Gnetum africanum if they lack access to suitable lands. However, since Gnetum africanum grows via rhizomes it is not labour-intensive, therefore allowing farmers to focus physical capital elsewhere.\nSustainable cultivation practices, such as harvesting the leaves regularly rather than uprooting the whole vine, allows for a more viable supplementary income throughout the year. The FAO has found that the vine is easier to reproduce by cuttings than by growing from seeds.\nThe Centre for International Forestry Research (CIFOR) has been working with women to create sustainable cultivation practices of Gnetum africanum, as well as forest restoration techniques. Specifically, near Lekie, Cameroon, CIFOR has been helping the women remove an invasive plant species (kodengui), and replacing it with Gnetum africanum, in order to discourage regrowth of the invasive species and utilize the area for a more sustainable resource.",
@@ -84,7 +102,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -99,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/383499-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climber",
@@ -107,7 +125,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/383499-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000795564.webp",
@@ -120,6 +138,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 294,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

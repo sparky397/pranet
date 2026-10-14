@@ -16,7 +16,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -26,42 +26,6 @@
       "Heidelbeere",
       "Blaubeere, Heidelbeere"
     ],
-    "es": [
-      "arándano"
-    ],
-    "en": [
-      "whortleberry",
-      "bilberry"
-    ],
-    "nl": [
-      "Blauwe bosbes"
-    ],
-    "cs": [
-      "brusnice borůvka"
-    ],
-    "fr": [
-      "myrtille commune",
-      "myrtille"
-    ],
-    "fi": [
-      "kangasmustikka",
-      "mustikka"
-    ],
-    "nb": [
-      "Blåbær"
-    ],
-    "zh": [
-      "黑果越桔",
-      "米饭花果",
-      "黑果越橘"
-    ],
-    "ast": [
-      "Arandanera"
-    ],
-    "sl": [
-      "borovnica",
-      "črnica"
-    ],
     "hu": [
       "fekete áfonya"
     ],
@@ -70,6 +34,11 @@
     ],
     "eo": [
       "Mirtelo"
+    ],
+    "zh": [
+      "黑果越橘",
+      "黑果越桔",
+      "米饭花果"
     ],
     "io": [
       "Mirtelo"
@@ -88,6 +57,9 @@
     ],
     "ga": [
       "fraochán"
+    ],
+    "cs": [
+      "brusnice borůvka"
     ],
     "et": [
       "harilik mustikas"
@@ -137,6 +109,10 @@
     "be": [
       "чарніцы"
     ],
+    "fr": [
+      "myrtille",
+      "myrtille commune"
+    ],
     "bg": [
       "черна боровинка"
     ],
@@ -151,6 +127,10 @@
     ],
     "bs": [
       "Borovnica"
+    ],
+    "fi": [
+      "mustikka",
+      "kangasmustikka"
     ],
     "pcd": [
       "Grinbéle"
@@ -179,6 +159,10 @@
     "kv": [
       "Чӧд"
     ],
+    "sl": [
+      "borovnica",
+      "črnica"
+    ],
     "krc": [
       "Къара шкилди"
     ],
@@ -187,6 +171,9 @@
     ],
     "se": [
       "sarri"
+    ],
+    "nb": [
+      "blåbær"
     ],
     "bo": [
       "རྩི་ཤིང་རིགས་ཤིག"
@@ -268,13 +255,26 @@
     ],
     "sms": [
       "sââʹrr"
+    ],
+    "es": [
+      "arándano"
+    ],
+    "en": [
+      "whortleberry",
+      "bilberry"
+    ],
+    "nl": [
+      "Blauwe bosbes"
+    ],
+    "ast": [
+      "Arandanera"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5413585",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5413585",
   "search_names": {
@@ -296,36 +296,76 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「セイヨウスノキ」",
+      "source": "Wikipedia (ja): セイヨウスノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%82%B9%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110020370,
       "text": "セイヨウスノキ は、青色の食用果実を付ける低木の一種の一つである。一般的にビルベリー、ハイデルベリー、ワートルベリーと呼ばれる。ブルーベリー と多くの共通点を持つ。その他のスノキ属の近縁種と区別するために、英語ではCommon BilberryあるいはBlue Whortleberryとも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vaccinium myrtillus」",
+      "source": "Wikipedia (en): Vaccinium myrtillus",
       "source_url": "https://en.wikipedia.org/wiki/Vaccinium_myrtillus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1377480885,
       "text": "Vaccinium myrtillus is a holarctic species of shrub with edible fruit of blue color, known by the common names bilberry, blaeberry, and whortleberry. It is more precisely called common bilberry or blue whortleberry to distinguish it from other Vaccinium relatives."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vaccinium myrtillus",
+      "source_url": "https://es.wikipedia.org/wiki/Vaccinium_myrtillus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174285725,
+      "text": "Vaccinium myrtillus, llamado comúnmente arándano silvestre europeo o mirtilo, es una planta de la familia de las Ericáceas que da unas pequeñas bayas comestibles."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vaccinium myrtillus",
+      "source_url": "https://fr.wikipedia.org/wiki/Vaccinium_myrtillus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227624904,
+      "text": "La Myrtille (Vaccinium myrtillus) est une espèce de sous-arbrisseaux de la famille des Éricacées qui produit des fruits également appelés myrtilles, appartenant au groupe des airelles."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vaccinium myrtillus",
+      "source_url": "https://pt.wikipedia.org/wiki/Vaccinium_myrtillus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71226668,
+      "text": "O Vaccinium myrtillus, comummente conhecido como mirtilo, é uma espécie de planta arbustiva, pertencente à família das Ericáceas, e ao tipo fisionómico dos fanerófitos."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Vaccinium myrtillus」の節「Toxicity」",
+        "source": "Wikipedia (en): Vaccinium myrtillus § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Vaccinium_myrtillus#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1377480885,
         "heading": "Toxicity",
         "text": "Consuming the leaves may be unsafe.",
         "truncated": false
+      }
+    },
+    "cultivation": {
+      "pt": {
+        "source": "Wikipedia (pt): Vaccinium myrtillus § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Vaccinium_myrtillus#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71226668,
+        "heading": "Cultivo",
+        "text": "■ No Brasil\nA Embrapa introduziu o mirtilo no sul do Brasil em 1983, trata-se de algumas variedades cultivadas na Europa em regiões nas quais o inverno é bastante rigoroso, daí a dificuldade em cultivá-las no país, apenas conseguido de forma satisfatória no sul do Brasil, nas serras de nordeste do estado do Rio Grande do Sul e em cidades planálticas, visto que o planalto catarinense ou meridional se encontra na zona subtropical e a uma altitude média de 1000m. Cidades catarinenses como São Joaquim, Bom Jardim da Serra, Urupema e Itá (Fazenda NiceBerry), já estão introduzindo o fruto com sucesso, pois as temperaturas anuais destes logradouros encontram-se entre as mais baixas de todo o Brasil, com média de 11 °C a 13 °C anuais. No estado do Rio Grande do Sul, estas estão sendo inseridas, nas cidades mais altas das serras de nordeste do estado, e em cidades com altitudes entre 900 a 1200 m, tais como: São José dos Ausentes, Bom Jesus, Vacaria, Cambará do Sul, Jaquirana e São Francisco de Paula, visto, que apesar de serem altas e frias o ano inteiro, também possuem solo muito fértil e uma boa distribuição de chuva durante o ano todo.\n\n■ Em Portugal\n\nEm Portugal cresce espontaneamente no Norte do país — Minho, Trás-os-Montes e na Serra da Estrela.\nO concelho de Sever do Vouga introduziu, por acção de um estudo de uma fundação holandesa, a variante americana desta planta em 1986 quando não existia em Portugal nenhuma plantação com fins agrícolas desta espécie, sendo na época a colheita de plantas silvestres delimitada às regiões do Gerês e Montalegre. \nEm 2012 segundo a ANPM, a cultura do mirtilo encontrava-se já bastante difundida em todo o território nacional, a sua exploração com fins comerciais tendo crescido 700%.",
+        "truncated": true
       }
     }
   },
@@ -342,7 +382,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -413,7 +453,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30006039-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "subshrub",
@@ -421,7 +461,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30006039-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000422209.webp",
@@ -434,6 +474,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 285,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -22,17 +22,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "skirret"
+    "fr": [
+      "Chervis"
+    ],
+    "id": [
+      "Akar gula"
     ],
     "fa": [
       "پلم"
-    ],
-    "fr": [
-      "Chervis"
     ],
     "de": [
       "Zuckerwurzel"
@@ -76,42 +76,91 @@
     "mk": [
       "слаткокоренов ренок"
     ],
-    "id": [
-      "Akar gula"
-    ],
     "cs": [
       "sevlák zeleninový"
+    ],
+    "en": [
+      "skirret"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q228122",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q228122",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sium sisarum」",
+      "source": "Wikipedia (en): Sium sisarum",
       "source_url": "https://en.wikipedia.org/wiki/Sium_sisarum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1340822640,
       "text": "Sium sisarum, commonly known as skirret, is a perennial plant of the family Apiaceae in the same family as carrots and parsnip. Skirret is grown as a root vegetable. The English name skirret is derived from the Middle English 'skirwhit' or 'skirwort', meaning 'white root'. In Scots it is known as crummock and in Irish as sciréad. Its Danish name sukkerrod, Dutch name suikerwortel and German name \"Zuckerwurzel\" translate as 'sugar root'."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sium sisarum",
+      "source_url": "https://es.wikipedia.org/wiki/Sium_sisarum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171583103,
+      "text": "La escaravía, también llamada chirivía de azúcar, escaravía tudesca, sisaro o skirret, es una planta de la familia de las apiáceas. Su raíz es comestible aunque en la actualidad se cultiva raramente."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Chervis",
+      "source_url": "https://fr.wikipedia.org/wiki/Chervis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236027753,
+      "text": "Le chervis est une espèce de plantes à fleurs de la famille des Apiacées. C'est une plante herbacée vivace origiaire d'Eurasie, autrefois cultivée comme légume pour ses racines comestibles."
+    },
+    "id": {
+      "source": "Wikipedia (id): Akar gula",
+      "source_url": "https://id.wikipedia.org/wiki/Akar_gula",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29729704,
+      "text": "Sium sisarum, umumnya dikenal sebagai akar gula adalah tanaman tahunan dari keluarga Apiaceae yang terkadang ditanam sebagai sayuran akar. Nama Inggris skirret berasal dari bahasa Inggris Pertengahan 'skirwhit' atau 'skirwort', yang berarti 'akar putih'. Di Skotlandia dikenal sebagai crummock dan di Irlandia cearrachán. Nama Denmark-nya sukkerrod, nama Belanda suikerwortel dan nama Jerman \"Zuckerwurzel\" diterjemahkan sebagai 'akar gula'."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Sium sisarum」の節「Cultivation」",
+        "source": "Wikipedia (en): Sium sisarum § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Sium_sisarum#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1340822640,
         "heading": "Cultivation",
         "text": "Skirret grows about 1 m (40 in) high and is very resistant to cold, as well as pests and diseases. It can be grown from seeds, but may also be started from root divisions. The roots are best eaten when the plant is dormant during the winter, as in the spring, the roots become woody and covered with small hairs. Lack of moisture can also make the root more fibrous. The plant prefers sandy and moist soil.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Chervis § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Chervis#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236027753,
+        "heading": "Culture",
+        "text": "La plante nécessite un sol frais, profond et bien ameubli.\nLa multiplication se fait par semis de préférence à l'automne (septembre-octobre), ou par division d'anciennes souches au printemps (mars-avril).\nLa récolte intervient de 6 à 7 mois après la plantation, à partir d'octobre, et peut s'étaler durant l'hiver, selon les besoins, jusqu'en mars.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Akar gula § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Akar_gula#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29729704,
+        "heading": "Penanaman",
+        "text": "Akar gula tumbuh sekitar 1 m (40 in) tinggi dan sangat tahan terhadap dingin, serta hama dan penyakit. Tanaman ini bisa ditanam dari biji, tetapi bisa juga dimulai dari pembelahan akar. Akarnya paling baik dimakan saat tanaman tidak aktif selama musim dingin. Karena di musim semi, akarnya menjadi berkayu dan ditutupi rambut-rambut kecil. Kurangnya kelembapan juga bisa membuat akar lebih berserat. Tanaman ini lebih menyukai tanah berpasir dan lembap.",
         "truncated": false
       }
     }
@@ -125,7 +174,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -164,7 +213,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/849059-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tuberous geophyte or helophyte",
@@ -172,7 +221,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/849059-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000431519.webp",
@@ -185,6 +234,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

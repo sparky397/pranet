@@ -17,22 +17,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ギュウシンリ"
     ],
-    "en": [
-      "custard apple"
-    ],
-    "zh": [
-      "牛心梨",
-      "牛心番荔枝",
-      "牛心果"
-    ],
-    "ms": [
-      "nona kapri"
+    "id": [
+      "Mulwa"
     ],
     "pl": [
       "flaszowiec siatkowaty"
@@ -94,6 +86,11 @@
     "pa": [
       "ਸੀਤਾਫਲ"
     ],
+    "zh": [
+      "牛心番荔枝",
+      "牛心梨",
+      "牛心果"
+    ],
     "ga": [
       "úll custaird"
     ],
@@ -130,6 +127,9 @@
     "ty": [
       "Tapotapo hutu pua’atoro"
     ],
+    "ms": [
+      "nona kapri"
+    ],
     "arz": [
       "القشطة الهندى"
     ],
@@ -142,9 +142,6 @@
     "bcl": [
       "Anonas"
     ],
-    "id": [
-      "Mulwa"
-    ],
     "bn": [
       "নোনা"
     ],
@@ -153,13 +150,16 @@
     ],
     "shn": [
       "မၢၵ်ႇဢေႃႇလႄး"
+    ],
+    "en": [
+      "custard apple"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q472653",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q472653",
   "search_names": {
@@ -177,35 +177,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ギュウシンリ」",
+      "source": "Wikipedia (ja): ギュウシンリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A5%E3%82%A6%E3%82%B7%E3%83%B3%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109234082,
       "text": "ギュウシンリ は、バンレイシ科バンレイシ属の植物の1種である。中南米原産とされるが、果実が食用とされ、世界中の熱帯域で栽培されている。ギュウシンリ（牛心梨）や英名の bullock's heart、ox-heart の名は、熟した果実が赤褐色で心臓形であることに由来する（図1）。カスタードアップル とも呼ばれるが、チェリモヤやバンレイシなどバンレイシ属の別種もカスタードアップルと呼ばれることがある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Annona reticulata」",
+      "source": "Wikipedia (en): Annona reticulata",
       "source_url": "https://en.wikipedia.org/wiki/Annona_reticulata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375787806,
       "text": "Annona reticulata is a small deciduous or semi-evergreen tree in the plant family Annonaceae. It is best known for its fruit, called custard apple, a common name shared with fruits of several other species in the same genus: A. cherimola and A. squamosa. Other English common names include ox heart and bullock's heart. The fruit is sweet and useful in preparation of desserts, but is generally less popular for eating than that of A. cherimola."
+    },
+    "es": {
+      "source": "Wikipedia (es): Annona reticulata",
+      "source_url": "https://es.wikipedia.org/wiki/Annona_reticulata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173240112,
+      "text": "La chirimoya o anona, es una especie que pertenece a la familia Annonaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Annona reticulata",
+      "source_url": "https://fr.wikipedia.org/wiki/Annona_reticulata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 216467330,
+      "text": "Annona reticulata est une espèce de plantes à fleurs du genre Annona, originaire d'Amérique tropicale. Ce petit arbre fruitier est appelé en français cachiman, corossolier réticulé ou encore anone cœur de bœuf et cœur de bœuf tout court."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Annona reticulata",
+      "source_url": "https://pt.wikipedia.org/wiki/Annona_reticulata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70205613,
+      "text": "O coração-de-boi, também conhecido como ata, condessa, jacama, fruta-do-conde, miloló, pinha, araticum, araticum-de-cheiro e fruta-da-condessa, é uma espécie da família Annonaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Mulwa",
+      "source_url": "https://id.wikipedia.org/wiki/Mulwa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30007975,
+      "text": "Annona reticulata adalah pohon kecil gugur atau semi-hijau dalam famili tumbuhan Annonaceae. Ia terkenal karena buahnya yang manis dan mirip dengan srikaya, untuk membedakannya dengan srikaya, tanaman ini dapat disebut buah nona ataupun buah mulwa."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Annona reticulata」の節「Cultivation」",
+        "source": "Wikipedia (en): Annona reticulata § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Annona_reticulata#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375787806,
         "heading": "Cultivation",
         "text": "Seeds can be propagated. Other techniques for cultivation are grafting and budding. The tree produces 45 kg of fruits per year. In Asia, the season lasts from July to September, and in the Caribbean, it runs from February to April. Annona reticulata can take 2-3 years from planting time to harvest.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Mulwa § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Mulwa#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 30007975,
+        "heading": "Penanaman",
+        "text": "Benih dapat diperbanyak. Teknik budidaya lainnya adalah sambung tunas dan okulasi. Pohon itu menghasilkan 45 kg buah per tahun. Di Asia, musim berlangsung dari Juli hingga September, dan di Karibia, berlangsung dari Februari hingga April. Tanaman tersebut memerlukan waktu 2-3 tahun dari penanaman sampai panen pertama.",
         "truncated": false
       }
     }
@@ -223,7 +270,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -298,7 +345,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/72295-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -306,7 +353,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/72295-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000537905.webp",
@@ -319,6 +366,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 265,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

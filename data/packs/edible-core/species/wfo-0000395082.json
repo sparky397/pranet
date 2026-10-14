@@ -8,14 +8,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "ru": [
-      "Платония"
-    ],
     "pt": [
       "Bacurizeiro"
+    ],
+    "ru": [
+      "Платония"
     ],
     "he": [
       "בקורי"
@@ -40,18 +40,45 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15371504",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15371504",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Platonia」",
+      "source": "Wikipedia (en): Platonia",
       "source_url": "https://en.wikipedia.org/wiki/Platonia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1354822366,
       "text": "Platonia insignis is a species of tree of the family Clusiaceae, and the sole species of genus Platonia. It is native the Amazon rainforest in tropical South America, ranging through northern and northeastern Brazil, southeastern Colombia, southern Venezuela, and the Guianas. Common names include bacuri, maniballi, naranjillo and bacurizeiro."
+    },
+    "es": {
+      "source": "Wikipedia (es): Platonia insignis",
+      "source_url": "https://es.wikipedia.org/wiki/Platonia_insignis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166213394,
+      "text": "Platonia insignis es la única especie del género monotípico Platonia, que a su vez, es el único género de la tribu \tPlatonieae de la subfamilia Clusioideae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Platonia insignis",
+      "source_url": "https://fr.wikipedia.org/wiki/Platonia_insignis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237058343,
+      "text": "Platonia insignis, appelé parcouri en Guyane, est une espèce de plantes à fleurs de la famille des Clusiaceae. C'est un arbre tropical qui se développe dans les forêts primaires en terrains sains. C'est une essence de demi-lumière à régénération abondante, son aire géographique s'étend des Guyanes au Brésil, dans tout le bassin amazonien."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Bacurizeiro",
+      "source_url": "https://pt.wikipedia.org/wiki/Bacurizeiro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71081294,
+      "text": "Platonia insignis, conhecido popularmente como bacurizeiro, bacuri, ibacurupari e mucuri, é uma grande árvore da família das clusiáceas. É nativa da região das Guianas, do Brasil, Paraguai e partes da Colômbia. Seu fruto recebe o nome de bacuri, mas também é conhecido como landirana, bacury, bakuri, pacuri, pakuri, pakouri, packoeri, pakoeri, maniballi e naranjillo."
     }
   },
   "edible": {
@@ -65,7 +92,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -81,7 +108,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/326389-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -89,7 +116,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/326389-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000395082.webp",
@@ -102,6 +129,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

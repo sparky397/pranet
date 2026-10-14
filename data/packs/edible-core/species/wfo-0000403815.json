@@ -29,21 +29,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "シログワイ"
     ],
-    "en": [
-      "Chinese water chestnut"
+    "fr": [
+      "Châtaigne d'eau chinoise"
     ],
-    "zh": [
-      "荸荠",
-      "通天草"
-    ],
-    "mk": [
-      "воден костен"
+    "id": [
+      "Purun tikus"
     ],
     "hi": [
       "चीनी सिंघाड़ा"
@@ -54,9 +50,6 @@
     "ru": [
       "Болотница сладкая"
     ],
-    "fr": [
-      "Châtaigne d'eau chinoise"
-    ],
     "th": [
       "แห้วทรงกระเทียม"
     ],
@@ -65,9 +58,6 @@
     ],
     "to": [
       "Kuta"
-    ],
-    "id": [
-      "Purun tikus"
     ],
     "de": [
       "Wasserkastanie"
@@ -101,6 +91,10 @@
     ],
     "el": [
       "Κινέζικο νεροκάστανο"
+    ],
+    "zh": [
+      "荸荠",
+      "通天草"
     ],
     "cdo": [
       "莓薺"
@@ -153,6 +147,9 @@
     "pam": [
       "Apulid"
     ],
+    "mk": [
+      "воден костен"
+    ],
     "bn": [
       "এলিওচারিস ডুলসিস"
     ],
@@ -176,13 +173,16 @@
     ],
     "shn": [
       "မၢၵ်ႇႁဵဝ်ႈ"
+    ],
+    "en": [
+      "Chinese water chestnut"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q932664",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q932664",
   "search_names": {
@@ -192,36 +192,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シログワイ」",
+      "source": "Wikipedia (ja): シログワイ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%82%B0%E3%83%AF%E3%82%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106364016,
       "text": "シログワイ は、カヤツリグサ科の植物。根茎には、レンコンに似た食感と味がある。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Eleocharis dulcis」",
+      "source": "Wikipedia (en): Eleocharis dulcis",
       "source_url": "https://en.wikipedia.org/wiki/Eleocharis_dulcis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369182994,
       "text": "Eleocharis dulcis, the Chinese water chestnut or water chestnut, is a grass-like sedge native to Asia, tropical Africa, and Oceania. It is grown in many countries for its edible corms, but if eaten uncooked, the surface of the plants may transmit fasciolopsiasis."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eleocharis dulcis",
+      "source_url": "https://es.wikipedia.org/wiki/Eleocharis_dulcis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 168633945,
+      "text": "La castaña de agua china, apulid en el español filipino, o simplemente castaña de agua es una planta de la familia Cyperaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Châtaigne d'eau chinoise",
+      "source_url": "https://fr.wikipedia.org/wiki/Ch%C3%A2taigne_d'eau_chinoise",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 223442625,
+      "text": "La châtaigne d'eau ou châtaigne d'eau chinoise est une plante aquatique qui appartient à la famille des Carex. Elle tient son nom vernaculaire de la ressemblance de son bulbe avec le fruit du châtaignier. En revanche, elle ne doit pas être confondue avec deux autres plantes aquatiques comestibles de la famille des Trapaceae, également désignées comme châtaignes d'eau  : la mâcre nageante et la mâcre bicorne."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eleocharis dulcis",
+      "source_url": "https://pt.wikipedia.org/wiki/Eleocharis_dulcis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66336764,
+      "text": "Eleocharis dulcis é uma espécie de plantas com flor pertencente ao género Eleocharis da família Cyperaceae, com habitat em pântanos e zonas húmidas do leste da Eurásia. A espécie é cultivada em algumas regiões pelos seus cormo conhecidos como castanhas-de-água, ricos em amidos, consumidos em natureza ou usados para produzir farinhas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Purun tikus",
+      "source_url": "https://id.wikipedia.org/wiki/Purun_tikus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29555612,
+      "text": "Purun tikus atau juga biasa disebut tikè atau cikè, sengkuang cina, dan lo'-colo'an (Mdr.) adalah sejenis rumput rawa dari famili Cyperaceae yang biasa dimakan umbinya. Tumbuhan ini berasal dari Asia, Australia, Afrika tropis, dan berbagai pulau di Pasifik dan Samudra Hindia."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Eleocharis dulcis」の節「Cultivation」",
+        "source": "Wikipedia (en): Eleocharis dulcis § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Eleocharis_dulcis#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1369182994,
         "heading": "Cultivation",
         "text": "The crop can be cultivated in paddies, 2–7.5 m (7–25 ft) wide by up to 100 m (330 ft) long to allow for mechanization, or in a hydroponic culture. As it is an aquatic plant, it should always be submerged in approximately 10 cm (4 in) of water. The crop needs continuously high soil temperatures, ideally 14–15.5 °C (57–60 °F). At 13.6 °C (56.5 °F), the corms begin to sprout. Soil is ideally a sandy loam with pH 6.5 to 7.2. The plant produces two types of subterranean rhizomes. Under long-daylength conditions, rhizomes grow horizontally and then turn upwards forming daughter plants. Under short-daylength conditions, the rhizomes grow downward and produce a corm at the tip. The photoperiod also significantly influences how fast the corms grow. Corms begin to develop much more slowly if the photoperiod exceeds 12 hours. The corms are also the propagating material. Alternatively, transplants can be used. Machinery, such as tractor-mounted vegetable planters, can be used for plantation.\n\n■ Plant nutrition\nNitrogen addition is beneficial for corm production, applying a dose before planting and another dose when corms begin to enlarge. To further improve nutrient levels, potassium and phosphorus mineral fertilizers can be used before planting, where the N:P:K uptake ratio is 1:0.5:1.75. Also organic mulch, especially mushroom compost, shows good results.\n\n■ Harvest\nOnce the corms turn dark brown, they should be harvested. If left in the soil after this point in time, corms will get sweeter, however shelf life will decline. The corms can be harvested using a modified gladiolus corm harvester once the paddy is drained. Alternatively, a \"water-suction harvester\" can be used without the need to drain the paddy.",
         "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Châtaigne d'eau chinoise § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Ch%C3%A2taigne_d'eau_chinoise#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 223442625,
+        "heading": "Culture",
+        "text": "Cette plante aquatique est essentiellement cultivée dans les eaux stagnantes en Thaïlande, en Chine du Sud, à Taïwan, au Japon, aux Philippines et en Inde. La culture en dehors de ces zones se révèle extrêmement délicate, car la châtaigne d'eau a besoin d'une photopériode bien précise, qui n'existe qu'à proximité de l'équateur. Autrement les rendements chutent à un niveau tel qu'ils disqualifient cette culture à une fin alimentaire. La châtaigne d'eau est aussi cultivée au sud-est et au sud-ouest de l'Australie, où elle est disponible comme produit frais de juin à novembre. En dehors de cette période, on la trouve congelée ou en conserve.\nLa production mondiale a connu un important recul au cours des années 90. Ainsi il s'en récoltait 1600 tonnes en 1984 au Japon, et plus que 1200 en 1992. À Taïwan ce chiffre est passé de 1200 en 1992 à 860 en 1995. En 1997, la production australienne était d'environ 20 tonnes.",
+        "truncated": false
       }
     }
   },
@@ -241,7 +288,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -314,7 +361,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306797-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or tuberous geophyte",
@@ -322,7 +369,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/306797-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000403815.webp",
@@ -335,6 +382,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

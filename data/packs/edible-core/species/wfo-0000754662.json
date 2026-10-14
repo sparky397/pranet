@@ -10,20 +10,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "smallflower century plant"
-    ],
     "fi": [
-      "Sonoranagaave"
-    ],
-    "zh": [
-      "小花龙舌兰"
-    ],
-    "sl": [
-      "drobnocvetna agava"
+      "sonoranagaave"
     ],
     "bg": [
       "дребноцветно агаве"
@@ -34,36 +25,54 @@
     "cs": [
       "agáve malokvětá"
     ],
+    "zh": [
+      "小花龙舌兰"
+    ],
     "arz": [
       "باهره صغيرة الازهار"
+    ],
+    "sl": [
+      "drobnocvetna agava"
+    ],
+    "en": [
+      "smallflower century plant"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q145789",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q145789",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Agave parviflora」",
+      "source": "Wikipedia (en): Agave parviflora",
       "source_url": "https://en.wikipedia.org/wiki/Agave_parviflora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1323544110,
       "text": "Agave parviflora is a species of succulent perennial flowering plant in the asparagus family, known by the common names Santa Cruz striped agave, smallflower century plant, and small-flower agave. It is native to Arizona in the United States and Sonora in Mexico."
+    },
+    "es": {
+      "source": "Wikipedia (es): Agave parviflora",
+      "source_url": "https://es.wikipedia.org/wiki/Agave_parviflora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172564813,
+      "text": "El amole es una especie de planta de floración perenne suculenta en la familia de espárrago, conocido por el nombre común agave de flor pequeña. Es nativo a Arizona en los Estados Unidos y Sonora en México. El epíteto específico parviflora significa \"flores pequeñas\". Este agave produce una roseta pequeña hasta 25 cm de alto por 20 cm de ancho. Las hojas suculentas miden hasta 20 cm de largo y son verde oscuro encerado con márgenes blancos. Los márgenes de hoja tienen fibras. La planta produce una inflorescencia 1-2 metros (3-7 pies) m de alto con flores amarillas pálidas o crema en verano. Las flores son polinizadas por abejas como abejorros. Esta especie es el agave más pequeño en Arizona y es buscado por coleccionistas. Por esta razón la especie ha declinado en su hábitat nativo. Hay sólo aproximadamente dos docenas de poblaciones naturales en Arizona. Otras amenazas a la especie incluyen construcción de carreteras y minería."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Agave parviflora」の節「Cultivation」",
+        "source": "Wikipedia (en): Agave parviflora § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Agave_parviflora#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1323544110,
         "heading": "Cultivation",
         "text": "This species is the smallest agave in Arizona and is sought by collectors. For this reason the species has declined in its native habitat. There are only about two dozen natural populations in Arizona. Other threats to the species include road construction and mining. However, because the population appears to be stable and it grows in several protected areas, it is not considered by the IUCN to be threatened.\nThe plant is valued in cultivation and has gained the Royal Horticultural Society's Award of Garden Merit.",
@@ -80,7 +89,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -91,7 +100,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30264325-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent perennial",
@@ -99,7 +108,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/30264325-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000754662.webp",
@@ -112,6 +121,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -46,7 +46,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -59,31 +59,12 @@
       "Spanish garlic",
       "cives"
     ],
-    "de": [
-      "Schnittlauch"
-    ],
-    "zh": [
-      "細香蔥",
-      "大蒜",
-      "北葱（香葱）",
-      "北葱",
-      "蝦夷蔥"
-    ],
-    "nl": [
-      "Bieslook"
-    ],
-    "cs": [
-      "pažitka pobřežní"
-    ],
     "fr": [
-      "ciboulette"
+      "Ciboulette commune",
+      "Ciboulette"
     ],
-    "fi": [
-      "ruoholaukka",
-      "ruohosipuli"
-    ],
-    "ast": [
-      "cebollín"
+    "id": [
+      "Lokio"
     ],
     "ru": [
       "Лук скорода"
@@ -106,11 +87,17 @@
     "bs": [
       "Vlasac"
     ],
+    "cs": [
+      "pažitka pobřežní"
+    ],
     "csb": [
       "Łëczk"
     ],
     "da": [
       "Purløg"
+    ],
+    "de": [
+      "Schnittlauch"
     ],
     "dsb": [
       "Cybulinka"
@@ -123,6 +110,10 @@
     ],
     "fa": [
       "پیاز کوهی"
+    ],
+    "fi": [
+      "ruohosipuli",
+      "ruoholaukka"
     ],
     "gv": [
       "Shoushan"
@@ -153,6 +144,9 @@
     ],
     "lt": [
       "Laiškinis česnakas"
+    ],
+    "nl": [
+      "bieslook"
     ],
     "nn": [
       "graslauk"
@@ -193,8 +187,12 @@
     "wa": [
       "Brele"
     ],
-    "id": [
-      "Lokio"
+    "zh": [
+      "蝦夷蔥",
+      "細香蔥",
+      "大蒜",
+      "北葱（香葱）",
+      "北葱"
     ],
     "nb": [
       "grasløk"
@@ -231,6 +229,9 @@
     ],
     "mk": [
       "власец"
+    ],
+    "ast": [
+      "Cebollín"
     ],
     "kk": [
       "Шалғын жуа"
@@ -285,7 +286,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q51148",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q51148",
   "search_names": {
@@ -296,46 +297,115 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「チャイブ」",
+      "source": "Wikipedia (ja): チャイブ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%A4%E3%83%96",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108539508,
       "text": "チャイブ は、ヒガンバナ科ネギ属の葉菜または根菜。フランス名はシブレット 、イタリア名はチポリーナ 、和名ではエゾネギ（蝦夷葱）、別名セイヨウアサツキ（西洋浅葱）ともよばれる。アサツキやネギの仲間のハーブで、デリケートな香りをもち、スープやサラダに使われる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Chives」",
+      "source": "Wikipedia (en): Chives",
       "source_url": "https://en.wikipedia.org/wiki/Chives",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368912750,
       "text": "Chives, scientific name Allium schoenoprasum, is a species of flowering plant in the family Amaryllidaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Allium schoenoprasum",
+      "source_url": "https://es.wikipedia.org/wiki/Allium_schoenoprasum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174773113,
+      "text": "Allium schoenoprasum, también conocido como cebollino, cebolla de hoja, cebolla china, ciboulette, chonacate, xonacatl, cebolleta, cebollina, cebollín o cebolla aromática, y kucháy, es una hierba de la familia de las aliáceas, de la que se utilizan solo las hojas picadas como hierba aromática. Su bulbo tiene un sabor muy similar al de la cebolla blanca o común pero es de menores dimensiones y no tiene uso alimenticio. Se diferencia de la cebolla de verdeo o china por ser de menor tamaño y su diferente uso culinario."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ciboulette commune",
+      "source_url": "https://fr.wikipedia.org/wiki/Ciboulette_commune",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236643950,
+      "text": "La Ciboulette commune, Ciboulette ou Civette, est une plante aromatique de la famille des Amaryllidacées, cultivée pour ses feuilles souvent utilisées comme condiment."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Allium schoenoprasum",
+      "source_url": "https://pt.wikipedia.org/wiki/Allium_schoenoprasum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72251574,
+      "text": "Allium schoenoprasum, conhecido popularmente como cebolinha, cebolinha-francesa ou cebolinho, em Portugal, é uma planta originária da Europa."
+    },
+    "id": {
+      "source": "Wikipedia (id): Lokio",
+      "source_url": "https://id.wikipedia.org/wiki/Lokio",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29297364,
+      "text": "Lokio, Lengkio, atau Bawang Batak adalah jenis tumbuhan yang biasa digunakan sebagai bahan makanan."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「チャイブ」の節「栽培」",
+        "source": "Wikipedia (ja): チャイブ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%A4%E3%83%96#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 108539508,
         "heading": "栽培",
         "text": "春に種をまき、初夏にかけて植え付け、盛夏から秋にかけて葉を収穫する。種はポットまきにして育苗する。本葉が3 - 4枚出てきたら、株間を30センチメートル (cm) ほどあけて定植する。植え付け後の2週間後に、軽く追肥を行い、株元に土寄せをする。葉を収穫するときは、草丈が20 cm以上に伸びたときに根元を少し残して切り取るようにする。収穫後もまた葉が伸びてくるので、一年で2、3回収穫できる。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Chives」の節「Cultivation」",
+        "source": "Wikipedia (en): Chives § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Chives#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1368912750,
         "heading": "Cultivation",
         "text": "Chives have been cultivated in Europe since the Middle Ages (from the fifth until the 15th centuries), although their usage dates back 5,000 years.\nChives are cultivated both for their culinary uses and for their ornamental value; the violet flowers are often used in ornamental dry bouquets.\nChives thrive in well-drained soil, rich in organic matter, with a pH of 6–7 and full sun. They can be grown from seed and mature in summer, or early the following spring. Typically, chives need to be germinated at a temperature of 15 to 20 °C (59 to 68 °F) and kept moist. They can also be planted under a cloche or germinated indoors in cooler climates, then planted out later. After at least four weeks, the young shoots should be ready to be planted out. They are also easily propagated by division.\nIn cold regions, chives die back to the underground bulbs in winter, with the new leaves appearing in early spring. Chives starting to look old can be cut back to about 2–5 cm. When harvesting, the needed number of stalks should be cut to the base. During the growing season, the plant continually regrows leaves, allowing for a continuous harvest.\nChives are susceptible to damage by leek moth larvae, which bore into the leaves or bulbs of the plant.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Allium schoenoprasum § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Allium_schoenoprasum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174773113,
+        "heading": "Cultivo",
+        "text": "El cebollino prefiere ubicaciones soleadas y suelos húmedos, ligeramente arcillosos. Crece desde el nivel del mar hasta los 2500 m s. n. m. Es resistente a las heladas, y resulta poco afectado por las pestes y predadores animales, a los que repele la alicina.\nPuede cultivarse a partir de semilla con facilidad, o por división del bulbo con las raíces después de su extracción. Se comercializan solo sus hojas a excepción de Panamá, norte de Argentina, Chile y Venezuela que, debido a la facilidad de producción, se consigue la planta completa. [cita requerida]",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Ciboulette commune § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Ciboulette_commune#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 236643950,
+        "heading": "Culture",
+        "text": "La multiplication est le plus souvent faite par division des touffes, au printemps ou à l'automne. En culture commerciale, on la multiplie plutôt par semis, en lignes espacées de 20 cm.\nOn la récolte trois à cinq mois après la plantation. Elle est commercialisée, en frais sous forme de botillons, ou après une préparation de type industriel : surgélation, lyophilisation ou déshydratation.\nElle est vivace, et peut être facilement plantée en pot, placée sur le rebord d'une fenêtre.\nIl est préférable de la couper fréquemment pour stimuler la pousse des feuilles, et de nettoyer fréquemment le plant de ses feuilles mortes.\nSa zone de rusticité se situe entre 4 et 8.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Allium schoenoprasum § Plantio",
+        "source_url": "https://pt.wikipedia.org/wiki/Allium_schoenoprasum#Plantio",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72251574,
+        "heading": "Plantio",
+        "text": "Recomenda-se dar um espaçamento por metro linear, plantando de 20×10 cm, aplicando entre 0,5 a 0,6  gramas de sementes por metro quadrado. O broto germina no prazo de seis a catorze dias, conforme o local e método de plantio.[carece de fontes]?\nO solo deve ter textura média e ser bem drenado, podendo ser plantado o ano todo. Atinge cerca de um metro de altura e pode ser colhida após um prazo médio de três a quatro meses, após a semeadura.[carece de fontes]?\nO plantio também poderá ser feito através de plantas adquiridas em mercado. Nesse caso, deve-se remover a touceira e as raízes, deixando as mudas em copos de 200 ml, trocando-se a água uma vez ao dia, por três dias. Posteriormente, deve-se plantá-las em vasos ou jardineiras.\nAs flores, ao brotarem, devem ser imediatamente retiradas para que as novas folhas possam rebentar.[carece de fontes]?\n\nA cebolinha é indicada para ser cultivada, principalmente, em plantios domésticos.[carece de fontes]?",
         "truncated": false
       }
     }
@@ -351,7 +421,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -467,7 +537,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/528823-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -475,7 +545,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/528823-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000757278.webp",
@@ -488,6 +558,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

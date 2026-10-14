@@ -21,29 +21,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "llwyn aeron tagu du"
-    ],
-    "cs": [
-      "temnoplodec černoplodý"
-    ],
-    "fi": [
-      "musta-aronia"
-    ],
-    "zh": [
-      "黑涩楠",
-      "黑苦味果",
-      "野櫻莓"
-    ],
-    "en": [
-      "Black Chokeberry"
-    ],
-    "sl": [
-      "črnoplodna aronija"
-    ],
     "sk": [
       "arónia čiernoplodá"
     ],
@@ -95,8 +75,14 @@
     "bg": [
       "черна арония"
     ],
+    "cy": [
+      "Llwyn aeron tagu du"
+    ],
     "kk": [
       "Қара жемісті итжүзім"
+    ],
+    "cs": [
+      "temnoplodec černoplodý"
     ],
     "et": [
       "tume aroonia"
@@ -125,35 +111,58 @@
     "sv": [
       "Svart aronia"
     ],
+    "fi": [
+      "musta-aronia"
+    ],
     "arz": [
       "ارونيا ميلانوكاربا"
     ],
     "tt": [
       "Кара миләш"
     ],
+    "zh": [
+      "野櫻莓",
+      "黑涩楠",
+      "黑苦味果"
+    ],
     "uz": [
       "Qora mevali aroniya"
     ],
     "sr": [
       "Црна аронија"
+    ],
+    "sl": [
+      "črnoplodna aronija"
+    ],
+    "en": [
+      "Black Chokeberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q162774",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q162774",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Aronia melanocarpa」",
+      "source": "Wikipedia (en): Aronia melanocarpa",
       "source_url": "https://en.wikipedia.org/wiki/Aronia_melanocarpa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1371619476,
       "text": "Aronia melanocarpa, called the black chokeberry, is a species of shrubs in the rose family native to eastern North America, ranging from Canada to the central United States, from Newfoundland west to Ontario and Minnesota, south as far as Arkansas, Alabama, and Georgia. This plant has been introduced and is cultivated in Europe."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Aronia melanocarpa",
+      "source_url": "https://fr.wikipedia.org/wiki/Aronia_melanocarpa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 219856385,
+      "text": "Aronia melanocarpa, l'Aronia noir ou Aronia à fruits noirs, est une espèce de plantes à fleurs de la famille des Rosacées indigène de l'Est de l'Amérique du Nord que l'on retrouve du Canada jusqu'au centre des États-Unis, de Terre-Neuve à l'Ontario et au Minnesota vers l'ouest, au sud jusqu'à l'Arkansas, l'Alabama et la Géorgie. Cette plante fut introduite et cultivée en Europe."
     }
   },
   "edible": {
@@ -166,7 +175,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -213,7 +222,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1109609-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -221,7 +230,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1109609-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001018304.webp",
@@ -234,6 +243,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 250,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

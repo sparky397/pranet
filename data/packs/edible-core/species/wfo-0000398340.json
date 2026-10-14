@@ -11,33 +11,66 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "土人栉柱",
-      "土人之櫛柱"
-    ],
     "fa": [
       "پاکی سرئوس"
+    ],
+    "zh": [
+      "土人之櫛柱",
+      "土人栉柱"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q150206",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q150206",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Pachycereus pecten-aboriginum」",
+      "source": "Wikipedia (en): Pachycereus pecten-aboriginum",
       "source_url": "https://en.wikipedia.org/wiki/Pachycereus_pecten-aboriginum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1364538396,
       "text": "Pachycereus pecten-aboriginum is a columnar cactus plant native to Mexico. They can grow up to 15 m (49 ft) high. The trunk of this species is 1.2 to 5.0 m tall and the fruits are large and burr-like. The specific name, pecten-aboriginum, is from the Latin, and means \"native combs\". It was inspired by the use of the fruits as hair combs."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pachycereus pecten-aboriginum",
+      "source_url": "https://es.wikipedia.org/wiki/Pachycereus_pecten-aboriginum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174401233,
+      "text": "Pachycereus pecten-aboriginum es una especie fanerógama de la familia Cactaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pachycereus pecten-aboriginum",
+      "source_url": "https://fr.wikipedia.org/wiki/Pachycereus_pecten-aboriginum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236874099,
+      "text": "Pachycereus pecten-aboriginum est une espèce de plantes à fleurs de la famille des Cactaceae communément appelée brosse à cheveux ou peigne indien. C'est un cactus en forme de colonne originaire du Mexique. Le nom spécifique, pecten-aboriginum, vient du latin et signifie « peignes indigènes ». Il a été inspiré par l'utilisation des fruits comme peignes à cheveux."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Pachycereus pecten-aboriginum § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Pachycereus_pecten-aboriginum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174401233,
+        "heading": "Cultivo",
+        "text": "Se multiplica a partir de semillas o vástagos basales (difícil).",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -53,7 +86,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -67,7 +100,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/179827-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent tree",
@@ -75,7 +108,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/179827-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000398340.webp",
@@ -88,6 +121,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

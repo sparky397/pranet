@@ -21,27 +21,24 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ギニアアブラヤシ",
       "アブラヤシ"
     ],
-    "en": [
-      "African Oil Palm"
+    "fr": [
+      "Palmier à huile",
+      "palmier à huile"
     ],
-    "zh": [
-      "油椰子",
-      "油棕",
-      "盐匏藤果",
-      "油棕根"
+    "pt": [
+      "Dendezeiro",
+      "dendezeiro"
     ],
-    "ast": [
-      "palmera aceitera"
-    ],
-    "sl": [
-      "oljna palma"
+    "id": [
+      "Kelapa sawit afrika",
+      "Kelapa sawit"
     ],
     "jv": [
       "Klapa Sawit"
@@ -60,9 +57,6 @@
     ],
     "sw": [
       "Mchikichi"
-    ],
-    "id": [
-      "Kelapa sawit"
     ],
     "ml": [
       "എണ്ണപ്പന"
@@ -103,14 +97,14 @@
     "ru": [
       "Масличная пальма"
     ],
-    "pt": [
-      "dendezeiro"
+    "zh": [
+      "油棕",
+      "油椰子",
+      "盐匏藤果",
+      "油棕根"
     ],
     "ca": [
       "Palmera d'oli de Guinea"
-    ],
-    "fr": [
-      "palmier à huile"
     ],
     "nb": [
       "Oljepalme"
@@ -172,6 +166,9 @@
     "mk": [
       "маслодајна палма"
     ],
+    "sl": [
+      "oljna palma"
+    ],
     "fon": [
       "Dètin"
     ],
@@ -183,13 +180,19 @@
     ],
     "hr": [
       "Palma uljarica"
+    ],
+    "en": [
+      "African Oil Palm"
+    ],
+    "ast": [
+      "palmera aceitera"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q165403",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q165403",
   "search_names": {
@@ -206,35 +209,115 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ギニアアブラヤシ」",
+      "source": "Wikipedia (ja): ギニアアブラヤシ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8B%E3%82%A2%E3%82%A2%E3%83%96%E3%83%A9%E3%83%A4%E3%82%B7",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108179477,
       "text": "ギニアアブラヤシ は、パーム油の主要な供給源であるヤシ科の種である。アフリカ西部・南西部、特にアンゴラとガンビアの間の地域が原産である。種形容語のguineensisは、国名のギニアではなく、その地域の名前であるギニア地域に由来する。油ヤシは赤道20度以内の熱帯地方、中米、西インド諸島、インド洋、太平洋の島々など多くの地域で帰化している。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Elaeis guineensis」",
+      "source": "Wikipedia (en): Elaeis guineensis",
       "source_url": "https://en.wikipedia.org/wiki/Elaeis_guineensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1366714968,
       "text": "Elaeis guineensis is a species of palm commonly called oil palm but also sometimes African oil palm or macaw-fat. The first Western person to describe it and bring back seeds was the French naturalist Michel Adanson."
+    },
+    "es": {
+      "source": "Wikipedia (es): Elaeis guineensis",
+      "source_url": "https://es.wikipedia.org/wiki/Elaeis_guineensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174497912,
+      "text": "Elaeis guineensis, comúnmente llamada palma africana de aceite y palma aceitera, es una especie del género Elaeis."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Palmier à huile",
+      "source_url": "https://fr.wikipedia.org/wiki/Palmier_%C3%A0_huile",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238768969,
+      "text": "Le Palmier à huile, Palmiste ou Éléis de Guinée est une espèce de plantes monocotylédones de la famille des Arécacées, largement cultivée pour ses fruits et ses graines riches en huile à usage alimentaire et industriel. L'huile de palme, extraite de la pulpe du fruit, est devenue depuis quelques années la « première source de corps gras végétal sur le marché mondial ». L'huile de palmiste, extraite des graines, est autorisée dans l'Union européenne comme substitut du beurre de cacao."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Dendezeiro",
+      "source_url": "https://pt.wikipedia.org/wiki/Dendezeiro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71712995,
+      "text": "O dendezeiro, também conhecido como palmeira-de-dendé, coqueiro-de-dendê, dendê, palmeira-de-óleo-africana, aabora, aavora, palma-de-guiné, palma, dendém e palmeira-dendém, é uma palmeira originária da Costa Ocidental da África."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kelapa sawit afrika",
+      "source_url": "https://id.wikipedia.org/wiki/Kelapa_sawit_afrika",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29709471,
+      "text": "Elaeis guineensis adalah salah satu dari spesies Kelapa sawit (Elaeis) yang paling umum dibudidayakan di seluruh dunia, terutama di Indonesia. Spesies ini merupakan penghasil utama minyak sawit dunia, oleh karena itu istilah \"kelapa sawit\" umumnya merujuk pada spesies ini. Tanaman ini awalnya berasal dari Afrika barat daya dan barat, khususnya di daerah antara Angola dan Gambia. Nama guineensis mengacu pada nama daerah Guinea dan bukan negara Guinea modern. Spesies ini juga telah dibudidayakan di Madagaskar, Sri Lanka, Malaysia, Indonesia, Amerika Tengah, Kamboja, Hindia Barat, dan beberapa pulau di Samudra Hindia dan Pasifik. Kelapa sawit Elaeis oleifera, yang berkerabat dekat dengan E. guineensis dan berkerabat jauh dengan Attalea maripa, juga digunakan untuk memproduksi minyak sawit, meskipun tidak sebanyak E. guineensis."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「ギニアアブラヤシ」の節「栽培」",
+        "source": "Wikipedia (ja): ギニアアブラヤシ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8B%E3%82%A2%E3%82%A2%E3%83%96%E3%83%A9%E3%83%A4%E3%82%B7#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 108179477,
         "heading": "栽培",
         "text": "世界的な生産量は、国別生産量首位であったマレーシアとインドネシアの生産拡大により右肩上がりに拡大し続けており、2000年代にはインドネシアが首位となった。その一方で無秩序なヤシ園の開発と劣悪な労働環境が問題視されるようになっており、2013年9月11日、RSPO（持続可能なパーム油のための円卓会議）によってパーム油の認証制度が設立されている。",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Elaeis guineensis § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Elaeis_guineensis#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174497912,
+        "heading": "Cultivo",
+        "text": "La palma de aceite es un cultivo perenne y de tardío y largo rendimiento, ya que su vida productiva puede durar más de 50 años, aunque a partir de los 25-30 años se dificulta su cosecha por la altura del tallo, llega a alcanzar los 20 metros.\nComienza a producir frutos a partir de los dos años y medio tras su siembra, y se suelen utilizar palmas de vivero de 12 meses de edad que alcanzan su mayor producción entre los 20 y 30 años, luego de lo cual declinan y dejan de ser rentables, especialmente por la altura a la que se encuentran los frutos. No es la única especie que se maneja dentro del cultivo de la palma de aceite, aunque inicialmente y por muchos años sólo se habló de la palma africana de aceite, actualmente involucra a otras especies de palmas y cruces entre ellas, dentro del cultivo.\nEl pericarpio está conformado por el epicarpo y mesocarpo juntos, de donde se extrae la mayor proporción de aceite. El fruto maduro es de color rojo amarillento, con un peso de 10 g y forma ovalada de 3 a 5 cm de largo; una palma puede producir de 12 a 13 racimos/año, con peso promedio de 20 a 30 kg, de 1.000 a 3.000 frutos por racimo y un rendimiento industrial que varía entre el 20 y 25% del peso en kg de aceite por racimo.​\nHay dos factores que deben de considerarse como ser los suelos y el clima de la zona a sembrar. El suelo debe ser profundo mayor a 15 dm, de textura franca arenosa arcillosa, para el buen desarrollo de las raíces, con buen drenaje interno ya que no soporta los suelos anegados debido a la toxicidad del aluminio, pendientes no mayor de 15% debido al poco desarrollo de las raíces.  La acidez del suelo o pH debe ser mayor a 5,5 debido a la disponibilidad de los nutrientes como el fósforo, calcio y potasio.",
+        "truncated": true
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Palmier à huile § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Palmier_%C3%A0_huile#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 238768969,
+        "heading": "Culture",
+        "text": "Le palmier à huile est largement cultivé dans toutes les zones tropicales du globe, notamment en Asie, sous forme de plusieurs cultivars à la productivité fortement améliorée par sélection variétale.\nSa productivité a connu une croissance proche de celle du blé, maïs, tournesol, etc. durant la première révolution verte dans les régions tempérées. La sélection du type variétal tenera a fait croître sa productivité de 30 %. Dans les années 1960, une augmentation supplémentaire de 10 % a été obtenue par l'hétérosis résultant du croisement entre populations complémentaires. Depuis, un progrès génétique annuel de 1 % a été obtenu par sélection variétale récurrente réciproque, pour arriver au début des années 1990 à une production de 6,7 tonnes d’huile par hectare et par an dans les meilleures conditions, passée à environ 7,2 t/ha/an vers l'an 2000. En parallèle, des cultivars résistant mieux à la fusariose et à la pourriture du cœur, deux maladies fréquentes respectivement en Afrique et en Amérique du Sud, ont été développés.\nLa dormance de la graine reste difficile à lever. Ce sont donc souvent des graines germées qui sont vendues aux planteurs. Après avoir été surtout cultivé en Asie où il a fait reculer les forêts tropicales, il tend maintenant à être cultivé industriellement en Afrique, dans le Bassin du Congo notamment (projets de millions d'hectares de plantation).\nEn culture industrielle, les objectifs de production sont de 20 à 30 t/ha de fruits avec un taux d'extraction en huile de 23-25 %.\n\nLes principaux producteurs sont le Nigeria, la Côte d'Ivoire, le Cameroun et la République démocratique du Congo pour l'Afrique, la Malaisie et l'Indonésie (les deux premiers producteurs mondiaux en 2008) pour l'Asie, la Colombie et l'Équateur pour l'Amérique du Sud.",
+        "truncated": true
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Dendezeiro § Plantio",
+        "source_url": "https://pt.wikipedia.org/wiki/Dendezeiro#Plantio",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71712995,
+        "heading": "Plantio",
+        "text": "■ Clima\nOs fatores climáticos de maior importância para o cultivo do dendezeiro são: chuva, horas de brilho solar e temperaturas máxima e mínima.\n\nPluviosidade — Uma adequada disponibilidade de água no solo de forma constante é condição extremamente importante para o desenvolvimento e produção. O regime pluviométrico ideal caracteriza-se por uma precipitação média anual de 1 800 a 2 000 mm, com precipitações mensais sempre superiores a 100 mm, segurando boa distribuição ao longo do ano.\nLuminosidade — Altos níveis de radiação solar são indispensáveis para o crescimento e produção. A isolação necessária para a expressão do potencial produtivo do dendezeiro, situa-se em torno de 1 800 horas/ano.\nTemperatura — Fator importante na determinação do crescimento e produção, sendo observado que as maiores produções são obtidas em regiões com pequenas variações de temperatura e onde a média anual situa-se entre 25 e 27°C e sem ocorrência de temperaturas mínimas abaixo de 19°C por períodos prolongados.\n\n■ Solo\nEmbora seja cultivado em diferentes tipos de solos, variações nas propriedades físicas e químicas causam diferentes significativas na produção. Os parâmetros mais importantes são profundidade efetiva de 90 cm, textura franca ou mais argilosa, estrutura forte ou moderada, permeabilidade moderada, relevo plano ou suave ondulado, não pedregoso, sem concreções de ferro, alumínio ou manganês e sem camada adensada, consistência muito friável ou firme e regime de umidade alto.\n\n■ Variedades\nAs variedades são classificadas de acordo com a espessura da casa (endocarpo) em:\n\nDura - Apresenta casca com mais de 2 mm de espessura e fibras dispersas na polpa. Essa variedade é usada como planta feminina na produção de híbridos comerciais.",
+        "truncated": true
+      },
+      "id": {
+        "source": "Wikipedia (id): Kelapa sawit afrika § Penanaman",
+        "source_url": "https://id.wikipedia.org/wiki/Kelapa_sawit_afrika#Penanaman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29709471,
+        "heading": "Penanaman",
+        "text": "Untuk setiap hektar kelapa sawit yang dipanen sepanjang tahun, rata-rata produksi tahunannya mencapai 20 ton  buah yang menghasilkan 4.000 kg minyak sawit dan 750 kg  inti biji yang menghasilkan 500 kg minyak inti sawit berkualitas tinggi, serta 600 kg bungkil inti sawit. Bungkil inti sawit diproses untuk digunakan sebagai pakan ternak.\nSemua bahan tanam komersial modern terdiri dari palem tenera atau hibrida DxP, yang diperoleh dengan menyilangkan jenis dura yang bercangkang tebal dengan pisifera yang tidak bercangkang. Meskipun benih berkecambah komersial pada umumnya memiliki cangkang setebal induk dura, kelapa sawit yang dihasilkan akan menghasilkan buah tenera yang bercangkang tipis. Sebagai alternatif dari benih berkecambah, jika kendala produksi massal telah teratasi, adalah melalui kultur jaringan atau palem \"klonal\", yang memberikan salinan persis dari kelapa sawit DxP berimbal hasil tinggi.",
         "truncated": false
       }
     }
@@ -299,7 +382,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/666802-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -307,7 +390,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/666802-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000947985.webp",
@@ -320,6 +403,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

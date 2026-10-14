@@ -47,40 +47,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アメリカオニアザミ"
     ],
-    "de": [
-      "Lanzett-Kratzdistel",
-      "Lanzettblättrige Kratzdistel",
-      "Gewöhnliche Kratzdistel"
-    ],
-    "en": [
-      "Spear Thistle"
-    ],
-    "nl": [
-      "Speerdistel"
-    ],
-    "cs": [
-      "pcháč obecný"
-    ],
     "fr": [
+      "Cirse commun",
       "cirse commun"
     ],
-    "fi": [
-      "piikkiohdake"
-    ],
-    "ast": [
-      "cardu gafu"
+    "id": [
+      "Waga-waga"
     ],
     "zh": [
       "翼蓟"
-    ],
-    "sl": [
-      "navadni osat"
     ],
     "sk": [
       "pichliač obyčajný"
@@ -97,14 +78,25 @@
     "ca": [
       "lloba-carda"
     ],
+    "fi": [
+      "piikkiohdake"
+    ],
     "uk": [
       "будяк звичайний"
     ],
     "et": [
       "tuliohakas"
     ],
+    "de": [
+      "Gewöhnliche Kratzdistel",
+      "Lanzett-Kratzdistel",
+      "Lanzettblättrige Kratzdistel"
+    ],
     "nn": [
       "Vegtistel"
+    ],
+    "cs": [
+      "pcháč obecný"
     ],
     "lt": [
       "Dygioji usnis"
@@ -117,6 +109,9 @@
     ],
     "da": [
       "horse-tidsel"
+    ],
+    "nl": [
+      "speerdistel"
     ],
     "nb": [
       "Veitistel"
@@ -181,21 +176,27 @@
     "lv": [
       "Asais dadzis"
     ],
-    "id": [
-      "Waga-waga"
-    ],
     "cv": [
       "Ахаль хытă пиçен"
     ],
+    "sl": [
+      "navadni osat"
+    ],
     "mzn": [
       "کنگل"
+    ],
+    "en": [
+      "Spear Thistle"
+    ],
+    "ast": [
+      "cardu gafu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q21177",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q21177",
   "search_names": {
@@ -207,22 +208,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アメリカオニアザミ」",
+      "source": "Wikipedia (ja): アメリカオニアザミ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%AA%E3%83%8B%E3%82%A2%E3%82%B6%E3%83%9F",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110552094,
       "text": "アメリカオニアザミ はキク科アザミ属の多年草。日本には本来分布していない外来種。和名に「アメリカ」とあるがヨーロッパ原産のアザミであり、誤解をさけるためセイヨウオニアザミと呼ばれることがある。中国名は、翼薊。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cirsium vulgare」",
+      "source": "Wikipedia (en): Cirsium vulgare",
       "source_url": "https://en.wikipedia.org/wiki/Cirsium_vulgare",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1366977840,
       "text": "Cirsium vulgare, commonly known as spear thistle, bull thistle, or common thistle, is a species of the Asteraceae genus Cirsium, native throughout most of Europe, Western Asia, and northwestern Africa. It is also naturalised in North America, Africa, and Australia and is an invasive weed in several regions. It is the national flower of Scotland."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cirsium vulgare",
+      "source_url": "https://es.wikipedia.org/wiki/Cirsium_vulgare",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174357642,
+      "text": "Cirsium vulgare es una especie de cardo del género Cirsium en la familia Asteraceae. Es nativa de Europa, Asia, norte de África, y está introducida en América, donde se comporta como una maleza."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cirse commun",
+      "source_url": "https://fr.wikipedia.org/wiki/Cirse_commun",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240015819,
+      "text": "Le Cirse commun, ou Cirse à feuilles lancéolées, est une espèce de plantes à fleurs de la famille des Astéracées et du genre Cirsium."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cirsium vulgare",
+      "source_url": "https://pt.wikipedia.org/wiki/Cirsium_vulgare",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72015861,
+      "text": "Cirsium vulgare é uma espécie de planta com flor pertencente à família Asteraceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Waga-waga",
+      "source_url": "https://id.wikipedia.org/wiki/Waga-waga",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29706142,
+      "text": "Cirsium vulgare, waga-waga, adalah spesies dari genus Asteraceae Cirsium, asli di sebagian besar Eropa, Asia Barat, dan Afrika barat laut. Itu juga dinaturalisasi di Amerika Utara, Afrika, dan Australia dan merupakan gulma invasif di beberapa daerah. Ini adalah bunga nasional Skotlandia."
     }
   },
   "edible": {
@@ -236,7 +273,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -405,7 +442,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/196191-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial",
@@ -413,7 +450,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/196191-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000081703.webp",
@@ -426,6 +463,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 333,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

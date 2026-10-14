@@ -12,24 +12,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "シベリアマツ"
     ],
-    "en": [
-      "Siberian Pine",
-      "Siberian Stone Pine"
-    ],
-    "fi": [
-      "siperiansembra"
-    ],
-    "zh": [
-      "新疆五针松",
-      "西伯利亚五针松",
-      "松节",
-      "长松"
+    "fr": [
+      "Pin de Sibérie"
     ],
     "nl": [
       "Siberische den"
@@ -48,9 +38,6 @@
     ],
     "et": [
       "Siberi seedermänd"
-    ],
-    "fr": [
-      "Pin de Sibérie"
     ],
     "ka": [
       "ციმბირული ფიჭვი"
@@ -78,6 +65,12 @@
     ],
     "uk": [
       "Сосна сибірська"
+    ],
+    "zh": [
+      "新疆五针松",
+      "西伯利亚五针松",
+      "松节",
+      "长松"
     ],
     "nb": [
       "sibirsk sembrafuru"
@@ -118,6 +111,9 @@
     "tr": [
       "Sibirya çamı"
     ],
+    "fi": [
+      "siperiansembra"
+    ],
     "ro": [
       "pin siberian"
     ],
@@ -132,13 +128,17 @@
     ],
     "he": [
       "אורן סיבירי"
+    ],
+    "en": [
+      "Siberian Pine",
+      "Siberian Stone Pine"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q774829",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q774829",
   "search_names": {
@@ -148,35 +148,73 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シベリアマツ」",
+      "source": "Wikipedia (ja): シベリアマツ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2%E3%83%9E%E3%83%84",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109880567,
       "text": "シベリアマツ は、マツ科マツ属に属する針葉樹の一種。シベリアを中心に分布し、食用の松の実を産することで知られる。ロシア語では「シビルスキー・ケドル 」と呼ばれ、英語に訳す際に \"Siberian cedar\"（シベリアスギ）と誤訳されることがあるが、ヒマラヤスギ属（Cedrus）とは無関係である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pinus sibirica」",
+      "source": "Wikipedia (en): Pinus sibirica",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_sibirica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1347357324,
       "text": "Pinus sibirica, or Siberian pine, in the family Pinaceae is a species of pine tree that occurs in Siberia from 58°E in the Ural Mountains east to 126°E in the Stanovoy Range in southern Sakha Republic, and from Igarka at 68°N in the lower Yenisei valley, south to 45°N in central Mongolia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus sibirica",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_sibirica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166844258,
+      "text": "El pino siberiano es una especie arbórea de la familia de las pináceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pin de Sibérie",
+      "source_url": "https://fr.wikipedia.org/wiki/Pin_de_Sib%C3%A9rie",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222537620,
+      "text": "Pinus sibirica, le Pin de Sibérie, est une espèce d'arbres conifères de la famille des Pinaceae du genre Pinus à fascicule de 5 longues aiguilles. Il est présent dans la majeure partie de la Russie asiatique, en Chine, au Kazakhstan et en Mongolie. Caractéristique importante de la taïga sibérienne, il apprécie autant la plaine que la montagne. Ses pignons sont consommés par le Cassenoix moucheté qui en assure la dispersion ainsi que par les populations locales."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus sibirica",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_sibirica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62848944,
+      "text": "Pinus sibirica é uma espécie de pinheiro originária do Velho Mundo, mais precisamente da região da Ásia."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Pinus sibirica」の節「Cultivation」",
+        "source": "Wikipedia (en): Pinus sibirica § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Pinus_sibirica#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1347357324,
         "heading": "Cultivation",
         "text": "Siberian pine, Pinus sibirica,  is a popular ornamental tree in parks and large gardens where the climate is cold, such as central Canada, giving steady though not fast growth on a wide range of sites. It is very tolerant of severe winter cold, hardy down to at least –60 °C, and also of wind exposure.\nThe seeds are also harvested and sold as pine nuts, which in Russia are marketed as Cedar nuts (Russian: Кедровые орехи).",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Pin de Sibérie § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Pin_de_Sib%C3%A9rie#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 222537620,
+        "heading": "Culture",
+        "text": "La première reproduction artificielle de cette espèce en dehors de son aire de répartition naturelle remonte à la seconde moitié du XVIe siècle, lorsque la pinède de Tolgskaya est fondée à 8 km de Iaroslavl dans la partie européenne de la Russie. Depuis, de nombreuses plantations ont été mises en place à la périphérie d'autres villes comme près de Moscou. Son principal mode de reproduction est la propagation par graines qui repose sur un semis d'automne ou une stratification pendant 3 à 6 mois et un traitement préalable au semis avec des régulateurs de croissance.\nEn Russie, cette espèce est couramment plantée comme arbre d'agrément dans les parcs. Peu de cultivars sont connus, mais plusieurs formes nanifiées existent. En Europe, il est remplacé par le Pin cembro.",
         "truncated": false
       }
     }
@@ -191,7 +229,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -221,7 +259,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77095028-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -229,7 +267,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/77095028-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000481525.webp",
@@ -242,6 +280,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 282,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

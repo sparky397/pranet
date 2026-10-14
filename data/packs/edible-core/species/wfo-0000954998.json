@@ -14,61 +14,22 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "ewcalyptws glas"
-    ],
-    "en": [
-      "Tasmanian bluegum",
-      "blue gum",
-      "southern blue gum",
-      "Tasmanian blue gum"
-    ],
-    "de": [
-      "Blauer Eukalyptus"
-    ],
-    "fi": [
-      "Kuumepuu",
-      "kuume-eukalyptus"
-    ],
-    "fr": [
-      "Gommier bleu"
-    ],
-    "gl": [
-      "Eucalipto azul"
-    ],
-    "nl": [
-      "Blauwe gomboom"
-    ],
     "pl": [
-      "Eukaliptus gałkowy"
-    ],
-    "pt": [
-      "Eucalipto-comum",
-      "eucalipto-da-Tasmânia"
-    ],
-    "ru": [
-      "Бесстыдница",
-      "Эвкалипт шариковый",
-      "Эвкалипт шаровидный"
-    ],
-    "zh": [
-      "蓝桉",
-      "桉油",
-      "蓝桉（桉树）",
-      "桉树果",
-      "桉叶"
-    ],
-    "ast": [
-      "ocalitu"
+      "eukaliptus gałkowy"
     ],
     "eu": [
       "Eukalipto urdin"
     ],
     "qu": [
       "Urqu kalistu"
+    ],
+    "ru": [
+      "Эвкалипт шаровидный",
+      "Бесстыдница",
+      "Эвкалипт шариковый"
     ],
     "ko": [
       "유칼립투스"
@@ -85,6 +46,16 @@
     "hu": [
       "golyós eukaliptusz"
     ],
+    "fi": [
+      "kuume-eukalyptus",
+      "Kuumepuu"
+    ],
+    "gl": [
+      "Eucalipto azul"
+    ],
+    "de": [
+      "Blauer Eukalyptus"
+    ],
     "el": [
       "Ευκάλυπτος ο σφαιρικός"
     ],
@@ -97,11 +68,24 @@
     "hsb": [
       "Módry eukalyptowc"
     ],
+    "nl": [
+      "blauwe gomboom"
+    ],
     "sv": [
       "Feberträd"
     ],
+    "zh": [
+      "蓝桉",
+      "桉油",
+      "蓝桉（桉树）",
+      "桉树果",
+      "桉叶"
+    ],
     "cs": [
       "blahovičník kulatoplodý"
+    ],
+    "cy": [
+      "Ewcalyptws glas"
     ],
     "th": [
       "โกฐจุฬารศ"
@@ -147,13 +131,29 @@
     ],
     "ta": [
       "நீலப் பசை மரம்"
+    ],
+    "en": [
+      "Tasmanian bluegum",
+      "blue gum",
+      "southern blue gum",
+      "Tasmanian blue gum"
+    ],
+    "fr": [
+      "Gommier bleu"
+    ],
+    "pt": [
+      "Eucalipto-comum",
+      "eucalipto-da-Tasmânia"
+    ],
+    "ast": [
+      "ocalitu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159528",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159528",
   "search_names": {
@@ -165,13 +165,68 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Eucalyptus globulus」",
+      "source": "Wikipedia (en): Eucalyptus globulus",
       "source_url": "https://en.wikipedia.org/wiki/Eucalyptus_globulus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1369639644,
       "text": "Eucalyptus globulus, commonly known as southern blue gum, is a species of flowering plant in the family Myrtaceae. It is a tall, evergreen tree endemic to southeastern Australia. This Eucalyptus species has mostly smooth bark, juvenile leaves that are whitish and waxy on the lower surface, glossy green, lance-shaped adult leaves, glaucous, ribbed flower buds arranged singly or in groups of three or seven in leaf axils, white flowers and woody fruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eucalyptus globulus",
+      "source_url": "https://es.wikipedia.org/wiki/Eucalyptus_globulus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174108300,
+      "text": "El eucalipto blanco, eucalipto común o eucalipto azul es una especie arbórea de la familia de las mirtáceas, originaria del sureste de Australia y Tasmania."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Eucalyptus globulus",
+      "source_url": "https://fr.wikipedia.org/wiki/Eucalyptus_globulus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235383128,
+      "text": "Eucalyptus globulus, l'Eucalyptus commun ou Gommier bleu, est une espèce de plantes à fleurs de la famille des Myrtaceae. C'est un arbre sempervirent originaire d'Australie. Il est largement cultivé et peut croître jusqu'à 92 m de haut."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Eucalyptus globulus",
+      "source_url": "https://pt.wikipedia.org/wiki/Eucalyptus_globulus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73000583,
+      "text": "Eucalyptus globulus Labill., conhecido por eucalipto-comum ou eucalipto-da-Tasmânia, é uma espécie florestal de folha perene pertencente ao género Eucalyptus, de crescimento rápido, capaz de produzir árvores de 30 a 55 m de altura. Originária da Austrália, a espécie é hoje uma das árvores mais amplamente cultivada em florestas de produção, principalmente para fabrico de pasta de papel e para queima, e a mais expandida das cerca de 600 espécies que integram o género Eucalyptus. A área de ocorrência natural da espécie inclui a Tasmânia e o sul do Estado de Victoria (Austrália). Ocorre ainda em manchas isoladas na ilhas King e Flinders, ambas no Estreito de Bass, e nos cumes do You Yangs. A flor do E. globulus foi proclamada a 27 de Novembro de 1962 como emblema floral do estado da Tasmânia."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Eucalyptus globulus § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Eucalyptus_globulus#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174108300,
+        "heading": "Toxicidad",
+        "text": "El eucalipto suele ser bien tolerado, y sólo en ocasiones especiales puede producir reacciones adversas.  Estas pueden ser: digestivas (náuseas, vómitos o diarreas), neurológicas / psicológicas.  Puede ser neurotóxico por acelerar el metabolismo hepático de algunos anestésicos, analgésicos y tranquilizantes. Su aceite esencial no puede ser aplicado directamente sobre la cara de niños pequeños o lactantes. Se considera que la ingestión de 30 ml de su aceite esencial es letal. Los síntomas tóxicos son rápidos: dolor abdominal, vómitos espontáneos, problemas respiratorios, depresión respiratoria, taquicardia, convulsiones y delirio. No se recomienda tomarlo durante el embarazo y la lactancia.",
+        "truncated": false
+      }
+    },
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Eucalyptus globulus § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Eucalyptus_globulus#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 235383128,
+        "heading": "Culture",
+        "text": "Cet arbre à croissance rapide se développe mieux avec des grandes quantités d'eau qu'il va chercher en profondeur (permettant ainsi le développement d'autres essences) mais sait se contenter d'une faible humidité du sol.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -190,7 +245,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -251,7 +306,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/592965-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -259,7 +314,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/592965-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000954998.webp",
@@ -272,6 +327,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 225,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

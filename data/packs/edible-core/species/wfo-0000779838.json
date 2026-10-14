@@ -13,40 +13,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "タチノウゼン"
     ],
-    "en": [
-      "Yellow Trumpetbush",
-      "ginger-thomas",
-      "Yellow bells",
-      "yellow trumpet bush",
-      "yellow trumpet flower",
-      "Arizona Yellow Bells"
+    "pt": [
+      "Ipê-de-jardim"
     ],
     "de": [
       "Gelbe Trompetenblume"
-    ],
-    "fi": [
-      "Keltatekoma"
-    ],
-    "qu": [
-      "Sawsaw"
-    ],
-    "sv": [
-      "Gul trumpetbuske"
-    ],
-    "to": [
-      "piti"
-    ],
-    "ty": [
-      "piti"
-    ],
-    "zh": [
-      "黄钟花"
     ],
     "bn": [
       "চন্দ্রপ্রভা"
@@ -60,8 +37,17 @@
     "pl": [
       "Tekoma prosta"
     ],
+    "qu": [
+      "Sawsaw"
+    ],
+    "sv": [
+      "Gul trumpetbuske"
+    ],
     "th": [
       "ทองอุไร"
+    ],
+    "to": [
+      "Piti"
     ],
     "nan": [
       "N̂g-cheng-hoe"
@@ -87,6 +73,12 @@
     "kn": [
       "ಗಂಟೆ ಹೂ"
     ],
+    "fi": [
+      "keltatekoma"
+    ],
+    "zh": [
+      "黄钟花"
+    ],
     "arz": [
       "تيكومه واقفه"
     ],
@@ -101,13 +93,24 @@
     ],
     "he": [
       "דק-פרי זקוף"
+    ],
+    "en": [
+      "Yellow Trumpetbush",
+      "ginger-thomas",
+      "Yellow bells",
+      "yellow trumpet bush",
+      "yellow trumpet flower",
+      "Arizona Yellow Bells"
+    ],
+    "ty": [
+      "piti"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q119954",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q119954",
   "search_names": {
@@ -117,35 +120,82 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「タチノウゼン」",
+      "source": "Wikipedia (ja): タチノウゼン",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%81%E3%83%8E%E3%82%A6%E3%82%BC%E3%83%B3",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111197577,
       "text": "タチノウゼン はノウゼンカズラ科テコマ属の常緑小高木。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Tecoma stans」",
+      "source": "Wikipedia (en): Tecoma stans",
       "source_url": "https://en.wikipedia.org/wiki/Tecoma_stans",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1362798637,
       "text": "Tecoma stans is a species of flowering perennial shrub in the trumpet vine family, Bignoniaceae, that is native to the Americas. Common names include yellow trumpetbush, yellow bells, yellow elder, ginger Thomas. Tecoma stans is the official flower of the United States Virgin Islands and the floral emblem of The Bahamas."
+    },
+    "es": {
+      "source": "Wikipedia (es): Tecoma stans",
+      "source_url": "https://es.wikipedia.org/wiki/Tecoma_stans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174388129,
+      "text": "El tronador, huaranhuay, tronadora o timboque es un arbusto o árbol de la familia de las bignoniáceas, nativo del continente Americano. Se encuentra en gran variedad de Ambientes y en casi todos los continentes. Se cultiva como planta ornamental por sus vistosas flores amarillas. Tiene gran variedad de usos y más de 50 componentes químicos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Tecoma stans",
+      "source_url": "https://fr.wikipedia.org/wiki/Tecoma_stans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235372390,
+      "text": "Tecoma stans, communément appelé Bois pissenlit, Bois Caraïbes ou Trompette d'or, est une espèce de plantes à fleurs de la famille des Bignoniaceae. C'est un arbuste tropical originaire d'Amérique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ipê-de-jardim",
+      "source_url": "https://pt.wikipedia.org/wiki/Ip%C3%AA-de-jardim",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72127632,
+      "text": "Tecoma stans, popularmente ipê-de-jardim, amarelinho, guarã-guarã, ipê-amarelo-de-jardim, ipê-mirim, ipezinho-de-jardim ou sinos-amarelos, é um arbusto ou pequena árvore muito ramificada. As folhas compostas são serreadas, as flores amarelas em forma de campânula formam inflorescências vistosas. Produz por longos períodos muitas sementes que germinam facilmente. Brota também a partir de estacas: podada, rebrota intensamente. Usada em arborização urbana."
+    },
+    "id": {
+      "source": "Wikipedia (id): Tecoma stans",
+      "source_url": "https://id.wikipedia.org/wiki/Tecoma_stans",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29080278,
+      "text": "Tecoma stans adalah spesies perdu berbunga menahun dalam famili Bignoniaceae yang asli dari Amerika. Nama umum termasuk bunga terompet kuning, lonceng kuning, terompet emas, tetu lang, dufa dufa, yellow bells, dan trumpetbush. Tecoma stans adalah bunga resmi Kepulauan Virgin Amerika Serikat dan lambang bunga Bahama."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Tecoma stans」の節「Cultivation」",
+        "source": "Wikipedia (en): Tecoma stans § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Tecoma_stans#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1362798637,
         "heading": "Cultivation",
         "text": "Tecoma stans is drought-tolerant and grows well in warm climates. It is cultivated as an ornamental. They are grown in many parts of the world for their beautiful flowering, to adorn streets and gardens. It can be easily propagated by stem cuttings. Native to the southwestern United States and adjacent Mexico, Tecoma stans var. angustata is shorter and more tolerant of drought and cold than many of the tropical varieties commonly sold in nurseries.\n\n■ Uses\nThe wood of Tecoma stans is used in rustic architecture like bahareque, for the construction of furniture and canoes, or as firewood or charcoal. It is a medicinal plant used against diabetes and against diseases of the digestive system, among other uses. The plant is desirable fodder when it grows in fields grazed by livestock. \nIt is a very potent anti-venom against cobra venom, used by Pakistani old medicine. It is proved to be better than antiserum, the paste of this plant's leaves are applied topically on the cobra bite. Its bio-chemicals bind with the cobra venom enzymes thus effectively inhibiting the venom.\n\n■ Honey production\n\nTecoma stans is unique in that although it is nontoxic itself, the honey from its flowers is poisonous nonetheless.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Tecoma stans § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Tecoma_stans#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29080278,
+        "heading": "Budidaya",
+        "text": "Tecoma stans tahan kekeringan dan tumbuh baik di iklim hangat. Tanaman ini dibudidayakan sebagai tanaman hias. Tanaman ini ditanam di banyak bagian dunia karena bunga indahnya, untuk menghiasi jalan dan taman. Tanaman ini dapat diperbanyak dengan mudah melalui setek batang.\n\n■ Pemanfaatan\nKayunya digunakan dalam arsitektur rustik seperti bahareque, untuk pembuatan furnitur dan perahu, atau sebagai kayu bakar atau arang. Tanaman ini juga digunakan sebagai obat untuk diabetes dan penyakit sistem pencernaan, di antara pemanfaatan lainnya. Tanaman ini menjadi pakan yang diinginkan saat tumbuh di ladang yang digembalakan oleh ternak.\nTanaman ini merupakan antiracun yang sangat kuat terhadap racun ular sendok, digunakan dalam pengobatan tradisional Pakistan. Terbukti lebih efektif daripada antiserum; pasta daun tanaman ini dioleskan secara topikal pada gigitan ular sendok. Senyawa biokimia tanaman ini berikatan dengan enzim racun ular sendok, sehingga secara efektif menghambat racun tersebut.\n\n■ Produksi madu\nTecoma stans unik karena meskipun tanaman ini sendiri tidak beracun, madu dari bunganya tetap beracun.",
         "truncated": false
       }
     }
@@ -164,7 +214,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -246,7 +296,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/111284-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -254,7 +304,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/111284-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000779838.webp",
@@ -267,6 +317,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

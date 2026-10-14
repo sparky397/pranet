@@ -21,22 +21,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Cashapona",
-      "Walking Palm"
-    ],
-    "fr": [
-      "palmier à échasses",
-      "Palmier marcheur"
-    ],
     "tr": [
       "Yürüyen palmiye"
-    ],
-    "zh": [
-      "高跷椰"
     ],
     "te": [
       "సొక్రాటియా ఎక్సోర్హిజా"
@@ -58,13 +47,24 @@
     ],
     "ka": [
       "სოკრატეა ეგზორიზა"
+    ],
+    "en": [
+      "Cashapona",
+      "Walking Palm"
+    ],
+    "fr": [
+      "palmier à échasses",
+      "Palmier marcheur"
+    ],
+    "zh": [
+      "高跷椰"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q140538",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q140538",
   "search_names": {
@@ -75,13 +75,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Socratea exorrhiza」",
+      "source": "Wikipedia (en): Socratea exorrhiza",
       "source_url": "https://en.wikipedia.org/wiki/Socratea_exorrhiza",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1357411744,
       "text": "Socratea exorrhiza, the walking palm or cashapona, is a palm native to rainforests in tropical Central and South America. It can grow to 25 metres in height, with a stem diameter of up to 16 cm, but is more typically 15–20 m tall and 12 cm in diameter. It has unusual stilt roots, the function of which has been debated. Many species of epiphyte have been found growing on the palms. The palm is pollinated by beetles, and various organisms eat its seeds or seedlings."
+    },
+    "es": {
+      "source": "Wikipedia (es): Socratea exorrhiza",
+      "source_url": "https://es.wikipedia.org/wiki/Socratea_exorrhiza",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174041559,
+      "text": "Socratea exorrhiza  H.Wendl. es una especie perteneciente a la familia de las palmeras (Arecaceae) y nativa de las selvas tropicales en América Central y América del Sur."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Socratea exorrhiza",
+      "source_url": "https://fr.wikipedia.org/wiki/Socratea_exorrhiza",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231460140,
+      "text": "Socratea exorrhiza est une espèce de plantes de la famille des Arecaceae originaire des forêts tropicales humides d'Amérique centrale et d'Amérique du Sud. Il se caractérise notamment par ses racines-échasses formant un cône soutenant la base du tronc. On l'appelle aussi Palmier marcheur ou Palmier à échasses."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Socratea exorrhiza",
+      "source_url": "https://pt.wikipedia.org/wiki/Socratea_exorrhiza",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71465372,
+      "text": "Socratea exorrhiza pertence à família das Arecaceae, que ocorre da América Central até à Bacia do Amazonas. Natural de locais alagadiços onde suas raízes adventícias garantem sustentação adequada."
     }
   },
   "edible": {
@@ -98,7 +125,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -120,7 +147,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1200702-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -128,7 +155,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1200702-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000311608.webp",
@@ -141,6 +168,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

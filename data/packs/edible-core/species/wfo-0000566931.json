@@ -15,55 +15,40 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "da": [
-      "Aks-Jordbærspinat"
+    "ru": [
+      "Марь многолистная"
     ],
-    "de": [
-      "Durchblätterter Erdbeerspinat",
-      "Echter Erdbeerspinat"
-    ],
-    "en": [
-      "Leafy goosefoot"
+    "nl": [
+      "rode aardbeispinazie"
     ],
     "et": [
       "Vits-hanemalts"
     ],
-    "fr": [
-      "Espinard fraise"
+    "zh": [
+      "球花藜"
+    ],
+    "de": [
+      "Echter Erdbeerspinat",
+      "Durchblätterter Erdbeerspinat"
+    ],
+    "sv": [
+      "bärmålla"
+    ],
+    "es": [
+      "Chenopodium foliosum"
+    ],
+    "fi": [
+      "marjasavikka"
     ],
     "hsb": [
       "Łopjenata pólšica"
     ],
     "it": [
-      "Spinaccio fragola",
-      "Chenopodium foliosum"
-    ],
-    "nl": [
-      "Rode Aardbeispinazie"
-    ],
-    "nb": [
-      "Bærmelde"
-    ],
-    "ru": [
-      "Марь многолистная"
-    ],
-    "sl": [
-      "Plehkotna metlika"
-    ],
-    "sv": [
-      "Bärmålla"
-    ],
-    "zh": [
-      "球花藜"
-    ],
-    "fi": [
-      "marjasavikka"
-    ],
-    "es": [
-      "Chenopodium foliosum"
+      "Chenopodium foliosum",
+      "Spinaccio fragola"
     ],
     "la": [
       "Chenopodium foliosum"
@@ -107,15 +92,30 @@
     "lv": [
       "Lapainā balanda"
     ],
+    "sl": [
+      "plehkotna metlika"
+    ],
     "mk": [
       "многулисна дива лобода"
+    ],
+    "da": [
+      "Aks-Jordbærspinat"
+    ],
+    "en": [
+      "Leafy goosefoot"
+    ],
+    "fr": [
+      "Espinard fraise"
+    ],
+    "nb": [
+      "Bærmelde"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1281072",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1281072",
   "search_names": {
@@ -126,13 +126,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Blitum virgatum」",
+      "source": "Wikipedia (en): Blitum virgatum",
       "source_url": "https://en.wikipedia.org/wiki/Blitum_virgatum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306215149,
       "text": "Blitum virgatum, is a species of flowering plant in the amaranth family known by the common name leafy goosefoot. It is native to Eurasia. It can be found on other continents as an introduced species, growing as a minor weed in disturbed habitats and cultivated land."
+    },
+    "es": {
+      "source": "Wikipedia (es): Blitum virgatum",
+      "source_url": "https://es.wikipedia.org/wiki/Blitum_virgatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174925597,
+      "text": "La bledomera es una especie de planta herbácea perteneciente a la familia Amaranthaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Blitum virgatum",
+      "source_url": "https://fr.wikipedia.org/wiki/Blitum_virgatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 211660612,
+      "text": "L'Épinard-fraise en baguette, Chénopode en baguette ou Blette en baguette est une espèce de plantes annuelles de la famille des Amaranthacées."
+    },
+    "id": {
+      "source": "Wikipedia (id): Blitum virgatum",
+      "source_url": "https://id.wikipedia.org/wiki/Blitum_virgatum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29276779,
+      "text": "Blitum virgatum, adalah spesies tumbuhan berbunga dalam suku bayam-bayaman yang dikenal dengan nama umum leafy goosefoot. Tumbuhan ini merupakan tanaman asli Eurasia. Tanaman ini dapat ditemukan di benua lain sebagai spesies introduksi, tumbuh sebagai gulma kecil di habitat yang terganggu dan lahan budidaya."
     }
   },
   "edible": {
@@ -146,7 +173,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -224,7 +251,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/164548-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual or subshrub",
@@ -232,7 +259,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/164548-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000566931.webp",
@@ -245,6 +272,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

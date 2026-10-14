@@ -12,29 +12,29 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ハマボウフウ"
     ],
-    "en": [
-      "American silvertop"
-    ],
-    "zh": [
-      "濱防風",
-      "珊瑚菜",
-      "北沙参"
-    ],
     "ko": [
       "갯방풍"
+    ],
+    "zh": [
+      "珊瑚菜",
+      "濱防風",
+      "北沙参"
+    ],
+    "en": [
+      "American silvertop"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15548072",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15548072",
   "search_names": {
@@ -44,22 +44,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ハマボウフウ」",
+      "source": "Wikipedia (ja): ハマボウフウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%83%9C%E3%82%A6%E3%83%95%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109851747,
       "text": "ハマボウフウ とは、被子植物のセリ科ハマボウフウ属の一種。\n海岸の砂地に自生する海岸性の多年草。山菜として食用にするほか、漢方薬・民間療法薬として利用される。名称の由来は中国産の防風と根の効用が似ており、浜辺に自生することからであり、海岸防風林とは関係がない。中国植物名は、珊瑚菜（さんごさい）、濱防風。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Glehnia」",
+      "source": "Wikipedia (en): Glehnia",
       "source_url": "https://en.wikipedia.org/wiki/Glehnia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1327338999,
       "text": "Glehnia is a genus of plants in the carrot family, Apiaceae. It is monotypic, being represented by the single species, Glehnia littoralis, commonly known as beach silvertop and American silvertop. The genus was named after Baltic German botanist Peter von Glehn."
+    },
+    "es": {
+      "source": "Wikipedia (es): Glehnia littoralis",
+      "source_url": "https://es.wikipedia.org/wiki/Glehnia_littoralis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171267980,
+      "text": "Glehnia es un género monotípico de plantas herbáceas perteneciente a la familia de las apiáceas. Su única especie Glehnia littoralis, se encuentra en Asia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Glehnia littoralis",
+      "source_url": "https://fr.wikipedia.org/wiki/Glehnia_littoralis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226260205,
+      "text": "Glehnia littoralis, la Gléhnie des plages, est une espèce de plantes à fleurs de la famille des Apiaceae, la seule espèce reconnue du genre Glehnia."
     }
   },
   "edible": {
@@ -71,7 +89,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -92,7 +110,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/842779-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -100,7 +118,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/842779-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000703677.webp",
@@ -113,6 +131,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

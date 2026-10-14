@@ -14,31 +14,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "シオザキソウ"
-    ],
-    "cy": [
-      "gold y De"
-    ],
-    "en": [
-      "muster John Henry"
-    ],
-    "zh": [
-      "印加孔雀草",
-      "小花万寿菊"
-    ],
-    "nl": [
-      "Geelgroen afrikaantje"
-    ],
-    "fi": [
-      "haisusamettikukka",
-      "pikkusamettikukka"
-    ],
-    "ca": [
-      "Camamilla americana"
     ],
     "af": [
       "Kakiebos"
@@ -52,11 +32,25 @@
     "qu": [
       "Wakatay"
     ],
+    "ca": [
+      "camamilla americana"
+    ],
+    "zh": [
+      "印加孔雀草",
+      "小花万寿菊"
+    ],
     "ne": [
       "जंगली सयपत्री"
     ],
+    "cy": [
+      "Gold y De"
+    ],
     "da": [
       "sydamerikansk morgenfrue"
+    ],
+    "fi": [
+      "pikkusamettikukka",
+      "haisusamettikukka"
     ],
     "or": [
       "ଜଂଗଲୀ ଗେଣ୍ଡୁ"
@@ -90,13 +84,19 @@
     ],
     "arz": [
       "مخمليه دقيقه"
+    ],
+    "en": [
+      "muster John Henry"
+    ],
+    "nl": [
+      "Geelgroen afrikaantje"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q599870",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q599870",
   "search_names": {
@@ -112,32 +112,59 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シオザキソウ」",
+      "source": "Wikipedia (ja): シオザキソウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%AA%E3%82%B6%E3%82%AD%E3%82%BD%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107742149,
       "text": "シオザキソウ は、キク科コウオウソウ属に分類される一年草。別名コゴメコウオウソウ。南米原産で、日本では帰化植物の一つ。花は貧弱であるが、マリーゴールドの近縁種とされる。中国名は、印加孔雀草。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Tagetes minuta」",
+      "source": "Wikipedia (en): Tagetes minuta",
       "source_url": "https://en.wikipedia.org/wiki/Tagetes_minuta",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1345687150,
       "text": "Tagetes minuta is a tall upright marigold type of plant from the genus Tagetes, with small flowers, native to the south western half of South America. Since Spanish colonization, it has been introduced around the world, and has become naturalized in Europe, Asia, Australasia, North America, and Africa. Tagetes minuta has numerous local names that vary by region. In the Andes it is known as Huacatay or Wacatay, and in other regions it is common as chinchilla, chiquilla, chilca, zuico, suico, or anisillo. Other names include Muster John Henry, southern marigold, khakibos, stinking roger, wild marigold, and black mint. It is called the Quechua terms huacatay in Peru or wakataya in Bolivia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Tagetes minuta",
+      "source_url": "https://es.wikipedia.org/wiki/Tagetes_minuta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175291183,
+      "text": "Tagetes minuta, conocida comúnmente como huacatay, huacataya, chinchilla y suico, es una especie del género Tagetes nativa de Sudamérica y que ha sido introducida en varias partes del mundo."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Tagetes minuta",
+      "source_url": "https://fr.wikipedia.org/wiki/Tagetes_minuta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239514007,
+      "text": "Tagetes minuta, égalment appelée Tagetes glandulifera, Tagetes bonariensis, ou la tagète des décombres est une espèce de plantes à fleurs de la famille des Asteraceae. Elle est originaire de la moitié sud de l'Amérique du Sud où elle est connue sous le nom de huacatay."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Tagetes minuta",
+      "source_url": "https://pt.wikipedia.org/wiki/Tagetes_minuta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 57866467,
+      "text": "Tagetes minuta é uma espécie de planta com flor pertencente à família Asteraceae. Originária da América Central, foi introduzida em Portugal, especialmente no Arquipélago da Madeira."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Tagetes minuta」の節「Toxicity」",
+        "source": "Wikipedia (en): Tagetes minuta § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Tagetes_minuta#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1345687150,
         "heading": "Toxicity",
         "text": "The oils contained in the oil glands that are found throughout the above ground portions of the plant may cause irritation to the skin and in some cases are said to cause photodermatitis.",
@@ -157,7 +184,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -277,7 +304,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/252132-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -285,7 +312,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/252132-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000017317.webp",
@@ -298,6 +325,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -11,12 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "非洲辣木"
-    ],
     "ar": [
       "بان ضيق التويجية"
     ],
@@ -31,34 +28,55 @@
     ],
     "arz": [
       "بان ضيق التويجيه"
+    ],
+    "zh": [
+      "非洲辣木"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3021919",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3021919",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Moringa stenopetala」",
+      "source": "Wikipedia (en): Moringa stenopetala",
       "source_url": "https://en.wikipedia.org/wiki/Moringa_stenopetala",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1334457432,
       "text": "Moringa stenopetala, commonly known as the African Moringa or cabbage tree, is a deciduous tree in the plant genus Moringa, native to Kenya and Ethiopia. A drought-resistant species, it is characterized by its bottle-shaped trunk, long twisted seed pods, and edible leaves likened to cabbage, from which its common name is derived. M. stenopetala is extirpated in the wild in Ethiopia, though still grown there as a crop on the terraces of the Ethiopian Highlands, mainly in the Konso region."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Moringa stenopetala",
+      "source_url": "https://fr.wikipedia.org/wiki/Moringa_stenopetala",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236694754,
+      "text": "Moringa stenopetala est une espèce d'arbre de la famille des Moringaceae originaire de la région du lac Baringo au Kenya ainsi que d'Éthiopie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Moringa stenopetala",
+      "source_url": "https://pt.wikipedia.org/wiki/Moringa_stenopetala",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 54941618,
+      "text": "Moringa stenopetala (Baker f.) Cufod., 1957 é uma árvore tropical pertencente à família Moringaceae, endémica na África Oriental e principalmente presente no norte do Quénia e no sul da Etiópia."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Moringa stenopetala」の節「Cultivation」",
+        "source": "Wikipedia (en): Moringa stenopetala § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Moringa_stenopetala#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1334457432,
         "heading": "Cultivation",
         "text": "Moringa stenopetala was planted by agriculturalists on the complex system of terraces built high up in the Ethiopian Highlands, where they became domesticated and were bred to improve productivity, the taste of their leaves, and the size of their seeds. Since then, the improved trees have been introduced into other areas such as the Kenyan Rift Valley.\nIn present-day Ethiopia, M. stenopetala is mostly known for its importance as a nutritious vegetable food crop in the terraced fields of Konso, where it is cultivated for its leaves and pods. Propagation is easiest from seeds, although plants grown from cuttings may flower and fruit sooner (within several months). Kept moist and in full sun, seeds placed 1–2 cm deep in well-draining soil typically germinate about a week after sowing. Temperatures for optimal growth and production in the Ethiopian Rift Valley range from 15 to 33 °C (59 to 91 °F), corresponding with elevations of 1,150–1,800 m (3,770–5,910 ft). Collection of the leaves and fruits may start after two years, although traditional farmers usually wait 5 to 6 years before harvesting.",
@@ -80,7 +98,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -91,7 +109,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/584747-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -99,7 +117,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/584747-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001085058.webp",
@@ -112,6 +130,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

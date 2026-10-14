@@ -11,24 +11,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ラカンカ"
     ],
-    "en": [
-      "Monk fruit"
+    "fr": [
+      "Fruit du moine"
     ],
-    "th": [
-      "หลอฮังก๊วย",
-      "หล่อฮังก๊วย"
-    ],
-    "zh": [
-      "罗汉果",
-      "罗汉果叶",
-      "罗汉果根",
-      "羅漢果"
+    "id": [
+      "Lo han kuo"
     ],
     "de": [
       "Luó Hàn Guǒ"
@@ -45,8 +38,18 @@
     "sv": [
       "Luo Han Guo"
     ],
+    "zh": [
+      "羅漢果",
+      "罗汉果",
+      "罗汉果叶",
+      "罗汉果根"
+    ],
     "nb": [
       "Balsampære"
+    ],
+    "th": [
+      "หล่อฮังก๊วย",
+      "หลอฮังก๊วย"
     ],
     "fa": [
       "سیرایتیا گرسونری"
@@ -81,18 +84,18 @@
     "za": [
       "Maklozhan"
     ],
-    "id": [
-      "Lo han kuo"
-    ],
     "hu": [
       "Szerzetesek körtéje"
+    ],
+    "en": [
+      "Monk fruit"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1544966",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1544966",
   "search_names": {
@@ -107,45 +110,92 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ラカンカ」",
+      "source": "Wikipedia (ja): ラカンカ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AB%E3%83%B3%E3%82%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 110973076,
       "text": "ラカンカ は、中国広西チワン族自治区を原産地とするウリ科ラカンカ属の多年生つる植物である。従来はツルレイシ属に分類されていたが、1984年になって学名が変更された。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Siraitia grosvenorii」",
+      "source": "Wikipedia (en): Siraitia grosvenorii",
       "source_url": "https://en.wikipedia.org/wiki/Siraitia_grosvenorii",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375506254,
       "text": "Siraitia grosvenorii, commonly known as luohan fruit, monk fruit or swingle fruit is a herbaceous perennial vine of the gourd family, Cucurbitaceae, native to southern China."
+    },
+    "es": {
+      "source": "Wikipedia (es): Siraitia grosvenorii",
+      "source_url": "https://es.wikipedia.org/wiki/Siraitia_grosvenorii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171087431,
+      "text": "Siraitia grosvenorii o fruto del monje es una especie de planta herbácea perennifolia trepadora perteneciente a la familia Cucurbitaceae, nativa del sur de China y el norte de Tailandia. La planta se cultiva por su fruto, cuyo extracto es casi 300 veces más dulce que el azúcar y se utiliza en China como edulcorante natural bajo en calorías para bebidas refrescantes, y en la medicina tradicional china para tratar la diabetes y la obesidad."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Fruit du moine",
+      "source_url": "https://fr.wikipedia.org/wiki/Fruit_du_moine",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240169003,
+      "text": "Le fruit de moine (Siraitia grosvenorii), est une espèce de plantes à fleurs du genre Siraitia et de la famille des cucurbitacées. C'est une plante grimpante pérenne originaire du sud de la Chine."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Siraitia grosvenorii",
+      "source_url": "https://pt.wikipedia.org/wiki/Siraitia_grosvenorii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 67807703,
+      "text": "Siraitia grosvenorii, também conhecida como fruta-do-monge ou luohan guo, é uma trepadeira herbácea perene da família Cucurbitaceae. É nativa do sul da China. A planta é cultivada para obtenção do extracto do seu fruto, o qual contém uma família de compostos denominados mogrósidos, capaz de produzir uma sensação de doce 250 vezes mais potente que a da sacarose. O extracto de mogrósido tem sido usado como adoçante com poucas calorias em bebidas e na medicina tradicional chinesa."
+    },
+    "id": {
+      "source": "Wikipedia (id): Lo han kuo",
+      "source_url": "https://id.wikipedia.org/wiki/Lo_han_kuo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28991176,
+      "text": "Lo han kuo, luohan guo atau buah biksu adalah terna dalam suku labu-labuan. Tumbuhan ini berasal dari Tiongkok bagian selatan dan Thailand bagian utara. Tumbuhan ini digunakan untuk menghasilkan mogrosida yang 250 kali lebih manis dari gula meja yang digunakan sebagai pemanis rendah kalori untuk minuman dan dalam pengobatan tradisional Tionghoa."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Siraitia grosvenorii」の節「Cultivation」",
+        "source": "Wikipedia (en): Siraitia grosvenorii § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Siraitia_grosvenorii#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375506254,
         "heading": "Cultivation",
         "text": "Germination of seeds is slow and may take several months. It is grown primarily in the far southern Chinese province of Guangxi (mostly in the mountains near Guilin), as well as in Guangdong, Guizhou, Hunan, and Jiangxi. These mountains lend the plants shade and often are surrounded by mists which protect the plants from the sun. Nonetheless, the climate in this southern province is warm. The plant is rarely found in the wild, and has been cultivated for hundreds of years.\nRecords as early as 1813 mention the cultivation of this plant in the Guangxi province. Most of the plantations are located in Yongfu County and Lingui County.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Siraitia grosvenorii § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Siraitia_grosvenorii#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171087431,
+        "heading": "Cultivo",
+        "text": "La germinación de las semillas es lenta y puede tomar varios meses. Se cultiva principalmente en China hasta el sur de la provincia de Guangxi (en su mayoría en las montañas cerca de Guilin), así como en las provincias de Guangdong, Guizhou, Hunan y Jiangxi. Estas montañas se prestan a dar sombra a las plantas que a menudo están rodeadas por la niebla, que las protegen del sol. Sin embargo, el clima de esta provincia del sur es cálido. La planta se encuentra raramente en la naturaleza, por lo que se cultiva desde hace cientos de años.\nLa planta es la más apreciada por sus dulces frutos, que se utilizan con fines medicinales y como edulcorante.​​ Los frutos se venden generalmente en forma seca, y se utiliza tradicionalmente en infusiones o sopas.\n\nLos agentes activos\n\nEl sabor dulce de la fruta proviene principalmente de los mogrósidos, un grupo de triterpenos glucósidos que representan alrededor del 1% de la pulpa de la fruta fresca. A través de la extracción solvente, se puede obtener un polvo que contiene 80% de mogrósidos, el principal es mogrósido-5 (esgoside). Otros agentes similares en la fruta son siamenosida y neomogrosida.​\nLa investigación reciente sugiere que los mogrósidos aislados tienen propiedades antioxidantes​ y puede tener efectos limitados contra el cáncer.​​\nLos mogrosidos también se han demostrado propiedades para inhibir la inducción del Virus de Epstein-Barr  in vitro.​\nLa planta también contiene la glicoproteína momorgrosvin, que se ha demostrado que inhibe la síntesis de la proteína ribosómica.​",
         "truncated": false
       }
     },
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Siraitia grosvenorii」の節「Safety」",
+        "source": "Wikipedia (en): Siraitia grosvenorii § Safety",
         "source_url": "https://en.wikipedia.org/wiki/Siraitia_grosvenorii#Safety",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375506254,
         "heading": "Safety",
         "text": "At least one generally recognized as safe (GRAS) notice has been received by the U.S. Food and Drug Administration. The FDA granted GRAS certification to Siraitia grosvenorii extracts/processed products in 2011.\nIn Europe, it is classified as an unapproved novel food (not used in the food system before May 1997) which means that it may be marketed as a food or food ingredient only after a safety assessment and approval by the European Commission. In 2019, the EFSA Panel on Food Additives and Flavourings (FAF) was asked by the European Commission to provide its scientific opinion on the safety of monkfruit extract as a food additive. The panel concluded that the current body of research was insufficient. As of 2023, Siraitia grosvenorii was not listed among approved Novel Foods in the EU.",
@@ -162,7 +212,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -173,7 +223,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/914594-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing tuberous geophyte",
@@ -181,7 +231,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/914594-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000441673.webp",
@@ -194,6 +244,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

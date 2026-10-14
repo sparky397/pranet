@@ -13,21 +13,12 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "タイワンクズ",
       "クズ"
-    ],
-    "en": [
-      "kudzu"
-    ],
-    "zh": [
-      "山葛",
-      "葛",
-      "南葛藤",
-      "葛麻姆"
     ],
     "pl": [
       "Opornik łatkowaty"
@@ -44,6 +35,12 @@
     "uk": [
       "Пуэрария лопастная"
     ],
+    "zh": [
+      "葛",
+      "山葛",
+      "南葛藤",
+      "葛麻姆"
+    ],
     "fa": [
       "پیورریا مونتانا"
     ],
@@ -55,13 +52,16 @@
     ],
     "arz": [
       "كودزو"
+    ],
+    "en": [
+      "kudzu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1054489",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1054489",
   "search_names": {
@@ -72,22 +72,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「タイワンクズ」",
+      "source": "Wikipedia (ja): タイワンクズ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%AF%E3%83%B3%E3%82%AF%E3%82%BA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111006485,
       "text": "タイワンクズ は、マメ科クズ属のつる性常緑樹～多年草。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pueraria montana」",
+      "source": "Wikipedia (en): Pueraria montana",
       "source_url": "https://en.wikipedia.org/wiki/Pueraria_montana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360603932,
       "text": "Pueraria montana, more commonly known as kudzu, is a species of plant in the botanical family Fabaceae. At least three sub-species are known. It is closely related to other species in the genus Pueraria and the common name is used for all of these species and hybrids between them. The morphological differences between them are subtle, they can breed with each other, and it appears that introduced kudzu populations in the United States have ancestry from more than one of the species."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pueraria montana",
+      "source_url": "https://es.wikipedia.org/wiki/Pueraria_montana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175455847,
+      "text": "Pueraria montana es una especie de plantas de la familia Fabaceae. Se conocen por lo menos tres subespecies. Está estrechamente relacionada con otras especies del género Pueraria y se les da el nombre común de kudzu a esta especie y a los híbridos. Las diferencias morfológicas no son muy marcadas y pueden hibridarse. Parece que las introducidas en los Estados Unidos descienden de más de una especie."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pueraria montana",
+      "source_url": "https://fr.wikipedia.org/wiki/Pueraria_montana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231416585,
+      "text": "Pueraria montana, la Puéraire hirsute, Kudzu (くず), ou vigne du Japon, est une espèce de plantes à fleurs de la famille des Fabacées, originaire d'Asie de l'Est, du Sud-Est et du Sud. Il s’agit d’une liane qui grimpe aux arbres et s’étend rapidement en développant de longues tiges sur le sol et les falaises. Ces tiges sont capables de s’enraciner au niveau de nœuds (collets). Son système racinaire a la capacité de former de grosses racines tubéreuses gorgées de réserves vitales et d’eau."
     }
   },
   "edible": {
@@ -103,7 +121,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -208,7 +226,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/516708-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling subshrub or tuberous geophyte",
@@ -216,7 +234,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/516708-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000185101.webp",
@@ -229,6 +247,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 261,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

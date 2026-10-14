@@ -11,7 +11,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -21,34 +21,21 @@
       "Parsley",
       "parsley"
     ],
-    "cy": [
-      "persli"
-    ],
-    "nl": [
-      "Peterselie"
-    ],
     "fr": [
+      "Persil",
       "persil"
     ],
-    "cs": [
-      "petržel obecná",
-      "petržel zahradní"
+    "pt": [
+      "Salsa (planta)",
+      "salsa",
+      "salsinha"
+    ],
+    "id": [
+      "Peterseli"
     ],
     "zh": [
       "欧芹",
       "野芹菜子"
-    ],
-    "ast": [
-      "perexil",
-      "perrexil",
-      "perrexu"
-    ],
-    "sl": [
-      "pravi peteršilj"
-    ],
-    "pt": [
-      "salsa",
-      "salsinha"
     ],
     "pl": [
       "pietruszka zwyczajna"
@@ -91,6 +78,9 @@
     ],
     "sv": [
       "persilja"
+    ],
+    "nl": [
+      "peterselie"
     ],
     "ar": [
       "بقدونس"
@@ -179,9 +169,6 @@
     "gl": [
       "perexil"
     ],
-    "id": [
-      "Peterseli"
-    ],
     "de": [
       "Petersilie"
     ],
@@ -211,6 +198,16 @@
     ],
     "ca": [
       "julivert"
+    ],
+    "cy": [
+      "Persli"
+    ],
+    "sl": [
+      "pravi peteršilj"
+    ],
+    "cs": [
+      "petržel zahradní",
+      "petržel obecná"
     ],
     "fa": [
       "جعفری"
@@ -343,13 +340,18 @@
     ],
     "shn": [
       "ၽၵ်းၵီးၾရၢင်ႇ"
+    ],
+    "ast": [
+      "perexil",
+      "perrexil",
+      "perrexu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q25284",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q25284",
   "search_names": {
@@ -364,46 +366,104 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「パセリ」",
+      "source": "Wikipedia (ja): パセリ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BB%E3%83%AA",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111320440,
       "text": "パセリ は、セリ科の1種の二年草。野菜として食用にされる。和名はオランダゼリ（和蘭芹）。フランス語名はペルシ 、漢名は"
     },
     "en": {
-      "source": "Wikipedia 英語版「Parsley」",
+      "source": "Wikipedia (en): Parsley",
       "source_url": "https://en.wikipedia.org/wiki/Parsley",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1378903009,
       "text": "Parsley, or garden parsley, is a species of flowering plant in the family Apiaceae that is native to Greece, the Balkans, Algeria and Morocco. It has been introduced and naturalized in Europe and elsewhere in the world with suitable climates, and is widely cultivated as a herb and a vegetable."
+    },
+    "es": {
+      "source": "Wikipedia (es): Petroselinum crispum",
+      "source_url": "https://es.wikipedia.org/wiki/Petroselinum_crispum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175013197,
+      "text": "El perejil es una planta herbácea de la familia Apiaceae nativa de la zona central de la región mediterránea e introducida y naturalizada en el resto de Europa y distribuida ampliamente por todo el mundo. Se cultiva generalmente como condimento."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Persil",
+      "source_url": "https://fr.wikipedia.org/wiki/Persil",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240183235,
+      "text": "Le persil est une espèce de plantes à fleurs de la famille des Apiacées (Ombellifères) et du genre Petroselinum. C'est une plante herbacée. Le persil est couramment utilisé en cuisine pour ses feuilles très divisées, et en Europe centrale pour sa racine pivot. C'est également une plante médicinale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Salsa (planta)",
+      "source_url": "https://pt.wikipedia.org/wiki/Salsa_(planta)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68493185,
+      "text": "A salsa, salsinha ou perrexil [Petroselinum crispum (Mill.) Nym.; Apiaceae (Umbelliferae)] é uma planta herbácea bienal, podendo-se também cultivar como anual. Nativa da região mediterrânica central, naturalizada em toda a Europa, é amplamente cultivada como condimento ou hortaliça."
+    },
+    "id": {
+      "source": "Wikipedia (id): Peterseli",
+      "source_url": "https://id.wikipedia.org/wiki/Peterseli",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29474354,
+      "text": "Peterseli merupakan sebuah tanaman yang berwarna hijau dan cocok digunakan sebagai makanan dalam bentuk biji. Tanaman ini sebagai makanan banyak mengandung zat besi. Biasanya cocok digunakan dalam bahan makanan seperti pizza dan spaghetti. Digunakan sebagai minyak, akar, dan sebagainya."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「パセリ」の節「栽培」",
+        "source": "Wikipedia (ja): パセリ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BB%E3%83%AA#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 111320440,
         "heading": "栽培",
         "text": "「春まき」栽培、「初夏まき」栽培、「秋まき」栽培などの作型があり、通常は「春まき」と「秋まき」で通年収穫できるように栽培されている。播種から葉の収穫を迎えるまで、およそ2.5か月から4か月ほどかかる。冷涼な気候を好み、盛夏には生育が衰えるが、十分越夏する。冬は、新しい葉の再生に5度以上の気温を必要とし、0度以下でも枯死することはない。多少日陰になるくらいの場所で、乾燥と泥はねを防止するためマルチングして栽培するとよい。春を迎えると薹（とう）が立ち、品質のよい葉の収穫は見込めなくなる。初夏に開花させると枯れるので、花茎は摘み取る。\n苗をつくるときは、育苗箱に種をばらまき、または筋まきし、本葉2枚のころに育苗ポットに移植して1本立ちとし、本葉5 - 6枚の苗に仕上げる。種子は発芽しにくいため、播種前に種を水洗いして一晩水につけておいてからまく。畑は植え付けの2週間くらい前に、溝堀したところに堆肥や緩効性の肥料を入れて畝をつくる。畝への植え付けは、株間25 cm前後で深く埋めすぎないようにする。常時利用する場合は、鉢植えなどで庭先やベランダで栽培してもよい。生育の状況をみて、15日に1回くらい肥料をばらまいて土に混ぜ込む。本葉が12 - 15枚になって葉が縮れてきたら収穫できるようになり、10枚ほどの葉を残すように外側の葉から順次摘んで収穫する。\n葉を食害するキアゲハの幼虫が大敵となり、年に2 - 3回、4月から9月にかけて長期にわたり発生する。出始めると2 - 3日ほどでパセリの葉を食べ尽くすほどの勢いがある。黒色の小さな幼虫のうちに見つけて捕殺し、多発して捕殺が困難であれば殺虫剤を散布して防除する。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Parsley」の節「Cultivation」",
+        "source": "Wikipedia (en): Parsley § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Parsley#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1378903009,
         "heading": "Cultivation",
         "text": "Parsley grows best in moist, well-drained soil, with full sun. It grows best between 22–30 °C (72–86 °F), and usually is grown from seed. Germination is slow, taking four to six weeks, and it often is difficult because of furanocoumarins in its seed coat. Typically, plants grown for the leaf crop are spaced 10 cm (3.9 in) apart, while those grown as a root crop are spaced 20 cm (7.9 in) apart to allow for the root development.\nParsley attracts several species of wildlife. Some swallowtail butterflies use parsley as a host plant for their larvae; their caterpillars are black and green striped with yellow dots, and will feed on parsley for two weeks before turning into butterflies. Bees and other nectar-feeding insects also visit the flowers. \n\n■ Cultivars\nParsley is subdivided into several cultivar groups. Often these are treated as botanical varieties, despite being cultivated selections, not of natural botanical origin.\n\n■ Leaf parsley\nThe two main groups of parsley used as herbs are French, or curly leaf (P. crispum Crispum group; syn. P. crispum var. crispum); and, Italian, or flat leaf (P. crispum Neapolitanum group; syn. P. crispum var. neapolitanum). Flat-leaved parsley is preferred by some gardeners as it is easier to cultivate, being more tolerant of both rain and sunshine, and is said to have a stronger flavor—although this is disputed—while curly leaf parsley is preferred by others because of its more decorative appearance in garnishing. A third type, sometimes grown in southern Italy, has thick leaf stems resembling celery.\n\n■ Root parsley\nAnother type of parsley is grown as a root vegetable, the Hamburg root parsley (P. crispum Radicosum Group, syn. P. crispum var. tuberosum).",
+        "truncated": true
+      },
+      "es": {
+        "source": "Wikipedia (es): Petroselinum crispum § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Petroselinum_crispum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175013197,
+        "heading": "Cultivo",
+        "text": "Su reproducción se realiza por semillas, en un lugar soleado y en cualquier suelo que no sea demasiado compacto. \nSin embargo, la germinación es bastante difícil de lograr. Es inconsistente y puede tardar de tres a seis semanas. Se especula que los compuestos químicos denominados furanocumarinas, presentes en la corteza exterior de la semilla o testa, pueden ser responsable de dicha demora en la germinación. Estos compuestos pueden inhibir la germinación de otras semillas, permitiéndole al perejil competir con las plantas vecinas. Sin embargo, la misma planta puede verse afectada por sus propias furanocumarinas. Dejar las semillas remojadas por una noche reduce el periodo de germinación.\nSe puede cultivar en macetas o jardineras, para disponer de hojas frescas y tiernas como aderezo de los platos. Simplemente se cortan las necesarias y se riega después para estimular el crecimiento vegetativo.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Salsa (planta) § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Salsa_(planta)#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 68493185,
+        "heading": "Cultivo",
+        "text": "O cultivo da salsa faz-se há mais de trezentos anos, sendo uma das ervas aromáticas mais populares da gastronomia mundial.\nA reprodução é feita por sementes, num local ensolarado e em solo drenado que não seja demasiado compacto. Também pode ser cultivada em vasos fundos numa janela ensolarada. Desenvolve melhor entre 22 e 30 °C. A germinação é lenta, durando de quatro a seis semanas, e, frequentemente, difícil, devido à furanocumarina que envolve a sua semente. Plantas cultivadas a partir dos talos são normalmente espaçadas em 10 cm, enquanto as cultivadas pela raiz são espaçadas em 20 cm para permitir o desenvolvimento da raiz.\nA salsa atrai alguns animais. Certas espécies de borboletas põem seus ovos na planta. Quando eles eclodem, saem lagartas pretas com listras verdes e pontos amarelos que se alimentam da planta por duas semanas, até formarem a pupa. As abelhas e outros insetos que se alimentam de néctar visitam as flores, enquanto pássaros, como o pintassilgo-comum, se alimentam das sementes.\n\n■ Cultivo\n\nNo cultivo, a salsa é subdividida em vários grupos cultivares dependendo da forma da planta, que é relacionado a seu uso final. Elas são frequentemente tratadas como variedades botânicas, mas são seleções de cultivo, não de origem botânica natural.\n\n■ Salsa de folhas\nOs dois grupos principais de salsinha usados como ervas são as de folhas crespas (i.e.; P. crispum crispum group; syn. P. crispum var. crispum) e folhas lisas (P. crispum neapolitanum group; syn. P. crispum var. neapolitanum); desses, o grupo neapolitanum parece-se mais com a espécie selvagem.",
         "truncated": true
       }
     }
@@ -419,7 +479,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -542,7 +602,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60442790-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "biennial or perennial",
@@ -550,7 +610,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60442790-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000745326.webp",
@@ -563,6 +623,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

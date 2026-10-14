@@ -28,51 +28,72 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "fr": [
+      "Quinquina jaune"
+    ],
+    "zh": [
+      "狭叶金鸡纳",
+      "黄金鸡纳",
+      "金鸡纳树",
+      "金鸡纳",
+      "金鸡纳树（黄色金纳）",
+      "金鸡勒"
+    ],
     "en": [
       "quinine"
     ],
     "it": [
       "Albero della china",
       "Chinino"
-    ],
-    "zh": [
-      "黄金鸡纳",
-      "金鸡纳树",
-      "金鸡纳",
-      "金鸡纳树（黄色金纳）",
-      "金鸡勒",
-      "狭叶金鸡纳"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15399753",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15399753",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cinchona calisaya」",
+      "source": "Wikipedia (en): Cinchona calisaya",
       "source_url": "https://en.wikipedia.org/wiki/Cinchona_calisaya",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1337379901,
       "text": "Cinchona calisaya is a species of shrub or tree in the family Rubiaceae. It is native to the forests of the eastern slopes of the Andes, where they grow from 200–3,300 metres (660–10,830 ft) in elevation in Peru and Bolivia. The species is known for a high quinine content, a key antimalarial alkaloid. From the 1860s, it was grown in plantations in the Dutch East Indies to supply the global quinine trade."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cinchona calisaya",
+      "source_url": "https://es.wikipedia.org/wiki/Cinchona_calisaya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172920943,
+      "text": "El quino, quinquina, quina es un árbol de la familia de las rubiáceas, originario de los bosques de Ecuador, Perú y Bolivia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Quinquina jaune",
+      "source_url": "https://fr.wikipedia.org/wiki/Quinquina_jaune",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240020649,
+      "text": "Le quinquina jaune ou quinquina calisaya est un arbre sempervirent de la famille des Rubiacées."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Cinchona calisaya」の節「Toxicity」",
+        "source": "Wikipedia (en): Cinchona calisaya § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Cinchona_calisaya#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1337379901,
         "heading": "Toxicity",
         "text": "Cinchona bark and its quinine alkaloids can cause cardiac sodium and potassium channel blockade, CNS and renal toxicity. Cinchonism trio: GI upset, headaches, and tinnitus. Ventricular arrhythmias, hypoglycemia, renal failure, respiratory failure, jaundice and death.",
@@ -90,7 +111,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -107,7 +128,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/746718-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -115,7 +136,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/746718-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000860414.webp",
@@ -128,6 +149,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 285,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

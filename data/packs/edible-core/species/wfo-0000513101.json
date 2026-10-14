@@ -43,9 +43,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "nah": [
+      "Xacoh"
+    ],
+    "zh": [
+      "五棱角",
+      "月映柱",
+      "般若柱",
+      "古巴刺仙柱",
+      "连城角",
+      "强刺仙柱",
+      "稍刺仙柱",
+      "五棱阁",
+      "西刺仙柱"
+    ],
+    "pap": [
+      "Kadushi di kolebra"
+    ],
     "en": [
       "triangle cactus",
       "Barbed-wire cactus"
@@ -61,41 +78,51 @@
     ],
     "sv": [
       "Snårpelarkaktus"
-    ],
-    "zh": [
-      "月映柱",
-      "般若柱",
-      "古巴刺仙柱",
-      "连城角",
-      "强刺仙柱",
-      "稍刺仙柱",
-      "五棱阁",
-      "西刺仙柱",
-      "五棱角"
-    ],
-    "pap": [
-      "kadushi di kolebra"
-    ],
-    "nah": [
-      "Xacoh"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q149401",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q149401",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Acanthocereus tetragonus」",
+      "source": "Wikipedia (en): Acanthocereus tetragonus",
       "source_url": "https://en.wikipedia.org/wiki/Acanthocereus_tetragonus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1370151258,
       "text": "Acanthocereus tetragonus is a species of cactus that is native to Florida and the Lower Rio Grande Valley of Texas in the United States, Mexico, Central America, the Caribbean, and northern South America. The species is invasive in New Caledonia. Common names include night-blooming cereus, barbed-wire cactus, sword-pear, dildo cactus, triangle cactus, and Órgano-alado de pitaya (Spanish). The miniature cultivar is known as fairy castle cactus. It was originally described by Carl Linnaeus in 1753 as Cactus tetragonus but was moved to the genus Acanthocereus in 1938 by Pieter Wagenaar Hummelinck."
+    },
+    "es": {
+      "source": "Wikipedia (es): Acanthocereus tetragonus",
+      "source_url": "https://es.wikipedia.org/wiki/Acanthocereus_tetragonus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175704638,
+      "text": "Acanthocereus tetragonus, llamado comúnmente cruceta, nopal de cruz, jacube, jacubo o pitahaya anaranjada entre otros, es una especie de planta suculenta perteneciente al género Acanthocereus, dentro de la familia Cactaceae. Se distribuye desde el sur de Florida hasta el Caribe y desde el sur de Texas hasta Venezuela."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Acanthocereus tetragonus",
+      "source_url": "https://fr.wikipedia.org/wiki/Acanthocereus_tetragonus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 209717808,
+      "text": "Acanthocereus tetragonus est une espèce de cactus de la famille des Cactaceae et originaire d'Amérique. Il a d'abord été décrit en 1753 par Carl von Linné (1707-1778) sous le basionyme de Cactus tetragonus puis déplacé en 1938 sous le genre Acanthocereus par le botaniste et zoologiste vénézuélien Pieter Wagenaar Hummelinck (d) (1907-2003)."
+    },
+    "id": {
+      "source": "Wikipedia (id): Acanthocereus tetragonus",
+      "source_url": "https://id.wikipedia.org/wiki/Acanthocereus_tetragonus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29691016,
+      "text": "Acanthocereus tetragonus adalah spesies tumbuhan kaktus dari keluarga Cactaceae. Tumbuhan ini asli dari Amerika Utara, Amerika Tengah, Karibia dan Amerika Selatan, dan sekarang menjadi spesies invasif di Kaledonia Baru."
     }
   },
   "edible": {
@@ -108,7 +135,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -146,7 +173,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1646-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "scrambling succulent subshrub or shrub",
@@ -154,7 +181,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1646-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000513101.webp",
@@ -167,6 +194,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 301,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

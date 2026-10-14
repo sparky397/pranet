@@ -17,21 +17,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "スターアップル"
     ],
-    "en": [
-      "star apple"
-    ],
-    "zh": [
-      "星苹果",
-      "金星果"
-    ],
     "pt": [
+      "Caimito (planta)",
       "Caimito"
+    ],
+    "id": [
+      "Sawo duren"
     ],
     "is": [
       "Stjörnuepli"
@@ -47,9 +44,6 @@
     ],
     "ca": [
       "Cainito"
-    ],
-    "id": [
-      "Sawo duren"
     ],
     "ml": [
       "സ്റ്റാർ ആപ്പിൾ"
@@ -74,6 +68,10 @@
     ],
     "eo": [
       "Stelpomo"
+    ],
+    "zh": [
+      "金星果",
+      "星苹果"
     ],
     "jv": [
       "Sawo durèn"
@@ -113,13 +111,16 @@
     ],
     "as": [
       "তৰা আপেল"
+    ],
+    "en": [
+      "star apple"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1612679",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1612679",
   "search_names": {
@@ -137,22 +138,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「スターアップル」",
+      "source": "Wikipedia (ja): スターアップル",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106364801,
       "text": "スターアップル は、中央アメリカや西インド諸島など熱帯の低地を原産とするアカテツ科の樹木である。急速に成長し、20メートルの高さに達する。和名はスイショウガキ。別名ホシリンゴ、カイニット、ミルクアップルなど。果樹として世界中の熱帯で広く栽培されている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Chrysophyllum cainito」",
+      "source": "Wikipedia (en): Chrysophyllum cainito",
       "source_url": "https://en.wikipedia.org/wiki/Chrysophyllum_cainito",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1368757482,
       "text": "Chrysophyllum cainito is a tropical tree of the family Sapotaceae. It is native to the Isthmus of Panama, where it was domesticated. It has spread to the Greater Antilles and the West Indies and is now grown throughout the tropics, including Southeast Asia. It grows rapidly and reaches 20 meters in height."
+    },
+    "es": {
+      "source": "Wikipedia (es): Chrysophyllum cainito",
+      "source_url": "https://es.wikipedia.org/wiki/Chrysophyllum_cainito",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582240,
+      "text": "El caimito es un árbol tropical de la familia Sapotaceae, originario de las áreas de baja elevación de América Central y del Caribe. Crece rápidamente y puede llegar a una altura de veinte metros."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Chrysophyllum cainito",
+      "source_url": "https://fr.wikipedia.org/wiki/Chrysophyllum_cainito",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234059445,
+      "text": "Chrysophyllum cainito, le caïmitier ou caïnitier, est une espèce de plantes à fleurs du genre Chrysophyllum et de la famille des Sapotaceae. C'est un arbre fruitier exotique, des régions tropicales. Son fruit comestible est appelé pomme de lait ou pomme étoile."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Caimito (planta)",
+      "source_url": "https://pt.wikipedia.org/wiki/Caimito_(planta)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71378051,
+      "text": "O caimito, também designado por camitié, abio ou abio-do-pará ou ainda aguaí, é uma árvore da família sapotácea."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sawo duren",
+      "source_url": "https://id.wikipedia.org/wiki/Sawo_duren",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29337432,
+      "text": "Sawo duren, sawo hijau, atau kenitu adalah nama sejenis buah dari suku sawo-sawoan (Sapotaceae). Buah ini juga dikenal dengan nama sawo apel, sawo ijo atau apel ijo (Jw.), sabo susu (Sas.), sawo hejo (Sd.), sawo kadu (Banten), kenitu, gemintu atau manécu (Jatim),sawo manila (Lampung) dan sawo beludru."
     }
   },
   "edible": {
@@ -168,7 +205,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -206,7 +243,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/304384-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -214,7 +251,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/304384-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000854556.webp",
@@ -227,6 +264,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

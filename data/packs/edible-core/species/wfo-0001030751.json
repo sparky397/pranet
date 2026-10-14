@@ -15,27 +15,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "naranjilla"
-    ],
-    "zh": [
-      "刺茄",
-      "奎東茄"
-    ],
-    "es": [
-      "Lulo"
+    "fr": [
+      "Narangille"
     ],
     "pam": [
       "Naranjilla"
     ],
     "udm": [
       "Наранхилла"
-    ],
-    "fr": [
-      "Narangille"
     ],
     "ru": [
       "Наранхилла"
@@ -73,6 +63,10 @@
     "uk": [
       "Наранхіла"
     ],
+    "zh": [
+      "奎東茄",
+      "刺茄"
+    ],
     "fa": [
       "نارانجیلا"
     ],
@@ -87,13 +81,19 @@
     ],
     "ja": [
       "ナランジラ"
+    ],
+    "en": [
+      "naranjilla"
+    ],
+    "es": [
+      "Lulo"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q795069",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q795069",
   "search_names": {
@@ -103,26 +103,77 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Solanum quitoense」",
+      "source": "Wikipedia (en): Solanum quitoense",
       "source_url": "https://en.wikipedia.org/wiki/Solanum_quitoense",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376513742,
       "text": "Solanum quitoense, known as naranjilla in Ecuador, Costa Rica, Nicaragua, and Panama and as lulo in Colombia, is a tropical perennial plant from northwestern South America."
+    },
+    "es": {
+      "source": "Wikipedia (es): Solanum quitoense",
+      "source_url": "https://es.wikipedia.org/wiki/Solanum_quitoense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175630685,
+      "text": "Solanum quitoense es una planta perenne subtropical del noroeste de América del Sur. Su fruta es conocida como naranjilla en Ecuador, Panamá, Nicaragua y Costa Rica; mientras en Colombia, Venezuela, República Dominicana y México, sobre su zona sur, es conocida como lulo. En Perú es una fruta poco común, pero se puede encontrar en la selva alta, los Andes del norte del país con el nombre de naranjilla o quito quito. El nombre específico quitoense significa \"de Quito\"."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Narangille",
+      "source_url": "https://fr.wikipedia.org/wiki/Narangille",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224770850,
+      "text": "La narangille, Ecuador's naranjille (anglais), ou Lulo (espagnol) est le fruit de la Morelle de Quito, de son nom scientifique Solanum quitoense Lamarck."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Solanum quitoense",
+      "source_url": "https://pt.wikipedia.org/wiki/Solanum_quitoense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71256924,
+      "text": "O lulo, é uma planta tropical do noroeste da América do Sul, da região dos Andes. O epíteto específico para esta espécie significa \"de Quito\", em referência a sua região de ocorrência natural. O fruto é conhecido também como naranjilla (\"laranjinha\") no Equador, Costa Rica e Panamá e como lulo na Colômbia."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Solanum quitoense」の節「Cultivation」",
+        "source": "Wikipedia (en): Solanum quitoense § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Solanum_quitoense#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1376513742,
         "heading": "Cultivation",
         "text": "The naranjilla is not well-suited to large-scale cultivation. Its fruit, like tomatoes, is easily damaged when ripe, so is usually harvested unripe. The fruits are found at markets, and locals commonly prepare beverages by adding sugar and water to the freshly squeezed fruits.\n\n■ Pests and diseases\nSolanum quitoense has limited potential in large-scale agriculture due to the plant's extreme vulnerability to pests and diseases when grown as a crop. One common type of infection is caused by the root-knot nematode. The ripe fruit is also delicate and frequently attacked by fungus, especially when mechanically damaged, so it is often picked unripe to avoid rotting. S. quitoense-specific vascular wilt is caused by a fungus and leads to flaccid fruits and defoliation.\nHybrids are a solution to the nematode pest problem. S. quitoense has been hybridized with other Solanum species, most commonly with S. sessiliflorum, a plant with similar phenotypic traits. The leaves, flowers and fruits of S. sessiliflorum are similar in form to S. quitoense, but the fruits of the former are larger and yellow; the resulting hybrids have fruits with yellowish fruit pulp.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Solanum quitoense § Agricultura",
+        "source_url": "https://pt.wikipedia.org/wiki/Solanum_quitoense#Agricultura",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 71256924,
+        "heading": "Agricultura",
+        "text": "O lulo vem sendo estudado como um flavorizante novo para a indústria alimentícia global, apesar de dificuldades para o seu cultivo em larga escala. Seu fruto, como os tomates (também do gênero Solanum) são sensíveis quando maduros, sendo colhidos ainda verdes.\nNo Brasil, há relatos de seu cultivo com fins comerciais ao menos no Paraná e em Minas Gerais.",
+        "truncated": false
+      }
+    },
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Solanum quitoense § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Solanum_quitoense#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175630685,
+        "heading": "Toxicidad",
+        "text": "Todas las partes de las plantas pertenecientes al género Solanum contienen alcaloides esteroidales, tales como solanidina y tomatidina, cuyo consumo puede afectar negativamente a la salud; consumiéndose únicamente la fruta madura.​",
         "truncated": false
       }
     }
@@ -139,7 +190,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -160,14 +211,14 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/820696-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "climate_description": "seasonally dry tropical",
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/820696-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001030751.webp",
@@ -180,6 +231,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 280,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

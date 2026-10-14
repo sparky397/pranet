@@ -17,18 +17,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "シャシャンボ"
     ],
-    "en": [
-      "sea bilberry"
+    "id": [
+      "Mentigi padang"
     ],
     "zh": [
-      "米飯花",
       "南烛",
+      "米飯花",
       "南烛子",
       "乌饭树",
       "南烛(乌饭树）",
@@ -44,15 +44,15 @@
     "lzh": [
       "南燭"
     ],
-    "id": [
-      "Mentigi padang"
+    "en": [
+      "sea bilberry"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q11240829",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q11240829",
   "search_names": {
@@ -62,22 +62,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「シャシャンボ」",
+      "source": "Wikipedia (ja): シャシャンボ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%9C",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108691300,
       "text": "シャシャンボ は、ツツジ科スノキ属に分類される常緑低木 - 小高木の1種。種小名のbracteatumは苞葉があることを意味する。別名は、ナガバシャシャンボ、サシブノキ、ワクラハ、シャセンボ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Vaccinium bracteatum」",
+      "source": "Wikipedia (en): Vaccinium bracteatum",
       "source_url": "https://en.wikipedia.org/wiki/Vaccinium_bracteatum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1367357304,
       "text": "Vaccinium bracteatum, the sea bilberry or Asiatic bilberry, is a species of Vaccinium native to Asia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Mentigi padang",
+      "source_url": "https://id.wikipedia.org/wiki/Mentigi_padang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29668779,
+      "text": "Vaccinium bracteatum, mentigi padang, mempadang, rangkas atau perangkas adalah spesies Vaccinium yang berasal dari Jepang, Kepulauan Ryukyu, Korea, Tiongkok tengah tenggara dan selatan, Hainan, Taiwan, daratan Asia Tenggara, Jawa, dan Sumatra. Ini adalah pohon kecil atau semak besar, dengan buah berwarna ungu tua yang dapat dimakan. Ini sedang dalam semi-budidaya di Tiongkok. Masyarakat setempat mengumpulkan dan mengkonsumsi buahnya, dan sebagai tambahan mengekstrak pewarna ungu kebiruan dari daunnya, yang digunakan sebagai pewarna rambut, pewarna cuka, dan masakan. Pewarnanya menjadi hitam saat dimasak dengan nasi, memberikan daya tarik kuliner."
     }
   },
   "edible": {
@@ -90,7 +99,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -114,7 +123,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/858854-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -122,7 +131,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/858854-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001048436.webp",
@@ -135,6 +144,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

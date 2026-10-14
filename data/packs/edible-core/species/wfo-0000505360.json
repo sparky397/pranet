@@ -13,28 +13,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "hocysen Queensland"
-    ],
-    "en": [
-      "Cuban jute"
-    ],
-    "zh": [
-      "金午時花",
-      "白背黄花稔",
-      "黄花稔",
-      "黄花母",
-      "黄花母根",
-      "白背黄花棯"
-    ],
-    "cs": [
-      "vlákeň kosolistá"
-    ],
-    "jv": [
-      "sadagori",
+    "id": [
+      "Seleguri",
       "Sidaguri"
     ],
     "ml": [
@@ -46,14 +29,26 @@
     "to": [
       "Teʻehoosi"
     ],
+    "zh": [
+      "白背黄花稔",
+      "金午時花",
+      "黄花稔",
+      "黄花母",
+      "黄花母根",
+      "白背黄花棯"
+    ],
     "sv": [
       "Smalmalva"
     ],
-    "id": [
-      "Sidaguri"
+    "cy": [
+      "Hocysen Queensland"
     ],
     "bn": [
       "লাল বেড়েলা"
+    ],
+    "jv": [
+      "Sidaguri",
+      "sadagori"
     ],
     "min": [
       "Saliguri"
@@ -63,6 +58,9 @@
     ],
     "su": [
       "Sadagori"
+    ],
+    "cs": [
+      "vlákeň kosolistá"
     ],
     "fi": [
       "ruutusiida"
@@ -93,13 +91,16 @@
     ],
     "gor": [
       "Potoheto"
+    ],
+    "en": [
+      "Cuban jute"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3595921",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3595921",
   "search_names": {
@@ -109,13 +110,49 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sida rhombifolia」",
+      "source": "Wikipedia (en): Sida rhombifolia",
       "source_url": "https://en.wikipedia.org/wiki/Sida_rhombifolia",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373584111,
       "text": "Sida rhombifolia, commonly known as arrowleaf sida, is a perennial or sometimes annual plant in the family Malvaceae, native to the Old World tropics and subtropics. Other common names include rhombus-leaved sida, Paddy's lucerne, jelly leaf, and also somewhat confusingly as Cuban jute, Queensland-hemp, and Indian hemp. Synonyms include Malva rhombifolia. It is used in Ayurvedic medicine, where it is known as kurumthotti."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sida rhombifolia",
+      "source_url": "https://es.wikipedia.org/wiki/Sida_rhombifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171583126,
+      "text": "Sida rhombifolia es una especie de planta con flores perteneciente a la familia de las malváceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sida rhombifolia",
+      "source_url": "https://fr.wikipedia.org/wiki/Sida_rhombifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236100600,
+      "text": "Sida rhombifolia est une espèce de plantes dicotylédones de la famille des Malvaceae, sous-famille des Malvoideae, originaire des régions tropicales de l'Ancien Monde."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sida rhombifolia",
+      "source_url": "https://pt.wikipedia.org/wiki/Sida_rhombifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71505572,
+      "text": "Sida rhombifolia, popularmente conhecida como guanxuma, é uma espécie de planta com flor pertencente à família Malvaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Seleguri",
+      "source_url": "https://id.wikipedia.org/wiki/Seleguri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29877321,
+      "text": "Seleguri  atau sidaguri adalah tanaman perdu dengan bunga berwarna kuning dan akarnya bisa dijadikan obat. Sidaguri menyebar ke Assam, India, dan bahkan menyebar ke Eropa sebagai obat untuk reumatik."
     }
   },
   "edible": {
@@ -131,7 +168,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -315,7 +352,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/235798-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or subshrub",
@@ -323,7 +360,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/235798-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000505360.webp",
@@ -336,6 +373,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

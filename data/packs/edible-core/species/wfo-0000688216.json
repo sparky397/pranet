@@ -20,51 +20,21 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "インドゴムノキ"
     ],
-    "en": [
-      "Indian rubberplant",
-      "Rubber Bush"
-    ],
-    "fi": [
-      "huonekumipuu",
-      "Kumiviikuna"
-    ],
-    "fr": [
-      "Arbre à caoutchouc",
-      "arbre à la gomme",
-      "arbre du caoutchouc",
-      "figuier caoutchouc",
-      "figuier élastique",
-      "gommier"
-    ],
-    "hu": [
-      "Szobafikusz"
-    ],
-    "it": [
-      "Albero della gomma"
+    "id": [
+      "Karet merah",
+      "Karet kebo"
     ],
     "pt": [
       "Árvore-da-borracha",
       "Borracheira",
       "Falsa-seringueira",
       "Figueira-branca"
-    ],
-    "zh": [
-      "印度橡膠樹",
-      "印度榕",
-      "橡皮树"
-    ],
-    "vi": [
-      "đa búp đỏ"
-    ],
-    "sl": [
-      "navadni smokvovec",
-      "navadni fikus"
     ],
     "pl": [
       "Figowiec sprężysty"
@@ -78,11 +48,18 @@
     "ta": [
       "சீமை ஆல்"
     ],
+    "fi": [
+      "kumiviikuna",
+      "huonekumipuu"
+    ],
     "uk": [
       "фікус каучуконосний"
     ],
     "de": [
       "Gummibaum"
+    ],
+    "vi": [
+      "đa búp đỏ"
     ],
     "lt": [
       "Stambialapis fikusas"
@@ -108,8 +85,10 @@
     "fa": [
       "فیکوس"
     ],
-    "id": [
-      "Karet kebo"
+    "zh": [
+      "印度榕",
+      "印度橡膠樹",
+      "橡皮树"
     ],
     "af": [
       "Rubberplant"
@@ -125,6 +104,9 @@
     ],
     "ar": [
       "تين مرن"
+    ],
+    "hu": [
+      "szobafikusz"
     ],
     "cs": [
       "fíkovník pryžodárný"
@@ -170,13 +152,32 @@
     ],
     "bn": [
       "ভারতীয় রাবার"
+    ],
+    "sl": [
+      "navadni fikus",
+      "navadni smokvovec"
+    ],
+    "en": [
+      "Indian rubberplant",
+      "Rubber Bush"
+    ],
+    "fr": [
+      "Arbre à caoutchouc",
+      "arbre à la gomme",
+      "arbre du caoutchouc",
+      "figuier caoutchouc",
+      "figuier élastique",
+      "gommier"
+    ],
+    "it": [
+      "Albero della gomma"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q160576",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q160576",
   "search_names": {
@@ -191,46 +192,115 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「インドゴムノキ」",
+      "source": "Wikipedia (ja): インドゴムノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B4%E3%83%A0%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106349610,
       "text": "インドゴムノキ は、クワ科イチジク属の常緑高木。別名、アッサムゴムともいい、単に「ゴムノキ」と呼ばれることもある。北西インド（アッサム地方）からインドシナ（スマトラ、ジャワ）の原産。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Ficus elastica」",
+      "source": "Wikipedia (en): Ficus elastica",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_elastica",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1367356927,
       "text": "Ficus elastica, the rubber fig, rubber bush, rubber tree, rubber plant, or Indian rubber bush, Indian rubber tree, or rambung is a species of flowering plant in the family Moraceae, native to eastern parts of South and Southeast Asia. Its common names reflect its historical use as a source of rubber within its native range, but it is not used in the modern commercial-scale production of natural rubber."
+    },
+    "es": {
+      "source": "Wikipedia (es): Ficus elastica",
+      "source_url": "https://es.wikipedia.org/wiki/Ficus_elastica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172280571,
+      "text": "Ficus elastica, llamado comúnmente árbol del caucho gomero o caucho sabanero, es una especie perennifolia del género Ficus nativa del nordeste de India (Assam), oeste de Indonesia. Fue introducida en Europa en 1815 como planta de interior."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ficus elastica",
+      "source_url": "https://fr.wikipedia.org/wiki/Ficus_elastica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239296500,
+      "text": "Le figuier à caoutchouc, ou plus couramment caoutchouc, est un arbre sempervirent de la famille des Moracées, originaire d'Asie. C'est une plante qui produit du latex. Elle est aussi cultivée en pot comme plante d'intérieur dans les pays tempérés. Cette espèce est en régression à la suite de la contamination des cultures par un champignon pathogène."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Ficus elastica",
+      "source_url": "https://pt.wikipedia.org/wiki/Ficus_elastica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70152698,
+      "text": "Ficus elastica, conhecida pelo nome comum de árvore-da-borracha, planta da borracha ou falsa-seringueira, é uma Moraceae tropical, originária de uma vasta região que se estende desde o subcontinente indiano (Assam) até à Malásia e à Indonésia, frequentemente utilizada como árvore de interior e como ornamental em zonas tropicais e subtropicais."
+    },
+    "id": {
+      "source": "Wikipedia (id): Karet merah",
+      "source_url": "https://id.wikipedia.org/wiki/Karet_merah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28902618,
+      "text": "Karet merah  atau karet kebo adalah spesies tumbuhan yang berasal dari genus ficus, asli timur laut India, Nepal, Bhutan, Myanmar, China (Yunnan), Malaysia, dan Indonesia. Kemudian dibawa ke Sri Lanka, Hindia Barat, dan Negara bagian Florida."
     }
   },
   "sections": {
     "cultivation": {
       "ja": {
-        "source": "Wikipedia 日本語版「インドゴムノキ」の節「栽培」",
+        "source": "Wikipedia (ja): インドゴムノキ § 栽培",
         "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B4%E3%83%A0%E3%83%8E%E3%82%AD#%E6%A0%BD%E5%9F%B9",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 106349610,
         "heading": "栽培",
         "text": "日当たりを好む性質で、屋内の窓際などに置かれるが、夏場の強い日差しに当たると葉焼けを起こす場合もある。春から秋にかけて、表土が乾く都度たくさんの水やりと、1か月おき程度に施肥（主に液肥）を行う。耐陰性は高いが直射日光が当たらない場合は半蔓性があり、太陽を目指して他の構造物（自生地の場合は多くは高木）を頼りにしてひょろひょろと育つことがある。また育成環境が良いと巨大化や根詰まりにもなるので施肥のしすぎには注意が必要である。\n日本の大半の地域では冬は休眠期になり、乾燥気味に管理するが乾燥しすぎないように注意を要する。園芸品種 ‘デコラ・トリカラー’ などは寒さに弱く、冬越しでも10℃以上は保った方がよいと言われている。",
         "truncated": false
       },
       "en": {
-        "source": "Wikipedia 英語版「Ficus elastica」の節「Cultivation」",
+        "source": "Wikipedia (en): Ficus elastica § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Ficus_elastica#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1367356927,
         "heading": "Cultivation",
         "text": "In parts of India, people guide the roots of the tree over chasms to eventually form living bridges. To this day there are large bridges woven from aerial roots in Meghalaya, India. Although the trees used for these bridges are very large, aerial roots can be found on F. elastica as small as 1 feet tall.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Ficus elastica § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Ficus_elastica#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 239296500,
+        "heading": "Culture",
+        "text": "En culture, il préfère les expositions bien ensoleillées mais n'aime pas les températures trop élevées. Il a une assez grande tolérance à la sécheresse, mais préfère l'humidité et prospère dans des conditions tropicales humides. Pour les cultures comme plante ornementale, on emploie généralement des hybrides dérivés de Ficus elastica Robusta à feuilles plus larges, plus raides et plus dressées, plutôt que des formes sauvages. Il en existe de nombreuses variétés, souvent à feuilles panachées.\nLa plupart des plantes cultivées sont produites par multiplication végétative. Celle-ci peut se faire par bouturage ou par marcottage. Cette dernière méthode consiste à entailler la tige de la plante. La blessure, qui laisse suinter le latex de la plante, est enduite d'hormones de bouturage et enveloppée de façon serrée avec de la mousse humide. L'ensemble est recouvert d'un film plastique et laissé quelques mois au bout desquels de nouvelles racines se sont développées à partir des bourgeons axillaires. La tige est alors sevrée et la nouvelle plante peut être rempotée.",
+        "truncated": false
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Ficus elastica § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Ficus_elastica#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 70152698,
+        "heading": "Cultivo",
+        "text": "A Ficus elastica é uma das plantas de interior mais populares do mundo, sendo cultivada com este objectivo em praticamente toda a Terra. Foram desenvolvidos diversos cultivares, diferindo na dimensão e coloração das folhas, com destaque para variedades com folhas variegadas e com descoloração diversa. O cultivar mais comum é o Robusta, de grandes folhas, muito lustrosas e rígidas. Como árvore ornamental é usada em regiões livres de geada, desde as zonas tropicais até às regiões de clima mediterrânico.\nA planta cresce melhor em zonas com forte insolação, embora seja extremamente tolerante à sombra. Temperaturas muito elevadas reduzem o crescimento das folhas. Suporta bem a seca, mas prefere zonas bem irrigadas.\nDada a dependência em relação à vespa polinizadora, fora do seu habitat natural a reprodução é assexuada, sendo fácil o enraizamento de estacas e a indução de formação de raízes em ramos através da utilização de hormonas.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Karet merah § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Karet_merah#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 28902618,
+        "heading": "Budidaya",
+        "text": "Budidaya tanaman ini bisa diperbanyak dengan stek atau lapisan udara. Perbanyakan karet kebo dapat dilakukan dengan stek batang. Karet kebo dirawat dengan disiram air yang cukup, dijaga kelembapan tanahnya, dan dipupuk dengan pupuk organik.",
         "truncated": false
       }
     }
@@ -249,7 +319,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -306,7 +376,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60458499-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -314,7 +384,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/60458499-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000688216.webp",
@@ -327,6 +397,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 226,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

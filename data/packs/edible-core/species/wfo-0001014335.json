@@ -19,15 +19,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "prairie rose"
-    ],
-    "zh": [
-      "阿根索蔷薇"
-    ],
     "fa": [
       "رز چمنزار"
     ],
@@ -42,34 +36,58 @@
     ],
     "arz": [
       "ورد اركانسانا"
+    ],
+    "zh": [
+      "阿根索蔷薇"
+    ],
+    "en": [
+      "prairie rose"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q145631",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q145631",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Rosa arkansana」",
+      "source": "Wikipedia (en): Rosa arkansana",
       "source_url": "https://en.wikipedia.org/wiki/Rosa_arkansana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1160265273,
       "text": "Rosa arkansana, the prairie rose or wild prairie rose, is a species of rose native to a large area of central North America, between the Appalachian and Rocky Mountains from Alberta, Manitoba, and Saskatchewan south to New Mexico, Texas and Indiana.\nThere are two varieties:Rosa arkansana var. arkansana\nRosa arkansana var. suffulta (Greene) Cockerell"
+    },
+    "es": {
+      "source": "Wikipedia (es): Rosa arkansana",
+      "source_url": "https://es.wikipedia.org/wiki/Rosa_arkansana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 167889724,
+      "text": "Rosa arkansana es una especie de planta del género Rosa, de la familia Rosaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rosa arkansana",
+      "source_url": "https://fr.wikipedia.org/wiki/Rosa_arkansana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237884919,
+      "text": "Le rosier de l'Arkansas, appelé en Amérique du Nord « rosier de la prairie, est une espèce de plantes à fleurs de la famille des Rosaceae. C'est un rosier classé dans la section des Cinnamomeae, originaire d'une vaste région du centre de l'Amérique du Nord, s'étendant entre les Appalaches et les montagnes Rocheuses, depuis l'Alberta, le Manitoba et la Saskatchewan au nord jusqu'au Nouveau-Mexique, au Texas et à l'Indiana vers le sud."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Rosa arkansana」の節「Cultivation」",
+        "source": "Wikipedia (en): Rosa arkansana § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Rosa_arkansana#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1160265273,
         "heading": "Cultivation",
         "text": "Rosa arkansana is grown as an ornamental plant, and has become naturalized in parts of Massachusetts, New York, and North Dakota.",
@@ -87,7 +105,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -127,7 +145,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/731647-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -135,7 +153,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/731647-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001014335.webp",
@@ -148,6 +166,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

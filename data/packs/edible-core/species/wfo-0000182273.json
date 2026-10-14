@@ -14,9 +14,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
+    "fr": [
+      "Cassier"
+    ],
+    "id": [
+      "Bunga siam"
+    ],
     "zh": [
       "金合欢"
     ],
@@ -74,9 +80,6 @@
     "bn": [
       "গুয়ে বাবলা"
     ],
-    "id": [
-      "Bunga siam"
-    ],
     "he": [
       "שיטת המשוכות"
     ],
@@ -91,7 +94,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q23055981",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q23055981",
   "search_names": {
@@ -105,13 +108,64 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Vachellia farnesiana」",
+      "source": "Wikipedia (en): Vachellia farnesiana",
       "source_url": "https://en.wikipedia.org/wiki/Vachellia_farnesiana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376278863,
       "text": "Vachellia farnesiana, also known as Acacia farnesiana, and previously Mimosa farnesiana, commonly known as sweet acacia, huisache, casha tree, or needle bush, is a species of shrub or small tree in the legume family, Fabaceae. Its flowers are used in the perfume industry."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vachellia farnesiana",
+      "source_url": "https://es.wikipedia.org/wiki/Vachellia_farnesiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175383202,
+      "text": "Vachellia farnesiana, conocida comúnmente como aromo, güisache, güizache, huisache o huizache es una especie arbórea del género Vachellia. Posiblemente originaria de la América tropical, se encuentra naturalizada y cultivada en todo el mundo. Es el árbol oficial de la ciudad de Cúcuta, en Colombia."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cassier",
+      "source_url": "https://fr.wikipedia.org/wiki/Cassier",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 236299432,
+      "text": "Le Cassier, appelé parfois Cassie ancienne, Cassie du Levant, Mimosa de Farnèse, est une espèce de plantes à fleurs de la famille des Mimosaceae selon la classification classique, ou à celle des Fabaceae, sous-famille des Mimosoideae, selon la classification phylogénétique. C'est un arbuste originaire d'Amérique tropicale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Vachellia farnesiana",
+      "source_url": "https://pt.wikipedia.org/wiki/Vachellia_farnesiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72112214,
+      "text": "Vachellia farnesiana conhecida como Acácia-amarela, é uma árvore ornamental cujo fruto em forma de vagem se forma entre os meses de julho e dezembro. Ela pode crescer até 2 m e também possui espinhos. Logo é ótima para ser utilizada como cerca viva. É muito conhecida pelas suas lindas flores amarelas, que aparecem entre os meses de junho a agosto."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bunga siam",
+      "source_url": "https://id.wikipedia.org/wiki/Bunga_siam",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29693080,
+      "text": "Vachellia farnesiana, juga dikenal sebagai Acacia farnesiana, dan sebelumnya Mimosa farnesiana, umumnya dikenal sebagai akasia manis, bunga siam, atau semak jarum, adalah spesies semak atau pohon kecil dalam keluarga kacang-kacangan, Fabaceae. Bunganya digunakan dalam industri parfum."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Vachellia farnesiana § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Vachellia_farnesiana#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175699339,
+        "heading": "Toxicidad",
+        "text": "Las especies del género Acacia pueden contener derivados de la dimetiltriptamina y glucósidos cianogénicos en las hojas, las semillas y la corteza, cuya ingestión puede suponer un riesgo para la salud.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -129,7 +183,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -272,7 +326,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1099713-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -280,7 +334,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1099713-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000182273.webp",
@@ -293,6 +347,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -27,42 +27,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "アレッポマツ"
     ],
-    "es": [
-      "Pino Carrasco",
-      "Pino de Alepo"
-    ],
-    "fr": [
-      "Pin d'Alep",
-      "Pin blanc de Provence"
-    ],
-    "en": [
-      "Aleppo Pine"
-    ],
-    "it": [
-      "pino d'Aleppo"
-    ],
-    "de": [
-      "Aleppokiefer",
-      "Aleppo-Kiefer"
-    ],
-    "zh": [
-      "叙利亚松",
-      "地中海松"
-    ],
-    "ast": [
-      "pinu d'alepu"
-    ],
-    "sl": [
-      "alepski bor"
-    ],
-    "ca": [
-      "pi blanc"
+    "pt": [
+      "Pinheiro-de-alepo"
     ],
     "eu": [
       "Alepo pinu"
@@ -79,6 +51,10 @@
     "hu": [
       "aleppóifenyő"
     ],
+    "de": [
+      "Aleppo-Kiefer",
+      "Aleppokiefer"
+    ],
     "el": [
       "Χαλέπιος πεύκη"
     ],
@@ -94,9 +70,6 @@
     "sv": [
       "Aleppotall"
     ],
-    "pt": [
-      "Pinheiro-de-alepo"
-    ],
     "eo": [
       "Halepa pino"
     ],
@@ -108,6 +81,9 @@
     ],
     "tr": [
       "Halep çamı"
+    ],
+    "ca": [
+      "pi blanc"
     ],
     "fi": [
       "alepponmänty"
@@ -141,6 +117,10 @@
     ],
     "sh": [
       "Alepski bor"
+    ],
+    "zh": [
+      "地中海松",
+      "叙利亚松"
     ],
     "bg": [
       "алепски бор"
@@ -187,35 +167,82 @@
     "arz": [
       "صنوبر حلبى"
     ],
+    "sl": [
+      "alepski bor"
+    ],
     "grc": [
       "πεύκη παραλία"
+    ],
+    "es": [
+      "Pino Carrasco",
+      "Pino de Alepo"
+    ],
+    "fr": [
+      "Pin d'Alep",
+      "Pin blanc de Provence"
+    ],
+    "en": [
+      "Aleppo Pine"
+    ],
+    "it": [
+      "pino d'Aleppo"
+    ],
+    "ast": [
+      "pinu d'alepu"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q211457",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q211457",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「アレッポマツ」",
+      "source": "Wikipedia (ja): アレッポマツ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%83%9D%E3%83%9E%E3%83%84",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 111315897,
       "text": "アレッポマツ は、地中海地方に自生するマツの1種である。モロッコ、アルジェリアなど地中海沿岸のマグリブ全域、スペインから北は南フランス、イタリア、クロアチア、東はギリシア、北リビアに分布する。シリア（語源となったアレッポ地方を含む）、ヨルダン、イスラエルでは最も多い樹種の1つである。標高200メートル (m) までの低い土地でよく見られるが、南スペインでは標高1000 mまで、モロッコ、アルジェリアの南部では標高1700 mまで自生している。シリアのアレッポ原産ではないが、18世紀の錯誤が根強く残ったためにこう呼ばれている。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pinus halepensis」",
+      "source": "Wikipedia (en): Pinus halepensis",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_halepensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375585492,
       "text": "Pinus halepensis, commonly known as the Aleppo pine, also known as the Jerusalem pine, is a species of conifer in the family Pinaceae, a pine native to the Mediterranean region. It was officially named by the botanist Philip Miller in his 1768 book The Gardener's Dictionary; he probably never went to Aleppo but mentions seeing large specimens at Goodwood in the garden of the Duke of Richmond, which were transplanted in 1739."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus halepensis",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_halepensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175729259,
+      "text": "El Pinus halepensis, comúnmente conocido como pino carrasco o pino blanco, es una especie de árbol del género Pinus en la familia Pinaceae. Es originario de la región mediterránea, tanto del norte como del sur."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pinus halepensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Pinus_halepensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239803679,
+      "text": "Le pin blanc de Provence ou pin d'Alep est un conifère de la famille des Pinacées. C'est le botaniste écossais Philip Miller qui lui donna abusivement ce nom scientifique, en 1768. En effet, c'est le pin de Calabre qui pousse principalement dans la région d'Alep. Sa répartition géographique est essentiellement autour des côtes méditerranéennes, et plus particulièrement en Afrique du Nord et en Espagne. Il est parfois appelé pin de Jérusalem."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinheiro-de-alepo",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinheiro-de-alepo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73050415,
+      "text": "O Pinheiro-de-Alepo é uma espécie de pinheiro originária do Velho Mundo, mais precisamente da região do Mediterrâneo."
     }
   },
   "edible": {
@@ -230,7 +257,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -268,7 +295,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262982-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -276,7 +303,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/262982-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000481363.webp",
@@ -289,6 +316,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

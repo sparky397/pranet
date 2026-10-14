@@ -32,24 +32,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "ヒカマ"
     ],
-    "en": [
-      "yam bean"
-    ],
-    "zh": [
-      "豆薯",
-      "凉薯",
-      "厚膜藻",
-      "豆薯/凉薯",
-      "凉薯子",
-      "凉薯花",
-      "地瓜子",
-      "地瓜籽"
+    "id": [
+      "Bengkuang"
     ],
     "nl": [
       "Yamboon"
@@ -59,9 +49,6 @@
     ],
     "fi": [
       "pikkujamssipapu"
-    ],
-    "id": [
-      "Bengkuang"
     ],
     "jv": [
       "Bengkowang"
@@ -92,6 +79,16 @@
     ],
     "vi": [
       "Cây củ đậu"
+    ],
+    "zh": [
+      "凉薯",
+      "豆薯",
+      "厚膜藻",
+      "豆薯/凉薯",
+      "凉薯子",
+      "凉薯花",
+      "地瓜子",
+      "地瓜籽"
     ],
     "et": [
       "Söödav ubajuur"
@@ -155,13 +152,16 @@
     ],
     "shn": [
       "တူၼ်ႈထူဝ်ႇၵိၼ်ႁူဝ်"
+    ],
+    "en": [
+      "yam bean"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q517283",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q517283",
   "search_names": {
@@ -173,35 +173,95 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「ヒカマ」",
+      "source": "Wikipedia (ja): ヒカマ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%AB%E3%83%9E",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108516325,
       "text": "ヒカマ は、メキシコ原産のマメ科の多年生草本で、先住民族の伝統的な野菜である。若い株の塊茎状の根が食用に供される。和名は地表部が同じマメ科のクズ（葛）に似ており、地下の芋を食用にすることからクズイモ（葛芋）の名が当てられている。熱帯アジアなどにも伝播して普及し、日本でも沖縄などで栽培されることがあるものの、日本の食品市場では極めて稀にしか流通しない。中国名は、豆薯。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pachyrhizus erosus」",
+      "source": "Wikipedia (en): Pachyrhizus erosus",
       "source_url": "https://en.wikipedia.org/wiki/Pachyrhizus_erosus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1364028845,
       "text": "Pachyrhizus erosus, commonly known as jícama or Mexican turnip, is a native Mesoamerican vine, although the name jícama most commonly refers to the plant's edible tuberous root. It is in the pea family (Fabaceae). Pachyrhizus tuberosus and Pachyrhizus ahipa are the other two cultivated species in the genus. The naming of this group of edible plants can sometimes be confusing, with much overlap of similar, or the same, common names."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pachyrhizus erosus",
+      "source_url": "https://es.wikipedia.org/wiki/Pachyrhizus_erosus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175370649,
+      "text": "La jícama, pelenga o nabo mexicano es una planta leguminosa originaria de México, cultivada especialmente por sus raíces tuberosas, las cuales son comestibles. El origen de la palabra jícama es del náhuatl xīcama o xīcamatl que quiere decir \"Papel ombligo\".Tras la Conquista, la jícama fue llevada por los españoles a las islas Filipinas, de donde se extendió a muchas partes de Asia. En Ecuador se conoce con el nombre de jícama al yacón, una planta comestible de la familia de las margaritas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pachyrhizus erosus",
+      "source_url": "https://fr.wikipedia.org/wiki/Pachyrhizus_erosus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237057949,
+      "text": "Pachyrhizus erosus, appelé parfois jicama, ou pois patate ou navet mexicain, est une espèce de plantes à fleurs de la famille des Fabaceae. C'est une plante grimpante originaire du Mexique et d'Amérique centrale."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pachyrhizus erosus",
+      "source_url": "https://pt.wikipedia.org/wiki/Pachyrhizus_erosus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 66881823,
+      "text": "A jícama, pelenga ou nabo-mexicano é uma planta leguminosa originária do México. É cultivada especialmente pelas suas raízes tuberosas, que são comestíveis. A origem da palavra jícama é do Nahuatl xīcama ou xīcamatl, que significa raiz aquosa. Após a conquista, a jícama foi levada pelos espanhóis para as ilhas Filipinas, de onde se espalhou para muitas partes da Ásia. No Equador, é conhecida pelo nome de jícama al yacón, uma planta comestível da família das Asteraceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bengkuang",
+      "source_url": "https://id.wikipedia.org/wiki/Bengkuang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 26314358,
+      "text": "Bengkuang atau sengkuang dikenal dari umbi (cormus) putihnya yang bisa dimakan sebagai komponen rujak dan asinan atau dijadikan masker untuk menyegarkan wajah dan memutihkan kulit. Tumbuhan yang berasal dari Benua Amerika ini termasuk dalam suku polong-polongan atau Fabaceae. Dalam Bahasa Spanyol, tumbuhan ini dikenal sebagai xicama atau jícama. Orang Jawa menyebutnya sebagai besusu (/bəsusu/)."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Pachyrhizus erosus」の節「Toxicity」",
+        "source": "Wikipedia (en): Pachyrhizus erosus § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Pachyrhizus_erosus#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1364028845,
         "heading": "Toxicity",
         "text": "In contrast to the root, the remainder of the plant is very poisonous; the seeds contain the toxin rotenone, which is used to poison insects and fish. Mature seeds, flowers, and beans have a high rotenone content. Commercial jícama cultivation considered using them as an insecticide source.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Pachyrhizus erosus § Toxicité",
+        "source_url": "https://fr.wikipedia.org/wiki/Pachyrhizus_erosus#Toxicit%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237057949,
+        "heading": "Toxicité",
+        "text": "Les graines de Pachyrhizus erosus contiennent environ 0,5 % de roténone pure et 0,5 % de roténoïdes et saponines, ce qui interdit leur consommation par l'homme bien qu'elles pourraient être une source intéressante d'huile et de protéines végétales.",
+        "truncated": false
+      }
+    },
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Pachyrhizus erosus § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Pachyrhizus_erosus#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 237057949,
+        "heading": "Culture",
+        "text": "Le jícama est sensible au gel et nécessite neuf mois sans gel pour une bonne récolte de gros tubercules ou pour le cultiver commercialement. Il vaut la peine de le cultiver dans les zones plus fraîches qui ont au moins cinq mois sans gel, car il produira toujours des tubercules, mais ils seront plus petits. Les zones chaudes et tempérées avec au moins cinq mois sans gel peuvent commencer à semer huit à dix semaines avant le dernier gel de printemps. Les graines ont besoin de températures chaudes pour germer, les pots devront donc être conservés dans un endroit chaud. Le jícama ne convient pas aux régions à courte saison de croissance, sauf s'il est cultivé en serre. Les cultivateurs des régions tropicales peuvent semer à tout moment de l'année. Ceux des régions subtropicales doivent semer une fois le sol réchauffé au printemps.",
         "truncated": false
       }
     }
@@ -220,7 +280,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -294,7 +354,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/179936-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing tuberous geophyte",
@@ -302,7 +362,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/179936-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000183119.webp",
@@ -315,6 +375,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 268,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

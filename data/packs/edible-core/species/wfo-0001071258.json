@@ -25,18 +25,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "サッサフラス"
-    ],
-    "en": [
-      "Mitten tree"
-    ],
-    "zh": [
-      "白檫木",
-      "北美檫樹"
     ],
     "hu": [
       "szasszafrász babérfa"
@@ -49,6 +42,10 @@
     ],
     "pl": [
       "sasafras lekarski"
+    ],
+    "zh": [
+      "北美檫樹",
+      "白檫木"
     ],
     "bg": [
       "сасафрас"
@@ -64,33 +61,78 @@
     ],
     "ar": [
       "السسافراس"
+    ],
+    "en": [
+      "Mitten tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q584469",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q584469",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「サッサフラス」",
+      "source": "Wikipedia (ja): サッサフラス",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%83%E3%82%B5%E3%83%95%E3%83%A9%E3%82%B9",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106362524,
       "text": "サッサフラス は、クスノキ科サッサフラス属に分類される落葉高木の1種である。サッサフラスノキともよばれる。葉は互生、無裂または2–3裂する（図1）。雌雄異株（雄花と雌花が別の木につく）であり、花期は春、葉が展開する前に緑黄色の小さな花からなる花序がつく（図1）。果実は核果、晩夏に青黒く熟す。北米東部に分布し、先駆樹（植生遷移の初期段階に侵入する木）の性質をもつ。芳香があり、香辛料や香料、薬用にしばしば用いられる。ただし、根の精油主成分であるサフロールには肝毒性などがあり、使用禁止とされていることが多い。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Sassafras albidum」",
+      "source": "Wikipedia (en): Sassafras albidum",
       "source_url": "https://en.wikipedia.org/wiki/Sassafras_albidum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376040117,
       "text": "Sassafras albidum is a species of Sassafras native to eastern North America. It has a number of culinary and other uses."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sassafras albidum",
+      "source_url": "https://es.wikipedia.org/wiki/Sassafras_albidum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171666655,
+      "text": "Sassafras albidum es una especie de árbol perteneciente a la familia de las lauráceas. Es originaria del este de Norteamérica, desde el sur de Maine y sur de Ontario hasta Iowa, y al sur a Florida y este de Texas. Se encuentra en los bosques caducifolios a una altitud de 1500 metros. Anteriormente también se dio en el sur de Wisconsin, pero allí se extinguió como árbol autóctono."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sassafras albidum",
+      "source_url": "https://fr.wikipedia.org/wiki/Sassafras_albidum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 235968625,
+      "text": "Sassafras albidum, le Laurier des Iroquois, est une espèce de plantes à fleurs de la famille des Lauracées. C'est une plante ornementale originaire d’Amérique du Nord, du sud du Maine, du sud-ouest de l’Ontario, de l’Iowa, du sud de la Floride centrale et de l’est du Texas. Il se reproduit dans tout type d’habitat de forêt décidue orientale, jusqu'à une altitude de 1 500 m. Autrefois présente dans le sud du Wisconsin, elle en a disparu en tant qu'arbre indigène. C'est un arbre qui peut atteindre 15 à 20 mètres de haut dans son milieu d'origine. Il résiste à des températures de -20°C."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Sassafras albidum",
+      "source_url": "https://pt.wikipedia.org/wiki/Sassafras_albidum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 73163758,
+      "text": "Sassafras albidum é uma espécie do género Sassafras, uma árvore nativa do leste da América do Norte, tradicionalmente cultivada pelo seu perfume. Em algumas referências, esta espécie é chamada em língua portuguesa “canela-de-sassafrás”, embora este nome seja mais utilizado para a espécie brasileira Ocotea odorifera, que tem algumas das mesmas propriedades químicas."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Sassafras albidum § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Sassafras_albidum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171666655,
+        "heading": "Cultivo",
+        "text": "Sassafras albidum a menudo se cultiva como árbol ornamental por sus hojas inusuales y olor aromático. Fuera de su área nativa, en ocasiones se cultiva en Europa y otros lugares.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -103,7 +145,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -148,7 +190,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/468624-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -156,7 +198,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/468624-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001071258.webp",
@@ -169,6 +211,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

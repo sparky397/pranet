@@ -100,13 +100,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "梦幻城",
-      "金刚球"
-    ],
     "ru": [
       "Маммиллярия крупнососочковая"
     ],
@@ -115,37 +111,70 @@
     ],
     "vi": [
       "Xương rồng sầu riêng"
+    ],
+    "zh": [
+      "梦幻城",
+      "金刚球"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q142726",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q142726",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Mammillaria magnimamma」",
+      "source": "Wikipedia (en): Mammillaria magnimamma",
       "source_url": "https://en.wikipedia.org/wiki/Mammillaria_magnimamma",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1325360907,
       "text": "Mammillaria magnimamma, common name Mexican pincushion, is a species of flowering plant in the cactus family Cactaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Mammillaria magnimamma",
+      "source_url": "https://es.wikipedia.org/wiki/Mammillaria_magnimamma",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 165367410,
+      "text": "Mammillaria magnimamma, conocida como biznaga de chilitos en el estado de Hidalgo, es una especie perteneciente a la familia Cactaceae. Es endémico de México."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Mammillaria magnimamma",
+      "source_url": "https://fr.wikipedia.org/wiki/Mammillaria_magnimamma",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 220369251,
+      "text": "Mammillaria magnimamma, ou « Pince mexicaine », est une espèce de plante à fleurs du genre Mammillaria de la famille des Cactaceae."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Mammillaria magnimamma」の節「Cultivation」",
+        "source": "Wikipedia (en): Mammillaria magnimamma § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Mammillaria_magnimamma#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1325360907,
         "heading": "Cultivation",
         "text": "Mammillaria magnimamma can tolerate temperatures down to 1 °C (34 °F), so in temperate zones may be placed outside during the summer months, but in winter requires protection from frost and inclement weather. It needs to be grown in a well-drained medium in full sun. It has gained the Royal Horticultural Society's Award of Garden Merit.",
+        "truncated": false
+      },
+      "fr": {
+        "source": "Wikipedia (fr): Mammillaria magnimamma § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Mammillaria_magnimamma#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 220369251,
+        "heading": "Culture",
+        "text": "Mammillaria magnimamma  peut tolérer des températures de 1 °C, il peut donc être placé, dans les zones tempérées, à l'extérieur pendant les mois d'été, mais en hiver il est nécessaire de le protéger contre le gel et les intempéries. Il doit être cultivé dans un milieu bien drainé en plein soleil. Il a remporté le Award of Garden Merit de la Royal Horticultural Society.",
         "truncated": false
       }
     }
@@ -159,7 +188,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -172,7 +201,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/134794-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent subshrub",
@@ -180,7 +209,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/134794-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001247809.webp",
@@ -193,6 +222,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

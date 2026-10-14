@@ -16,54 +16,19 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Common Club-rush",
-      "lakeshore bulrush"
-    ],
-    "cy": [
-      "llafrwynen"
-    ],
-    "de": [
-      "Gewöhnliche Teichbinse",
-      "Gewöhnliche Teichsimse"
-    ],
-    "et": [
-      "Järvekõrkjas",
-      "Järvkaisel"
-    ],
-    "hsb": [
-      "Hatna syć"
-    ],
-    "lt": [
-      "Ežerinis meldas"
-    ],
-    "nl": [
-      "Mattenbies"
-    ],
-    "pl": [
-      "Oczeret jeziorny"
+    "fr": [
+      "Scirpe lacustre",
+      "Jonc des Chaisiers",
+      "scirpe des lacs, jonc des chaisiers commun"
     ],
     "pt": [
       "Bunho"
     ],
-    "sv": [
-      "Säv"
-    ],
-    "fr": [
-      "Jonc des Chaisiers",
-      "scirpe des lacs, jonc des chaisiers commun"
-    ],
-    "cs": [
-      "skřípinec jezerní"
-    ],
-    "fi": [
-      "järvikaisla"
-    ],
-    "zh": [
-      "沼生水葱"
+    "pl": [
+      "oczeret jeziorny"
     ],
     "he": [
       "אגמון האגם"
@@ -71,8 +36,31 @@
     "be": [
       "Чарот азёрны"
     ],
+    "fi": [
+      "järvikaisla"
+    ],
+    "et": [
+      "järvkaisel",
+      "Järvekõrkjas"
+    ],
+    "de": [
+      "Gewöhnliche Teichbinse",
+      "Gewöhnliche Teichsimse"
+    ],
+    "lt": [
+      "Ežerinis meldas"
+    ],
+    "hsb": [
+      "Hatna syć"
+    ],
+    "sv": [
+      "Säv"
+    ],
     "da": [
       "Sø-Kogleaks"
+    ],
+    "nl": [
+      "Mattenbies"
     ],
     "gl": [
       "Buño"
@@ -89,11 +77,20 @@
     "csb": [
       "Jezórny òczerôk"
     ],
+    "cy": [
+      "Llafrwynen"
+    ],
+    "cs": [
+      "skřípinec jezerní"
+    ],
     "am": [
       "ሙሽ"
     ],
     "arz": [
       "جولان بحيرى"
+    ],
+    "zh": [
+      "沼生水葱"
     ],
     "lv": [
       "Ezera meldrs"
@@ -106,13 +103,17 @@
     ],
     "grc": [
       "ὁλόσχοινος"
+    ],
+    "en": [
+      "Common Club-rush",
+      "lakeshore bulrush"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q158956",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q158956",
   "search_names": {
@@ -122,13 +123,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Schoenoplectus lacustris」",
+      "source": "Wikipedia (en): Schoenoplectus lacustris",
       "source_url": "https://en.wikipedia.org/wiki/Schoenoplectus_lacustris",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1318094352,
       "text": "Schoenoplectus lacustris, the common club-rush, is a species of club-rush that grows in fresh water across Europe, much of Asia, and with a disjunct population in southern Africa."
+    },
+    "es": {
+      "source": "Wikipedia (es): Schoenoplectus lacustris",
+      "source_url": "https://es.wikipedia.org/wiki/Schoenoplectus_lacustris",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581133,
+      "text": "El junco de laguna o junco lacustre es una planta de la familia de las ciperáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Scirpe lacustre",
+      "source_url": "https://fr.wikipedia.org/wiki/Scirpe_lacustre",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 206849140,
+      "text": "Le Scirpe aigu, appelé aussi Jonc des chaisiers ou Jonc des tonneliers, est une espèce de plante vivace herbacée de la famille des Cyperaceae. Elle croît dans les zones humides et est utilisée comme plante pour lutter contre l'érosion."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Bunho",
+      "source_url": "https://pt.wikipedia.org/wiki/Bunho",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 59188121,
+      "text": "O bunho é uma erva vivaz da família das ciperáceas nativa da Europa. Era anteriormente classificado com Scirpus lacustris. Possui espiguetas ovóides e frutos aquênicos."
     }
   },
   "edible": {
@@ -142,7 +170,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -233,7 +261,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1019162-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -241,7 +269,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1019162-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000527292.webp",
@@ -254,6 +282,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

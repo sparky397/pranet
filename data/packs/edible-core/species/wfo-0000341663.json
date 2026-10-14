@@ -20,16 +20,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オオバンガジュツ"
     ],
-    "en": [
-      "rotund boesenbergia",
-      "fingerroot",
-      "Chinese Ginger"
+    "id": [
+      "Temu kunci"
     ],
     "nl": [
       "Temu kunci"
@@ -48,9 +46,6 @@
     ],
     "th": [
       "กระชาย"
-    ],
-    "id": [
-      "Temu kunci"
     ],
     "zh": [
       "凹唇薑"
@@ -72,13 +67,18 @@
     ],
     "ko": [
       "핑거루트"
+    ],
+    "en": [
+      "rotund boesenbergia",
+      "fingerroot",
+      "Chinese Ginger"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1074199",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1074199",
   "search_names": {
@@ -88,22 +88,49 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オオバンガジュツ」",
+      "source": "Wikipedia (ja): オオバンガジュツ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%83%B3%E3%82%AC%E3%82%B8%E3%83%A5%E3%83%84",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 103109269,
       "text": "オオバンガジュツ は、中国及び東南アジアが原産の医薬品や料理に使われるハーブである。地下茎の形が指の形に似ているため、英語では、伝統的に根の部分はfingerrootと呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Boesenbergia rotunda」",
+      "source": "Wikipedia (en): Boesenbergia rotunda",
       "source_url": "https://en.wikipedia.org/wiki/Boesenbergia_rotunda",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376753917,
       "text": "Boesenbergia rotunda, commonly known as Chinese keys, fingerroot, lesser galangal or Chinese ginger, is a medicinal and culinary herb from China and Southeast Asia. In English, the root has traditionally been called fingerroot, because the shape of the rhizome resembles that of fingers growing out of a central piece."
+    },
+    "es": {
+      "source": "Wikipedia (es): Boesenbergia rotunda",
+      "source_url": "https://es.wikipedia.org/wiki/Boesenbergia_rotunda",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582389,
+      "text": "Boesenbergia rotunda, conocida como jengibre chino, es una planta medicinal y culinaria de China y sudeste de Asia. En inglés, la raíz se ha llamado tradicionalmente Fingerroot, porque el rizoma se asemeja a los dedos que crecen fuera de una pieza central."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Boesenbergia rotunda",
+      "source_url": "https://fr.wikipedia.org/wiki/Boesenbergia_rotunda",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 211848635,
+      "text": "Boesenbergia rotunda, le Curcuma rond ou Clés chinoises, est une espèce de plantes du genre Boesenbergia et de la famille des Zingiberaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Temu kunci",
+      "source_url": "https://id.wikipedia.org/wiki/Temu_kunci",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28517734,
+      "text": "Temu kunci adalah sejenis rempah-rempah yang rimpangnya dipakai sebagai bumbu dalam masakan Asia Tenggara."
     }
   },
   "edible": {
@@ -116,7 +143,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -140,7 +167,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/872224-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "rhizomatous geophyte",
@@ -148,7 +175,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/872224-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000341663.webp",
@@ -161,6 +188,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 187,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -18,18 +18,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "wild crapemyrtle"
-    ],
-    "zh": [
-      "黃褥花",
-      "西印度樱桃",
-      "光叶金虎尾",
-      "西印度櫻桃"
-    ],
     "pam": [
       "Acerola"
     ],
@@ -99,6 +90,12 @@
     "fa": [
       "آسرولا"
     ],
+    "zh": [
+      "西印度櫻桃",
+      "黃褥花",
+      "西印度樱桃",
+      "光叶金虎尾"
+    ],
     "srn": [
       "ACEROLA"
     ],
@@ -113,13 +110,16 @@
     ],
     "frr": [
       "Acerola"
+    ],
+    "en": [
+      "wild crapemyrtle"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q273742",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q273742",
   "search_names": {
@@ -134,11 +134,11 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Malpighia glabra」",
+      "source": "Wikipedia (en): Malpighia glabra",
       "source_url": "https://en.wikipedia.org/wiki/Malpighia_glabra",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1306412281,
       "text": "Malpighia glabra, the wild crapemyrtle, is a tropical fruit-bearing shrub or small tree in the family Malpighiaceae. It has often been confused with the related cultivated crop tree M. emarginata, but has small insipid fruit and a very different flower structure."
     }
@@ -154,7 +154,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -195,7 +195,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/557048-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -203,7 +203,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/557048-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000449751.webp",
@@ -216,6 +216,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -18,23 +18,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "cy": [
-      "pefrwellt bach"
-    ],
-    "en": [
-      "littleseed canarygrass",
-      "Lesser Canary-grass"
-    ],
-    "zh": [
-      "細鷸草",
-      "细虉草"
-    ],
-    "nl": [
-      "Klein kanariezaad"
-    ],
     "pnb": [
       "دنبی سٹی"
     ],
@@ -43,6 +29,9 @@
     ],
     "sv": [
       "Småflen"
+    ],
+    "cy": [
+      "Pefrwellt bach"
     ],
     "pl": [
       "Mozga drobna"
@@ -53,18 +42,29 @@
     "arz": [
       "خرفار صغير"
     ],
+    "zh": [
+      "细虉草",
+      "細鷸草"
+    ],
     "pa": [
       "ਗੁੱਲੀ ਡੰਡਾ (ਨਦੀਨ)"
     ],
     "cs": [
       "chrastice menší"
+    ],
+    "en": [
+      "littleseed canarygrass",
+      "Lesser Canary-grass"
+    ],
+    "nl": [
+      "Klein kanariezaad"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3696206",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3696206",
   "search_names": {
@@ -74,13 +74,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Phalaris minor」",
+      "source": "Wikipedia (en): Phalaris minor",
       "source_url": "https://en.wikipedia.org/wiki/Phalaris_minor",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1098786182,
       "text": "Phalaris minor is a species of grass native to North Africa, Europe, and South Asia. The bunchgrass is widely naturalised elsewhere."
+    },
+    "es": {
+      "source": "Wikipedia (es): Phalaris minor",
+      "source_url": "https://es.wikipedia.org/wiki/Phalaris_minor",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173618846,
+      "text": "Phalaris minor es una especie de gramínea del orden Poales nativa de Europa y el norte de África, adventicia en Chile, Brasil y Argentina. En Argentina es conocida con los nombres vulgares \"alfarín\" y \"pasto romano\"."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Phalaris minor",
+      "source_url": "https://pt.wikipedia.org/wiki/Phalaris_minor",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 55132946,
+      "text": "Phalaris minor é uma espécie de planta com flor pertencente à família Poaceae."
     }
   },
   "edible": {
@@ -95,7 +113,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -215,7 +233,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/415632-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "annual",
@@ -223,7 +241,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/415632-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000889730.webp",
@@ -236,6 +254,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

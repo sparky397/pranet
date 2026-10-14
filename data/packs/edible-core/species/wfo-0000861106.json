@@ -14,12 +14,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "camel grass"
-    ],
     "nl": [
       "Kameelgras"
     ],
@@ -49,24 +46,45 @@
     ],
     "grc": [
       "σχοῖνος"
+    ],
+    "en": [
+      "camel grass"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q2195173",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q2195173",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cymbopogon schoenanthus」",
+      "source": "Wikipedia (en): Cymbopogon schoenanthus",
       "source_url": "https://en.wikipedia.org/wiki/Cymbopogon_schoenanthus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1360381613,
       "text": "Cymbopogon schoenanthus, the camel grass, camel's hay, straw of Mecca, fever grass, geranium grass, or West Indian lemon grass, is a herbal plant of Southern Asia and Northern Africa, with fragrant foliage."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cymbopogon schoenanthus",
+      "source_url": "https://fr.wikipedia.org/wiki/Cymbopogon_schoenanthus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233929635,
+      "text": "Cymbopogon schoenanthus, la Citronnelle du désert ou le Jonc odorant, est une espèce de plantes à fleurs de la famille des Poacées, croissant dans les paysages arides du nord de l'Afrique et du Proche-Orient."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cymbopogon schoenanthus",
+      "source_url": "https://id.wikipedia.org/wiki/Cymbopogon_schoenanthus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29900803,
+      "text": "Cymbopogon schoenanthus, yang dikenal sebagai rumput unta, jerami unta, jerami Mekkah, rumput demam, rumput geranium, atau serai Hindia Barat, adalah tanaman herbal yang berasal dari Asia bagian selatan dan Afrika bagian utara, dengan dedaunan yang harum."
     }
   },
   "edible": {
@@ -82,7 +100,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -125,7 +143,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/397010-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -133,7 +151,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/397010-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000861106.webp",
@@ -146,6 +164,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 342,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

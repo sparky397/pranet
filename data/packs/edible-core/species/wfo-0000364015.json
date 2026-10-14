@@ -13,30 +13,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "モミジバフウ"
-    ],
-    "en": [
-      "American Sweetgum",
-      "Sweet Gum",
-      "sweetgum"
-    ],
-    "es": [
-      "Árbol del Ámbar"
-    ],
-    "ca": [
-      "Arbre d'ambar",
-      "Liquidàmbar Americà"
-    ],
-    "zh": [
-      "北美枫香树",
-      "北美枫香"
-    ],
-    "ast": [
-      "liquidámbar"
     ],
     "ru": [
       "Ликвидамбар смолоносный"
@@ -74,6 +55,10 @@
     "hy": [
       "լիքվիդամբար խեժատու"
     ],
+    "ca": [
+      "Liquidàmbar Americà",
+      "Arbre d'ambar"
+    ],
     "he": [
       "ליקוידמבר ליבני"
     ],
@@ -86,6 +71,13 @@
     "az": [
       "Qatranlı likvidambar"
     ],
+    "ast": [
+      "Liquidámbar"
+    ],
+    "zh": [
+      "北美枫香树",
+      "北美枫香"
+    ],
     "sr": [
       "Амерички ликвидамбар"
     ],
@@ -97,13 +89,21 @@
     ],
     "ar": [
       "عنبر دماع أمريكي"
+    ],
+    "en": [
+      "American Sweetgum",
+      "Sweet Gum",
+      "sweetgum"
+    ],
+    "es": [
+      "Árbol del Ámbar"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q469652",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q469652",
   "search_names": {
@@ -123,36 +123,83 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「モミジバフウ」",
+      "source": "Wikipedia (ja): モミジバフウ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%9F%E3%82%B8%E3%83%90%E3%83%95%E3%82%A6",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107615786,
       "text": "モミジバフウ は、フウ科フウ属の落葉高木。北米原産で、別名アメリカフウやアメリカソゴウコウノキともよばれる。中国原産のフウのなかまで、葉がモミジのように5裂から7裂するのが特徴で、和名の由来にもなっている。公園樹や街路樹にされる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Liquidambar styraciflua」",
+      "source": "Wikipedia (en): Liquidambar styraciflua",
       "source_url": "https://en.wikipedia.org/wiki/Liquidambar_styraciflua",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1376158564,
       "text": "Liquidambar styraciflua, commonly known as the American sweetgum among other names, is a deciduous tree in the genus Liquidambar native to warm temperate areas of eastern North America and tropical montane regions of Mexico and Central America. Sweetgum is one of the main valuable forest trees in the southeastern United States, and is a popular ornamental tree in temperate climates. It is recognizable by the combination of its five-pointed star-shaped leaves and its hard, spiked fruits. It is currently classified in the plant family Altingiaceae, but was formerly considered a member of the Hamamelidaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Liquidambar styraciflua",
+      "source_url": "https://es.wikipedia.org/wiki/Liquidambar_styraciflua",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174983225,
+      "text": "Liquidambar styraciflua, liquidámbar americano o, simplemente, liquidámbar, es un árbol caducifolio de la familia Altingiaceae, anteriormente considerada como parte de las Hamamelidaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Liquidambar styraciflua",
+      "source_url": "https://fr.wikipedia.org/wiki/Liquidambar_styraciflua",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239878840,
+      "text": "Liquidambar styraciflua, le copalme d'Amérique ou Liquidambar, est une espèce d'arbres qui appartient maintenant à la famille des Altingiaceae, auparavant classé dans la famille des Hamamelidacées."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Liquidambar styraciflua",
+      "source_url": "https://pt.wikipedia.org/wiki/Liquidambar_styraciflua",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 72978001,
+      "text": "Liquidambar styraciflua é uma árvore que pertence à família Altingiaceae. É nativa de áreas temperadas do leste da América do Norte e de regiões tropicais montanhosas do México e América Central."
+    },
+    "id": {
+      "source": "Wikipedia (id): Liquidambar styraciflua",
+      "source_url": "https://id.wikipedia.org/wiki/Liquidambar_styraciflua",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29710802,
+      "text": "Liquidambar styraciflua adalah pohon gugur dari genus Liquidambar yang berasal dari wilayah beriklim hangat di timur Amerika Utara serta pegunungan tropis di Meksiko dan Amerika Tengah. Pohon tanaman ini merupakan salah satu jenis pohon hutan yang paling berharga di tenggara Amerika Serikat dan juga populer sebagai pohon hias di wilayah beriklim sedang. Spesies ini mudah dikenali dari daun berbentuk bintang dengan lima ujung yang mirip daun tangkira, serta buahnya yang keras dan berduri. Saat ini, pohon ini diklasifikasikan dalam famili Altingiaceae, meskipun sebelumnya dimasukkan dalam Hamamelidaceae."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Liquidambar styraciflua」の節「Cultivation」",
+        "source": "Wikipedia (en): Liquidambar styraciflua § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Liquidambar_styraciflua#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1376158564,
         "heading": "Cultivation",
         "text": "Liquidambar styraciflua is a popular ornamental and forestal tree, cultivated for its distinctive foliage and intense autumn colors. It is commonly grown throughout its native North American range as well as many other temperate parts of the world, including moderately high elevations in the tropics. It is highly regarded in Bogotá, Colombia. The species grows best in moist, acidic loam or clay soil, and tolerates poor drainage. It typically grows with other coastal plain species such as willow oak and sweetbay magnolia. Its salt tolerance is moderate. Chlorosis can develop on alkaline soil, especially where organic matter is low. Also, the American sweetgum tree does not grow well in shady areas. Grown as an ornamental tree in Australia, Liquidambar styraciflua has a distribution on mainland Australia from southwestern Western Australia, southern South Australia, New South Wales, Victoria, and all the way up to the Atherton Tablelands in far North Queensland.\nDuring the late 1970s and throughout the 1980s, Sweetgums were a popular landscaping and street tree. Three varieties, Palo Alto, Festival, and Burgundy, introduced in the late 1950s by the Saratoga Horticultural Foundation in Palo Alto, California became popular in the urban landscapes of California because of their pleasing appearance, striking fall colors, and ability to grow quickly and thrive; however, as the trees matured, the damage caused by surface roots and the increased production of seed balls led to the tree being considered a nuisance and a liability. Thousands of trees would be removed and repairs had to be conducted on nearby structures damaged by roots.",
         "truncated": true
+      },
+      "pt": {
+        "source": "Wikipedia (pt): Liquidambar styraciflua § Cultivo",
+        "source_url": "https://pt.wikipedia.org/wiki/Liquidambar_styraciflua#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 72978001,
+        "heading": "Cultivo",
+        "text": "É muito utilizada para arquitetura paisagista em grandes áreas, como parques, praças e ao redor de avenidas. É mais encontrada nas regiões sul e sudeste do Brasil, onde o clima é subtropical a temperado. Em Curitiba, capital do Paraná, a árvore faz sucesso na Rua Deputado Heitor Alencar Furtado, no bairro Mossunguê, com 853 exemplares.",
+        "truncated": false
       }
     }
   },
@@ -167,7 +214,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -210,7 +257,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/430718-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -218,7 +265,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/430718-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000364015.webp",
@@ -231,6 +278,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 267,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -28,15 +28,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "tree cholla"
-    ],
-    "zh": [
-      "兔子角",
-      "鬼角子"
+    "fr": [
+      "Cactus rustique"
     ],
     "nah": [
       "Tenohpalli"
@@ -52,24 +48,82 @@
     ],
     "ja": [
       "キシカク"
+    ],
+    "zh": [
+      "鬼角子",
+      "兔子角"
+    ],
+    "en": [
+      "tree cholla"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q311066",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q311066",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cylindropuntia imbricata」",
+      "source": "Wikipedia (en): Cylindropuntia imbricata",
       "source_url": "https://en.wikipedia.org/wiki/Cylindropuntia_imbricata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1323208545,
       "text": "Cylindropuntia imbricata, the cane cholla, is a cactus found in the Southwestern United States and northern Mexico, including some cooler regions in comparison to many other cacti. It occurs primarily in the arid regions of the Southwestern United States in the states of Kansas, Oklahoma, Texas, New Mexico, Arizona, Colorado, and Nevada. It is often conspicuous because of its shrubby or even tree-like size, its silhouette, and its long-lasting yellowish fruits."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cylindropuntia imbricata",
+      "source_url": "https://es.wikipedia.org/wiki/Cylindropuntia_imbricata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175607725,
+      "text": "Cylindropuntia imbricata, conocida comúnmente como cardenche, entraña o cardón, es una especie de planta suculenta perteneciente al género Cylindropuntia, dentro de la familia Cactaceae. Se distribuye desde el sureste de Arizona hasta el suroeste de Kansas y México. Además ha sido introducida en multitud de regiones del mundo, como por ejemplo Sudamérica, norte y sur de África, Australia o España, donde se considera una especie invasora."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cactus rustique",
+      "source_url": "https://fr.wikipedia.org/wiki/Cactus_rustique",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238912171,
+      "text": "Le cactus rustique est une plante du Mexique et du sud-ouest des États-Unis."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cylindropuntia imbricata",
+      "source_url": "https://pt.wikipedia.org/wiki/Cylindropuntia_imbricata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 70887408,
+      "text": "Cylindropuntia imbricata, conhecido como tencholote ou opúncia, é um cacto encontrado no sudoeste dos Estados Unidos e no norte do México, incluindo algumas regiões mais frias em comparação com muitos outros cactos. Ocorre principalmente nas regiões áridas do sudoeste dos Estados Unidos, nos estados de Kansas, Oklahoma, Texas, Novo México, Arizona, Colorado e Nevada. Costuma chamar a atenção por seu porte arbustivo ou mesmo arbóreo, sua silhueta e seus frutos amarelados de longa duração."
+    },
+    "id": {
+      "source": "Wikipedia (id): Cylindropuntia imbricata",
+      "source_url": "https://id.wikipedia.org/wiki/Cylindropuntia_imbricata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29672878,
+      "text": "Cylindropuntia imbricata atau sering juga disebut pohon cholla adalah tanaman berjenis kaktus yang punya hubungan erat dengan pohon pir berduri (opuntia). Tanaman yang disebut pohon ini, bukan jenis pohon melainkan termasuk semak sukulen, yang pada kondisi baik dapat tumbuh setinggi pohon ukuran kecil. Nama lainnya adalah Cane Cactus, Cholla, Tree Cholla, Walkingstick Cholla, Candelabrum cactus, Chainlink cactus, Devil's Rope cactus."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Cylindropuntia imbricata § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Cylindropuntia_imbricata#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175607725,
+        "heading": "Cultivo",
+        "text": "La especie se cultiva como planta ornamental y su propagación se realiza principalmente a través de esquejes.​\n\nAdemás, aunque sus frutos son secos y de sabor insípido, se dice que los indígenas de Arizona y Nuevo México los consumían.​También se utiliza como forraje para el ganado cuando no hay otras opciones disponibles.​",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -86,7 +140,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -128,7 +182,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/73870-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "succulent shrub or tree",
@@ -136,7 +190,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/73870-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000632390.webp",
@@ -149,6 +203,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 363,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

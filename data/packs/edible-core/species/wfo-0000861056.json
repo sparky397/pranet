@@ -27,21 +27,15 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "コウスイガヤ",
       "シトロネラ"
     ],
-    "en": [
-      "citronella grass"
-    ],
-    "zh": [
-      "香茅",
-      "亞香茅",
-      "亚香茅",
-      "柠檬草（香茅）"
+    "id": [
+      "Serai wangi"
     ],
     "hu": [
       "citronella"
@@ -55,6 +49,12 @@
     "vi": [
       "Sả"
     ],
+    "zh": [
+      "亚香茅",
+      "香茅",
+      "亞香茅",
+      "柠檬草（香茅）"
+    ],
     "th": [
       "ตะไคร้หอม"
     ],
@@ -66,9 +66,6 @@
     ],
     "af": [
       "Reuseterpentyngras"
-    ],
-    "id": [
-      "Serai wangi"
     ],
     "my": [
       "စပါးလင်ဆီမွှေး"
@@ -90,13 +87,16 @@
     ],
     "su": [
       "Séréh wangi"
+    ],
+    "en": [
+      "citronella grass"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q691698",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q691698",
   "search_names": {
@@ -107,22 +107,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「コウスイガヤ」",
+      "source": "Wikipedia (ja): コウスイガヤ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%82%B9%E3%82%A4%E3%82%AC%E3%83%A4",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106360894,
       "text": "コウスイガヤ は、セイロン島原産のイネ科オガルカヤ属の多年生植物の種。シトロネラグラスとも呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Cymbopogon nardus」",
+      "source": "Wikipedia (en): Cymbopogon nardus",
       "source_url": "https://en.wikipedia.org/wiki/Cymbopogon_nardus",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1271120428,
       "text": "Cymbopogon nardus, common name citronella grass, is a species of perennial aromatic plant from the family Poaceae, originating in tropical Asia. C. nardus cannot be eaten because of its unpalatable nature and is an invasive species that renders pastureland useless, since cattle will starve even in its abundance."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cymbopogon nardus",
+      "source_url": "https://es.wikipedia.org/wiki/Cymbopogon_nardus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175607798,
+      "text": "La citronela es una planta nativa de Sri Lanka y la costa Malabar y naturalizada en otros lugares como América y África. Tiene características y propiedades semejantes a Cymbopogon citratus y de la que también se obtiene aceite esencial de citronela y es utilizado para ahuyentar los mosquitos y empleado como insecticida industrial."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cymbopogon nardus",
+      "source_url": "https://fr.wikipedia.org/wiki/Cymbopogon_nardus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 234567693,
+      "text": "Cymbopogon nardus est une espèce de plantes monocotylédones de la famille des Poaceae.\nC'est l'une des espèces dont on tire l'huile de citronnelle utilisée en parfumerie et pour repousser les insectes."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Cymbopogon nardus",
+      "source_url": "https://pt.wikipedia.org/wiki/Cymbopogon_nardus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63853945,
+      "text": "Cymbopogon nardus vulgarmente designada como citronela é uma erva perene da família Poaceae, originária da Ásia tropical. É utilizada para a extração de um óleo essencial chamado óleo de citronela, muito utilizado como repelente de insetos."
+    },
+    "id": {
+      "source": "Wikipedia (id): Serai wangi",
+      "source_url": "https://id.wikipedia.org/wiki/Serai_wangi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 28404016,
+      "text": "Serai wangi adalah jenis rumput-rumputan dari ordo Graminales yang khas dari daerah-daerah tropis Asia. C. nardus bersifat perennial. C. nardus sangat terkenal sebagai rempah-rempah dalam masakan Asia, tetapi juga dapat diseduh menjadi teh herbal dengan aroma lemon yang khas. Sereh wangi juga dapat dibuat menjadi citronella oil yang memiliki sifat-sifat yang menguntungkan seperti anti-nyamuk, anti-jamur, antibakteri, larvasidal, anti-inflammatory, aromatik, antipiretik, antispasmodic, dan dapat digunakan untuk agen-agen pembersih. Di daerah Karibia dan India, sereh wangi adalah komposisi utama dari pengobatan-pengobatan tradisional untuk meredakan demam, nyeri eksternal, dan artritis. Daun dari sereh wangi juga merupakan sumber selulosa yang baik untuk pembuatan kertas dan kardus."
     }
   },
   "edible": {
@@ -137,7 +173,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -215,7 +251,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/396972-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial",
@@ -223,7 +259,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/396972-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000861056.webp",
@@ -236,6 +272,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

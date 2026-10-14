@@ -10,7 +10,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "zh": [
@@ -19,29 +19,47 @@
       "大百合（兜铃）",
       "水百合"
     ],
-    "de": [
-      "Himalaja-Riesenlilie"
-    ],
     "el": [
       "Καρδιόκρινο το γιγαντιαίο"
+    ],
+    "de": [
+      "Himalaja-Riesenlilie"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q947983",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q947983",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Cardiocrinum giganteum」",
+      "source": "Wikipedia (en): Cardiocrinum giganteum",
       "source_url": "https://en.wikipedia.org/wiki/Cardiocrinum_giganteum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355794900,
       "text": "Cardiocrinum giganteum, the giant Himalayan lily, is the largest species of any of the lily plants, growing up to 3.5 metres high. It is found in the Himalayas, China and Myanmar (Burma)."
+    },
+    "es": {
+      "source": "Wikipedia (es): Cardiocrinum giganteum",
+      "source_url": "https://es.wikipedia.org/wiki/Cardiocrinum_giganteum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 120477266,
+      "text": "Cardiocrinum giganteum, es la especie más grande de plantas de lirio. Puede crecer hasta los 3,5 metros de altura. Se encuentra en el Himalaya."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Cardiocrinum giganteum",
+      "source_url": "https://fr.wikipedia.org/wiki/Cardiocrinum_giganteum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229466077,
+      "text": "Cardiocrinum giganteum , le Lis géant de l'Himalaya, est la plus grande espèce de \"Lis\" ,poussant jusqu'à 3.5 mètres de haut. On le trouve dans l'Himalaya, en Chine et en Birmanie (Myanmar)."
     }
   },
   "edible": {
@@ -53,7 +71,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -71,7 +89,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/532549-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "bulbous geophyte",
@@ -79,7 +97,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/532549-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000762955.webp",
@@ -92,6 +110,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 259,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

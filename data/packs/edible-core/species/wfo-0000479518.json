@@ -46,7 +46,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
@@ -56,36 +56,8 @@
       "Betel",
       "betel"
     ],
-    "bug": [
-      "ᨁᨙᨍ"
-    ],
-    "fi": [
-      "Betelpippuri"
-    ],
-    "kn": [
-      "ವೀಳ್ಯದೆಲೆ"
-    ],
-    "nl": [
-      "betelpeper"
-    ],
-    "ta": [
-      "வெற்றிலை"
-    ],
-    "te": [
-      "తమలపాకు"
-    ],
-    "th": [
-      "พลู"
-    ],
-    "zh": [
-      "荖藤",
-      "蒌叶",
-      "印度胡椒",
-      "芦子",
-      "蒌叶（芦子、菊酱）",
-      "药酱",
-      "蒌油",
-      "蒟酱"
+    "id": [
+      "Sirih"
     ],
     "jv": [
       "Suruh"
@@ -95,6 +67,9 @@
     ],
     "fr": [
       "bétel"
+    ],
+    "ta": [
+      "வெற்றிலை"
     ],
     "or": [
       "ପାନ"
@@ -107,9 +82,6 @@
     ],
     "de": [
       "Betelpfeffer"
-    ],
-    "id": [
-      "Sirih"
     ],
     "bn": [
       "পান"
@@ -129,6 +101,9 @@
     "hsb": [
       "Betelowy popjerjowc"
     ],
+    "nl": [
+      "betelpeper"
+    ],
     "ar": [
       "تنبول"
     ],
@@ -141,6 +116,9 @@
     "ru": [
       "Бетель"
     ],
+    "kn": [
+      "ವೀಳ್ಯದೆಲೆ"
+    ],
     "ca": [
       "Fulla de bètel"
     ],
@@ -152,6 +130,9 @@
     ],
     "io": [
       "Betelo"
+    ],
+    "te": [
+      "తమలపాకు"
     ],
     "ka": [
       "ბეტელი"
@@ -171,8 +152,21 @@
     "et": [
       "Pipar"
     ],
+    "zh": [
+      "蒌叶",
+      "荖藤",
+      "印度胡椒",
+      "芦子",
+      "蒌叶（芦子、菊酱）",
+      "药酱",
+      "蒌油",
+      "蒟酱"
+    ],
     "az": [
       "Betle istiotu"
+    ],
+    "th": [
+      "พลู"
     ],
     "ga": [
       "beiteal"
@@ -194,6 +188,9 @@
     ],
     "ko": [
       "구장"
+    ],
+    "fi": [
+      "betelpippuri"
     ],
     "sco": [
       "betel"
@@ -284,43 +281,82 @@
     ],
     "shn": [
       "တူၼ်ႈပူႉ"
+    ],
+    "bug": [
+      "ᨁᨙᨍ"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q159532",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q159532",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「キンマ」",
+      "source": "Wikipedia (ja): キンマ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%83%9E",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 109191271,
       "text": "キンマ（蒟醤）は南アジアや東南アジア、オセアニアなどで用いられる、噛む嗜好品。噛みタバコではない。\n1.に利用される植物。\n漆塗り手工芸品の一つ。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Betel」",
+      "source": "Wikipedia (en): Betel",
       "source_url": "https://en.wikipedia.org/wiki/Betel",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1374034447,
       "text": "Betel is a species of flowering plant in the pepper family Piperaceae, native to Southeast Asia. It is an evergreen, dioecious vine, with glossy heart-shaped leaves and white catkins. Betel plants are cultivated for their leaves, which are most commonly used as flavoring for chewing areca nut in so-called betel quid, which is carcinogenic, contains a psychostimulant drug, and is associated with a wide range of serious health conditions."
+    },
+    "es": {
+      "source": "Wikipedia (es): Piper betle",
+      "source_url": "https://es.wikipedia.org/wiki/Piper_betle",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171581175,
+      "text": "El betel es una especie de planta con flor de la familia Piperaceae similar a una enredadera. Son naturales del sudeste asiático y se han extendido a la India, Indonesia y Sri Lanka. Las hojas del betel son recolectadas para envolver una droga para mascar conocida como «buyo», típica de Filipinas, que también tiene nuez de areca, cal y tabaco."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Piper betle",
+      "source_url": "https://fr.wikipedia.org/wiki/Piper_betle",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226497089,
+      "text": "Piper betle, le bétel, est une espèce de plantes à fleurs de la famille des pipéracées. C'est une plante grimpante dont les feuilles cordiformes ont des propriétés médicinales. Elle peut atteindre une hauteur d'environ un mètre. Elle est originaire de Malaisie et prospère maintenant en Inde et en Indonésie."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Piper betle",
+      "source_url": "https://pt.wikipedia.org/wiki/Piper_betle",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 69915917,
+      "text": "A piper betle, é uma pimenteira, cuja folha é designada bétele, apreciada como estimulante ligeiro e pelas suas propriedades medicinais."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sirih",
+      "source_url": "https://id.wikipedia.org/wiki/Sirih",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29956838,
+      "text": "Sirih adalah tanaman asli dari Indonesia yang tumbuh merambat atau bersandar pada batang pohon lain. Sirih dikenal dalam masing-masing bahasa dengan nama yang khas, yaitu: suruh (Jawa), lu'at ,sireh (Melayu), bido (Ternate), base (Bali), dan amo (Ambon). Sebagai budaya daun dan buahnya biasa dikunyah bersama gambir, pinang, tembakau, dan kapur. Namun, mengunyah sirih telah dikaitkan dengan penyakit kanker mulut dan pembentukan squamous cell carcinoma yang bersifat malignan. Lalu, kapurnya juga membuat pengerutan gusi (periodontitis) yang dapat membuat gigi tanggal, walaupun daun sirihnya yang mengandung antiseptik sebagai pencegah gigi berlubang."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Betel」の節「Cultivation」",
+        "source": "Wikipedia (en): Betel § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Betel#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1374034447,
         "heading": "Cultivation",
         "text": "The betel leaf is cultivated mostly in South and Southeast Asia, from India to Papua New Guinea. It needs a compatible tree or a long pole for support. Betel requires well-drained fertile soil. Waterlogged, saline and alkali soils are unsuitable for its cultivation.\n\nIn Bangladesh, farmers called barui prepare a garden called a barouj in which to grow betel. The barouj is fenced with bamboo sticks and coconut leaves. The soil is plowed into furrows of 10 to 15 m length, 75 cm in width and 75 cm depth. Oil cakes, manure, and leaves are thoroughly incorporated with the topsoil of the furrows and wood ash. The cuttings are planted at the beginning of the monsoon season.\n\nProper shade and irrigation are essential for the successful cultivation of this crop. Betel needs constantly moist soil, but there should not be excessive moisture. Irrigation is frequent and light, and standing water should not remain for more than half an hour.\nDried leaves and wood ash are applied to the furrows at fortnightly intervals and cow dung slurry is sprinkled. Application of different kinds of leaves at monthly intervals is believed advantageous for the growth of the betel. In three to six months, the vines reach 150 to 180 cm (59 to 71 in) in height, and they will branch. Harvest begins with the farmer plucking the leaf and its petiole with his right thumb. The harvest lasts 15 days to one month. The betel plant has made its way to research labs of many Bangladesh chemical and food nutrition companies.\nThe harvested leaves are consumed locally and exported to other parts of Asia, the Middle East, Europe, and the Americas. Betel is grown and cultivated as an important crop in rural Bangladesh.",
@@ -342,7 +378,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -384,7 +420,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/680605-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "climbing shrub or liana",
@@ -392,7 +428,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/680605-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000479518.webp",
@@ -405,6 +441,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

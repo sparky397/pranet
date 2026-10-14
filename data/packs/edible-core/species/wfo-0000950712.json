@@ -19,25 +19,17 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "レモンバーベナ"
     ],
-    "fr": [
-      "Verveine citronnelle",
-      "Verveine odorante"
+    "pt": [
+      "Lúcia-lima"
     ],
-    "zh": [
-      "柠檬橙香木",
-      "柠檬马鞭草",
-      "柠檬龙至木"
-    ],
-    "en": [
-      "Lemon Bee-brush",
-      "Lemon Verbena",
-      "Lemon Beebrush"
+    "id": [
+      "Kerinyu limau"
     ],
     "eo": [
       "Citronverbeno"
@@ -78,9 +70,6 @@
     "nl": [
       "citroenverbena"
     ],
-    "pt": [
-      "Lúcia-lima"
-    ],
     "ko": [
       "레몬버베나"
     ],
@@ -120,15 +109,26 @@
     "arz": [
       "لويزه ليمونيه"
     ],
-    "id": [
-      "Kerinyu limau"
+    "zh": [
+      "柠檬龙至木",
+      "柠檬橙香木",
+      "柠檬马鞭草"
+    ],
+    "fr": [
+      "Verveine citronnelle",
+      "Verveine odorante"
+    ],
+    "en": [
+      "Lemon Bee-brush",
+      "Lemon Verbena",
+      "Lemon Beebrush"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q206532",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q206532",
   "search_names": {
@@ -143,22 +143,58 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「レモンバーベナ」",
+      "source": "Wikipedia (ja): レモンバーベナ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A2%E3%83%B3%E3%83%90%E3%83%BC%E3%83%99%E3%83%8A",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 107218663,
       "text": "レモンバーベナ はクマツヅラ科の落葉低木。和名は、コウスイボク（香水木）、ボウシュウボク（防臭木）。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Aloysia citrodora」",
+      "source": "Wikipedia (en): Aloysia citrodora",
       "source_url": "https://en.wikipedia.org/wiki/Aloysia_citrodora",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355041172,
       "text": "Aloysia citrodora, lemon verbena, is a species of flowering plant in the verbena family Verbenaceae, native to South America. Other common names include lemon beebrush. It was brought to Europe by the Spanish and the Portuguese in the 17th century and cultivated for its oil."
+    },
+    "es": {
+      "source": "Wikipedia (es): Aloysia citrodora",
+      "source_url": "https://es.wikipedia.org/wiki/Aloysia_citrodora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175730759,
+      "text": "Aloysia citrodora, conocida como cedrón, cidrón, hierbaluisa o verbena de Indias, es una planta arbustiva, perenne y aromática perteneciente a la familia Verbenaceae, originaria de América del Sur, específicamente de Argentina y Chile. Se cultiva como planta ornamental y por sus propiedades medicinales."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Aloysia citrodora",
+      "source_url": "https://fr.wikipedia.org/wiki/Aloysia_citrodora",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238935141,
+      "text": "Aloysia citrodora, la verveine odorante, la verveine citronnelle ou la verveine du Pérou, est une plante ligneuse de la famille des Verbenaceae, cultivée pour ses feuilles très parfumées pour aromatiser certaines préparations culinaires et pour préparer des infusions et des liqueurs. C'est une plante originaire des Andes d'Amérique du Sud où elle pousse entre 0 m et 3 000 m d'altitude ; elle est cultivée aussi sur la côte du Pérou. Elle n'est pas rustique sous les climats tempérés."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Lúcia-lima",
+      "source_url": "https://pt.wikipedia.org/wiki/L%C3%BAcia-lima",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 64933740,
+      "text": "Lúcia-lima é uma espécie angiospérmica da família das verbenáceas, nativa da América do Sul. Foi introduzida na Europa pelos espanhóis e portugueses no século XVII. No Algarve é chamada bela-luísa e noutras zonas de Portugal tem como nome comum limonete."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kerinyu limau",
+      "source_url": "https://id.wikipedia.org/wiki/Kerinyu_limau",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29989040,
+      "text": "Aloysia citrodora, kerinyu limau, adalah spesies tumbuhan berbunga dalam keluarga kerinyu Verbenaceae, yang berasal dari Amerika Selatan. Nama umum lainnya termasuk semak lebah limau. Minyak ini dibawa ke Eropa oleh Spanyol dan Portugis pada abad ke-17 dan dibudidayakan untuk diambil minyaknya."
     }
   },
   "edible": {
@@ -172,7 +208,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -200,7 +236,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1015994-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -208,7 +244,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1015994-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000950712.webp",
@@ -221,6 +257,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

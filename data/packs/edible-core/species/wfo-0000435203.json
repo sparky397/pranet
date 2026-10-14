@@ -11,12 +11,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "kepel"
-    ],
     "id": [
       "Kepel"
     ],
@@ -37,37 +34,60 @@
     ],
     "su": [
       "Burahol"
+    ],
+    "en": [
+      "kepel"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1660647",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1660647",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Stelechocarpus burahol」",
+      "source": "Wikipedia (en): Stelechocarpus burahol",
       "source_url": "https://en.wikipedia.org/wiki/Stelechocarpus_burahol",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1269951574,
       "text": "Stelechocarpus burahol, commonly known as kepel, is a plant in the custard apple family Annonaceae, native to the humid evergreen forests of Malesia, and known for its edible fruit. It is cultivated only in Java, Indonesia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kepel",
+      "source_url": "https://id.wikipedia.org/wiki/Kepel",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29988850,
+      "text": "Tumbuhan kepel atau burahol adalah pohon penghasil buah hidangan meja yang menjadi flora identitas Daerah Istimewa Yogyakarta. Buah kepel digemari para putri keraton di Jawa karena dipercaya menyebabkan keringat beraroma wangi dan membuat air seni tidak berbau tajam. Nama lain kepel antara lain kecindul, cindul, simpol, burahol, dan turalak."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Stelechocarpus burahol」の節「Cultivation」",
+        "source": "Wikipedia (en): Stelechocarpus burahol § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Stelechocarpus_burahol#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1269951574,
         "heading": "Cultivation",
         "text": "It is believed that this tree is a \"palace tree\", and should only be planted near palaces. It can be found at Kraton Ngayogyakarta Hadiningrat (the Royal Palace of Yogyakarta), Taman Mini Indonesia Indah theme park in Jakarta, Taman Kiai Langgeng Magelang (a 28 Ha park in the city of Magelang where rare species are studied) and Bogor Botanical Gardens.",
+        "truncated": false
+      },
+      "id": {
+        "source": "Wikipedia (id): Kepel § Budidaya",
+        "source_url": "https://id.wikipedia.org/wiki/Kepel#Budidaya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 29988850,
+        "heading": "Budidaya",
+        "text": "Kepel umumnya diperbanyak dari biji yang diambil dari buah matang dan disemaikan secepatnya. Penyetekan dan pencangkokan sudah pernah dicoba, tetapi tidak berhasil. Benihnya dibersihkan dengan cara dicuci dan dikeringkan di tempat teduh. Sebelum disemai benih diskarifikasi, tetapi perkecambahannya masih memerlukan waktu beberapa bulan. Lambat-laun persentase perkecambahannya tinggi juga. Perkecambahannya hipogeal, akar tunggangnya membengkak dan tidak bercabang untuk beberapa waktu. Mula-mula semai itu tumbuh lambat. Pada saat semai berdaun 3-5 helai, dipindahtanamkan ke dalam pot. Ketika tingginya mencapai 0,5-1,0 m bibit dipindahtanamkan ke lapangan dengan jarak tanam 6-8 meter. Fase yuwananya (vegetative phase, juvenile phase) berlangsung selama 6-9 tahun.",
         "truncated": false
       }
     }
@@ -82,7 +102,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -95,7 +115,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/75160-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -103,7 +123,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/75160-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000435203.webp",
@@ -116,6 +136,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

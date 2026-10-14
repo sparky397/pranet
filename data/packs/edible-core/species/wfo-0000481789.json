@@ -23,81 +23,30 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "モンタナマツ"
     ],
-    "cy": [
-      "Pinwydden y mynydd"
+    "vec": [
+      "Muga"
     ],
-    "en": [
-      "Mountain Pine"
+    "pl": [
+      "kosodrzewina"
     ],
-    "ca": [
-      "Pi negre"
+    "udm": [
+      "Гурезь пужым"
     ],
-    "cs": [
-      "borovice kleč"
-    ],
-    "da": [
-      "Bjerg-Fyr",
-      "bjergfyr"
-    ],
-    "de": [
-      "Bergkiefer"
-    ],
-    "eo": [
-      "Monta pino"
-    ],
-    "es": [
-      "Pino negro"
+    "hu": [
+      "havasi törpefenyő",
+      "Törpefenyő"
     ],
     "et": [
       "Mägimänd"
     ],
-    "fi": [
-      "Vuorimänty"
-    ],
-    "hu": [
-      "Törpefenyő",
-      "havasi törpefenyő"
-    ],
-    "mk": [
-      "Планински бор",
-      "Кривул"
-    ],
-    "pl": [
-      "Kosodrzewina"
-    ],
-    "sr": [
-      "Бор кривуљ"
-    ],
-    "sv": [
-      "Bergtall"
-    ],
-    "tr": [
-      "Dağ çamı"
-    ],
-    "fr": [
-      "Pin de montagne"
-    ],
-    "nl": [
-      "Bergden"
-    ],
-    "zh": [
-      "欧洲山松",
-      "歐洲山松"
-    ],
-    "sl": [
-      "rušje"
-    ],
-    "vec": [
-      "Muga"
-    ],
-    "udm": [
-      "Гурезь пужым"
+    "de": [
+      "Bergkiefer"
     ],
     "koi": [
       "Керӧс пожум"
@@ -108,17 +57,29 @@
     "is": [
       "Fjallafura"
     ],
+    "eo": [
+      "Monta pino"
+    ],
     "sk": [
       "Borovica horská"
     ],
     "ru": [
       "Сосна горная"
     ],
+    "tr": [
+      "Dağ çamı"
+    ],
     "ro": [
       "Jneapăn"
     ],
+    "fi": [
+      "vuorimänty"
+    ],
     "uk": [
       "сосна гірська"
+    ],
+    "cs": [
+      "borovice kleč"
     ],
     "sgs": [
       "Kalnėnė pošės"
@@ -135,14 +96,35 @@
     "lt": [
       "Kalninė pušis"
     ],
+    "da": [
+      "bjergfyr",
+      "Bjerg-Fyr"
+    ],
+    "sr": [
+      "Бор кривуљ"
+    ],
+    "sv": [
+      "Bergtall"
+    ],
     "eu": [
       "Mugo pinu"
     ],
     "nb": [
       "Buskfuru"
     ],
+    "cy": [
+      "Pinwydden y mynydd"
+    ],
     "fa": [
       "کاج مشهد"
+    ],
+    "mk": [
+      "Кривул",
+      "Планински бор"
+    ],
+    "zh": [
+      "歐洲山松",
+      "欧洲山松"
     ],
     "rm": [
       "Tieu da muntogna"
@@ -159,6 +141,9 @@
     "ar": [
       "صنوبر قزمي"
     ],
+    "sl": [
+      "rušje"
+    ],
     "arz": [
       "صنوبر موغو"
     ],
@@ -167,13 +152,28 @@
     ],
     "el": [
       "Βουνόπευκο"
+    ],
+    "en": [
+      "Mountain Pine"
+    ],
+    "ca": [
+      "Pi negre"
+    ],
+    "es": [
+      "Pino negro"
+    ],
+    "fr": [
+      "Pin de montagne"
+    ],
+    "nl": [
+      "Bergden"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q147475",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q147475",
   "search_names": {
@@ -191,32 +191,68 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「モンタナマツ」",
+      "source": "Wikipedia (ja): モンタナマツ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%BF%E3%83%8A%E3%83%9E%E3%83%84",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106386875,
       "text": "モンタナマツ は、マツ科マツ属の匍匐性の針葉樹である。ヨーロッパ原産の山地性のマツで、日本のハイマツに似ている。標準和名はムゴマツであり、別名でスイスコウザンマツ、スイスミヤママツとも言う。ハイマツに比べると生長は早く、高さは1メートルになる。二葉性。学名のシノニムや和名のモンタナ（montana）は、いずれも「山の」を意味する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Pinus mugo」",
+      "source": "Wikipedia (en): Pinus mugo",
       "source_url": "https://en.wikipedia.org/wiki/Pinus_mugo",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1375582030,
       "text": "Pinus mugo, known as dwarf mountain pine, mountain pine, scrub mountain pine, Swiss mountain pine, bog pine, creeping pine, or mugo pine, is a species of conifer, a pine native to high elevation habitats from southwestern to Central Europe and Southeast Europe."
+    },
+    "es": {
+      "source": "Wikipedia (es): Pinus mugo",
+      "source_url": "https://es.wikipedia.org/wiki/Pinus_mugo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175204746,
+      "text": "Pinus mugo, el pino negro, pino de montaña o pino moro es un pino arbustivo perteneciente a la familia de las pináceas que presenta dos subespecies de hábitat bastante diferente, que por algunos autores son dos especies diferentes: el Pinus mugo subsp. mugo, arbustivo y que encontramos sobre todo en los Alpes, y el Pinus mugo subsp. uncinata o  pino negro, que encontramos en los Pirineos. Ambas subespecies tienen las agujas agrupadas en pares y piñas pequeñas casi sésiles."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Pinus mugo",
+      "source_url": "https://fr.wikipedia.org/wiki/Pinus_mugo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226244157,
+      "text": "Le Pin mugo, Pin mugho, Pin couché ou Pin de montagnes, est une espèce de conifères de la famille des Pinaceae et du genre Pinus."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Pinus mugo",
+      "source_url": "https://pt.wikipedia.org/wiki/Pinus_mugo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 63761309,
+      "text": "Pinus mugo é uma espécie de pinheiro originária do Velho Mundo, mais precisamente da região da Europa e Mediterrâneo. Os seus nomes comuns são pinheiro-anão e pinheiro-das-montanhas."
+    },
+    "id": {
+      "source": "Wikipedia (id): Pinus mugo",
+      "source_url": "https://id.wikipedia.org/wiki/Pinus_mugo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29729673,
+      "text": "Pinus mugo, dikenal sebagai pinus gunung kerdil pinus gunung, pinus semak gunung, pinus gunung Swiss pinus rambat, atau pinus rawa, adalah spesies tumbuhan runjung, asli habitat dataran tinggi dari barat daya ke Eropa Tengah dan Eropa Tenggara."
     }
   },
   "sections": {
     "cultivation": {
       "en": {
-        "source": "Wikipedia 英語版「Pinus mugo」の節「Cultivation」",
+        "source": "Wikipedia (en): Pinus mugo § Cultivation",
         "source_url": "https://en.wikipedia.org/wiki/Pinus_mugo#Cultivation",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1375582030,
         "heading": "Cultivation",
         "text": "Pinus mugo is widely cultivated as an ornamental plant, for use as a small tree or shrub, planted in gardens and in larger pots and planters. It is also used in Japanese garden style landscapes, and for larger bonsai specimens. In Kosovo, its trunk is used as construction material for the vernacular architecture in the mountains called \"Bosonica\".\n\n■ Cultivars\nNumerous cultivars have been selected. The following have been given the Royal Horticultural Society's Award of Garden Merit:\n\nCultivars with seasonal changes in foliage color include Pinus mugo 'Wintergold' and Pinus mugo 'Ophir'.",
@@ -235,7 +271,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -264,7 +300,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/677083-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub or tree",
@@ -272,7 +308,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/677083-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000481789.webp",
@@ -285,6 +321,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

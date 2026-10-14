@@ -20,32 +20,33 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "タチナタマメ"
     ],
-    "en": [
-      "wonderbean"
+    "pt": [
+      "Feijão-de-porco"
+    ],
+    "id": [
+      "Kacang parang",
+      "kara pedang"
+    ],
+    "ru": [
+      "Канавалия мечевидная"
     ],
     "zh": [
+      "白刀豆",
       "關刀豆",
       "尖萼刀豆",
       "直生刀豆",
       "乌榄",
       "直生刀豆（刀豆）",
-      "刀豆",
-      "白刀豆"
-    ],
-    "ru": [
-      "Канавалия мечевидная"
+      "刀豆"
     ],
     "ht": [
       "Pwa maldyòk"
-    ],
-    "pt": [
-      "Feijão-de-porco"
     ],
     "dv": [
       "މާނިފާ"
@@ -55,9 +56,6 @@
     ],
     "pl": [
       "kanawalia mieczokształtna"
-    ],
-    "id": [
-      "kara pedang"
     ],
     "ko": [
       "작두콩"
@@ -91,33 +89,78 @@
     ],
     "mg": [
       "Jangala"
+    ],
+    "en": [
+      "wonderbean"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1677262",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1677262",
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「タチナタマメ」",
+      "source": "Wikipedia (ja): タチナタマメ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%81%E3%83%8A%E3%82%BF%E3%83%9E%E3%83%A1",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 108498752,
       "text": "タチナタマメ（立鉈豆）はマメ亜科の一年草。ヨウナタマメ（洋刀豆）とも呼ばれる。西インド諸島原産。学名はCanavalia ensiformis。英語名はJack-bean。飼料や人間の食料として利用される。ブラジルではfeijão-de-porco（ブタの豆）と呼ばれる。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Canavalia ensiformis」",
+      "source": "Wikipedia (en): Canavalia ensiformis",
       "source_url": "https://en.wikipedia.org/wiki/Canavalia_ensiformis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1313935778,
       "text": "Canavalia ensiformis is a legume which is used for animal fodder and human nutrition, especially in Brazil where it is called feijão-de-porco. It is also the source of concanavalin A."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Canavalia ensiformis",
+      "source_url": "https://fr.wikipedia.org/wiki/Canavalia_ensiformis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 240216344,
+      "text": "Canavalia ensiformis est une espèce de plantes à fleurs appartenant de la famille des Fabaceae. C'est une liane d'origine néotropicale utilisée pour la nutrition humaine, comme fourrage pour les animaux, en particulier au Brésil, et en tant que plante de service, en association par exemple avec de la canne à sucre, des cacaoyers, des agrumes ou encore du tabac."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Feijão-de-porco",
+      "source_url": "https://pt.wikipedia.org/wiki/Feij%C3%A3o-de-porco",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 50654092,
+      "text": "O feijão-de-porco, Canavalia ensiformis, é uma planta tropical, da família Fabaceae, amplamente cultivada nos países tropicais como cobertura verde. Sua associação, em nódulos radiculares, com bactérias fixadoras de nitrogênio é natural, tendo sido demonstrado mesmo que, em certas regiões, a inoculação destas é indiferente. A semente é posta no solo junto com o cereal para poder erradicar as plantas e aproveitar a semente ainda antes do que a vegetação abundante da Canavalia impeça a maturação da maçaroca."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kacang parang",
+      "source_url": "https://id.wikipedia.org/wiki/Kacang_parang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29839398,
+      "text": "Kacang parang adalah suatu jenis polong-polongan yang ditanam sebagai bahan pangan. Biji tumbuhan ini cukup banyak mengandung protein, tetapi demikian jumlahnya belum sebanyak kedelai."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Canavalia ensiformis § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Canavalia_ensiformis#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 240216344,
+        "heading": "Culture",
+        "text": "Canavalia ensiformis n'est pas cultivé  à grande échelle pour des cultures commerciales. Il atteint communément 2 mètres dans les jardins, si les conditions lui sont favorables. Canavalia ensiformis est une plante particulièrement résistante, adaptée aux climats tropicaux humides, mais capable de supporter des périodes de sécheresse. Elle prospère avec des précipitations annuelles comprises entre 700 et 4000 mm et peut pousser jusqu’à 1800 mètres d’altitude. Bien qu’elle préfère une exposition en plein soleil, elle peut tolérer une ombre partielle. Cette espèce s’adapte à une large gamme de sols, qu’ils soient acides, pauvres, fortement lessivés ou même contaminés. Elle montre également une bonne résistance à l’engorgement et à la salinité.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -133,7 +176,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -252,7 +295,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1209500-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "liana or shrub",
@@ -260,7 +303,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/1209500-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000189815.webp",
@@ -273,6 +316,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 397,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

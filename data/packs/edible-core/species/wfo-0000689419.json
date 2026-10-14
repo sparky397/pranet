@@ -17,14 +17,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "纳塔尔榕",
-      "南美榕",
-      "木图巴树"
-    ],
     "rw": [
       "Imvuvumu"
     ],
@@ -39,24 +34,38 @@
     ],
     "bn": [
       "ত্রিকোণী বট"
+    ],
+    "zh": [
+      "木图巴树",
+      "纳塔尔榕",
+      "南美榕"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4022404",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4022404",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ficus natalensis」",
+      "source": "Wikipedia (en): Ficus natalensis",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_natalensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373432378,
       "text": "Ficus natalensis is a tree in the family Moraceae. It is commonly known as the natal fig in South Africa. In central and western Uganda, where it has an important cultural value, it is known as omutuba to the Baganda people and omutoma to the Banyakitara peoples. In English is sometimes referred as barkcloth fig. It is commonly mistaken for its cousin the Ficus thonningii also known as mugumo to the Agikuyu. These trees are distributed from north-eastern South Africa to Uganda and Kenya."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ficus natalensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Ficus_natalensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227163478,
+      "text": "Ficus natalensis est une espèce d'arbre de la famille des Moraceae répandu à travers une grande partie de l'Afrique, depuis le Kwazulu-Natal au sud jusqu'au Sénégal vers le nord-ouest et au Kenya vers le nord-est."
     }
   },
   "edible": {
@@ -74,7 +83,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -118,7 +127,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853264-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -126,7 +135,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/853264-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000689419.webp",
@@ -139,6 +148,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -8,19 +8,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "citron daylily"
-    ],
-    "zh": [
-      "黄花菜",
-      "金针菜",
-      "黄花菜（金针菜）",
-      "黄花苗",
-      "萱草根",
-      "萱草嫩苗"
+    "fr": [
+      "Hémérocalle citron"
     ],
     "ru": [
       "Лилейник лимонно-жёлтый"
@@ -40,6 +32,14 @@
     "bg": [
       "лимоненожълта дневна лилия"
     ],
+    "zh": [
+      "黄花菜",
+      "金针菜",
+      "黄花菜（金针菜）",
+      "黄花苗",
+      "萱草根",
+      "萱草嫩苗"
+    ],
     "szy": [
       "u nyaduh nu 金針花 kuydaan"
     ],
@@ -57,37 +57,71 @@
     ],
     "yue": [
       "金針"
+    ],
+    "en": [
+      "citron daylily"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q4261552",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q4261552",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Hemerocallis citrina」",
+      "source": "Wikipedia (en): Hemerocallis citrina",
       "source_url": "https://en.wikipedia.org/wiki/Hemerocallis_citrina",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1355342864,
       "text": "Hemerocallis citrina, commonly known as citron daylily and long yellow daylily, is a species of herbaceous perennial plant in the family Asphodelaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Hemerocallis citrina",
+      "source_url": "https://es.wikipedia.org/wiki/Hemerocallis_citrina",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 158146090,
+      "text": "Hemerocallis citrina es una de las especies comúnmente denominadas lirios de día. Se trata de una especie herbácea, perenne y rizomatosa perteneciente al género Hemerocallis y a la Familia Xanthorrhoeaceae. Esta planta es nativa de China y se caracteriza por sus flores de color amarillo claro."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Hémérocalle citron",
+      "source_url": "https://fr.wikipedia.org/wiki/H%C3%A9m%C3%A9rocalle_citron",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 205931905,
+      "text": "L'hémérocalle citron est une espèce de plante herbacée ornementale originaire d'Asie de la famille des Xanthorrhoeaceae."
     }
   },
   "sections": {
     "toxicity": {
       "en": {
-        "source": "Wikipedia 英語版「Hemerocallis citrina」の節「Toxicity」",
+        "source": "Wikipedia (en): Hemerocallis citrina § Toxicity",
         "source_url": "https://en.wikipedia.org/wiki/Hemerocallis_citrina#Toxicity",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "retrieved": "2026-10-12",
+        "retrieved": "2026-10-14",
         "revision": 1355342864,
         "heading": "Toxicity",
         "text": "Consuming its raw or undercooked non-dried flowers may cause unwellness. Symptoms include vomiting, abdominal pain and diarrhea.",
+        "truncated": false
+      }
+    },
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Hemerocallis citrina § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Hemerocallis_citrina#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 158146090,
+        "heading": "Cultivo",
+        "text": "Se lo utiliza en jardinería y paisajismo ya que provee color y contraste en los macizos de plantas perennes cuando se la cultiva en grupos. En parques grandes, es efectiva también para solucionar la erosión cultivándola en las pendientes. Asimismo, aun cuando las plantas no se hallen en floración, las hojas proveen un elegante follaje, color y textura en los macizos de perennes.\nEs una planta de fácil cultivo en cualquier suelo bien drenado y en un lugar a pleno sol. Es tolerante a suelos pobres, a los veranos excesivamente cálidos y a la falta de humedad. \nPara mantener el vigor de las plantas y asegurar que florezcan profusamente, es necesario dividir las matas muy grandes, excesivamente pobladas y remover los escapos cuando las flores han terminado la floración.",
         "truncated": false
       }
     }
@@ -101,7 +135,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -118,7 +152,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/536319-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "perennial or tuberous geophyte",
@@ -126,7 +160,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/536319-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000654952.webp",
@@ -139,6 +173,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 300,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

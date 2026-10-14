@@ -36,17 +36,11 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "zh": [
-      "对叶榕",
-      "牛奶树子",
-      "牛奶树"
-    ],
-    "sa": [
-      "अञ्जीर",
-      "फल्गु"
+    "id": [
+      "Bisoro"
     ],
     "ml": [
       "എരുമനാക്ക്"
@@ -66,6 +60,11 @@
     "hi": [
       "कठगूलर"
     ],
+    "zh": [
+      "对叶榕",
+      "牛奶树子",
+      "牛奶树"
+    ],
     "my": [
       "ခအောင်းပင်"
     ],
@@ -81,9 +80,6 @@
     "ar": [
       "تين البر"
     ],
-    "id": [
-      "Bisoro"
-    ],
     "ja": [
       "フィクス・イスピーダ"
     ],
@@ -92,13 +88,17 @@
     ],
     "shn": [
       "တူၼ်ႈမႆႉလိူဝ်ႇပွင်ႇ"
+    ],
+    "sa": [
+      "अञ्जीर",
+      "फल्गु"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q3349206",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q3349206",
   "search_names": {
@@ -108,13 +108,22 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Ficus hispida」",
+      "source": "Wikipedia (en): Ficus hispida",
       "source_url": "https://en.wikipedia.org/wiki/Ficus_hispida",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1373285904,
       "text": "Ficus hispida, also known as the opposite leaf Fig, is a small tree in the family Moraceae, with a distribution ranging from India and southern China southwards to northern Australia. It is morphologically gynodioecious, but functionally dioecious. Male trees are hermaphrodites with both staminate flowers that produce pollen and pistillate flowers that produce almost no seeds but can form galls containing pollinator wasp larvae. Female trees have pistillate flowers that do produce seeds but are inhospitable to pollinator wasp larvae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Bisoro",
+      "source_url": "https://id.wikipedia.org/wiki/Bisoro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 30009023,
+      "text": "Ficus hispida juga dikenal sebagai bisoro atau luwingan adalah spesies pohon ara tropis yang kecil namun tersebar dengan baik. Ia secara morfologi ginodioesious, tetapi secara fungsional dioesious. Pohon jantan bersifat hermafrodit dengan bunga jantan yang menghasilkan serbuk sari dan bunga putik yang hampir tidak menghasilkan biji tetapi dapat membentuk empedu yang berisi larva tawon penyerbuk. Pohon betina mempunyai bunga putik yang menghasilkan biji tetapi tidak ramah terhadap larva tawon penyerbuk."
     }
   },
   "edible": {
@@ -130,7 +139,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -167,7 +176,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/852981-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -175,7 +184,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/852981-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000688701.webp",
@@ -188,6 +197,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 372,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

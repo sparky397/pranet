@@ -23,15 +23,14 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "マタジャムノキ"
     ],
-    "zh": [
-      "赤才",
-      "蟹"
+    "id": [
+      "Kalalayu"
     ],
     "th": [
       "มะหวด"
@@ -45,10 +44,11 @@
     "te": [
       "ఇషిరాసి"
     ],
-    "bjn": [
-      "Kalalayu"
+    "zh": [
+      "赤才",
+      "蟹"
     ],
-    "id": [
+    "bjn": [
       "Kalalayu"
     ]
   },
@@ -56,7 +56,7 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q15525592",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q15525592",
   "search_names": {
@@ -66,22 +66,31 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「マタジャムノキ」",
+      "source": "Wikipedia (ja): マタジャムノキ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BF%E3%82%B8%E3%83%A3%E3%83%A0%E3%83%8E%E3%82%AD",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106813175,
       "text": "マタジャムノキ は、ムクロジ科の木本（低木あるいは高木）である。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Lepisanthes rubiginosa」",
+      "source": "Wikipedia (en): Lepisanthes rubiginosa",
       "source_url": "https://en.wikipedia.org/wiki/Lepisanthes_rubiginosa",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1314984249,
       "text": "Lepisanthes rubiginosa, also known as mertajam, is a plant species in the lychee family found in northern India, Indochina, Malesia and northwest Australia."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kalalayu",
+      "source_url": "https://id.wikipedia.org/wiki/Kalalayu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29675073,
+      "text": "Kalalayu merupakan tanaman yang banyak dijumpai di pedalaman Kalimantan. Kalalayu tumbuh liar di antara tumbuhan hutan pada hutan-hutan campuran atau kebun-kebun yang berada di dekat permukiman penduduk. Pohon kalalayu dapat tumbuh tinggi hingga 4–6 meter dan biasanya pohon kalalayu tumbuh di dataran rendah hingga ketinggian 500 meter dari permukaan laut."
     }
   },
   "edible": {
@@ -96,7 +105,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -130,7 +139,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/783524-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "shrub",
@@ -138,7 +147,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/783524-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0001221526.webp",
@@ -151,6 +160,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 285,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

@@ -10,25 +10,18 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "kwini"
-    ],
-    "zh": [
-      "如香杧果",
-      "长叶杧果",
-      "香芒果"
+    "id": [
+      "Kuweni",
+      "kuweni"
     ],
     "de": [
       "Wohlriechende Mango"
     ],
     "ace": [
       "Kuwini"
-    ],
-    "id": [
-      "kuweni"
     ],
     "ms": [
       "kuini"
@@ -48,6 +41,11 @@
     "jv": [
       "Kwèni"
     ],
+    "zh": [
+      "香芒果",
+      "如香杧果",
+      "长叶杧果"
+    ],
     "fa": [
       "انبه معطر"
     ],
@@ -62,13 +60,16 @@
     ],
     "ja": [
       "ニオイマンゴ"
+    ],
+    "en": [
+      "kwini"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q203981",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q203981",
   "search_names": {
@@ -78,13 +79,31 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Mangifera odorata」",
+      "source": "Wikipedia (en): Mangifera odorata",
       "source_url": "https://en.wikipedia.org/wiki/Mangifera_odorata",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1347905000,
       "text": "Mangifera odorata, commonly known as kwini, huani, or Saipan mango, is a species of plant with edible fruit in the family Anacardiaceae. It is similar to the related mango but is characterized by a strong turpentine-like smell on the skin and fibrous flesh. It is native to tropical Southeast Asia, but its exact original native range is unknown because it is only known from cultivated specimens and is believed to be a hybrid of Mangifera indica and Mangifera foetida. It is grown throughout Southeast Asia, from peninsular Thailand, to Malaysia, Indonesia and the southern Philippines. It has also been occasionally cultivated in southern Vietnam and the Mariana Islands."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Mangifera odorata",
+      "source_url": "https://fr.wikipedia.org/wiki/Mangifera_odorata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208037748,
+      "text": "Mangifera odorata, le Kuweni, Manguier à fruit odorant ou Manguier odorant, est une espèce de plantes de la famille des Anacardiaceae, dont le fruit est la mangue odorante."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kuweni",
+      "source_url": "https://id.wikipedia.org/wiki/Kuweni",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29846798,
+      "text": "Kuweni atau kuini adalah sejenis pohon buah keluarga mangga-manggaan yang masih berkerabat dekat dengan bacang. Tumbuhan ini memiliki buah yang harum dan daging buah yang lembut. Konsistensi daging buah kuweni lebih padat daripada bacang dan seratnya lebih halus. Karakternya berada di antara mangga dan bacang, dan para ahli juga menganggapnya sebagai hibrida antarspesifik alami antara mangga dan bacang."
     }
   },
   "edible": {
@@ -99,7 +118,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -119,7 +138,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69943-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -127,7 +146,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/69943-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000371112.webp",
@@ -140,6 +159,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 396,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

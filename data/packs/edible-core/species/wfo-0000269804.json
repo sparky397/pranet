@@ -8,15 +8,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "en": [
-      "Cliff date palm"
-    ],
-    "zh": [
-      "岩海枣"
-    ],
     "de": [
       "Klippen-Dattelpalme"
     ],
@@ -40,13 +34,19 @@
     ],
     "arz": [
       "نخله صخريه"
+    ],
+    "en": [
+      "Cliff date palm"
+    ],
+    "zh": [
+      "岩海枣"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q163684",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q163684",
   "search_names": {
@@ -57,13 +57,40 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Phoenix rupicola」",
+      "source": "Wikipedia (en): Phoenix rupicola",
       "source_url": "https://en.wikipedia.org/wiki/Phoenix_rupicola",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1337660633,
       "text": "Phoenix rupicola or cliff date palm is a species of flowering plant in the palm family, native to the mountainous forests of India and Bhutan from 300 to 1,200 m, usually occurring on cliffs, hillsides and similar terrain. It is threatened by habitat loss in its native range. On the other hand, the species is reportedly naturalised in the Andaman Islands, the Leeward Islands, Cuba and Puerto Rico and a specimen has recently been reported in Saint Lucia."
+    },
+    "es": {
+      "source": "Wikipedia (es): Phoenix rupicola",
+      "source_url": "https://es.wikipedia.org/wiki/Phoenix_rupicola",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 168338611,
+      "text": "Phoenix rupícola o palmera datilera de los acantilados es una especie de planta con flores de la familia de las palmeras, nativa de las montañas selváticas de India y Bután desde los 300 a los 1.200 m s. n. m., generalmente se da en los acantilados, laderas de los cerros y terrenos similares. Está amenazada por la pérdida de habitat en su área de distribución nativa. Por otro lado, la especie se ha naturalizado en las Islas Andaman, las Islas de Sotavento, Cuba y Puerto Rico"
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Phoenix rupicola",
+      "source_url": "https://fr.wikipedia.org/wiki/Phoenix_rupicola",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 232931747,
+      "text": "Phoenix rupicola est une espèce de plantes du genre Phoenix et de la famille des Arecaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Phoenix rupicola",
+      "source_url": "https://id.wikipedia.org/wiki/Phoenix_rupicola",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29242029,
+      "text": "Phoenix rupicola atau kurma tebing adalah spesies tumbuhan berbunga dalam keluarga palem, yang berasal dari hutan pegunungan di India dan Bhutan pada ketinggian 300 hingga 1.200 m, biasanya ditemukan di tebing, lereng bukit, dan medan serupa. Spesies ini terancam oleh hilangnya habitat di wilayah asalnya. Di sisi lain, spesies ini dilaporkan telah dinaturalisasi di Kepulauan Andaman, Kepulauan Leeward, Kuba, dan Puerto Riko dan sebuah spesimen baru-baru ini dilaporkan ada di Saint Lucia."
     }
   },
   "edible": {
@@ -77,7 +104,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -95,7 +122,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668946-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -103,7 +130,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/668946-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000269804.webp",
@@ -116,6 +143,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

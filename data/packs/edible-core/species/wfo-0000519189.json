@@ -8,34 +8,26 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "ja": [
       "オニマタタビ"
     ],
-    "en": [
-      "kiwi",
-      "Chinese gooseberry",
-      "kiwi fruit"
+    "et": [
+      "Hiina aktiniidia"
     ],
     "pl": [
-      "kiwi",
-      "aktinidia chińska"
+      "aktinidia chińska",
+      "kiwi"
+    ],
+    "hsb": [
+      "Chinski kiwijowc"
     ],
     "zh": [
       "中华猕猴桃",
       "猕猴桃",
       "中华猕猴桃（猕猴桃）"
-    ],
-    "sl": [
-      "kivi"
-    ],
-    "et": [
-      "Hiina aktiniidia"
-    ],
-    "hsb": [
-      "Chinski kiwijowc"
     ],
     "fa": [
       "کیوی چینی"
@@ -66,13 +58,21 @@
     ],
     "ar": [
       "أقطينيدية"
+    ],
+    "sl": [
+      "kivi"
+    ],
+    "en": [
+      "kiwi",
+      "Chinese gooseberry",
+      "kiwi fruit"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q163522",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q163522",
   "search_names": {
@@ -83,22 +83,40 @@
   },
   "description": {
     "ja": {
-      "source": "Wikipedia 日本語版「オニマタタビ」",
+      "source": "Wikipedia (ja): オニマタタビ",
       "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%83%9E%E3%82%BF%E3%82%BF%E3%83%93",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 106655884,
       "text": "オニマタタビ は、中国原産の果樹・薬用植物である。蜂によって受粉する。"
     },
     "en": {
-      "source": "Wikipedia 英語版「Actinidia chinensis」",
+      "source": "Wikipedia (en): Actinidia chinensis",
       "source_url": "https://en.wikipedia.org/wiki/Actinidia_chinensis",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1353177445,
       "text": "Actinidia chinensis is a fruiting vine native to China. It is one of some 40 related species of the genus Actinidia, and the origin of most commercial varieties of kiwifruit."
+    },
+    "es": {
+      "source": "Wikipedia (es): Actinidia chinensis",
+      "source_url": "https://es.wikipedia.org/wiki/Actinidia_chinensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174074014,
+      "text": "Actinidia chinensis es una planta enredadera frutal originaria de China. Sus bayas se producen y comercializan internacionalmente como kiwis, pues está estrechamente relacionada con la especie Actinidia deliciosa. El color del fruto varía de verde a verde lima o amarillo, dependiendo de la cepa. Mediante un proceso de selección de A. chinensis, Zespri desarrolló el kiwi amarillo. La planta también posee otros usos, como el uso medicinal. Su principal polinizador es la abeja."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Actinidia chinensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Actinidia_chinensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 208345602,
+      "text": "Actinidia chinensis, l’actinidie de Chine, le kiwi de Chine, est une espèce de lianes à fruits comestibles de la famille des Actinidiaceae. Il s'agit d'une des espèces productrices de kiwis originaire de Chine et aussi cultivée ailleurs dans le monde pour ses fruits à la peau lisse et glabre à maturité."
     }
   },
   "edible": {
@@ -112,7 +130,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -141,7 +159,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828396-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "liana",
@@ -149,6 +167,6 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/828396-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

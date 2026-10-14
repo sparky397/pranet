@@ -10,13 +10,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "es": [
-      "Palma Azul",
-      "Palma blanca"
-    ],
     "hu": [
       "sonorai szabalpálma"
     ],
@@ -25,13 +21,17 @@
     ],
     "he": [
       "סבל אורזנה"
+    ],
+    "es": [
+      "Palma Azul",
+      "Palma blanca"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q140501",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q140501",
   "search_names": {
@@ -42,13 +42,55 @@
   },
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Sabal uresana」",
+      "source": "Wikipedia (en): Sabal uresana",
       "source_url": "https://en.wikipedia.org/wiki/Sabal_uresana",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1315186689,
       "text": "Sabal uresana, commonly known as the Sonoran palmetto, is a species of palm tree that is native to the foothills of the Sierra Madre Occidental in northwestern Mexico. The specific epithet, \"uresana\", refers to Ures, Sonora, a town within its range. It is threatened by habitat loss. It is known to be the only known host plant for Hemipeplus pollocki."
+    },
+    "es": {
+      "source": "Wikipedia (es): Sabal uresana",
+      "source_url": "https://es.wikipedia.org/wiki/Sabal_uresana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 160632501,
+      "text": "Sabal uresana es una especie de palmera originaria de los valles de Sierra Madre Occidental en el noroeste de México. Está considerada en peligro de extinción por la pérdida de hábitat."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Sabal uresana",
+      "source_url": "https://fr.wikipedia.org/wiki/Sabal_uresana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 230723158,
+      "text": "Sabal uresana est une espèce de plantes de la famille des Arecaceae appartenant au genre Sabal, originaire des forêts du Mexique. On le trouve dans le désert de Sonora."
+    },
+    "id": {
+      "source": "Wikipedia (id): Sabal uresana",
+      "source_url": "https://id.wikipedia.org/wiki/Sabal_uresana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29242234,
+      "text": "Sabal uresana, yang umumnya dikenal sebagai palem Sonora, adalah spesies pohon palem yang berasal dari kaki bukit Sierra Madre Occidental di barat laut Meksiko. Epitet spesifiknya, \"uresana\", merujuk pada Ures, Sonora, sebuah kota di dalam wilayah sebarannya. Tanaman ini terancam oleh kehilangan habitat. Spesies ini diketahui sebagai satu-satunya tanaman inang yang diketahui untuk Hemipeplus pollocki."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "fr": {
+        "source": "Wikipedia (fr): Sabal uresana § Culture",
+        "source_url": "https://fr.wikipedia.org/wiki/Sabal_uresana#Culture",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 230723158,
+        "heading": "Culture",
+        "text": "Jeune, sa croissance est rapide, et favorable lors des étés chauds.\nSabal uresana est peu rencontré en culture.",
+        "truncated": false
+      }
     }
   },
   "edible": {
@@ -61,7 +103,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -72,7 +114,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/224835-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -80,7 +122,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/224835-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000299319.webp",
@@ -93,6 +135,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

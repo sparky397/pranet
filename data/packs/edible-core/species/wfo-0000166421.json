@@ -8,16 +8,9 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
-    "fr": [
-      "Petit Detar"
-    ],
-    "en": [
-      "Sweet Dattock",
-      "Tallow Tree"
-    ],
     "ar": [
       "كهبل صغير الثمار"
     ],
@@ -29,24 +22,40 @@
     ],
     "kcg": [
       "Kpangkok"
+    ],
+    "fr": [
+      "Petit Detar"
+    ],
+    "en": [
+      "Sweet Dattock",
+      "Tallow Tree"
     ]
   },
   "names_source": {
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q5265586",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q5265586",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Detarium microcarpum」",
+      "source": "Wikipedia (en): Detarium microcarpum",
       "source_url": "https://en.wikipedia.org/wiki/Detarium_microcarpum",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1325133564,
       "text": "Detarium microcarpum, commonly known as sweet detar, sweet dattock or tallow tree, is an underutilized species of tree legume that grows naturally in the drier regions of West and Central Africa. It has a wide range of uses due to its medicinal properties, edible fruit and hardwood, which is used as fuel. This makes it valuable and appreciated by local communities, but further research and effort are needed for its domestication."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Detarium microcarpum",
+      "source_url": "https://fr.wikipedia.org/wiki/Detarium_microcarpum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222453011,
+      "text": "Detarium microcarpum est une espèce de plantes à fleurs du genre Detarium de la famille des Fabaceae, que l'on trouve en Afrique de l'Ouest et du Centre."
     }
   },
   "edible": {
@@ -64,7 +73,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -90,7 +99,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/492282-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -98,7 +107,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/492282-1",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000166421.webp",
@@ -111,6 +120,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 400,
     "height": 267,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }

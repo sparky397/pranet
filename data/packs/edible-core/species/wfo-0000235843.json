@@ -14,7 +14,7 @@
     "source": "World Flora Online Plant List 2026-06",
     "source_url": "https://zenodo.org/records/20782718",
     "license": "CC0 1.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "names": {
     "fa": [
@@ -49,18 +49,27 @@
     "source": "Wikipedia の記事名と Wikidata",
     "source_url": "https://www.wikidata.org/wiki/Q1072226",
     "license": "CC0 1.0（Wikidata）。記事名は事実",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-14"
   },
   "wikidata": "Q1072226",
   "description": {
     "en": {
-      "source": "Wikipedia 英語版「Manilkara chicle」",
+      "source": "Wikipedia (en): Manilkara chicle",
       "source_url": "https://en.wikipedia.org/wiki/Manilkara_chicle",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "retrieved": "2026-10-12",
+      "retrieved": "2026-10-14",
       "revision": 1191430934,
       "text": "Manilkara chicle is a tropical evergreen tree native to Mexico and Central America. The tree ranges from Veracruz in Mexico south to Atlántico in Colombia. It yields a natural gum known as chicle, traditionally used in making chewing gum and other products."
+    },
+    "es": {
+      "source": "Wikipedia (es): Manilkara chicle",
+      "source_url": "https://es.wikipedia.org/wiki/Manilkara_chicle",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 173975224,
+      "text": "El chicle o chicozapote es un árbol tropical de hoja perenne de la familia de las sapotáceas, originario de México y América Central. El árbol se extiende desde el sur de México hasta Colombia. Produce una goma natural conocida como chicle, utilizada tradicionalmente en la elaboración de goma de mascar y otros productos."
     }
   },
   "edible": {
@@ -73,7 +82,7 @@
     "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
     "source_url": "https://doi.org/10.5063/F1CV4G34",
     "license": "CC BY 4.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "distribution": {
     "native": [
@@ -94,7 +103,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/152591-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "traits_raw": {
     "lifeform_description": "tree",
@@ -102,7 +111,7 @@
     "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
     "source_url": "https://powo.science.kew.org/taxon/152591-2",
     "license": "CC BY 3.0",
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   },
   "photo": {
     "file": "photos/wfo-0000235843.webp",
@@ -115,6 +124,6 @@
     "modification": "縮小（長辺 400px 以下、WebP に変換）",
     "width": 300,
     "height": 400,
-    "retrieved": "2026-10-12"
+    "retrieved": "2026-10-13"
   }
 }
