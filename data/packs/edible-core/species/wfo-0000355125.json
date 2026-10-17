@@ -1,0 +1,120 @@
+{
+  "id": "wfo-0000355125",
+  "scientific_name": "Juglans neotropica",
+  "authorship": "Diels",
+  "family": "Juglandaceae",
+  "synonyms": [
+    "Juglans columbiensis Dode",
+    "Juglans equatoriensis Linden",
+    "Juglans granatensis Linden",
+    "Juglans honorei Dode"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "qu": [
+      "Inka tuqti"
+    ],
+    "ar": [
+      "جوز المنطقة المدارية الجديدة"
+    ],
+    "en": [
+      "Andean walnut"
+    ],
+    "es": [
+      "Cedro Grande",
+      "Cedro Negro",
+      "Nogal"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q6304900",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q6304900",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Juglans neotropica",
+      "source_url": "https://en.wikipedia.org/wiki/Juglans_neotropica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1371819901,
+      "text": "Juglans neotropica is a species of flowering plant in the Juglandaceae family. It is a tree native Colombia, Ecuador, Peru, and northern and northwestern Venezuela. It is threatened by habitat loss. Common names include Colombian walnut, Ecuadorian walnut, Andean walnut, nogal, cedro negro, cedro nogal, and nogal Bogotano."
+    },
+    "es": {
+      "source": "Wikipedia (es): Juglans neotropica",
+      "source_url": "https://es.wikipedia.org/wiki/Juglans_neotropica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171824935,
+      "text": "Juglans neotropica es una especie de fanerógama en la familia Juglandaceae. Se halla en Colombia, Ecuador, Perú y Venezuela. Está amenazada por pérdida de hábitat, al ser explotada por su madera, que a menudo se utiliza con fines decorativos. Por lo anterior, está clasificada como una especie en peligro de extinción de acuerdo a la Lista Roja de la UICN."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Juglans neotropica",
+      "source_url": "https://fr.wikipedia.org/wiki/Juglans_neotropica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 214100580,
+      "text": "Juglans neotropica est une espèce de plantes à fleurs de la famille des Juglandaceae. C'est un arbre originaire d'Amérique du Sud."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "CLM",
+      "ECU",
+      "PER",
+      "VEN"
+    ],
+    "introduced": [
+      "GAL"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/131772-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/131772-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000355125.webp",
+    "author": "Diego Salamander",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cedro_negro.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 225,
+    "retrieved": "2026-10-14"
+  }
+}

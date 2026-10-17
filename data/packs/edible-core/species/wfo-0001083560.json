@@ -1,0 +1,131 @@
+{
+  "id": "wfo-0001083560",
+  "scientific_name": "Carapa procera",
+  "authorship": "DC.",
+  "family": "Meliaceae",
+  "synonyms": [
+    "Carapa guineensis Sweet",
+    "Carapa gummiflua C.DC.",
+    "Carapa guyanensis Oliv.",
+    "Carapa touloucouna Guill. & Perr.",
+    "Granatum procerum Kuntze",
+    "Granatum surinamensis (Miq.) Kuntze",
+    "Touloucouna gigantea M.Roem.",
+    "Xylocarpus procerus (DC.) Steud.",
+    "Xylocarpus touloucouna Steud.",
+    "Zelea splendens Ten.",
+    "Zurloa insignis Ten.",
+    "Zurloa splendens (Ten.) Ten."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "楂楝"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q2937877",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q2937877",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Carapa procera",
+      "source_url": "https://en.wikipedia.org/wiki/Carapa_procera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1374391071,
+      "text": "Carapa procera, called African crabwood, is a species of tree in the genus Carapa, native to the West African tropics and to the Amazon rainforest, and introduced to Vietnam. Some authorities have split off the South American population into its own species, Carapa surinamensis. The nuts are intensively collected in the wild for their oil, a non-timber forest product. In tropical Africa, the species is increasingly threatened."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Carapa procera",
+      "source_url": "https://fr.wikipedia.org/wiki/Carapa_procera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237159373,
+      "text": "Carapa procera est une espèce d'arbres de la famille des Méliacées que l'on rencontre et en Afrique de l'Ouest et en Afrique centrale du Sénégal à l'Angola. Il est appelé touloucouna au Sénégal, Gobi, Kowi en Sierra Leone, Toon-kor-dah au Liberia, Alla, Dona en Côte d'Ivoire, Bete, Krupi au Ghana, Agogo au Nigeria, Mujogo, Mutongana en Ouganda, Crabwood en anglais, etc."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Carapa procera",
+      "source_url": "https://pt.wikipedia.org/wiki/Carapa_procera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71069596,
+      "text": "Carapa procera é uma espécie de árvore da família das meliáceas."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BKN",
+      "BZN",
+      "CAF",
+      "FRG",
+      "GAM",
+      "GGI",
+      "GHA",
+      "GNB",
+      "GUI",
+      "IVO",
+      "LBR",
+      "MLI",
+      "NGA",
+      "SEN",
+      "SIE",
+      "SUR"
+    ],
+    "introduced": [
+      "VIE"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/577711-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/577711-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0001083560.webp",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Touloucouna.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 359,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

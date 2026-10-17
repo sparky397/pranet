@@ -1,0 +1,104 @@
+{
+  "id": "wfo-0000341884",
+  "scientific_name": "Bromelia laciniosa",
+  "authorship": "Mart. ex Schult. & Schult.f.",
+  "family": "Bromeliaceae",
+  "synonyms": [
+    "Agallostachys laciniosus (Mart. ex Schult. & Schult.f.) K.Koch"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "ar": [
+      "بروميليا خشنة"
+    ],
+    "pt": [
+      "macambira"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q12198178",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q12198178",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Bromelia laciniosa",
+      "source_url": "https://en.wikipedia.org/wiki/Bromelia_laciniosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1187472184,
+      "text": "Bromelia laciniosa, natively known as macambira, is plant in the bromeliad family, or in other words, the pineapple family—though not all bromeliads resemble the common pineapple. Bromelia laciniosa is native to Brazil and Argentina but cultivated in many other places."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Bromelia laciniosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Bromelia_laciniosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 207926508,
+      "text": "Bromelia laciniosa est une espèce de plantes tropicales de la famille des Bromeliaceae, présentes en Argentine et au Brésil."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Bromelia laciniosa",
+      "source_url": "https://pt.wikipedia.org/wiki/Bromelia_laciniosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 68021874,
+      "text": "A macambira ou mocambira é uma planta da família das bromeliáceas, do gênero Bromelia. Possui vários usos que vão desde a utilização da planta para evitar a erosão, até como alimento para o gado. Como sua folha possui modificações que dão uma natureza espinhenta a mesma, a macambira é queimada antes de ser oferecida ao gado."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "AGE",
+      "BZE",
+      "BZL"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/122333-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/122333-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000341884.webp",
+    "author": "Timm Stolten",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bromelia_laciniosa_(TS)_1-01097.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-14"
+  }
+}

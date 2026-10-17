@@ -1,0 +1,113 @@
+{
+  "id": "wfo-0000690282",
+  "scientific_name": "Ficus semicordata",
+  "authorship": "Buch.-Ham. ex Sm.",
+  "family": "Moraceae",
+  "synonyms": [
+    "Covellia conglomerata (Roxb.) Miq.",
+    "Covellia cunia (Buch.-Ham. ex Roxb.) Miq.",
+    "Covellia inaequiloba Miq.",
+    "Ficus conglomerata Roxb.",
+    "Ficus cuneata (Miq.) Wall. ex King",
+    "Ficus cunia Buch.-Ham. ex Roxb.",
+    "Ficus hapalophylla Kurz"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "ne": [
+      "खन्यू"
+    ],
+    "zh": [
+      "鸡嗉子榕",
+      "珍珠莲",
+      "鸡素子果",
+      "山枇杷果"
+    ],
+    "th": [
+      "เดื่อปล้องหิน"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q5446638",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q5446638",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Ficus semicordata",
+      "source_url": "https://en.wikipedia.org/wiki/Ficus_semicordata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1373616711,
+      "text": "Ficus semicordata, commonly known as the drooping fig, is a small to medium-sized fodder tree of genus Ficus. It is native to subtropical and tropical Asia, ranging from northern Pakistan through the Himalayas of India, Nepal, Bhutan and Tibet to Indochina, southern China, and Peninsular Malaysia. It bears edible fruit. The figs on the lower part of the leafless branches may develop in leaf litter and humus, and be buried in the surface of the soil, where the seeds germinate. Otherwise birds and other animals distribute the seeds."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ASS",
+      "BAN",
+      "CHC",
+      "CHS",
+      "CHT",
+      "EHM",
+      "IND",
+      "LAO",
+      "MLY",
+      "MYA",
+      "NEP",
+      "PAK",
+      "THA",
+      "VIE",
+      "WHM"
+    ],
+    "introduced": [
+      "TRT"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/927561-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/927561-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000690282.webp",
+    "author": "Krish Dulal",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ficus_semicordataNP.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-14"
+  }
+}

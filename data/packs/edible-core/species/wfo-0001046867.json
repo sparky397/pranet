@@ -1,0 +1,162 @@
+{
+  "id": "wfo-0001046867",
+  "scientific_name": "Vaccinium myrtilloides",
+  "authorship": "Michx.",
+  "family": "Ericaceae",
+  "synonyms": [
+    "Cyanococcus canadensis (Kalm ex Richardson) Rydb.",
+    "Vaccinium canadense Kalm ex Richardson"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "加拿大藍莓",
+      "拟桃金娘越橘",
+      "加拿大蓝莓",
+      "绒叶越橘"
+    ],
+    "en": [
+      "velvetleaf huckleberry",
+      "velvet-leaved blueberry",
+      "Velvetleaf Blueberry",
+      "Sourtop",
+      "Canada Blueberry"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q3017539",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q3017539",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Vaccinium myrtilloides",
+      "source_url": "https://en.wikipedia.org/wiki/Vaccinium_myrtilloides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1365252204,
+      "text": "Vaccinium myrtilloides is a North American species of blueberry with common names including common blueberry, velvetleaf huckleberry, velvetleaf blueberry, Canadian blueberry, and sourtop blueberry."
+    },
+    "es": {
+      "source": "Wikipedia (es): Vaccinium myrtilloides",
+      "source_url": "https://es.wikipedia.org/wiki/Vaccinium_myrtilloides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174047419,
+      "text": "Vaccinium myrtilloides es una especie norteamericana de arándano cuyos nombres comunes incluyen arándano común, arándano de hoja de terciopelo, arándano canadiense y arándano agrio."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Vaccinium myrtilloides",
+      "source_url": "https://fr.wikipedia.org/wiki/Vaccinium_myrtilloides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237484072,
+      "text": "Vaccinium myrtilloides est une espèce de plantes à fleurs de la famille des Ericaceae, appelée au Canada Bleuet sauvage, mais également appelée Airelle fausse-myrtille. C'est une espèce que l'on trouve au Canada, ainsi qu'au nord-est et au nord-ouest des États-Unis, ainsi que dans la région des Grands Lacs."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia (en): Vaccinium myrtilloides § Cultivation",
+        "source_url": "https://en.wikipedia.org/wiki/Vaccinium_myrtilloides#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 1365252204,
+        "heading": "Cultivation",
+        "text": "Vaccinium myrtilloides is cultivated and grown commercially in Canada and Maine, primarily harvested from managed wild patches. The edible fruit is one of the sweetest blueberries known.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Vaccinium myrtilloides § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Vaccinium_myrtilloides#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 174047419,
+        "heading": "Cultivo",
+        "text": "V. myrtilloides crece y se cultiva comercialmente en Canadá y Maine, principalmente en parcelas silvestres gestionadas. Su fruto comestible​ es uno de los arándanos más dulces conocidos.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ABT",
+      "BRC",
+      "CNT",
+      "ILL",
+      "INI",
+      "IOW",
+      "LAB",
+      "MAI",
+      "MAN",
+      "MAS",
+      "MIN",
+      "MNT",
+      "MRY",
+      "NBR",
+      "NSC",
+      "NWH",
+      "NWT",
+      "NWY",
+      "OHI",
+      "ONT",
+      "PEI",
+      "PEN",
+      "QUE",
+      "SAS",
+      "VER",
+      "WIS",
+      "WVA"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/261935-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "subshrub or shrub",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/261935-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0001046867.webp",
+    "author": "homeredwardprice",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vaccinium_myrtilloides.gif",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 385,
+    "retrieved": "2026-10-14"
+  }
+}

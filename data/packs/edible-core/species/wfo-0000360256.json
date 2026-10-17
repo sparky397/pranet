@@ -1,0 +1,101 @@
+{
+  "id": "wfo-0000360256",
+  "scientific_name": "Lannea welwitschii",
+  "authorship": "(Hiern) Engl.",
+  "family": "Anacardiaceae",
+  "synonyms": [
+    "Calesiam welwitschii Hiern",
+    "Odina welwitschii (Hiern) K.Schum.",
+    "Ricinodendron staudtii Pax"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15267467",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Lannea welwitschii",
+      "source_url": "https://en.wikipedia.org/wiki/Lannea_welwitschii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1314899670,
+      "text": "Lannea welwitschii is a species of tree in the family Anacardiaceae. It is native to the tropical rainforests of West and Central Africa. The timber is used to make furniture and utensils and for many other purposes, the fruits can be eaten, and the bark is used to produce a dye, for making rope and in traditional medicine."
+    },
+    "es": {
+      "source": "Wikipedia (es): Lannea welwitschii",
+      "source_url": "https://es.wikipedia.org/wiki/Lannea_welwitschii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 133497525,
+      "text": "Lannea welwitschii es una especie de árbol de la familia de las anacardiáceas."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "CAB",
+      "CAF",
+      "CMN",
+      "CON",
+      "ETH",
+      "GAB",
+      "GGI",
+      "GHA",
+      "IVO",
+      "KEN",
+      "LBR",
+      "MOZ",
+      "NGA",
+      "TAN",
+      "UGA",
+      "ZAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/69817-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/69817-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000360256.webp",
+    "author": "Ji-Elle",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Lannea_welwitschii-Jardin_botanique_Meise_(2).jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 267,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "wfo-0000317887",
+  "scientific_name": "Syagrus sancona",
+  "authorship": "(Kunth) H.Karst.",
+  "family": "Arecaceae",
+  "synonyms": [
+    "Butia argentea (Engel) Nehrl.",
+    "Calappa sancona (Kunth) Kuntze",
+    "Cocos argentea Engel",
+    "Cocos chiragua (H.Karst.) Becc.",
+    "Cocos sancona (Kunth) Hook.f.",
+    "Oenocarpus sancona (Kunth) Spreng.",
+    "Oreodoxa sancona Kunth",
+    "Palma sancona (Kunth) Kunth",
+    "Platenia chiragua H.Karst.",
+    "Syagrus argentea (Engel) Becc.",
+    "Syagrus chiragua H.Wendl.",
+    "Syagrus ecuadorensis Becc.",
+    "Syagrus tessmannii Burret"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "山可女王椰子",
+      "德森西雅棕"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q6136704",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q6136704",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Syagrus sancona",
+      "source_url": "https://en.wikipedia.org/wiki/Syagrus_sancona",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1282719969,
+      "text": "Syagrus sancona is a species of palm tree native to Bolivia, Venezuela, Colombia, Ecuador and Peru."
+    },
+    "es": {
+      "source": "Wikipedia (es): Syagrus sancona",
+      "source_url": "https://es.wikipedia.org/wiki/Syagrus_sancona",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166449486,
+      "text": "La palma sancona es una especie de plantas Angiospermae de la familia de las palmeras (Arecaceae)."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Syagrus sancona",
+      "source_url": "https://fr.wikipedia.org/wiki/Syagrus_sancona",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239664534,
+      "text": "Syagrus sancona est une espèce de plantes à fleurs de la famille des palmiers (Arecaceae). C'est une espèce que l'on trouve au Brésil, en Bolivie, au Venezuela, en Colombie, en Équateur et au Pérou."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "HF",
+      "MA",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BOL",
+      "BZN",
+      "CLM",
+      "ECU",
+      "PER",
+      "VEN"
+    ],
+    "introduced": [
+      "TRT"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/670066-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/670066-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000317887.webp",
+    "author": "Alejandro Bayer Tamayo from Armenia, Colombia",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Zancona_-_Chonta_(Syagrus_sancona)_-_Flickr_-_Alejandro_Bayer.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 267,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "wfo-0001025432",
+  "scientific_name": "Schwenckia americana",
+  "authorship": "L.",
+  "family": "Solanaceae",
+  "synonyms": [
+    "Schwenckia guineensis Schumach. & Thonn.",
+    "Schwenckia hirta Klotzsch"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "ko": [
+      "들담배"
+    ],
+    "sg": [
+      "Sên tî gba-yäkä"
+    ],
+    "ff": [
+      "Dupuhi"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q17401871",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q17401871",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Schwenckia americana",
+      "source_url": "https://en.wikipedia.org/wiki/Schwenckia_americana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1353612534,
+      "text": "Schwenckia americana is a species of flowering plant in the family Solanaceae. The species is native to South America, Central America and the Caribbean, as well as being introduced and widespread in Africa."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "AGE",
+      "AGW",
+      "BLZ",
+      "BOL",
+      "BZC",
+      "BZE",
+      "BZL",
+      "BZN",
+      "BZS",
+      "CLM",
+      "COS",
+      "CUB",
+      "ELS",
+      "FRG",
+      "GUY",
+      "HON",
+      "MXS",
+      "MXT",
+      "NIC",
+      "PAN",
+      "PAR",
+      "SUR",
+      "VEN",
+      "VNA"
+    ],
+    "introduced": [
+      "ANG",
+      "BEN",
+      "BKN",
+      "BUR",
+      "CAF",
+      "CHA",
+      "CMN",
+      "CON",
+      "EQG",
+      "GAB",
+      "GAM",
+      "GHA",
+      "GNB",
+      "GUI",
+      "IVO",
+      "LBR",
+      "MLI",
+      "MTN",
+      "NGA",
+      "NGR",
+      "RWA",
+      "SEN",
+      "SIE",
+      "SUD",
+      "TAN",
+      "UGA",
+      "ZAI",
+      "ZAM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/817941-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual or perennial",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/817941-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

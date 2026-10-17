@@ -1,0 +1,140 @@
+{
+  "id": "wfo-0000745787",
+  "scientific_name": "Senegalia mellifera",
+  "authorship": "(Vahl) Seigler & Ebinger",
+  "family": "Fabaceae",
+  "synonyms": [
+    "Acacia mellifera (Vahl) Bosc",
+    "Inga mellifera (Vahl) Willd.",
+    "Mimosa mellifera M.Vahl",
+    "Mimosa mellifera Vahl"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q42755394",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Senegalia mellifera",
+      "source_url": "https://en.wikipedia.org/wiki/Senegalia_mellifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1371433105,
+      "text": "Senegalia mellifera is a common thorn tree in Africa. The name mellifera refers to its sweet-smelling blossoms and honey. Its lumber turns pitch black when oiled. Common names of the tree include Blackthorn and Swarthaak (Afrikaans). It is listed as being not threatened."
+    },
+    "es": {
+      "source": "Wikipedia (es): Senegalia mellifera",
+      "source_url": "https://es.wikipedia.org/wiki/Senegalia_mellifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171193235,
+      "text": "Senegalia mellifera es una especie arbórea perenne perteneciente a la familia de las fabáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Senegalia mellifera",
+      "source_url": "https://fr.wikipedia.org/wiki/Senegalia_mellifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238643662,
+      "text": "Senegalia mellifera est une espèce de plantes à fleurs de la famille des Fabacées. C'est un arbuste présent en Afrique."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Senegalia mellifera",
+      "source_url": "https://pt.wikipedia.org/wiki/Senegalia_mellifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 71597336,
+      "text": "Senegalia mellifera é uma espécie de leguminosa do gênero Senegalia, pertencente à família Fabaceae."
+    },
+    "id": {
+      "source": "Wikipedia (id): Senegalia mellifera",
+      "source_url": "https://id.wikipedia.org/wiki/Senegalia_mellifera",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29696841,
+      "text": "Senegalia mellifera adalah pohon berduri yang dapat secara umum dijumpai di Benua Afrika. Nama spesifik dari tanaman ini, yaitu mellifera, merujuk pada bunga dan madu pohon ini yang harum. Kayunya akan menjadi hitam pekat ketika diberi minyak. Pohon ini dikenal dengan nama umum seperti Blackthorn dalam bahasa Inggris dan Swarthaak dalam bahasa Afrikaans dan dikategorikan sebagai spesies yang tidak terancam. Tanaman ini tumbuh terutama di wilayah kering di Afrika dan Semenanjung Arab."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Senegalia mellifera § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Senegalia_mellifera#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171193235,
+        "heading": "Toxicidad",
+        "text": "Las especies del género Acacia pueden contener derivados de la dimetiltriptamina y glucósidos cianogénicos en las hojas, las semillas y la corteza, cuya ingestión puede suponer un riesgo para la salud.​",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "IF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "BOT",
+      "CHA",
+      "CPP",
+      "CPV",
+      "DJI",
+      "EGY",
+      "ERI",
+      "ETH",
+      "KEN",
+      "MOZ",
+      "NAM",
+      "OFS",
+      "SAU",
+      "SOM",
+      "SUD",
+      "SWZ",
+      "TAN",
+      "TVL",
+      "UGA",
+      "YEM",
+      "ZAM",
+      "ZIM"
+    ],
+    "introduced": [
+      "PAK"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/60453641-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "desert or dry shrubland",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/60453641-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

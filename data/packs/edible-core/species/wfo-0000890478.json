@@ -1,0 +1,90 @@
+{
+  "id": "wfo-0000890478",
+  "scientific_name": "Phyllostachys nidularia",
+  "authorship": "Munro",
+  "family": "Poaceae",
+  "synonyms": [
+    "Phyllostachys subulata W.T.Lin & Z.M.Wu"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "篌竹",
+      "刚竹"
+    ],
+    "cs": [
+      "listoklasec hnízdovitý"
+    ],
+    "en": [
+      "broom bamboo"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15235111",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15235111",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Phyllostachys nidularia",
+      "source_url": "https://en.wikipedia.org/wiki/Phyllostachys_nidularia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1009849421,
+      "text": "Phyllostachys nidularia is a species of bamboo found in Guangdong, Guangxi, Henan, Hubei, Jiangxi, Shaanxi, Yunnan, Zhejiang province of China at elevations below 1300 meters"
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "MA"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "CHC",
+      "CHN",
+      "CHS"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/416029-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "bamboo",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/416029-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000890478.webp",
+    "author": "Daderot",
+    "license": "CC0 1.0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Phyllostachys_nidularia_-_Wangjianglou_Park_-_Chengdu,_China_-_DSC05963.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 267,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

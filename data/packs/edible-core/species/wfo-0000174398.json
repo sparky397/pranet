@@ -1,0 +1,76 @@
+{
+  "id": "wfo-0000174398",
+  "scientific_name": "Arachis villosulicarpa",
+  "authorship": "Hoehne",
+  "family": "Fabaceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "en": [
+      "groundnut"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q2880880",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q2880880",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Arachis villosulicarpa",
+      "source_url": "https://en.wikipedia.org/wiki/Arachis_villosulicarpa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1297889607,
+      "text": "Arachis villosulicarpa is a perennial peanut species, which is cultivated by indigenous people in Mato Grosso, a state of Brazil. Its wild progenitor is thought to be Arachis pietrarellii. Although it is related to the common peanut, Arachis hypogaea, it was separately domesticated: A. villosulicarpa is diploid, whereas A. hypogaea is tetraploid."
+    },
+    "es": {
+      "source": "Wikipedia (es): Arachis villosulicarpa",
+      "source_url": "https://es.wikipedia.org/wiki/Arachis_villosulicarpa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174677787,
+      "text": "Arachis villosulicarpa (amendoim) es una especie de planta perenne herbácea en la familia Fabaceae."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BZC"
+    ],
+    "introduced": [
+      "TAN"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/17317-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/17317-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

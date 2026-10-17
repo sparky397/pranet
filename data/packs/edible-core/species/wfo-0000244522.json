@@ -1,0 +1,103 @@
+{
+  "id": "wfo-0000244522",
+  "scientific_name": "Mimusops afra",
+  "authorship": "E.Mey. ex A.DC.",
+  "family": "Sapotaceae",
+  "synonyms": [
+    "Kaukenia afra (E.Mey. ex A.DC.) Kuntze",
+    "Kaukenia caffra (E.Mey. ex A.DC.) Kuntze",
+    "Mimusops caffra E.Mey. ex A.DC.",
+    "Mimusops revoluta Baill.",
+    "Mimusops revoluta Hochst."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "fi": [
+      "dyynibaulapuu"
+    ],
+    "ts": [
+      "Ndzhole"
+    ],
+    "zh": [
+      "牛奶果"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q6862459",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q6862459",
+  "search_names": {
+    "en": [
+      "M. afra",
+      "coastal red milkwood"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Mimusops afra",
+      "source_url": "https://en.wikipedia.org/wiki/Mimusops_afra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1314910948,
+      "text": "Mimusops afra is a species of tree in family Sapotaceae. This tree is found in coastal dune vegetation in Southern Africa from the Eastern Cape, through KwaZulu-Natal to southern Mozambique."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "CPP",
+      "MOZ",
+      "NAT"
+    ],
+    "introduced": [
+      "PUE"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/787870-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/787870-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000244522.webp",
+    "author": "Purves, M.",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Mimusops_caffra_flowers_08_05_2010.JPG",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 298,
+    "retrieved": "2026-10-14"
+  }
+}

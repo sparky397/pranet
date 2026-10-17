@@ -1,0 +1,90 @@
+{
+  "id": "wfo-0000694303",
+  "scientific_name": "Garcinia epunctata",
+  "authorship": "Stapf",
+  "family": "Clusiaceae",
+  "synonyms": [
+    "Garcinia balala De Wild.",
+    "Garcinia bequaertii De Wild.",
+    "Garcinia brieyi De Wild.",
+    "Garcinia cereo-flava Engl.",
+    "Garcinia klainei Pierre ex Engl.",
+    "Garcinia kuluensis Spirlet",
+    "Garcinia mimfiensis Engl.",
+    "Garcinia nyangensis Pellegr.",
+    "Garcinia obscura Spirlet",
+    "Garcinia sordido-luteola De Wild."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "arz": [
+      "جارسينيا ايبونكتاتا"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1354648",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q1354648",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Garcinia epunctata",
+      "source_url": "https://en.wikipedia.org/wiki/Garcinia_epunctata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1349817323,
+      "text": "Garcinia epunctata is a tall tropical rainforest tree in the family Clusiaceae. The tree is known for growing on inselbergs found in moist tropical forests of West Africa, including Upper Guinean forests, Lower Guinean forests, and Congolian forests south through Angola, both coastal and inland forests."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "CAB",
+      "CAF",
+      "CMN",
+      "CON",
+      "EQG",
+      "GAB",
+      "GHA",
+      "GUI",
+      "IVO",
+      "LBR",
+      "NGA",
+      "SIE",
+      "ZAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/427945-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/427945-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "wfo-0000244541",
+  "scientific_name": "Mimusops coriacea",
+  "authorship": "(A.DC.) Miq.",
+  "family": "Sapotaceae",
+  "synonyms": [
+    "Imbricaria coriacea A.DC.",
+    "Mimusops dissecta Buch.-Ham. ex A.DC.",
+    "Mimusops hexandra Bout. ex Bojer",
+    "Phlebolithis indica Gaertn."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "pt": [
+      "Abricó-da-praia"
+    ],
+    "eo": [
+      "Plaĝa abrikoto"
+    ],
+    "ar": [
+      "ميموسوبس كورياسيا"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q9561322",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q9561322",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Mimusops coriacea",
+      "source_url": "https://en.wikipedia.org/wiki/Mimusops_coriacea",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1344204116,
+      "text": "Mimusops coriacea, the monkey's apple, is a plant in the family Sapotaceae, native to Madagascar and the Comoros."
+    },
+    "pt": {
+      "source": "Wikipedia (pt): Abricó-da-praia",
+      "source_url": "https://pt.wikipedia.org/wiki/Abric%C3%B3-da-praia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 62008159,
+      "text": "O abricó-da-praia é uma árvore de fruto comestível, originária da África tropical. Outros nomes populares: abiu-da-praia, balata, maracujá-de-árvore, abricoteiro, abricó-amarelo, abricó-do-brasil, abricoqueiro, albricoqueiro. Possui frutos comestíveis ao natural, e com propriedades medicinais. A madeira é usada em construção civil e naval, em carpintaria etc."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "MA"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "COM",
+      "MDG"
+    ],
+    "introduced": [
+      "CGS",
+      "MAU",
+      "REU",
+      "SEY"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/787885-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/787885-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000244541.webp",
+    "author": "Fernando Schuster Battaglin",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Abrico.da.praia.1.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

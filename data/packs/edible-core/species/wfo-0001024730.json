@@ -1,0 +1,146 @@
+{
+  "id": "wfo-0001024730",
+  "scientific_name": "Physalis heterophylla",
+  "authorship": "Nees",
+  "family": "Solanaceae",
+  "synonyms": [
+    "Physalis ambigua (A.Gray) Britton",
+    "Physalis nyctaginea Dunal",
+    "Physalis obscura Dunal",
+    "Physalis sinuata Rydb."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "en": [
+      "clammy groundcherry",
+      "Clammy Ground Cherry"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q151021",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q151021",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Physalis heterophylla",
+      "source_url": "https://en.wikipedia.org/wiki/Physalis_heterophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1359204614,
+      "text": "Physalis heterophylla, colloquial name clammy groundcherry, is species of herbaceous plant in the family Solanaceae. It is native to North America, occurring primarily in the eastern United States and Canada. It is known to occur in all contiguous states except for Nevada and California. It is found mainly in habitats such as dry or mesic prairies, gravel hills and rises, sandy or rocky soils, and waste places such as roadsides."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Physalis heterophylla",
+      "source_url": "https://fr.wikipedia.org/wiki/Physalis_heterophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 226933524,
+      "text": "Physalis heterophylla, le coqueret hétérophylle ou cerise de terre sauvage, est une plante vivace appartenant au genre Physalis et à la famille des Solanaceae. La plante est surtout connue pour son fruit, baie comestible de couleur orangée enfermée dans un calice jaune verdâtre semblable à une lanterne."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia (en): Physalis heterophylla § Toxicity",
+        "source_url": "https://en.wikipedia.org/wiki/Physalis_heterophylla#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 1359204614,
+        "heading": "Toxicity",
+        "text": "Outside of the mature fruit, which is edible, all parts of P. heterophylla contain toxic amounts of solanine, which is poisonous to humans and animals. Symptoms of solanine poisoning include headache, stomach pain, lowered temperature, dilated pupils, vomiting, diarrhea, circulatory and respiratory depression, and loss of sensation.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ALA",
+      "ARK",
+      "COL",
+      "IDA",
+      "ILL",
+      "KTY",
+      "LOU",
+      "MAI",
+      "MAS",
+      "MIC",
+      "MIN",
+      "MNT",
+      "MRY",
+      "MSI",
+      "MSO",
+      "NCA",
+      "NDA",
+      "NEB",
+      "NWH",
+      "NWJ",
+      "NWY",
+      "OHI",
+      "OKL",
+      "ONT",
+      "PEN",
+      "QUE",
+      "RHO",
+      "SAS",
+      "SCA",
+      "SDA",
+      "TEN",
+      "TEX",
+      "VER",
+      "VRG",
+      "WIS",
+      "WVA",
+      "WYO"
+    ],
+    "introduced": [
+      "WHM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/817429-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial or rhizomatous geophyte",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/817429-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0001024730.webp",
+    "author": "Matthieu Godbout",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cerises_de_terre.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 267,
+    "retrieved": "2026-10-14"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "wfo-0000212354",
+  "scientific_name": "Anthonotha macrophylla",
+  "authorship": "P.Beauv.",
+  "family": "Fabaceae",
+  "synonyms": [
+    "Macrolobium macrophyllum (P.Beauv.) J.F.Macbr.",
+    "Macrolobium palisotii Benth.",
+    "Vouapa macrophylla (P.Beauv.) Baill."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15524555",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Anthonotha macrophylla",
+      "source_url": "https://en.wikipedia.org/wiki/Anthonotha_macrophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1316274043,
+      "text": "Anthonotha macrophylla is a shrub to small understory tree within the family Fabaceae. It is endemic to the rain forest regions of West Africa and it is the most common of species within the Anthonotha genus in Africa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Anthonotha macrophylla",
+      "source_url": "https://fr.wikipedia.org/wiki/Anthonotha_macrophylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239208130,
+      "text": "Anthonotha macrophylla, ou Macrolobium macrophyllum, est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un arbuste originaire de l'Ouest de l'Afrique."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "FU",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "BEN",
+      "CAF",
+      "CMN",
+      "CON",
+      "EQG",
+      "GAB",
+      "GGI",
+      "GHA",
+      "GUI",
+      "IVO",
+      "LBR",
+      "MLI",
+      "NGA",
+      "SEN",
+      "SIE",
+      "ZAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/474593-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/474593-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

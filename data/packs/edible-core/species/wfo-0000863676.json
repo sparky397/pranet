@@ -1,0 +1,163 @@
+{
+  "id": "wfo-0000863676",
+  "scientific_name": "Digitaria abyssinica",
+  "authorship": "(Hochst. ex A.Rich.) Stapf",
+  "family": "Poaceae",
+  "synonyms": [
+    "Dichanthium scalarum (Schweinf.) Gilliland",
+    "Digitaria ciliaris Vanderyst",
+    "Digitaria effusa Veldkamp",
+    "Digitaria eichingeri Mez",
+    "Digitaria hackelii Stapf",
+    "Digitaria hentyi Veldkamp",
+    "Digitaria lemeeana A.Camus",
+    "Digitaria merkeri Mez",
+    "Digitaria mutica Rendle",
+    "Digitaria scalarum (Schweinf.) Chiov.",
+    "Digitaria somalensis Chiov.",
+    "Digitaria tangaensis Henrard",
+    "Digitaria vestita Fig. & De Not.",
+    "Panicum abyssinicum Hochst. ex A.Rich.",
+    "Panicum hackelii Pilg.",
+    "Panicum kafuroense K.Schum.",
+    "Panicum kafuroensis K.Schum.",
+    "Panicum muticum Link",
+    "Panicum scalarum Schweinf.",
+    "Syntherisma abyssinica (Hochst. ex A.Rich.) Newbould",
+    "Syntherisma abyssinicum (Hochst. ex A.Rich.) Newbold"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "sv": [
+      "Abessinsk fingerhirs"
+    ],
+    "sw": [
+      "Sangari"
+    ],
+    "en": [
+      "African couchgrass"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15503296",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15503296",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Digitaria abyssinica",
+      "source_url": "https://en.wikipedia.org/wiki/Digitaria_abyssinica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1369950377,
+      "text": "Digitaria abyssinica, the East African couchgrass, is a species of flowering plant in the family Poaceae. It is native to Sub‑Saharan Africa, Madagascar, many of the Indian Ocean islands, the Arabian Peninsula, Sri Lanka, Peninsular Malaysia, Vietnam, New Guinea, and Queensland in Australia, and it has been introduced to scattered locations in Central America and northern South America, and to Saint Helena. Although it is a livestock forage, albeit a low‑quality one, it is generally considered a noxious weed."
+    },
+    "id": {
+      "source": "Wikipedia (id): Digitaria abyssinica",
+      "source_url": "https://id.wikipedia.org/wiki/Digitaria_abyssinica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29432178,
+      "text": "Digitaria abyssinica, yang dikenal sebagai rumput couch Afrika Timur, adalah spesies tumbuhan berbunga dalam famili Poaceae. Tumbuhan ini merupakan tumbuhan asli Afrika Sub‑Sahara, Madagaskar, banyak kepulauan di Samudra Hindia, Semenanjung Arab, Sri Lanka, Semenanjung Malaysia, Vietnam, Papua Nugini, dan Queensland di Australia, dan telah diperkenalkan ke lokasi-lokasi tersebar di Amerika Tengah dan Amerika Selatan bagian utara, serta ke Saint Helena. Meskipun merupakan pakan ternak, walaupun kualitasnya rendah, tumbuhan ini umumnya dianggap sebagai gulma berbahaya."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BOT",
+      "BUR",
+      "CMN",
+      "COM",
+      "CON",
+      "CPP",
+      "DJI",
+      "ELS",
+      "ERI",
+      "ETH",
+      "GAB",
+      "KEN",
+      "LES",
+      "MLW",
+      "MLY",
+      "MOZ",
+      "NAM",
+      "NAT",
+      "NGA",
+      "NWG",
+      "OFS",
+      "REU",
+      "RWA",
+      "SAU",
+      "SEY",
+      "SOM",
+      "SRL",
+      "SUD",
+      "SWZ",
+      "TAN",
+      "TVL",
+      "UGA",
+      "VIE",
+      "YEM",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "introduced": [
+      "CLM",
+      "COS",
+      "ECU",
+      "HAW",
+      "HON",
+      "MXG",
+      "QLD",
+      "STH"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/1209084-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial or rhizomatous geophyte",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/1209084-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000863676.webp",
+    "author": "Forest and Kim Starr",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Starr-140909-1681-Digitaria_abyssinica-habit-Wailua-Maui_(24950106300).jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

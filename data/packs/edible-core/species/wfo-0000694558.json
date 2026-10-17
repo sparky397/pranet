@@ -1,0 +1,92 @@
+{
+  "id": "wfo-0000694558",
+  "scientific_name": "Garcinia parvifolia",
+  "authorship": "(Miq.) Miq.",
+  "family": "Clusiaceae",
+  "synonyms": [
+    "Garcinia globulosa Ridl.",
+    "Garcinia tetangies Boerl.",
+    "Rhinostigma parvifolium Miq."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "id": [
+      "Kandis (tumbuhan)",
+      "Mundar"
+    ],
+    "bjn": [
+      "Mundar"
+    ],
+    "zh": [
+      "小叶藤黄"
+    ],
+    "su": [
+      "Ceuri"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15390594",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15390594",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Garcinia parvifolia",
+      "source_url": "https://en.wikipedia.org/wiki/Garcinia_parvifolia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1361911101,
+      "text": "Garcinia parvifolia, the kundong, kmanjing, Brunei cherry or Asam aur aur, is a tropical evergreen tree native to Borneo, Peninsular Malaysia, Sulawesi and Sumatra. The tree is found at elevations of 600–800 metres (2,000–2,600 ft) in humid environments, and grows to a height of 33 metres (108 ft). The bark, wood, leaves, and fruit of the kundong tree are used by humans."
+    },
+    "id": {
+      "source": "Wikipedia (id): Kandis (tumbuhan)",
+      "source_url": "https://id.wikipedia.org/wiki/Kandis_(tumbuhan)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 27733085,
+      "text": "Kandis, kundong, ceri brunei atau asam aur aur, adalah tumbuhan malar hijau daerah tropis yang persebarannya dapat ditemukan di Kalimantan, Malaysia Barat, Sulawesi dan Sumatra. Tumbuhan ini dapat ditemukan pada ketinggian 600-800 meter di lingkungan yang lembab. Tinggi kandis dapat mencapai 33 meter. Kulit, kayu, daun, hingga buah dari tumbuhan ini dapat dimanfaatkan oleh manusia."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BOR",
+      "MLY",
+      "SUL",
+      "SUM"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/428160-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/428160-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

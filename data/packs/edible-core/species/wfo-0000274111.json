@@ -1,0 +1,99 @@
+{
+  "id": "wfo-0000274111",
+  "scientific_name": "Arisaema speciosum",
+  "authorship": "(Wall.) Mart.",
+  "family": "Araceae",
+  "synonyms": [
+    "Arum speciosum Wall."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "美丽南星"
+    ],
+    "en": [
+      "cobralily"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15239396",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15239396",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Arisaema speciosum",
+      "source_url": "https://en.wikipedia.org/wiki/Arisaema_speciosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1366902046,
+      "text": "Arisaema speciosum is a species of flowering plant in the family Araceae, native to Nepal, East Himalaya, Assam, Tibet and south-central China."
+    },
+    "id": {
+      "source": "Wikipedia (id): Arisaema speciosum",
+      "source_url": "https://id.wikipedia.org/wiki/Arisaema_speciosum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29552077,
+      "text": "Arisaema speciosum adalah spesies tanaman berbunga dalam keluarga Araceae, yang berasal dari Nepal, Himalaya Timur, Assam, Tibet, dan Tiongkok tengah bagian selatan."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ASS",
+      "CHC",
+      "CHT",
+      "EHM",
+      "MYA",
+      "NEP",
+      "WHM"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/85815-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tuberous geophyte",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/85815-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000274111.webp",
+    "author": "Peter coxhead",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Arisaema_speciosum_200614-02.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 384,
+    "retrieved": "2026-10-14"
+  }
+}

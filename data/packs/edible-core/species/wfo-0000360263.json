@@ -1,0 +1,105 @@
+{
+  "id": "wfo-0000360263",
+  "scientific_name": "Lannea acida",
+  "authorship": "A.Rich.",
+  "family": "Anacardiaceae",
+  "synonyms": [
+    "Calesiam acidum (A.Rich.) Kuntze",
+    "Lannea buettneri Engl.",
+    "Lannea glaucescens Engl.",
+    "Lannea lagdoensis (Engl. & K.Krause) Mildbr.",
+    "Odina acida (A.Rich.) Walp.",
+    "Sorindeia lagdoensis Engl. & K.Krause",
+    "Tapirira acida Marchand"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "dag": [
+      "Sansabga"
+    ],
+    "bm": [
+      "Benbefin"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15546078",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15546078",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Lannea acida",
+      "source_url": "https://en.wikipedia.org/wiki/Lannea_acida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1301103372,
+      "text": "Lannea acida is a shrub or small deciduous tree within the family Anacardiaceae. It is endemic to the Guinea and Sudan savannas of West and Central Africa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Lannea acida",
+      "source_url": "https://fr.wikipedia.org/wiki/Lannea_acida",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 221901115,
+      "text": "Lannea acida, dont le nom commun français est le lannéa acide ou raisinier, est une plante à fleurs de la famille des Anacardiacées. Il s'agit d'un petit arbre, que l’on retrouve en zone soudanienne - au sud du Sahel, du Sénégal au Cameroun."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "IF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BEN",
+      "BKN",
+      "CMN",
+      "GAM",
+      "GHA",
+      "GNB",
+      "GUI",
+      "IVO",
+      "MLI",
+      "MTN",
+      "NGA",
+      "NGR",
+      "SEN",
+      "TOG"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/69738-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/69738-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

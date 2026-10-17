@@ -1,0 +1,161 @@
+{
+  "id": "wfo-0000591222",
+  "scientific_name": "Caulophyllum thalictroides",
+  "authorship": "(L.) Michx.",
+  "family": "Berberidaceae",
+  "synonyms": [
+    "Leontice thalictrifolium Salisb.",
+    "Leontice thalictroides L."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "hu": [
+      "kék indiángyökér"
+    ],
+    "ja": [
+      "ブルーコーッシュ"
+    ],
+    "en": [
+      "blue cohosh"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1123801",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q1123801",
+  "search_names": {
+    "ja": [
+      "カリオフィルム・サリクトロイデス"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Caulophyllum thalictroides",
+      "source_url": "https://en.wikipedia.org/wiki/Caulophyllum_thalictroides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1352910287,
+      "text": "Caulophyllum thalictroides, the blue cohosh, is a species of flowering plant in the Berberidaceae (barberry) family. It is a medium-tall perennial with blue berry-like fruits and bluish-green foliage. The common name cohosh is probably from an Algonquian word meaning \"rough\". The Greek-derived genus name Caulophyllum signifies \"stem-leaf\", while the specific name thalictroides references the similarity between the large highly divided, multiple-compound leaves of meadow-rues and those of blue cohosh."
+    },
+    "es": {
+      "source": "Wikipedia (es): Caulophyllum thalictroides",
+      "source_url": "https://es.wikipedia.org/wiki/Caulophyllum_thalictroides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175206424,
+      "text": "Caulophyllum thalictroides es una especie de planta medicinal de la familia Berberidaceae, también llamada squaw root o papoose root."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Caulophyllum thalictroides",
+      "source_url": "https://fr.wikipedia.org/wiki/Caulophyllum_thalictroides",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 229228944,
+      "text": "Caulophyllum thalictroides est une espèce de plantes à fleurs de la famille des Berberidaceae (épine-vinette). C'est une plante vivace de taille moyenne avec des fruits bleus ressemblant à des baies et un feuillage vert bleuâtre."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia (en): Caulophyllum thalictroides § Toxicity",
+        "source_url": "https://en.wikipedia.org/wiki/Caulophyllum_thalictroides#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 1352910287,
+        "heading": "Toxicity",
+        "text": "When used in high doses as an abortifacient, symptoms similar to nicotine poisoning can occur. These are not limited to nausea and emesis, headache, dizziness, muscle fasciculations, tachycardia, tachypnea, hypertension seizure, and respiratory failure.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ALA",
+      "ARK",
+      "CNT",
+      "DEL",
+      "GEO",
+      "ILL",
+      "INI",
+      "IOW",
+      "KAN",
+      "KTY",
+      "MAI",
+      "MAN",
+      "MAS",
+      "MIC",
+      "MIN",
+      "MRY",
+      "MSO",
+      "NBR",
+      "NCA",
+      "NDA",
+      "NEB",
+      "NWH",
+      "NWJ",
+      "NWY",
+      "OHI",
+      "ONT",
+      "PEN",
+      "QUE",
+      "SCA",
+      "SDA",
+      "TEN",
+      "VER",
+      "VRG",
+      "WDC",
+      "WIS",
+      "WVA"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/1056122-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/1056122-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000591222.webp",
+    "author": "carol",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Blue_Cohosh.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-14"
+  }
+}

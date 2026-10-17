@@ -1,0 +1,79 @@
+{
+  "id": "wfo-1000030902",
+  "scientific_name": "Psammogeton involucratum",
+  "authorship": "(Roxb.) Mousavi, Mozaff. & Zarre",
+  "family": "Apiaceae",
+  "synonyms": [
+    "Apium involucratum Roxb.",
+    "Athamanta roxburghiana Wall.",
+    "Carum involucratum Baill.",
+    "Carum roxburghianum Benth. & Hook.f.",
+    "Carum stictocarpum C.B.Clarke",
+    "Pimpinella dalzellii P.K.Mukh.",
+    "Pimpinella involucrata Wight & Arn.",
+    "Pimpinella lateriflora Dalzell & A.Gibson",
+    "Ptychotis involucrata Royle",
+    "Ptychotis roxburghiana DC.",
+    "Trachyspermum involucratum H.Wolff",
+    "Trachyspermum matthewii M.R.Almeida",
+    "Trachyspermum roxburghianum H.Wolff",
+    "Trachyspermum stictocarpum (C.B.Clarke) H.Wolff"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "IND",
+      "SRL"
+    ],
+    "introduced": [
+      "AND",
+      "ASS",
+      "BAN",
+      "BOR",
+      "CHC",
+      "EHM",
+      "JAW",
+      "LAO",
+      "LSI",
+      "MOL",
+      "MYA",
+      "NCB",
+      "NWG",
+      "PHI",
+      "SUL",
+      "SUM",
+      "THA",
+      "VIE",
+      "WHM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/77297273-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/77297273-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

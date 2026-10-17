@@ -1,0 +1,178 @@
+{
+  "id": "wfo-0000132960",
+  "scientific_name": "Acmella uliginosa",
+  "authorship": "(Sw.) Cass.",
+  "family": "Asteraceae",
+  "synonyms": [
+    "Calea savannarum Standl. & Steyerm.",
+    "Jaegeria uliginosa (Sw.) Spreng.",
+    "Spilanthes charitopis A.H.Moore",
+    "Spilanthes iabadicensis A.H.Moore",
+    "Spilanthes lundii DC.",
+    "Spilanthes lundii DeCandolle",
+    "Spilanthes salzmannii DC.",
+    "Spilanthes uliginosa Sw."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "id": [
+      "Jotang kecil"
+    ],
+    "zh": [
+      "沼生金钮扣",
+      "沼生金鈕扣",
+      "沼生金纽扣"
+    ],
+    "ml": [
+      "അക്മെല്ല യുലിഗിനോസ"
+    ],
+    "su": [
+      "Jotang leutik"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q11142863",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q11142863",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Acmella uliginosa",
+      "source_url": "https://en.wikipedia.org/wiki/Acmella_uliginosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1314045237,
+      "text": "Acmella uliginosa, the marsh para cress, is a species of flowering herb in the family Asteraceae. The plant is native to South America and is naturalized in parts of Asia and Africa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Acmella uliginosa",
+      "source_url": "https://fr.wikipedia.org/wiki/Acmella_uliginosa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222136130,
+      "text": "Acmella uliginosa, la Créosote pays, est une espèce de plantes à fleurs de la famille des Asteraceae, originaire d'Amérique du Sud (Brésil, Bolivie, Venezuela, etc. et naturalisée dans certaines parties d'Asie et d'Afrique."
+    },
+    "id": {
+      "source": "Wikipedia (id): Jotang kecil",
+      "source_url": "https://id.wikipedia.org/wiki/Jotang_kecil",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29410286,
+      "text": "Jotang kecil adalah sejenis terna yang termasuk ke dalam famili Asteraceae. Sebagaimana anggota genus Acmella lainnya, bunga dan daun jotang kecil digunakan sebagai obat sakit gigi. Di wilayah Sunda, tumbuhan ini dikenal sebagai jotang atau jocong leutik. Dalam bahasa Inggris: Marsh Para Cress."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BOL",
+      "BZC",
+      "BZE",
+      "BZL",
+      "BZN",
+      "CLM",
+      "DOM",
+      "FRG",
+      "GUY",
+      "HAI",
+      "HON",
+      "JAM",
+      "LEE",
+      "PAN",
+      "SUR",
+      "TRT",
+      "VEN",
+      "WIN"
+    ],
+    "introduced": [
+      "AND",
+      "ASS",
+      "BEN",
+      "BKN",
+      "BOR",
+      "CAF",
+      "CBD",
+      "CHA",
+      "CHS",
+      "CMN",
+      "CON",
+      "CRL",
+      "EHM",
+      "EQG",
+      "FIJ",
+      "GAB",
+      "GNB",
+      "GUI",
+      "IND",
+      "IVO",
+      "JAW",
+      "KZN",
+      "MLY",
+      "MRS",
+      "MYA",
+      "NCB",
+      "NEP",
+      "NGA",
+      "NNS",
+      "NWG",
+      "OGA",
+      "PHI",
+      "QLD",
+      "SAM",
+      "SEN",
+      "SRL",
+      "SUL",
+      "SUM",
+      "TAI",
+      "THA",
+      "VIE",
+      "WHM",
+      "ZAI"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/174556-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "annual",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/174556-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000132960.webp",
+    "author": "Vengolis",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Acmella_uliginosa_05040.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 267,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

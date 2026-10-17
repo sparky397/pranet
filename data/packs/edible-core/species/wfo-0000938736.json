@@ -1,0 +1,93 @@
+{
+  "id": "wfo-0000938736",
+  "scientific_name": "Alchornea floribunda",
+  "authorship": "Müll.Arg.",
+  "family": "Euphorbiaceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "多花山麻杆"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q4713059",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q4713059",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Alchornea floribunda",
+      "source_url": "https://en.wikipedia.org/wiki/Alchornea_floribunda",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1332548915,
+      "text": "Alchornea floribunda is a plant native to tropical Africa. The plant is locally known as Niando."
+    },
+    "es": {
+      "source": "Wikipedia (es): Alchornea floribunda",
+      "source_url": "https://es.wikipedia.org/wiki/Alchornea_floribunda",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 172240173,
+      "text": "Alchornea floribunda es una especie de planta medicinal perteneciente a la familia de las euforbiáceas. Es una planta originaria de Sudán, Uganda, Camerún, República Centroafricana, República del Congo, Guinea Ecuatorial, Gabón, Santo Tomé y Príncipe, la República Democrática del Congo, Costa de Marfil, Ghana, Guinea, Liberia, Nigeria y Sierra Leona."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "CAF",
+      "CMN",
+      "CON",
+      "EQG",
+      "GAB",
+      "GGI",
+      "GHA",
+      "GUI",
+      "IVO",
+      "LBR",
+      "MLI",
+      "NGA",
+      "SIE",
+      "SUD",
+      "UGA",
+      "ZAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/338394-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/338394-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

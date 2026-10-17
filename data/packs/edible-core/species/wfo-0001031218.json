@@ -1,0 +1,73 @@
+{
+  "id": "wfo-0001031218",
+  "scientific_name": "Solanum sibundoyense",
+  "authorship": "(Bohs) Bohs",
+  "family": "Solanaceae",
+  "synonyms": [
+    "Cyphomandra sibundoyensis Bohs"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "es": [
+      "Tomate Salvaje",
+      "Tomate Silvestre"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q5464982",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q5464982",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Solanum sibundoyense",
+      "source_url": "https://en.wikipedia.org/wiki/Solanum_sibundoyense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1315256474,
+      "text": "Solanum sibundoyense is a species of plant in the family Solanaceae. It is endemic to Colombia, specifically to Sibundoy and surrounding areas, and usually resides in cloud forests, 1400–2300 meters in elevation. It is also known as tomate salvaje or tomate silvestre to natives of Colombia, and also sometimes called Cyphomandra sibundoyensis. It's a small tree 4–8 m tall. Stems glabrous or sparsely puberulent with glandular and eglandular hairs less than 0.5 mm long."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "CLM"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/985918-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0001031218.webp",
+    "author": "Cyphomandra",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_sibundoyense_fruit,_immature,_parthenocarpic,_Meadows_collection,_Helensville,_Auckland_Dec_2012.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 366,
+    "retrieved": "2026-10-14"
+  }
+}

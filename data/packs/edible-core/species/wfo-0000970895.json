@@ -1,0 +1,109 @@
+{
+  "id": "wfo-0000970895",
+  "scientific_name": "Gardenia erubescens",
+  "authorship": "Stapf & Hutch.",
+  "family": "Rubiaceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "dag": [
+      "Dazuli"
+    ],
+    "bm": [
+      "Bulenmuso"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1494088",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q1494088",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Gardenia erubescens",
+      "source_url": "https://en.wikipedia.org/wiki/Gardenia_erubescens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1314448137,
+      "text": "Gardenia erubescens is a species of shrub or small tree in the family Rubiaceae. It has edible fruits and occurs in the Guinea and Sudan savannah vegetation of West and Central Africa."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Gardenia erubescens",
+      "source_url": "https://fr.wikipedia.org/wiki/Gardenia_erubescens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 178063589,
+      "text": "Gardenia erubescens est une espèce de plantes de la famille des Rubiaceae et du genre Gardénia, présente en Afrique tropicale."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BEN",
+      "BKN",
+      "CAF",
+      "CHA",
+      "GAM",
+      "GHA",
+      "GUI",
+      "IVO",
+      "MLI",
+      "NGA",
+      "SEN",
+      "SIE",
+      "SUD",
+      "TOG",
+      "UGA"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/751008-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/751008-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000970895.webp",
+    "author": "Marco Schmidt [1]",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Gardenia_erubescens_MS_2174.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 267,
+    "retrieved": "2026-10-14"
+  }
+}

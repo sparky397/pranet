@@ -1,0 +1,83 @@
+{
+  "id": "wfo-0000588762",
+  "scientific_name": "Carya hunanensis",
+  "authorship": "C.C.Cheng & R.H.Chang",
+  "family": "Juglandaceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "湖南山核桃"
+    ],
+    "hu": [
+      "hunani hikoridió"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15246628",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15246628",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Carya hunanensis",
+      "source_url": "https://en.wikipedia.org/wiki/Carya_hunanensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1138028874,
+      "text": "Carya hunanensis is a species of hickory native to China. It was first described by Wan Chun Cheng and R.H. Chang. Carya hunanensis is part of the genus Carya, and the family Juglandaceae. No subspecies are listed in the Catalog of Life."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "en": {
+        "source": "Wikipedia (en): Carya hunanensis § Cultivation",
+        "source_url": "https://en.wikipedia.org/wiki/Carya_hunanensis#Cultivation",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 1138028874,
+        "heading": "Cultivation",
+        "text": "The tree is cultivated for its edible nuts, which are also pressed for oil.",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "CHC",
+      "CHS"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/442166-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/442166-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

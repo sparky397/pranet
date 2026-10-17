@@ -1,0 +1,83 @@
+{
+  "id": "wfo-0000428721",
+  "scientific_name": "Xylopia staudtii",
+  "authorship": "Engl. & Diels",
+  "family": "Annonaceae",
+  "synonyms": [
+    "Xylopia mayombensis De Wild.",
+    "Xylopicrum staudtii (Engl. & Diels) Kuntze"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "ru": [
+      "Ксилопия Штауда"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15366671",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15366671",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Xylopia staudtii",
+      "source_url": "https://en.wikipedia.org/wiki/Xylopia_staudtii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1361165753,
+      "text": "Xylopia staudtii Engl & Diels is a tall tree within the Annonaceae family, it can grow up to 50 metres (160 ft) tall, the tallest height of the African Xylopia trees. It occurs in forest and freshwater swamps in West Africa."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "CAB",
+      "CAF",
+      "CMN",
+      "CON",
+      "EQG",
+      "GAB",
+      "GGI",
+      "GHA",
+      "GUI",
+      "IVO",
+      "LBR",
+      "NGA",
+      "SIE",
+      "UGA",
+      "ZAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/76261-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/76261-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

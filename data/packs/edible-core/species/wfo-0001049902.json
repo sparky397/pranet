@@ -1,0 +1,168 @@
+{
+  "id": "wfo-0001049902",
+  "scientific_name": "Rhus copallinum",
+  "authorship": "L.",
+  "family": "Anacardiaceae",
+  "synonyms": [
+    "Rhus lentiscifolia Stokes",
+    "Rhus leucantha Jacq.",
+    "Rhus obtusifolia Small",
+    "Rhus pistachiifolia Salisb.",
+    "Schmaltzia copallina (L.) Small",
+    "Schmaltzia leucantha (Jacq.) Small",
+    "Schmaltzia obtusifolia Small",
+    "Sumacus copallina (L.) Raf.",
+    "Sumacus montana Raf.",
+    "Toxicodendron copallinum (L.) Kuntze"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "ru": [
+      "Сумах копаловый"
+    ],
+    "zh": [
+      "亮葉漆樹",
+      "亮叶漆树"
+    ],
+    "sl": [
+      "dišeči octovec"
+    ],
+    "en": [
+      "winged sumac"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q7245720",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q7245720",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Rhus copallinum",
+      "source_url": "https://en.wikipedia.org/wiki/Rhus_copallinum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1374481064,
+      "text": "Rhus copallinum, the winged sumac, shining sumac, dwarf sumac or flameleaf sumac, is a species of flowering plant in the cashew family (Anacardiaceae) that is native to eastern North America. It is a deciduous tree growing to 3.5–5.5 metres (11–18 ft) tall and an equal spread with a rounded crown. A 5-year-old sapling will stand about 2.5 metres (8.2 ft). The name Rhus copallina is also used, but this is not consistent with the rules of the International Association for Plant Taxonomy."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rhus copallinum",
+      "source_url": "https://es.wikipedia.org/wiki/Rhus_copallinum",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 166603156,
+      "text": "Rhus copallina es una especie de árbol perteneciente a la familia de las anacardiáceas."
+    }
+  },
+  "sections": {
+    "cultivation": {
+      "es": {
+        "source": "Wikipedia (es): Rhus copallinum § Cultivo",
+        "source_url": "https://es.wikipedia.org/wiki/Rhus_copallinum#Cultivo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 166603156,
+        "heading": "Cultivo",
+        "text": "El árbol se puede plantar en un contenedor o una maceta sobre el suelo; recomendado para las franjas de protección alrededor de los estacionamientos o para las plantaciones medianas strip-tease en la carretera; planta de regeneración; espécimen; el árbol ha sido cultivado con éxito en las áreas urbanas, donde la contaminación del aire, el drenaje deficiente, la tierra compactada, y / o la sequía son comunes.\nEl árbol crece a pleno sol o sombra parcial. Tolerancias suelo incluyen arcilla, limo, arena, ligeramente alcalino, ácido, y un suelo bien drenado. Su tolerancia a la sequía es alto.​",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ALA",
+      "ARI",
+      "ARK",
+      "CNT",
+      "CUB",
+      "DEL",
+      "FLA",
+      "GEO",
+      "ILL",
+      "INI",
+      "IOW",
+      "KAN",
+      "KTY",
+      "LOU",
+      "MAI",
+      "MAS",
+      "MIC",
+      "MRY",
+      "MSI",
+      "MSO",
+      "MXC",
+      "MXE",
+      "NCA",
+      "NEB",
+      "NWH",
+      "NWJ",
+      "NWM",
+      "NWY",
+      "OHI",
+      "OKL",
+      "ONT",
+      "PEN",
+      "RHO",
+      "SCA",
+      "TEN",
+      "TEX",
+      "VER",
+      "VRG",
+      "WDC",
+      "WIS",
+      "WVA"
+    ],
+    "introduced": [
+      "GRB",
+      "TRT"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/219750-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/219750-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0001049902.webp",
+    "author": null,
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Rhus_copallinum.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 281,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

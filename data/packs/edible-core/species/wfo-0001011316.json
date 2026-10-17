@@ -1,0 +1,211 @@
+{
+  "id": "wfo-0001011316",
+  "scientific_name": "Rubus allegheniensis",
+  "authorship": "Porter",
+  "family": "Rosaceae",
+  "synonyms": [
+    "Rubus acadiensis L.H.Bailey",
+    "Rubus alleghaniensis Porter",
+    "Rubus attractus L.H.Bailey",
+    "Rubus auroralis L.H.Bailey",
+    "Rubus campester L.H.Bailey",
+    "Rubus campestris P.J.Müll.",
+    "Rubus concameratus H.A.Davis & T.Davis",
+    "Rubus fissidens L.H.Bailey",
+    "Rubus fryei H.A.Davis & T.Davis",
+    "Rubus glandicaulis Blanch.",
+    "Rubus gravesii (Fernald) L.H.Bailey",
+    "Rubus inclinis L.H.Bailey",
+    "Rubus irregularis L.H.Bailey",
+    "Rubus latens L.H.Bailey",
+    "Rubus longissimus L.H.Bailey",
+    "Rubus marilandicus L.H.Bailey",
+    "Rubus montanus (Porter) Porter",
+    "Rubus montpelierensis Blanch. ex L.H.Bailey",
+    "Rubus nigrobaccatus Focke",
+    "Rubus nigrobaccus L.H.Bailey",
+    "Rubus nuperus L.H.Bailey",
+    "Rubus par L.H.Bailey",
+    "Rubus paulus L.H.Bailey",
+    "Rubus pennus L.H.Bailey",
+    "Rubus pugnax L.H.Bailey",
+    "Rubus rappii L.H.Bailey",
+    "Rubus rosa L.H.Bailey",
+    "Rubus saltuensis L.H.Bailey",
+    "Rubus sativus (L.H.Bailey) Brainerd",
+    "Rubus separ L.H.Bailey",
+    "Rubus suppar L.H.Bailey",
+    "Rubus tumularis L.H.Bailey",
+    "Rubus uber L.H.Bailey",
+    "Rubus virginianus L.H.Bailey",
+    "Rubus vulpinus Poir."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "sv": [
+      "Sammetsbjörnbär"
+    ],
+    "cs": [
+      "ostružiník alleghenský"
+    ],
+    "fi": [
+      "mustavatukka"
+    ],
+    "et": [
+      "mägimurakas"
+    ],
+    "nb": [
+      "alleghenybjørnebær"
+    ],
+    "nn": [
+      "alleghenybjørnebær"
+    ],
+    "zh": [
+      "阿勒格尼黑莓",
+      "阿利根尼黑莓"
+    ],
+    "de": [
+      "Allegheny-Brombeere"
+    ],
+    "en": [
+      "Allegheny blackberry"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q276439",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q276439",
+  "search_names": {
+    "en": [
+      "common blackberry"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Rubus allegheniensis",
+      "source_url": "https://en.wikipedia.org/wiki/Rubus_allegheniensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1354838642,
+      "text": "Rubus allegheniensis is a North American species of highbush blackberry. It is commonly known as Allegheny blackberry."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rubus allegheniensis",
+      "source_url": "https://fr.wikipedia.org/wiki/Rubus_allegheniensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 231901435,
+      "text": "Rubus allegheniensis est une espèce de plantes à fleurs de la famille des rosacées et du genre Rubus. Elle fleurit en mai-juin et parfois en juillet et produit des fruits de couleur noire."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ALA",
+      "ARK",
+      "CNT",
+      "DEL",
+      "GEO",
+      "ILL",
+      "INI",
+      "IOW",
+      "KAN",
+      "KTY",
+      "MAI",
+      "MAS",
+      "MIC",
+      "MIN",
+      "MNT",
+      "MRY",
+      "MSO",
+      "NBR",
+      "NCA",
+      "NEB",
+      "NSC",
+      "NWH",
+      "NWJ",
+      "NWY",
+      "OHI",
+      "OKL",
+      "ONT",
+      "PEI",
+      "QUE",
+      "RHO",
+      "SCA",
+      "TEN",
+      "VER",
+      "VRG",
+      "WDC",
+      "WIS",
+      "WVA"
+    ],
+    "introduced": [
+      "AUT",
+      "BLR",
+      "BLT",
+      "BRC",
+      "CAL",
+      "CPP",
+      "CZE",
+      "DEN",
+      "FIN",
+      "GER",
+      "GRB",
+      "JAP",
+      "NET",
+      "NOR",
+      "NZN",
+      "POL",
+      "QLD",
+      "RUC",
+      "SWE",
+      "WSB"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/298725-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/298725-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0001011316.webp",
+    "author": "Joshua Mayer (wackybadger)",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Rubus_allegheniensis_(4788809635).jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 268,
+    "retrieved": "2026-10-14"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "wfo-0000300110",
+  "scientific_name": "Salacca wallichiana",
+  "authorship": "Mart.",
+  "family": "Arecaceae",
+  "synonyms": [
+    "Calamus zalacca Roxb.",
+    "Salacca beccarii Hook.f.",
+    "Salacca macrostachya Griff."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "th": [
+      "ระกำ"
+    ],
+    "ru": [
+      "Ракум-салакка"
+    ],
+    "zh": [
+      "瓦理蛇皮果"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q13019302",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q13019302",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Salacca wallichiana",
+      "source_url": "https://en.wikipedia.org/wiki/Salacca_wallichiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1071069605,
+      "text": "Salacca wallichiana is a species of plant in the family Arecaceae. The specific epithet (wallichiana) honors Danish botanist Nathaniel Wallich. It is found in Malaysia, Thailand, Myanmar, and Sumatra. It is valued for its edible fruit which is consumed across its native range."
+    },
+    "id": {
+      "source": "Wikipedia (id): Salacca wallichiana",
+      "source_url": "https://id.wikipedia.org/wiki/Salacca_wallichiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 29242245,
+      "text": "Salacca wallichiana adalah spesies tumbuhan dalam keluarga Arecaceae. Epitet spesifiknya (wallichiana) menghormati ahli botani Denmark Nathaniel Wallich. Tanaman ini ditemukan di Malaysia, Thailand, Myanmar, dan Sumatra. Tanaman ini dihargai karena buahnya yang dapat dimakan yang dikonsumsi di seluruh wilayah asalnya."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "MLY",
+      "MYA",
+      "SUM",
+      "THA"
+    ],
+    "introduced": [
+      "ASS",
+      "LAO",
+      "VIE"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/670334-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial or subshrub",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/670334-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000300110.webp",
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Salacca_wallichiana_fruit.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 267,
+    "retrieved": "2026-10-14"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "wfo-0000754402",
+  "scientific_name": "Agave gigantensis",
+  "authorship": "Gentry",
+  "family": "Asparagaceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "大龍舌蘭",
+      "巨龙舌兰"
+    ],
+    "arz": [
+      "اجاف جيجانتينسيس"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q391741",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q391741",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Agave gigantensis",
+      "source_url": "https://en.wikipedia.org/wiki/Agave_gigantensis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1371455884,
+      "text": "Agave gigantensis is a large, flowering agave plant found in Baja California Sur, Mexico. Its name is derived from the area of origin, not its large size. The plant is distinguishable by its red and purple leaves during flowering season. It is able to survive in harsh, rocky conditions and prefers dry and warm environments. \nThe flowers of A. gigantensis are arranged in small clusters which diverge from a main branch. Unlike many other agave plants, A. gigantensis has been traditionally used in food and medicine by communities of western Mexico."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "MXN"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/6501-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "succulent perennial",
+    "climate_description": "desert or dry shrubland",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/6501-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000754402.webp",
+    "author": "CDashley",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Agave_Gigantensis.png",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 290,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

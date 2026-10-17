@@ -1,0 +1,98 @@
+{
+  "id": "wfo-0000531446",
+  "scientific_name": "Ampelocissus abyssinica",
+  "authorship": "(Hochst. ex A.Rich.) Planch.",
+  "family": "Vitaceae",
+  "synonyms": [
+    "Ampelocissus calophylla Gilg ex De Wild.",
+    "Ampelocissus cavicaulis (Baker) Planch.",
+    "Ampelocissus cussoniifolia (Schweinf. ex Planch.) Planch.",
+    "Cissus cussoniifolia Schweinf. ex Planch.",
+    "Cissus pauli-guilielmi Schweinf.",
+    "Vitis abyssinica Hochst. ex A.Rich.",
+    "Vitis cavicaulis Baker"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "东非酸蔹藤"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q4748100",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q4748100",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Ampelocissus abyssinica",
+      "source_url": "https://en.wikipedia.org/wiki/Ampelocissus_abyssinica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1187825159,
+      "text": "Ampelocissus abyssinica is a large climbing vine native to southeast Ethiopia, where it is known in the Afaan Oromo language by the name teru, and is used as a herbal treatment for the medical condition known as black leg. Its first botanical description was in 1847 as Vitis abyssinica, that name being the basionym for its treatment here under the genus Ampelocissus."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Ampelocissus abyssinica",
+      "source_url": "https://fr.wikipedia.org/wiki/Ampelocissus_abyssinica",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238676219,
+      "text": "Ampelocissus abyssinica est une espèce de plantes à fleurs grimpantes, de la famille des Vitacées. Originaire de l’Afrique tropicale, notamment de l’Afrique de l'Est et de la Corne de l'Afrique, elle a été décrite pour la première fois en 1847 sous le nom de Vitis abyssinica, puis reclassée dans le genre Ampelocissus. La plante est utilisée localement comme plante médicinale pour le bétail, notamment contre le blackleg (en), et pousse souvent en association avec des arbres servant de tuteurs naturels."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "BUR",
+      "CAB",
+      "CAF",
+      "CMN",
+      "EQG",
+      "ERI",
+      "ETH",
+      "GAB",
+      "GGI",
+      "NGA",
+      "SUD",
+      "TAN",
+      "UGA",
+      "ZAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/67328-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "climber",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/67328-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

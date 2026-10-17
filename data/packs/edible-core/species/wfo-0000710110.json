@@ -1,0 +1,107 @@
+{
+  "id": "wfo-0000710110",
+  "scientific_name": "Grewia mollis",
+  "authorship": "Juss.",
+  "family": "Malvaceae",
+  "synonyms": [
+    "Grewia africana Mill.",
+    "Grewia petitiana A.Rich.",
+    "Grewia velutina Franch.",
+    "Grewia venusta Fresen."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "lg": [
+      "Mukoma"
+    ],
+    "dag": [
+      "Yualega"
+    ],
+    "ar": [
+      "قضيم"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15369371",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15369371",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Grewia mollis",
+      "source_url": "https://en.wikipedia.org/wiki/Grewia_mollis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1321690817,
+      "text": "Grewia mollis is a widespread species of flowering plant in the family Malvaceae, native to tropical Africa, Yemen and Oman. It is the source of grewia gum, an edible polysaccharide mucilage, similar in its properties to tragacanth gum."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "FU",
+      "GS",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "BEN",
+      "BKN",
+      "BUR",
+      "CHA",
+      "CMN",
+      "ETH",
+      "GAB",
+      "GHA",
+      "GNB",
+      "GUI",
+      "IVO",
+      "KEN",
+      "LBR",
+      "MLI",
+      "NGA",
+      "OMA",
+      "RWA",
+      "SEN",
+      "SIE",
+      "SOM",
+      "SUD",
+      "TAN",
+      "TOG",
+      "UGA",
+      "YEM",
+      "ZAI",
+      "ZAM"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/332097-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/332097-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

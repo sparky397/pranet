@@ -1,0 +1,96 @@
+{
+  "id": "wfo-0000313785",
+  "scientific_name": "Balanites wilsoniana",
+  "authorship": "Dawe & Sprague",
+  "family": "Zygophyllaceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "ar": [
+      "هجليج ويلسوني"
+    ],
+    "arz": [
+      "هجليج ويلسونى"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q2880538",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q2880538",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Balanites wilsoniana",
+      "source_url": "https://en.wikipedia.org/wiki/Balanites_wilsoniana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1300037008,
+      "text": "Balanites wilsoniana is a species of fruit-bearing tree from west and central Africa in the caltrop family Zygophyllaceae."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Balanites wilsoniana",
+      "source_url": "https://fr.wikipedia.org/wiki/Balanites_wilsoniana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222228962,
+      "text": "Balanites wilsoniana est un arbre du genre Balanites dont l'agent de dispersion exclusif semble être l'éléphant. En effet, les éléphants de forêt d'Afrique jouent un rôle clé dans la dispersion des graines de cet arbre. Selon une étude, les graines qui sont passées par les éléphants avaient une chance de germination de 50,7%, tandis que celles récoltées directement sur l'arbre avaient une chance de germination de 3%. Bien que les éléphants ne soient pas essentiels à la germination des graines, ils augmente grandement les probabilités et jouent un rôle vital sur leur dispersion."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "FU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ALG",
+      "BEN",
+      "CAB",
+      "CAF",
+      "CMN",
+      "CON",
+      "GAB",
+      "GHA",
+      "GUI",
+      "IVO",
+      "LBR",
+      "MOZ",
+      "NGA",
+      "UGA",
+      "ZAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/873126-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/873126-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

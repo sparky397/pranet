@@ -1,0 +1,104 @@
+{
+  "id": "wfo-0001010697",
+  "scientific_name": "Prunus humilis",
+  "authorship": "Bunge",
+  "family": "Rosaceae",
+  "synonyms": [
+    "Cerasus bungei (Walp.) Walp.",
+    "Cerasus humilis (Bunge) A.I.Baranov & Liou",
+    "Cerasus humilis (Bunge) S.Ya.Sokolov",
+    "Microcerasus humilis (Bunge) M.Roem.",
+    "Prunus bungei Walp."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "欧李"
+    ],
+    "ja": [
+      "コニワザクラ"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q3408641",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q3408641",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Prunus humilis",
+      "source_url": "https://en.wikipedia.org/wiki/Prunus_humilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1309329467,
+      "text": "Prunus humilis is a species of bush cherry native to northern China. It is cultivated for its edible fruit. Chloroplast DNA sequencing has shown that its closest relative is Prunus dictyoneura, at least as far as chloroplasts are concerned."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Prunus humilis",
+      "source_url": "https://fr.wikipedia.org/wiki/Prunus_humilis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 227922683,
+      "text": "Prunus humilis est une espèce de plantes à fleurs de la famille des Rosaceae. C'est un arbuste que l'on le trouve en Asie, notamment en Chine, à l'état sauvage."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "GS",
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "AMU",
+      "CHC",
+      "CHI",
+      "CHM",
+      "CHN",
+      "CHS",
+      "PRM"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/729801-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/729801-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0001010697.webp",
+    "author": "(c) Jane Charlen, some rights reserved (CC BY)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Chinese_dwarf_cherry_imported_from_iNaturalist_photo_367143956_on_25_June_2024.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

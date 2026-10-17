@@ -1,0 +1,151 @@
+{
+  "id": "wfo-0001022039",
+  "scientific_name": "Jaltomata procumbens",
+  "authorship": "(Cav.) J.L.Gentry",
+  "family": "Solanaceae",
+  "synonyms": [
+    "Atropa procumbens Cav.",
+    "Bellinia procumbens (Cav.) Roem. & Schult.",
+    "Jaltomata edulis Schltdl.",
+    "Saracha alata Dunal",
+    "Saracha allogona (Schltdl.) Schltdl.",
+    "Saracha caracasana Bitter",
+    "Saracha conspersa Miers",
+    "Saracha edulis (Schltdl.) Thell.",
+    "Saracha glabrata Miers",
+    "Saracha jaltomata Schltdl.",
+    "Saracha jaltonia Steud.",
+    "Saracha microsperma Bitter",
+    "Saracha miersii Dunal & A.DC.",
+    "Saracha procumbens Ruiz & Pav.",
+    "Saracha sessilis Greene",
+    "Saracha zuccagniana G.Don",
+    "Solanum allogonum Bernh.",
+    "Solanum allogonum Bernh. ex Schltdl.",
+    "Witheringia alata (Dunal) Miers",
+    "Witheringia allogona (Schltdl.) Miers",
+    "Witheringia candollei Miers",
+    "Witheringia glabrata (Miers) Miers",
+    "Witheringia jaltomata (Schltdl.) Miers",
+    "Witheringia procumbens (Ruiz & Pav.) Miers",
+    "Witheringia zuccagniana (G.Don) Miers"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "nah": [
+      "Cōzcatomatl"
+    ],
+    "ru": [
+      "Сараха съедобная"
+    ],
+    "arz": [
+      "جالتوماتا بروكومبين"
+    ],
+    "en": [
+      "creeping false holly"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q311064",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q311064",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Jaltomata procumbens",
+      "source_url": "https://en.wikipedia.org/wiki/Jaltomata_procumbens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1130552229,
+      "text": "Jaltomata procumbens, the creeping false holly, is a plant species native to Arizona, USA, Mexico, Central America, Colombia, Ecuador, and Venezuela. It grows as a weed in agricultural fields and other disturbed locations, but in many places the people protect it because of the edible fruits it produces."
+    },
+    "es": {
+      "source": "Wikipedia (es): Jaltomata procumbens",
+      "source_url": "https://es.wikipedia.org/wiki/Jaltomata_procumbens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 146017677,
+      "text": "El jaltomate es una hierba de la familia de las solanáceas. Mide hasta 90 cm de largo y tiene un tallo grueso y anguloso. Sus flores son blanco verdosas; produce bayas púrpuras o negras de 1 cm de diámetro muy jugosas. Habita en bosques de pino, encino, selva seca y matorral xerófilo, desde el nivel del mar hasta 3150 metros de altitud."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Jaltomata procumbens",
+      "source_url": "https://fr.wikipedia.org/wiki/Jaltomata_procumbens",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 239213580,
+      "text": "Jaltomata procumbens est une espèce de plantes à fleurs de la famille des Solanaceae. L'aire de répartition native de cette espèce va de l'Arizona au Venezuela et à l'ouest de la Bolivie. C'est une plante vivace ou un sous-arbrisseau et elle pousse principalement dans le biome tropical humide. Elle est utilisée comme médicament et pour l'alimentation."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ARI",
+      "BOL",
+      "CLM",
+      "COS",
+      "ECU",
+      "ELS",
+      "GUA",
+      "HON",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "introduced": [
+      "GER",
+      "JAW",
+      "MRY"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/131311-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial or subshrub",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/131311-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0001022039.webp",
+    "author": "User:Carstor",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Jaltomata_procumbens_flower.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-14"
+  }
+}

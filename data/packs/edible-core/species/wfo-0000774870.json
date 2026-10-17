@@ -1,0 +1,83 @@
+{
+  "id": "wfo-0000774870",
+  "scientific_name": "Barringtonia edulis",
+  "authorship": "Seem.",
+  "family": "Lecythidaceae",
+  "synonyms": [
+    "Butonica edulis (Seem.) Miers",
+    "Huttum edule (Seem.) Britten"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "芙荼"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15390823",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15390823",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Barringtonia edulis",
+      "source_url": "https://en.wikipedia.org/wiki/Barringtonia_edulis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1270798318,
+      "text": "Barringtonia edulis is a species of tree with edible fruits from the southwestern Pacific region, being found on Fiji and Vanuatu. Common names include cut nut, pao nut, boxfruit tree, heart tree, and yum-yum tree. It was first described in 1866 by Berthold Carl Seeman."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "FIJ",
+      "VAN"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/591196-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/591196-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000774870.webp",
+    "author": "Forest and Kim Starr",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Starr-130312-2391-Barringtonia_edulis-habit-Pali_o_Waipio_Huelo-Maui_(24576596434).jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

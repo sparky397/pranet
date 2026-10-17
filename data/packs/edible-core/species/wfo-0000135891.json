@@ -1,0 +1,136 @@
+{
+  "id": "wfo-0000135891",
+  "scientific_name": "Eupatorium chinense",
+  "authorship": "L.",
+  "family": "Asteraceae",
+  "synonyms": [
+    "Eupatorium album Thunb.",
+    "Eupatorium crenatifolium Hand.-Mazz.",
+    "Eupatorium hakonense Nakai",
+    "Eupatorium japonicum Thunb.",
+    "Eupatorium laciniatum Kitam.",
+    "Eupatorium mairei Leveille",
+    "Eupatorium melanadenium Hance",
+    "Eupatorium sinense J.F.Gmel.",
+    "Eupatorium tozanense Hayata",
+    "Eupatorium wallichii DC.",
+    "Mikania clematidea Wall. ex DC."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "多须公",
+      "华泽兰",
+      "广东土牛膝",
+      "六月雪"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q5409954",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q5409954",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Eupatorium chinense",
+      "source_url": "https://en.wikipedia.org/wiki/Eupatorium_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1306383147,
+      "text": "Eupatorium chinense is a plant species in the family Asteraceae. The exact boundaries of this species have been defined differently by different authors. King and Robinson's 1987 paper defines it broadly, to include Eupatorium japonicum, Eupatorium makinoi, some varieties of Eupatorium fortunei, and other plants sometimes considered to be separate species."
+    },
+    "es": {
+      "source": "Wikipedia (es): Eupatorium chinense",
+      "source_url": "https://es.wikipedia.org/wiki/Eupatorium_chinense",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 171582159,
+      "text": "Eupatorium chinense es una planta herbácea de la familia Asteraceae."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia (en): Eupatorium chinense § Toxicity",
+        "source_url": "https://en.wikipedia.org/wiki/Eupatorium_chinense#Toxicity",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 1306383147,
+        "heading": "Toxicity",
+        "text": "Eupatorium chinense contains tumorigenic pyrrolizidine alkaloids.",
+        "truncated": false
+      },
+      "es": {
+        "source": "Wikipedia (es): Eupatorium chinense § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Eupatorium_chinense#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 171582159,
+        "heading": "Toxicidad",
+        "text": "Eupatorium chinense contiene alcaloide pirrolizidínico tumorígenos.​",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "CHC",
+      "CHH",
+      "CHN",
+      "CHS",
+      "JAP",
+      "KOR",
+      "TAI",
+      "VIE"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/205624-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "perennial",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/205624-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000135891.webp",
+    "author": "Σ64",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Eupatorium_chinense_var._sachalinense_01.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 267,
+    "retrieved": "2026-10-14"
+  }
+}

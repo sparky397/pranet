@@ -1,0 +1,121 @@
+{
+  "id": "wfo-0000374730",
+  "scientific_name": "Myrianthus arboreus",
+  "authorship": "P.Beauv.",
+  "family": "Urticaceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "sg": [
+      "Ngbôlô"
+    ],
+    "ki": [
+      "Mũtuya"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15612105",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15612105",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Myrianthus arboreus",
+      "source_url": "https://en.wikipedia.org/wiki/Myrianthus_arboreus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1330132854,
+      "text": "Myrianthus arboreus, commonly known as the giant yellow mulberry or monkey fruit, is a dioecious tropical tree in the genus Myrianthus. It lives in the tropical Central African countries of Central African Republic, Gabon, Cameroon, Nigeria, and Tanzania, and also Ghana in the West African countries. Its chromosome count is 2n = 28."
+    },
+    "es": {
+      "source": "Wikipedia (es): Myrianthus arboreus",
+      "source_url": "https://es.wikipedia.org/wiki/Myrianthus_arboreus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 154347956,
+      "text": "Myrianthus arboreus es una especie de planta de la familia Urticaceae. Son propias de las zonas tropicales de África."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Myrianthus arboreus",
+      "source_url": "https://fr.wikipedia.org/wiki/Myrianthus_arboreus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 238093378,
+      "text": "Myrianthus arboreus, encore appelé arbre à pain indigène, est une espèce de plantes à fleurs de genre Myrianthus et de la famille des Cecropiaceae ou Urticaceae selon la classification phylogénétique. C'est un arbre dioïque. Cet arbre fruitier pousse dans la zone forestière d'Afrique tropicale. Au Cameroun, la plante est appelée Kogom par les Bassa et Angokong par les Bulu. Il est aussi appelé Ngata au Congo."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "FU",
+      "GS",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "BUR",
+      "CAF",
+      "CMN",
+      "CON",
+      "ETH",
+      "GAB",
+      "GHA",
+      "GUI",
+      "IVO",
+      "LBR",
+      "NGA",
+      "SIE",
+      "SUD",
+      "TAN",
+      "TOG",
+      "UGA",
+      "ZAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/854739-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/854739-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000374730.webp",
+    "author": "AGRIPO",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fruits_de_Mirianthus_arboreus_du_village_de_Tayap.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-14"
+  }
+}

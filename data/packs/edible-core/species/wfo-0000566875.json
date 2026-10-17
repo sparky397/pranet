@@ -1,0 +1,91 @@
+{
+  "id": "wfo-0000566875",
+  "scientific_name": "Blighia welwitschii",
+  "authorship": "(Hiern) Radlk.",
+  "family": "Sapindaceae",
+  "synonyms": [
+    "Blighia kamerunensis Radlk.",
+    "Blighia laurentii De Wild.",
+    "Blighia mildbraedii Radlk.",
+    "Blighia wildemaniana Gilg ex De Wild. & Radlk.",
+    "Phialodiscus bancoensis Aubrév. & Pellegr.",
+    "Phialodiscus mortehanii De Wild.",
+    "Phialodiscus welwitschii Hiern"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "en": [
+      "English Wikipedia"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15546174",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15546174",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): English Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/English_Wikipedia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1377055513,
+      "text": "The English Wikipedia is the primary English-language edition of Wikipedia, an online encyclopedia. It was created by Jimmy Wales and Larry Sanger on 15 January 2001, as Wikipedia's first edition."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "FU",
+      "HF",
+      "MA",
+      "ME",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "BEN",
+      "CAB",
+      "CAF",
+      "CMN",
+      "CON",
+      "GAB",
+      "GHA",
+      "GUI",
+      "IVO",
+      "LBR",
+      "NGA",
+      "SIE",
+      "UGA",
+      "ZAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/782154-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/782154-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

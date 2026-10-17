@@ -1,0 +1,113 @@
+{
+  "id": "wfo-0000502978",
+  "scientific_name": "Strychnos icaja",
+  "authorship": "Baill.",
+  "family": "Loganiaceae",
+  "synonyms": [
+    "Strychnos brachyura Gilg",
+    "Strychnos dewevrei Gilg",
+    "Strychnos dundusanensis De Wild.",
+    "Strychnos kipapa Gilg",
+    "Strychnos mildbraedii Gilg",
+    "Strychnos pusilliflora S.Moore",
+    "Strychnos venulosa Hutch. & M.B.Moss"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "sg": [
+      "Mbëngë"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15348074",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15348074",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Strychnos icaja",
+      "source_url": "https://en.wikipedia.org/wiki/Strychnos_icaja",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1356403545,
+      "text": "Strychnos icaja is a species belonging to the plant family Loganiaceae, native to West Tropical Africa. It is a very large, tropical rainforest liana which may attain a length of 100 m (330 ft)."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Strychnos icaja",
+      "source_url": "https://fr.wikipedia.org/wiki/Strychnos_icaja",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 204928579,
+      "text": "Strychnos icaja est une espèce de plantes dicotylédones de la famille des Loganiaceae, originaire de l'Afrique tropicale."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "en": {
+        "source": "Wikipedia (en): Strychnos icaja § Poison",
+        "source_url": "https://en.wikipedia.org/wiki/Strychnos_icaja#Poison",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 1356403545,
+        "heading": "Poison",
+        "text": "The earliest reliable account of the use of the plant as both poison and entheogen is to be found in a short paper by Aubry-Lecomte of 1864, predating the publication of its scientific name by 15 years. The relevant passage runs as follows:\n\n Monsieur Duchaillu has already spoken ( in a work well-received by those who have travelled in the interior of Gabon - despite its measure of exaggeration) of the effects of the poison M'boundou; the notes and specimens lately brought back from that country by Monsieur Griffon du Bellay, naval surgeon first class, confirm, on the whole, the description given by this traveller [Duchaillu]. The plant M'boundou belongs to the genus Strychnos of the family Loganiaceae, and the infusion of the reddish bark of its root is held by the natives of Cape Lopez to confer (upon him who does not die after having drunk it) the power of divination. Taken in small doses, it is said to be intoxicating and diuretic; but at a dose of half a bowl of grated root infused for half an hour in a bowl of water, it almost always proves lethal. However, the Ogangas (native healers) are considered to be immune to its effects; although they take care, it is true, to gulp down palm oil before drinking M'boundou , which attenuates the violence of the poison and facilitates its excretion via the urinary ducts; it is doubtless from accounts of this precaution that there derives the assertion of Monsieur Duchaillu that the surest sign that one undergoing the ordeal will survive it, is a frequent and involuntary passing of urine.",
+        "truncated": true
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BEN",
+      "CAF",
+      "CMN",
+      "CON",
+      "EQG",
+      "GAB",
+      "GHA",
+      "GUI",
+      "IVO",
+      "LBR",
+      "NGA",
+      "SIE",
+      "ZAI"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/547240-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "liana",
+    "climate_description": "wet tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/547240-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

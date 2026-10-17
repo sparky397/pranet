@@ -1,0 +1,115 @@
+{
+  "id": "wfo-0001100855",
+  "scientific_name": "Rumex hymenosepalus",
+  "authorship": "Torr.",
+  "family": "Polygonaceae",
+  "synonyms": [
+    "Rumex arizonicus Britton",
+    "Rumex salinus A.Nelson",
+    "Rumex saxei Kellogg"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "nv": [
+      "Chąąʼinii"
+    ],
+    "en": [
+      "canaigre dock"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q2716783",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q2716783",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Rumex hymenosepalus",
+      "source_url": "https://en.wikipedia.org/wiki/Rumex_hymenosepalus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1083717746,
+      "text": "Rumex hymenosepalus, commonly known as canaigre, canaigre dock, ganagra, wild rhubarb, Arizona dock, and tanner's dock, is a perennial flowering plant which is native to the North American deserts in the southwestern United States and northern Mexico. It is a common food plant of the ruddy copper larvae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Rumex hymenosepalus",
+      "source_url": "https://es.wikipedia.org/wiki/Rumex_hymenosepalus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 154738556,
+      "text": "Rumex hymenosepalus Torr. es una especie de planta perenne fanerógama de la familia de las poligonáceas."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Rumex hymenosepalus",
+      "source_url": "https://fr.wikipedia.org/wiki/Rumex_hymenosepalus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 205674986,
+      "text": "Rumex hymenosepalus, la Canaigre, est une espèce végétale de la famille des Polygonacées."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ARI",
+      "CAL",
+      "COL",
+      "MNT",
+      "MXE",
+      "MXN",
+      "NEV",
+      "NWM",
+      "OKL",
+      "TEX",
+      "UTA",
+      "WYO"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/697204-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "rhizomatous perennial",
+    "climate_description": "temperate",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/697204-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0001100855.webp",
+    "author": "Stan Shebs",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Rumex_hymenosepalus_2.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 302,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

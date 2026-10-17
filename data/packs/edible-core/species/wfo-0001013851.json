@@ -1,0 +1,98 @@
+{
+  "id": "wfo-0001013851",
+  "scientific_name": "Prunus fremontii",
+  "authorship": "S.Watson",
+  "family": "Rosaceae",
+  "synonyms": [
+    "Amygdalus fremontii (S.Watson) Abrams",
+    "Emplectocladus fremontii (S.Watson) Dayton"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "zh": [
+      "沙漠杏"
+    ],
+    "arz": [
+      "برونوس فريمونتى"
+    ],
+    "en": [
+      "desert apricot"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q1195845",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q1195845",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Prunus fremontii",
+      "source_url": "https://en.wikipedia.org/wiki/Prunus_fremontii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1371772516,
+      "text": "Prunus fremontii is a North American species of plants in the rose family, known by the common name desert apricot."
+    },
+    "es": {
+      "source": "Wikipedia (es): Prunus fremontii",
+      "source_url": "https://es.wikipedia.org/wiki/Prunus_fremontii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 136542707,
+      "text": "Prunus fremontii es una especie de arbusto perteneciente a la familia de las rosáceas."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "PO"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "CAL",
+      "MXN"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/210775-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "desert or dry shrubland",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/210775-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0001013851.webp",
+    "author": "Florian Boyd",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Prunus_fremontii_closeup.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 300,
+    "retrieved": "2026-10-14"
+  }
+}

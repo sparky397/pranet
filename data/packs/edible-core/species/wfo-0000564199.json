@@ -1,0 +1,111 @@
+{
+  "id": "wfo-0000564199",
+  "scientific_name": "Berchemia zeyheri",
+  "authorship": "(Sond.) Grubov",
+  "family": "Rhamnaceae",
+  "synonyms": [
+    "Phyllogeiton zeyheri (Sond.) Suess.",
+    "Rhamnus zeyheri Sond."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "en": [
+      "Pink ivory",
+      "pink ebony"
+    ],
+    "fr": [
+      "Phyllogeiton zeyheri"
+    ],
+    "af": [
+      "Rooi-ivoor"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q22116738",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q22116738",
+  "search_names": {
+    "en": [
+      "pink ivory"
+    ]
+  },
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Pink ivory",
+      "source_url": "https://en.wikipedia.org/wiki/Pink_ivory",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1375477955,
+      "text": "Pink ivory, also called red ivory, purple ivory, unnini or umgoloti, is an African hardwood used to make a variety of products. The pink ivory tree grows predominantly in Zimbabwe, Mozambique, Northern Botswana and South Africa. The tree is protected and sustainably maintained in South Africa, only felled by very limited permit. The wood is extremely hard, with a density of 990 g/dm3."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Phyllogeiton zeyheri",
+      "source_url": "https://fr.wikipedia.org/wiki/Phyllogeiton_zeyheri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 237650365,
+      "text": "Phyllogeiton zeyheri est une espèce de plantes à fleurs de la famille des Rhamnaceae originaire d'Afrique australe."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "GS",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BOT",
+      "CPP",
+      "MOZ",
+      "NAM",
+      "NAT",
+      "SWZ",
+      "TVL",
+      "ZIM"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/717972-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "subtropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/717972-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000564199.webp",
+    "author": "JMK",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Berchemia_zeyheri,_blare_en_blomknoppe,_Manie_van_der_Schijff_BT.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 289,
+    "retrieved": "2026-10-14"
+  }
+}

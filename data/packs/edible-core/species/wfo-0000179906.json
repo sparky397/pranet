@@ -1,0 +1,103 @@
+{
+  "id": "wfo-0000179906",
+  "scientific_name": "Albizia coriaria",
+  "authorship": "Welw. ex Oliv.",
+  "family": "Fabaceae",
+  "synonyms": [
+    "Albizia katangensis De Wild.",
+    "Albizia poissonii A.Chev.",
+    "Feuilleea coriaria (Welw. ex Oliv.) Kuntze"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "ha": [
+      "Corawa mahalbi"
+    ],
+    "zh": [
+      "鞣革合欢"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15499590",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15499590",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Albizia coriaria",
+      "source_url": "https://en.wikipedia.org/wiki/Albizia_coriaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1367361652,
+      "text": "Albizia coriaria is a deciduous tree native to Tropical Africa belonging to the family Fabaceae, the root and stem bark are widely used in traditional medicine to treat a variety of diseases."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Albizia coriaria",
+      "source_url": "https://fr.wikipedia.org/wiki/Albizia_coriaria",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 224797444,
+      "text": "Albizia coriaria est une espèce de plantes à fleurs de la famille des Fabaceae. C'est un arbre à feuilles caduques originaire d'Afrique tropicale, dont la racine et l'écorce de la tige sont largement utilisées dans la médecine traditionnelle pour traiter une variété de maladies."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "HF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "BEN",
+      "BUR",
+      "CAF",
+      "CMN",
+      "ETH",
+      "GHA",
+      "IVO",
+      "KEN",
+      "NGA",
+      "SUD",
+      "TAN",
+      "TOG",
+      "UGA",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/473213-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/473213-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "wfo-0000608620",
+  "scientific_name": "Clausena anisata",
+  "authorship": "(Willd.) Hook.f.",
+  "family": "Rutaceae",
+  "synonyms": [
+    "Amyris anisata Willd.",
+    "Amyris dentata Willd.",
+    "Amyris inaequalis Spreng.",
+    "Amyris nana Roxb.",
+    "Amyris suffruticosa Roxb.",
+    "Clausena abyssinica Engl.",
+    "Clausena bergeyckiana De Wild. & T.Durand",
+    "Clausena dentata (Willd.) M.Roem.",
+    "Clausena dunniana H.Lév.",
+    "Clausena inaequalis (DC.) Benth.",
+    "Clausena longipes Craib",
+    "Clausena nana Wight & Arn.",
+    "Clausena odorata C.C.Huang",
+    "Clausena pobeguinii Pobég.",
+    "Clausena pubescens Wight & Arn.",
+    "Clausena suffruticosa (Roxb.) Wight & Arn.",
+    "Clausena vestita D.D.Tao",
+    "Clausena wightii M.Roem.",
+    "Clausena willdenowii Wight & Arn.",
+    "Cookia anisata Desf.",
+    "Cookia dulcis Bedd.",
+    "Elaphrium inaequale DC.",
+    "Fagara tenuifolia (Engl.) Engl.",
+    "Fagara tenuifolia Engl.",
+    "Fagarastrum anisatum G.Don",
+    "Fagarastrum inaequale G.Don",
+    "Icica dentata DC.",
+    "Myaris inaequalis C.Presl",
+    "Zanthoxylum engleri P.G.Waterman"
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "ml": [
+      "സുഗന്ധവേപ്പ്"
+    ],
+    "am": [
+      "ልምጭ"
+    ],
+    "zh": [
+      "香黄皮"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15389244",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15389244",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Clausena anisata",
+      "source_url": "https://en.wikipedia.org/wiki/Clausena_anisata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1355690237,
+      "text": "Clausena anisata is a deciduous shrub or small tree, belonging to the Rutaceae (citrus) family, and widespread in the Sub-Saharan Africa, but absent from drier regions. It is also found in tropical and South-East Asia, India and Sri Lanka. It is cultivated in Malaysia and Indonesia. As with other plants useful to mankind its large range of medicinal properties has led to a global distribution and its growth wherever the climate is suitable. It grows in higher-rainfall regions in savanna, thickets, riverine forest, disturbed areas and secondary forest, up to an altitude of 3000 m. The leaves, which are foetid when bruised, give rise to the common name horsewood or the more descriptive Afrikaans common name perdepis, meaning 'horse urine'."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Clausena anisata",
+      "source_url": "https://fr.wikipedia.org/wiki/Clausena_anisata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 222953095,
+      "text": "Clausena anisata est une espèce de plantes à fleurs de la famille des Rutaceae et du genre Clausena."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "FU",
+      "GS",
+      "HF",
+      "IF",
+      "MA",
+      "ME",
+      "PO",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "ANG",
+      "ASS",
+      "BAN",
+      "BEN",
+      "BUR",
+      "CAF",
+      "CHA",
+      "CHC",
+      "CHS",
+      "CMN",
+      "CON",
+      "CPP",
+      "EHM",
+      "ETH",
+      "GAB",
+      "GGI",
+      "GHA",
+      "GUI",
+      "IND",
+      "IVO",
+      "KEN",
+      "LAO",
+      "MLI",
+      "MLW",
+      "MOZ",
+      "MYA",
+      "NAT",
+      "NEP",
+      "NGA",
+      "OFS",
+      "RWA",
+      "SIE",
+      "SRL",
+      "SUD",
+      "SWZ",
+      "TAN",
+      "THA",
+      "TOG",
+      "TVL",
+      "UGA",
+      "VIE",
+      "ZAI",
+      "ZAM",
+      "ZIM"
+    ],
+    "introduced": [
+      "TRT"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/772111-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/772111-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000608620.webp",
+    "author": "SAplants",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Clausena_anisata_1DS-II_4-4216.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 267,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

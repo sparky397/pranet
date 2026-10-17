@@ -1,0 +1,58 @@
+{
+  "id": "wfo-0000211967",
+  "scientific_name": "Baphia kirkii",
+  "authorship": "Baker",
+  "family": "Fabaceae",
+  "synonyms": [],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q5450688",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Baphia kirkii",
+      "source_url": "https://en.wikipedia.org/wiki/Baphia_kirkii",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1314038563,
+      "text": "Baphia kirkii is a species of plant in the family Fabaceae. It is found in Mozambique, Tanzania, and possibly Kenya. It is threatened by habitat loss."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "KEN",
+      "MOZ",
+      "TAN"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/480872-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/480872-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "wfo-0000165906",
+  "scientific_name": "Erythrina poeppigiana",
+  "authorship": "(Walp.) O.F.Cook",
+  "family": "Fabaceae",
+  "synonyms": [
+    "Erythrina amasisa Spruce",
+    "Erythrina darienensis Standl.",
+    "Erythrina micropteryx Poepp. ex Urb.",
+    "Erythrina micropteryx Urb.",
+    "Erythrina micropteryx Walp.",
+    "Erythrina pisamo Posada-Ar.",
+    "Micropteryx poepiggiana Walp.",
+    "Micropteryx poeppigiana Walp."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "qu": [
+      "Chuku yura"
+    ],
+    "en": [
+      "mountain immortelle"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q5837321",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q5837321",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Erythrina poeppigiana",
+      "source_url": "https://en.wikipedia.org/wiki/Erythrina_poeppigiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1368204178,
+      "text": "Erythrina poeppigiana, called the mountain immortelle, is a species of flowering plant in the genus Erythrina, native to northern and western South America, and introduced to various places in Central America, the Caribbean, Africa, India and tropical Asia. Its striking display of orange flowers has led to its use as an ornamental street tree. It is the emblematic state tree of Mérida, Venezuela. Widely cultivated, it is a nitrogen fixer and a source of fodder."
+    },
+    "es": {
+      "source": "Wikipedia (es): Erythrina poeppigiana",
+      "source_url": "https://es.wikipedia.org/wiki/Erythrina_poeppigiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 175416902,
+      "text": "Erythrina poeppigiana conocido como bucare ceibo, cámbulo, písamo, poró, cachimbo y cachingo es un árbol caducifolio de la familia Fabaceae nativo la zona intertropical de Centroamérica, Sudamérica y Antillas Mayores. Es usado por su valor ornamental debido a su amplia floración y para dar sombra a otros cultivos."
+    },
+    "fr": {
+      "source": "Wikipedia (fr): Erythrina poeppigiana",
+      "source_url": "https://fr.wikipedia.org/wiki/Erythrina_poeppigiana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 233160700,
+      "text": "Erythrina poeppigiana est une espèce de plantes dicotylédones de la famille des Fabaceae, sous-famille des Faboideae. C'est un arbre originaire d'Amérique du Sud et d'Amérique centrale."
+    }
+  },
+  "sections": {
+    "toxicity": {
+      "es": {
+        "source": "Wikipedia (es): Erythrina poeppigiana § Toxicidad",
+        "source_url": "https://es.wikipedia.org/wiki/Erythrina_poeppigiana#Toxicidad",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "retrieved": "2026-10-14",
+        "revision": 175416902,
+        "heading": "Toxicidad",
+        "text": "Las partes aéreas de las especies del género Erythrina pueden contener alcaloides, tales como la eritralina y la erisodina, cuya ingestión puede suponer un riesgo para la salud.​ El fruto es tóxico para el ganado.​",
+        "truncated": false
+      }
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "AGW",
+      "BOL",
+      "BZN",
+      "CLM",
+      "ECU",
+      "FRG",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "introduced": [
+      "ANG",
+      "COS",
+      "CUB",
+      "DOM",
+      "ELS",
+      "GGI",
+      "GUA",
+      "HAI",
+      "HON",
+      "IND",
+      "JAM",
+      "JAW",
+      "KEN",
+      "LEE",
+      "MLY",
+      "NGA",
+      "PUE",
+      "SIE",
+      "TAN",
+      "TRT",
+      "UGA",
+      "WIN",
+      "ZAI"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/96637-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/96637-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000165906.webp",
+    "author": "Veronidae",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Erythrina_poeppigiana_(Walp.)_O.F.Cook_-_2013_005.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "wfo-0000173760",
+  "scientific_name": "Calliandra houstoniana",
+  "authorship": "(Mill.) Standl.",
+  "family": "Fabaceae",
+  "synonyms": [
+    "Acacia houstoni (L'Her.) Willd.",
+    "Acacia metrosiderifolia Schltdl.",
+    "Anneslia houstoniana (Mill.) Britton & Rose",
+    "Anneslia lucens Britton & Rose",
+    "Calliandra metrosiderifolia Benth.",
+    "Mimosa houstoni L'Her.",
+    "Mimosa houstoniana Mill."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q5021949",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Calliandra houstoniana",
+      "source_url": "https://en.wikipedia.org/wiki/Calliandra_houstoniana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1306637611,
+      "text": "Calliandra houstoniana is a species of flowering plants of the genus Calliandra in the family Fabaceae."
+    },
+    "es": {
+      "source": "Wikipedia (es): Calliandra houstoniana",
+      "source_url": "https://es.wikipedia.org/wiki/Calliandra_houstoniana",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 174573968,
+      "text": "Calliandra houstoniana es una especie de planta medicinal perteneciente a la familia de las fabáceas. Originaria de México y Centroamérica se ha introducido ampliamente en los trópicos del mundo, y en parte naturalizada."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "AF",
+      "EU",
+      "FU",
+      "HF",
+      "MA",
+      "ME"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BLZ",
+      "ELS",
+      "GUA",
+      "HON",
+      "MXC",
+      "MXE",
+      "MXG",
+      "MXN",
+      "MXS",
+      "MXT",
+      "NIC"
+    ],
+    "introduced": [
+      "KEN",
+      "ZIM"
+    ],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/42191-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "shrub or tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/42191-2",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000173760.webp",
+    "author": "Forest & Kim Starr",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Starr_061212-2308_Calliandra_houstoniana_var._calothyrsus.jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 300,
+    "height": 400,
+    "retrieved": "2026-10-14"
+  }
+}

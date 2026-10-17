@@ -1,0 +1,112 @@
+{
+  "id": "wfo-0000689763",
+  "scientific_name": "Ficus platyphylla",
+  "authorship": "Delile",
+  "family": "Moraceae",
+  "synonyms": [
+    "Ficus kotschyana (Miq.) Miq.",
+    "Ficus lateralis Warb.",
+    "Urostigma binderianum Kotschy",
+    "Urostigma kotschyanum Miq."
+  ],
+  "taxonomy_source": {
+    "source": "World Flora Online Plant List 2026-06",
+    "source_url": "https://zenodo.org/records/20782718",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-14"
+  },
+  "names": {
+    "ff": [
+      "Dundeehi"
+    ],
+    "dag": [
+      "Galinʒiɛɣu"
+    ],
+    "bm": [
+      "Nkaba"
+    ]
+  },
+  "names_source": {
+    "source": "Wikipedia の記事名と Wikidata",
+    "source_url": "https://www.wikidata.org/wiki/Q15475926",
+    "license": "CC0 1.0（Wikidata）。記事名は事実",
+    "retrieved": "2026-10-14"
+  },
+  "wikidata": "Q15475926",
+  "description": {
+    "en": {
+      "source": "Wikipedia (en): Ficus platyphylla",
+      "source_url": "https://en.wikipedia.org/wiki/Ficus_platyphylla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "retrieved": "2026-10-14",
+      "revision": 1373470933,
+      "text": "Ficus platyphylla is a deciduous tree within the family Moraceae. Common local names include Gamji in Hausa and Gaba or Kobo in Bambara. It is native to western and eastern tropical Africa."
+    }
+  },
+  "edible": {
+    "is_food": true,
+    "use_codes": [
+      "EU",
+      "FU",
+      "HF",
+      "MA",
+      "ME",
+      "SU"
+    ],
+    "source": "World Checklist of Useful Plant Species (Diazgranados et al. 2020, RBG Kew)",
+    "source_url": "https://doi.org/10.5063/F1CV4G34",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-14"
+  },
+  "distribution": {
+    "native": [
+      "BEN",
+      "BKN",
+      "CAF",
+      "CHA",
+      "CMN",
+      "DJI",
+      "ETH",
+      "GAM",
+      "GHA",
+      "GNB",
+      "GUI",
+      "IVO",
+      "MLI",
+      "NGA",
+      "NGR",
+      "SEN",
+      "SOM",
+      "SUD",
+      "TOG",
+      "UGA"
+    ],
+    "introduced": [],
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/853433-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "traits_raw": {
+    "lifeform_description": "tree",
+    "climate_description": "seasonally dry tropical",
+    "source": "World Checklist of Vascular Plants (WCVP), RBG Kew, version 2026-06-04",
+    "source_url": "https://powo.science.kew.org/taxon/853433-1",
+    "license": "CC BY 3.0",
+    "retrieved": "2026-10-14"
+  },
+  "photo": {
+    "file": "photos/wfo-0000689763.webp",
+    "author": "Ji-Elle",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ficus_platyphylla-Jardin_botanique_Meise_(4).jpg",
+    "modified": true,
+    "modification": "縮小（長辺 400px 以下、WebP に変換）",
+    "width": 400,
+    "height": 267,
+    "retrieved": "2026-10-14"
+  }
+}
