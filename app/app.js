@@ -457,6 +457,9 @@
     // 節が無いときは null が返る。DOM の append は null を文字 "null" にしてしまうので、自前の append を使う
     append(body, sectionBlock("☠ " + t("toxicity"), pickLang(sec.toxicity)));
     append(body, sectionBlock("🌱 " + t("cultivation"), pickLang(sec.cultivation)));
+    // 伝統的な利用の記録（薬用・民間療法を含む）。「記録がある」だけを示し、効能や用量は書かない。免責を節の先頭に置く
+    var usesBlock = sectionBlock("📖 " + t("uses_record"), pickLang(sec.uses));
+    if (usesBlock) { usesBlock.insertBefore(el("p", { class: "warn", text: t("uses_disclaimer") }), usesBlock.children[1] || null); append(body, usesBlock); }
 
     var areaName = function (c) { return names[c] || c; };
     body.append(section(t("distribution"), dist

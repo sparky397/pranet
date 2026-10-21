@@ -19,13 +19,21 @@ import urllib.parse
 from common import http_get_json, load_json, log, read_species_list, save_json, today, work_path
 
 LANG_ORDER = ["ja", "en", "es", "fr", "pt", "id"]
+# 節の見出し。言語ごとに候補を並べ、複数当たるときは先に書いたものを採る（例：Uses より Traditional medicine）
 SECTION_PATTERNS = {
-    "cultivation": {"ja": r"^(栽培|育て方|栽培方法|栽培法|農業)$", "en": r"^(Cultivation|Growing|Horticulture|Agriculture|Farming)$",
-                    "es": r"^(Cultivo|Cultivos|Agricultura|Producción)$", "fr": r"^(Culture|Cultures|Agriculture|Horticulture)$",
-                    "pt": r"^(Cultivo|Cultivos|Agricultura|Plantio)$", "id": r"^(Budidaya|Budi daya|Pembudidayaan|Penanaman)$"},
-    "toxicity": {"ja": r"^(毒性|毒|有毒性|毒性と安全性)$", "en": r"^(Toxicity|Poison|Poisoning|Safety|Toxicology)$",
-                 "es": r"^(Toxicidad|Toxicología|Veneno)$", "fr": r"^(Toxicité|Toxicologie|Poison)$",
-                 "pt": r"^(Toxicidade|Toxicologia|Veneno)$", "id": r"^(Toksisitas|Racun|Keracunan)$"},
+    "cultivation": {"ja": ["栽培", "育て方", "栽培方法", "栽培法", "農業"], "en": ["Cultivation", "Growing", "Horticulture", "Agriculture", "Farming"],
+                    "es": ["Cultivo", "Cultivos", "Agricultura", "Producción"], "fr": ["Culture", "Cultures", "Agriculture", "Horticulture"],
+                    "pt": ["Cultivo", "Cultivos", "Agricultura", "Plantio"], "id": ["Budidaya", "Budi daya", "Pembudidayaan", "Penanaman"]},
+    "toxicity": {"ja": ["毒性", "毒", "有毒性", "毒性と安全性"], "en": ["Toxicity", "Poison", "Poisoning", "Safety", "Toxicology"],
+                 "es": ["Toxicidad", "Toxicología", "Veneno"], "fr": ["Toxicité", "Toxicologie", "Poison"],
+                 "pt": ["Toxicidade", "Toxicologia", "Veneno"], "id": ["Toksisitas", "Racun", "Keracunan"]},
+    # 伝統的な利用の記録（薬用・民間療法を含む）。「効く」ではなく「記録がある」として表示する。薬用の見出しを先に探す
+    "uses": {"ja": ["薬用", "薬効", "民間薬", "民間療法", "生薬", "薬用植物", "利用", "用途", "人間との関わり"],
+             "en": ["Traditional medicine", "Medicinal uses?", "Folk medicine", "Herbal medicine", "Ethnobotany", "Ethnomedicine", "Medicine", "Uses?", "Human uses?", "Economic uses?"],
+             "es": ["Usos? medicinal(?:es)?", "Medicina tradicional", "Propiedades medicinales", "Etnobotánica", "Usos?"],
+             "fr": ["Usages? médicina(?:l|ux)", "Utilisations? médicinales?", "Médecine traditionnelle", "Propriétés médicinales", "Ethnobotanique", "Utilisations?", "Usages?"],
+             "pt": ["Usos? medicina(?:l|is)", "Medicina popular", "Medicina tradicional", "Propriedades medicinais", "Etnobotânica", "Usos?", "Utilização", "Utilidades?"],
+             "id": ["Pengobatan tradisional", "Obat tradisional", "Khasiat", "Manfaat", "Kegunaan", "Pemanfaatan", "Penggunaan"]},
 }
 MAX_CHARS = 1800
 
@@ -71,12 +79,18 @@ def fetch_sections(lang: str, title: str, page_url: str) -> dict:
     heads = [(m.start(), m.end(), len(m.group(1)), m.group(2).strip()) for m in re.finditer(r"^(={2,4}) (.+?) \1$", text, re.M)]
     out = {}
     for key, pats in SECTION_PATTERNS.items():
-        pat = re.compile(pats[lang]) if lang in pats else None
-        if not pat:
+        alts = pats.get(lang)
+        if not alts:
             continue
-        for i, (start, end, level, name) in enumerate(heads):
-            if not pat.match(name):
-                continue
+        def rank(nm):
+            for j, a in enumerate(alts):
+                if re.fullmatch(a, nm):
+                    return j
+            return None
+        matched = [(rank(name), i) for i, (_, _, _, name) in enumerate(heads)]
+        matched = [(r, i) for r, i in matched if r is not None]
+        for _, i in sorted(matched)[:1]:
+            start, end, level, name = heads[i]
             # この見出しから、同じか浅い見出しの手前まで（小見出しは含む）
             stop = len(text)
             for s2, _, l2, _ in heads[i + 1:]:
